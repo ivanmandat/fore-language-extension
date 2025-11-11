@@ -1,0 +1,8 @@
+.git/**
+node_modules/**
+.github/**
+.vscode/**
+**/*.vsix
+examples/**
+*.md
+

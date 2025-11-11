@@ -1,0 +1,55 @@
+{
+	"name": "foresight-fore-language",
+	"displayName": "foresight FORE Language",
+	"description": "Syntax highlighting and snippets for FORe (Foresight BI) desktop scripts.",
+	"version": "0.0.3",
+	"publisher": "krit-fs",
+	"engines": {
+		"vscode": "^1.60.0"
+	},
+	"categories": [
+		"Programming Languages"
+	],
+	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "https://example.com/fs-help/fore-language"
+	},
+	"keywords": [
+		"foresight",
+		"fore",
+		"bi",
+		"pascal",
+		"reports",
+		"prx"
+	],
+	"contributes": {
+		"languages": [
+			{
+				"id": "fore",
+				"aliases": [
+					"FORe",
+					"fore"
+				],
+				"extensions": [
+					".fore"
+				],
+				"configuration": "./language-configuration.json"
+			}
+		],
+		"grammars": [
+			{
+				"language": "fore",
+				"scopeName": "source.fore",
+				"path": "./syntaxes/fore.tmLanguage.json"
+			}
+		],
+		"snippets": [
+			{
+				"language": "fore",
+				"path": "./snippets/fore.json"
+			}
+		]
+	}
+}
+
