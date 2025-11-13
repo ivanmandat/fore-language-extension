@@ -1,0 +1,168 @@
+# FORe Language Rules for AI Assistants
+
+## Language Overview
+FORe (Foresight BI Desktop) is a Pascal-like scripting language for Foresight BI platform. It's NOT .NET (fore.net), but desktop version with different syntax.
+
+## Key Syntax Rules
+
+### Code Structure
+- Use `Public Class EventsClass: ReportEvents` for form event handlers
+- Procedures: `Public Sub Name(params); Begin ... End Sub Name;`
+- Functions: `Public Function Name(params): ReturnType; Begin ... Return value; End Function Name;`
+- Variables: `Var name: Type;` (no `Dim` or `var`)
+- Constants: `Const NAME = value;`
+
+### Control Flow
+- `If condition Then ... Else ... End If;` (If and Then usually on same line)
+- `For i := 0 To count Do ... End For;`
+- `While condition Do ... End While;`
+- `Try ... Except On e: Exception Do ... End Try;`
+- `Select Case value Case ... End Select;`
+
+### Operators
+- Assignment: `:=` (not `=`)
+- Comparison: `=`, `<>`, `<=`, `>=`, `<`, `>`
+- Logical: `And`, `Or`, `Not`, `Xor`
+
+### Common Patterns
+
+#### Accessing Report Controls
+```fore
+Report.Controls.FindById("controlId").Value := value;
+PrxReport.ActiveReport.Recalc;
+```
+
+#### Metabase Object Access
+```fore
+MetabaseClass.Active.ItemByIdNamespace("OBJECT_ID", BA_KEY).Open(Null) As IMetabaseObjectInstance;
+```
+
+#### SQL Execution
+```fore
+Var
+	db: IDatabaseInstance;
+	cmd: IDalCommand;
+	cur: IDalCursor;
+Begin
+	db := MetabaseClass.Active.ItemByIdNamespace("APPLICATION_DB", BA_KEY).Open(Null) As IDatabaseInstance;
+	cmd := db.Connection.CreateCommand("");
+	cmd.SQL := "select 1";
+	cur := cmd.CreateCursor;
+	While Not cur.Eof Do
+		// Process row
+		cur.MoveNext;
+	End While;
+	cur.Close;
+	cmd.Close;
+End
+```
+
+#### Dimension Iteration
+```fore
+Var
+	dim: IDimInstance;
+	i: Integer;
+Begin
+	dim := MetabaseClass.Active.ItemByIdNamespace("DICT_ID", BA_KEY).Open(Null) As IDimInstance;
+	For i := 0 To dim.Elements.Count - 1 Do
+		// Process element: dim.Elements.Name(i), dim.Elements.Id(i)
+	End For;
+End
+```
+
+## Common Interfaces
+
+### Report Interfaces
+- `IPrxReport` - Main report object
+- `IPrxControl` - Form control
+- `IPrxSheet` - Report sheet
+- `IPrxControls` - Collection of controls
+
+### Metabase Interfaces
+- `IMetabase` - Metabase instance
+- `IMetabaseObjectDescriptor` - Object metadata
+- `IMetabaseObjectInstance` - Opened object instance
+- `IMetabaseObjectParamValues` - Object parameters
+
+### Dimension Interfaces
+- `IDimInstance` - Dimension instance
+- `IDimSelection` - Selected elements
+- `IDimElements` - Collection of elements
+- `IDimElement` - Single element
+
+### Cube Interfaces
+- `ICubeInstance` - Cube instance
+- `ICubeSegment` - Cube segment
+- `ICubeSegmentContainer` - Segment container
+
+### Database Interfaces
+- `IDatabaseInstance` - Database connection
+- `IDalCommand` - SQL command
+- `IDalCursor` - Query result cursor
+
+## Event Handlers
+
+### Common EventsClass Structure
+```fore
+Public Class EventsClass: ReportEvents
+
+	Public Sub OnBeforeOpenReport(Report: IPrxReport; Var Cancel: Boolean);
+	Begin
+		// Initialize controls/parameters
+		Report.Recalc;
+	End Sub OnBeforeOpenReport;
+
+	Public Sub OnChangeControlValue(Control: IPrxControl);
+	Begin
+		// React to control changes
+		PrxReport.ActiveReport.Recalc;
+	End Sub OnChangeControlValue;
+
+End Class EventsClass;
+```
+
+## Best Practices
+
+1. Always use `:=` for assignment, not `=`
+2. Use `Null` (not `null` or `nil`) for null values
+3. Access controls via `Report.Controls.FindById("id")`
+4. Use `PrxReport.ActiveReport` for current report
+5. Always close cursors and commands: `cur.Close; cmd.Close;`
+6. Use `MetabaseClass.Active` for metabase access
+7. Check `Not cur.Eof` before reading cursor data
+8. Use `Try/Except` for error handling
+9. Use `Debug.WriteLine()` for debugging
+10. String concatenation: `str1 + str2` (not `&`)
+
+## Common Mistakes to Avoid
+
+- Don't use `.NET` syntax (no `this.`, no `()` after Sub/Function names in declarations)
+- Don't use `Dim` - use `Var`
+- Don't use `=` for assignment - use `:=`
+- Don't forget `End` statements (End If, End For, End Sub, etc.)
+- Don't use `null` - use `Null`
+- Don't use `==` - use `=`
+- Don't use `&&` or `||` - use `And` and `Or`
+
+## Type System
+
+- Primitives: `Integer`, `String`, `Variant`, `Boolean`, `DateTime`, `TimeSpan`
+- Collections: `Array`, `ArrayList`, `HashTable`
+- All interfaces start with `I`: `IPrxReport`, `IMetabase`, etc.
+- Classes: `MetabaseClass`, `PrxReport`, `Debug`, `Exception`, `Console`
+
+## String Operations
+
+- Format: `String.Format("template {0}", value)`
+- Split: `str.Split(";")`
+- IndexOf: `str.IndexOf("substring")`
+- Replace: `String.Replace(str, "old", "new")`
+- Length: `str.Length`
+
+## Date Operations
+
+- Current date: `DateTime.Now`
+- Parse: `DateTime.TryParse(str, dt)`
+- Format: `DateTime.Format(dt, "yyyy-MM-dd")`
+- IsLeapYear: `DateTime.IsLeapYear(year)`
+

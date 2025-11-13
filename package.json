@@ -1,12 +1,27 @@
 {
 	"name": "foresight-fore-language",
 	"displayName": "foresight FORE Language",
-	"description": "Syntax highlighting and snippets for FORe (Foresight BI) desktop scripts.",
-	"version": "0.0.5",
+	"description": "Comprehensive FORe (Foresight BI Desktop) language support: syntax highlighting, 170+ code snippets, code formatting, linting, navigation (Go to Definition, Find References, Symbol search), hover documentation, and custom themes. Includes event handlers, SQL execution, dimension iteration, and type completions for all major interfaces (IPrxReport, IMetabase, ICubeInstance, IDimInstance, etc.).",
+	"version": "0.2.2",
 	"publisher": "ForeCode",
 	"engines": {
 		"vscode": "^1.60.0"
 	},
+	"main": "./out/extension.js",
+	"scripts": {
+		"vscode:prepublish": "npm run compile",
+		"compile": "tsc -p ./ && npm run copy-resources",
+		"copy-resources": "node -e \"const fs=require('fs'); const path=require('path'); if(fs.existsSync('src/interface-docs.json')){fs.mkdirSync('out',{recursive:true});try{fs.unlinkSync('out/interface-docs.json');}catch(e){}fs.copyFileSync('src/interface-docs.json','out/interface-docs.json');console.log('Copied interface-docs.json');}\"",
+		"watch": "tsc -watch -p ./"
+	},
+	"devDependencies": {
+		"@types/node": "^18.0.0",
+		"@types/vscode": "^1.60.0",
+		"typescript": "^4.9.0"
+	},
+	"activationEvents": [
+		"onLanguage:fore"
+	],
 	"categories": [
 		"Programming Languages"
 	],
@@ -22,7 +37,18 @@
 		"bi",
 		"pascal",
 		"reports",
-		"prx"
+		"prx",
+		"metabase",
+		"cube",
+		"dimension",
+		"analytics",
+		"business intelligence",
+		"syntax highlighting",
+		"code snippets",
+		"iprxreport",
+		"imetabase",
+		"icubeinstance",
+		"idiminstance"
 	],
 	"contributes": {
 		"languages": [
@@ -49,6 +75,29 @@
 			{
 				"language": "fore",
 				"path": "./snippets/fore.json"
+			}
+		],
+		"configuration": {
+			"title": "FORe Language",
+			"properties": {
+				"[fore]": {
+					"editor.defaultFormatter": "ForeCode.foresight-fore-language",
+					"editor.formatOnSave": true,
+					"editor.tabSize": 1,
+					"editor.insertSpaces": false
+				}
+			}
+		},
+		"themes": [
+			{
+				"label": "FORe Dark",
+				"uiTheme": "vs-dark",
+				"path": "./themes/fore-dark.json"
+			},
+			{
+				"label": "FORe Light",
+				"uiTheme": "vs",
+				"path": "./themes/fore-light.json"
 			}
 		]
 	}

@@ -444,6 +444,212 @@
 			"End Class EventsClass;"
 		],
 		"description": "ReportEvents class with common handler stubs"
+	},
+	"Const block": {
+		"scope": "fore",
+		"prefix": "const-block",
+		"body": [
+			"Public Const",
+			"// ${1:Description}",
+			"${2:CONST_NAME} = ${3:value};"
+		],
+		"description": "Const block with comment"
+	},
+	"Property with Get/Set": {
+		"scope": "fore",
+		"prefix": "property-get-set",
+		"body": [
+			"Public Property ${1:PropertyName}: ${2:Type}",
+			"\tGet",
+			"\tBegin",
+			"\t\tReturn ${3:_field};",
+			"\tEnd Get",
+			"\tSet",
+			"\tBegin",
+			"\t\t${3:_field} := Value;",
+			"\tEnd Set",
+			"End Property ${1:PropertyName};"
+		],
+		"description": "Property with Get and Set accessors"
+	},
+	"Property with Get only": {
+		"scope": "fore",
+		"prefix": "property-get",
+		"body": [
+			"Public Property ${1:PropertyName}: ${2:Type}",
+			"\tGet",
+			"\tBegin",
+			"\t\tReturn ${3:_field};",
+			"\tEnd Get",
+			"End Property ${1:PropertyName};"
+		],
+		"description": "Read-only property with Get accessor"
+	},
+	"Class with Constructor": {
+		"scope": "fore",
+		"prefix": "class-constructor",
+		"body": [
+			"Public Class ${1:ClassName}: ${2:Object}",
+			"\t${3:_field}: ${4:Type};",
+			"\t",
+			"\tPublic Constructor Create(${5:param: Type});",
+			"\tBegin",
+			"\t\t${6:// initialization}",
+			"\tEnd Constructor Create;",
+			"\t",
+			"End Class ${1:ClassName};"
+		],
+		"description": "Class with constructor"
+	},
+	"ETL Execute": {
+		"scope": "fore",
+		"prefix": "etl-execute",
+		"body": [
+			"Var",
+			"\tetlTask: IEtlTask;",
+			"\tparams: IMetabaseObjectParamValues;",
+			"Begin",
+			"\tetlTask := MetabaseClass.Active.ItemByIdNamespace(\"${1:ETL_ID}\", ${2:BA_KEY}).Bind As IEtlTask;",
+			"\tparams := etlTask.ParamValues;",
+			"\t// params.FindById(\"${3:PARAM_ID}\").Value := ${4:value};",
+			"\tetlTask.Execute(Null);",
+			"End"
+		],
+		"description": "Execute ETL task with parameters"
+	},
+	"Dimension Open": {
+		"scope": "fore",
+		"prefix": "dim-open",
+		"body": [
+			"Var",
+			"\tmb: IMetabase;",
+			"\tdim: IDimInstance;",
+			"Begin",
+			"\tmb := MetabaseClass.Active;",
+			"\tdim := mb.ItemByIdNamespace(\"${1:DIM_ID}\", ${2:BA_KEY}).Open(Null) As IDimInstance;",
+			"\t${3:// work with dimension}",
+			"End"
+		],
+		"description": "Open dimension instance"
+	},
+	"Cube Parameters": {
+		"scope": "fore",
+		"prefix": "cube-params",
+		"body": [
+			"Var",
+			"\tcubeInst: ICubeInstance;",
+			"\tparams: IMetabaseObjectParamValues;",
+			"Begin",
+			"\tcubeInst := ${1:CubeClass.CurrentCube};",
+			"\tIf cubeInst Is Null Then",
+			"\t\tExit;",
+			"\tEnd If;",
+			"\tparams := cubeInst.ParamValues;",
+			"\tparams.FindById(\"${2:PARAM_ID}\").Value := ${3:value};",
+			"End"
+		],
+		"description": "Work with cube parameters"
+	},
+	"Function with XML summary": {
+		"scope": "fore",
+		"prefix": "function-summary",
+		"body": [
+			"/// <summary>",
+			"/// ${1:Function description}",
+			"/// </summary>",
+			"Public Function ${2:FunctionName}(${3:param: Type}): ${4:ReturnType};",
+			"Var",
+			"\t${5:// vars}",
+			"Begin",
+			"\t${6:// implementation}",
+			"\tReturn ${7:result};",
+			"End Function ${2:FunctionName};"
+		],
+		"description": "Function with XML documentation comment"
+	},
+	"Sub with XML summary": {
+		"scope": "fore",
+		"prefix": "sub-summary",
+		"body": [
+			"/// <summary>",
+			"/// ${1:Sub description}",
+			"/// </summary>",
+			"Public Sub ${2:SubName}(${3:param: Type});",
+			"Var",
+			"\t${4:// vars}",
+			"Begin",
+			"\t${5:// implementation}",
+			"End Sub ${2:SubName};"
+		],
+		"description": "Sub with XML documentation comment"
+	},
+	"Workspace Open": {
+		"scope": "fore",
+		"prefix": "workspace-open",
+		"body": [
+			"Var",
+			"\tws: WorkSpace;",
+			"\tdimSel: IDimSelection;",
+			"Begin",
+			"\tdimSel := ${1:selection};",
+			"\tws := New WorkSpace.CreateFromDimSelection(dimSel);",
+			"\t${2:// work with workspace}",
+			"End"
+		],
+		"description": "Open workspace from dimension selection"
+	},
+	"Security Check": {
+		"scope": "fore",
+		"prefix": "security-check",
+		"body": [
+			"Var",
+			"\tmb: IMetabase;",
+			"\tuser: IMetabaseUser;",
+			"\tgroup: IMetabaseGroup;",
+			"Begin",
+			"\tmb := MetabaseClass.Active;",
+			"\tuser := mb.Security.ResolveName(\"${1:USER_NAME}\") As IMetabaseUser;",
+			"\tIf user <> Null Then",
+			"\t\t${2:// check user permissions}",
+			"\tEnd If;",
+			"End"
+		],
+		"description": "Check user security permissions"
+	},
+	"Segment Create": {
+		"scope": "fore",
+		"prefix": "segment-create",
+		"body": [
+			"Var",
+			"\tcubeInst: ICubeInstance;",
+			"\tsegment: ICubeSegment;",
+			"\tsegments: ICubeSegments;",
+			"Begin",
+			"\tcubeInst := ${1:cubeInstance};",
+			"\tsegments := cubeInst.Segments;",
+			"\tsegment := segments.Create(\"${2:SEGMENT_NAME}\");",
+			"\t${3:// configure segment}",
+			"End"
+		],
+		"description": "Create cube segment"
+	},
+	"RDS Dictionary": {
+		"scope": "fore",
+		"prefix": "rds-dictionary",
+		"body": [
+			"Var",
+			"\tmb: IMetabase;",
+			"\trdsDict: IRdsDictionary;",
+			"\trdsInst: IRdsDictionaryInstance;",
+			"\telement: IRdsDictionaryElement;",
+			"Begin",
+			"\tmb := MetabaseClass.Active;",
+			"\trdsDict := mb.ItemByIdNamespace(\"${1:DICT_ID}\", ${2:BA_KEY}).Bind As IRdsDictionary;",
+			"\trdsInst := rdsDict.Open(Null);",
+			"\t${3:// work with dictionary}",
+			"End"
+		],
+		"description": "Work with RDS dictionary"
 	}
 }
 

@@ -1,0 +1,117 @@
+{
+	"$schema": "vscode://schemas/color-theme",
+	"name": "FORe Light",
+	"type": "light",
+	"colors": {
+		"editor.background": "#ffffff",
+		"editor.foreground": "#000000",
+		"editorLineNumber.foreground": "#237893",
+		"editor.selectionBackground": "#add6ff",
+		"editorCursor.foreground": "#000000"
+	},
+	"tokenColors": [
+		{
+			"name": "Keywords",
+			"scope": [
+				"keyword.control.fore",
+				"keyword.operator.fore",
+				"keyword.other.fore"
+			],
+			"settings": {
+				"foreground": "#0000ff",
+				"fontStyle": "bold"
+			}
+		},
+		{
+			"name": "Types and Interfaces",
+			"scope": [
+				"storage.type.fore",
+				"entity.name.type.fore"
+			],
+			"settings": {
+				"foreground": "#267f99"
+			}
+		},
+		{
+			"name": "Functions and Procedures",
+			"scope": [
+				"entity.name.function.fore",
+				"entity.name.function.method.fore"
+			],
+			"settings": {
+				"foreground": "#795e26"
+			}
+		},
+		{
+			"name": "Classes",
+			"scope": [
+				"entity.name.class.fore"
+			],
+			"settings": {
+				"foreground": "#267f99",
+				"fontStyle": "bold"
+			}
+		},
+		{
+			"name": "Strings",
+			"scope": [
+				"string.quoted.double.fore",
+				"string.quoted.single.fore"
+			],
+			"settings": {
+				"foreground": "#a31515"
+			}
+		},
+		{
+			"name": "Comments",
+			"scope": [
+				"comment.line.double-slash.fore",
+				"comment.block.fore"
+			],
+			"settings": {
+				"foreground": "#008000",
+				"fontStyle": "italic"
+			}
+		},
+		{
+			"name": "Numbers",
+			"scope": [
+				"constant.numeric.fore"
+			],
+			"settings": {
+				"foreground": "#098658"
+			}
+		},
+		{
+			"name": "Constants",
+			"scope": [
+				"constant.language.fore",
+				"constant.character.fore"
+			],
+			"settings": {
+				"foreground": "#0000ff"
+			}
+		},
+		{
+			"name": "Operators",
+			"scope": [
+				"keyword.operator.assignment.fore",
+				"keyword.operator.comparison.fore",
+				"keyword.operator.arithmetic.fore"
+			],
+			"settings": {
+				"foreground": "#000000"
+			}
+		},
+		{
+			"name": "Variables",
+			"scope": [
+				"variable.other.fore"
+			],
+			"settings": {
+				"foreground": "#001080"
+			}
+		}
+	]
+}
+

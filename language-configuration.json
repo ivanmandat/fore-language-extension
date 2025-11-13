@@ -24,8 +24,33 @@
 		"markers": {
 			"start": "^\\s*//\\s*#?region\\b",
 			"end": "^\\s*//\\s*#?endregion\\b"
-		}
+		},
+		"offSide": true
 	},
+	"indentationRules": {
+		"increaseIndentPattern": "^\\s*(Begin|Try|If|Then|Else|Elseif|Else\\s+If|For|Each|While|Do|Select|Case|Class|Public\\s+Class|Private\\s+Class|Public\\s+Sub|Public\\s+Function|Public\\s+Property|Public\\s+Constructor|Public\\s+Destructor|Private\\s+Sub|Private\\s+Function|Private\\s+Property|Get|Set).*$",
+		"decreaseIndentPattern": "^\\s*(End|End\\s+If|End\\s+For|End\\s+While|End\\s+Try|End\\s+Sub|End\\s+Function|End\\s+Property|End\\s+Class|End\\s+Get|End\\s+Set|End\\s+Constructor|End\\s+Destructor|Else|Elseif|Else\\s+If|Except|Finally).*$"
+	},
+	"onEnterRules": [
+		{
+			"beforeText": "^\\s*Begin\\s*$",
+			"action": {
+				"indent": "indent"
+			}
+		},
+		{
+			"beforeText": "^\\s*(End|End\\s+If|End\\s+For|End\\s+While|End\\s+Try|End\\s+Sub|End\\s+Function|End\\s+Property|End\\s+Class|End\\s+Get|End\\s+Set|End\\s+Constructor|End\\s+Destructor|Else|Elseif|Else\\s+If|Except|Finally)\\s*;?\\s*$",
+			"action": {
+				"indent": "outdent"
+			}
+		},
+		{
+			"beforeText": "^\\s*(Public|Private)\\s+(Sub|Function|Property|Class|Constructor|Destructor).*$",
+			"action": {
+				"indent": "indent"
+			}
+		}
+	],
 	"wordPattern": "(-?\\d*\\.\\d\\w*)|([^\\`\\~\\!\\@\\#\\$\\%\\^\\&\\*\\(\\)\\-\\=\\+\\[\\{\\]\\}\\\\\\|\\;\\:\\'\\\"\\,\\.\\<\\>\\/\\?\\s]+)"
 }
 
