@@ -2,8 +2,8 @@
 	"name": "foresight-fore-language",
 	"displayName": "foresight FORE Language",
 	"description": "Syntax highlighting and snippets for FORe (Foresight BI) desktop scripts.",
-	"version": "0.0.4",
-	"publisher": "krit-fs",
+	"version": "0.0.5",
+	"publisher": "ForeCode",
 	"engines": {
 		"vscode": "^1.60.0"
 	},
@@ -14,7 +14,7 @@
 	"license": "MIT",
 	"repository": {
 		"type": "git",
-		"url": "https://example.com/fs-help/fore-language"
+		"url": "https://github.com/ivanmandat/fore-language-extension"
 	},
 	"keywords": [
 		"foresight",
