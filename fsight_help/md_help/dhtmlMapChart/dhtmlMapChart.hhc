@@ -1,0 +1,2900 @@
+<html>
+<!-- Sitemap 1.0 -->
+<object type="text/site properties">
+  <param name="SiteType" value="toc">
+  <param name="Image Width" value="16">
+  <param name="Window Styles" value="0x800007">
+  <param name="ExWindow Styles" value="0x100">
+</object>
+<ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Работа с картой">
+    <param name="Local" value="Classes/Map/Map_Classes.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Компоненты">
+      <param name="Local" value="Components/Components.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="MapChart">
+        <param name="Local" value="Components/MapChart/MapChart.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Создание DHTML-карты">
+          <param name="Local" value="Components/MapChart/MapChart_creation.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Размещение карты на HTML странице">
+          <param name="Local" value="Components/MapChart/HTML_layout.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Пример создания компонента MapChart">
+          <param name="Local" value="Components/MapChart/MapChart_Example.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Преобразование данных в формате XML в формат JSON">
+          <param name="Local" value="Components/MapChart/xml_and_json.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Спецификация формата JSON">
+          <param name="Local" value="Components/MapChart/xml_specification/xml-specification.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Элемент MapChart">
+            <param name="Local" value="Components/MapChart/xml_specification/MapChart/MapChart_element.htm">
+          </object>
+          <ul>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Элемент DataSources">
+              <param name="Local" value="Components/MapChart/xml_specification/MapChart/DataSources/DataSources_element.htm">
+            </object>
+            <ul>
+              <li><object type="text/sitemap">
+                <param name="Name" value="Пример настройки источников данных">
+                <param name="Local" value="Components/MapChart/xml_specification/MapChart/DataSources/DataSources_exmpl.htm">
+                <param name="ImageNumber" value="11">
+              </object>
+              </ul>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Элемент ItemsDictionary">
+              <param name="Local" value="Components/MapChart/xml_specification/MapChart/ItemsDictionary/ItemsDictionary.htm">
+            </object>
+            <ul>
+              <li><object type="text/sitemap">
+                <param name="Name" value="Элемент DataDependency">
+                <param name="Local" value="Components/MapChart/xml_specification/MapChart/ItemsDictionary/DataDependency/DataDependency_element.htm">
+              </object>
+              <ul>
+                <li><object type="text/sitemap">
+                  <param name="Name" value="Пример настройки списка объектов зависимостей">
+                  <param name="Local" value="Components/MapChart/xml_specification/MapChart/ItemsDictionary/DataDependency/DataDependency_exmpl.htm">
+                  <param name="ImageNumber" value="11">
+                </object>
+                </ul>
+              <li><object type="text/sitemap">
+                <param name="Name" value="Элемент Font">
+                <param name="Local" value="Components/MapChart/xml_specification/MapChart/ItemsDictionary/Fonts/Fonts.htm">
+              </object>
+              <ul>
+                <li><object type="text/sitemap">
+                  <param name="Name" value="Пример настройки списка шрифтов">
+                  <param name="Local" value="Components/MapChart/xml_specification/MapChart/ItemsDictionary/Fonts/Font_exmpl.htm">
+                  <param name="ImageNumber" value="11">
+                </object>
+                </ul>
+              <li><object type="text/sitemap">
+                <param name="Name" value="Элемент MapLabel">
+                <param name="Local" value="Components/MapChart/xml_specification/MapChart/ItemsDictionary/MapLabels/MapLabel_element.htm">
+              </object>
+              <ul>
+                <li><object type="text/sitemap">
+                  <param name="Name" value="Пример настройки списка меток">
+                  <param name="Local" value="Components/MapChart/xml_specification/MapChart/ItemsDictionary/MapLabels/Labels_exmpl.htm">
+                  <param name="ImageNumber" value="11">
+                </object>
+                </ul>
+              <li><object type="text/sitemap">
+                <param name="Name" value="Элемент MapScale">
+                <param name="Local" value="Components/MapChart/xml_specification/MapChart/ItemsDictionary/MapScale/MapScale_element.htm">
+              </object>
+              <ul>
+                <li><object type="text/sitemap">
+                  <param name="Name" value="Пример настройки списка шкал">
+                  <param name="Local" value="Components/MapChart/xml_specification/MapChart/ItemsDictionary/MapScale/MapScale_exmpl.htm">
+                  <param name="ImageNumber" value="11">
+                </object>
+                </ul>
+              <li><object type="text/sitemap">
+                <param name="Name" value="Элемент ChartTooltipBase">
+                <param name="Local" value="Components/MapChart/xml_specification/MapChart/ItemsDictionary/MapToolTops/MapToolTip_element.htm">
+              </object>
+              <ul>
+                <li><object type="text/sitemap">
+                  <param name="Name" value="Пример настройки всплывающей подсказки">
+                  <param name="Local" value="Components/MapChart/xml_specification/MapChart/ItemsDictionary/MapToolTops/ToolTip_exmpl.htm">
+                  <param name="ImageNumber" value="11">
+                </object>
+                </ul>
+              <li><object type="text/sitemap">
+                <param name="Name" value="Кисти">
+                <param name="Local" value="Components/MapChart/xml_specification/MapChart/ItemsDictionary/Brushes/Brushes.htm">
+              </object>
+              <ul>
+                <li><object type="text/sitemap">
+                  <param name="Name" value="Пример настройки списка кистей">
+                  <param name="Local" value="Components/MapChart/xml_specification/MapChart/ItemsDictionary/Brushes/Brushes_exmpl.htm">
+                  <param name="ImageNumber" value="11">
+                </object>
+                </ul>
+              <li><object type="text/sitemap">
+                <param name="Name" value="Эффекты">
+                <param name="Local" value="Components/MapChart/xml_specification/MapChart/ItemsDictionary/Effects/Effects.htm">
+              </object>
+              <ul>
+                <li><object type="text/sitemap">
+                  <param name="Name" value="Пример настройки списка эффектов">
+                  <param name="Local" value="Components/MapChart/xml_specification/MapChart/ItemsDictionary/Effects/Effaects_exmpl.htm">
+                  <param name="ImageNumber" value="11">
+                </object>
+                </ul>
+              </ul>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Элемент MapArrows">
+            </object>
+            <ul>
+              <li><object type="text/sitemap">
+                <param name="Name" value="Элемент MapSimpleArrow">
+                <param name="Local" value="Components/MapChart/xml_specification/MapChart/MapArrows/MapSimpleArrow_element.htm">
+                <param name="ImageNumber" value="11">
+              </object>
+              <li><object type="text/sitemap">
+                <param name="Name" value="Элемент MapFilledArrow">
+                <param name="Local" value="Components/MapChart/xml_specification/MapChart/MapArrows/MapFilledArrow_element.htm">
+                <param name="ImageNumber" value="11">
+              </object>
+              <li><object type="text/sitemap">
+                <param name="Name" value="Элемент MapFiguredArrow">
+                <param name="Local" value="Components/MapChart/xml_specification/MapChart/MapArrows/MapFiguredArrow_element.htm">
+                <param name="ImageNumber" value="11">
+              </object>
+              <li><object type="text/sitemap">
+                <param name="Name" value="Пример настройки стрелок">
+                <param name="Local" value="Components/MapChart/xml_specification/MapChart/MapArrows/Arrow_exmpl.htm">
+                <param name="ImageNumber" value="11">
+              </object>
+              </ul>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Элемент MapGrid">
+              <param name="Local" value="Components/MapChart/xml_specification/MapChart/MapGrid/MapGrid_Element.htm">
+            </object>
+            <ul>
+              <li><object type="text/sitemap">
+                <param name="Name" value="Пример настройки сетки карты">
+                <param name="Local" value="Components/MapChart/xml_specification/MapChart/MapGrid/MapGrid_Example.htm">
+                <param name="ImageNumber" value="11">
+              </object>
+              </ul>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Элемент MapLayers">
+              <param name="Local" value="Components/MapChart/xml_specification/MapChart/MapLayers/MapLayers_element.htm">
+            </object>
+            <ul>
+              <li><object type="text/sitemap">
+                <param name="Name" value="Элемент MapLayer">
+              </object>
+              <ul>
+                <li><object type="text/sitemap">
+                  <param name="Name" value="Элемент Visuals">
+                  <param name="Local" value="Components/MapChart/xml_specification/MapChart/MapLayers/MapLayer/Visuals/Visuals_element.htm">
+                </object>
+                <ul>
+                  <li><object type="text/sitemap">
+                    <param name="Name" value="Элемент MapAreaVisual">
+                    <param name="Local" value="Components/MapChart/xml_specification/MapChart/MapLayers/MapLayer/Visuals/MapAreaVisual_element.htm">
+                    <param name="ImageNumber" value="11">
+                  </object>
+                  <li><object type="text/sitemap">
+                    <param name="Name" value="Элемент MapBarVisual">
+                    <param name="Local" value="Components/MapChart/xml_specification/MapChart/MapLayers/MapLayer/Visuals/MapBarVisual_element.htm">
+                    <param name="ImageNumber" value="11">
+                  </object>
+                  <li><object type="text/sitemap">
+                    <param name="Name" value="Элемент MapBubbleVisual">
+                    <param name="Local" value="Components/MapChart/xml_specification/MapChart/MapLayers/MapLayer/Visuals/MapBubbleVisual_element.htm">
+                    <param name="ImageNumber" value="11">
+                  </object>
+                  <li><object type="text/sitemap">
+                    <param name="Name" value="Элемент MapPieVisual">
+                    <param name="Local" value="Components/MapChart/xml_specification/MapChart/MapLayers/MapLayer/Visuals/MapPieVisual_element.htm">
+                    <param name="ImageNumber" value="11">
+                  </object>
+                  <li><object type="text/sitemap">
+                    <param name="Name" value="Пример настройки показателя заливки карты">
+                    <param name="Local" value="Components/MapChart/xml_specification/MapChart/MapLayers/MapLayer/Visuals/Visuals_exmpl.htm">
+                    <param name="ImageNumber" value="11">
+                  </object>
+                  <li><object type="text/sitemap">
+                    <param name="Name" value="Пример настройки пузырькового показателя">
+                    <param name="Local" value="Components/MapChart/xml_specification/MapChart/MapLayers/MapLayer/Visuals/MapBubbleViaual_example.htm">
+                    <param name="ImageNumber" value="11">
+                  </object>
+                  <li><object type="text/sitemap">
+                    <param name="Name" value="Пример настройки столбикового показателя">
+                    <param name="Local" value="Components/MapChart/xml_specification/MapChart/MapLayers/MapLayer/Visuals/Bars_exmpl.htm">
+                    <param name="ImageNumber" value="11">
+                  </object>
+                  <li><object type="text/sitemap">
+                    <param name="Name" value="Пример настройки кругового показателя">
+                    <param name="Local" value="Components/MapChart/xml_specification/MapChart/MapLayers/MapLayer/Visuals/Pie_exmpl.htm">
+                    <param name="ImageNumber" value="11">
+                  </object>
+                  </ul>
+                <li><object type="text/sitemap">
+                  <param name="Name" value="Элемент Milestones">
+                  <param name="Local" value="Components/MapChart/xml_specification/MapChart/MapLayers/MapLayer/Milestones/Milestones_element.htm">
+                </object>
+                <ul>
+                  <li><object type="text/sitemap">
+                    <param name="Name" value="Пример размещения значков">
+                    <param name="Local" value="Components/MapChart/xml_specification/MapChart/MapLayers/MapLayer/Milestones/Milestones_exmpl.htm">
+                    <param name="ImageNumber" value="11">
+                  </object>
+                  <li><object type="text/sitemap">
+                    <param name="Name" value="Элемент MapImageMilestone">
+                    <param name="Local" value="Components/MapChart/xml_specification/MapChart/MapLayers/MapLayer/Milestones/MapImageMilestone_element.htm">
+                    <param name="ImageNumber" value="11">
+                  </object>
+                  <li><object type="text/sitemap">
+                    <param name="Name" value="Элемент MapPolygonMilestone">
+                    <param name="Local" value="Components/MapChart/xml_specification/MapChart/MapLayers/MapLayer/Milestones/MapPolygonMilestone_element.htm">
+                    <param name="ImageNumber" value="11">
+                  </object>
+                  </ul>
+                </ul>
+              </ul>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Элемент MapLegends">
+              <param name="Local" value="Components/MapChart/xml_specification/MapChart/MapLegends/MapLegends_element.htm">
+            </object>
+            <ul>
+              <li><object type="text/sitemap">
+                <param name="Name" value="Пример настройки легенды">
+                <param name="Local" value="Components/MapChart/xml_specification/MapChart/MapLegends/Legend_exmpl.htm">
+                <param name="ImageNumber" value="11">
+              </object>
+              </ul>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Элемент MapShapes">
+              <param name="Local" value="Components/MapChart/xml_specification/MapChart/MapShapes/MapShapes_element.htm">
+            </object>
+            <ul>
+              <li><object type="text/sitemap">
+                <param name="Name" value="Пример настройки областей слоя карты">
+                <param name="Local" value="Components/MapChart/xml_specification/MapChart/MapShapes/MapShapes_exmpl.htm">
+                <param name="ImageNumber" value="11">
+              </object>
+              </ul>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Элемент MapTerritoryTranscript">
+              <param name="Local" value="Components/MapChart/xml_specification/MapChart/MapTerritoryTranscript/MapTerritoryTranscript_element.htm">
+            </object>
+            <ul>
+              <li><object type="text/sitemap">
+                <param name="Name" value="Пример настройки расшифровки территорий">
+                <param name="Local" value="Components/MapChart/xml_specification/MapChart/MapTerritoryTranscript/Territory_exmpl.htm">
+                <param name="ImageNumber" value="11">
+              </object>
+              </ul>
+            <li><object type="text/sitemap">
+              <param name="Name" value="MapTimeline">
+              <param name="Local" value="Components/MapChart/xml_specification/MapChart/MapTimeline/MapTimeline_element.htm">
+            </object>
+            <ul>
+              <li><object type="text/sitemap">
+                <param name="Name" value="Пример настройки временной линии">
+                <param name="Local" value="Components/MapChart/xml_specification/MapChart/MapTimeline/TimeLine_exmpl.htm">
+                <param name="ImageNumber" value="11">
+              </object>
+              </ul>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Элемент RegionsNames">
+              <param name="Local" value="Components/MapChart/xml_specification/MapChart/RegionsNames/RegionsNames_element.htm">
+            </object>
+            <ul>
+              <li><object type="text/sitemap">
+                <param name="Name" value="Настройка словаря имен областей">
+                <param name="Local" value="Components/MapChart/xml_specification/MapChart/RegionsNames/RegionsNames_exmpl.htm">
+                <param name="ImageNumber" value="11">
+              </object>
+              </ul>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Пример настройки элемента MapChart">
+              <param name="Local" value="Components/MapChart/xml_specification/MapChart/MapChart_element_exmpl.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            </ul>
+          </ul>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="MapMaster">
+        <param name="Local" value="Components/MapMaster/MapMaster.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Пример размещения компонентов MapMaster и EaxMapBox">
+          <param name="Local" value="Components/MapMaster/MapMaster_and_EaxMasterBox.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Пример размещения компонентов MapMaster и MapChart">
+          <param name="Local" value="Components/MapMaster/MapMaster_and_MapChart.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Классы">
+      <param name="Local" value="Classes/Map/Map_Classes.htm#642b3b9347ca42c9b00b820c00c373fa=1">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="AreaVisual">
+        <param name="Local" value="Classes/Map/AreaVisual/AreaVisual.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="AreaVisual.ColorMapping">
+          <param name="Local" value="Classes/Map/AreaVisual/AreaVisual.ColorMapping.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="AreaVisual.getFirstDataSource">
+          <param name="Local" value="Classes/Map/AreaVisual/AreaVisual.getFirstDataSource.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="AreaVisual.HeightMapping">
+          <param name="Local" value="Classes/Map/AreaVisual/AreaVisual.HeightMapping.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Конструктор AreaVisual">
+          <param name="Local" value="Classes/Map/AreaVisual/Constructor_AreaVisual.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="AreaVisualPanel">
+        <param name="Local" value="Classes/AreaVisualPanel/MapMaster.AreaVisualPanel.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapMaster.AreaVisualPanel.toHex2">
+          <param name="Local" value="Classes/AreaVisualPanel/MapMaster.AreaVisualPanel.toHex2.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapMaster.AreaVisualPanel.CurrentState">
+          <param name="Local" value="Classes/AreaVisualPanel/MapMaster.AreaVisualPanel.CurrentState.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapMaster.AreaVisualPanel.getColorArray">
+          <param name="Local" value="Classes/AreaVisualPanel/MapMaster.AreaVisualPanel.getColorArray.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapMaster.AreaVisualPanel.joinColor">
+          <param name="Local" value="Classes/AreaVisualPanel/MapMaster.AreaVisualPanel.joinColor.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapMaster.AreaVisualPanel.MapChart">
+          <param name="Local" value="Classes/AreaVisualPanel/MapMaster.AreaVisualPanel.MapChart.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapMaster.AreaVisualPanel.parseColor">
+          <param name="Local" value="Classes/AreaVisualPanel/MapMaster.AreaVisualPanel.parseColor.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapMaster.AreaVisualPanel.SettingChanged">
+          <param name="Local" value="Classes/AreaVisualPanel/MapMaster.AreaVisualPanel.SettingChanged.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="ArrowVisual">
+        <param name="Local" value="Classes/Map/ArrowVisual/ArrowVisual.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ArrowVisual.BasementWidthMapping">
+          <param name="Local" value="Classes/Map/ArrowVisual/ArrowVisual.BasementWidthMapping.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ArrowVisual.ColorMapping">
+          <param name="Local" value="Classes/Map/ArrowVisual/ArrowVisual.ColorMapping.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ArrowVisual.getFirstDataSource">
+          <param name="Local" value="Classes/Map/ArrowVisual/ArrowVisual.getFirstDataSource.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Конструктор ArrowVisual">
+          <param name="Local" value="Classes/Map/ArrowVisual/Constructor_ArrowVisual.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="BarVisual">
+        <param name="Local" value="Classes/Map/BarVisual/BarVisual.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="BarVisual.BorderMappings">
+          <param name="Local" value="Classes/Map/BarVisual/BarVisual.BorderMappings.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="BarVisual.ColorMappings">
+          <param name="Local" value="Classes/Map/BarVisual/BarVisual.ColorMappings.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="BarVisual.getFirstDataSource">
+          <param name="Local" value="Classes/Map/BarVisual/BarVisual.getFirstDataSource.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="BarVisual.getMappingsCount">
+          <param name="Local" value="Classes/Map/BarVisual/BarVisual.getMappingsCount.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="BarVisual.HeightMappings">
+          <param name="Local" value="Classes/Map/BarVisual/BarVisual.HeightMappings.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="BarVisual.setup">
+          <param name="Local" value="Classes/Map/BarVisual/BarVisual.setup.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="BarVisual.WidthMappings">
+          <param name="Local" value="Classes/Map/BarVisual/BarVisual.WidthMappings.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Конструктор BarVisual">
+          <param name="Local" value="Classes/Map/BarVisual/Constructor_BarVisual.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="MapArrowBase">
+        <param name="Local" value="Classes/Map/MapArrowBase/MapArrowBase.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapArrowBase.Angle">
+          <param name="Local" value="Classes/Map/MapArrowBase/MapArrowBase.Angle.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapArrowBase.AngleLimit">
+          <param name="Local" value="Classes/Map/MapArrowBase/MapArrowBase.AngleLimit.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapArrowBase.animate">
+          <param name="Local" value="Classes/Map/MapArrowBase/MapArrowBase.animate.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapArrowBase.Border">
+          <param name="Local" value="Classes/Map/MapArrowBase/MapArrowBase.Border.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapArrowBase.clear">
+          <param name="Local" value="Classes/Map/MapArrowBase/MapArrowBase.clear.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapArrowBase.Color">
+          <param name="Local" value="Classes/Map/MapArrowBase/MapArrowBase.Color.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapArrowBase.EndPoint">
+          <param name="Local" value="Classes/Map/MapArrowBase/MapArrowBase.EndPoint.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapArrowBase.EndShape">
+          <param name="Local" value="Classes/Map/MapArrowBase/MapArrowBase.EndShape.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapArrowBase.getIntersectionWithRay">
+          <param name="Local" value="Classes/Map/MapArrowBase/MapArrowBase.getIntersectionWithRay.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapArrowBase.getToolTipColor">
+          <param name="Local" value="Classes/Map/MapArrowBase/MapArrowBase.getToolTipColor.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapArrowBase.getToolTipValues">
+          <param name="Local" value="Classes/Map/MapArrowBase/MapArrowBase.getToolTipValues.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapArrowBase.IsRelativeWidth">
+          <param name="Local" value="Classes/Map/MapArrowBase/MapArrowBase.IsRelativeWidth.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapArrowBase.Label">
+          <param name="Local" value="Classes/Map/MapArrowBase/MapArrowBase.Label.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapArrowBase.PointerLength">
+          <param name="Local" value="Classes/Map/MapArrowBase/MapArrowBase.PointerLength.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapArrowBase.PointerWidth">
+          <param name="Local" value="Classes/Map/MapArrowBase/MapArrowBase.PointerWidth.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapArrowBase.render3d">
+          <param name="Local" value="Classes/Map/MapArrowBase/MapArrowBase.render3d.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapArrowBase.setBorderSettings">
+          <param name="Local" value="Classes/Map/MapArrowBase/MapArrowBase.setBorderSettings.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapArrowBase.setFont">
+          <param name="Local" value="Classes/Map/MapArrowBase/MapArrowBase.setFont.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapArrowBase.setTextBackground">
+          <param name="Local" value="Classes/Map/MapArrowBase/MapArrowBase.setTextBackground.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapArrowBase.StartPoint">
+          <param name="Local" value="Classes/Map/MapArrowBase/MapArrowBase.StartPoint.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapArrowBase.StartShape">
+          <param name="Local" value="Classes/Map/MapArrowBase/MapArrowBase.StartShape.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapArrowBase.Step3d">
+          <param name="Local" value="Classes/Map/MapArrowBase/MapArrowBase.Step3d.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapArrowBase.TextOrientation">
+          <param name="Local" value="Classes/Map/MapArrowBase/MapArrowBase.TextOrientation.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapArrowBase.toggleToolTip">
+          <param name="Local" value="Classes/Map/MapArrowBase/MapArrowBase.toggleToolTip.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapArrowBase.ToolTip">
+          <param name="Local" value="Classes/Map/MapArrowBase/MapArrowBase.ToolTip.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapArrowBase.UseAnimation">
+          <param name="Local" value="Classes/Map/MapArrowBase/MapArrowBase.UseAnimation.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapArrowBase.Visual">
+          <param name="Local" value="Classes/Map/MapArrowBase/MapArrowBase.Visual.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="MapArrowLabelPanel">
+        <param name="Local" value="Classes/Map/MapArrowLabelPanel/MapArrowLabelPanel.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapArrowLabelPanel.AreMetricsOn">
+          <param name="Local" value="Classes/Map/MapArrowLabelPanel/MapArrowLabelPanel.AreMetricsOn.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Конструктор MapArrowLabelPanel">
+          <param name="Local" value="Classes/Map/MapArrowLabelPanel/Constructor_MapArrowLabelPanel.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="MapArrowsPanel">
+        <param name="Local" value="Classes/Map/MapArrowsPanel/MapArrowsPanel.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Конструктор MapArrowsPanel">
+          <param name="Local" value="Classes/Map/MapArrowsPanel/Constructor_MapArrowsPanel.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="MapArrowVisualPanel">
+        <param name="Local" value="Classes/Map/MapArrowVisualPanel/MapArrowVisualPanel.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Конструктор MapArrowVisualPanel">
+          <param name="Local" value="Classes/Map/MapArrowVisualPanel/Constructor_MapArrowVisualPanel.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="MapBar">
+        <param name="Local" value="Classes/Map/MapBar/MapBar.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapBar.AllPeriod">
+          <param name="Local" value="Classes/Map/MapBar/MapBar.AllPeriod.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapBar.Axis">
+          <param name="Local" value="Classes/Map/MapBar/MapBar.Axis.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapBar.BarDistance">
+          <param name="Local" value="Classes/Map/MapBar/MapBar.BarDistance.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapBar.BorderThickness">
+          <param name="Local" value="Classes/Map/MapBar/MapBar.BorderThickness.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapBar.getAnimationType">
+          <param name="Local" value="Classes/Map/MapBar/MapBar.getAnimationType.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapBar.getToolTipColor">
+          <param name="Local" value="Classes/Map/MapBar/MapBar.getToolTipColor.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapBar.HideZeroHeight">
+          <param name="Local" value="Classes/Map/MapBar/MapBar.HideZeroHeight.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapBar.IsPercentage">
+          <param name="Local" value="Classes/Map/MapBar/MapBar.IsPercentage.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapBar.LeastHeightPart">
+          <param name="Local" value="Classes/Map/MapBar/MapBar.LeastHeightPart.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapBar.LeastWidthPart">
+          <param name="Local" value="Classes/Map/MapBar/MapBar.LeastWidthPart.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapBar.MaxBarsCount">
+          <param name="Local" value="Classes/Map/MapBar/MapBar.MaxBarsCount.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Конструктор MapBar">
+          <param name="Local" value="Classes/Map/MapBar/Constructor_MapBar.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="MapBarAxis">
+        <param name="Local" value="Classes/Map/MapBarAxis/MapBarAxis.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapBarAxis.Pen">
+          <param name="Local" value="Classes/Map/MapBarAxis/MapBarAxis.Pen.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapBarAxis.prepareToRender">
+          <param name="Local" value="Classes/Map/MapBarAxis/MapBarAxis.prepareToRender.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapBarAxis.Visibility">
+          <param name="Local" value="Classes/Map/MapBarAxis/MapBarAxis.Visibility.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Конструктор MapBarAxis">
+          <param name="Local" value="Classes/Map/MapBarAxis/Constructor_MapBarAxis.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="MapBarVisualPanel">
+        <param name="Local" value="Classes/Map/MapBarVisualPanel/MapBarVisualPanel.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Конструктор MapBarVisualPanel">
+          <param name="Local" value="Classes/Map/MapBarVisualPanel/Constructor_MapBarVisualPanel.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="MapBubble">
+        <param name="Local" value="Classes/Map/MapBubble/MapBubble.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapBubble.getToolTipColor">
+          <param name="Local" value="Classes/Map/MapBubble/MapBubble.getToolTipColor.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapBubble.LeastSizePart">
+          <param name="Local" value="Classes/Map/MapBubble/MapBubble.LeastSizePart.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Конструктор MapBubble">
+          <param name="Local" value="Classes/Map/MapBubble/Constructor_MapBubble.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="MapChart">
+        <param name="Local" value="Classes/Map/MapChart/MapChart.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapChart.activateSpectrumLegend">
+          <param name="Local" value="Classes/Map/MapChart/MapChart.activateSpectrumLegend.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapChart.ActiveItems">
+          <param name="Local" value="Classes/Map/MapChart/MapChart.ActiveItems.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapChart.afterGoogleLoad">
+          <param name="Local" value="Classes/Map/MapChart/MapChart.afterGoogleLoad.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapChart.AmbientLightValue">
+          <param name="Local" value="Classes/Map/MapChart/MapChart.AmbientLightValue.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapChart.AnimationEnabled">
+          <param name="Local" value="Classes/Map/MapChart/MapChart.AnimationEnabled.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapChart.ArrowEffectsMode">
+          <param name="Local" value="Classes/Map/MapChart/MapChart.ArrowEffectsMode.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapChart.Background">
+          <param name="Local" value="Classes/Map/MapChart/MapChart.Background.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapChart.changeTopobase">
+          <param name="Local" value="Classes/Map/MapChart/MapChart.changeTopobase.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapChart.clearLastHoveredItem">
+          <param name="Local" value="Classes/Map/MapChart/MapChart.clearLastHoveredItem.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapChart.clearLayer">
+          <param name="Local" value="Classes/Map/MapChart/MapChart.clearLayer.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapChart.clearLayers">
+          <param name="Local" value="Classes/Map/MapChart/MapChart.clearLayers.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapChart.clearPaper">
+          <param name="Local" value="Classes/Map/MapChart/MapChart.clearPaper.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapChart.ContentChanged">
+          <param name="Local" value="Classes/Map/MapChart/MapChart.ContentChanged.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapChart.DirectLightDirection">
+          <param name="Local" value="Classes/Map/MapChart/MapChart.DirectLightDirection.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapChart.DisableVisuals">
+          <param name="Local" value="Classes/Map/MapChart/MapChart.DisableVisuals.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapChart.findValueFormat">
+          <param name="Local" value="Classes/Map/MapChart/MapChart.findValueFormat.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapChart.formatValue">
+          <param name="Local" value="Classes/Map/MapChart/MapChart.formatValue.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapChart.geoToTopobase">
+          <param name="Local" value="Classes/Map/MapChart/MapChart.geoToTopobase.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapChart.getArrowLayer">
+          <param name="Local" value="Classes/Map/MapChart/MapChart.getArrowLayer.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapChart.getBarLayer">
+          <param name="Local" value="Classes/Map/MapChart/MapChart.getBarLayer.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapChart.getBubbleLayer">
+          <param name="Local" value="Classes/Map/MapChart/MapChart.getBubbleLayer.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapChart.getContentMilestoneLayer">
+          <param name="Local" value="Classes/Map/MapChart/MapChart.getContentMilestoneLayer.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapChart.getDataSource">
+          <param name="Local" value="Classes/Map/MapChart/MapChart.getDataSource.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapChart.getFirstVisual">
+          <param name="Local" value="Classes/Map/MapChart/MapChart.getFirstVisual.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapChart.getGMapDomNode">
+          <param name="Local" value="Classes/Map/MapChart/MapChart.getGMapDomNode.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapChart.getGoogleMap">
+          <param name="Local" value="Classes/Map/MapChart/MapChart.getGoogleMap.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapChart.getInstance">
+          <param name="Local" value="Classes/Map/MapChart/MapChart.getInstance.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapChart.getLabelColor">
+          <param name="Local" value="Classes/Map/MapChart/MapChart.getLabelColor.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapChart.getLabelLayer">
+          <param name="Local" value="Classes/Map/MapChart/MapChart.getLabelLayer.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapChart.getLayer">
+          <param name="Local" value="Classes/Map/MapChart/MapChart.getLayer.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapChart.getMapGridLayer">
+          <param name="Local" value="Classes/Map/MapChart/MapChart.getMapGridLayer.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapChart.getMarkerLayer">
+          <param name="Local" value="Classes/Map/MapChart/MapChart.getMarkerLayer.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapChart.getMilestoneLayer">
+          <param name="Local" value="Classes/Map/MapChart/MapChart.getMilestoneLayer.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapChart.getPaper">
+          <param name="Local" value="Classes/Map/MapChart/MapChart.getPaper.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapChart.getPaperArea">
+          <param name="Local" value="Classes/Map/MapChart/MapChart.getPaperArea.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapChart.getPieLayer">
+          <param name="Local" value="Classes/Map/MapChart/MapChart.getPieLayer.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapChart.getRegionName">
+          <param name="Local" value="Classes/Map/MapChart/MapChart.getRegionName.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapChart.getScaleSettings">
+          <param name="Local" value="Classes/Map/MapChart/MapChart.getScaleSettings.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapChart.getSelectedShape">
+          <param name="Local" value="Classes/Map/MapChart/MapChart.getSelectedShape.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapChart.getShape">
+          <param name="Local" value="Classes/Map/MapChart/MapChart.getShape.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapChart.getState">
+          <param name="Local" value="Classes/Map/MapChart/MapChart.getState.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapChart.getToolTipArea">
+          <param name="Local" value="Classes/Map/MapChart/MapChart.getToolTipArea.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapChart.getToolTipColor">
+          <param name="Local" value="Classes/Map/MapChart/MapChart.getToolTipColor.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapChart.getToolTipLayer">
+          <param name="Local" value="Classes/Map/MapChart/MapChart.getToolTipLayer.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapChart.getTopobase">
+          <param name="Local" value="Classes/Map/MapChart/MapChart.getTopobase.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapChart.getTopobaseLeft">
+          <param name="Local" value="Classes/Map/MapChart/MapChart.getTopobaseLeft.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapChart.getTopobaseTop">
+          <param name="Local" value="Classes/Map/MapChart/MapChart.getTopobaseTop.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapChart.Has3DVisualInSettings">
+          <param name="Local" value="Classes/Map/MapChart/MapChart.Has3DVisualInSettings.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapChart.HoveredArrows">
+          <param name="Local" value="Classes/Map/MapChart/MapChart.HoveredArrows.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapChart.HoveredBars">
+          <param name="Local" value="Classes/Map/MapChart/MapChart.HoveredBars.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapChart.HoveredBubbles">
+          <param name="Local" value="Classes/Map/MapChart/MapChart.HoveredBubbles.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapChart.HoveredMarkers">
+          <param name="Local" value="Classes/Map/MapChart/MapChart.HoveredMarkers.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapChart.HoveredPies">
+          <param name="Local" value="Classes/Map/MapChart/MapChart.HoveredPies.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapChart.hoverItems">
+          <param name="Local" value="Classes/Map/MapChart/MapChart.hoverItems.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapChart.InactiveItemsOpacity">
+          <param name="Local" value="Classes/Map/MapChart/MapChart.InactiveItemsOpacity.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapChart.IsHandCursor">
+          <param name="Local" value="Classes/Map/MapChart/MapChart.IsHandCursor.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapChart.isLoaded">
+          <param name="Local" value="Classes/Map/MapChart/MapChart.isLoaded.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapChart.isSomethingSelected">
+          <param name="Local" value="Classes/Map/MapChart/MapChart.isSomethingSelected.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapChart.ItemsHovered">
+          <param name="Local" value="Classes/Map/MapChart/MapChart.ItemsHovered.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapChart.LastHoveredItem">
+          <param name="Local" value="Classes/Map/MapChart/MapChart.LastHoveredItem.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapChart.Loaded">
+          <param name="Local" value="Classes/Map/MapChart/MapChart.Loaded.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapChart.MapGrid">
+          <param name="Local" value="Classes/Map/MapChart/MapChart.MapGrid.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapChart.MapMarkers">
+          <param name="Local" value="Classes/Map/MapChart/MapChart.MapMarkers.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapChart.MaxScale">
+          <param name="Local" value="Classes/Map/MapChart/MapChart.MaxScale.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapChart.MiniMap">
+          <param name="Local" value="Classes/Map/MapChart/MapChart.MiniMap.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapChart.MiniMapEnabled">
+          <param name="Local" value="Classes/Map/MapChart/MapChart.MiniMapEnabled.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapChart.MiniMapScale">
+          <param name="Local" value="Classes/Map/MapChart/MapChart.MiniMapScale.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapChart.MinScale">
+          <param name="Local" value="Classes/Map/MapChart/MapChart.MinScale.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapChart.pauseTimeline">
+          <param name="Local" value="Classes/Map/MapChart/MapChart.pauseTimeline.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapChart.PixelsPerRadian">
+          <param name="Local" value="Classes/Map/MapChart/MapChart.PixelsPerRadian.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapChart.Refreshed">
+          <param name="Local" value="Classes/Map/MapChart/MapChart.Refreshed.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapChart.refreshView">
+          <param name="Local" value="Classes/Map/MapChart/MapChart.refreshView.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapChart.RenderToCanvas">
+          <param name="Local" value="Classes/Map/MapChart/MapChart.RenderToCanvas.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapChart.requestContentChanged">
+          <param name="Local" value="Classes/Map/MapChart/MapChart.requestContentChanged.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapChart.resumeTimeline">
+          <param name="Local" value="Classes/Map/MapChart/MapChart.resumeTimeline.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapChart.Scale">
+          <param name="Local" value="Classes/Map/MapChart/MapChart.Scale.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapChart.scale">
+          <param name="Local" value="Classes/Map/MapChart/MapChart.ScaleM.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapChart.sceneToScreen">
+          <param name="Local" value="Classes/Map/MapChart/MapChart.sceneToScreen.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapChart.sceneToScreenIfVisible">
+          <param name="Local" value="Classes/Map/MapChart/MapChart.sceneToScreenIfVisible.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapChart.SelectedArrows">
+          <param name="Local" value="Classes/Map/MapChart/MapChart.SelectedArrows.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapChart.SelectedBars">
+          <param name="Local" value="Classes/Map/MapChart/MapChart.SelectedBars.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapChart.SelectedBubbles">
+          <param name="Local" value="Classes/Map/MapChart/MapChart.SelectedBubbles.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapChart.SelectedMarkers">
+          <param name="Local" value="Classes/Map/MapChart/MapChart.SelectedMarkers.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapChart.SelectedPies">
+          <param name="Local" value="Classes/Map/MapChart/MapChart.SelectedPies.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapChart.selectItems">
+          <param name="Local" value="Classes/Map/MapChart/MapChart.selectItems.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapChart.setMasterSettings">
+          <param name="Local" value="Classes/Map/MapChart/MapChart.setMasterSettings.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapChart.setViewArea">
+          <param name="Local" value="Classes/Map/MapChart/MapChart.setViewArea.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapChart.Shape3DOpacity">
+          <param name="Local" value="Classes/Map/MapChart/MapChart.Shape3DOpacity.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapChart.ShapesBorderColor">
+          <param name="Local" value="Classes/Map/MapChart/MapChart.ShapesBorderColor.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapChart.SphereTexture">
+          <param name="Local" value="Classes/Map/MapChart/MapChart.SphereTexture.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapChart.TimelineStepChanged">
+          <param name="Local" value="Classes/Map/MapChart/MapChart.TimelineStepChanged.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapChart.TimelineStepChanging">
+          <param name="Local" value="Classes/Map/MapChart/MapChart.TimelineStepChanging.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapChart.ToolTipDelay">
+          <param name="Local" value="Classes/Map/MapChart/MapChart.ToolTipDelay.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapChart.TopobaseHorizontalAlignment">
+          <param name="Local" value="Classes/Map/MapChart/MapChart.TopobaseHorizontalAlignment.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapChart.TopobaseSize">
+          <param name="Local" value="Classes/Map/MapChart/MapChart.TopobaseSize.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapChart.topobaseToScreen">
+          <param name="Local" value="Classes/Map/MapChart/MapChart.topobaseToScreen.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapChart.TopobaseVerticalAlignment">
+          <param name="Local" value="Classes/Map/MapChart/MapChart.TopobaseVerticalAlignment.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapChart.TopoBoundingAngles">
+          <param name="Local" value="Classes/Map/MapChart/MapChart.TopoBoundingAngles.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapChart.TopoBoundingBox">
+          <param name="Local" value="Classes/Map/MapChart/MapChart.TopoBoundingBox.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapChart.TopoNormalization">
+          <param name="Local" value="Classes/Map/MapChart/MapChart.TopoNormalization.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapChart.Type">
+          <param name="Local" value="Classes/Map/MapChart/MapChart.Type.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapChart.UnhoverTimeout">
+          <param name="Local" value="Classes/Map/MapChart/MapChart.UnhoverTimeout.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapChart.UseItemColorForToolTipBorder">
+          <param name="Local" value="Classes/Map/MapChart/MapChart.UseItemColorForToolTipBorder.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapChart.UseMorphFill">
+          <param name="Local" value="Classes/Map/MapChart/MapChart.UseMorphFill.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapChart.UseSelectOnClick">
+          <param name="Local" value="Classes/Map/MapChart/MapChart.UseSelectOnClick.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapChart.UseZoomOnWheel">
+          <param name="Local" value="Classes/Map/MapChart/MapChart.UseZoomOnWheel.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapChart.ViewAreaChanged">
+          <param name="Local" value="Classes/Map/MapChart/MapChart.ViewAreaChanged.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Конструктор MapChart">
+          <param name="Local" value="Classes/Map/MapChart/Constructor_MapChart.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="MapChartConverter">
+        <param name="Local" value="Classes/Map/MapChartConverter/MapChartConverter.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapChartConverter.convertSettings">
+          <param name="Local" value="Classes/Map/MapChartConverter/MapChartConverter.convertSettings.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Конструктор MapChartConverter">
+          <param name="Local" value="Classes/Map/MapChartConverter/Constructor_MapChartConverter.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="MapContentMilestone">
+        <param name="Local" value="Classes/Map/MapContentMilestone/MapContentMilestone.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapContentMilestone.AnimationCompleted">
+          <param name="Local" value="Classes/Map/MapContentMilestone/MapContentMilestone.AnimationCompleted.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapContentMilestone.AnimationCycleCompleted">
+          <param name="Local" value="Classes/Map/MapContentMilestone/MapContentMilestone.AnimationCycleCompleted.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapContentMilestone.AnimationStarted">
+          <param name="Local" value="Classes/Map/MapContentMilestone/MapContentMilestone.AnimationStarted.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapContentMilestone.clear">
+          <param name="Local" value="Classes/Map/MapContentMilestone/MapContentMilestone.clear.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapContentMilestone.draw3d">
+          <param name="Local" value="Classes/Map/MapContentMilestone/MapContentMilestone.draw3d.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapContentMilestone.getMilestonePosition">
+          <param name="Local" value="Classes/Map/MapContentMilestone/MapContentMilestone.getMilestonePosition.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapContentMilestone.getMilestonePosition3d">
+          <param name="Local" value="Classes/Map/MapContentMilestone/MapContentMilestone.getMilestonePosition3d.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapContentMilestone.getScreen2DCoord">
+          <param name="Local" value="Classes/Map/MapContentMilestone/MapContentMilestone.getScreen2DCoord.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapContentMilestone.Interval">
+          <param name="Local" value="Classes/Map/MapContentMilestone/MapContentMilestone.Interval.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapContentMilestone.move">
+          <param name="Local" value="Classes/Map/MapContentMilestone/MapContentMilestone.move.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapContentMilestone.OffsetType">
+          <param name="Local" value="Classes/Map/MapContentMilestone/MapContentMilestone.OffsetType.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapContentMilestone.Shape">
+          <param name="Local" value="Classes/Map/MapContentMilestone/MapContentMilestone.Shape.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapContentMilestone.startAnimation">
+          <param name="Local" value="Classes/Map/MapContentMilestone/MapContentMilestone.startAnimation.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapContentMilestone.stopAnimation">
+          <param name="Local" value="Classes/Map/MapContentMilestone/MapContentMilestone.stopAnimation.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="MapDefaultSettingsProvider">
+        <param name="Local" value="Classes/Map/MapDefaultSettingsProvider/MapDefaultSettingsProvider.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapDefaultSettingsProvider.getArrowDefaulLabelMaskText">
+          <param name="Local" value="Classes/Map/MapDefaultSettingsProvider/MapDefaultSettingsProvider.getArrowDefaultLabelMaskText.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapDefaultSettingsProvider.getArrowDefaultTooltipMaskText">
+          <param name="Local" value="Classes/Map/MapDefaultSettingsProvider/MapDefaultSettingsProvider.getArrowDefaultTooltipMaskText.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapDefaultSettingsProvider.getBarDefaultTooltipMaskText">
+          <param name="Local" value="Classes/Map/MapDefaultSettingsProvider/MapDefaultSettingsProvider.getBarDefaultTooltipMaskText.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapDefaultSettingsProvider.getBubbleDefaultTooltipMaskText">
+          <param name="Local" value="Classes/Map/MapDefaultSettingsProvider/MapDefaultSettingsProvider.getBubbleDefaultTooltipMaskText.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapDefaultSettingsProvider.getMarkerDefaultTooltipMaskText">
+          <param name="Local" value="Classes/Map/MapDefaultSettingsProvider/MapDefaultSettingsProvider.getMarkerDefaultTooltipMaskText.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapDefaultSettingsProvider.getPieDefaultTooltipMaskText">
+          <param name="Local" value="Classes/Map/MapDefaultSettingsProvider/MapDefaultSettingsProvider.getPieDefaultTooltipMaskText.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Конструктор MapDefaultSettingsProvider">
+          <param name="Local" value="Classes/Map/MapDefaultSettingsProvider/Constructor_MapDefaultSettingsProvider.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="MapFiguredArrow">
+        <param name="Local" value="Classes/Map/MapFiguredArrow/MapFiguredArrow.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapFiguredArrow.BasementWidth">
+          <param name="Local" value="Classes/Map/MapFiguredArrow/MapFiguredArrow.BasementWidth.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Конструктор MapFiguredArrow">
+          <param name="Local" value="Classes/Map/MapFiguredArrow/Constructor_MapFiguredArrow.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="MapFilledArrow">
+        <param name="Local" value="Classes/Map/MapFilledArrow/MapFilledArrow.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapFilledArrow.BasementWidth">
+          <param name="Local" value="Classes/Map/MapFilledArrow/MapFilledArrow.BasementWidth.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Конструктор MapFilledArrow">
+          <param name="Local" value="Classes/Map/MapFilledArrow/Constructor_MapFilledArrow.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="MapGeoItem">
+        <param name="Local" value="Classes/Map/MapGeoItem/MapGeoItem.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapGeoItem.Latitude">
+          <param name="Local" value="Classes/Map/MapGeoItem/MapGeoItem.Latitude.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapGeoItem.Longitude">
+          <param name="Local" value="Classes/Map/MapGeoItem/MapGeoItem.Longitude.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapGeoItem.X">
+          <param name="Local" value="Classes/Map/MapGeoItem/MapGeoItem.X.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapGeoItem.Y">
+          <param name="Local" value="Classes/Map/MapGeoItem/MapGeoItem.Y.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Конструктор MapGeoItem">
+          <param name="Local" value="Classes/Map/MapGeoItem/Constructor_MapGeoItem.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="MapGrid">
+        <param name="Local" value="Classes/Map/MapGrid/MapGrid.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapGrid.Color">
+          <param name="Local" value="Classes/Map/MapGrid/MapGrid.Color.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapGrid.getIsDrawed">
+          <param name="Local" value="Classes/Map/MapGrid/MapGrid.getIsDrawed.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapGrid.HorizontalLinesCount">
+          <param name="Local" value="Classes/Map/MapGrid/MapGrid.HorizontalLinesCount.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapGrid.HorizontalLinesStep">
+          <param name="Local" value="Classes/Map/MapGrid/MapGrid.HorizontalLinesStep.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapGrid.HorizontalLinesStepType">
+          <param name="Local" value="Classes/Map/MapGrid/MapGrid.HorizontalLinesStepType.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapGrid.VerticalLinesCount">
+          <param name="Local" value="Classes/Map/MapGrid/MapGrid.VerticalLinesCount.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapGrid.VerticalLinesStep">
+          <param name="Local" value="Classes/Map/MapGrid/MapGrid.VerticalLinesStep.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapGrid.VerticalLinesStepType">
+          <param name="Local" value="Classes/Map/MapGrid/MapGrid.VerticalLinesStepType.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Конструктор MapGrid">
+          <param name="Local" value="Classes/Map/MapGrid/Constructor_MapGrid.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="MapImageMilestone">
+        <param name="Local" value="Classes/Map/MapImageMilestone/MapImageMilestone.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapImageMilestone.Height">
+          <param name="Local" value="Classes/Map/MapImageMilestone/MapImageMilestone.Height.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapImageMilestone.Source">
+          <param name="Local" value="Classes/Map/MapImageMilestone/MapImageMilestone.Source.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapImageMilestone.Width">
+          <param name="Local" value="Classes/Map/MapImageMilestone/MapImageMilestone.Width.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Конструктор MapImageMilestone">
+          <param name="Local" value="Classes/Map/MapImageMilestone/Constructor_MapImageMilestone.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="MapLabel">
+        <param name="Local" value="Classes/Map/MapLabel/MapLabel.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapLabel.setBorderColor">
+          <param name="Local" value="Classes/Map/MapLabel/MapLabel.setBorderColor.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="MapLayer">
+        <param name="Local" value="Classes/Map/MapLayer/MapLayer.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapLayer.addShape">
+          <param name="Local" value="Classes/Map/MapLayer/MapLayer.addShape.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapLayer.addSubLayer">
+          <param name="Local" value="Classes/Map/MapLayer/MapLayer.addSubLayer.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapLayer.animate">
+          <param name="Local" value="Classes/Map/MapLayer/MapLayer.animate.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapLayer.Bars">
+          <param name="Local" value="Classes/Map/MapLayer/MapLayer.Bars.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapLayer.Bubbles">
+          <param name="Local" value="Classes/Map/MapLayer/MapLayer.Bubbles.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapLayer.clear">
+          <param name="Local" value="Classes/Map/MapLayer/MapLayer.clear.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapLayer.clearLayers">
+          <param name="Local" value="Classes/Map/MapLayer/MapLayer.clearLayers.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapLayer.clearShapes">
+          <param name="Local" value="Classes/Map/MapLayer/MapLayer.clearShapes.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapLayer.clearVisualItems">
+          <param name="Local" value="Classes/Map/MapLayer/MapLayer.clearVisualItems.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapLayer.Effect">
+          <param name="Local" value="Classes/Map/MapLayer/MapLayer.Effect.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapLayer.getIsLayersVisible">
+          <param name="Local" value="Classes/Map/MapLayer/MapLayer.getIsLayersVisible.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapLayer.getMapBarCollection">
+          <param name="Local" value="Classes/Map/MapLayer/MapLayer.getMapBarCollection.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapLayer.getMapBubbleCollection">
+          <param name="Local" value="Classes/Map/MapLayer/MapLayer.getMapBubbleCollection.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapLayer.getMapPieCollection">
+          <param name="Local" value="Classes/Map/MapLayer/MapLayer.getMapPieCollection.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapLayer.getShape">
+          <param name="Local" value="Classes/Map/MapLayer/MapLayer.getShape.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapLayer.getSubLayer">
+          <param name="Local" value="Classes/Map/MapLayer/MapLayer.getSubLayer.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapLayer.getSubLayers">
+          <param name="Local" value="Classes/Map/MapLayer/MapLayer.getSubLayers.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapLayer.Label">
+          <param name="Local" value="Classes/Map/MapLayer/MapLayer.Label.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapLayer.Milestones">
+          <param name="Local" value="Classes/Map/MapLayer/MapLayer.Milestones.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapLayer.ParentLayer">
+          <param name="Local" value="Classes/Map/MapLayer/MapLayer.ParentLayer.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapLayer.Pies">
+          <param name="Local" value="Classes/Map/MapLayer/MapLayer.Pies.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapLayer.PlaceVisualsOneByOne">
+          <param name="Local" value="Classes/Map/MapLayer/MapLayer.PlaceVisualsOneByOne.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapLayer.rebuildLabels">
+          <param name="Local" value="Classes/Map/MapLayer/MapLayer.rebuildLabels.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapLayer.rebuildToolTips">
+          <param name="Local" value="Classes/Map/MapLayer/MapLayer.rebuildToolTips.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapLayer.removeShape">
+          <param name="Local" value="Classes/Map/MapLayer/MapLayer.removeShape.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapLayer.removeSubLayer">
+          <param name="Local" value="Classes/Map/MapLayer/MapLayer.removeSubLayer.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapLayer.renderFrame">
+          <param name="Local" value="Classes/Map/MapLayer/MapLayer.renderFrame.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapLayer.setSize">
+          <param name="Local" value="Classes/Map/MapLayer/MapLayer.setSize.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapLayer.Shapes">
+          <param name="Local" value="Classes/Map/MapLayer/MapLayer.Shapes.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapLayer.ToolTip">
+          <param name="Local" value="Classes/Map/MapLayer/MapLayer.ToolTip.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapLayer.updateLabelPositions">
+          <param name="Local" value="Classes/Map/MapLayer/MapLayer.updateLabelPositions.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapLayer.updateLabelPositions3d">
+          <param name="Local" value="Classes/Map/MapLayer/MapLayer.updateLabelPositions3d.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapLayer.updateMilestones">
+          <param name="Local" value="Classes/Map/MapLayer/MapLayer.updateMilestones.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapLayer.updateMilestones3d">
+          <param name="Local" value="Classes/Map/MapLayer/MapLayer.updateMilestones3d.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapLayer.updateTooltipPositions">
+          <param name="Local" value="Classes/Map/MapLayer/MapLayer.updateTooltipPositions.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapLayer.updateTooltipPositions3d">
+          <param name="Local" value="Classes/Map/MapLayer/MapLayer.updateTooltipPositions3d.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapLayer.updateVisualItemsPositions">
+          <param name="Local" value="Classes/Map/MapLayer/MapLayer.updateVisualItemsPositions.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapLayer.Visual">
+          <param name="Local" value="Classes/Map/MapLayer/MapLayer.Visual.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapLayer.VisualsOffset">
+          <param name="Local" value="Classes/Map/MapLayer/MapLayer.VisualsOffset.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="MapMaster">
+        <param name="Local" value="Components/MapMaster/MapMaster.htm#642b3b9347ca42c9b00b820c00c373fa=1">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Конструктор MapMaster">
+          <param name="Local" value="Classes/MapMaster/Constructor_MapMaster.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapMaster.AreMetricsOn">
+          <param name="Local" value="Classes/MapMaster/MapMaster.AreMetricsOn.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapMaster.DataView">
+          <param name="Local" value="Classes/MapMaster/MapMaster.DataView.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapMaster.getAreaVisualPanel">
+          <param name="Local" value="Classes/MapMaster/MapMaster.getAreaVisualPanel.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapMaster.getLegendPanel">
+          <param name="Local" value="Classes/MapMaster/MapMaster.getLegendPanel.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapMaster.getVisual3DPanel">
+          <param name="Local" value="Classes/MapMaster/MapMaster.getVisual3DPanel.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapMaster.hide3DPanel">
+          <param name="Local" value="Classes/MapMaster/MapMaster.hide3DPanel.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapMaster.Loaded">
+          <param name="Local" value="Classes/MapMaster/MapMaster.Loaded.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapMaster.MapChartSL">
+          <param name="Local" value="Classes/MapMaster/MapMaster.MapChartSL.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapMaster.show3DPanel">
+          <param name="Local" value="Classes/MapMaster/MapMaster.show3DPanel.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="MapMarker">
+        <param name="Local" value="Classes/Map/MapMarker/MapMarker.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapMarker.getToolTipColor">
+          <param name="Local" value="Classes/Map/MapMarker/MapMarker.getToolTipColor.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Конструктор MapMarker">
+          <param name="Local" value="Classes/Map/MapMarker/Constructor_MapMarker.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="MapMarkerVisualPanel">
+        <param name="Local" value="Classes/Map/MapMarkerVisualPanel/MapMarkerVisualPanel.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Конструктор MapMarkerVisualPanel">
+          <param name="Local" value="Classes/Map/MapMarkerVisualPanel/Constructor_MapMarkerVisualPanel.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="MapMetaAttribute">
+        <param name="Local" value="Classes/Map/MapMetaAttribute/MapMetaAttribute.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapMetaAttribute.AttributeData">
+          <param name="Local" value="Classes/Map/MapMetaAttribute/MapMetaAttribute.AttributeData.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapMetaAttribute.getAttributeDataValue">
+          <param name="Local" value="Classes/Map/MapMetaAttribute/MapMetaAttribute.getAttributeDataValue.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapMetaAttribute.Name">
+          <param name="Local" value="Classes/Map/MapMetaAttribute/MapMetaAttribute.Name.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapMetaAttribute.Type">
+          <param name="Local" value="Classes/Map/MapMetaAttribute/MapMetaAttribute.Type.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Конструктор MapMetaAttribute">
+          <param name="Local" value="Classes/Map/MapMetaAttribute/Constructor_MapMetaAttribute.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="MapMetaAttributeData">
+        <param name="Local" value="Classes/Map/MapMetaAttributeData/MapMetaAttributeData.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapMetaAttributeData.Value">
+          <param name="Local" value="Classes/Map/MapMetaAttributeData/MapMetaAttributeData.Value.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Конструктор MapMetaAttributeData">
+          <param name="Local" value="Classes/Map/MapMetaAttributeData/Constructor_MapMetaAttributeData.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="MapMilestoneAnimation">
+        <param name="Local" value="Classes/Map/MapMilestoneAnimation/MapMilestoneAnimation.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="MapObject">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapObject">
+          <param name="Local" value="Classes/Map/MapObject/MapObject.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapObject.Chart">
+          <param name="Local" value="Classes/Map/MapObject/MapObject.Chart.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapObject.DomNode">
+          <param name="Local" value="Classes/Map/MapObject/MapObject.DomNode.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapObject.draw">
+          <param name="Local" value="Classes/Map/MapObject/MapObject.draw.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapObject.getIsSettingsCreated">
+          <param name="Local" value="Classes/Map/MapObject/MapObject.getIsSettingsCreated.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapObject.hide">
+          <param name="Local" value="Classes/Map/MapObject/MapObject.hide.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapObject.IsVisible">
+          <param name="Local" value="Classes/Map/MapObject/MapObject.IsVisible.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapObject.PluginData">
+          <param name="Local" value="Classes/Map/MapObject/MapObject.PluginData.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapObject.scale">
+          <param name="Local" value="Classes/Map/MapObject/MapObject.scale.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapObject.show">
+          <param name="Local" value="Classes/Map/MapObject/MapObject.show.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="MapPie">
+        <param name="Local" value="Classes/Map/MapPie/MapPie.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapPie.BorderThickness">
+          <param name="Local" value="Classes/Map/MapPie/MapPie.BorderThickness.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapPie.getToolTipColor">
+          <param name="Local" value="Classes/Map/MapPie/MapPie.getToolTipColor.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapPie.HideNoData">
+          <param name="Local" value="Classes/Map/MapPie/MapPie.HideNoData.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapPie.isMeta">
+          <param name="Local" value="Classes/Map/MapPie/MapPie.isMeta.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapPie.IsProportional">
+          <param name="Local" value="Classes/Map/MapPie/MapPie.IsProportional.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapPie.LeastAnglePart">
+          <param name="Local" value="Classes/Map/MapPie/MapPie.LeastAnglePart.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapPie.LeastRadiusPart">
+          <param name="Local" value="Classes/Map/MapPie/MapPie.LeastRadiusPart.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapPie.MaxPiesCount">
+          <param name="Local" value="Classes/Map/MapPie/MapPie.MaxPiesCount.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapPie.StartAngle">
+          <param name="Local" value="Classes/Map/MapPie/MapPie.StartAngle.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapPie.UseInvertedAngles">
+          <param name="Local" value="Classes/Map/MapPie/MapPie.UseInvertedAngles.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Конструктор MapPie">
+          <param name="Local" value="Classes/Map/MapPie/Constructor_MapPie.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="MapPieVisualPanel">
+        <param name="Local" value="Classes/Map/MapPieVisualPanel/MapPieVisualPanel.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Конструктор MapPieVisualPanel">
+          <param name="Local" value="Classes/Map/MapPieVisualPanel/Constructor_MapPieVisualPanel.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="MapPolygonMilestone">
+        <param name="Local" value="Classes/Map/MapPolygonMilestone/MapPolygonMilestone.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapPolygonMilestone.Fill">
+          <param name="Local" value="Classes/Map/MapPolygonMilestone/MapPolygonMilestone.Fill.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapPolygonMilestone.Points">
+          <param name="Local" value="Classes/Map/MapPolygonMilestone/MapPolygonMilestone.Points.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Конструктор MapPolygonMilestone">
+          <param name="Local" value="Classes/Map/MapPolygonMilestone/Constructor_MapPolygonMilestone.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="MapShape">
+        <param name="Local" value="Classes/Map/MapShape/MapShape.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapShape.addVerticesData">
+          <param name="Local" value="Classes/Map/MapShape/MapShape.addVerticesData.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapShape.animate">
+          <param name="Local" value="Classes/Map/MapShape/MapShape.animate.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapShape.applyEffect3d">
+          <param name="Local" value="Classes/Map/MapShape/MapShape.applyEffect3d.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapShape.Background">
+          <param name="Local" value="Classes/Map/MapShape/MapShape.Background.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapShape.BorderColor">
+          <param name="Local" value="Classes/Map/MapShape/MapShape.BorderColor.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapShape.BoundingAngles">
+          <param name="Local" value="Classes/Map/MapShape/MapShape.BoundingAngles.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapShape.clear">
+          <param name="Local" value="Classes/Map/MapShape/MapShape.clear.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapShape.Disposing">
+          <param name="Local" value="Classes/Map/MapShape/MapShape.Disposing.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapShape.Effect">
+          <param name="Local" value="Classes/Map/MapShape/MapShape.Effect.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapShape.getBoundingBox">
+          <param name="Local" value="Classes/Map/MapShape/MapShape.getBoundingBox.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapShape.getBoundsRec">
+          <param name="Local" value="Classes/Map/MapShape/MapShape.getBoundsRec.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapShape.getCenter">
+          <param name="Local" value="Classes/Map/MapShape/MapShape.getCenter.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapShape.getCurrentBrush">
+          <param name="Local" value="Classes/Map/MapShape/MapShape.getCurrentBrush.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapShape.getIntersectionWithRay">
+          <param name="Local" value="Classes/Map/MapShape/MapShape.getIntersectionWithRay.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapShape.getPoint">
+          <param name="Local" value="Classes/Map/MapShape/MapShape.getPoint.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapShape.getRGBColor">
+          <param name="Local" value="Classes/Map/MapShape/MapShape.getRGBColor.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapShape.getToolTipColor">
+          <param name="Local" value="Classes/Map/MapShape/MapShape.getToolTipColor.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapShape.getToolTipValues">
+          <param name="Local" value="Classes/Map/MapShape/MapShape.getToolTipValues.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapShape.Hover">
+          <param name="Local" value="Classes/Map/MapShape/MapShape.Hover.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapShape.IsHandCursor">
+          <param name="Local" value="Classes/Map/MapShape/MapShape.IsHandCursor.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapShape.isInsideFrustum">
+          <param name="Local" value="Classes/Map/MapShape/MapShape.isInsideFrustum.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapShape.isOpaque">
+          <param name="Local" value="Classes/Map/MapShape/MapShape.isOpaque.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapShape.IsRendered">
+          <param name="Local" value="Classes/Map/MapShape/MapShape.IsRendered.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapShape.IsStroked">
+          <param name="Local" value="Classes/Map/MapShape/MapShape.IsStroked.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapShape.joinVerticesData">
+          <param name="Local" value="Classes/Map/MapShape/MapShape.joinVerticesData.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapShape.Label">
+          <param name="Local" value="Classes/Map/MapShape/MapShape.Label.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapShape.MouseMove">
+          <param name="Local" value="Classes/Map/MapShape/MapShape.MouseMove.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapShape.normalize3d">
+          <param name="Local" value="Classes/Map/MapShape/MapShape.normalize3d.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapShape.ParentLayer">
+          <param name="Local" value="Classes/Map/MapShape/MapShape.ParentLayer.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapShape.rebuildLabel">
+          <param name="Local" value="Classes/Map/MapShape/MapShape.rebuildLabel.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapShape.rebuildToolTip">
+          <param name="Local" value="Classes/Map/MapShape/MapShape.rebuildToolTip.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapShape.render3d">
+          <param name="Local" value="Classes/Map/MapShape/MapShape.render3d.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapShape.renderBorder3d">
+          <param name="Local" value="Classes/Map/MapShape/MapShape.renderBorder3d.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapShape.setBorder">
+          <param name="Local" value="Classes/Map/MapShape/MapShape.setBorder.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapShape.StrokeWidth">
+          <param name="Local" value="Classes/Map/MapShape/MapShape.StrokeWidth.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapShape.toggleLabel">
+          <param name="Local" value="Classes/Map/MapShape/MapShape.toggleLabel.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapShape.toggleLabel3d">
+          <param name="Local" value="Classes/Map/MapShape/MapShape.toggleLabel3d.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapShape.toggleTooltip">
+          <param name="Local" value="Classes/Map/MapShape/MapShape.toggleTooltip.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapShape.toggleToolTip3d">
+          <param name="Local" value="Classes/Map/MapShape/MapShape.toggleToolTip3d.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapShape.ToolTip">
+          <param name="Local" value="Classes/Map/MapShape/MapShape.ToolTip.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapShape.updateLabelPosition">
+          <param name="Local" value="Classes/Map/MapShape/MapShape.updateLabelPosition.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapShape.updateLabelPosition3d">
+          <param name="Local" value="Classes/Map/MapShape/MapShape.updateLabelPosition3d.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapShape.updateTooltipPosition">
+          <param name="Local" value="Classes/Map/MapShape/MapShape.updateTooltipPosition.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapShape.updateTooltipPosition3d">
+          <param name="Local" value="Classes/Map/MapShape/MapShape.updateTooltipPosition3d.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapShape.updateTranscript">
+          <param name="Local" value="Classes/Map/MapShape/MapShape.updateTranscript.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapShape.Value">
+          <param name="Local" value="Classes/Map/MapShape/MapShape.Value.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapShape.VerticesData">
+          <param name="Local" value="Classes/Map/MapShape/MapShape.VerticesData.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapShape.Visual">
+          <param name="Local" value="Classes/Map/MapShape/MapShape.Visual.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapShape.ZValue">
+          <param name="Local" value="Classes/Map/MapShape/MapShape.ZValue.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="MapSimpleArrow">
+        <param name="Local" value="Classes/Map/MapSimpleArrow/MapSimpleArrow.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Конструктор MapSimpleArrow">
+          <param name="Local" value="Classes/Map/MapSimpleArrow/Constructor_MapSimpleArrow.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="MapSizeLegendPanel">
+        <param name="Local" value="Classes/MapSizeLegendPanel/MapSizeLegendPanel.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Конструктор MapSizeLegendPanel">
+          <param name="Local" value="Classes/MapSizeLegendPanel/Constructor_MapSizeLegendPanel.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="MapTerritoryTranscript">
+        <param name="Local" value="Classes/Map/MapTerritoryTranscript/MapTerritoryTranscript.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapTerritoryTranscript.CellSpacing">
+          <param name="Local" value="Classes/Map/MapTerritoryTranscript/MapTerritoryTranscript.CellSpacing.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapTerritoryTranscript.Chart">
+          <param name="Local" value="Classes/Map/MapTerritoryTranscript/MapTerritoryTranscript.Chart.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapTerritoryTranscript.ColumnCount">
+          <param name="Local" value="Classes/Map/MapTerritoryTranscript/MapTerritoryTranscript.ColumnCount.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapTerritoryTranscript.CurrentPage">
+          <param name="Local" value="Classes/Map/MapTerritoryTranscript/MapTerritoryTranscript.CurrentPage.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapTerritoryTranscript.getPagesCount">
+          <param name="Local" value="Classes/Map/MapTerritoryTranscript/MapTerritoryTranscript.getPagesCount.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapTerritoryTranscript.HighlightBrush">
+          <param name="Local" value="Classes/Map/MapTerritoryTranscript/MapTerritoryTranscript.HighlightBrush.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapTerritoryTranscript.highlight">
+          <param name="Local" value="Classes/Map/MapTerritoryTranscript/MapTerritoryTranscript.hightlight.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapTerritoryTranscript.ItemsOrder">
+          <param name="Local" value="Classes/Map/MapTerritoryTranscript/MapTerritoryTranscript.ItemsOrder.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapTerritoryTranscript.MaxItemCount">
+          <param name="Local" value="Classes/Map/MapTerritoryTranscript/MapTerritoryTranscript.MaxItemCount.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapTerritoryTranscript.PageMode">
+          <param name="Local" value="Classes/Map/MapTerritoryTranscript/MapTerritoryTranscript.PageMode.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapTerritoryTranscript.ParentLayer">
+          <param name="Local" value="Classes/Map/MapTerritoryTranscript/MapTerritoryTranscript.ParentLayer.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapTerritoryTranscript.SortingMode">
+          <param name="Local" value="Classes/Map/MapTerritoryTranscript/MapTerritoryTranscript.SortingMode.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Конструктор MapTerritoryTranscript">
+          <param name="Local" value="Classes/Map/MapTerritoryTranscript/Constructor_MapTerritoryTranscript.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="MapTooltipsPanel">
+        <param name="Local" value="Classes/Map/MapTooltipsPanel/MapTooltipsPanel.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapTooltipsPanel.AutoMaskCheckboxVisible">
+          <param name="Local" value="Classes/Map/MapTooltipsPanel/MapTooltipsPanel.AutoMaskCheckboxVisible.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="MapTimeline">
+        <param name="Local" value="Classes/Map/MapTimeline/MapTimeline.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapTimeline.applyAlignment">
+          <param name="Local" value="Classes/Map/MapTimeline/MapTimeline.applyAlignment.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapTimeline.CurrentStep">
+          <param name="Local" value="Classes/Map/MapTimeline/MapTimeline.CurrentStep.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapTimeline.getDomNode">
+          <param name="Local" value="Classes/Map/MapTimeline/MapTimeline.getDomNode.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapTimeline.getIsOverlap">
+          <param name="Local" value="Classes/Map/MapTimeline/MapTimeline.getIsOverlap.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapTimeline.getIsStarted">
+          <param name="Local" value="Classes/Map/MapTimeline/MapTimeline.getIsStarted.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapTimeline.getMapSlider">
+          <param name="Local" value="Classes/Map/MapTimeline/MapTimeline.getMapSlider.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapTimeline.getVerticalAlignment">
+          <param name="Local" value="Classes/Map/MapTimeline/MapTimeline.getVerticalAlignment.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapTimeline.isRendered">
+          <param name="Local" value="Classes/Map/MapTimeline/MapTimeline.isRendered.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapTimeline.play">
+          <param name="Local" value="Classes/Map/MapTimeline/MapTimeline.play.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapTimeLine.Step">
+          <param name="Local" value="Classes/Map/MapTimeline/MapTimeLine.Step.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapTimeline.updateSize">
+          <param name="Local" value="Classes/Map/MapTimeline/MapTimeline.updateSize.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="MapTopobase">
+        <param name="Local" value="Classes/Map/MapTopobase/MapTopobase.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapTopobase.changeTopobase">
+          <param name="Local" value="Classes/Map/MapTopobase/MapTopobase.changeTopobase.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapTopobase.isLoaded">
+          <param name="Local" value="Classes/Map/MapTopobase/MapTopobase.isLoaded.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapTopobase.MapChart">
+          <param name="Local" value="Classes/Map/MapTopobase/MapTopobase.MapChart.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapTopobase.TopobaseLoaded">
+          <param name="Local" value="Classes/Map/MapTopobase/MapTopobase.TopobaseLoaded.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapTopobase.TopobaseUrl">
+          <param name="Local" value="Classes/Map/MapTopobase/MapTopobase.TopobaseUrl.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Конструктор MapTopobase">
+          <param name="Local" value="Classes/Map/MapTopobase/Constructor_MapTopobase.htm">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="MapTopobaseMeta">
+        <param name="Local" value="Classes/Map/MapTopobaseMeta/MapTopobaseMeta.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapTopobaseMeta.Attribute">
+          <param name="Local" value="Classes/Map/MapTopobaseMeta/MapTopobaseMeta.Attribute.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapTopobaseMeta.Geo">
+          <param name="Local" value="Classes/Map/MapTopobaseMeta/MapTopobaseMeta.Geo.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapTopobaseMeta.getAttributeData">
+          <param name="Local" value="Classes/Map/MapTopobaseMeta/MapTopobaseMeta.getAttributeData.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapTopobaseMeta.getAttributeDataValue">
+          <param name="Local" value="Classes/Map/MapTopobaseMeta/MapTopobaseMeta.getAttributeDataValue.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapTopobaseMeta.parseFromXml">
+          <param name="Local" value="Classes/Map/MapTopobaseMeta/MapTopobaseMeta.parseFromXml.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapTopobaseMeta.setGeoItem">
+          <param name="Local" value="Classes/Map/MapTopobaseMeta/MapTopobaseMeta.setGeoItem.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Конструктор MapTopobaseMeta">
+          <param name="Local" value="Classes/Map/MapTopobaseMeta/Constructor_MapTopobaseMeta.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="MapVisualItem">
+        <param name="Local" value="Classes/Map/MapVisualItem/MapVisualItem.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapVisualItem.animate">
+          <param name="Local" value="Classes/Map/MapVisualItem/MapVisualItem.animate.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapVisualItem.Chart">
+          <param name="Local" value="Classes/Map/MapVisualItem/MapVisualItem.Chart.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapVisualItem.checkEnclosure">
+          <param name="Local" value="Classes/Map/MapVisualItem/MapVisualItem.checkEnclosure.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapVisualItem.checkIntersection">
+          <param name="Local" value="Classes/Map/MapVisualItem/MapVisualItem.checkIntersection.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapVisualItem.clear">
+          <param name="Local" value="Classes/Map/MapVisualItem/MapVisualItem.clear.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapVisualItem.draw">
+          <param name="Local" value="Classes/Map/MapVisualItem/MapVisualItem.draw.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapVisualItem.getBoundsRect">
+          <param name="Local" value="Classes/Map/MapVisualItem/MapVisualItem.getBoundsRect.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapVisualItem.getHeight">
+          <param name="Local" value="Classes/Map/MapVisualItem/MapVisualItem.getHeight.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapVisualItem.getLeft">
+          <param name="Local" value="Classes/Map/MapVisualItem/MapVisualItem.getLeft.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapVisualItem.getMainMappingId">
+          <param name="Local" value="Classes/Map/MapVisualItem/MapVisualItem.getMainMappingId.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapVisualItem.getShapeId">
+          <param name="Local" value="Classes/Map/MapVisualItem/MapVisualItem.getShapeId.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapVisualItem.getToolTipValues">
+          <param name="Local" value="Classes/Map/MapVisualItem/MapVisualItem.getToolTipValues.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapVisualItem.getTop">
+          <param name="Local" value="Classes/Map/MapVisualItem/MapVisualItem.getTop.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapVisualItem.getWidth">
+          <param name="Local" value="Classes/Map/MapVisualItem/MapVisualItem.getWidth.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapVisualItem.hide">
+          <param name="Local" value="Classes/Map/MapVisualItem/MapVisualItem.hide.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapVisualItem.IsVisible">
+          <param name="Local" value="Classes/Map/MapVisualItem/MapVisualItem.IsVisible.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapVisualItem.Layer">
+          <param name="Local" value="Classes/Map/MapVisualItem/MapVisualItem.Layer.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapVisualItem.renderFrame">
+          <param name="Local" value="Classes/Map/MapVisualItem/MapVisualItem.renderFrame.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapVisualItem.SelectedIndex">
+          <param name="Local" value="Classes/Map/MapVisualItem/MapVisualItem.SelectedIndex.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapVisualItem.Shape">
+          <param name="Local" value="Classes/Map/MapVisualItem/MapVisualItem.Shape.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapVisualItem.show">
+          <param name="Local" value="Classes/Map/MapVisualItem/MapVisualItem.show.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapVisualItem.toggleToolTip">
+          <param name="Local" value="Classes/Map/MapVisualItem/MapVisualItem.toggleToolTip.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapVisualItem.ToolTip">
+          <param name="Local" value="Classes/Map/MapVisualItem/MapVisualItem.ToolTip.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapVisualItem.updatePosition">
+          <param name="Local" value="Classes/Map/MapVisualItem/MapVisualItem.updatePosition.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapVisualItem.Visual">
+          <param name="Local" value="Classes/Map/MapVisualItem/MapVisualItem.Visual.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Конструктор MapVisualItem">
+          <param name="Local" value="Classes/Map/MapVisualItem/Constructor_MapVisualItem.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="MarkerVisual">
+        <param name="Local" value="Classes/Map/MarkerVisual/MarkerVisual.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Конструктор MarkerVisual">
+          <param name="Local" value="Classes/Map/MarkerVisual/Constructor_MarkerVisual.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MarkerVisual.getToolTipColor">
+          <param name="Local" value="Classes/Map/MarkerVisual/MarkerVisual.getToolTipColor.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="PieVisual">
+        <param name="Local" value="Classes/Map/PieVisual/PieVisual.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="PieVisual.AngleMappings">
+          <param name="Local" value="Classes/Map/PieVisual/PieVisual.AngleMappings.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="PieVisual.BorderMappings">
+          <param name="Local" value="Classes/Map/PieVisual/PieVisual.BorderMappings.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="PieVisual.ColorMappings">
+          <param name="Local" value="Classes/Map/PieVisual/PieVisual.ColorMappings.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="PieVisual.getFirstDataSource">
+          <param name="Local" value="Classes/Map/PieVisual/PieVisual.getFirstDataSource.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="PieVisual.getMappingsCount">
+          <param name="Local" value="Classes/Map/PieVisual/PieVisual.getMappingsCount.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="PieVisual.RadiusMappings">
+          <param name="Local" value="Classes/Map/PieVisual/PieVisual.RadiusMappings.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="PieVisual.setup">
+          <param name="Local" value="Classes/Map/PieVisual/PieVisual.setup.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Конструктор PieVisual">
+          <param name="Local" value="Classes/Map/PieVisual/Constructor_PieVisual.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="RegionName">
+        <param name="Local" value="Classes/Map/RegionName/RegionName.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="RegionName.Name">
+          <param name="Local" value="Classes/Map/RegionName/RegionName.Name.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Visual3DPanel">
+        <param name="Local" value="Classes/Visual3DPanel/MapMaster.Visual3DPanel.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapMaster.Visual3DPanel.SettingChanged">
+          <param name="Local" value="Classes/Visual3DPanel/MapMaster.Visual3DPanel.SettingChanged.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Перечисления">
+      <param name="Local" value="Classes/Map/Map_Classes.htm#enum642b3b9347ca42c9b00b820c00c373fa=2">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="MapAnimationType">
+        <param name="Local" value="Enums/MapAnimationType.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="MapChart.ArrowEffectsMode">
+        <param name="Local" value="Enums/MapChart.ArrowEffectsMode.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="MapChart.ArrowTextOrientation">
+        <param name="Local" value="Enums/ArrowTextOrientation.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="MapChart.HoverMode">
+        <param name="Local" value="Enums/HoverMode.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="MapChart.MapMilestoneOffsetType">
+        <param name="Local" value="Enums/MapMilestoneOffsetType.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="MapChart.MarkerShape">
+        <param name="Local" value="Enums/MarkerShape.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="MapChart.NoDataPosition">
+        <param name="Local" value="Enums/MapChart.NoDataPosition.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="MapChart.SortingMode">
+        <param name="Local" value="Enums/SortingMode.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="MapChart.StrokeStyle">
+        <param name="Local" value="Enums/StrokeStyle.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="MapChartType">
+        <param name="Local" value="Enums/MapChartType.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="MapGridStepType">
+        <param name="Local" value="Enums/MapGridStepType.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="PP.ScaleItemsMode">
+        <param name="Local" value="Enums/ScaleItemsMode.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="PP.ScaleMode">
+        <param name="Local" value="Enums/ScaleMode.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="PP.TypeArguments">
+        <param name="Local" value="Enums/TypeArguments.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Visibility">
+        <param name="Local" value="Enums/Visibility.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      </ul>
+    </ul>
+</ul>
+</html>

@@ -1,0 +1,123 @@
+<html>
+<!-- Sitemap 1.0 -->
+<object type="text/site properties">
+  <param name="SiteType" value="toc">
+  <param name="Image Width" value="16">
+  <param name="Window Styles" value="0x800027">
+  <param name="ExWindow Styles" value="0x100">
+</object>
+<ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Настройка правила валидации">
+    <param name="Local" value="Data_Validation_Types.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Пропуски в данных">
+      <param name="Local" value="Validation_types/Missing_data.htm">
+      <param name="ImageNumber" value="11">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Пропуски в метаданных">
+      <param name="Local" value="Validation_types/Missing_metadata.htm">
+      <param name="ImageNumber" value="11">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Сравнение версий данных">
+      <param name="Local" value="Validation_types/Cross-Version_data_comparison.htm">
+      <param name="ImageNumber" value="11">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Сравнение уровней динамики">
+      <param name="Local" value="Validation_types/Cross-Frequency_comparison.htm">
+      <param name="ImageNumber" value="11">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Сравнение с числом">
+      <param name="Local" value="Validation_types/Level_analysis.htm">
+      <param name="ImageNumber" value="11">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Анализ темпа роста">
+      <param name="Local" value="Validation_types/Growth_rate_analysis.htm">
+      <param name="ImageNumber" value="11">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Сравнение отношения наблюдений">
+      <param name="Local" value="Validation_types/Ratio.htm">
+      <param name="ImageNumber" value="11">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Сравнение трендов">
+      <param name="Local" value="Validation_types/Trend_analysis.htm">
+      <param name="ImageNumber" value="11">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Сравнение по выражению">
+      <param name="Local" value="Validation_types/Custom_analysis.htm">
+      <param name="ImageNumber" value="11">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Анализ статистических выбросов">
+      <param name="Local" value="Validation_types/Statistical_outlier.htm">
+      <param name="ImageNumber" value="11">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Анализ корреляционной зависимости">
+      <param name="Local" value="Validation_types/Correlation_analysis.htm">
+      <param name="ImageNumber" value="11">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Сравнение версий метаданных">
+      <param name="Local" value="Validation_types/Cross-Version_metadata_comparison.htm">
+      <param name="ImageNumber" value="11">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Анализ отклонений в компонентах">
+      <param name="Local" value="Validation_types/Component_mismatch.htm">
+      <param name="ImageNumber" value="11">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Сравнение с базой данных временных рядов">
+      <param name="Local" value="Validation_types/Cross-Database_comparison.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Сопоставление атрибутов">
+        <param name="Local" value="CrossDatabaseMappings.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      </ul>
+    </ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Настройка готового правила валидации">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Сравнение с числом">
+      <param name="Local" value="Fast_Validation/FastVLA_ComparisonValue.htm">
+      <param name="ImageNumber" value="11">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Анализ статистических выбросов">
+      <param name="Local" value="Fast_Validation/FastVLA_Statistical_outlier.htm">
+      <param name="ImageNumber" value="11">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Сравнение версий данных">
+      <param name="Local" value="Fast_Validation/FastVLA_RevisionComparison.htm">
+      <param name="ImageNumber" value="11">
+    </object>
+    </ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Настройка группы правил валидации">
+    <param name="Local" value="Grouping_types.htm">
+    <param name="ImageNumber" value="11">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Работа с результатами валидации">
+    <param name="Local" value="Calculation_result.htm">
+    <param name="ImageNumber" value="11">
+  </object>
+</ul>
+</html>

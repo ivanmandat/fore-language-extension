@@ -1,0 +1,137 @@
+<html>
+<!-- Sitemap 1.0 -->
+<object type="text/site properties">
+  <param name="SiteType" value="toc">
+  <param name="Image Width" value="16">
+  <param name="Window Styles" value="0x800027">
+  <param name="ExWindow Styles" value="0x100">
+</object>
+<ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Визуальное конструирование бизнес-приложений">
+    <param name="Local" value="Intro/Designer_business_applications.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Начало работы с расширением «Конструктор бизнес-приложений»">
+      <param name="Local" value="Intro/Component_interface.htm">
+      <param name="ImageNumber" value="11">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Построение бизнес-приложения в веб-приложении">
+      <param name="Local" value="Web/General_Principles_Web.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Настройка базовых свойств">
+        <param name="Local" value="Web/Setting_Business_Application.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Создание внутренней структуры">
+        <param name="Local" value="Web/Create_Internal_Structure_Business_Application.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Настройка разметки и оформления">
+        <param name="Local" value="Web/Layout_and_design_web.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Настройка структуры навигации">
+        <param name="Local" value="Web/Setting_Navigation_Structure.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Выбор стартового объекта и обработчика событий">
+        <param name="Local" value="Web/Select_Starting_Object_and_Event_Handler.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Построение бизнес-приложения в настольном приложении">
+      <param name="Local" value="Desktop/General_Principles.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Настройка общих параметров">
+        <param name="Local" value="Desktop/Common_parameters.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Создание внутренней структуры">
+        <param name="Local" value="Web/Create_Internal_Structure_Business_Application.htm#642b3b9347ca42c9b00b820c00c373fa=1">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Настройка разметки и оформления">
+        <param name="Local" value="Desktop/Layout_and_design.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Настройка структуры меню">
+        <param name="Local" value="Desktop/Setting_web_application_structure.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Редактирование зависимостей">
+        <param name="Local" value="Desktop/Edit_Dependencies.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Формирование и установка обновлений">
+        <param name="Local" value="Desktop/Formation_Installation_Updates.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Модуль формирования пакета">
+          <param name="Local" value="Component/Package_generation_module.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Работа с готовым бизнес-приложением">
+      <param name="Local" value="Work/Work_business_application.htm">
+      <param name="ImageNumber" value="11">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Объединение функциональности в компоненты">
+      <param name="Local" value="Component/Basic_properties_of_component.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Перемещение объектов в компонент">
+        <param name="Local" value="Component/Filling_component.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Редактирование зависимостей">
+        <param name="Local" value="Component/Configure_dependencies.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Настройка публичных объектов">
+        <param name="Local" value="Component/Setting_public_objects.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Выбор используемых классов объектов">
+        <param name="Local" value="Component/Adding_user_class.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Формирование и установка обновлений">
+        <param name="Local" value="Component/Formation_installation_updates_components.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Модуль формирования пакета">
+          <param name="Local" value="Component/Package_generation_module.htm#642b3b9347ca42c9b00b820c00c373fa=1">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      </ul>
+    </ul>
+</ul>
+</html>

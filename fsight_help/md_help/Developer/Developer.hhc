@@ -1,0 +1,109 @@
+<html>
+<!-- Sitemap 1.0 -->
+<object type="text/site properties">
+  <param name="SiteType" value="toc">
+  <param name="Image Width" value="16">
+  <param name="Window Styles" value="0x800007">
+  <param name="ExWindow Styles" value="0x100">
+</object>
+<ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Разработка приложений и расширение функциональности">
+    <param name="Local" value="Developer_Intro.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Общие правила и концепция выбора объектов для разработки">
+      <param name="Local" value="About_Developing/the_concept_of_objects_selection.htm">
+      <param name="ImageNumber" value="11">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Разработка в среде разработки">
+      <param name="Local" value="Desktop_Title.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Начало работы с инструментом «Среда разработки»">
+        <param name="Local" value="About_Developing/Start_the_Development_Environment.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Пример создания простого приложения">
+          <param name="Local" value="About_Developing/simple_application.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Настройки редактора кода">
+          <param name="Local" value="About_Developing/Development_Environment_Options.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Описание интерфейса инструмента в настольном приложении">
+          <param name="Local" value="About_Developing/Interface_description.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Размещение компонентов на форме">
+            <param name="Local" value="About_Developing/Locate_component_on_form.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        </ul>
+    </ul>
+    <object type="text/sitemap">
+      <param name="Name" value="Fore.chm::/Fore.hhc">
+      <param name="Merge" value="Fore.chm::/Fore.hhc" value2="../fore">
+    </object>
+    <ul>
+    </ul>
+    <object type="text/sitemap">
+      <param name="Name" value="UiDevEnv.chm::/UiDevEnv.hhc">
+      <param name="Merge" value="UiDevEnv.chm::/UiDevEnv.hhc" value2="../uidevenv">
+    </object>
+    <ul>
+    </ul>
+    <object type="text/sitemap">
+      <param name="Name" value="Assembly.chm::/Assembly.hhc">
+      <param name="Merge" value="Assembly.chm::/Assembly.hhc" value2="../assembly">
+    </object>
+    <ul>
+    </ul>
+    <object type="text/sitemap">
+      <param name="Name" value="KnowledgeBase.chm::/KnowledgeBase.hhc">
+      <param name="Merge" value="KnowledgeBase.chm::/KnowledgeBase.hhc" value2="../knowledgebase">
+    </object>
+    <ul>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Разработка веб-приложения с использованием DHTML-компонентов">
+      <param name="Local" value="Web_Title.htm">
+    </object>
+    <ul>
+    </ul>
+    <object type="text/sitemap">
+      <param name="Name" value="dhtml.chm::/dhtml.hhc">
+      <param name="Merge" value="dhtml.chm::/dhtml.hhc" value2="../dhtml">
+    </object>
+    <ul>
+    </ul>
+    <object type="text/sitemap">
+      <param name="Name" value="PPSOMService.chm::/PPSOMService.hhc">
+      <param name="Merge" value="PPSOMService.chm::/PPSOMService.hhc" value2="../ppsomservice">
+    </object>
+    <ul>
+    </ul>
+    <object type="text/sitemap">
+      <param name="Name" value="Specifications.chm::/Specifications.hhc">
+      <param name="Merge" value="Specifications.chm::/Specifications.hhc" value2="../specifications">
+    </object>
+    <ul>
+    </ul>
+    <object type="text/sitemap">
+      <param name="Name" value="WebKnowledgeBase.chm::/WebKnowledgeBase.hhc">
+      <param name="Merge" value="WebKnowledgeBase.chm::/WebKnowledgeBase.hhc" value2="../webknowledgebase">
+    </object>
+    <ul>
+      </ul>
+    </ul>
+</ul>
+</html>

@@ -1,0 +1,3113 @@
+<html>
+<!-- Sitemap 1.0 -->
+<object type="text/site properties">
+  <param name="SiteType" value="index">
+</object>
+<ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDatasetModelField.IsSparse">
+    <param name="Name" value="IDatasetModelField.IsSparse">
+    <param name="Local" value="Interface/IDatasetModelField/IDatasetModelField.IsSparse.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IsSparse">
+    <param name="Name" value="ITableField.IsSparse">
+    <param name="Local" value="Interface/ITableField/ITableField.IsSparse.htm">
+    <param name="Name" value="IDatasetModelField.IsSparse">
+    <param name="Local" value="Interface/IDatasetModelField/IDatasetModelField.IsSparse.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ITableField.IsSparse">
+    <param name="Name" value="ITableField.IsSparse">
+    <param name="Local" value="Interface/ITableField/ITableField.IsSparse.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="FastInsert">
+    <param name="Name" value="IDatasetBatchUpdate.FastInsert">
+    <param name="Local" value="Interface/IDatasetBatchUpdate/IDatasetBatchUpdate.FastInsert.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDatasetBatchUpdate.FastInsert">
+    <param name="Name" value="IDatasetBatchUpdate.FastInsert">
+    <param name="Local" value="Interface/IDatasetBatchUpdate/IDatasetBatchUpdate.FastInsert.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="RTableObject">
+    <param name="Name" value="ITableForeignKey.RTableObject">
+    <param name="Local" value="Interface/ITableForeignKey/ITableForeignKey.RTableObject.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ITableForeignKey.RTableObject">
+    <param name="Name" value="ITableForeignKey.RTableObject">
+    <param name="Local" value="Interface/ITableForeignKey/ITableForeignKey.RTableObject.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="DbIndexType">
+    <param name="Name" value="DbIndexType">
+    <param name="Local" value="Enums/DbIndexType.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="AllowNulls">
+    <param name="Name" value="ITableIndex.AllowNulls">
+    <param name="Local" value="Interface/ITableIndex/ITableIndex.AllowNulls.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ITableIndex.AllowNulls">
+    <param name="Name" value="ITableIndex.AllowNulls">
+    <param name="Local" value="Interface/ITableIndex/ITableIndex.AllowNulls.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="DbAlterType">
+    <param name="Name" value="DbAlterType">
+    <param name="Local" value="Enums/DbAlterType.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ITableForeignKeys">
+    <param name="Name" value="ITableForeignKeys">
+    <param name="Local" value="Interface/ITableForeignKeys/ITableForeignKeys.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IsRecreateFL">
+    <param name="Name" value="ITable.IsRecreateFL">
+    <param name="Local" value="Interface/ITable/ITable.IsRecreateFL.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ITable.IsRecreateFL">
+    <param name="Name" value="ITable.IsRecreateFL">
+    <param name="Local" value="Interface/ITable/ITable.IsRecreateFL.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ForeignKeys">
+    <param name="Name" value="ITable.ForeignKeys">
+    <param name="Local" value="Interface/ITable/ITable.ForeignKeys.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ITable.ForeignKeys">
+    <param name="Name" value="ITable.ForeignKeys">
+    <param name="Local" value="Interface/ITable/ITable.ForeignKeys.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ITableForeignKeys.Clear">
+    <param name="Name" value="ITableForeignKeys.Clear">
+    <param name="Local" value="Interface/ITableForeignKeys/ITableForeignKeys.Clear.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ITableForeignKeys.RemoveByKey">
+    <param name="Name" value="ITableForeignKeys.RemoveByKey">
+    <param name="Local" value="Interface/ITableForeignKeys/ITableForeignKeys.RemoveByKey.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ITableForeignKeys.Remove">
+    <param name="Name" value="ITableForeignKeys.Remove">
+    <param name="Local" value="Interface/ITableForeignKeys/ITableForeignKeys.Remove.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ITableForeignKeys.Add">
+    <param name="Name" value="ITableForeignKeys.Add">
+    <param name="Local" value="Interface/ITableForeignKeys/ITableForeignKeys.Add.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ITableForeignKeys.FindById">
+    <param name="Name" value="ITableForeignKeys.FindById">
+    <param name="Local" value="Interface/ITableForeignKeys/ITableForeignKeys.FindById.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ITableForeignKeys.FindByKey">
+    <param name="Name" value="ITableForeignKeys.FindByKey">
+    <param name="Local" value="Interface/ITableForeignKeys/ITableForeignKeys.FindByKey.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ITableForeignKeys.Count">
+    <param name="Name" value="ITableForeignKeys.Count">
+    <param name="Local" value="Interface/ITableForeignKeys/ITableForeignKeys.Count.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ITableForeignKeys.Item">
+    <param name="Name" value="ITableForeignKeys.Item">
+    <param name="Local" value="Interface/ITableForeignKeys/ITableForeignKeys.Item.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ComparedWith">
+    <param name="Name" value="ITableForeignKey.ComparedWith">
+    <param name="Local" value="Interface/ITableForeignKey/ITableForeignKey.ComparedWith.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ITableForeignKey.ComparedWith">
+    <param name="Name" value="ITableForeignKey.ComparedWith">
+    <param name="Local" value="Interface/ITableForeignKey/ITableForeignKey.ComparedWith.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="AlterType">
+    <param name="Name" value="ITableForeignKey.AlterType">
+    <param name="Local" value="Interface/ITableForeignKey/ITableForeignKey.AlterType.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ITableForeignKey.AlterType">
+    <param name="Name" value="ITableForeignKey.AlterType">
+    <param name="Local" value="Interface/ITableForeignKey/ITableForeignKey.AlterType.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IsCascade">
+    <param name="Name" value="ITableForeignKey.IsCascade">
+    <param name="Local" value="Interface/ITableForeignKey/ITableForeignKey.IsCascade.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ITableForeignKey.IsCascade">
+    <param name="Name" value="ITableForeignKey.IsCascade">
+    <param name="Local" value="Interface/ITableForeignKey/ITableForeignKey.IsCascade.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="RColumns">
+    <param name="Name" value="ITableForeignKey.RColumns">
+    <param name="Local" value="Interface/ITableForeignKey/ITableForeignKey.RColumns.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ITableForeignKey.RColumns">
+    <param name="Name" value="ITableForeignKey.RColumns">
+    <param name="Local" value="Interface/ITableForeignKey/ITableForeignKey.RColumns.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="RTable">
+    <param name="Name" value="ITableForeignKey.RTable">
+    <param name="Local" value="Interface/ITableForeignKey/ITableForeignKey.RTable.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ITableForeignKey.RTable">
+    <param name="Name" value="ITableForeignKey.RTable">
+    <param name="Local" value="Interface/ITableForeignKey/ITableForeignKey.RTable.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Columns">
+    <param name="Name" value="ITableForeignKey.Columns">
+    <param name="Local" value="Interface/ITableForeignKey/ITableForeignKey.Columns.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ITableForeignKey.Columns">
+    <param name="Name" value="ITableForeignKey.Columns">
+    <param name="Local" value="Interface/ITableForeignKey/ITableForeignKey.Columns.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ITableForeignKey">
+    <param name="Name" value="ITableForeignKey">
+    <param name="Local" value="Interface/ITableForeignKey/ITableForeignKey.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ISequence.IncrementStep">
+    <param name="Name" value="ISequence.IncrementStep">
+    <param name="Local" value="Interface/ISequence/ISequence.IncrementStep.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="StartValue">
+    <param name="Name" value="ISequence.StartValue">
+    <param name="Local" value="Interface/ISequence/ISequence.StartValue.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ISequence.StartValue">
+    <param name="Name" value="ISequence.StartValue">
+    <param name="Local" value="Interface/ISequence/ISequence.StartValue.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ISequence.Database">
+    <param name="Name" value="ISequence.Database">
+    <param name="Local" value="Interface/ISequence/ISequence.Database.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ISequence.NativeName">
+    <param name="Name" value="ISequence.NativeName">
+    <param name="Local" value="Interface/ISequence/ISequence.NativeName.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ISequence">
+    <param name="Name" value="ISequence">
+    <param name="Local" value="Interface/ISequence/ISequence.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDatabase.Role">
+    <param name="Name" value="IDatabase.Role">
+    <param name="Local" value="Interface/IDatabase/IDatabase.Role.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Role">
+    <param name="Name" value="IDatabase.Role">
+    <param name="Local" value="Interface/IDatabase/IDatabase.Role.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDatabaseApplicationRole.Mode">
+    <param name="Name" value="IDatabaseApplicationRole.Mode">
+    <param name="Local" value="Interface/IDatabaseApplicationRole/IDatabaseApplicationRole.Mode.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Mode">
+    <param name="Name" value="IDatabaseApplicationRole.Mode">
+    <param name="Local" value="Interface/IDatabaseApplicationRole/IDatabaseApplicationRole.Mode.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDatabaseApplicationRole.DerivedPassword">
+    <param name="Name" value="IDatabaseApplicationRole.DerivedPassword">
+    <param name="Local" value="Interface/IDatabaseApplicationRole/IDatabaseApplicationRole.DerivedPassword.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="DerivedPassword">
+    <param name="Name" value="IDatabaseApplicationRole.DerivedPassword">
+    <param name="Local" value="Interface/IDatabaseApplicationRole/IDatabaseApplicationRole.DerivedPassword.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDatabaseApplicationRole.Alter">
+    <param name="Name" value="IDatabaseApplicationRole.Alter">
+    <param name="Local" value="Interface/IDatabaseApplicationRole/IDatabaseApplicationRole.Alter.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Alter">
+    <param name="Name" value="IDatabaseApplicationRole.Alter">
+    <param name="Local" value="Interface/IDatabaseApplicationRole/IDatabaseApplicationRole.Alter.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDatabaseApplicationRole.Password">
+    <param name="Name" value="IDatabaseApplicationRole.Password">
+    <param name="Local" value="Interface/IDatabaseApplicationRole/IDatabaseApplicationRole.Password.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDatabaseApplicationRole.Name">
+    <param name="Name" value="IDatabaseApplicationRole.Name">
+    <param name="Local" value="Interface/IDatabaseApplicationRole/IDatabaseApplicationRole.Name.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDatabaseApplicationRole">
+    <param name="Name" value="IDatabaseApplicationRole">
+    <param name="Local" value="Interface/IDatabaseApplicationRole/IDatabaseApplicationRole.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="DatabaseApplicationRoleMode">
+    <param name="Name" value="DatabaseApplicationRoleMode">
+    <param name="Local" value="Enums/DatabaseApplicationRoleMode.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ITableField.DataDomain">
+    <param name="Name" value="ITableField.DataDomain">
+    <param name="Local" value="Interface/ITableField/ITableField.DataDomain.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="DataDomain">
+    <param name="Name" value="IDatasetModelField.DataDomain">
+    <param name="Local" value="Interface/IDatasetModelField/IDatasetModelField.DataDomain.htm">
+    <param name="Name" value="ITableField.DataDomain">
+    <param name="Local" value="Interface/ITableField/ITableField.DataDomain.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDatasetModelField.DataDomain">
+    <param name="Name" value="IDatasetModelField.DataDomain">
+    <param name="Local" value="Interface/IDatasetModelField/IDatasetModelField.DataDomain.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IsIdentity">
+    <param name="Name" value="ITableField.IsIdentity">
+    <param name="Local" value="Interface/ITableField/ITableField.IsIdentity.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ITableField.IsIdentity">
+    <param name="Name" value="ITableField.IsIdentity">
+    <param name="Local" value="Interface/ITableField/ITableField.IsIdentity.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="UseMetabaseLogonData">
+    <param name="Name" value="IDatabase.UseMetabaseLogonData">
+    <param name="Local" value="Interface/IDatabase/IDatabase.UseMetabaseLogonData.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDatabase.UseMetabaseLogonData">
+    <param name="Name" value="IDatabase.UseMetabaseLogonData">
+    <param name="Local" value="Interface/IDatabase/IDatabase.UseMetabaseLogonData.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="UpdateView">
+    <param name="Name" value="IView.UpdateView">
+    <param name="Local" value="Interface/IView/IView.UpdateView.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="UpdateData">
+    <param name="Name" value="IView.UpdateData">
+    <param name="Local" value="Interface/IView/IView.UpdateData.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="TableCreate">
+    <param name="Name" value="IView.TableCreate">
+    <param name="Local" value="Interface/IView/IView.TableCreate.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="DropView">
+    <param name="Name" value="IView.DropView">
+    <param name="Local" value="Interface/IView/IView.DropView.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="CreateView">
+    <param name="Name" value="IView.CreateView">
+    <param name="Local" value="Interface/IView/IView.CreateView.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="AlterView">
+    <param name="Name" value="IView.AlterView">
+    <param name="Local" value="Interface/IView/IView.AlterView.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ForEachRow">
+    <param name="Name" value="ITableTrigger.ForEachRow">
+    <param name="Local" value="Interface/ITableTrigger/ITableTrigger.ForEachRow.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="FireTime">
+    <param name="Name" value="ITableTrigger.FireTime">
+    <param name="Local" value="Interface/ITableTrigger/ITableTrigger.FireTime.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="FireEvent">
+    <param name="Name" value="ITableTrigger.FireEvent">
+    <param name="Local" value="Interface/ITableTrigger/ITableTrigger.FireEvent.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Move">
+    <param name="Name" value="ITableIndexFields.Move">
+    <param name="Local" value="Interface/ITableIndexFields/ITableIndexFields.Move.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Unique">
+    <param name="Name" value="ITableIndex.Unique">
+    <param name="Local" value="Interface/ITableIndex/ITableIndex.Unique.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Primary">
+    <param name="Name" value="ITableIndex.Primary">
+    <param name="Local" value="Interface/ITableIndex/ITableIndex.Primary.htm">
+    <param name="Name" value="ITableIndexes.Primary">
+    <param name="Local" value="Interface/ITableIndexes/ITableIndexes.Primary.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="FieldNames">
+    <param name="Name" value="ITableIndex.FieldNames">
+    <param name="Local" value="Interface/ITableIndex/ITableIndex.FieldNames.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="FieldByKey">
+    <param name="Name" value="ITableFields.FieldByKey">
+    <param name="Local" value="Interface/ITableFields/ITableFields.FieldByKey.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="RemoveByKey">
+    <param name="Name" value="ITableChecks.RemoveByKey">
+    <param name="Local" value="Interface/ITableChecks/ITableChecks.RemoveByKey.htm">
+    <param name="Name" value="ITableFields.RemoveByKey">
+    <param name="Local" value="Interface/ITableFields/ITableFields.RemoveByKey.htm">
+    <param name="Name" value="ITableIndexes.RemoveByKey">
+    <param name="Local" value="Interface/ITableIndexes/ITableIndexes.RemoveByKey.htm">
+    <param name="Name" value="ITableIndexFields.RemoveByKey">
+    <param name="Local" value="Interface/ITableIndexFields/ITableIndexFields.RemoveByKey.htm">
+    <param name="Name" value="ITableTriggers.RemoveByKey">
+    <param name="Local" value="Interface/ITableTriggers/ITableTriggers.RemoveByKey.htm">
+    <param name="Name" value="ITableForeignKeys.RemoveByKey">
+    <param name="Local" value="Interface/ITableForeignKeys/ITableForeignKeys.RemoveByKey.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Remove">
+    <param name="Name" value="ITableChecks.Remove">
+    <param name="Local" value="Interface/ITableChecks/ITableChecks.Remove.htm">
+    <param name="Name" value="ITableFields.Remove">
+    <param name="Local" value="Interface/ITableFields/ITableFields.Remove.htm">
+    <param name="Name" value="ITableIndexes.Remove">
+    <param name="Local" value="Interface/ITableIndexes/ITableIndexes.Remove.htm">
+    <param name="Name" value="ITableIndexFields.Remove">
+    <param name="Local" value="Interface/ITableIndexFields/ITableIndexFields.Remove.htm">
+    <param name="Name" value="ITableTriggers.Remove">
+    <param name="Local" value="Interface/ITableTriggers/ITableTriggers.Remove.htm">
+    <param name="Name" value="ITableForeignKeys.Remove">
+    <param name="Local" value="Interface/ITableForeignKeys/ITableForeignKeys.Remove.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Clear">
+    <param name="Name" value="ITableChecks.Clear">
+    <param name="Local" value="Interface/ITableChecks/ITableChecks.Clear.htm">
+    <param name="Name" value="ITableFields.Clear">
+    <param name="Local" value="Interface/ITableFields/ITableFields.Clear.htm">
+    <param name="Name" value="ITableIndexes.Clear">
+    <param name="Local" value="Interface/ITableIndexes/ITableIndexes.Clear.htm">
+    <param name="Name" value="ITableTriggers.Clear">
+    <param name="Local" value="Interface/ITableTriggers/ITableTriggers.Clear.htm">
+    <param name="Name" value="ITableForeignKeys.Clear">
+    <param name="Local" value="Interface/ITableForeignKeys/ITableForeignKeys.Clear.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Add">
+    <param name="Name" value="ITableChecks.Add">
+    <param name="Local" value="Interface/ITableChecks/ITableChecks.Add.htm">
+    <param name="Name" value="ITableFields.Add">
+    <param name="Local" value="Interface/ITableFields/ITableFields.Add.htm">
+    <param name="Name" value="ITableIndexes.Add">
+    <param name="Local" value="Interface/ITableIndexes/ITableIndexes.Add.htm">
+    <param name="Name" value="ITableIndexFields.Add">
+    <param name="Local" value="Interface/ITableIndexFields/ITableIndexFields.Add.htm">
+    <param name="Name" value="ITableTriggers.Add">
+    <param name="Local" value="Interface/ITableTriggers/ITableTriggers.Add.htm">
+    <param name="Name" value="ITableForeignKeys.Add">
+    <param name="Local" value="Interface/ITableForeignKeys/ITableForeignKeys.Add.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Check">
+    <param name="Name" value="ITableCheck.Check">
+    <param name="Local" value="Interface/ITableCheck/ITableCheck.Check.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="UpdateTable">
+    <param name="Name" value="ITable.UpdateTable">
+    <param name="Local" value="Interface/ITable/ITable.UpdateTable.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Triggers">
+    <param name="Name" value="ITable.Triggers">
+    <param name="Local" value="Interface/ITable/ITable.Triggers.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Indexes">
+    <param name="Name" value="ITable.Indexes">
+    <param name="Local" value="Interface/ITable/ITable.Indexes.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="DropTable">
+    <param name="Name" value="ITable.DropTable">
+    <param name="Local" value="Interface/ITable/ITable.DropTable.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="CreateTable">
+    <param name="Name" value="ITable.CreateTable">
+    <param name="Local" value="Interface/ITable/ITable.CreateTable.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Checks">
+    <param name="Name" value="ITable.Checks">
+    <param name="Local" value="Interface/ITable/ITable.Checks.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="AttachTable">
+    <param name="Name" value="ITable.AttachTable">
+    <param name="Local" value="Interface/ITable/ITable.AttachTable.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="AlterTable">
+    <param name="Name" value="ITable.AlterTable">
+    <param name="Local" value="Interface/ITable/ITable.AlterTable.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ClearText">
+    <param name="Name" value="ISQLCommand.ClearText">
+    <param name="Local" value="Interface/ISQLCommand/ISQLCommand.ClearText.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="SQLText">
+    <param name="Name" value="IView.SQLText">
+    <param name="Local" value="Interface/IView/IView.SQLText.htm">
+    <param name="Name" value="IQuery.SqlText">
+    <param name="Local" value="Interface/IQuery/IQuery.SqlText.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Sql">
+    <param name="Name" value="IQuery.Sql">
+    <param name="Local" value="Interface/IQuery/IQuery.Sql.htm">
+    <param name="Name" value="IView.Sql">
+    <param name="Local" value="Interface/IView/IView.Sql.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ParamsCheck">
+    <param name="Name" value="IQuery.ParamsCheck">
+    <param name="Local" value="Interface/IQuery/IQuery.ParamsCheck.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ClearSqlText">
+    <param name="Name" value="IQuery.ClearSqlText">
+    <param name="Local" value="Interface/IQuery/IQuery.ClearSqlText.htm">
+    <param name="Name" value="IView.ClearSqlText">
+    <param name="Local" value="Interface/IView/IView.ClearSqlText.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="UpdateProcedure">
+    <param name="Name" value="IProcedure.UpdateProcedure">
+    <param name="Local" value="Interface/IProcedure/IProcedure.UpdateProcedure.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Refresh">
+    <param name="Name" value="IProcedure.Refresh">
+    <param name="Local" value="Interface/IProcedure/IProcedure.Refresh.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Kind">
+    <param name="Name" value="IProcedure.Kind">
+    <param name="Local" value="Interface/IProcedure/IProcedure.Kind.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ForceCreate">
+    <param name="Name" value="IProcedure.ForceCreate">
+    <param name="Local" value="Interface/IProcedure/IProcedure.ForceCreate.htm">
+    <param name="Name" value="IView.ForceCreate">
+    <param name="Local" value="Interface/IView/IView.ForceCreate.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="External">
+    <param name="Name" value="IProcedure.External">
+    <param name="Local" value="Interface/IProcedure/IProcedure.External.htm">
+    <param name="Name" value="ITable.External">
+    <param name="Local" value="Interface/ITable/ITable.External.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="DropProcedure">
+    <param name="Name" value="IProcedure.DropProcedure">
+    <param name="Local" value="Interface/IProcedure/IProcedure.DropProcedure.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="CreateProcedure">
+    <param name="Name" value="IProcedure.CreateProcedure">
+    <param name="Local" value="Interface/IProcedure/IProcedure.CreateProcedure.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="AttachProcedure">
+    <param name="Name" value="IProcedure.AttachProcedure">
+    <param name="Local" value="Interface/IProcedure/IProcedure.AttachProcedure.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="AlterProcedure">
+    <param name="Name" value="IProcedure.AlterProcedure">
+    <param name="Local" value="Interface/IProcedure/IProcedure.AlterProcedure.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="UserId">
+    <param name="Name" value="IOdbcDataset.UserId">
+    <param name="Local" value="Interface/IOdbcDataset/IOdbcDataset.UserId.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ProviderString">
+    <param name="Name" value="IOdbcDataset.ProviderString">
+    <param name="Local" value="Interface/IOdbcDataset/IOdbcDataset.ProviderString.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Password">
+    <param name="Name" value="IOdbcDataset.Password">
+    <param name="Local" value="Interface/IOdbcDataset/IOdbcDataset.Password.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Location">
+    <param name="Name" value="IOdbcDataset.Location">
+    <param name="Local" value="Interface/IOdbcDataset/IOdbcDataset.Location.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="DataSource">
+    <param name="Name" value="IOdbcDataset.DataSource">
+    <param name="Local" value="Interface/IOdbcDataset/IOdbcDataset.DataSource.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="UpdateLog">
+    <param name="Name" value="ILog.UpdateLog">
+    <param name="Local" value="Interface/ILog/ILog.UpdateLog.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="PutRecord">
+    <param name="Name" value="ILog.PutRecord">
+    <param name="Local" value="Interface/ILog/ILog.PutRecord.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="NativeName">
+    <param name="Name" value="ILog.NativeName">
+    <param name="Local" value="Interface/ILog/ILog.NativeName.htm">
+    <param name="Name" value="IProcedure.NativeName">
+    <param name="Local" value="Interface/IProcedure/IProcedure.NativeName.htm">
+    <param name="Name" value="ITable.NativeName">
+    <param name="Local" value="Interface/ITable/ITable.NativeName.htm">
+    <param name="Name" value="IView.NativeName">
+    <param name="Local" value="Interface/IView/IView.NativeName.htm">
+    <param name="Name" value="ISequence.NativeName">
+    <param name="Local" value="Interface/ISequence/ISequence.NativeName.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="DropLog">
+    <param name="Name" value="ILog.DropLog">
+    <param name="Local" value="Interface/ILog/ILog.DropLog.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="CreateLog">
+    <param name="Name" value="ILog.CreateLog">
+    <param name="Local" value="Interface/ILog/ILog.CreateLog.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="AlterLog">
+    <param name="Name" value="ILog.AlterLog">
+    <param name="Local" value="Interface/ILog/ILog.AlterLog.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="DataSourceName">
+    <param name="Name" value="IOdbcDataset.DataSourceName">
+    <param name="Local" value="Interface/IOdbcDataset/IOdbcDataset.DataSourceName.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Catalog">
+    <param name="Name" value="IOdbcDataset.Catalog">
+    <param name="Local" value="Interface/IOdbcDataset/IOdbcDataset.Catalog.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Size">
+    <param name="Name" value="IDatasetModelField.Size">
+    <param name="Local" value="Interface/IDatasetModelField/IDatasetModelField.Size.htm">
+    <param name="Name" value="ITableField.Size">
+    <param name="Local" value="Interface/ITableField/ITableField.Size.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Precision">
+    <param name="Name" value="IDatasetModelField.Precision">
+    <param name="Local" value="Interface/IDatasetModelField/IDatasetModelField.Precision.htm">
+    <param name="Name" value="ITableField.Precision">
+    <param name="Local" value="Interface/ITableField/ITableField.Precision.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Mandatory">
+    <param name="Name" value="IDatasetModelField.Mandatory">
+    <param name="Local" value="Interface/IDatasetModelField/IDatasetModelField.Mandatory.htm">
+    <param name="Name" value="ITableField.Mandatory">
+    <param name="Local" value="Interface/ITableField/ITableField.Mandatory.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IsKey">
+    <param name="Name" value="IDatasetModelField.IsKey">
+    <param name="Local" value="Interface/IDatasetModelField/IDatasetModelField.IsKey.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IsData">
+    <param name="Name" value="IDatasetModelField.IsData">
+    <param name="Local" value="Interface/IDatasetModelField/IDatasetModelField.IsData.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IsCalculated">
+    <param name="Name" value="IDatasetModelField.IsCalculated">
+    <param name="Local" value="Interface/IDatasetModelField/IDatasetModelField.IsCalculated.htm">
+    <param name="Name" value="ITableField.IsCalculated">
+    <param name="Local" value="Interface/ITableField/ITableField.IsCalculated.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Expression">
+    <param name="Name" value="IDatasetModelField.Expression">
+    <param name="Local" value="Interface/IDatasetModelField/IDatasetModelField.Expression.htm">
+    <param name="Name" value="ITableField.Expression">
+    <param name="Local" value="Interface/ITableField/ITableField.Expression.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="DefaultValue">
+    <param name="Name" value="IDatasetModelField.DefaultValue">
+    <param name="Local" value="Interface/IDatasetModelField/IDatasetModelField.DefaultValue.htm">
+    <param name="Name" value="ITableField.DefaultValue">
+    <param name="Local" value="Interface/ITableField/ITableField.DefaultValue.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="DataType">
+    <param name="Name" value="IDatasetModelField.DataType">
+    <param name="Local" value="Interface/IDatasetModelField/IDatasetModelField.DataType.htm">
+    <param name="Name" value="ITableField.DataType">
+    <param name="Local" value="Interface/ITableField/ITableField.DataType.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="OpenWhere">
+    <param name="Name" value="IDatasetModel.OpenWhere">
+    <param name="Local" value="Interface/IDatasetModel/IDatasetModel.OpenWhere.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Open">
+    <param name="Name" value="IDatasetModel.Open">
+    <param name="Local" value="Interface/IDatasetModel/IDatasetModel.Open.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Item">
+    <param name="Name" value="IDatasetInstanceFields.Item">
+    <param name="Local" value="Interface/IDatasetInstanceFields/IDatasetInstanceFields.Item.htm">
+    <param name="Name" value="IDatasetModelFields.Item">
+    <param name="Local" value="Interface/IDatasetModelFields/IDatasetModelFields.Item.htm">
+    <param name="Name" value="ITableChecks.Item">
+    <param name="Local" value="Interface/ITableChecks/ITableChecks.Item.htm">
+    <param name="Name" value="ITableFields.Item">
+    <param name="Local" value="Interface/ITableFields/ITableFields.Item.htm">
+    <param name="Name" value="ITableIndexes.Item">
+    <param name="Local" value="Interface/ITableIndexes/ITableIndexes.Item.htm">
+    <param name="Name" value="ITableIndexFields.Item">
+    <param name="Local" value="Interface/ITableIndexFields/ITableIndexFields.Item.htm">
+    <param name="Name" value="ITableTriggers.Item">
+    <param name="Local" value="Interface/ITableTriggers/ITableTriggers.Item.htm">
+    <param name="Name" value="ITableForeignKeys.Item">
+    <param name="Local" value="Interface/ITableForeignKeys/ITableForeignKeys.Item.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IndexOf">
+    <param name="Name" value="IDatasetInstanceFields.IndexOf">
+    <param name="Local" value="Interface/IDatasetInstanceFields/IDatasetInstanceFields.IndexOf.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="FindByKey">
+    <param name="Name" value="IDatasetInstanceFields.FindByKey">
+    <param name="Local" value="Interface/IDatasetInstanceFields/IDatasetInstanceFields.FindByKey.htm">
+    <param name="Name" value="IDatasetModelFields.FindByKey">
+    <param name="Local" value="Interface/IDatasetModelFields/IDatasetModelFields.FindByKey.htm">
+    <param name="Name" value="ITableChecks.FindByKey">
+    <param name="Local" value="Interface/ITableChecks/ITableChecks.FindByKey.htm">
+    <param name="Name" value="ITableFields.FindByKey">
+    <param name="Local" value="Interface/ITableFields/ITableFields.FindByKey.htm">
+    <param name="Name" value="ITableIndexes.FindByKey">
+    <param name="Local" value="Interface/ITableIndexes/ITableIndexes.FindByKey.htm">
+    <param name="Name" value="ITableTriggers.FindByKey">
+    <param name="Local" value="Interface/ITableTriggers/ITableTriggers.FindByKey.htm">
+    <param name="Name" value="ITableForeignKeys.FindByKey">
+    <param name="Local" value="Interface/ITableForeignKeys/ITableForeignKeys.FindByKey.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="FindById">
+    <param name="Name" value="IDatasetInstanceFields.FindById">
+    <param name="Local" value="Interface/IDatasetInstanceFields/IDatasetInstanceFields.FindById.htm">
+    <param name="Name" value="IDatasetModelFields.FindById">
+    <param name="Local" value="Interface/IDatasetModelFields/IDatasetModelFields.FindById.htm">
+    <param name="Name" value="ITableChecks.FindById">
+    <param name="Local" value="Interface/ITableChecks/ITableChecks.FindById.htm">
+    <param name="Name" value="ITableFields.FindById">
+    <param name="Local" value="Interface/ITableFields/ITableFields.FindById.htm">
+    <param name="Name" value="ITableIndexes.FindById">
+    <param name="Local" value="Interface/ITableIndexes/ITableIndexes.FindById.htm">
+    <param name="Name" value="ITableTriggers.FindById">
+    <param name="Local" value="Interface/ITableTriggers/ITableTriggers.FindById.htm">
+    <param name="Name" value="ITableForeignKeys.FindById">
+    <param name="Local" value="Interface/ITableForeignKeys/ITableForeignKeys.FindById.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Count">
+    <param name="Name" value="IDatasetInstanceFields.Count">
+    <param name="Local" value="Interface/IDatasetInstanceFields/IDatasetInstanceFields.Count.htm">
+    <param name="Name" value="IDatasetModelFields.Count">
+    <param name="Local" value="Interface/IDatasetModelFields/IDatasetModelFields.Count.htm">
+    <param name="Name" value="ITableChecks.Count">
+    <param name="Local" value="Interface/ITableChecks/ITableChecks.Count.htm">
+    <param name="Name" value="ITableFields.Count">
+    <param name="Local" value="Interface/ITableFields/ITableFields.Count.htm">
+    <param name="Name" value="ITableIndexes.Count">
+    <param name="Local" value="Interface/ITableIndexes/ITableIndexes.Count.htm">
+    <param name="Name" value="ITableIndexFields.Count">
+    <param name="Local" value="Interface/ITableIndexFields/ITableIndexFields.Count.htm">
+    <param name="Name" value="ITableTriggers.Count">
+    <param name="Local" value="Interface/ITableTriggers/ITableTriggers.Count.htm">
+    <param name="Name" value="ITableForeignKeys.Count">
+    <param name="Local" value="Interface/ITableForeignKeys/ITableForeignKeys.Count.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Value">
+    <param name="Name" value="IDatasetInstanceField.Value">
+    <param name="Local" value="Interface/IDatasetInstanceField/IDatasetInstanceField.Value.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="OldValue">
+    <param name="Name" value="IDatasetInstanceField.OldValue">
+    <param name="Local" value="Interface/IDatasetInstanceField/IDatasetInstanceField.OldValue.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="OpenCached">
+    <param name="Name" value="IDatasetInstance.OpenCached">
+    <param name="Local" value="Interface/IDatasetInstance/IDatasetInstance.OpenCached.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Next">
+    <param name="Name" value="IDatasetInstance.Next">
+    <param name="Local" value="Interface/IDatasetInstance/IDatasetInstance.Next.htm">
+    <param name="Name" value="ISequenceInstance.Next">
+    <param name="Local" value="Interface/ISequenceInstance/ISequenceInstance.Next.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="First">
+    <param name="Name" value="IDatasetInstance.First">
+    <param name="Local" value="Interface/IDatasetInstance/IDatasetInstance.First.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="FieldDefs">
+    <param name="Name" value="IDatasetInstance.FieldDefs">
+    <param name="Local" value="Interface/IDatasetInstance/IDatasetInstance.FieldDefs.htm">
+    <param name="Name" value="IDatasetDataProvider.FieldDefs">
+    <param name="Local" value="Interface/IDatasetDataProvider/IDatasetDataProvider.FieldDefs.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Execute">
+    <param name="Name" value="IDatasetInstance.Execute">
+    <param name="Local" value="Interface/IDatasetInstance/IDatasetInstance.Execute.htm">
+    <param name="Name" value="ISQLCommandInstance.Execute">
+    <param name="Local" value="Interface/ISQLCommandInstance/ISQLCommandInstance.Execute.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Eof">
+    <param name="Name" value="IDatasetInstance.Eof">
+    <param name="Local" value="Interface/IDatasetInstance/IDatasetInstance.Eof.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="CreateBatchUpdate">
+    <param name="Name" value="IDatasetInstance.CreateBatchUpdate">
+    <param name="Local" value="Interface/IDatasetInstance/IDatasetInstance.CreateBatchUpdate.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Close">
+    <param name="Name" value="IDatasetInstance.Close">
+    <param name="Local" value="Interface/IDatasetInstance/IDatasetInstance.Close.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Rollback">
+    <param name="Name" value="IDatasetBatchUpdate.Rollback">
+    <param name="Local" value="Interface/IDatasetBatchUpdate/IDatasetBatchUpdate.Rollback.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="RecordFields">
+    <param name="Name" value="IDatasetBatchUpdate.RecordFields">
+    <param name="Local" value="Interface/IDatasetBatchUpdate/IDatasetBatchUpdate.RecordFields.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="KeyFieldNames">
+    <param name="Name" value="IDatasetBatchUpdate.KeyFieldNames">
+    <param name="Local" value="Interface/IDatasetBatchUpdate/IDatasetBatchUpdate.KeyFieldNames.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="FailPolicy">
+    <param name="Name" value="IDatasetBatchUpdate.FailPolicy">
+    <param name="Local" value="Interface/IDatasetBatchUpdate/IDatasetBatchUpdate.FailPolicy.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Failed">
+    <param name="Name" value="IDatasetBatchUpdate.Failed">
+    <param name="Local" value="Interface/IDatasetBatchUpdate/IDatasetBatchUpdate.Failed.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Commit">
+    <param name="Name" value="IDatasetBatchUpdate.Commit">
+    <param name="Local" value="Interface/IDatasetBatchUpdate/IDatasetBatchUpdate.Commit.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="BeginUpdate">
+    <param name="Name" value="IDatasetBatchUpdate.BeginUpdate">
+    <param name="Local" value="Interface/IDatasetBatchUpdate/IDatasetBatchUpdate.BeginUpdate.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="BatchCommand">
+    <param name="Name" value="IDatasetBatchUpdate.BatchCommand">
+    <param name="Local" value="Interface/IDatasetBatchUpdate/IDatasetBatchUpdate.BatchCommand.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="AddRecord">
+    <param name="Name" value="IDatasetBatchUpdate.AddRecord">
+    <param name="Local" value="Interface/IDatasetBatchUpdate/IDatasetBatchUpdate.AddRecord.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ViewName">
+    <param name="Name" value="IDatabaseViews.ViewName">
+    <param name="Local" value="Interface/IDatabaseViews/IDatabaseViews.ViewName.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Text">
+    <param name="Name" value="IDatabaseViews.Text">
+    <param name="Local" value="Interface/IDatabaseViews/IDatabaseViews.Text.htm">
+    <param name="Name" value="ISQLCommand.Text">
+    <param name="Local" value="Interface/ISQLCommand/ISQLCommand.Text.htm">
+    <param name="Name" value="ITableCheck.Text">
+    <param name="Local" value="Interface/ITableCheck/ITableCheck.Text.htm">
+    <param name="Name" value="ITableTrigger.Text">
+    <param name="Local" value="Interface/ITableTrigger/ITableTrigger.Text.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="TableName">
+    <param name="Name" value="IDatabaseTables.TableName">
+    <param name="Local" value="Interface/IDatabaseTables/IDatabaseTables.TableName.htm">
+    <param name="Name" value="IQueryStorage.TableName">
+    <param name="Local" value="Interface/IQueryStorage/IQueryStorage.TableName.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Views">
+    <param name="Name" value="IDatabaseInstance.Views">
+    <param name="Local" value="Interface/IDatabaseInstance/IDatabaseInstance.Views.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Tables">
+    <param name="Name" value="IDatabaseInstance.Tables">
+    <param name="Local" value="Interface/IDatabaseInstance/IDatabaseInstance.Tables.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Database">
+    <param name="Name" value="IDatabaseInstance.Database">
+    <param name="Local" value="Interface/IDatabaseInstance/IDatabaseInstance.Database.htm">
+    <param name="Name" value="IDatasetModel.Database">
+    <param name="Local" value="Interface/IDatasetModel/IDatasetModel.Database.htm">
+    <param name="Name" value="ILog.Database">
+    <param name="Local" value="Interface/ILog/ILog.Database.htm">
+    <param name="Name" value="IQuery.Database">
+    <param name="Local" value="Interface/IQuery/IQuery.Database.htm">
+    <param name="Name" value="ISQLCommand.Database">
+    <param name="Local" value="Interface/ISQLCommand/ISQLCommand.Database.htm">
+    <param name="Name" value="ISQLCommandInstance.Database">
+    <param name="Local" value="Interface/ISQLCommandInstance/ISQLCommandInstance.Database.htm">
+    <param name="Name" value="ITable.Database">
+    <param name="Local" value="Interface/ITable/ITable.Database.htm">
+    <param name="Name" value="IView.Database">
+    <param name="Local" value="Interface/IView/IView.Database.htm">
+    <param name="Name" value="ISequence.Database">
+    <param name="Local" value="Interface/ISequence/ISequence.Database.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Connection">
+    <param name="Name" value="IDatabaseInstance.Connection">
+    <param name="Local" value="Interface/IDatabaseInstance/IDatabaseInstance.Connection.htm">
+    <param name="Name" value="IDatasetBatchUpdate.Connection">
+    <param name="Local" value="Interface/IDatasetBatchUpdate/IDatasetBatchUpdate.Connection.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="UseMetabaseCredentials">
+    <param name="Name" value="IDatabase.UseMetabaseCredentials">
+    <param name="Local" value="Interface/IDatabase/IDatabase.UseMetabaseCredentials.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Unicode">
+    <param name="Name" value="IDatabase.Unicode">
+    <param name="Local" value="Interface/IDatabase/IDatabase.Unicode.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="SecurityPackage">
+    <param name="Name" value="IDatabase.SecurityPackage">
+    <param name="Local" value="Interface/IDatabase/IDatabase.SecurityPackage.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="RevokeGrantedRights">
+    <param name="Name" value="IDatabase.RevokeGrantedRights">
+    <param name="Local" value="Interface/IDatabase/IDatabase.RevokeGrantedRights.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ODBC">
+    <param name="Name" value="IDatabase.ODBC">
+    <param name="Local" value="Interface/IDatabase/IDatabase.ODBC.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="LogonData">
+    <param name="Name" value="IDatabase.LogonData">
+    <param name="Local" value="Interface/IDatabase/IDatabase.LogonData.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="LoginPrompt">
+    <param name="Name" value="IDatabase.LoginPrompt">
+    <param name="Local" value="Interface/IDatabase/IDatabase.LoginPrompt.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GrantCurrentRights">
+    <param name="Name" value="IDatabase.GrantCurrentRights">
+    <param name="Local" value="Interface/IDatabase/IDatabase.GrantCurrentRights.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="DriverId">
+    <param name="Name" value="IDatabase.DriverId">
+    <param name="Local" value="Interface/IDatabase/IDatabase.DriverId.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Credentials">
+    <param name="Name" value="IDatabase.Credentials">
+    <param name="Local" value="Interface/IDatabase/IDatabase.Credentials.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="AutoAdjustRights">
+    <param name="Name" value="IDatabase.AutoAdjustRights">
+    <param name="Local" value="Interface/IDatabase/IDatabase.AutoAdjustRights.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Authentication">
+    <param name="Name" value="IDatabase.Authentication">
+    <param name="Local" value="Interface/IDatabase/IDatabase.Authentication.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Lookup">
+    <param name="Name" value="ICachedDatasetLookup.Lookup">
+    <param name="Local" value="Interface/ICachedDatasetLookup/ICachedDatasetLookup.Lookup.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Locate">
+    <param name="Name" value="ICachedDatasetLookup.Locate">
+    <param name="Local" value="Interface/ICachedDatasetLookup/ICachedDatasetLookup.Locate.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Fields">
+    <param name="Name" value="ICachedDatasetLookup.Fields">
+    <param name="Local" value="Interface/ICachedDatasetLookup/ICachedDatasetLookup.Fields.htm">
+    <param name="Name" value="IDatasetBatchUpdate.Fields">
+    <param name="Local" value="Interface/IDatasetBatchUpdate/IDatasetBatchUpdate.Fields.htm">
+    <param name="Name" value="IDatasetInstance.Fields">
+    <param name="Local" value="Interface/IDatasetInstance/IDatasetInstance.Fields.htm">
+    <param name="Name" value="IDatasetModel.Fields">
+    <param name="Local" value="Interface/IDatasetModel/IDatasetModel.Fields.htm">
+    <param name="Name" value="ILog.Fields">
+    <param name="Local" value="Interface/ILog/ILog.Fields.htm">
+    <param name="Name" value="ITable.Fields">
+    <param name="Local" value="Interface/ITable/ITable.Fields.htm">
+    <param name="Name" value="ITableIndex.Fields">
+    <param name="Local" value="Interface/ITableIndex/ITableIndex.Fields.htm">
+    <param name="Name" value="ISQLCondition.Fields">
+    <param name="Local" value="Interface/ISQLCondition/ISQLCondition.Fields.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Dataset">
+    <param name="Name" value="ICachedDatasetLookup.Dataset">
+    <param name="Local" value="Interface/ICachedDatasetLookup/ICachedDatasetLookup.Dataset.htm">
+    <param name="Name" value="IDatasetInstance.Dataset">
+    <param name="Local" value="Interface/IDatasetInstance/IDatasetInstance.Dataset.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Truncate">
+    <param name="Name" value="ICachedDataset.Truncate">
+    <param name="Local" value="Interface/ICachedDataset/ICachedDataset.Truncate.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="State">
+    <param name="Name" value="ICachedDataset.State">
+    <param name="Local" value="Interface/ICachedDataset/ICachedDataset.State.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="RecRange">
+    <param name="Name" value="ICachedDataset.RecRange">
+    <param name="Local" value="Interface/ICachedDataset/ICachedDataset.RecRange.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="RecordsBufferThreshold">
+    <param name="Name" value="ICachedDataset.RecordsBufferThreshold">
+    <param name="Local" value="Interface/ICachedDataset/ICachedDataset.RecordsBufferThreshold.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="RecordCountAll">
+    <param name="Name" value="ICachedDataset.RecordCountAll">
+    <param name="Local" value="Interface/ICachedDataset/ICachedDataset.RecordCountAll.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="RecordCount">
+    <param name="Name" value="ICachedDataset.RecordCount">
+    <param name="Local" value="Interface/ICachedDataset/ICachedDataset.RecordCount.htm">
+    <param name="Name" value="IDatasetBatchUpdate.RecordCount">
+    <param name="Local" value="Interface/IDatasetBatchUpdate/IDatasetBatchUpdate.RecordCount.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="RecNo">
+    <param name="Name" value="ICachedDataset.RecNo">
+    <param name="Local" value="Interface/ICachedDataset/ICachedDataset.RecNo.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ReadOnly">
+    <param name="Name" value="ICachedDataset.ReadOnly">
+    <param name="Local" value="Interface/ICachedDataset/ICachedDataset.ReadOnly.htm">
+    <param name="Name" value="IDatasetModelField.ReadOnly">
+    <param name="Local" value="Interface/IDatasetModelField/IDatasetModelField.ReadOnly.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Prior">
+    <param name="Name" value="ICachedDataset.Prior">
+    <param name="Local" value="Interface/ICachedDataset/ICachedDataset.Prior.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Post">
+    <param name="Name" value="ICachedDataset.Post">
+    <param name="Local" value="Interface/ICachedDataset/ICachedDataset.Post.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="MasterSource">
+    <param name="Name" value="ICachedDataset.MasterSource">
+    <param name="Local" value="Interface/ICachedDataset/ICachedDataset.MasterSource.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="MasterFields">
+    <param name="Name" value="ICachedDataset.MasterFields">
+    <param name="Local" value="Interface/ICachedDataset/ICachedDataset.MasterFields.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Last">
+    <param name="Name" value="ICachedDataset.Last">
+    <param name="Local" value="Interface/ICachedDataset/ICachedDataset.Last.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Instance">
+    <param name="Name" value="ICachedDataset.Instance">
+    <param name="Local" value="Interface/ICachedDataset/ICachedDataset.Instance.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Insert">
+    <param name="Name" value="ICachedDataset.Insert">
+    <param name="Local" value="Interface/ICachedDataset/ICachedDataset.Insert.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IndexFields">
+    <param name="Name" value="ICachedDataset.IndexFields">
+    <param name="Local" value="Interface/ICachedDataset/ICachedDataset.IndexFields.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GetFieldValue">
+    <param name="Name" value="ICachedDataset.GetFieldValue">
+    <param name="Local" value="Interface/ICachedDataset/ICachedDataset.GetFieldValue.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Filtered">
+    <param name="Name" value="ICachedDataset.Filtered">
+    <param name="Local" value="Interface/ICachedDataset/ICachedDataset.Filtered.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Filter">
+    <param name="Name" value="ICachedDataset.Filter">
+    <param name="Local" value="Interface/ICachedDataset/ICachedDataset.Filter.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="FetchToRecord">
+    <param name="Name" value="ICachedDataset.FetchToRecord">
+    <param name="Local" value="Interface/ICachedDataset/ICachedDataset.FetchToRecord.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="EofData">
+    <param name="Name" value="ICachedDataset.EofData">
+    <param name="Local" value="Interface/ICachedDataset/ICachedDataset.EofData.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Edit">
+    <param name="Name" value="ICachedDataset.Edit">
+    <param name="Local" value="Interface/ICachedDataset/ICachedDataset.Edit.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Delete">
+    <param name="Name" value="ICachedDataset.Delete">
+    <param name="Local" value="Interface/ICachedDataset/ICachedDataset.Delete.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="CreateLookup">
+    <param name="Name" value="ICachedDataset.CreateLookup">
+    <param name="Local" value="Interface/ICachedDataset/ICachedDataset.CreateLookup.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Cancel">
+    <param name="Name" value="ICachedDataset.Cancel">
+    <param name="Local" value="Interface/ICachedDataset/ICachedDataset.Cancel.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Bof">
+    <param name="Name" value="ICachedDataset.Bof">
+    <param name="Local" value="Interface/ICachedDataset/ICachedDataset.Bof.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Append">
+    <param name="Name" value="ICachedDataset.Append">
+    <param name="Local" value="Interface/ICachedDataset/ICachedDataset.Append.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="AddCalculatedField">
+    <param name="Name" value="ICachedDataset.AddCalculatedField">
+    <param name="Local" value="Interface/ICachedDataset/ICachedDataset.AddCalculatedField.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDatasetModel.Fields">
+    <param name="Name" value="IDatasetModel.Fields">
+    <param name="Local" value="Interface/IDatasetModel/IDatasetModel.Fields.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ITableIndex.FieldNames">
+    <param name="Name" value="ITableIndex.FieldNames">
+    <param name="Local" value="Interface/ITableIndex/ITableIndex.FieldNames.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ICachedDataset.EofData">
+    <param name="Name" value="ICachedDataset.EofData">
+    <param name="Local" value="Interface/ICachedDataset/ICachedDataset.EofData.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ICachedDataset.RecRange">
+    <param name="Name" value="ICachedDataset.RecRange">
+    <param name="Local" value="Interface/ICachedDataset/ICachedDataset.RecRange.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="TableTriggerFireEvent">
+    <param name="Name" value="TableTriggerFireEvent">
+    <param name="Local" value="Enums/TableTriggerFireEvent.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ITableIndex.Fields">
+    <param name="Name" value="ITableIndex.Fields">
+    <param name="Local" value="Interface/ITableIndex/ITableIndex.Fields.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ITableTrigger">
+    <param name="Name" value="ITableTrigger">
+    <param name="Local" value="Interface/ITableTrigger/ITableTrigger.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDatabase.Unicode">
+    <param name="Name" value="IDatabase.Unicode">
+    <param name="Local" value="Interface/IDatabase/IDatabase.Unicode.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ITable.External">
+    <param name="Name" value="ITable.External">
+    <param name="Local" value="Interface/ITable/ITable.External.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ITable.Fields">
+    <param name="Name" value="ITable.Fields">
+    <param name="Local" value="Interface/ITable/ITable.Fields.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ITableIndexes.Add">
+    <param name="Name" value="ITableIndexes.Add">
+    <param name="Local" value="Interface/ITableIndexes/ITableIndexes.Add.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ITableTrigger.FireEvent">
+    <param name="Name" value="ITableTrigger.FireEvent">
+    <param name="Local" value="Interface/ITableTrigger/ITableTrigger.FireEvent.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ICachedDataset.Instance">
+    <param name="Name" value="ICachedDataset.Instance">
+    <param name="Local" value="Interface/ICachedDataset/ICachedDataset.Instance.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDatasetInstanceFields.Item">
+    <param name="Name" value="IDatasetInstanceFields.Item">
+    <param name="Local" value="Interface/IDatasetInstanceFields/IDatasetInstanceFields.Item.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ICachedDataset.GetFieldValue">
+    <param name="Name" value="ICachedDataset.GetFieldValue">
+    <param name="Local" value="Interface/ICachedDataset/ICachedDataset.GetFieldValue.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ICachedDataset.Prior">
+    <param name="Name" value="ICachedDataset.Prior">
+    <param name="Local" value="Interface/ICachedDataset/ICachedDataset.Prior.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDatasetInstance.Execute">
+    <param name="Name" value="IDatasetInstance.Execute">
+    <param name="Local" value="Interface/IDatasetInstance/IDatasetInstance.Execute.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IOdbcDataset.Password">
+    <param name="Name" value="IOdbcDataset.Password">
+    <param name="Local" value="Interface/IOdbcDataset/IOdbcDataset.Password.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IOdbcDataset.UserId">
+    <param name="Name" value="IOdbcDataset.UserId">
+    <param name="Local" value="Interface/IOdbcDataset/IOdbcDataset.UserId.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IOdbcDataset.DataSourceName">
+    <param name="Name" value="IOdbcDataset.DataSourceName">
+    <param name="Local" value="Interface/IOdbcDataset/IOdbcDataset.DataSourceName.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILog.AlterLog">
+    <param name="Name" value="ILog.AlterLog">
+    <param name="Local" value="Interface/ILog/ILog.AlterLog.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ICachedDatasetLookup.Locate">
+    <param name="Name" value="ICachedDatasetLookup.Locate">
+    <param name="Local" value="Interface/ICachedDatasetLookup/ICachedDatasetLookup.Locate.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDatabase.Authentication">
+    <param name="Name" value="IDatabase.Authentication">
+    <param name="Local" value="Interface/IDatabase/IDatabase.Authentication.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ITableFields.FindById">
+    <param name="Name" value="ITableFields.FindById">
+    <param name="Local" value="Interface/ITableFields/ITableFields.FindById.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDatabase.ODBC">
+    <param name="Name" value="IDatabase.ODBC">
+    <param name="Local" value="Interface/IDatabase/IDatabase.ODBC.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IProcedure.NativeName">
+    <param name="Name" value="IProcedure.NativeName">
+    <param name="Local" value="Interface/IProcedure/IProcedure.NativeName.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDatabaseInstance.Tables">
+    <param name="Name" value="IDatabaseInstance.Tables">
+    <param name="Local" value="Interface/IDatabaseInstance/IDatabaseInstance.Tables.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IView.Sql">
+    <param name="Name" value="IView.Sql">
+    <param name="Local" value="Interface/IView/IView.Sql.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ICachedDataset.Edit">
+    <param name="Name" value="ICachedDataset.Edit">
+    <param name="Local" value="Interface/ICachedDataset/ICachedDataset.Edit.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDatasetModelField.Mandatory">
+    <param name="Name" value="IDatasetModelField.Mandatory">
+    <param name="Local" value="Interface/IDatasetModelField/IDatasetModelField.Mandatory.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ITableIndexFields.Count">
+    <param name="Name" value="ITableIndexFields.Count">
+    <param name="Local" value="Interface/ITableIndexFields/ITableIndexFields.Count.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="DatasetFailPolicy">
+    <param name="Name" value="DatasetFailPolicy">
+    <param name="Local" value="Enums/DatasetFailPolicy.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IOdbcDataset.Catalog">
+    <param name="Name" value="IOdbcDataset.Catalog">
+    <param name="Local" value="Interface/IOdbcDataset/IOdbcDataset.Catalog.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ICachedDatasetLookup">
+    <param name="Name" value="ICachedDatasetLookup">
+    <param name="Local" value="Interface/ICachedDatasetLookup/ICachedDatasetLookup.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ICachedDataset.CreateLookup">
+    <param name="Name" value="ICachedDataset.CreateLookup">
+    <param name="Local" value="Interface/ICachedDataset/ICachedDataset.CreateLookup.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDatasetBatchUpdate.Fields">
+    <param name="Name" value="IDatasetBatchUpdate.Fields">
+    <param name="Local" value="Interface/IDatasetBatchUpdate/IDatasetBatchUpdate.Fields.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ITableTriggers.FindByKey">
+    <param name="Name" value="ITableTriggers.FindByKey">
+    <param name="Local" value="Interface/ITableTriggers/ITableTriggers.FindByKey.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDatabase.RevokeGrantedRights">
+    <param name="Name" value="IDatabase.RevokeGrantedRights">
+    <param name="Local" value="Interface/IDatabase/IDatabase.RevokeGrantedRights.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ITableTriggers.Remove">
+    <param name="Name" value="ITableTriggers.Remove">
+    <param name="Local" value="Interface/ITableTriggers/ITableTriggers.Remove.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ITableIndexFields.RemoveByKey">
+    <param name="Name" value="ITableIndexFields.RemoveByKey">
+    <param name="Local" value="Interface/ITableIndexFields/ITableIndexFields.RemoveByKey.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ITable.NativeName">
+    <param name="Name" value="ITable.NativeName">
+    <param name="Local" value="Interface/ITable/ITable.NativeName.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ITableTriggers">
+    <param name="Name" value="ITableTriggers">
+    <param name="Local" value="Interface/ITableTriggers/ITableTriggers.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ITableIndexes.RemoveByKey">
+    <param name="Name" value="ITableIndexes.RemoveByKey">
+    <param name="Local" value="Interface/ITableIndexes/ITableIndexes.RemoveByKey.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IView.Database">
+    <param name="Name" value="IView.Database">
+    <param name="Local" value="Interface/IView/IView.Database.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IView.ClearSqlText">
+    <param name="Name" value="IView.ClearSqlText">
+    <param name="Local" value="Interface/IView/IView.ClearSqlText.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ITableFields.RemoveByKey">
+    <param name="Name" value="ITableFields.RemoveByKey">
+    <param name="Local" value="Interface/ITableFields/ITableFields.RemoveByKey.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDatasetInstanceField">
+    <param name="Name" value="IDatasetInstanceField">
+    <param name="Local" value="Interface/IDatasetInstanceField/IDatasetInstanceField.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ICachedDataset.ReadOnly">
+    <param name="Name" value="ICachedDataset.ReadOnly">
+    <param name="Local" value="Interface/ICachedDataset/ICachedDataset.ReadOnly.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDatasetModel.Open">
+    <param name="Name" value="IDatasetModel.Open">
+    <param name="Local" value="Interface/IDatasetModel/IDatasetModel.Open.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDatasetModelField.Expression">
+    <param name="Name" value="IDatasetModelField.Expression">
+    <param name="Local" value="Interface/IDatasetModelField/IDatasetModelField.Expression.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDatasetModelField.Size">
+    <param name="Name" value="IDatasetModelField.Size">
+    <param name="Local" value="Interface/IDatasetModelField/IDatasetModelField.Size.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILog.UpdateLog">
+    <param name="Name" value="ILog.UpdateLog">
+    <param name="Local" value="Interface/ILog/ILog.UpdateLog.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILog.DropLog">
+    <param name="Name" value="ILog.DropLog">
+    <param name="Local" value="Interface/ILog/ILog.DropLog.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IQuery.Sql">
+    <param name="Name" value="IQuery.Sql">
+    <param name="Local" value="Interface/IQuery/IQuery.Sql.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ITable">
+    <param name="Name" value="ITable">
+    <param name="Local" value="Interface/ITable/ITable.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ITableChecks.RemoveByKey">
+    <param name="Name" value="ITableChecks.RemoveByKey">
+    <param name="Local" value="Interface/ITableChecks/ITableChecks.RemoveByKey.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IProcedure.Refresh">
+    <param name="Name" value="IProcedure.Refresh">
+    <param name="Local" value="Interface/IProcedure/IProcedure.Refresh.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IProcedure.ForceCreate">
+    <param name="Name" value="IProcedure.ForceCreate">
+    <param name="Local" value="Interface/IProcedure/IProcedure.ForceCreate.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ITableIndex.Unique">
+    <param name="Name" value="ITableIndex.Unique">
+    <param name="Local" value="Interface/ITableIndex/ITableIndex.Unique.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDatabaseTables">
+    <param name="Name" value="IDatabaseTables">
+    <param name="Local" value="Interface/IDatabaseTables/IDatabaseTables.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDatabaseInstance.Database">
+    <param name="Name" value="IDatabaseInstance.Database">
+    <param name="Local" value="Interface/IDatabaseInstance/IDatabaseInstance.Database.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ICachedDataset.Filtered">
+    <param name="Name" value="ICachedDataset.Filtered">
+    <param name="Local" value="Interface/ICachedDataset/ICachedDataset.Filtered.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDatasetModelField.ReadOnly">
+    <param name="Name" value="IDatasetModelField.ReadOnly">
+    <param name="Local" value="Interface/IDatasetModelField/IDatasetModelField.ReadOnly.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDatasetModelField">
+    <param name="Name" value="IDatasetModelField">
+    <param name="Local" value="Interface/IDatasetModelField/IDatasetModelField.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IOdbcDataset.DataSource">
+    <param name="Name" value="IOdbcDataset.DataSource">
+    <param name="Local" value="Interface/IOdbcDataset/IOdbcDataset.DataSource.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ICachedDataset.Delete">
+    <param name="Name" value="ICachedDataset.Delete">
+    <param name="Local" value="Interface/ICachedDataset/ICachedDataset.Delete.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IQuery.ParamsCheck">
+    <param name="Name" value="IQuery.ParamsCheck">
+    <param name="Local" value="Interface/IQuery/IQuery.ParamsCheck.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDatasetBatchUpdate.Failed">
+    <param name="Name" value="IDatasetBatchUpdate.Failed">
+    <param name="Local" value="Interface/IDatasetBatchUpdate/IDatasetBatchUpdate.Failed.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDatabase.SecurityPackage">
+    <param name="Name" value="IDatabase.SecurityPackage">
+    <param name="Local" value="Interface/IDatabase/IDatabase.SecurityPackage.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDatabase.AutoAdjustRights">
+    <param name="Name" value="IDatabase.AutoAdjustRights">
+    <param name="Local" value="Interface/IDatabase/IDatabase.AutoAdjustRights.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ITable.Database">
+    <param name="Name" value="ITable.Database">
+    <param name="Local" value="Interface/ITable/ITable.Database.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IProcedure.CreateProcedure">
+    <param name="Name" value="IProcedure.CreateProcedure">
+    <param name="Local" value="Interface/IProcedure/IProcedure.CreateProcedure.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ISQLCommand.Database">
+    <param name="Name" value="ISQLCommand.Database">
+    <param name="Local" value="Interface/ISQLCommand/ISQLCommand.Database.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IView.NativeName">
+    <param name="Name" value="IView.NativeName">
+    <param name="Local" value="Interface/IView/IView.NativeName.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ICachedDataset.RecordCountAll">
+    <param name="Name" value="ICachedDataset.RecordCountAll">
+    <param name="Local" value="Interface/ICachedDataset/ICachedDataset.RecordCountAll.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ICachedDataset.Filter">
+    <param name="Name" value="ICachedDataset.Filter">
+    <param name="Local" value="Interface/ICachedDataset/ICachedDataset.Filter.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDatasetModelFields.Count">
+    <param name="Name" value="IDatasetModelFields.Count">
+    <param name="Local" value="Interface/IDatasetModelFields/IDatasetModelFields.Count.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ISQLCommandInstance">
+    <param name="Name" value="ISQLCommandInstance">
+    <param name="Local" value="Interface/ISQLCommandInstance/ISQLCommandInstance.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDatasetBatchUpdate.RecordFields">
+    <param name="Name" value="IDatasetBatchUpdate.RecordFields">
+    <param name="Local" value="Interface/IDatasetBatchUpdate/IDatasetBatchUpdate.RecordFields.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ICachedDataset.AddCalculatedField">
+    <param name="Name" value="ICachedDataset.AddCalculatedField">
+    <param name="Local" value="Interface/ICachedDataset/ICachedDataset.AddCalculatedField.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IQuery.ClearSqlText">
+    <param name="Name" value="IQuery.ClearSqlText">
+    <param name="Local" value="Interface/IQuery/IQuery.ClearSqlText.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ITableIndexFields.Move">
+    <param name="Name" value="ITableIndexFields.Move">
+    <param name="Local" value="Interface/ITableIndexFields/ITableIndexFields.Move.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ITableChecks.FindByKey">
+    <param name="Name" value="ITableChecks.FindByKey">
+    <param name="Local" value="Interface/ITableChecks/ITableChecks.FindByKey.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IProcedure.External">
+    <param name="Name" value="IProcedure.External">
+    <param name="Local" value="Interface/IProcedure/IProcedure.External.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ICachedDataset">
+    <param name="Name" value="ICachedDataset">
+    <param name="Local" value="Interface/ICachedDataset/ICachedDataset.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDatasetInstanceField.Value">
+    <param name="Name" value="IDatasetInstanceField.Value">
+    <param name="Local" value="Interface/IDatasetInstanceField/IDatasetInstanceField.Value.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ICachedDataset.IndexFields">
+    <param name="Name" value="ICachedDataset.IndexFields">
+    <param name="Local" value="Interface/ICachedDataset/ICachedDataset.IndexFields.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDatasetModelField.IsKey">
+    <param name="Name" value="IDatasetModelField.IsKey">
+    <param name="Local" value="Interface/IDatasetModelField/IDatasetModelField.IsKey.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDatasetModel.Database">
+    <param name="Name" value="IDatasetModel.Database">
+    <param name="Local" value="Interface/IDatasetModel/IDatasetModel.Database.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDatasetModelFields.FindById">
+    <param name="Name" value="IDatasetModelFields.FindById">
+    <param name="Local" value="Interface/IDatasetModelFields/IDatasetModelFields.FindById.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="TableTriggerFireTime">
+    <param name="Name" value="TableTriggerFireTime">
+    <param name="Local" value="Enums/TableTriggerFireTime.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ICachedDatasetLookup.Lookup">
+    <param name="Name" value="ICachedDatasetLookup.Lookup">
+    <param name="Local" value="Interface/ICachedDatasetLookup/ICachedDatasetLookup.Lookup.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ICachedDataset.Insert">
+    <param name="Name" value="ICachedDataset.Insert">
+    <param name="Local" value="Interface/ICachedDataset/ICachedDataset.Insert.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDatasetBatchUpdate.AddRecord">
+    <param name="Name" value="IDatasetBatchUpdate.AddRecord">
+    <param name="Local" value="Interface/IDatasetBatchUpdate/IDatasetBatchUpdate.AddRecord.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IOdbcDataset">
+    <param name="Name" value="IOdbcDataset">
+    <param name="Local" value="Interface/IOdbcDataset/IOdbcDataset.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ITableChecks.Add">
+    <param name="Name" value="ITableChecks.Add">
+    <param name="Local" value="Interface/ITableChecks/ITableChecks.Add.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IProcedure.Kind">
+    <param name="Name" value="IProcedure.Kind">
+    <param name="Local" value="Interface/IProcedure/IProcedure.Kind.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IProcedure">
+    <param name="Name" value="IProcedure">
+    <param name="Local" value="Interface/IProcedure/IProcedure.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IView.TableCreate">
+    <param name="Name" value="IView.TableCreate">
+    <param name="Local" value="Interface/IView/IView.TableCreate.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ITableField.IsCalculated">
+    <param name="Name" value="ITableField.IsCalculated">
+    <param name="Local" value="Interface/ITableField/ITableField.IsCalculated.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ICachedDataset.RecordsBufferThreshold">
+    <param name="Name" value="ICachedDataset.RecordsBufferThreshold">
+    <param name="Local" value="Interface/ICachedDataset/ICachedDataset.RecordsBufferThreshold.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDatasetInstance.OpenCached">
+    <param name="Name" value="IDatasetInstance.OpenCached">
+    <param name="Local" value="Interface/IDatasetInstance/IDatasetInstance.OpenCached.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDatasetInstance.Eof">
+    <param name="Name" value="IDatasetInstance.Eof">
+    <param name="Local" value="Interface/IDatasetInstance/IDatasetInstance.Eof.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="CachedDatasetState">
+    <param name="Name" value="CachedDatasetState">
+    <param name="Local" value="Enums/CachedDatasetState.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILog.CreateLog">
+    <param name="Name" value="ILog.CreateLog">
+    <param name="Local" value="Interface/ILog/ILog.CreateLog.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDatasetBatchUpdate.RecordCount">
+    <param name="Name" value="IDatasetBatchUpdate.RecordCount">
+    <param name="Local" value="Interface/IDatasetBatchUpdate/IDatasetBatchUpdate.RecordCount.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ITableFields">
+    <param name="Name" value="ITableFields">
+    <param name="Local" value="Interface/ITableFields/ITableFields.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ITable.CreateTable">
+    <param name="Name" value="ITable.CreateTable">
+    <param name="Local" value="Interface/ITable/ITable.CreateTable.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ITableCheck.Text">
+    <param name="Name" value="ITableCheck.Text">
+    <param name="Local" value="Interface/ITableCheck/ITableCheck.Text.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ITableChecks.Remove">
+    <param name="Name" value="ITableChecks.Remove">
+    <param name="Local" value="Interface/ITableChecks/ITableChecks.Remove.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ITableChecks.FindById">
+    <param name="Name" value="ITableChecks.FindById">
+    <param name="Local" value="Interface/ITableChecks/ITableChecks.FindById.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IProcedure.AlterProcedure">
+    <param name="Name" value="IProcedure.AlterProcedure">
+    <param name="Local" value="Interface/IProcedure/IProcedure.AlterProcedure.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ISQLCommand.ClearText">
+    <param name="Name" value="ISQLCommand.ClearText">
+    <param name="Local" value="Interface/ISQLCommand/ISQLCommand.ClearText.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ITableIndex.Primary">
+    <param name="Name" value="ITableIndex.Primary">
+    <param name="Local" value="Interface/ITableIndex/ITableIndex.Primary.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IView.DropView">
+    <param name="Name" value="IView.DropView">
+    <param name="Local" value="Interface/IView/IView.DropView.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IView.AlterView">
+    <param name="Name" value="IView.AlterView">
+    <param name="Local" value="Interface/IView/IView.AlterView.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ICachedDataset.MasterSource">
+    <param name="Name" value="ICachedDataset.MasterSource">
+    <param name="Local" value="Interface/ICachedDataset/ICachedDataset.MasterSource.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILog.NativeName">
+    <param name="Name" value="ILog.NativeName">
+    <param name="Local" value="Interface/ILog/ILog.NativeName.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ICachedDatasetLookup.Fields">
+    <param name="Name" value="ICachedDatasetLookup.Fields">
+    <param name="Local" value="Interface/ICachedDatasetLookup/ICachedDatasetLookup.Fields.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDatasetBatchUpdate.KeyFieldNames">
+    <param name="Name" value="IDatasetBatchUpdate.KeyFieldNames">
+    <param name="Local" value="Interface/IDatasetBatchUpdate/IDatasetBatchUpdate.KeyFieldNames.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ITableFields.Add">
+    <param name="Name" value="ITableFields.Add">
+    <param name="Local" value="Interface/ITableFields/ITableFields.Add.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ITableIndexFields.Remove">
+    <param name="Name" value="ITableIndexFields.Remove">
+    <param name="Local" value="Interface/ITableIndexFields/ITableIndexFields.Remove.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ITableChecks.Item">
+    <param name="Name" value="ITableChecks.Item">
+    <param name="Local" value="Interface/ITableChecks/ITableChecks.Item.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IProcedure.UpdateProcedure">
+    <param name="Name" value="IProcedure.UpdateProcedure">
+    <param name="Local" value="Interface/IProcedure/IProcedure.UpdateProcedure.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IView">
+    <param name="Name" value="IView">
+    <param name="Local" value="Interface/IView/IView.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ITableField.DefaultValue">
+    <param name="Name" value="ITableField.DefaultValue">
+    <param name="Local" value="Interface/ITableField/ITableField.DefaultValue.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ITableField">
+    <param name="Name" value="ITableField">
+    <param name="Local" value="Interface/ITableField/ITableField.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDatasetInstanceFields.Count">
+    <param name="Name" value="IDatasetInstanceFields.Count">
+    <param name="Local" value="Interface/IDatasetInstanceFields/IDatasetInstanceFields.Count.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ITableIndexFields.Add">
+    <param name="Name" value="ITableIndexFields.Add">
+    <param name="Local" value="Interface/ITableIndexFields/ITableIndexFields.Add.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDatasetInstance.Fields">
+    <param name="Name" value="IDatasetInstance.Fields">
+    <param name="Local" value="Interface/IDatasetInstance/IDatasetInstance.Fields.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDatasetInstance.Close">
+    <param name="Name" value="IDatasetInstance.Close">
+    <param name="Local" value="Interface/IDatasetInstance/IDatasetInstance.Close.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDatasetInstance.Dataset">
+    <param name="Name" value="IDatasetInstance.Dataset">
+    <param name="Local" value="Interface/IDatasetInstance/IDatasetInstance.Dataset.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDatasetBatchUpdate">
+    <param name="Name" value="IDatasetBatchUpdate">
+    <param name="Local" value="Interface/IDatasetBatchUpdate/IDatasetBatchUpdate.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDatabase.LogonData">
+    <param name="Name" value="IDatabase.LogonData">
+    <param name="Local" value="Interface/IDatabase/IDatabase.LogonData.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ITableTrigger.FireTime">
+    <param name="Name" value="ITableTrigger.FireTime">
+    <param name="Local" value="Interface/ITableTrigger/ITableTrigger.FireTime.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ITableTriggers.RemoveByKey">
+    <param name="Name" value="ITableTriggers.RemoveByKey">
+    <param name="Local" value="Interface/ITableTriggers/ITableTriggers.RemoveByKey.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ITableIndexFields.Item">
+    <param name="Name" value="ITableIndexFields.Item">
+    <param name="Local" value="Interface/ITableIndexFields/ITableIndexFields.Item.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ITable.Checks">
+    <param name="Name" value="ITable.Checks">
+    <param name="Local" value="Interface/ITable/ITable.Checks.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ITableChecks.Clear">
+    <param name="Name" value="ITableChecks.Clear">
+    <param name="Local" value="Interface/ITableChecks/ITableChecks.Clear.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDatabaseViews.ViewName">
+    <param name="Name" value="IDatabaseViews.ViewName">
+    <param name="Local" value="Interface/IDatabaseViews/IDatabaseViews.ViewName.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ITableField.DataType">
+    <param name="Name" value="ITableField.DataType">
+    <param name="Local" value="Interface/ITableField/ITableField.DataType.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDatasetInstanceFields.IndexOf">
+    <param name="Name" value="IDatasetInstanceFields.IndexOf">
+    <param name="Local" value="Interface/IDatasetInstanceFields/IDatasetInstanceFields.IndexOf.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDatasetModelField.IsCalculated">
+    <param name="Name" value="IDatasetModelField.IsCalculated">
+    <param name="Local" value="Interface/IDatasetModelField/IDatasetModelField.IsCalculated.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILog">
+    <param name="Name" value="ILog">
+    <param name="Local" value="Interface/ILog/ILog.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IOdbcDataset.ProviderString">
+    <param name="Name" value="IOdbcDataset.ProviderString">
+    <param name="Local" value="Interface/IOdbcDataset/IOdbcDataset.ProviderString.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IQuery.Database">
+    <param name="Name" value="IQuery.Database">
+    <param name="Local" value="Interface/IQuery/IQuery.Database.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDatabase">
+    <param name="Name" value="IDatabase">
+    <param name="Local" value="Interface/IDatabase/IDatabase.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IProcedure.AttachProcedure">
+    <param name="Name" value="IProcedure.AttachProcedure">
+    <param name="Local" value="Interface/IProcedure/IProcedure.AttachProcedure.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ITableIndexes.Remove">
+    <param name="Name" value="ITableIndexes.Remove">
+    <param name="Local" value="Interface/ITableIndexes/ITableIndexes.Remove.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDatasetModelField.DataType">
+    <param name="Name" value="IDatasetModelField.DataType">
+    <param name="Local" value="Interface/IDatasetModelField/IDatasetModelField.DataType.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ISQLCommand">
+    <param name="Name" value="ISQLCommand">
+    <param name="Local" value="Interface/ISQLCommand/ISQLCommand.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ITableField.Precision">
+    <param name="Name" value="ITableField.Precision">
+    <param name="Local" value="Interface/ITableField/ITableField.Precision.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ICachedDataset.RecNo">
+    <param name="Name" value="ICachedDataset.RecNo">
+    <param name="Local" value="Interface/ICachedDataset/ICachedDataset.RecNo.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="DatasetBatchCommand">
+    <param name="Name" value="DatasetBatchCommand">
+    <param name="Local" value="Enums/DatasetBatchCommand.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ISQLCommandInstance.Database">
+    <param name="Name" value="ISQLCommandInstance.Database">
+    <param name="Local" value="Interface/ISQLCommandInstance/ISQLCommandInstance.Database.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDatasetBatchUpdate.BatchCommand">
+    <param name="Name" value="IDatasetBatchUpdate.BatchCommand">
+    <param name="Local" value="Interface/IDatasetBatchUpdate/IDatasetBatchUpdate.BatchCommand.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ITableTriggers.Clear">
+    <param name="Name" value="ITableTriggers.Clear">
+    <param name="Local" value="Interface/ITableTriggers/ITableTriggers.Clear.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ITableTriggers.Add">
+    <param name="Name" value="ITableTriggers.Add">
+    <param name="Local" value="Interface/ITableTriggers/ITableTriggers.Add.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ITable.Triggers">
+    <param name="Name" value="ITable.Triggers">
+    <param name="Local" value="Interface/ITable/ITable.Triggers.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ITable.DropTable">
+    <param name="Name" value="ITable.DropTable">
+    <param name="Local" value="Interface/ITable/ITable.DropTable.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ITableChecks.Count">
+    <param name="Name" value="ITableChecks.Count">
+    <param name="Local" value="Interface/ITableChecks/ITableChecks.Count.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ITableChecks">
+    <param name="Name" value="ITableChecks">
+    <param name="Local" value="Interface/ITableChecks/ITableChecks.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ITableIndexes.Clear">
+    <param name="Name" value="ITableIndexes.Clear">
+    <param name="Local" value="Interface/ITableIndexes/ITableIndexes.Clear.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDatasetInstanceFields.FindById">
+    <param name="Name" value="IDatasetInstanceFields.FindById">
+    <param name="Local" value="Interface/IDatasetInstanceFields/IDatasetInstanceFields.FindById.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ICachedDataset.Cancel">
+    <param name="Name" value="ICachedDataset.Cancel">
+    <param name="Local" value="Interface/ICachedDataset/ICachedDataset.Cancel.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ICachedDataset.MasterFields">
+    <param name="Name" value="ICachedDataset.MasterFields">
+    <param name="Local" value="Interface/ICachedDataset/ICachedDataset.MasterFields.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDatasetModel">
+    <param name="Name" value="IDatasetModel">
+    <param name="Local" value="Interface/IDatasetModel/IDatasetModel.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDatasetInstance.CreateBatchUpdate">
+    <param name="Name" value="IDatasetInstance.CreateBatchUpdate">
+    <param name="Local" value="Interface/IDatasetInstance/IDatasetInstance.CreateBatchUpdate.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDatasetInstance">
+    <param name="Name" value="IDatasetInstance">
+    <param name="Local" value="Interface/IDatasetInstance/IDatasetInstance.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ISQLCommandInstance.Execute">
+    <param name="Name" value="ISQLCommandInstance.Execute">
+    <param name="Local" value="Interface/ISQLCommandInstance/ISQLCommandInstance.Execute.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ICachedDatasetLookup.Dataset">
+    <param name="Name" value="ICachedDatasetLookup.Dataset">
+    <param name="Local" value="Interface/ICachedDatasetLookup/ICachedDatasetLookup.Dataset.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDatasetBatchUpdate.FailPolicy">
+    <param name="Name" value="IDatasetBatchUpdate.FailPolicy">
+    <param name="Local" value="Interface/IDatasetBatchUpdate/IDatasetBatchUpdate.FailPolicy.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ICachedDataset.FetchToRecord">
+    <param name="Name" value="ICachedDataset.FetchToRecord">
+    <param name="Local" value="Interface/ICachedDataset/ICachedDataset.FetchToRecord.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDatasetBatchUpdate.Commit">
+    <param name="Name" value="IDatasetBatchUpdate.Commit">
+    <param name="Local" value="Interface/IDatasetBatchUpdate/IDatasetBatchUpdate.Commit.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ITableFields.Item">
+    <param name="Name" value="ITableFields.Item">
+    <param name="Local" value="Interface/ITableFields/ITableFields.Item.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDatabase.GrantCurrentRights">
+    <param name="Name" value="IDatabase.GrantCurrentRights">
+    <param name="Local" value="Interface/IDatabase/IDatabase.GrantCurrentRights.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ITableTriggers.Count">
+    <param name="Name" value="ITableTriggers.Count">
+    <param name="Local" value="Interface/ITableTriggers/ITableTriggers.Count.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ITableTriggers.Item">
+    <param name="Name" value="ITableTriggers.Item">
+    <param name="Local" value="Interface/ITableTriggers/ITableTriggers.Item.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDatabaseViews">
+    <param name="Name" value="IDatabaseViews">
+    <param name="Local" value="Interface/IDatabaseViews/IDatabaseViews.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ITableIndexes.FindByKey">
+    <param name="Name" value="ITableIndexes.FindByKey">
+    <param name="Local" value="Interface/ITableIndexes/ITableIndexes.FindByKey.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ITableIndexes.Count">
+    <param name="Name" value="ITableIndexes.Count">
+    <param name="Local" value="Interface/ITableIndexes/ITableIndexes.Count.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDatasetInstanceFields">
+    <param name="Name" value="IDatasetInstanceFields">
+    <param name="Local" value="Interface/IDatasetInstanceFields/IDatasetInstanceFields.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDatasetModel.OpenWhere">
+    <param name="Name" value="IDatasetModel.OpenWhere">
+    <param name="Local" value="Interface/IDatasetModel/IDatasetModel.OpenWhere.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ICachedDataset.State">
+    <param name="Name" value="ICachedDataset.State">
+    <param name="Local" value="Interface/ICachedDataset/ICachedDataset.State.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ITableIndexFields">
+    <param name="Name" value="ITableIndexFields">
+    <param name="Local" value="Interface/ITableIndexFields/ITableIndexFields.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDatasetModelField.DefaultValue">
+    <param name="Name" value="IDatasetModelField.DefaultValue">
+    <param name="Local" value="Interface/IDatasetModelField/IDatasetModelField.DefaultValue.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILog.Database">
+    <param name="Name" value="ILog.Database">
+    <param name="Local" value="Interface/ILog/ILog.Database.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IOdbcDataset.Location">
+    <param name="Name" value="IOdbcDataset.Location">
+    <param name="Local" value="Interface/IOdbcDataset/IOdbcDataset.Location.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILog.Fields">
+    <param name="Name" value="ILog.Fields">
+    <param name="Local" value="Interface/ILog/ILog.Fields.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDatasetBatchUpdate.Connection">
+    <param name="Name" value="IDatasetBatchUpdate.Connection">
+    <param name="Local" value="Interface/IDatasetBatchUpdate/IDatasetBatchUpdate.Connection.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDatasetBatchUpdate.Rollback">
+    <param name="Name" value="IDatasetBatchUpdate.Rollback">
+    <param name="Local" value="Interface/IDatasetBatchUpdate/IDatasetBatchUpdate.Rollback.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ITableTriggers.FindById">
+    <param name="Name" value="ITableTriggers.FindById">
+    <param name="Local" value="Interface/ITableTriggers/ITableTriggers.FindById.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ITable.AlterTable">
+    <param name="Name" value="ITable.AlterTable">
+    <param name="Local" value="Interface/ITable/ITable.AlterTable.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ITable.Indexes">
+    <param name="Name" value="ITable.Indexes">
+    <param name="Local" value="Interface/ITable/ITable.Indexes.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ITableFields.Remove">
+    <param name="Name" value="ITableFields.Remove">
+    <param name="Local" value="Interface/ITableFields/ITableFields.Remove.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IProcedure.DropProcedure">
+    <param name="Name" value="IProcedure.DropProcedure">
+    <param name="Local" value="Interface/IProcedure/IProcedure.DropProcedure.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDatabaseInstance.Connection">
+    <param name="Name" value="IDatabaseInstance.Connection">
+    <param name="Local" value="Interface/IDatabaseInstance/IDatabaseInstance.Connection.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ITableIndexes.FindById">
+    <param name="Name" value="ITableIndexes.FindById">
+    <param name="Local" value="Interface/ITableIndexes/ITableIndexes.FindById.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ICachedDataset.Append">
+    <param name="Name" value="ICachedDataset.Append">
+    <param name="Local" value="Interface/ICachedDataset/ICachedDataset.Append.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDatasetInstance.FieldDefs">
+    <param name="Name" value="IDatasetInstance.FieldDefs">
+    <param name="Local" value="Interface/IDatasetInstance/IDatasetInstance.FieldDefs.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDatasetInstance.Next">
+    <param name="Name" value="IDatasetInstance.Next">
+    <param name="Local" value="Interface/IDatasetInstance/IDatasetInstance.Next.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILog.PutRecord">
+    <param name="Name" value="ILog.PutRecord">
+    <param name="Local" value="Interface/ILog/ILog.PutRecord.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IQuery">
+    <param name="Name" value="IQuery">
+    <param name="Local" value="Interface/IQuery/IQuery.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDatasetBatchUpdate.BeginUpdate">
+    <param name="Name" value="IDatasetBatchUpdate.BeginUpdate">
+    <param name="Local" value="Interface/IDatasetBatchUpdate/IDatasetBatchUpdate.BeginUpdate.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDatabase.LoginPrompt">
+    <param name="Name" value="IDatabase.LoginPrompt">
+    <param name="Local" value="Interface/IDatabase/IDatabase.LoginPrompt.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ITableFields.FindByKey">
+    <param name="Name" value="ITableFields.FindByKey">
+    <param name="Local" value="Interface/ITableFields/ITableFields.FindByKey.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ITable.UpdateTable">
+    <param name="Name" value="ITable.UpdateTable">
+    <param name="Local" value="Interface/ITable/ITable.UpdateTable.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ITableCheck">
+    <param name="Name" value="ITableCheck">
+    <param name="Local" value="Interface/ITableCheck/ITableCheck.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ITableFields.FieldByKey">
+    <param name="Name" value="ITableFields.FieldByKey">
+    <param name="Local" value="Interface/ITableFields/ITableFields.FieldByKey.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDatabaseInstance.Views">
+    <param name="Name" value="IDatabaseInstance.Views">
+    <param name="Local" value="Interface/IDatabaseInstance/IDatabaseInstance.Views.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IView.UpdateView">
+    <param name="Name" value="IView.UpdateView">
+    <param name="Local" value="Interface/IView/IView.UpdateView.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ITableFields.Clear">
+    <param name="Name" value="ITableFields.Clear">
+    <param name="Local" value="Interface/ITableFields/ITableFields.Clear.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ITableField.Mandatory">
+    <param name="Name" value="ITableField.Mandatory">
+    <param name="Local" value="Interface/ITableField/ITableField.Mandatory.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IView.UpdateData">
+    <param name="Name" value="IView.UpdateData">
+    <param name="Local" value="Interface/IView/IView.UpdateData.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ITableField.Size">
+    <param name="Name" value="ITableField.Size">
+    <param name="Local" value="Interface/ITableField/ITableField.Size.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ITableField.Expression">
+    <param name="Name" value="ITableField.Expression">
+    <param name="Local" value="Interface/ITableField/ITableField.Expression.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDatasetInstanceFields.FindByKey">
+    <param name="Name" value="IDatasetInstanceFields.FindByKey">
+    <param name="Local" value="Interface/IDatasetInstanceFields/IDatasetInstanceFields.FindByKey.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ICachedDataset.RecordCount">
+    <param name="Name" value="ICachedDataset.RecordCount">
+    <param name="Local" value="Interface/ICachedDataset/ICachedDataset.RecordCount.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ICachedDataset.Bof">
+    <param name="Name" value="ICachedDataset.Bof">
+    <param name="Local" value="Interface/ICachedDataset/ICachedDataset.Bof.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ICachedDataset.Last">
+    <param name="Name" value="ICachedDataset.Last">
+    <param name="Local" value="Interface/ICachedDataset/ICachedDataset.Last.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDatasetModelField.Precision">
+    <param name="Name" value="IDatasetModelField.Precision">
+    <param name="Local" value="Interface/IDatasetModelField/IDatasetModelField.Precision.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDatasetModelField.IsData">
+    <param name="Name" value="IDatasetModelField.IsData">
+    <param name="Local" value="Interface/IDatasetModelField/IDatasetModelField.IsData.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDatasetModelFields">
+    <param name="Name" value="IDatasetModelFields">
+    <param name="Local" value="Interface/IDatasetModelFields/IDatasetModelFields.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDatasetModelFields.Item">
+    <param name="Name" value="IDatasetModelFields.Item">
+    <param name="Local" value="Interface/IDatasetModelFields/IDatasetModelFields.Item.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDatasetInstance.First">
+    <param name="Name" value="IDatasetInstance.First">
+    <param name="Local" value="Interface/IDatasetInstance/IDatasetInstance.First.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ICachedDataset.Post">
+    <param name="Name" value="ICachedDataset.Post">
+    <param name="Local" value="Interface/ICachedDataset/ICachedDataset.Post.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ICachedDataset.Truncate">
+    <param name="Name" value="ICachedDataset.Truncate">
+    <param name="Local" value="Interface/ICachedDataset/ICachedDataset.Truncate.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDatabase.UseMetabaseCredentials">
+    <param name="Name" value="IDatabase.UseMetabaseCredentials">
+    <param name="Local" value="Interface/IDatabase/IDatabase.UseMetabaseCredentials.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ITableCheck.Check">
+    <param name="Name" value="ITableCheck.Check">
+    <param name="Local" value="Interface/ITableCheck/ITableCheck.Check.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDatabaseTables.TableName">
+    <param name="Name" value="IDatabaseTables.TableName">
+    <param name="Local" value="Interface/IDatabaseTables/IDatabaseTables.TableName.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ISQLCommand.Text">
+    <param name="Name" value="ISQLCommand.Text">
+    <param name="Local" value="Interface/ISQLCommand/ISQLCommand.Text.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDatabaseViews.Text">
+    <param name="Name" value="IDatabaseViews.Text">
+    <param name="Local" value="Interface/IDatabaseViews/IDatabaseViews.Text.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IView.ForceCreate">
+    <param name="Name" value="IView.ForceCreate">
+    <param name="Local" value="Interface/IView/IView.ForceCreate.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ITableIndexes">
+    <param name="Name" value="ITableIndexes">
+    <param name="Local" value="Interface/ITableIndexes/ITableIndexes.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDatasetInstanceField.OldValue">
+    <param name="Name" value="IDatasetInstanceField.OldValue">
+    <param name="Local" value="Interface/IDatasetInstanceField/IDatasetInstanceField.OldValue.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDatasetModelFields.FindByKey">
+    <param name="Name" value="IDatasetModelFields.FindByKey">
+    <param name="Local" value="Interface/IDatasetModelFields/IDatasetModelFields.FindByKey.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ProcedureKind">
+    <param name="Name" value="ProcedureKind">
+    <param name="Local" value="Enums/ProcedureKind.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDatabase.Credentials">
+    <param name="Name" value="IDatabase.Credentials">
+    <param name="Local" value="Interface/IDatabase/IDatabase.Credentials.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ITableTrigger.Text">
+    <param name="Name" value="ITableTrigger.Text">
+    <param name="Local" value="Interface/ITableTrigger/ITableTrigger.Text.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ITableFields.Count">
+    <param name="Name" value="ITableFields.Count">
+    <param name="Local" value="Interface/ITableFields/ITableFields.Count.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDatabase.DriverId">
+    <param name="Name" value="IDatabase.DriverId">
+    <param name="Local" value="Interface/IDatabase/IDatabase.DriverId.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ITable.AttachTable">
+    <param name="Name" value="ITable.AttachTable">
+    <param name="Local" value="Interface/ITable/ITable.AttachTable.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ITableIndex">
+    <param name="Name" value="ITableIndex">
+    <param name="Local" value="Interface/ITableIndex/ITableIndex.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDatabaseInstance">
+    <param name="Name" value="IDatabaseInstance">
+    <param name="Local" value="Interface/IDatabaseInstance/IDatabaseInstance.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IView.CreateView">
+    <param name="Name" value="IView.CreateView">
+    <param name="Local" value="Interface/IView/IView.CreateView.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IView.SQLText">
+    <param name="Name" value="IView.SQLText">
+    <param name="Local" value="Interface/IView/IView.SQLText.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ITableTrigger.ForEachRow">
+    <param name="Name" value="ITableTrigger.ForEachRow">
+    <param name="Local" value="Interface/ITableTrigger/ITableTrigger.ForEachRow.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ITableIndexes.Item">
+    <param name="Name" value="ITableIndexes.Item">
+    <param name="Local" value="Interface/ITableIndexes/ITableIndexes.Item.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Интерфейсы сборки Db">
+    <param name="Name" value="Интерфейсы сборки Db">
+    <param name="Local" value="Interface/KeDb_Interface.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Сборка Db">
+    <param name="Name" value="Сборка Db">
+    <param name="Local" value="KeDb_Title.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Интерфейсы сборки Db">
+      <param name="Name" value="Интерфейсы сборки Db">
+      <param name="Local" value="Interface/KeDb_Interface.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Перечисления сборки Db">
+      <param name="Name" value="Перечисления сборки Db">
+      <param name="Local" value="Enums/KeDb_Enums.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Классы сборки Db">
+      <param name="Name" value="Классы сборки Db">
+      <param name="Local" value="Class/KeDb_Classes.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Примеры">
+      <param name="Name" value="Примеры: Сборка Db">
+      <param name="Local" value="Samples/KeDb_Sample.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Введение в сборку Db">
+      <param name="Name" value="Введение: Сборка Db">
+      <param name="Local" value="KeDb_Introduction.htm">
+    </object>
+    </ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Перечисления сборки Db">
+    <param name="Name" value="Перечисления сборки Db">
+    <param name="Local" value="Enums/KeDb_Enums.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IView.RecreateView">
+    <param name="Name" value="IView.RecreateView">
+    <param name="Local" value="Interface/IView/IView.RecreateView.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="RecreateView">
+    <param name="Name" value="IView.RecreateView">
+    <param name="Local" value="Interface/IView/IView.RecreateView.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ITable.CaseSensitiveNativeName">
+    <param name="Name" value="ITable.CaseSensitiveNativeName">
+    <param name="Local" value="Interface/ITable/ITable.CaseSensitiveNativeName.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="CaseSensitiveNativeName">
+    <param name="Name" value="ITable.CaseSensitiveNativeName">
+    <param name="Local" value="Interface/ITable/ITable.CaseSensitiveNativeName.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ITableField.CaseSensitiveId">
+    <param name="Name" value="ITableField.CaseSensitiveId">
+    <param name="Local" value="Interface/ITableField/ITableField.CaseSensitiveId.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="CaseSensitiveId">
+    <param name="Name" value="ITableField.CaseSensitiveId">
+    <param name="Local" value="Interface/ITableField/ITableField.CaseSensitiveId.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Db">
+    <param name="Name" value="Сборка Db">
+    <param name="Local" value="KeDb_Title.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Интерфейсы сборки Db">
+      <param name="Name" value="Интерфейсы сборки Db">
+      <param name="Local" value="Interface/KeDb_Interface.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Перечисления сборки Db">
+      <param name="Name" value="Перечисления сборки Db">
+      <param name="Local" value="Enums/KeDb_Enums.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Классы сборки Db">
+      <param name="Name" value="Классы сборки Db">
+      <param name="Local" value="Class/KeDb_Classes.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Примеры">
+      <param name="Name" value="Примеры: Сборка Db">
+      <param name="Local" value="Samples/KeDb_Sample.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Введение в сборку Db">
+      <param name="Name" value="Введение: Сборка Db">
+      <param name="Local" value="KeDb_Introduction.htm">
+    </object>
+    </ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Примеры">
+    <param name="Name" value="Примеры: Сборка Db">
+    <param name="Local" value="Samples/KeDb_Sample.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Создание базы данных">
+      <param name="Name" value="Создание базы данных">
+      <param name="Local" value="Samples/KeDb_Sample1.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Создание журнала">
+      <param name="Name" value="Создание журнала">
+      <param name="Local" value="Samples/KeDb_Sample8.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Создание запроса">
+      <param name="Name" value="Создание запроса">
+      <param name="Local" value="Samples/KeDb_Sample4.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Создание источника данных ODBC">
+      <param name="Name" value="Создание источника данных ODBC">
+      <param name="Local" value="Samples/KeDb_Sample5.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Создание команды СУБД">
+      <param name="Name" value="Создание команды СУБД">
+      <param name="Local" value="Samples/KeDb_Sample6.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Создание представления">
+      <param name="Name" value="Создание представления">
+      <param name="Local" value="Samples/KeDb_Sample3.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Создание процедуры">
+      <param name="Name" value="Создание процедуры">
+      <param name="Local" value="Samples/KeDb_Sample7.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Создание таблицы">
+      <param name="Name" value="Создание таблицы">
+      <param name="Local" value="Samples/KeDb_Sample2.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Извлечение данных: Реляционные источники данных">
+      <param name="Name" value="Извлечение данных">
+      <param name="Local" value="Samples/KeDb_Sample_ExtractData.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Работа с кешем источника данных">
+      <param name="Name" value="Работа с кешем источника данных">
+      <param name="Local" value="Samples/KeDb_Sample_EditData.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Фильтрация данных">
+        <param name="Name" value="Работа с кешем источника данных">
+        <param name="Local" value="Samples/KeDb_Sample_EditData.htm#filter">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Поиск данных">
+        <param name="Name" value="Работа с кешем источника данных">
+        <param name="Local" value="Samples/KeDb_Sample_EditData.htm#search">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Изменение данных">
+        <param name="Name" value="Работа с кешем источника данных">
+        <param name="Local" value="Samples/KeDb_Sample_EditData.htm#edit">
+      </object>
+      </ul>
+    </ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Роль приложения">
+    <param name="Name" value="IDatabase.Role">
+    <param name="Local" value="Interface/IDatabase/IDatabase.Role.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IQuery.AutoDefineStorage">
+    <param name="Name" value="IQuery.AutoDefineStorage">
+    <param name="Local" value="Interface/IQuery/IQuery.AutoDefineStorage.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="AutoDefineStorage">
+    <param name="Name" value="IQuery.AutoDefineStorage">
+    <param name="Local" value="Interface/IQuery/IQuery.AutoDefineStorage.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IQuery.Storage">
+    <param name="Name" value="IQuery.Storage">
+    <param name="Local" value="Interface/IQuery/IQuery.Storage.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Storage">
+    <param name="Name" value="IQuery.Storage">
+    <param name="Local" value="Interface/IQuery/IQuery.Storage.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IQueryStorage">
+    <param name="Name" value="IQueryStorage">
+    <param name="Local" value="Interface/IQueryStorage/IQueryStorage.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IQueryStorage.DefineBySql">
+    <param name="Name" value="IQueryStorage.DefineBySql">
+    <param name="Local" value="Interface/IQueryStorage/IQueryStorage.DefineBySql.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="DefineBySql">
+    <param name="Name" value="IQueryStorage.DefineBySql">
+    <param name="Local" value="Interface/IQueryStorage/IQueryStorage.DefineBySql.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IQueryStorage.Enabled">
+    <param name="Name" value="IQueryStorage.Enabled">
+    <param name="Local" value="Interface/IQueryStorage/IQueryStorage.Enabled.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Enabled">
+    <param name="Name" value="IQueryStorage.Enabled">
+    <param name="Local" value="Interface/IQueryStorage/IQueryStorage.Enabled.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IQueryStorage.Table">
+    <param name="Name" value="IQueryStorage.Table">
+    <param name="Local" value="Interface/IQueryStorage/IQueryStorage.Table.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Table">
+    <param name="Name" value="IQueryStorage.Table">
+    <param name="Local" value="Interface/IQueryStorage/IQueryStorage.Table.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IQueryStorage.TableName">
+    <param name="Name" value="IQueryStorage.TableName">
+    <param name="Local" value="Interface/IQueryStorage/IQueryStorage.TableName.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ITableTrigger.Body">
+    <param name="Name" value="ITableTrigger.Body">
+    <param name="Local" value="Interface/ITableTrigger/ITableTrigger.Body.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Body">
+    <param name="Name" value="ITableTrigger.Body">
+    <param name="Local" value="Interface/ITableTrigger/ITableTrigger.Body.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IQuery.RefreshFields">
+    <param name="Name" value="IQuery.RefreshFields">
+    <param name="Local" value="Interface/IQuery/IQuery.RefreshFields.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="RefreshFields">
+    <param name="Name" value="IQuery.RefreshFields">
+    <param name="Local" value="Interface/IQuery/IQuery.RefreshFields.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="DatasetDataArrayProvider">
+    <param name="Name" value="DatasetDataArrayProvider">
+    <param name="Local" value="Class/DatasetDataArrayProvider/DatasetDataArrayProvider.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="DatasetDataTransformProvider">
+    <param name="Name" value="DatasetDataTransformProvider">
+    <param name="Local" value="Class/DatasetDataTransformProvider/DatasetDataTransformProvider.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDatasetDataAbstractProvider">
+    <param name="Name" value="IDatasetDataAbstractProvider">
+    <param name="Local" value="Interface/IDatasetDataAbstractProvider/IDatasetDataAbstractProvider.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDatasetDataAbstractProvider.AddField">
+    <param name="Name" value="IDatasetDataAbstractProvider.AddField">
+    <param name="Local" value="Interface/IDatasetDataAbstractProvider/IDatasetDataAbstractProvider.AddField.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="AddField">
+    <param name="Name" value="IDatasetDataAbstractProvider.AddField">
+    <param name="Local" value="Interface/IDatasetDataAbstractProvider/IDatasetDataAbstractProvider.AddField.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDatasetDataAbstractProvider.DataFields">
+    <param name="Name" value="IDatasetDataAbstractProvider.DataFields">
+    <param name="Local" value="Interface/IDatasetDataAbstractProvider/IDatasetDataAbstractProvider.DataFields.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="DataFields">
+    <param name="Name" value="IDatasetDataAbstractProvider.DataFields">
+    <param name="Local" value="Interface/IDatasetDataAbstractProvider/IDatasetDataAbstractProvider.DataFields.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDatasetDataArrayProvider">
+    <param name="Name" value="IDatasetDataArrayProvider">
+    <param name="Local" value="Interface/IDatasetDataArrayProvider/IDatasetDataArrayProvider.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDatasetDataArrayProvider.AttachArray">
+    <param name="Name" value="IDatasetDataArrayProvider.AttachArray">
+    <param name="Local" value="Interface/IDatasetDataArrayProvider/IDatasetDataArrayProvider.AttachArray.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="AttachArray">
+    <param name="Name" value="IDatasetDataArrayProvider.AttachArray">
+    <param name="Local" value="Interface/IDatasetDataArrayProvider/IDatasetDataArrayProvider.AttachArray.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDatasetDataProvider">
+    <param name="Name" value="IDatasetDataProvider">
+    <param name="Local" value="Interface/IDatasetDataProvider/IDatasetDataProvider.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDatasetDataProvider.FieldDefs">
+    <param name="Name" value="IDatasetDataProvider.FieldDefs">
+    <param name="Local" value="Interface/IDatasetDataProvider/IDatasetDataProvider.FieldDefs.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDatasetDataTransform">
+    <param name="Name" value="IDatasetDataTransform">
+    <param name="Local" value="Interface/IDatasetDataTransform/IDatasetDataTransform.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDatasetDataTransform.OnFetch">
+    <param name="Name" value="IDatasetDataTransform.OnFetch">
+    <param name="Local" value="Interface/IDatasetDataTransform/IDatasetDataTransform.OnFetch.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="OnFetch">
+    <param name="Name" value="IDatasetDataTransform.OnFetch">
+    <param name="Local" value="Interface/IDatasetDataTransform/IDatasetDataTransform.OnFetch.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDatasetDataTransformProvider">
+    <param name="Name" value="IDatasetDataTransformProvider">
+    <param name="Local" value="Interface/IDatasetDataTransformProvider/IDatasetDataTransformProvider.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDatasetDataTransformProvider.Source">
+    <param name="Name" value="IDatasetDataTransformProvider.Source">
+    <param name="Local" value="Interface/IDatasetDataTransformProvider/IDatasetDataTransformProvider.Source.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Source">
+    <param name="Name" value="IDatasetDataTransformProvider.Source">
+    <param name="Local" value="Interface/IDatasetDataTransformProvider/IDatasetDataTransformProvider.Source.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDatasetDataTransformProvider.Transform">
+    <param name="Name" value="IDatasetDataTransformProvider.Transform">
+    <param name="Local" value="Interface/IDatasetDataTransformProvider/IDatasetDataTransformProvider.Transform.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Transform">
+    <param name="Name" value="IDatasetDataTransformProvider.Transform">
+    <param name="Local" value="Interface/IDatasetDataTransformProvider/IDatasetDataTransformProvider.Transform.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ITableIndex.FieldNamesWithSeparator">
+    <param name="Name" value="ITableIndex.FieldNamesWithSeparator">
+    <param name="Local" value="Interface/ITableIndex/ITableIndex.FieldNamesWithSeparator.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="FieldNamesWithSeparator">
+    <param name="Name" value="ITableIndex.FieldNamesWithSeparator">
+    <param name="Local" value="Interface/ITableIndex/ITableIndex.FieldNamesWithSeparator.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ITableIndexes.Primary">
+    <param name="Name" value="ITableIndexes.Primary">
+    <param name="Local" value="Interface/ITableIndexes/ITableIndexes.Primary.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ISequenceInstance">
+    <param name="Name" value="ISequenceInstance">
+    <param name="Local" value="Interface/ISequenceInstance/ISequenceInstance.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ISequenceInstance.Next">
+    <param name="Name" value="ISequenceInstance.Next">
+    <param name="Local" value="Interface/ISequenceInstance/ISequenceInstance.Next.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDatabase.SupportDecimal">
+    <param name="Name" value="IDatabase.SupportDecimal">
+    <param name="Local" value="Interface/IDatabase/IDatabase.SupportDecimal.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="SupportDecimal">
+    <param name="Name" value="IDatabase.SupportDecimal">
+    <param name="Local" value="Interface/IDatabase/IDatabase.SupportDecimal.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDatabase.UseServiceLogonData">
+    <param name="Name" value="IDatabase.UseServiceLogonData">
+    <param name="Local" value="Interface/IDatabase/IDatabase.UseServiceLogonData.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="UseServiceLogonData">
+    <param name="Name" value="IDatabase.UseServiceLogonData">
+    <param name="Local" value="Interface/IDatabase/IDatabase.UseServiceLogonData.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDatasetModelField.IdWithOutCase">
+    <param name="Name" value="IDatasetModelField.IdWithOutCase">
+    <param name="Local" value="Interface/IDatasetModelField/IDatasetModelField.IdWithOutCase.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IdWithOutCase">
+    <param name="Name" value="IDatasetModelField.IdWithOutCase">
+    <param name="Local" value="Interface/IDatasetModelField/IDatasetModelField.IdWithOutCase.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Введение">
+    <param name="Name" value="Введение: Сборка Db">
+    <param name="Local" value="KeDb_Introduction.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDatabase.SupportBinaryProtocol">
+    <param name="Name" value="IDatabase.SupportBinaryProtocol">
+    <param name="Local" value="Interface/IDatabase/IDatabase.SupportBinaryProtocol.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="SupportBinaryProtocol">
+    <param name="Name" value="IDatabase.SupportBinaryProtocol">
+    <param name="Local" value="Interface/IDatabase/IDatabase.SupportBinaryProtocol.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ISQLCallback">
+    <param name="Name" value="ISQLCallback">
+    <param name="Local" value="Interface/ISQLCallback/ISQLCallback.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ISQLCallback.AfterConstruction">
+    <param name="Name" value="ISQLCallback.AfterConstruction">
+    <param name="Local" value="Interface/ISQLCallback/ISQLCallback.AfterConstruction.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="AfterConstruction">
+    <param name="Name" value="ISQLCallback.AfterConstruction">
+    <param name="Local" value="Interface/ISQLCallback/ISQLCallback.AfterConstruction.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ISQLCallback.BeforeConstruction">
+    <param name="Name" value="ISQLCallback.BeforeConstruction">
+    <param name="Local" value="Interface/ISQLCallback/ISQLCallback.BeforeConstruction.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="BeforeConstruction">
+    <param name="Name" value="ISQLCallback.BeforeConstruction">
+    <param name="Local" value="Interface/ISQLCallback/ISQLCallback.BeforeConstruction.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ISQLComponents">
+    <param name="Name" value="ISQLComponents">
+    <param name="Local" value="Interface/ISQLComponents/ISQLComponents.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ISQLComponents.Aggregation">
+    <param name="Name" value="ISQLComponents.Aggregation">
+    <param name="Local" value="Interface/ISQLComponents/ISQLComponents.Aggregation.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Aggregation">
+    <param name="Name" value="ISQLComponents.Aggregation">
+    <param name="Local" value="Interface/ISQLComponents/ISQLComponents.Aggregation.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ISQLComponents.Condition">
+    <param name="Name" value="ISQLComponents.Condition">
+    <param name="Local" value="Interface/ISQLComponents/ISQLComponents.Condition.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Condition">
+    <param name="Name" value="ISQLComponents.Condition">
+    <param name="Local" value="Interface/ISQLComponents/ISQLComponents.Condition.htm">
+    <param name="Name" value="ISQLCondition.Condition">
+    <param name="Local" value="Interface/ISQLCondition/ISQLCondition.Condition.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ISQLComponents.ConditionCount">
+    <param name="Name" value="ISQLComponents.ConditionCount">
+    <param name="Local" value="Interface/ISQLComponents/ISQLComponents.ConditionCount.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ConditionCount">
+    <param name="Name" value="ISQLComponents.ConditionCount">
+    <param name="Local" value="Interface/ISQLComponents/ISQLComponents.ConditionCount.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ISQLComponents.From_">
+    <param name="Name" value="ISQLComponents.From_">
+    <param name="Local" value="Interface/ISQLComponents/ISQLComponents.From_.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="From_">
+    <param name="Name" value="ISQLComponents.From_">
+    <param name="Local" value="Interface/ISQLComponents/ISQLComponents.From_.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ISQLComponents.GroupBy">
+    <param name="Name" value="ISQLComponents.GroupBy">
+    <param name="Local" value="Interface/ISQLComponents/ISQLComponents.GroupBy.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GroupBy">
+    <param name="Name" value="ISQLComponents.GroupBy">
+    <param name="Local" value="Interface/ISQLComponents/ISQLComponents.GroupBy.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ISQLComponents.OrderBy">
+    <param name="Name" value="ISQLComponents.OrderBy">
+    <param name="Local" value="Interface/ISQLComponents/ISQLComponents.OrderBy.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="OrderBy">
+    <param name="Name" value="ISQLComponents.OrderBy">
+    <param name="Local" value="Interface/ISQLComponents/ISQLComponents.OrderBy.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ISQLComponents.Select_">
+    <param name="Name" value="ISQLComponents.Select_">
+    <param name="Local" value="Interface/ISQLComponents/ISQLComponents.Select_.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Select_">
+    <param name="Name" value="ISQLComponents.Select_">
+    <param name="Local" value="Interface/ISQLComponents/ISQLComponents.Select_.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ISQLComponents.SubQuery">
+    <param name="Name" value="ISQLComponents.SubQuery">
+    <param name="Local" value="Interface/ISQLComponents/ISQLComponents.SubQuery.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="SubQuery">
+    <param name="Name" value="ISQLComponents.SubQuery">
+    <param name="Local" value="Interface/ISQLComponents/ISQLComponents.SubQuery.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ISQLComponents.TableAlias">
+    <param name="Name" value="ISQLComponents.TableAlias">
+    <param name="Local" value="Interface/ISQLComponents/ISQLComponents.TableAlias.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="TableAlias">
+    <param name="Name" value="ISQLComponents.TableAlias">
+    <param name="Local" value="Interface/ISQLComponents/ISQLComponents.TableAlias.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ISQLComponents.Where">
+    <param name="Name" value="ISQLComponents.Where">
+    <param name="Local" value="Interface/ISQLComponents/ISQLComponents.Where.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Where">
+    <param name="Name" value="ISQLComponents.Where">
+    <param name="Local" value="Interface/ISQLComponents/ISQLComponents.Where.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ISQLCondition">
+    <param name="Name" value="ISQLCondition">
+    <param name="Local" value="Interface/ISQLCondition/ISQLCondition.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ISQLCondition.Condition">
+    <param name="Name" value="ISQLCondition.Condition">
+    <param name="Local" value="Interface/ISQLCondition/ISQLCondition.Condition.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ISQLCondition.Fields">
+    <param name="Name" value="ISQLCondition.Fields">
+    <param name="Local" value="Interface/ISQLCondition/ISQLCondition.Fields.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ISQLCondition.TempTable">
+    <param name="Name" value="ISQLCondition.TempTable">
+    <param name="Local" value="Interface/ISQLCondition/ISQLCondition.TempTable.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="TempTable">
+    <param name="Name" value="ISQLCondition.TempTable">
+    <param name="Local" value="Interface/ISQLCondition/ISQLCondition.TempTable.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ISQLCondition.TempTableAlias">
+    <param name="Name" value="ISQLCondition.TempTableAlias">
+    <param name="Local" value="Interface/ISQLCondition/ISQLCondition.TempTableAlias.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="TempTableAlias">
+    <param name="Name" value="ISQLCondition.TempTableAlias">
+    <param name="Local" value="Interface/ISQLCondition/ISQLCondition.TempTableAlias.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ISQLCondition.TempTableAttrLinkedFields">
+    <param name="Name" value="ISQLCondition.TempTableAttrLinkedFields">
+    <param name="Local" value="Interface/ISQLCondition/ISQLCondition.TempTableAttrLinkedFields.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="TempTableAttrLinkedFields">
+    <param name="Name" value="ISQLCondition.TempTableAttrLinkedFields">
+    <param name="Local" value="Interface/ISQLCondition/ISQLCondition.TempTableAttrLinkedFields.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ISQLCondition.TempTableFields">
+    <param name="Name" value="ISQLCondition.TempTableFields">
+    <param name="Local" value="Interface/ISQLCondition/ISQLCondition.TempTableFields.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="TempTableFields">
+    <param name="Name" value="ISQLCondition.TempTableFields">
+    <param name="Local" value="Interface/ISQLCondition/ISQLCondition.TempTableFields.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ISQLCondition.TempTableHasNulls">
+    <param name="Name" value="ISQLCondition.TempTableHasNulls">
+    <param name="Local" value="Interface/ISQLCondition/ISQLCondition.TempTableHasNulls.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="TempTableHasNulls">
+    <param name="Name" value="ISQLCondition.TempTableHasNulls">
+    <param name="Local" value="Interface/ISQLCondition/ISQLCondition.TempTableHasNulls.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ISQLCondition.TempTableRecCount">
+    <param name="Name" value="ISQLCondition.TempTableRecCount">
+    <param name="Local" value="Interface/ISQLCondition/ISQLCondition.TempTableRecCount.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="TempTableRecCount">
+    <param name="Name" value="ISQLCondition.TempTableRecCount">
+    <param name="Local" value="Interface/ISQLCondition/ISQLCondition.TempTableRecCount.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IQuery.SqlText">
+    <param name="Name" value="IQuery.SqlText">
+    <param name="Local" value="Interface/IQuery/IQuery.SqlText.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IQuery.SubstituteAllParamsInQuery">
+    <param name="Name" value="IQuery.SubstituteAllParamsInQuery">
+    <param name="Local" value="Interface/IQuery/IQuery.SubstituteAllParamsInQuery.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="SubstituteAllParamsInQuery">
+    <param name="Name" value="IQuery.SubstituteAllParamsInQuery">
+    <param name="Local" value="Interface/IQuery/IQuery.SubstituteAllParamsInQuery.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ISQLComponents.DalCommandOption">
+    <param name="Name" value="ISQLComponents.DalCommandOption">
+    <param name="Local" value="Interface/ISQLComponents/ISQLComponents.DalCommandOption.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="DalCommandOption">
+    <param name="Name" value="ISQLComponents.DalCommandOption">
+    <param name="Local" value="Interface/ISQLComponents/ISQLComponents.DalCommandOption.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDatasetModelField.IsCaseSensitive">
+    <param name="Name" value="IDatasetModelField.IsCaseSensitive">
+    <param name="Local" value="Interface/IDatasetModelField/IDatasetModelField.IsCaseSensitive.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IsCaseSensitive">
+    <param name="Name" value="IDatasetModelField.IsCaseSensitive">
+    <param name="Local" value="Interface/IDatasetModelField/IDatasetModelField.IsCaseSensitive.htm">
+  </object>
+</ul>
+</html>

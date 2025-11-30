@@ -1,0 +1,3133 @@
+<html>
+<!-- Sitemap 1.0 -->
+<object type="text/site properties">
+  <param name="SiteType" value="toc">
+  <param name="Image Width" value="16">
+  <param name="Window Styles" value="0x800027">
+  <param name="ExWindow Styles" value="0x100">
+</object>
+<ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Работа с репозиторием">
+    <param name="Local" value="Components/Components.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Компоненты">
+      <param name="Local" value="Components/Components.htm#642b3b9347ca42c9b00b820c00c373fa=1">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="DataMiningMaster">
+        <param name="Local" value="Components/Metabase/DataMiningMaster/DataMiningMaster.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Пример создания компонента DataMiningMaster">
+          <param name="Local" value="Components/Metabase/DataMiningMaster/DataMiningMaster_Example.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Dialogs">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChangePasswordDialog">
+          <param name="Local" value="Components/Metabase/Dialogs/ChangePasswordDialog/ChangePasswordDialog.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Пример создания компонента ChangePasswordDialog">
+            <param name="Local" value="Components/Metabase/Dialogs/ChangePasswordDialog/Example_ChangePasswordDialog.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MetabaseDialogBase">
+          <param name="Local" value="Components/Metabase/Dialogs/MetabaseDialogBase/MetabaseDialogBase.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Пример создания компонента MetabaseDialogBase">
+            <param name="Local" value="Components/Metabase/Dialogs/MetabaseDialogBase/MetabaseDialogBase_Example.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MetabaseOpenDialog">
+          <param name="Local" value="Components/Metabase/Dialogs/MetabaseOpenDialog/MetabaseOpenDialog.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Пример создания компонента MetabaseOpenDialog">
+            <param name="Local" value="Components/Metabase/Dialogs/MetabaseOpenDialog/MetabaseOpenDialog_Example.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MetabaseSaveDialog">
+          <param name="Local" value="Components/Metabase/Dialogs/MetabaseSaveDialog/MetabaseSaveDialog.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Пример создания компонента MetabaseSaveDialog">
+            <param name="Local" value="Components/Metabase/Dialogs/MetabaseSaveDialog/MetabaseSaveDialog_Example.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="SearchDialog">
+          <param name="Local" value="Components/Metabase/Dialogs/SearchDialog/SearchDialog.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Пример создания компонента SearchDialog">
+            <param name="Local" value="Components/Metabase/Dialogs/SearchDialog/SearchDialog_example.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ServiceUnavailableDialog">
+          <param name="Local" value="Components/Metabase/Dialogs/ServiceUnavailableDialog/ServiceUnavailableDialog.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TranslateDialog">
+          <param name="Local" value="Components/Metabase/Dialogs/TranslateDialog/TranslateDialog.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Пример создания компонента TranslateDialog">
+            <param name="Local" value="Components/Metabase/Dialogs/TranslateDialog/TranslateDialog_example.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="ImportDataWizard">
+        <param name="Local" value="Components/Metabase/ImportDataWizard/ImportDataWizard.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Пример создания компонента ImportDataWizard">
+          <param name="Local" value="Components/Metabase/ImportDataWizard/ImportDataWizard_Example.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="MetabaseObjectsIconView">
+        <param name="Local" value="Components/Metabase/MetabaseObjectsIconView/MetabaseObjectsIconView.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Пример создания компонента MetabaseObjectsIconView">
+          <param name="Local" value="Components/Metabase/MetabaseObjectsIconView/Example_MetabaseObjectsIconView.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="MetabaseObjectsListView">
+        <param name="Local" value="Components/Metabase/MetabaseObjectsListView/MetabaseObjectsListView.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Пример создания компонента MetabaseObjectsListView">
+          <param name="Local" value="Components/Metabase/MetabaseObjectsListView/Example_MetabaseObjectsListView.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="MetabaseTreeList">
+        <param name="Local" value="Components/Metabase/MetabaseTreeList/MetabaseTreeList.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Пример создания компонента MetabaseTreeList">
+          <param name="Local" value="Components/Metabase/MetabaseTreeList/MetabaseTreeList_Example.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Navigator">
+        <param name="Local" value="Components/Metabase/Navigator/Navigator.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Пример создания компонента Navigator">
+          <param name="Local" value="Components/Metabase/Navigator/Navigator_Example.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="NavigatorBox">
+        <param name="Local" value="Components/Metabase/NavigatorBox/NavigatorBox.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Пример создания компонента NavigatorBox">
+          <param name="Local" value="Components/Metabase/NavigatorBox/NavigatorBox_Example.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="NavigatorRibbon">
+        <param name="Local" value="Components/Metabase/NavigatorRibbon/NavigatorRibbon.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Пример создания компонента NavigatorRibbon">
+          <param name="Local" value="Components/Metabase/NavigatorRibbon/NavigatorRibbon_Example.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="PP.Mb.Ui">
+      <param name="Local" value="Classes/PP.Mb.Ui.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Классы">
+        <param name="Local" value="Classes/PP.Mb.Ui.htm#642b3b9347ca42c9b00b820c00c373fa=1">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="BISearchResultBox">
+          <param name="Local" value="Classes/Metabase/BISearchResultBox/BISearchResultBox.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Конструктор BISearchResultBox">
+            <param name="Local" value="Classes/Metabase/BISearchResultBox/Constructor_BISearchResultBox.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="BISearchResultBox.formatData">
+            <param name="Local" value="Classes/Metabase/BISearchResultBox/BISearchResultBox.formatData.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="BISearchResultBox.search">
+            <param name="Local" value="Classes/Metabase/BISearchResultBox/BISearchResultBox.search.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="BISearchResultBox.searchNext">
+            <param name="Local" value="Classes/Metabase/BISearchResultBox/BISearchResultBox.searchNext.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="BindingsStep">
+          <param name="Local" value="Classes/Metabase/BindingsStep/BindingsStep.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ConflictDialog">
+          <param name="Local" value="Classes/Metabase/Dialogs/ConflictDialog/ConflictDialog.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="DataMining">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="AssociationRulesView">
+            <param name="Local" value="Classes/Metabase/AssociationRulesView/AssociationRulesView.htm">
+          </object>
+          <ul>
+            <li><object type="text/sitemap">
+              <param name="Name" value="AssociationRulesView.getStepData">
+              <param name="Local" value="Classes/Metabase/AssociationRulesView/AssociationRulesView.getStepData.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="AssociationRulesView.StepCompleted">
+              <param name="Local" value="Classes/Metabase/AssociationRulesView/AssociationRulesView.StepCompleted.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            </ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="CategoryDefinitionView">
+            <param name="Local" value="Classes/Metabase/CategoryDefinitionView/CategoryDefinitionView.htm">
+          </object>
+          <ul>
+            <li><object type="text/sitemap">
+              <param name="Name" value="CategoryDefinitionView.getStepData">
+              <param name="Local" value="Classes/Metabase/CategoryDefinitionView/CategoryDefinitionView.getStepData.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="CategoryDefinitionView.StepCompleted">
+              <param name="Local" value="Classes/Metabase/CategoryDefinitionView/CategoryDefinitionView.StepCompleted.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            </ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="DataMiningCheckBoxList">
+            <param name="Local" value="Classes/Metabase/DataMiningCheckBoxList/DataMiningCheckBoxList.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="DataMiningMaster">
+            <param name="Local" value="Classes/Metabase/DataMiningMaster/DataMiningMaster.htm">
+          </object>
+          <ul>
+            <li><object type="text/sitemap">
+              <param name="Name" value="DataMiningMaster.OnGetDataMiningResult">
+              <param name="Local" value="Classes/Metabase/DataMiningMaster/DataMiningMaster.OnGetDataMiningResult.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            </ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="DataMiningRibbonPanel">
+            <param name="Local" value="Classes/Metabase/DataMiningRibbonPanel/DataMiningRibbonPanel.htm">
+          </object>
+          <ul>
+            <li><object type="text/sitemap">
+              <param name="Name" value="DataMiningRibbonPanel.OnGetDataMiningResult">
+              <param name="Local" value="Classes/Metabase/DataMiningRibbonPanel/DataMiningRibbonPanel.OnGetDataMiningResult.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="DataMiningRibbonPanel.Source">
+              <param name="Local" value="Classes/Metabase/DataMiningRibbonPanel/DataMiningRibbonPanel.Source.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            </ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="DataMiningService">
+            <param name="Local" value="Classes/Metabase/DataMiningService/DataMiningService.htm">
+          </object>
+          <ul>
+            <li><object type="text/sitemap">
+              <param name="Name" value="DataMiningService.createObject">
+              <param name="Local" value="Classes/Metabase/DataMiningService/DataMiningService.createObject.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="DataMiningService.getDataMining">
+              <param name="Local" value="Classes/Metabase/DataMiningService/DataMiningService.getDataMining.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="DataMiningService.getDataSourceFields">
+              <param name="Local" value="Classes/Metabase/DataMiningService/DataMiningService.getDataSourceFields.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            </ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="DMSettingsStep">
+            <param name="Local" value="Classes/Metabase/DMSettingsStep/DMSettingsStep.htm">
+          </object>
+          <ul>
+            <li><object type="text/sitemap">
+              <param name="Name" value="DMSettingsStep.getStepData">
+              <param name="Local" value="Classes/Metabase/DMSettingsStep/DMSettingsStep.getStepData.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="DMSettingStep.RequestData">
+              <param name="Local" value="Classes/Metabase/DMSettingsStep/DMSettingStep.RequestData.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            </ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="FillByTemplView">
+            <param name="Local" value="Classes/Metabase/FillByTemplView/FillByTemplView.htm">
+          </object>
+          <ul>
+            <li><object type="text/sitemap">
+              <param name="Name" value="FillByTemplView.getStepData">
+              <param name="Local" value="Classes/Metabase/FillByTemplView/FillByTemplView.getStepData.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="FillByTemplView.StepCompleted">
+              <param name="Local" value="Classes/Metabase/FillByTemplView/FillByTemplView.StepCompleted.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            </ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="HighlightExceptionsView">
+            <param name="Local" value="Classes/Metabase/HighlightExceptionsView/HighlightExceptionsView.htm">
+          </object>
+          <ul>
+            <li><object type="text/sitemap">
+              <param name="Name" value="HighlightExceptionsView.getStepData">
+              <param name="Local" value="Classes/Metabase/HighlightExceptionsView/HighlightExceptionsView.getStepData.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="HighlightExceptionsView.StepCompleted">
+              <param name="Local" value="Classes/Metabase/HighlightExceptionsView/HighlightExceptionsView.StepCompleted.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            </ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="KeyInfluencesView">
+            <param name="Local" value="Classes/Metabase/KeyInfluencesView/KeyInfluencesView.htm">
+          </object>
+          <ul>
+            <li><object type="text/sitemap">
+              <param name="Name" value="KeyInfluencesView.getStepData">
+              <param name="Local" value="Classes/Metabase/KeyInfluencesView/KeyInfluencesView.getStepData.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="KeyInfluencesView.StepCompleted">
+              <param name="Local" value="Classes/Metabase/KeyInfluencesView/KeyInfluencesView.StepCompleted.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            </ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="ForecastView">
+            <param name="Local" value="Classes/Metabase/ForecastView/ForecastView.htm">
+          </object>
+          <ul>
+            <li><object type="text/sitemap">
+              <param name="Name" value="ForecastView.getStepData">
+              <param name="Local" value="Classes/Metabase/ForecastView/ForecastView.getStepData.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="ForecastView.RequestData">
+              <param name="Local" value="Classes/Metabase/ForecastView/ForecastView.RequestData.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="ForecastView.StepCompleted">
+              <param name="Local" value="Classes/Metabase/ForecastView/ForecastView.StepCompleted.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            </ul>
+          </ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ElsFilter">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="ElsFilter">
+            <param name="Local" value="Classes/Metabase/ElsFilter/ElsFilter.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="ElsFilter.getFilterJSON">
+            <param name="Local" value="Classes/Metabase/ElsFilter/ElsFilter.getFilterJSON.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="ElsFilter.getHash">
+            <param name="Local" value="Classes/Metabase/ElsFilter/ElsFilter.getHash.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="ElsFilter.IncludeParents">
+            <param name="Local" value="Classes/Metabase/ElsFilter/ElsFilter.IncludeParents.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="ElsFilter.IncludeParentsWithSiblings">
+            <param name="Local" value="Classes/Metabase/ElsFilter/ElsFilter.IncludeParentsWithSiblings.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="ElsFilter.IsCustomHash">
+            <param name="Local" value="Classes/Metabase/ElsFilter/ElsFilter.IsCustomHash.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="ElsFilter.MbJSONDelegate">
+            <param name="Local" value="Classes/Metabase/ElsFilter/ElsFilter.MbJSONDelegate.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="ElsFilter.setCustomHash">
+            <param name="Local" value="Classes/Metabase/ElsFilter/ElsFilter.setCustomHash.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="ElsFilter.TextAttributes">
+            <param name="Local" value="Classes/Metabase/ElsFilter/ElsFilter.TextAttributes.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="ElsFilter.TextCaseSensitive">
+            <param name="Local" value="Classes/Metabase/ElsFilter/ElsFilter.TextCaseSensitive.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="ElsFilter.TextValue">
+            <param name="Local" value="Classes/Metabase/ElsFilter/ElsFilter.TextValue.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="ElsFilter.TextWholeWordsOnly">
+            <param name="Local" value="Classes/Metabase/ElsFilter/ElsFilter.TextWholeWordsOnly.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ElsTree">
+          <param name="Local" value="Classes/Metabase/ElsTree/ElsTree.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="ElsTree.loadFirst">
+            <param name="Local" value="Classes/Metabase/ElsTree/ElsTree.loadFirst.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="ElsTree.TextFilter">
+            <param name="Local" value="Classes/Metabase/ElsTree/ElsTree.TextFilter.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="GridView">
+          <param name="Local" value="Classes/Metabase/GridView/GridView.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="GridView.clearSelection">
+            <param name="Local" value="Classes/Metabase/GridView/GridView.clearSelection.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="GridView.Edited">
+            <param name="Local" value="Classes/Metabase/GridView/GridView.Edited.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="GridView.EditMode">
+            <param name="Local" value="Classes/Metabase/GridView/GridView.EditMode.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="GridView.ExpanderAction">
+            <param name="Local" value="Classes/Metabase/GridView/GridView.ExpanderAction.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="GridView.getChangedData">
+            <param name="Local" value="Classes/Metabase/GridView/GridView.getChangedData.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="GridView.getFocusedCell">
+            <param name="Local" value="Classes/Metabase/GridView/GridView.getFocusedCell.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="GridView.getInstance">
+            <param name="Local" value="Classes/Metabase/GridView/GridView.getInstance.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="GridView.getRowsCount">
+            <param name="Local" value="Classes/Metabase/GridView/GridView.getRowsCount.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="GridView.getSelectionType">
+            <param name="Local" value="Classes/Metabase/GridView/GridView.getSelectionType.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="GridView.getTabSheet">
+            <param name="Local" value="Classes/Metabase/GridView/GridView.getTabSheet.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="GridView.HyperlinkMouseDown">
+            <param name="Local" value="Classes/Metabase/GridView/GridView.HyperlinkMouseDown.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="GridView.IsAsync">
+            <param name="Local" value="Classes/Metabase/GridView/GridView.IsAsync.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="GridView.PictureMouseDown">
+            <param name="Local" value="Classes/Metabase/GridView/GridView.PictureMouseDown.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="GridView.Rendered">
+            <param name="Local" value="Classes/Metabase/GridView/GridView.Rendered.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="GridView.Selection">
+            <param name="Local" value="Classes/Metabase/GridView/GridView.Selection.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="GridView.SelectionChanged">
+            <param name="Local" value="Classes/Metabase/GridView/GridView.SelectionChanged.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="GridView.SelectionChanging">
+            <param name="Local" value="Classes/Metabase/GridView/GridView.SelectionChanging.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="GridView.Service">
+            <param name="Local" value="Classes/Metabase/GridView/GridView.Service.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="GridView.setScroll">
+            <param name="Local" value="Classes/Metabase/GridView/GridView.setScroll.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="GridView.StructureChanged">
+            <param name="Local" value="Classes/Metabase/GridView/GridView.StructureChanged.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="GridView.SyncLoadClipboardData">
+            <param name="Local" value="Classes/Metabase/GridView/GridView.SyncLoadClipboardData.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="GridView.TableSource">
+            <param name="Local" value="Classes/Metabase/GridView/GridView.TableSource.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="GridView.undo">
+            <param name="Local" value="Classes/Metabase/GridView/GridView.undo.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Конструктор GridView">
+            <param name="Local" value="Classes/Metabase/GridView/Constructor_GridView.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="GxTitle">
+          <param name="Local" value="Classes/Metabase/GxTitle/GxTitle.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="GxTitle.AutoHeight">
+            <param name="Local" value="Classes/Metabase/GxTitle/GxTitle.AutoHeight.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="GxTitle.BackgroundColor">
+            <param name="Local" value="Classes/Metabase/GxTitle/GxTitle.BackgroundColor.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="GxTitle.beginEdit">
+            <param name="Local" value="Classes/Metabase/GxTitle/GxTitle.beginEdit.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="GxTitle.bindCancelNode">
+            <param name="Local" value="Classes/Metabase/GxTitle/GxTitle.bindCancelNode.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="GxTitle.EditModeChanged">
+            <param name="Local" value="Classes/Metabase/GxTitle/GxTitle.EditModeChanged.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="GxTitle.EnableEdit">
+            <param name="Local" value="Classes/Metabase/GxTitle/GxTitle.EnableEdit.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="GxTitle.endEdit">
+            <param name="Local" value="Classes/Metabase/GxTitle/GxTitle.endEdit.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="GxTitle.Font">
+            <param name="Local" value="Classes/Metabase/GxTitle/GxTitle.Font.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="GxTitle.getDropPanel">
+            <param name="Local" value="Classes/Metabase/GxTitle/GxTitle.getDropPanel.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="GxTitle.getEditMode">
+            <param name="Local" value="Classes/Metabase/GxTitle/GxTitle.getEditMode.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="GxTitle.getTextEditor">
+            <param name="Local" value="Classes/Metabase/GxTitle/GxTitle.getTextEditor.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="GxTitle.getTranslateDialog">
+            <param name="Local" value="Classes/Metabase/GxTitle/GxTitle.getTranslateDialog.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="GxTitle.getUnformattedText">
+            <param name="Local" value="Classes/Metabase/GxTitle/GxTitle.getUnformattedText.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="GxTitle.HtmlText">
+            <param name="Local" value="Classes/Metabase/GxTitle/GxTitle.HtmlText.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="GxTitle.HtmlTitle">
+            <param name="Local" value="Classes/Metabase/GxTitle/GxTitle.HtmlTitle.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="GxTitle.HyperlinkClick">
+            <param name="Local" value="Classes/Metabase/GxTitle/GxTitle.HyperlinkClick.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="GxTitle.IsControl">
+            <param name="Local" value="Classes/Metabase/GxTitle/GxTitle.IsControl.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="GxTitle.IsMultiLanguage">
+            <param name="Local" value="Classes/Metabase/GxTitle/GxTitle.IsMultiLanguage.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="GxTitle.Options">
+            <param name="Local" value="Classes/Metabase/GxTitle/GxTitle.Options.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="GxTitle.setFontColor">
+            <param name="Local" value="Classes/Metabase/GxTitle/GxTitle.setFontColor.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="GxTitle.setFontFamily">
+            <param name="Local" value="Classes/Metabase/GxTitle/GxTitle.setFontFamily.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="GxTitle.setFontSize">
+            <param name="Local" value="Classes/Metabase/GxTitle/GxTitle.setFontSize.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="GxTitle.setIsBold">
+            <param name="Local" value="Classes/Metabase/GxTitle/GxTitle.setIsBold.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="GxTitle.setIsItalic">
+            <param name="Local" value="Classes/Metabase/GxTitle/GxTitle.setIsItalic.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="GxTitle.setIsUnderline">
+            <param name="Local" value="Classes/Metabase/GxTitle/GxTitle.setIsUnderline.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="GxTitle.Size">
+            <param name="Local" value="Classes/Metabase/GxTitle/GxTitle.Size.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="GxTitle.Text">
+            <param name="Local" value="Classes/Metabase/GxTitle/GxTitle.Text.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="GxTitle.TextAlignment">
+            <param name="Local" value="Classes/Metabase/GxTitle/GxTitle.TextAlignment.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="GxTitle.TextColor">
+            <param name="Local" value="Classes/Metabase/GxTitle/GxTitle.TextColor.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="GxTitle.TextSelectionChanged">
+            <param name="Local" value="Classes/Metabase/GxTitle/GxTitle.TextSelectionChanged.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="GxTitle.TextWrapping">
+            <param name="Local" value="Classes/Metabase/GxTitle/GxTitle.TextWrapping.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="GxTitle.Title">
+            <param name="Local" value="Classes/Metabase/GxTitle/GxTitle.Title.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="GxTitle.unbindCancelNode">
+            <param name="Local" value="Classes/Metabase/GxTitle/GxTitle.unbindCancelNode.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="GxTitle.updateContent">
+            <param name="Local" value="Classes/Metabase/GxTitle/GxTitle.updateContent.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="GxTitle.Visible">
+            <param name="Local" value="Classes/Metabase/GxTitle/GxTitle.Visible.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Конструктор GxTitle">
+            <param name="Local" value="Classes/Metabase/GxTitle/Constructor_GxTitle.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ImportColumnsStep">
+          <param name="Local" value="Classes/Metabase/ImportColumnsStep/ImportColumnsStep.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ImportDataWizard">
+          <param name="Local" value="Classes/Metabase/ImportDataWizard/ImportDataWizard.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="ImportDataWizard.CubeImport">
+            <param name="Local" value="Classes/Metabase/ImportDataWizard/ImportDataWizard.CubeImport.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="ImportDataWizard.DefaultImportFolderDesc">
+            <param name="Local" value="Classes/Metabase/ImportDataWizard/ImportDataWizard.DefaultImportFolderDesc.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Конструктор ImportDataWizard">
+            <param name="Local" value="Classes/Metabase/ImportDataWizard/Constructor_ImportDataWizard.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MainMenu">
+          <param name="Local" value="Classes/Metabase/MainMenu/MainMenu.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="MainMenu.DiscussItemSelected">
+            <param name="Local" value="Classes/Metabase/MainMenu/MainMenu.DiscussItemSelected.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="MainMenu.ExportItemSelected">
+            <param name="Local" value="Classes/Metabase/MainMenu/MainMenu.ExportItemSelected.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="MainMenu.getDiscussMenu">
+            <param name="Local" value="Classes/Metabase/MainMenu/MainMenu.getDiscussMenu.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="MainMenu.getExportMenu">
+            <param name="Local" value="Classes/Metabase/MainMenu/MainMenu.getExportMenu.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="MainMenu.ItemCreated">
+            <param name="Local" value="Classes/Metabase/MainMenu/MainMenu.ItemCreated.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="MainMenu.ItemCreating">
+            <param name="Local" value="Classes/Metabase/MainMenu/MainMenu.ItemCreating.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="MainMenu.SharepointEnabled">
+            <param name="Local" value="Classes/Metabase/MainMenu/MainMenu.SharepointEnabled.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="MainMenu.ViewMode">
+            <param name="Local" value="Classes/Metabase/MainMenu/MainMenu.ViewMode.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MetabaseObjectsIconView">
+          <param name="Local" value="Classes/Metabase/MetabaseObjectsIconView/MetabaseObjectsIconView.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="MetabaseObjectsIconView.deSelectAll">
+            <param name="Local" value="Classes/Metabase/MetabaseObjectsIconView/MetabaseObjectsIconView.deSelectAll.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="MetabaseObjectsIconView.getItems">
+            <param name="Local" value="Classes/Metabase/MetabaseObjectsIconView/MetabaseObjectsIconView.getItems.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="MetabaseObjectsIconView.IconType">
+            <param name="Local" value="Classes/Metabase/MetabaseObjectsIconView/MetabaseObjectsIconView.IconType.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="MetabaseObjectsIconView.invertSelection">
+            <param name="Local" value="Classes/Metabase/MetabaseObjectsIconView/MetabaseObjectsIconView.invertSelection.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="MetabaseObjectsIconView.ItemHeight">
+            <param name="Local" value="Classes/Metabase/MetabaseObjectsIconView/MetabaseObjectsIconView.ItemHeight.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="MetabaseObjectsIconView.ItemWidth">
+            <param name="Local" value="Classes/Metabase/MetabaseObjectsIconView/MetabaseObjectsIconView.ItemWidth.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="MetabaseObjectsIconView.Orientation">
+            <param name="Local" value="Classes/Metabase/MetabaseObjectsIconView/MetabaseObjectsIconView.Orientation.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="MetabaseObjectsIconView.selectAll">
+            <param name="Local" value="Classes/Metabase/MetabaseObjectsIconView/MetabaseObjectsIconView.selectAll.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Конструктор MetabaseObjectsIconView">
+            <param name="Local" value="Classes/Metabase/MetabaseObjectsIconView/Constructor_MetabaseObjectsIconView.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MetabaseObjectsListView">
+          <param name="Local" value="Classes/Metabase/MetabaseObjectsListView/MetabaseObjectsListView.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="MetabaseObjectsListView.addObject">
+            <param name="Local" value="Classes/Metabase/MetabaseObjectsListView/MetabaseObjectsListView.addObject.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="MetabaseObjectsListView.adjustColumnsWidthByContent">
+            <param name="Local" value="Classes/Metabase/MetabaseObjectsListView/MetabaseObjectsListView.adjustColumnsWidthByContent.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="MetabaseObjectsListView.clear">
+            <param name="Local" value="Classes/Metabase/MetabaseObjectsListView/MetabaseObjectsListView.clear.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="MetabaseObjectsListView.deleteObject">
+            <param name="Local" value="Classes/Metabase/MetabaseObjectsListView/MetabaseObjectsListView.deleteObject.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="MetabaseObjectsListView.deSelectAll">
+            <param name="Local" value="Classes/Metabase/MetabaseObjectsListView/MetabaseObjectsListView.deSelectAll.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="MetabaseObjectsListView.editObject">
+            <param name="Local" value="Classes/Metabase/MetabaseObjectsListView/MetabaseObjectsListView.editObject.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="MetabaseObjectsListView.getClassName">
+            <param name="Local" value="Classes/Metabase/MetabaseObjectsListView/MetabaseObjectsListView.getClassName.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="MetabaseObjectsListView.getFocusedObject">
+            <param name="Local" value="Classes/Metabase/MetabaseObjectsListView/MetabaseObjectsListView.getFocusedObject.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="MetabaseObjectsListView.getObjects">
+            <param name="Local" value="Classes/Metabase/MetabaseObjectsListView/MetabaseObjectsListView.getObjects.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="MetabaseObjectsListView.getSelectedKeys">
+            <param name="Local" value="Classes/Metabase/MetabaseObjectsListView/MetabaseObjectsListView.getSelectedKeys.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="MetabaseObjectsListView.getSelectedObjects">
+            <param name="Local" value="Classes/Metabase/MetabaseObjectsListView/MetabaseObjectsListView.getSelectedObjects.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="MetabaseObjectsListView.invertSelection">
+            <param name="Local" value="Classes/Metabase/MetabaseObjectsListView/MetabaseObjectsListView.invertSelection.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="MetabaseObjectsListView.loadFrom">
+            <param name="Local" value="Classes/Metabase/MetabaseObjectsListView/MetabaseObjectsListView.loadFrom.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="MetabaseObjectsListView.removeFocus">
+            <param name="Local" value="Classes/Metabase/MetabaseObjectsListView/MetabaseObjectsListView.removeFocus.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="MetabaseObjectsListView.selectAll">
+            <param name="Local" value="Classes/Metabase/MetabaseObjectsListView/MetabaseObjectsListView.selectAll.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="MetabaseObjectsListView.setFocused">
+            <param name="Local" value="Classes/Metabase/MetabaseObjectsListView/MetabaseObjectsListView.setFocused.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="MetabaseObjectsListView.setSelectedKeys">
+            <param name="Local" value="Classes/Metabase/MetabaseObjectsListView/MetabaseObjectsListView.setSelectedKeys.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Конструктор MetabaseObjectsListView">
+            <param name="Local" value="Classes/Metabase/MetabaseObjectsListView/Constructor_MetabaseObjectsListView.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MetabaseObjectsView">
+          <param name="Local" value="Classes/Metabase/MetabaseObjectsView/MetabaseObjectsView.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="MetabaseObjectsView.addObject">
+            <param name="Local" value="Classes/Metabase/MetabaseObjectsView/MetabaseObjectsView.addObject.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="MetabaseObjectsView.beginUpdate">
+            <param name="Local" value="Classes/Metabase/MetabaseObjectsView/MetabaseObjectsView.beginUpdate.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="MetabaseObjectsView.clear">
+            <param name="Local" value="Classes/Metabase/MetabaseObjectsView/MetabaseObjectsView.clear.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="MetabaseObjectsView.CustomClasses">
+            <param name="Local" value="Classes/Metabase/MetabaseObjectsView/MetabaseObjectsView.CustomClasses.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="MetabaseObjectsView.deleteObject">
+            <param name="Local" value="Classes/Metabase/MetabaseObjectsView/MetabaseObjectsView.deleteObject.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="MetabaseObjectsView.DisplayMode">
+            <param name="Local" value="Classes/Metabase/MetabaseObjectsView/MetabaseObjectsView.DisplayMode.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="MetabaseObjectsView.editObject">
+            <param name="Local" value="Classes/Metabase/MetabaseObjectsView/MetabaseObjectsView.editObject.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="MetabaseObjectsView.EditOnLoad">
+            <param name="Local" value="Classes/Metabase/MetabaseObjectsView/MetabaseObjectsView.EditOnLoad.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="MetabaseObjectsView.endUpdate">
+            <param name="Local" value="Classes/Metabase/MetabaseObjectsView/MetabaseObjectsView.endUpdate.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="MetabaseObjectsView.Filter">
+            <param name="Local" value="Classes/Metabase/MetabaseObjectsView/MetabaseObjectsView.Filter.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="MetabaseObjectsView.FolderTreeFilter">
+            <param name="Local" value="Classes/Metabase/MetabaseObjectsView/MetabaseObjectsView.FolderTreeFilter.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="MetabaseObjectsView.getAllNodesLoaded">
+            <param name="Local" value="Classes/Metabase/MetabaseObjectsView/MetabaseObjectsView.getAllNodesLoaded.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="MetabaseObjectsView.getCustomClassObject">
+            <param name="Local" value="Classes/Metabase/MetabaseObjectsView/MetabaseObjectsView.getCustomClassObject.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="MetabaseObjectsView.getFocusedObject">
+            <param name="Local" value="Classes/Metabase/MetabaseObjectsView/MetabaseObjectsView.getFocusedObject.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="MetabaseObjectsView.getImageList">
+            <param name="Local" value="Classes/Metabase/MetabaseObjectsView/MetabaseObjectsView.getImageList.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="MetabaseObjectsView.getObjects">
+            <param name="Local" value="Classes/Metabase/MetabaseObjectsView/MetabaseObjectsView.getObjects.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="MetabaseObjectsView.getSelectedObjects">
+            <param name="Local" value="Classes/Metabase/MetabaseObjectsView/MetabaseObjectsView.getSelectedObjects.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="MetabaseObjectsView.loadFrom">
+            <param name="Local" value="Classes/Metabase/MetabaseObjectsView/MetabaseObjectsView.loadFrom.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="MetabaseObjectsView.Metabase">
+            <param name="Local" value="Classes/Metabase/MetabaseObjectsView/MetabaseObjectsView.Metabase.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="MetabaseObjectsView.MultiSelect">
+            <param name="Local" value="Classes/Metabase/MetabaseObjectsView/MetabaseObjectsView.MultiSelect.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="MetabaseObjectsView.refresh">
+            <param name="Local" value="Classes/Metabase/MetabaseObjectsView/MetabaseObjectsView.refresh.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="MetabaseObjectsView.refreshAll">
+            <param name="Local" value="Classes/Metabase/MetabaseObjectsView/MetabaseObjectsView.refreshAll.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="MetabaseObjectsView.removeFocus">
+            <param name="Local" value="Classes/Metabase/MetabaseObjectsView/MetabaseObjectsView.removeFocus.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="MetabaseObjectsView.RootKey">
+            <param name="Local" value="Classes/Metabase/MetabaseObjectsView/MetabaseObjectsView.RootKey.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="MetabaseObjectsView.SelectedKeys">
+            <param name="Local" value="Classes/Metabase/MetabaseObjectsView/MetabaseObjectsView.SelectedKeys.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="MetabaseObjectsView.ShowEmptyFolder">
+            <param name="Local" value="Classes/Metabase/MetabaseObjectsView/MetabaseObjectsView.ShowEmptyFolder.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="MetabaseObjectsView.ShowOnlyContainers">
+            <param name="Local" value="Classes/Metabase/MetabaseObjectsView/MetabaseObjectsView.ShowOnlyContainers.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Конструктор MetabaseObjectsView">
+            <param name="Local" value="Classes/Metabase/MetabaseObjectsView/Constructor_MetabaseObjectsView.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MetabaseTreeList">
+          <param name="Local" value="Classes/Metabase/MetabaseTreeList/MetabaseTreeList.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="MetabaseTreeList.addFilter">
+            <param name="Local" value="Classes/Metabase/MetabaseTreeList/MetabaseTreeList.addFilter.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="MetabaseTreeList.adjustColumnsWidthByContent">
+            <param name="Local" value="Classes/Metabase/MetabaseTreeList/MetabaseTreeList.adjustColumnsWidthByContent.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="MetabaseTreeList.clearFilter">
+            <param name="Local" value="Classes/Metabase/MetabaseTreeList/MetabaseTreeList.clearFilter.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="MetabaseTreeList.clearSelection">
+            <param name="Local" value="Classes/Metabase/MetabaseTreeList/MetabaseTreeList.clearSelection.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="MetabaseTreeList.deSelectAll">
+            <param name="Local" value="Classes/Metabase/MetabaseTreeList/MetabaseTreeList.deSelectAll.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="MetabaseTreeList.DisplayMode">
+            <param name="Local" value="Classes/Metabase/MetabaseTreeList/MetabaseTreeList.DisplayMode.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="MetabaseTreeList.EmptySelection">
+            <param name="Local" value="Classes/Metabase/MetabaseTreeList/MetabaseTreeList.EmptySelection.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="MetabaseTreeList.ExpandedKeys">
+            <param name="Local" value="Classes/Metabase/MetabaseTreeList/MetabaseTreeList.ExpandedKeys.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="MetabaseTreeList.expandNodesTo">
+            <param name="Local" value="Classes/Metabase/MetabaseTreeList/MetabaseTreeList.expandNodesTo.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="MetabaseTreeList.Filter">
+            <param name="Local" value="Classes/Metabase/MetabaseTreeList/MetabaseTreeList.Filter.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="MetabaseTreeList.find">
+            <param name="Local" value="Classes/Metabase/MetabaseTreeList/MetabaseTreeList.find.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="MetabaseTreeList.getMbObjectByKey">
+            <param name="Local" value="Classes/Metabase/MetabaseTreeList/MetabaseTreeList.getMbObjectByKey.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="MetabaseTreeList.getPathToRoot">
+            <param name="Local" value="Classes/Metabase/MetabaseTreeList/MetabaseTreeList.getPathToRoot.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="MetabaseTreeList.getSelectedObjects">
+            <param name="Local" value="Classes/Metabase/MetabaseTreeList/MetabaseTreeList.getSelectedObjects.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="MetabaseTreeList.getShowRootFolder">
+            <param name="Local" value="Classes/Metabase/MetabaseTreeList/MetabaseTreeList.getShowRootFolder.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="MetabaseTreeList.invertSelection">
+            <param name="Local" value="Classes/Metabase/MetabaseTreeList/MetabaseTreeList.invertSelection.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="MetabaseTreeList.Metabase">
+            <param name="Local" value="Classes/Metabase/MetabaseTreeList/MetabaseTreeList.Metabase.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="MetabaseTreeList.MultiSelect">
+            <param name="Local" value="Classes/Metabase/MetabaseTreeList/MetabaseTreeList.MultiSelect.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="MetabaseTreeList.NodeClick">
+            <param name="Local" value="Classes/Metabase/MetabaseTreeList/MetabaseTreeList.NodeClick.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="MetabaseTreeList.NodeDblClick">
+            <param name="Local" value="Classes/Metabase/MetabaseTreeList/MetabaseTreeList.NodeDblClick.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="MetabaseTreeList.NodesLoaded">
+            <param name="Local" value="Classes/Metabase/MetabaseTreeList/MetabaseTreeList.NodesLoaded.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="MetabaseTreeList.refresh">
+            <param name="Local" value="Classes/Metabase/MetabaseTreeList/MetabaseTreeList.refresh.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="MetabaseTreeList.refreshAll">
+            <param name="Local" value="Classes/Metabase/MetabaseTreeList/MetabaseTreeList.refreshAll.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="MetabaseTreeList.RootKey">
+            <param name="Local" value="Classes/Metabase/MetabaseTreeList/MetabaseTreeList.RootKey.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="MetabaseTreeList.selectAll">
+            <param name="Local" value="Classes/Metabase/MetabaseTreeList/MetabaseTreeList.selectAll.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="MetabaseTreeList.SelectedKeys">
+            <param name="Local" value="Classes/Metabase/MetabaseTreeList/MetabaseTreeList.SelectedKeys.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="MetabaseTreeList.SelectionChanged">
+            <param name="Local" value="Classes/Metabase/MetabaseTreeList/MetabaseTreeList.SelectionChanged.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="MetabaseTreeList.ShowAttributes">
+            <param name="Local" value="Classes/Metabase/MetabaseTreeList/MetabaseTreeList.ShowAttributes.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="MetabaseTreeList.ShowEmptyFolder">
+            <param name="Local" value="Classes/Metabase/MetabaseTreeList/MetabaseTreeList.ShowEmptyFolder.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="MetabaseTreeList.ShowOnlyFolders">
+            <param name="Local" value="Classes/Metabase/MetabaseTreeList/MetabaseTreeList.ShowOnlyFolders.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Конструктор MetabaseTreeList">
+            <param name="Local" value="Classes/Metabase/MetabaseTreeList/Constructor_MetabaseTreeList.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MetaHierarchyTree">
+          <param name="Local" value="Classes/Metabase/MetaHierarchyTree/MetaHierarchyTree.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Navigator">
+          <param name="Local" value="Classes/Metabase/Navigator/Navigator.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Navigator.CreateObject">
+            <param name="Local" value="Classes/Metabase/Navigator/Navigator.CreateObject.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Navigator.Discuss">
+            <param name="Local" value="Classes/Metabase/Navigator/Navigator.Discuss.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Navigator.Exit">
+            <param name="Local" value="Classes/Metabase/Navigator/Navigator.Exit.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Navigator.fullscreen">
+            <param name="Local" value="Classes/Metabase/Navigator/Navigator.fullscreen.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Navigator.getObjectListFilters">
+            <param name="Local" value="Classes/Metabase/Navigator/Navigator.getObjectListFilters.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Navigator.getSelectedObjects">
+            <param name="Local" value="Classes/Metabase/Navigator/Navigator.getSelectedObjects.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Navigator.MaxDocumentSize">
+            <param name="Local" value="Classes/Metabase/Navigator/Navigator.MaxDocumentSize.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Navigator.ObjectListModeChanged">
+            <param name="Local" value="Classes/Metabase/Navigator/Navigator.ObjectListModeChanged.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Navigator.ObjectListObjectsLoaded">
+            <param name="Local" value="Classes/Metabase/Navigator/Navigator.ObjectListObjectsLoaded.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Navigator.ObjectSelected">
+            <param name="Local" value="Classes/Metabase/Navigator/Navigator.ObjectSelected.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Navigator.OpenObjects">
+            <param name="Local" value="Classes/Metabase/Navigator/Navigator.OpenObjects.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Navigator.PasswordChanged">
+            <param name="Local" value="Classes/Metabase/Navigator/Navigator.PasswordChanged.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Navigator.PasswordChanging">
+            <param name="Local" value="Classes/Metabase/Navigator/Navigator.PasswordChanging.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Конструктор Navigator">
+            <param name="Local" value="Classes/Metabase/Navigator/Constructor_Navigator.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="NavigatorBox">
+          <param name="Local" value="Classes/Metabase/NavigatorBox/NavigatorBox.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="NavigatorBox.adjustColumnsWidthByContent">
+            <param name="Local" value="Classes/Metabase/NavigatorBox/NavigatorBox.adjustColumnsWidthByContent.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="NavigatorBox.cut">
+            <param name="Local" value="Classes/Metabase/NavigatorBox/NavigatorBox.cut.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="NavigatorBox.copy">
+            <param name="Local" value="Classes/Metabase/NavigatorBox/NavigatorBox.copy.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="NavigatorBox.copyObjects">
+            <param name="Local" value="Classes/Metabase/NavigatorBox/NavigatorBox.copyObjects.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="NavigatorBox.createFolder">
+            <param name="Local" value="Classes/Metabase/NavigatorBox/NavigatorBox.createFolder.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="NavigatorBox.createObject">
+            <param name="Local" value="Classes/Metabase/NavigatorBox/NavigatorBox.createObject.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="NavigatorBox.createShortcut">
+            <param name="Local" value="Classes/Metabase/NavigatorBox/NavigatorBox.createShortcut.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="NavigatorBox.deleteObjects">
+            <param name="Local" value="Classes/Metabase/NavigatorBox/NavigatorBox.deleteObjects.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="NavigatorBox.FolderTreeContextMenu">
+            <param name="Local" value="Classes/Metabase/NavigatorBox/NavigatorBox.FolderTreeContextMenu.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="NavigatorBox.FolderTreeFilter">
+            <param name="Local" value="Classes/Metabase/NavigatorBox/NavigatorBox.FolderTreeFilter.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="NavigatorBox.getCustomClassObject">
+            <param name="Local" value="Classes/Metabase/NavigatorBox/NavigatorBox.getCustomClassObject.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="NavigatorBox.getFocusedObject">
+            <param name="Local" value="Classes/Metabase/NavigatorBox/NavigatorBox.getFocusedObject.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="NavigatorBox.getObjectsListRootKey">
+            <param name="Local" value="Classes/Metabase/NavigatorBox/NavigatorBox.getObjectsListRootKey.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="NavigatorBox.getObjectsListRootMbObject">
+            <param name="Local" value="Classes/Metabase/NavigatorBox/NavigatorBox.getObjectsListRootMbObject.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="NavigatorBox.getPathToRoot">
+            <param name="Local" value="Classes/Metabase/NavigatorBox/NavigatorBox.getPathToRoot.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="NavigatorBox.getSelectedFolderTreeObject">
+            <param name="Local" value="Classes/Metabase/NavigatorBox/NavigatorBox.getSelectedFolderTreeObject.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="NavigatorBox.HideObjectListColumnsMenu">
+            <param name="Local" value="Classes/Metabase/NavigatorBox/NavigatorBox.HideObjectListColumnsMenu.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="NavigatorBox.invertSelection">
+            <param name="Local" value="Classes/Metabase/NavigatorBox/NavigatorBox.invertSelection.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="NavigatorBox.isContainer">
+            <param name="Local" value="Classes/Metabase/NavigatorBox/NavigatorBox.isContainer.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="NavigatorBox.moveObjects">
+            <param name="Local" value="Classes/Metabase/NavigatorBox/NavigatorBox.moveObjects.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="NavigatorBox.ObjectListDisplayMode">
+            <param name="Local" value="Classes/Metabase/NavigatorBox/NavigatorBox.ObjectListDisplayMode.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="NavigatorBox.ObjectListFilters">
+            <param name="Local" value="Classes/Metabase/NavigatorBox/NavigatorBox.ObjectListFilters.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="NavigatorBox.ObjectListContextMenu">
+            <param name="Local" value="Classes/Metabase/NavigatorBox/NavigatorBox.ObjectListContextMenu.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="NavigatorBox.ObjectListMultiSelect">
+            <param name="Local" value="Classes/Metabase/NavigatorBox/NavigatorBox.ObjectListMultiSelect.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="NavigatorBox.ObjectListObjectsLoaded">
+            <param name="Local" value="Classes/Metabase/NavigatorBox/NavigatorBox.ObjectListObjectsLoaded.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="NavigatorBox.ObjectListSelectionChanged">
+            <param name="Local" value="Classes/Metabase/NavigatorBox/NavigatorBox.ObjectListSelectionChanged.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="NavigatorBox.ObjectSelected">
+            <param name="Local" value="Classes/Metabase/NavigatorBox/NavigatorBox.ObjectSelected.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="NavigatorBox.openFoldersTo">
+            <param name="Local" value="Classes/Metabase/NavigatorBox/NavigatorBox.openFoldersTo.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="NavigatorBox.OpenObjects">
+            <param name="Local" value="Classes/Metabase/NavigatorBox/NavigatorBox.OpenObjects.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="NavigatorBox.openParentFolder">
+            <param name="Local" value="Classes/Metabase/NavigatorBox/NavigatorBox.openParentFolder.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="NavigatorBox.paste">
+            <param name="Local" value="Classes/Metabase/NavigatorBox/NavigatorBox.paste.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="NavigatorBox.PasteBufferStateChanged">
+            <param name="Local" value="Classes/Metabase/NavigatorBox/NavigatorBox.PasteBufferStateChanged.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="NavigatorBox.refresh">
+            <param name="Local" value="Classes/Metabase/NavigatorBox/NavigatorBox.refresh.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="NavigatorBox.refreshForKey">
+            <param name="Local" value="Classes/Metabase/NavigatorBox/NavigatorBox.refreshForKey.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="NavigatorBox.removeSelection">
+            <param name="Local" value="Classes/Metabase/NavigatorBox/NavigatorBox.removeSelection.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="NavigatorBox.RootKey">
+            <param name="Local" value="Classes/Metabase/NavigatorBox/NavigatorBox.RootKey.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="NavigatorBox.selectAll">
+            <param name="Local" value="Classes/Metabase/NavigatorBox/NavigatorBox.selectAll.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="NavigatorBox.SelectedKeys">
+            <param name="Local" value="Classes/Metabase/NavigatorBox/NavigatorBox.SelectedKeys.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="NavigatorBox.SelectedObjects">
+            <param name="Local" value="Classes/Metabase/NavigatorBox/NavigatorBox.SelectedObjects.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="NavigatorBox.setObjectListMode">
+            <param name="Local" value="Classes/Metabase/NavigatorBox/NavigatorBox.setObjectListMode.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="NavigatorBox.ShowEmptyFolder">
+            <param name="Local" value="Classes/Metabase/NavigatorBox/NavigatorBox.ShowEmptyFolder.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="NavigatorBox.ShowNavigationPanel">
+            <param name="Local" value="Classes/Metabase/NavigatorBox/NavigatorBox.ShowNavigationPanel.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Конструктор NavigatorBox">
+            <param name="Local" value="Classes/Metabase/NavigatorBox/Constructor_NavigatorBox.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="NavigatorRibbon">
+          <param name="Local" value="Classes/Metabase/NavigatorRibbon/NavigatorRibbon.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="NavigatorRibbon.ChangedPassword">
+            <param name="Local" value="Classes/Metabase/NavigatorRibbon/NavigatorRibbon.ChangedPasswordClick.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="NavigatorRibbon.Collapsed">
+            <param name="Local" value="Classes/Metabase/NavigatorRibbon/NavigatorRibbon.Collapsed.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="NavigatorRibbon.Exited">
+            <param name="Local" value="Classes/Metabase/NavigatorRibbon/NavigatorRibbon.Exited.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="NavigatorRibbon.Expanded">
+            <param name="Local" value="Classes/Metabase/NavigatorRibbon/NavigatorRibbon.Expanded.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="NavigatorRibbon.getChangePassDialog">
+            <param name="Local" value="Classes/Metabase/NavigatorRibbon/NavigatorRibbon.getChangePassDialog.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="NavigatorRibbon.getControlById">
+            <param name="Local" value="Classes/Metabase/NavigatorRibbon/NavigatorRibbon.getControlById.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="NavigatorRibbon.ImportDataClick">
+            <param name="Local" value="Classes/Metabase/NavigatorRibbon/NavigatorRibbon.ImportDataClick.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="NavigatorRibbon.PropertyChanged">
+            <param name="Local" value="Classes/Metabase/NavigatorRibbon/NavigatorRibbon.PropertyChanged.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="NavigatorRibbon.refresh">
+            <param name="Local" value="Classes/Metabase/NavigatorRibbon/NavigatorRibbon.Refresh.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="NavigatorRibbon.setObjectListMode">
+            <param name="Local" value="Classes/Metabase/NavigatorRibbon/NavigatorRibbon.setObjectListMode.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="NavigatorRibbon.setPasteButtonEnabled">
+            <param name="Local" value="Classes/Metabase/NavigatorRibbon/NavigatorRibbon.setPasteButtonEnabled.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="NavigatorRibbon.setShowNavigationPanel">
+            <param name="Local" value="Classes/Metabase/NavigatorRibbon/NavigatorRibbon.setShowNavigationPanel.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="NavigatorRibbon.setViewEditButtonsStateByClass">
+            <param name="Local" value="Classes/Metabase/NavigatorRibbon/NavigatorRibbon.setViewEditButtonsStateByClass.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="NavigatorRibbon.SharepointEnabled">
+            <param name="Local" value="Classes/Metabase/NavigatorRibbon/NavigatorRibbon.SharepointEnabled.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Конструктор NavigatorRibbon">
+            <param name="Local" value="Classes/Metabase/NavigatorRibbon/Constructor_NavigatorRibbon.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="PropertyChangedEventArgs">
+          <param name="Local" value="Classes/Metabase/PropertyChangedEventArgs/PropertyChangedEventArgs.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="PropertyChangedEventArgs.Callback">
+            <param name="Local" value="Classes/Metabase/PropertyChangedEventArgs/PropertyChangedEventArgs.Callback.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="PropertyChangedEventArgs.Cancel">
+            <param name="Local" value="Classes/Metabase/PropertyChangedEventArgs/PropertyChangedEventArgs.Cancel.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="PropertyChangedEventArgs.fireCallback">
+            <param name="Local" value="Classes/Metabase/PropertyChangedEventArgs/PropertyChangedEventArgs.fireCallback.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="PropertyChangedEventArgs.ModelUpdateData">
+            <param name="Local" value="Classes/Metabase/PropertyChangedEventArgs/PropertyChangedEventArgs.ModelUpdateData.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="PropertyChangedEventArgs.TypeUpdateData">
+            <param name="Local" value="Classes/Metabase/PropertyChangedEventArgs/PropertyChangedEventArgs.TypeUpdateData.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="PropertyChangedEventArgs.isCanceled">
+            <param name="Local" value="Classes/Metabase/PropertyChangedEventArgs/PropertyChangedEventArgs.isCanceled.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Конструктор PropertyChangedEventArgs">
+            <param name="Local" value="Classes/Metabase/PropertyChangedEventArgs/Constructor_PropertyChangedEventArgs.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="RepositoryDialog">
+          <param name="Local" value="Classes/Metabase/RepositoryDialog/RepositoryDialog.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="SearchResultBox">
+          <param name="Local" value="Classes/Metabase/BISearchResultBox/BISearchResultBox.htm#642b3b9347ca42c9b00b820c00c373fa=1">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="SearchResultBox.ResultItemClick">
+            <param name="Local" value="Classes/Metabase/SearchResultBox/SearchResultBox.ResultItemClick.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="SearchResultBox.SearchFailed">
+            <param name="Local" value="Classes/Metabase/SearchResultBox/SearchResultBox.SearchFailed.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="SearchResultBox.SearchSucceed">
+            <param name="Local" value="Classes/Metabase/SearchResultBox/SearchResultBox.SearchSucceed.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ServiceUnavailableDialog">
+          <param name="Local" value="Classes/Metabase/Dialogs/ServiceUnavailableDialog/ServiceUnavailableDialog.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="ServiceUnavailableDialog.CheckConnectionClick">
+            <param name="Local" value="Classes/Metabase/Dialogs/ServiceUnavailableDialog/ServiceUnavailableDialog.CheckConnectionClick.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="ServiceUnavailableDialog.hideWithNotice">
+            <param name="Local" value="Classes/Metabase/Dialogs/ServiceUnavailableDialog/ServiceUnavailableDialog.hideWithNotice.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="ServiceUnavailableDialog.showConnectionChecking">
+            <param name="Local" value="Classes/Metabase/Dialogs/ServiceUnavailableDialog/ServiceUnavailableDialog.showConnectionChecking.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="ServiceUnavailableDialog.showConnectionNotRestored">
+            <param name="Local" value="Classes/Metabase/Dialogs/ServiceUnavailableDialog/ServiceUnavailableDialog.showConnectionNotRestored.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Конструктор ServiceUnavailableDialog">
+            <param name="Local" value="Classes/Metabase/Dialogs/ServiceUnavailableDialog/ServiceUnavailableDialog_constructor.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="SetValueColumnsStep">
+          <param name="Local" value="Classes/Metabase/SetValueColumnsStep/SetValueColumnsStep.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TranslateDialog">
+          <param name="Local" value="Classes/Metabase/Dialogs/TranslateDialog/TranslateDialog.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="TranslateDialog.AdditionalLanguages">
+            <param name="Local" value="Classes/Metabase/Dialogs/TranslateDialog/TranslateDialog.AdditionalLanguages.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="TranslateDialog.beginUpdate">
+            <param name="Local" value="Classes/Metabase/Dialogs/TranslateDialog/TranslateDialog.beginUpdate.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="TranslateDialog.CurrentLanguage">
+            <param name="Local" value="Classes/Metabase/Dialogs/TranslateDialog/TranslateDialog.CurrentLanguage.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="TranslateDialog.DefaultLanguage">
+            <param name="Local" value="Classes/Metabase/Dialogs/TranslateDialog/TranslateDialog.DefaultLanguage.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="TranslateDialog.DisplayLanguages">
+            <param name="Local" value="Classes/Metabase/Dialogs/TranslateDialog/TranslateDialog.DisplayLanguages.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="TranslateDialog.endUpdate">
+            <param name="Local" value="Classes/Metabase/Dialogs/TranslateDialog/TranslateDialog.endUpdate.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="TranslateDialog.getAllLanguages">
+            <param name="Local" value="Classes/Metabase/Dialogs/TranslateDialog/TranslateDialog.getAllLanguages.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="TranslateDialog.Mode">
+            <param name="Local" value="Classes/Metabase/Dialogs/TranslateDialog/TranslateDialog.Mode.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="TranslateDialog.ShowLanguagesButton">
+            <param name="Local" value="Classes/Metabase/Dialogs/TranslateDialog/TranslateDialog.ShowLanguagesButton.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="TranslateDialog.Translations">
+            <param name="Local" value="Classes/Metabase/Dialogs/TranslateDialog/TranslateDialog.Translations.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="TranslateDialog.update">
+            <param name="Local" value="Classes/Metabase/Dialogs/TranslateDialog/TranslateDialog.update.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Конструктор TranslateDialog">
+            <param name="Local" value="Classes/Metabase/Dialogs/TranslateDialog/TranslateDialog_constructor.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Перечисления">
+        <param name="Local" value="Classes/PP.Mb.Ui.htm#enum642b3b9347ca42c9b00b820c00c373fa=2">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="DimFilterType">
+          <param name="Local" value="Enums/DimFilterType.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MetabaseDisplayMode">
+          <param name="Local" value="Enums/MetabaseDisplayMode.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="NavigatorBox.ObjectListMode">
+          <param name="Local" value="Enums/NavigatorBox.ObjectListMode.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="PP.Mb">
+      <param name="Local" value="Classes/PP.Mb.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Классы">
+        <param name="Local" value="Classes/PP.Mb.htm#642b3b9347ca42c9b00b820c00c373fa=1">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="BaseCtrl">
+          <param name="Local" value="Classes/Metabase/BaseCtrl/BaseCtrl.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="BaseCtrl.getMetabase">
+            <param name="Local" value="Classes/Metabase/BaseCtrl/BaseCtrl.getMetabase.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="BaseCtrl.Service">
+            <param name="Local" value="Classes/Metabase/BaseCtrl/BaseCtrl.Service.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="BaseCtrl.Source">
+            <param name="Local" value="Classes/Metabase/BaseCtrl/BaseCtrl.Source.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="BaseCtrl.View">
+            <param name="Local" value="Classes/Metabase/BaseCtrl/BaseCtrl.View.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="BiService">
+          <param name="Local" value="Classes/Metabase/BIService/BiService.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="BiService.beginBatch">
+            <param name="Local" value="Classes/Metabase/BIService/BiService.beginBatch.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="BiService.endBatch">
+            <param name="Local" value="Classes/Metabase/BIService/BiService.endBatch.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="CubeImport">
+          <param name="Local" value="Classes/Metabase/CubeImport/CubeImport.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="CubeImport.FileName">
+            <param name="Local" value="Classes/Metabase/CubeImport/CubeImport.FileName.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="DataImportService">
+          <param name="Local" value="Classes/Metabase/DataImportService/DataImportService.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="DataImportService.getDictionaries">
+            <param name="Local" value="Classes/Metabase/DataImportService/DataImportService.getDictionaries.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="DataImportService.getExecuteResult">
+            <param name="Local" value="Classes/Metabase/DataImportService/DataImportService.getExecuteResult.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="DataImportService.GetFieldsCompleted">
+            <param name="Local" value="Classes/Metabase/DataImportService/DataImportService.GetFieldsCompleted.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="DataImportService.getFolders">
+            <param name="Local" value="Classes/Metabase/DataImportService/DataImportService.getFolders.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="DataImportService.GetObjectsCompleted">
+            <param name="Local" value="Classes/Metabase/DataImportService/DataImportService.GetObjectsCompleted.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="DataImportService.getRepositories">
+            <param name="Local" value="Classes/Metabase/DataImportService/DataImportService.getRepositories.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="DataImportService.GetRowsCompleted">
+            <param name="Local" value="Classes/Metabase/DataImportService/DataImportService.GetRowsCompleted.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="DataImportService.getTables">
+            <param name="Local" value="Classes/Metabase/DataImportService/DataImportService.getTables.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="DataImportService.ImportCompleted">
+            <param name="Local" value="Classes/Metabase/DataImportService/DataImportService.ImportCompleted.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="DataImportService.launchImport">
+            <param name="Local" value="Classes/Metabase/DataImportService/DataImportService.launchImport.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="DataImportService.openCubeImport">
+            <param name="Local" value="Classes/Metabase/DataImportService/DataImportService.openCubeImport.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="DataImportService.setCubeImportProps">
+            <param name="Local" value="Classes/Metabase/DataImportService/DataImportService.setCubeImportProps.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="DataImportService.setHasHeader">
+            <param name="Local" value="Classes/Metabase/DataImportService/DataImportService.setHasHeader.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="DataImportService.SetHasHeaderCompleted">
+            <param name="Local" value="Classes/Metabase/DataImportService/DataImportService.SetHasHeaderCompleted.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="DataImportService.setTable">
+            <param name="Local" value="Classes/Metabase/DataImportService/DataImportService.setTable.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Конструктор DataImportService">
+            <param name="Local" value="Classes/Metabase/DataImportService/Constructor_DataImportService.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="DataMiningService">
+          <param name="Local" value="Classes/Metabase/DataMiningService/DataMiningService.htm#642b3b9347ca42c9b00b820c00c373fa=1">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="DataMiningService.createObject">
+            <param name="Local" value="Classes/Metabase/DataMiningService/DataMiningService.createObject.htm#642b3b9347ca42c9b00b820c00c373fa=1">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="DataMiningService.getDataMining">
+            <param name="Local" value="Classes/Metabase/DataMiningService/DataMiningService.getDataMining.htm#642b3b9347ca42c9b00b820c00c373fa=1">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="DataMiningService.getDataSourceFields">
+            <param name="Local" value="Classes/Metabase/DataMiningService/DataMiningService.getDataSourceFields.htm#642b3b9347ca42c9b00b820c00c373fa=1">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Descriptor">
+          <param name="Local" value="Classes/Metabase/Descriptor/Descriptor.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Descriptor.Class">
+            <param name="Local" value="Classes/Metabase/Descriptor/Descriptor.Class.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Descriptor.HasChildren">
+            <param name="Local" value="Classes/Metabase/Descriptor/Descriptor.HasChildren.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Descriptor.IsLink">
+            <param name="Local" value="Classes/Metabase/Descriptor/Descriptor.IsLink.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Descriptor.IsShortcut">
+            <param name="Local" value="Classes/Metabase/Descriptor/Descriptor.IsShortcut.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Descriptor.Key">
+            <param name="Local" value="Classes/Metabase/Descriptor/Descriptor.Key.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Descriptor.Metadata">
+            <param name="Local" value="Classes/Metabase/Descriptor/Descriptor.Metadata.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Descriptor.Name">
+            <param name="Local" value="Classes/Metabase/Descriptor/Descriptor.Name.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Descriptor.ParentKey">
+            <param name="Local" value="Classes/Metabase/Descriptor/Descriptor.ParentKey.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Descriptor.TimeStamp">
+            <param name="Local" value="Classes/Metabase/Descriptor/Descriptor.TimeStamp.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Descriptor.Visible">
+            <param name="Local" value="Classes/Metabase/Descriptor/Descriptor.Visible.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Descriptor.getState">
+            <param name="Local" value="Classes/Metabase/Descriptor/Descriptor.getState.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ElsFilter">
+          <param name="Local" value="Classes/Metabase/ElsFilter/ElsFilter.htm#642b3b9347ca42c9b00b820c00c373fa=1">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="ElsFilter.getFilterJSON">
+            <param name="Local" value="Classes/Metabase/ElsFilter/ElsFilter.getFilterJSON.htm#642b3b9347ca42c9b00b820c00c373fa=1">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="ElsFilter.getHash">
+            <param name="Local" value="Classes/Metabase/ElsFilter/ElsFilter.getHash.htm#642b3b9347ca42c9b00b820c00c373fa=1">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="ElsFilter.IncludeParents">
+            <param name="Local" value="Classes/Metabase/ElsFilter/ElsFilter.IncludeParents.htm#642b3b9347ca42c9b00b820c00c373fa=1">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="ElsFilter.IncludeParentsWithSiblings">
+            <param name="Local" value="Classes/Metabase/ElsFilter/ElsFilter.IncludeParentsWithSiblings.htm#642b3b9347ca42c9b00b820c00c373fa=1">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="ElsFilter.IsCustomHash">
+            <param name="Local" value="Classes/Metabase/ElsFilter/ElsFilter.IsCustomHash.htm#642b3b9347ca42c9b00b820c00c373fa=1">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="ElsFilter.MbJSONDelegate">
+            <param name="Local" value="Classes/Metabase/ElsFilter/ElsFilter.MbJSONDelegate.htm#642b3b9347ca42c9b00b820c00c373fa=1">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="ElsFilter.setCustomHash">
+            <param name="Local" value="Classes/Metabase/ElsFilter/ElsFilter.setCustomHash.htm#642b3b9347ca42c9b00b820c00c373fa=1">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="ElsFilter.TextAttributes">
+            <param name="Local" value="Classes/Metabase/ElsFilter/ElsFilter.TextAttributes.htm#642b3b9347ca42c9b00b820c00c373fa=1">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="ElsFilter.TextCaseSensitive">
+            <param name="Local" value="Classes/Metabase/ElsFilter/ElsFilter.TextCaseSensitive.htm#642b3b9347ca42c9b00b820c00c373fa=1">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="ElsFilter.TextValue">
+            <param name="Local" value="Classes/Metabase/ElsFilter/ElsFilter.TextValue.htm#642b3b9347ca42c9b00b820c00c373fa=1">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="ElsFilter.TextWholeWordsOnly">
+            <param name="Local" value="Classes/Metabase/ElsFilter/ElsFilter.TextWholeWordsOnly.htm#642b3b9347ca42c9b00b820c00c373fa=1">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="HieService">
+          <param name="Local" value="Classes/Metabase/HieService/HieService.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="HieService.close">
+            <param name="Local" value="Classes/Metabase/HieService/HieService.close.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="HieService.ElementsLoaded">
+            <param name="Local" value="Classes/Metabase/HieService/HieService.ElementsLoaded.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="HieService.getChildEls">
+            <param name="Local" value="Classes/Metabase/HieService/HieService.getChildEls.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="HieService.getGetMetadataSettings">
+            <param name="Local" value="Classes/Metabase/HieService/HieService.getGetMetadataSettings.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="HieService.getMetabase">
+            <param name="Local" value="Classes/Metabase/HieService/HieService.getMetabase.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="HieService.getSetMetadataSettings">
+            <param name="Local" value="Classes/Metabase/HieService/HieService.getSetMetadataSettings.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="HieService.HieOpened">
+            <param name="Local" value="Classes/Metabase/HieService/HieService.HieOpened.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="HieService.Metadata">
+            <param name="Local" value="Classes/Metabase/HieService/HieService.Metadata.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="HieService.MetadataChanged">
+            <param name="Local" value="Classes/Metabase/HieService/HieService.MetadataChanged.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="HieService.MetadataChangeStart">
+            <param name="Local" value="Classes/Metabase/HieService/HieService.MetadataChangeStart.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="HieService.openFromRubKey">
+            <param name="Local" value="Classes/Metabase/HieService/HieService.openFromRubKey.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="HieService.openFromRubOdId">
+            <param name="Local" value="Classes/Metabase/HieService/HieService.openFromRubOdId.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="HieService.openFromSource">
+            <param name="Local" value="Classes/Metabase/HieService/HieService.openFromSource.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="HieService.setLevelsByAttributesIds">
+            <param name="Local" value="Classes/Metabase/HieService/HieService.setLevelsByAttributesIds.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Metabase">
+          <param name="Local" value="Classes/Metabase/Metabase/Metabase.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Metabase.clearCache">
+            <param name="Local" value="Classes/Metabase/Metabase/Metabase.clearCache.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Metabase.close">
+            <param name="Local" value="Classes/Metabase/Metabase/Metabase.close.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Metabase.closeObject">
+            <param name="Local" value="Classes/Metabase/Metabase/Metabase.closeObject.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Metabase.Closed">
+            <param name="Local" value="Classes/Metabase/Metabase/Metabase.Closed.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Metabase.createObject">
+            <param name="Local" value="Classes/Metabase/Metabase/Metabase.createObject.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Metabase.createShortcut">
+            <param name="Local" value="Classes/Metabase/Metabase/Metabase.createShortcut.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Metabase.deleteObjects">
+            <param name="Local" value="Classes/Metabase/Metabase/Metabase.deleteObjects.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Metabase.EnableCaching">
+            <param name="Local" value="Classes/Metabase/Metabase/Metabase.EnableCaching.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Metabase.findObjects">
+            <param name="Local" value="Classes/Metabase/Metabase/Metabase.findObjects.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Metabase.flushCache">
+            <param name="Local" value="Classes/Metabase/Metabase/Metabase.flushCache.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Metabase.getConnectionId">
+            <param name="Local" value="Classes/Metabase/Metabase/Metabase.getConnectionId.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Metabase.getExportUrl">
+            <param name="Local" value="Classes/Metabase/Metabase/Metabase.getExportUrl.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Metabase.getFullPath">
+            <param name="Local" value="Classes/Metabase/Metabase/Metabase.getFullPath.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Metabase.getImportUrl">
+            <param name="Local" value="Classes/Metabase/Metabase/Metabase.getImportUrl.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Metabase.getMbSec">
+            <param name="Local" value="Classes/Metabase/Metabase/Metabase.getMbSec.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Metabase.getObjects">
+            <param name="Local" value="Classes/Metabase/Metabase/Metabase.getObjects.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Metabase.getPathToRoot">
+            <param name="Local" value="Classes/Metabase/Metabase/Metabase.getPathToRoot.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Metabase.getRecentObjects">
+            <param name="Local" value="Classes/Metabase/Metabase/Metabase.getRecentObjects.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Metabase.getSearch">
+            <param name="Local" value="Classes/Metabase/Metabase/Metabase.getSearch.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Metabase.getSessionCookie">
+            <param name="Local" value="Classes/Metabase/Metabase/Metabase.getSessionCookie.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Metabase.getStatus">
+            <param name="Local" value="Classes/Metabase/Metabase/Metabase.getStatus.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Metabase.moveObject">
+            <param name="Local" value="Classes/Metabase/Metabase/Metabase.moveObject.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Metabase.open">
+            <param name="Local" value="Classes/Metabase/Metabase/Metabase.open.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Metabase.Opened">
+            <param name="Local" value="Classes/Metabase/Metabase/Metabase.Opened.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Metabase.refresh">
+            <param name="Local" value="Classes/Metabase/Metabase/Metabase.refresh.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Metabase.Refreshed">
+            <param name="Local" value="Classes/Metabase/Metabase/Metabase.Refreshed.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Metabase.saveObject">
+            <param name="Local" value="Classes/Metabase/Metabase/Metabase.saveObject.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Metabase.saveObjectAs">
+            <param name="Local" value="Classes/Metabase/Metabase/Metabase.saveObjectAs.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Metabase.sharePointShare">
+            <param name="Local" value="Classes/Metabase/Metabase/Metabase.sharePointShare.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Metabase.UserCreds">
+            <param name="Local" value="Classes/Metabase/Metabase/Metabase.UserCreds.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Конструктор Metabase">
+            <param name="Local" value="Classes/Metabase/Metabase/Constructor_Metabase.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MetaHierarchy">
+          <param name="Local" value="Classes/Metabase/MetaHierarchy/MetaHierarchy.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="MetaHierarchy.ChildEls">
+            <param name="Local" value="Classes/Metabase/MetaHierarchy/MetaHierarchy.ChildEls.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="MetaHierarchy.clearDims">
+            <param name="Local" value="Classes/Metabase/MetaHierarchy/MetaHierarchy.clearDims.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="MetaHierarchy.Dim">
+            <param name="Local" value="Classes/Metabase/MetaHierarchy/MetaHierarchy.Dim.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="MetaHierarchy.FilterFacts">
+            <param name="Local" value="Classes/Metabase/MetaHierarchy/MetaHierarchy.FilterFacts.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="MetaHierarchy.FilterMode">
+            <param name="Local" value="Classes/Metabase/MetaHierarchy/MetaHierarchy.FilterMode.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="MetaHierarchy.getAttributeById">
+            <param name="Local" value="Classes/Metabase/MetaHierarchy/MetaHierarchy.getAttributeById.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="MetaHierarchy.getAttributes">
+            <param name="Local" value="Classes/Metabase/MetaHierarchy/MetaHierarchy.getAttributes.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="MetaHierarchy.getDimOdId">
+            <param name="Local" value="Classes/Metabase/MetaHierarchy/MetaHierarchy.getDimOdId.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="MetaHierarchy.getWhereIsEmpty">
+            <param name="Local" value="Classes/Metabase/MetaHierarchy/MetaHierarchy.getWhereIsEmpty.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="MetaHierarchy.IsAttributeFilter">
+            <param name="Local" value="Classes/Metabase/MetaHierarchy/MetaHierarchy.IsAttributeFilter.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="MetaHierarchy.LeafLoadExtent">
+            <param name="Local" value="Classes/Metabase/MetaHierarchy/MetaHierarchy.LeafLoadExtent.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="MetaHierarchy.Levels">
+            <param name="Local" value="Classes/Metabase/MetaHierarchy/MetaHierarchy.Levels.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="MetaHierarchy.RubricatorKey">
+            <param name="Local" value="Classes/Metabase/MetaHierarchy/MetaHierarchy.RubricatorKey.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="MetaHierarchy.SelectedBreadcrumbAttributes">
+            <param name="Local" value="Classes/Metabase/MetaHierarchy/MetaHierarchy.SelectedBreadcrumbAttributes.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="MetaHierarchy.setAttrIncludeSelectedOnly">
+            <param name="Local" value="Classes/Metabase/MetaHierarchy/MetaHierarchy.setAttrIncludeSelectedOnly.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="MetaHierarchy.setAttrProperty">
+            <param name="Local" value="Classes/Metabase/MetaHierarchy/MetaHierarchy.setAttrProperty.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="MetaHierarchy.setSort">
+            <param name="Local" value="Classes/Metabase/MetaHierarchy/MetaHierarchy.setSort.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Object">
+          <param name="Local" value="Classes/Metabase/Object/Object.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Object.getIsOpened">
+            <param name="Local" value="Classes/Metabase/Object/Object.getIsOpened.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Object.getRights">
+            <param name="Local" value="Classes/Metabase/Object/Object.getRights.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Object.Metabase">
+            <param name="Local" value="Classes/Metabase/Object/Object.Metabase.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Object.Names">
+            <param name="Local" value="Classes/Metabase/Object/Object.Names.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Object.OdId">
+            <param name="Local" value="Classes/Metabase/Object/Object.OdId.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Object.Params">
+            <param name="Local" value="Classes/Metabase/Object/Object.Params.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Object.PPService">
+            <param name="Local" value="Classes/Metabase/Object/Object.PPService.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Object.ReadOnly">
+            <param name="Local" value="Classes/Metabase/Object/Object.ReadOnly.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Object.ShareUrl">
+            <param name="Local" value="Classes/Metabase/Object/Object.ShareUrl.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Param">
+          <param name="Local" value="Classes/Metabase/Param/Param.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Param.Binding">
+            <param name="Local" value="Classes/Metabase/Param/Param.Binding.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Param.getPPCreateObj">
+            <param name="Local" value="Classes/Metabase/Param/Param.getPPCreateObj.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Param.isEmpty">
+            <param name="Local" value="Classes/Metabase/Param/Param.isEmpty.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Param.Key">
+            <param name="Local" value="Classes/Metabase/Param/Param.Key.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Param.Name">
+            <param name="Local" value="Classes/Metabase/Param/Param.Name.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Param.OdIdSuffix">
+            <param name="Local" value="Classes/Metabase/Param/Param.OldIdSuffix.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Param.TargetOdId">
+            <param name="Local" value="Classes/Metabase/Param/Param.TargetOdId.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Param.Type">
+            <param name="Local" value="Classes/Metabase/Param/Param.Type.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Param.Value">
+            <param name="Local" value="Classes/Metabase/Param/Param.Value.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Param.Visible">
+            <param name="Local" value="Classes/Metabase/Param/Param.Visible.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Конструктор Param">
+            <param name="Local" value="Classes/Metabase/Param/Constructor_Param.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="PPService">
+          <param name="Local" value="Classes/Metabase/PPService/PPService.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="PPService.addCallbackToLastRqt">
+            <param name="Local" value="Classes/Metabase/PPService/PPService.addCallbackToLastRqt.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="PPService.beginSyncXHR">
+            <param name="Local" value="Classes/Metabase/PPService/PPService.beginSyncXHR.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="PPService.clearRequests">
+            <param name="Local" value="Classes/Metabase/PPService/PPService.clearRequests.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="PPService.EndRequest">
+            <param name="Local" value="Classes/Metabase/PPService/PPService.EndRequest.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="PPService.endSyncXHR">
+            <param name="Local" value="Classes/Metabase/PPService/PPService.endSyncXHR.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="PPService.Error">
+            <param name="Local" value="Classes/Metabase/PPService/PPService.Error.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="PPService.Executed">
+            <param name="Local" value="Classes/Metabase/PPService/PPService.Executed.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="PPService.getCurrentRequest">
+            <param name="Local" value="Classes/Metabase/PPService/PPService.getCurrentRequest.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="PPService.PPServiceUrl">
+            <param name="Local" value="Classes/Metabase/PPService/PPService.PPServiceUrl.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="PPService.sendRequest">
+            <param name="Local" value="Classes/Metabase/PPService/PPService.sendRequest.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="PPService.StartRequest">
+            <param name="Local" value="Classes/Metabase/PPService/PPService.StartRequest.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ResService">
+          <param name="Local" value="Classes/Metabase/Resource/ResService/ResService.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="ResService.Resource">
+            <param name="Local" value="Classes/Metabase/Resource/ResService/ResService.Resource.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Resource">
+          <param name="Local" value="Classes/Metabase/Resource/Resource.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Resource.CurrentCulture">
+            <param name="Local" value="Classes/Metabase/Resource/Resource.CurrentCulture.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Resource.DefaultCulture">
+            <param name="Local" value="Classes/Metabase/Resource/Resource.DefaultCulture.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Resource.Translations">
+            <param name="Local" value="Classes/Metabase/Resource/Resource.Translations.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ServiceRequest">
+          <param name="Local" value="Classes/Metabase/ServiceRequest/ServiceRequest.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="ServiceRequest.BackgroundRequestTimeout">
+            <param name="Local" value="Classes/Metabase/ServiceRequest/ServiceRequest.BackgroundRequestTimeout.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="ServiceRequest.clearRequests">
+            <param name="Local" value="Classes/Metabase/ServiceRequest/ServiceRequest.clearRequests.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="ServiceRequest.endRequest">
+            <param name="Local" value="Classes/Metabase/ServiceRequest/ServiceRequest.endRequest.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="ServiceRequest.EndRequest">
+            <param name="Local" value="Classes/Metabase/ServiceRequest/ServiceRequest.EndRequestE.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="ServiceRequest.Error">
+            <param name="Local" value="Classes/Metabase/ServiceRequest/ServiceRequest.Error.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="ServiceRequest.Executed">
+            <param name="Local" value="Classes/Metabase/ServiceRequest/ServiceRequest.Executed.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="ServiceRequest.HideWaiterTimeout">
+            <param name="Local" value="Classes/Metabase/ServiceRequest/ServiceRequest.HideWaiterTimeout.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="ServiceRequest.Service">
+            <param name="Local" value="Classes/Metabase/ServiceRequest/ServiceRequest.Service.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="ServiceRequest.ShowWaiter">
+            <param name="Local" value="Classes/Metabase/ServiceRequest/ServiceRequest.ShowWaiter.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="ServiceRequest.ShowWaiterTimeout">
+            <param name="Local" value="Classes/Metabase/ServiceRequest/ServiceRequest.ShowWaiterTimeout.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="ServiceRequest.StartRequest">
+            <param name="Local" value="Classes/Metabase/ServiceRequest/ServiceRequest.StartRequest.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="ServiceRequest.Waiter">
+            <param name="Local" value="Classes/Metabase/ServiceRequest/ServiceRequest.Waiter.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetDataSource">
+          <param name="Local" value="Classes/Metabase/TabSheetDataSource/TabSheetDataSource.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="TabSheetDataSource.getScrollState">
+            <param name="Local" value="Classes/Metabase/TabSheetDataSource/TabSheetDataSource.getScrollState.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="TabSheetDataSource.getSelection">
+            <param name="Local" value="Classes/Metabase/TabSheetDataSource/TabSheetDataSource.getSelection.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="TabSheetDataSource.IsAsync">
+            <param name="Local" value="Classes/Metabase/TabSheetDataSource/TabSheetDataSource.IsAsync.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="TabSheetDataSource.isLoaded">
+            <param name="Local" value="Classes/Metabase/TabSheetDataSource/TabSheetDataSource.isLoaded.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="TabSheetDataSource.loadMeasures">
+            <param name="Local" value="Classes/Metabase/TabSheetDataSource/TabSheetDataSource.loadMeasures.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="TabSheetDataSource.loadRanges">
+            <param name="Local" value="Classes/Metabase/TabSheetDataSource/TabSheetDataSource.loadRanges.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="TabSheetDataSource.loadRangesfromJSON">
+            <param name="Local" value="Classes/Metabase/TabSheetDataSource/TabSheetDataSource.loadRangesfromJSON.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="TabSheetDataSource.loadSyncData">
+            <param name="Local" value="Classes/Metabase/TabSheetDataSource/TabSheetDataSource.loadSyncData.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="TabSheetDataSource.MeasuresLoaded">
+            <param name="Local" value="Classes/Metabase/TabSheetDataSource/TabSheetDataSource.MeasuresLoaded.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="TabSheetDataSource.ObjectsAsImage">
+            <param name="Local" value="Classes/Metabase/TabSheetDataSource/TabSheetDataSource.ObjectsAsImage.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="TabSheetDataSource.RangeLoaded">
+            <param name="Local" value="Classes/Metabase/TabSheetDataSource/TabSheetDataSource.RangeLoaded.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="TabSheetDataSource.Source">
+            <param name="Local" value="Classes/Metabase/TabSheetDataSource/TabSheetDataSource.Source.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Конструктор TabSheetDataSource">
+            <param name="Local" value="Classes/Metabase/TabSheetDataSource/Constructor_TabSheetDataSource.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="UserCreds">
+          <param name="Local" value="Classes/Metabase/UserCreds/UserCreds.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="UserCreds.Password">
+            <param name="Local" value="Classes/Metabase/UserCreds/UserCreds.Password.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="UserCreds.UserName">
+            <param name="Local" value="Classes/Metabase/UserCreds/UserCreds.UserName.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Конструктор UserCreds">
+            <param name="Local" value="Classes/Metabase/UserCreds/Constructor_UserCreds.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Перечисления">
+        <param name="Local" value="Classes/PP.Mb.htm#enum642b3b9347ca42c9b00b820c00c373fa=2">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="DbDataType">
+          <param name="Local" value="Enums/DbDataType.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="DmElRelative">
+          <param name="Local" value="Enums/DmElRelative.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="DmMethodKind">
+          <param name="Local" value="Enums/DmMethodKind.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="DrillMethod">
+          <param name="Local" value="Enums/DrillMethod.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="DrillMethodNumber">
+          <param name="Local" value="Enums/DrillMethodNumber.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="FaultCodes">
+          <param name="Local" value="Enums/FaultCodes.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="FindInfoAttribute">
+          <param name="Local" value="Enums/FindInfoAttribute.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ObjectCopyOperation">
+          <param name="Local" value="Enums/ObjectCopyOperation.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ResultType">
+          <param name="Local" value="Enums/ResultType.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="SelCommands">
+          <param name="Local" value="Enums/SelCommands.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="SourceType">
+          <param name="Local" value="Enums/SourceType.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TranslateMode">
+          <param name="Local" value="Enums/PP.Mb.TranslateMode.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TreeRelation">
+          <param name="Local" value="Enums/TreeRelation.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TriState">
+          <param name="Local" value="Enums/PP.Mb.TriState.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="PP.Navigator">
+      <param name="Local" value="Classes/PP.Navigator.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Классы">
+        <param name="Local" value="Classes/PP.Navigator.htm#642b3b9347ca42c9b00b820c00c373fa=1">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MetabaseDialogBase">
+          <param name="Local" value="Classes/Navigator/MetabaseDialogBase/MetabaseDialogBase.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="MetabaseDialogBase.addFilter">
+            <param name="Local" value="Classes/Navigator/MetabaseDialogBase/MetabaseDialogBase.addFilter.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="MetabaseDialogBase.changeObjectListMode">
+            <param name="Local" value="Classes/Navigator/MetabaseDialogBase/MetabaseDialogBase.changeObjectListMode.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="MetabaseDialogBase.clearFiltersSet">
+            <param name="Local" value="Classes/Navigator/MetabaseDialogBase/MetabaseDialogBase.clearFiltersSet.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="MetabaseDialogBase.clearSelection">
+            <param name="Local" value="Classes/Navigator/MetabaseDialogBase/MetabaseDialogBase.clearSelection.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="MetabaseDialogBase.FiltersSet">
+            <param name="Local" value="Classes/Navigator/MetabaseDialogBase/MetabaseDialogBase.FiltersSet.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="MetabaseDialogBase.getCurrentFilter">
+            <param name="Local" value="Classes/Navigator/MetabaseDialogBase/MetabaseDialogBase.getCurrentFilter.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="MetabaseDialogBase.getImagePath">
+            <param name="Local" value="Classes/Navigator/MetabaseDialogBase/MetabaseDialogBase.getImagePath.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="MetabaseDialogBase.getNavigatorBox">
+            <param name="Local" value="Classes/Navigator/MetabaseDialogBase/MetabaseDialogBase.getNavigatorBox.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="MetabaseDialogBase.getParentKey">
+            <param name="Local" value="Classes/Navigator/MetabaseDialogBase/MetabaseDialogBase.getParentKey.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="MetabaseDialogBase.getParentMbObject">
+            <param name="Local" value="Classes/Navigator/MetabaseDialogBase/MetabaseDialogBase.getParentMbObject.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="MetabaseDialogBase.getPathToRoot">
+            <param name="Local" value="Classes/Navigator/MetabaseDialogBase/MetabaseDialogBase.getPathToRoot.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="MetabaseDialogBase.openFoldersTo">
+            <param name="Local" value="Classes/Navigator/MetabaseDialogBase/MetabaseDialogBase.openFoldersTo.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="MetabaseDialogBase.OpenToKey">
+            <param name="Local" value="Classes/Navigator/MetabaseDialogBase/MetabaseDialogBase.OpenToKey.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="MetabaseDialogBase.recalcSize">
+            <param name="Local" value="Classes/Navigator/MetabaseDialogBase/MetabaseDialogBase.recalcSize.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="MetabaseDialogBase.refresh">
+            <param name="Local" value="Classes/Navigator/MetabaseDialogBase/MetabaseDialogBase.refresh.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="MetabaseDialogBase.refreshAll">
+            <param name="Local" value="Classes/Navigator/MetabaseDialogBase/MetabaseDialogBase.refreshAll.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="MetabaseDialogBase.removeFilter">
+            <param name="Local" value="Classes/Navigator/MetabaseDialogBase/MetabaseDialogBase.removeFilter.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="MetabaseDialogBase.selectFilter">
+            <param name="Local" value="Classes/Navigator/MetabaseDialogBase/MetabaseDialogBase.selectFilter.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="MetabaseDialogBase.setCollapsed">
+            <param name="Local" value="Classes/Navigator/MetabaseDialogBase/MetabaseDialogBase.setCollapsed.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Конструктор MetabaseDialogBase">
+            <param name="Local" value="Classes/Navigator/MetabaseDialogBase/Constructor_MetabaseDialogBase.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MetabaseSaveDialog">
+          <param name="Local" value="Classes/Navigator/MetabaseSaveDialog/MetabaseSaveDialog.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="MetabaseSaveDialog.DefaultId">
+            <param name="Local" value="Classes/Navigator/MetabaseSaveDialog/MetabaseSaveDialog.DefaultId.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="MetabaseSaveDialog.DefaultName">
+            <param name="Local" value="Classes/Navigator/MetabaseSaveDialog/MetabaseSaveDialog.DefaultName.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="MetabaseSaveDialog.getIdControl">
+            <param name="Local" value="Classes/Navigator/MetabaseSaveDialog/MetabaseSaveDialog.getIdControl.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="MetabaseSaveDialog.getNameControl">
+            <param name="Local" value="Classes/Navigator/MetabaseSaveDialog/MetabaseSaveDialog.getNameControl.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="MetabaseSaveDialog.Names">
+            <param name="Local" value="Classes/Navigator/MetabaseSaveDialog/MetabaseSaveDialog.Names.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="MetabaseSaveDialog.SaveAsObject">
+            <param name="Local" value="Classes/Navigator/MetabaseSaveDialog/MetabaseSaveDialog.SaveAsObject.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="MetabaseSaveDialog.ShowTranslateButton">
+            <param name="Local" value="Classes/Navigator/MetabaseSaveDialog/MetabaseSaveDialog.ShowTranslateButton.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="MetabaseSaveDialog.TranslateDialog">
+            <param name="Local" value="Classes/Navigator/MetabaseSaveDialog/MetabaseSaveDialog.TranslateDialog.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Конструктор MetabaseSaveDialog">
+            <param name="Local" value="Classes/Navigator/MetabaseSaveDialog/Constructor_MetabaseSaveDialog.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        </ul>
+      </ul>
+    </ul>
+</ul>
+</html>

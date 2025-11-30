@@ -1,0 +1,58 @@
+<html>
+<!-- Sitemap 1.0 -->
+<object type="text/site properties">
+  <param name="SiteType" value="toc">
+  <param name="Image Width" value="16">
+  <param name="Window Styles" value="0x800027">
+  <param name="ExWindow Styles" value="0x100">
+</object>
+<ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Построение отчётов с использованием надстройки Foresight Add-In for Word">
+    <param name="Local" value="Title.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Начало работы с надстройкой Foresight Add-in for Word">
+      <param name="Local" value="AddIn_Mode.htm">
+      <param name="ImageNumber" value="11">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Построение отчёта с использованием надстройки">
+      <param name="Local" value="Work/Word_Work.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Выбор источника данных">
+        <param name="Local" value="Work/AddSource.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Добавление объекта или отчёта из репозитория">
+        <param name="Local" value="Work/Insert_Object.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Работа с объектом или отчётом из репозитория">
+        <param name="Local" value="Work/ObjectsWork.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Использование интерактивных элементов управления данными">
+        <param name="Local" value="Work/Controls/Controls_work.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Использование пакетных операций">
+        <param name="Local" value="Work/Batch_Operations/Batch_Operations.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Сообщения об ошибках">
+      <param name="Local" value="Work/Word_Errors.htm">
+      <param name="ImageNumber" value="11">
+    </object>
+    </ul>
+</ul>
+</html>

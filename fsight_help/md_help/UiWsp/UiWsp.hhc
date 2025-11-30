@@ -1,0 +1,101 @@
+<html>
+<!-- Sitemap 1.0 -->
+<object type="text/site properties">
+  <param name="SiteType" value="toc">
+  <param name="Image Width" value="16">
+  <param name="Window Styles" value="0x800027">
+  <param name="ExWindow Styles" value="0x100">
+</object>
+<ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Рабочее пространство">
+    <param name="Local" value="1_intro/UiWsp_Intro.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Начало работы с инструментом «Рабочее пространство»">
+      <param name="Local" value="2_WorkSpace/UiWsp_WorkSpace_Starting.htm">
+      <param name="ImageNumber" value="11">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Построение рабочего пространства">
+      <param name="Local" value="2_WorkSpace/UiWsp_WorkSpace_Create.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Добавление и настройка объектов рабочего пространства">
+        <param name="Local" value="2_WorkSpace/Objects/UiWsp_Objects.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Создание точек соединения и линий между объектами">
+        <param name="Local" value="2_WorkSpace/Objects_Work/UiWsp_Objects_CreateLinks.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Создание и настройка обработчика событий">
+        <param name="Local" value="3_Settings/UiWsp_EventHandler.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Настройка оформления рабочего пространства">
+        <param name="Local" value="3_Settings/UiWsp_WorkSpace_SettingsView.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Оформление объектов">
+          <param name="Local" value="2_WorkSpace/Objects_Work/UiWsp_Object_Format.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Ввод и редактирование текста">
+          <param name="Local" value="2_WorkSpace/Objects_Work/UiWsp_ObjectsWork_AddEditText.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Добавление изображения в фигуру">
+          <param name="Local" value="2_WorkSpace/Objects_Work/Adding_an_image.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Создание копии рабочего пространства">
+        <param name="Local" value="2_WorkSpace/UiWsp_CopySave.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Работа с готовым рабочим пространством">
+      <param name="Local" value="3_Settings/Work_with_UiWsp.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Настройка рабочей области">
+        <param name="Local" value="3_Settings/UiWsp_workspace_setup.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Предварительный просмотр и печать рабочего пространства">
+        <param name="Local" value="2_WorkSpace/UiWsp_Preview.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Настройка параметров страницы">
+          <param name="Local" value="3_Settings/UiWsp_Settings_PageProp.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Экспорт рабочего пространства">
+        <param name="Local" value="3_Settings/UiWsp_Export.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Открытие объекта рабочего пространства">
+        <param name="Local" value="3_Settings/UiWsp_OpenObject.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      </ul>
+    </ul>
+</ul>
+</html>

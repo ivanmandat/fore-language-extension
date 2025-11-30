@@ -1,0 +1,780 @@
+<html>
+<!-- Sitemap 1.0 -->
+<object type="text/site properties">
+  <param name="SiteType" value="toc">
+  <param name="Image Width" value="16">
+  <param name="Window Styles" value="0x800027">
+  <param name="ExWindow Styles" value="0x100">
+</object>
+<ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="WebForms">
+    <param name="Local" value="WebForms_Title.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Интерфейсы сборки WebForms">
+      <param name="Local" value="Interface/WebForms_Interface.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IWebButton">
+        <param name="Local" value="Interface/IWebButton/IWebButton.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IWebCheckBox">
+        <param name="Local" value="Interface/IWebCheckBox/IWebCheckBox.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWebCheckBox.Checked">
+          <param name="Local" value="Interface/IWebCheckBox/IWebCheckBox.Checked.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWebCheckBox.State">
+          <param name="Local" value="Interface/IWebCheckBox/IWebCheckBox.State.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IWebClipboard">
+        <param name="Local" value="Interface/IWebClipboard/IWebClipboard.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWebClipboard.Text">
+          <param name="Local" value="Interface/IWebClipboard/IWebClipboard.Text.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IWebComboBox">
+        <param name="Local" value="Interface/IWebComboBox/IWebComboBox.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWebComboBox.BeginUpdate">
+          <param name="Local" value="Interface/IWebComboBox/IWebComboBox.BeginUpdate.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWebComboBox.EndUpdate">
+          <param name="Local" value="Interface/IWebComboBox/IWebComboBox.EndUpdate.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWebComboBox.ItemIndex">
+          <param name="Local" value="Interface/IWebComboBox/IWebComboBox.ItemIndex.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWebComboBox.Items">
+          <param name="Local" value="Interface/IWebComboBox/IWebComboBox.Items.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IWebCommandEventArgs">
+        <param name="Local" value="Interface/IWebCommandEventArgs/IWebCommandEventArgs.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWebCommandEventArgs.Argument">
+          <param name="Local" value="Interface/IWebCommandEventArgs/IWebCommandEventArgs.Argument.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWebCommandEventArgs.Command">
+          <param name="Local" value="Interface/IWebCommandEventArgs/IWebCommandEventArgs.Command.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWebCommandEventArgs.Result">
+          <param name="Local" value="Interface/IWebCommandEventArgs/IWebCommandEventArgs.Result.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IWebComponent">
+        <param name="Local" value="Interface/IWebComponent/IWebComponent.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IWebControl">
+        <param name="Local" value="Interface/IWebControl/IWebControl.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWebControl.BorderColor">
+          <param name="Local" value="Interface/IWebControl/IWebControl.BorderColor.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWebControl.Color">
+          <param name="Local" value="Interface/IWebControl/IWebControl.Color.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWebControl.Enabled">
+          <param name="Local" value="Interface/IWebControl/IWebControl.Enabled.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWebControl.PopupMenu">
+          <param name="Local" value="Interface/IWebControl/IWebControl.PopupMenu.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWebControl.Text">
+          <param name="Local" value="Interface/IWebControl/IWebControl.Text.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWebControl.Visible">
+          <param name="Local" value="Interface/IWebControl/IWebControl.Visible.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IWebDateTimePicker">
+        <param name="Local" value="Interface/IWebDateTimePicker/IWebDateTimePicker.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWebDateTimePicker.MaxValue">
+          <param name="Local" value="Interface/IWebDateTimePicker/IWebDateTimePicker.MaxValue.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWebDateTimePicker.MinValue">
+          <param name="Local" value="Interface/IWebDateTimePicker/IWebDateTimePicker.MinValue.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWebDateTimePicker.Valid">
+          <param name="Local" value="Interface/IWebDateTimePicker/IWebDateTimePicker.Valid.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWebDateTimePicker.Value">
+          <param name="Local" value="Interface/IWebDateTimePicker/IWebDateTimePicker.Value.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IWebDimensionCombo">
+        <param name="Local" value="Interface/IWebDimensionCombo/IWebDimensionCombo.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWebDimensionCombo.DimInstance">
+          <param name="Local" value="Interface/IWebDimensionCombo/IWebDimensionCombo.DimInstance.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWebDimensionCombo.Selection">
+          <param name="Local" value="Interface/IWebDimensionCombo/IWebDimensionCombo.Selection.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IWebDimensionTree">
+        <param name="Local" value="Interface/IWebDimensionTree/IWebDimensionTree.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWebDimensionTree.DimInstance">
+          <param name="Local" value="Interface/IWebDimensionTree/IWebDimensionTree.DimInstance.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWebDimensionTree.Selection">
+          <param name="Local" value="Interface/IWebDimensionTree/IWebDimensionTree.Selection.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IWebFileDialog">
+        <param name="Local" value="Interface/IWebFileDialog/IWebFileDialog.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWebFileDialog.Execute">
+          <param name="Local" value="Interface/IWebFileDialog/IWebFileDialog.Execute.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWebFileDialog.FileData">
+          <param name="Local" value="Interface/IWebFileDialog/IWebFileDialog.FileData.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWebFileDialog.FileName">
+          <param name="Local" value="Interface/IWebFileDialog/IWebFileDialog.FileName.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IWebFileOpenDialog">
+        <param name="Local" value="Interface/IWebFileOpenDialog/IWebFileOpenDialog.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWebFileOpenDialog.Filter">
+          <param name="Local" value="Interface/IWebFileOpenDialog/IWebFileOpenDialog.Filter.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IWebFileSaveDialog">
+        <param name="Local" value="Interface/IWebFileSaveDialog/IWebFileSaveDialog.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IWebFloatEdit">
+        <param name="Local" value="Interface/IWebFloatEdit/IWebFloatEdit.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWebFloatEdit.MaxValue">
+          <param name="Local" value="Interface/IWebFloatEdit/IWebFloatEdit.MaxValue.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWebFloatEdit.MinValue">
+          <param name="Local" value="Interface/IWebFloatEdit/IWebFloatEdit.MinValue.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWebFloatEdit.Valid">
+          <param name="Local" value="Interface/IWebFloatEdit/IWebFloatEdit.Valid.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWebFloatEdit.Value">
+          <param name="Local" value="Interface/IWebFloatEdit/IWebFloatEdit.Value.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IWebFormComponent">
+        <param name="Local" value="Interface/IWebFormComponent/IWebFormComponent.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWebFormComponent.Clipboard">
+          <param name="Local" value="Interface/IWebFormComponent/IWebFormComponent.Clipboard.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWebFormComponent.Close">
+          <param name="Local" value="Interface/IWebFormComponent/IWebFormComponent.Close.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWebFormComponent.ShowObject">
+          <param name="Local" value="Interface/IWebFormComponent/IWebFormComponent.ShowObject.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IWebFrame">
+        <param name="Local" value="Interface/IWebFrame/IWebFrame.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWebFrame.Form">
+          <param name="Local" value="Interface/IWebFrame/IWebFrame.Form.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IWebInput">
+        <param name="Local" value="Interface/IWebInput/IWebInput.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IWebIntegerEdit">
+        <param name="Local" value="Interface/IWebIntegerEdit/IWebIntegerEdit.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWebIntegerEdit.MaxValue">
+          <param name="Local" value="Interface/IWebIntegerEdit/IWebIntegerEdit.MaxValue.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWebIntegerEdit.MinValue">
+          <param name="Local" value="Interface/IWebIntegerEdit/IWebIntegerEdit.MinValue.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWebIntegerEdit.Valid">
+          <param name="Local" value="Interface/IWebIntegerEdit/IWebIntegerEdit.Valid.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWebIntegerEdit.Value">
+          <param name="Local" value="Interface/IWebIntegerEdit/IWebIntegerEdit.Value.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IWebLabel">
+        <param name="Local" value="Interface/IWebLabel/IWebLabel.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IWebMessageBox">
+        <param name="Local" value="Interface/IWebMessageBox/IWebMessageBox.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWebMessageBox.Show">
+          <param name="Local" value="Interface/IWebMessageBox/IWebMessageBox.Show.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IWebMetabaseTreeCombo">
+        <param name="Local" value="Interface/IWebMetabaseTreeCombo/IWebMetabaseTreeCombo.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWebMetabaseTreeCombo.Count">
+          <param name="Local" value="Interface/IWebMetabaseTreeCombo/IWebMetabaseTreeCombo.Count.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWebMetabaseTreeCombo.DeselectAll">
+          <param name="Local" value="Interface/IWebMetabaseTreeCombo/IWebMetabaseTreeCombo.DeselectAll.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWebMetabaseTreeCombo.Root">
+          <param name="Local" value="Interface/IWebMetabaseTreeCombo/IWebMetabaseTreeCombo.Root.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWebMetabaseTreeCombo.SelectedObjects">
+          <param name="Local" value="Interface/IWebMetabaseTreeCombo/IWebMetabaseTreeCombo.SelectedObjects.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWebMetabaseTreeCombo.SelectElement">
+          <param name="Local" value="Interface/IWebMetabaseTreeCombo/IWebMetabaseTreeCombo.SelectElement.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWebMetabaseTreeCombo.SelectElementKey">
+          <param name="Local" value="Interface/IWebMetabaseTreeCombo/IWebMetabaseTreeCombo.SelectElementKey.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IWebPanel">
+        <param name="Local" value="Interface/IWebPanel/IWebPanel.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IWebPopupMenu">
+        <param name="Local" value="Interface/IWebPopupMenu/IWebPopupMenu.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IWebRadioButton">
+        <param name="Local" value="Interface/IWebRadioButton/IWebRadioButton.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWebRadioButton.Checked">
+          <param name="Local" value="Interface/IWebRadioButton/IWebRadioButton.Checked.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IWebReportBox">
+        <param name="Local" value="Interface/IWebReportBox/IWebReportBox.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWebReportBox.Report">
+          <param name="Local" value="Interface/IWebReportBox/IWebReportBox.Report.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IWebTabControl">
+        <param name="Local" value="Interface/IWebTabControl/IWebTabControl.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWebTabControl.ActiveTab">
+          <param name="Local" value="Interface/IWebTabControl/IWebTabControl.ActiveTab.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWebTabControl.Pages">
+          <param name="Local" value="Interface/IWebTabControl/IWebTabControl.Pages.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IWebTabPage">
+        <param name="Local" value="Interface/IWebTabPage/IWebTabPage.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IWebTabPages">
+        <param name="Local" value="Interface/IWebTabPages/IWebTabPages.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWebTabPages.Count">
+          <param name="Local" value="Interface/IWebTabPages/IWebTabPages.Count.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWebTabPages.Item">
+          <param name="Local" value="Interface/IWebTabPages/IWebTabPages.Item.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IWebTextArea">
+        <param name="Local" value="Interface/IWebTextArea/IWebTextArea.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWebTextArea.Lines">
+          <param name="Local" value="Interface/IWebTextArea/IWebTextArea.Lines.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IWebTreeCombo">
+        <param name="Local" value="Interface/IWebTreeCombo/IWebTreeCombo.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IWebTreeControl">
+        <param name="Local" value="Interface/IWebTreeControl/IWebTreeControl.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWebTreeControl.BeginUpdate">
+          <param name="Local" value="Interface/IWebTreeControl/IWebTreeControl.BeginUpdate.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWebTreeControl.EndUpdate">
+          <param name="Local" value="Interface/IWebTreeControl/IWebTreeControl.EndUpdate.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWebTreeControl.Nodes">
+          <param name="Local" value="Interface/IWebTreeControl/IWebTreeControl.Nodes.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWebTreeControl.Selection">
+          <param name="Local" value="Interface/IWebTreeControl/IWebTreeControl.Selection.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IWebTreeList">
+        <param name="Local" value="Interface/IWebTreeList/IWebTreeList.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IWebTreeNode">
+        <param name="Local" value="Interface/IWebTreeNode/IWebTreeNode.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWebTreeNode.Data">
+          <param name="Local" value="Interface/IWebTreeNode/IWebTreeNode.Data.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWebTreeNode.Id">
+          <param name="Local" value="Interface/IWebTreeNode/IWebTreeNode.Id.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWebTreeNode.NextNode">
+          <param name="Local" value="Interface/IWebTreeNode/IWebTreeNode.NextNode.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWebTreeNode.Parent">
+          <param name="Local" value="Interface/IWebTreeNode/IWebTreeNode.Parent.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWebTreeNode.PreviousNode">
+          <param name="Local" value="Interface/IWebTreeNode/IWebTreeNode.PreviousNode.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWebTreeNode.Selected">
+          <param name="Local" value="Interface/IWebTreeNode/IWebTreeNode.Selected.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWebTreeNode.Text">
+          <param name="Local" value="Interface/IWebTreeNode/IWebTreeNode.Text.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IWebTreeNodes">
+        <param name="Local" value="Interface/IWebTreeNodes/IWebTreeNodes.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWebTreeNodes.Add">
+          <param name="Local" value="Interface/IWebTreeNodes/IWebTreeNodes.Add.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWebTreeNodes.AddChild">
+          <param name="Local" value="Interface/IWebTreeNodes/IWebTreeNodes.AddChild.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWebTreeNodes.AddToRoot">
+          <param name="Local" value="Interface/IWebTreeNodes/IWebTreeNodes.AddToRoot.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWebTreeNodes.Clear">
+          <param name="Local" value="Interface/IWebTreeNodes/IWebTreeNodes.Clear.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWebTreeNodes.Count">
+          <param name="Local" value="Interface/IWebTreeNodes/IWebTreeNodes.Count.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWebTreeNodes.Delete">
+          <param name="Local" value="Interface/IWebTreeNodes/IWebTreeNodes.Delete.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWebTreeNodes.DeselectAll">
+          <param name="Local" value="Interface/IWebTreeNodes/IWebTreeNodes.DeselectAll.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWebTreeNodes.FindById">
+          <param name="Local" value="Interface/IWebTreeNodes/IWebTreeNodes.FindById.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWebTreeNodes.FindByText">
+          <param name="Local" value="Interface/IWebTreeNodes/IWebTreeNodes.FindByText.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWebTreeNodes.FirstNode">
+          <param name="Local" value="Interface/IWebTreeNodes/IWebTreeNodes.FirstNode.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWebTreeNodes.Item">
+          <param name="Local" value="Interface/IWebTreeNodes/IWebTreeNodes.Item.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWebTreeNodes.SelectAll">
+          <param name="Local" value="Interface/IWebTreeNodes/IWebTreeNodes.SelectAll.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IWebTreeSelection">
+        <param name="Local" value="Interface/IWebTreeSelection/IWebTreeSelection.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWebTreeSelection.Count">
+          <param name="Local" value="Interface/IWebTreeSelection/IWebTreeSelection.Count.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWebTreeSelection.Item">
+          <param name="Local" value="Interface/IWebTreeSelection/IWebTreeSelection.Item.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Перечисления сборки WebForms">
+      <param name="Local" value="Enums/WebForms_Enums.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="WebCheckBoxState">
+        <param name="Local" value="Enums/WebCheckBoxState.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="WebDialogResult">
+        <param name="Local" value="Enums/WebDialogResult.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="WebInsertMode">
+        <param name="Local" value="Enums/WebInsertMode.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="WebMessageBoxButtons">
+        <param name="Local" value="Enums/WebMessageBoxButtons.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="WebMessageBoxIcon">
+        <param name="Local" value="Enums/WebMessageBoxIcon.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Классы сборки WebForms">
+      <param name="Local" value="Class/WebForms_Class.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="WebButton">
+        <param name="Local" value="Class/WebButton/WebButton.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="WebCheckBox">
+        <param name="Local" value="Class/WebCheckBox/WebCheckBox.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="WebComboBox">
+        <param name="Local" value="Class/WebComboBox/WebComboBox.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="WebDateTimePicker">
+        <param name="Local" value="Class/WebDateTimePicker/WebDateTimePicker.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="WebDimensionCombo">
+        <param name="Local" value="Class/WebDimensionCombo/WebDimensionCombo.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="WebDimensionTree">
+        <param name="Local" value="Class/WebDimensionTree/WebDimensionTree.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="WebFileOpenDialog">
+        <param name="Local" value="Class/WebFileOpenDialog/WebFileOpenDialog.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="WebFileSaveDialog">
+        <param name="Local" value="Class/WebFileSaveDialog/WebFileSaveDialog.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="WebFloatEdit">
+        <param name="Local" value="Class/WebFloatEdit/WebFloatEdit.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="WebForm">
+        <param name="Local" value="Class/WebForm/WebForm.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="WebFrame">
+        <param name="Local" value="Class/WebFrame/WebFrame.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="WebInput">
+        <param name="Local" value="Class/WebInput/WebInput.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="WebIntegerEdit">
+        <param name="Local" value="Class/WebIntegerEdit/WebIntegerEdit.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="WebLabel">
+        <param name="Local" value="Class/WebLabel/WebLabel.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="WebMessageBox">
+        <param name="Local" value="Class/WebMessageBox/WebMessageBox.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="WebMetabaseTreeCombo">
+        <param name="Local" value="Class/WebMetabaseTreeCombo/WebMetabaseTreeCombo.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="WebPanel">
+        <param name="Local" value="Class/WebPanel/WebPanel.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="WebPopupMenu">
+        <param name="Local" value="Class/WebPopupMenu/WebPopupMenu.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="WebRadioButton">
+        <param name="Local" value="Class/WebRadioButton/WebRadioButton.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="WebReportBox">
+        <param name="Local" value="Class/WebReportBox/WebReportBox.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="WebTabControl">
+        <param name="Local" value="Class/WebTabControl/WebTabControl.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="WebTabPage">
+        <param name="Local" value="Class/WebTabPage/WebTabPage.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="WebTextArea">
+        <param name="Local" value="Class/WebTextArea/WebTextArea.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="WebTreeCombo">
+        <param name="Local" value="Class/WebTreeCombo/WebTreeCombo.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="WebTreeList">
+        <param name="Local" value="Class/WebTreeList/WebTreeList.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      </ul>
+    </ul>
+</ul>
+</html>

@@ -1,0 +1,621 @@
+<html>
+<!-- Sitemap 1.0 -->
+<object type="text/site properties">
+  <param name="SiteType" value="index">
+</object>
+<ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Сборка Python">
+    <param name="Name" value="Сборка Python">
+    <param name="Local" value="KePython_Title.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Классы сборки Python">
+      <param name="Name" value="Классы сборки Python">
+      <param name="Local" value="Class/KePython_Class.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Перечисления сборки Python">
+      <param name="Name" value="Перечисления сборки Python">
+      <param name="Local" value="Enums/KePython_Enums.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Интерфейсы сборки Python">
+      <param name="Name" value="Интерфейсы сборки Python">
+      <param name="Local" value="Interface/KePython_Interface.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Введение в сборку Python">
+      <param name="Name" value="Введение: Сборка Python">
+      <param name="Local" value="Intro/Python_Intro.htm">
+    </object>
+    </ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Python">
+    <param name="Name" value="Сборка Python">
+    <param name="Local" value="KePython_Title.htm">
+    <param name="Name" value="Python: Класс">
+    <param name="Local" value="Class/Python/Python.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Интерфейсы сборки Python">
+      <param name="Name" value="Интерфейсы сборки Python">
+      <param name="Local" value="Interface/KePython_Interface.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Классы сборки Python">
+      <param name="Name" value="Классы сборки Python">
+      <param name="Local" value="Class/KePython_Class.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Перечисления сборки Python">
+      <param name="Name" value="Перечисления сборки Python">
+      <param name="Local" value="Enums/KePython_Enums.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Введение в сборку Python">
+      <param name="Name" value="Введение: Сборка Python">
+      <param name="Local" value="Intro/Python_Intro.htm">
+    </object>
+    </ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Python.Invoke">
+    <param name="Name" value="Python.Invoke">
+    <param name="Local" value="Class/Python/Python.Invoke.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Invoke">
+    <param name="Name" value="Python.Invoke">
+    <param name="Local" value="Class/Python/Python.Invoke.htm">
+    <param name="Name" value="IPythonClassObject.Invoke">
+    <param name="Local" value="Interface/IPythonClassObject/IPythonClassObject.Invoke.htm">
+    <param name="Name" value="IPythonUtils.Invoke">
+    <param name="Local" value="Interface/IPythonUtils/IPythonUtils.Invoke.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="PythonClassObject">
+    <param name="Name" value="PythonClassObject">
+    <param name="Local" value="Class/PythonClassObject/PythonClassObject.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="PythonClassObject.Create">
+    <param name="Name" value="PythonClassObject.Create">
+    <param name="Local" value="Class/PythonClassObject/PythonClassObject.Create.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Create">
+    <param name="Name" value="PythonClassObject.Create">
+    <param name="Local" value="Class/PythonClassObject/PythonClassObject.Create.htm">
+    <param name="Name" value="PythonList.Create">
+    <param name="Local" value="Class/PythonList/PythonList.Create.htm">
+    <param name="Name" value="PythonParameter.Create">
+    <param name="Local" value="Class/PythonParameter/PythonParameter.Create.htm">
+    <param name="Name" value="PythonTuple.Create">
+    <param name="Local" value="Class/PythonTuple/PythonTuple.Create.htm">
+    <param name="Name" value="PythonValueObject.Create">
+    <param name="Local" value="Class/PythonValueObject/PythonValueObject.Create.htm">
+    <param name="Name" value="PythonDictionary.Create">
+    <param name="Local" value="Class/PythonDictionary/PythonDictionary.Create.htm">
+    <param name="Name" value="PythonSet.Create">
+    <param name="Local" value="Class/PythonSet/PythonSet.Create.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="PythonException">
+    <param name="Name" value="PythonException">
+    <param name="Local" value="Class/PythonException/PythonException.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="PythonList">
+    <param name="Name" value="PythonList">
+    <param name="Local" value="Class/PythonList/PythonList.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="PythonList.Create">
+    <param name="Name" value="PythonList.Create">
+    <param name="Local" value="Class/PythonList/PythonList.Create.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="PythonParameter">
+    <param name="Name" value="PythonParameter">
+    <param name="Local" value="Class/PythonParameter/PythonParameter.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="PythonParameter.Create">
+    <param name="Name" value="PythonParameter.Create">
+    <param name="Local" value="Class/PythonParameter/PythonParameter.Create.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="PythonTuple">
+    <param name="Name" value="PythonTuple">
+    <param name="Local" value="Class/PythonTuple/PythonTuple.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="PythonTuple.Create">
+    <param name="Name" value="PythonTuple.Create">
+    <param name="Local" value="Class/PythonTuple/PythonTuple.Create.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="PythonUtils">
+    <param name="Name" value="PythonUtils">
+    <param name="Local" value="Class/PythonUtils/PythonUtils.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="PythonType">
+    <param name="Name" value="PythonType">
+    <param name="Local" value="Enums/PythonType.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IPythonClassObject">
+    <param name="Name" value="IPythonClassObject">
+    <param name="Local" value="Interface/IPythonClassObject/IPythonClassObject.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IPythonClassObject.GetAttr">
+    <param name="Name" value="IPythonClassObject.GetAttr">
+    <param name="Local" value="Interface/IPythonClassObject/IPythonClassObject.GetAttr.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GetAttr">
+    <param name="Name" value="IPythonClassObject.GetAttr">
+    <param name="Local" value="Interface/IPythonClassObject/IPythonClassObject.GetAttr.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IPythonClassObject.Invoke">
+    <param name="Name" value="IPythonClassObject.Invoke">
+    <param name="Local" value="Interface/IPythonClassObject/IPythonClassObject.Invoke.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IPythonClassObject.SetAttr">
+    <param name="Name" value="IPythonClassObject.SetAttr">
+    <param name="Local" value="Interface/IPythonClassObject/IPythonClassObject.SetAttr.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="SetAttr">
+    <param name="Name" value="IPythonClassObject.SetAttr">
+    <param name="Local" value="Interface/IPythonClassObject/IPythonClassObject.SetAttr.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IPythonException">
+    <param name="Name" value="IPythonException">
+    <param name="Local" value="Interface/IPythonException/IPythonException.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IPythonList">
+    <param name="Name" value="IPythonList">
+    <param name="Local" value="Interface/IPythonList/IPythonList.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IPythonList.Add">
+    <param name="Name" value="IPythonList.Add">
+    <param name="Local" value="Interface/IPythonList/IPythonList.Add.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Add">
+    <param name="Name" value="IPythonList.Add">
+    <param name="Local" value="Interface/IPythonList/IPythonList.Add.htm">
+    <param name="Name" value="IPythonSet.Add">
+    <param name="Local" value="Interface/IPythonSet/IPythonSet.Add.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IPythonList.Item">
+    <param name="Name" value="IPythonList.Item">
+    <param name="Local" value="Interface/IPythonList/IPythonList.Item.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Item">
+    <param name="Name" value="IPythonList.Item">
+    <param name="Local" value="Interface/IPythonList/IPythonList.Item.htm">
+    <param name="Name" value="IPythonTuple.Item">
+    <param name="Local" value="Interface/IPythonTuple/IPythonTuple.Item.htm">
+    <param name="Name" value="IPythonDictionary.Item">
+    <param name="Local" value="Interface/IPythonDictionary/IPythonDictionary.Item.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IPythonList.Length">
+    <param name="Name" value="IPythonList.Length">
+    <param name="Local" value="Interface/IPythonList/IPythonList.Length.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Length">
+    <param name="Name" value="IPythonList.Length">
+    <param name="Local" value="Interface/IPythonList/IPythonList.Length.htm">
+    <param name="Name" value="IPythonTuple.Length">
+    <param name="Local" value="Interface/IPythonTuple/IPythonTuple.Length.htm">
+    <param name="Name" value="IPythonDictionary.Length">
+    <param name="Local" value="Interface/IPythonDictionary/IPythonDictionary.Length.htm">
+    <param name="Name" value="IPythonSet.Length">
+    <param name="Local" value="Interface/IPythonSet/IPythonSet.Length.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IPythonList.SetAt">
+    <param name="Name" value="IPythonList.SetAt">
+    <param name="Local" value="Interface/IPythonList/IPythonList.SetAt.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="SetAt">
+    <param name="Name" value="IPythonList.SetAt">
+    <param name="Local" value="Interface/IPythonList/IPythonList.SetAt.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IPythonList.ToArray">
+    <param name="Name" value="IPythonList.ToArray">
+    <param name="Local" value="Interface/IPythonList/IPythonList.ToArray.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ToArray">
+    <param name="Name" value="IPythonList.ToArray">
+    <param name="Local" value="Interface/IPythonList/IPythonList.ToArray.htm">
+    <param name="Name" value="IPythonTuple.ToArray">
+    <param name="Local" value="Interface/IPythonTuple/IPythonTuple.ToArray.htm">
+    <param name="Name" value="IPythonSet.ToArray">
+    <param name="Local" value="Interface/IPythonSet/IPythonSet.ToArray.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IPythonObject">
+    <param name="Name" value="IPythonObject">
+    <param name="Local" value="Interface/IPythonObject/IPythonObject.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IPythonObject.Type">
+    <param name="Name" value="IPythonObject.Type">
+    <param name="Local" value="Interface/IPythonObject/IPythonObject.Type.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Type">
+    <param name="Name" value="IPythonObject.Type">
+    <param name="Local" value="Interface/IPythonObject/IPythonObject.Type.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Value">
+    <param name="Name" value="IPythonParameter.Value">
+    <param name="Local" value="Interface/IPythonParameter/IPythonParameter.Value.htm">
+    <param name="Name" value="IPythonValueObject.Value">
+    <param name="Local" value="Interface/IPythonValueObject/IPythonValueObject.Value.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IPythonParameter">
+    <param name="Name" value="IPythonParameter">
+    <param name="Local" value="Interface/IPythonParameter/IPythonParameter.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IPythonParameter.Name">
+    <param name="Name" value="IPythonParameter.Name">
+    <param name="Local" value="Interface/IPythonParameter/IPythonParameter.Name.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Name">
+    <param name="Name" value="IPythonParameter.Name">
+    <param name="Local" value="Interface/IPythonParameter/IPythonParameter.Name.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IPythonParameter.Value">
+    <param name="Name" value="IPythonParameter.Value">
+    <param name="Local" value="Interface/IPythonParameter/IPythonParameter.Value.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IPythonTuple">
+    <param name="Name" value="IPythonTuple">
+    <param name="Local" value="Interface/IPythonTuple/IPythonTuple.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IPythonTuple.Item">
+    <param name="Name" value="IPythonTuple.Item">
+    <param name="Local" value="Interface/IPythonTuple/IPythonTuple.Item.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IPythonTuple.Length">
+    <param name="Name" value="IPythonTuple.Length">
+    <param name="Local" value="Interface/IPythonTuple/IPythonTuple.Length.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IPythonTuple.ToArray">
+    <param name="Name" value="IPythonTuple.ToArray">
+    <param name="Local" value="Interface/IPythonTuple/IPythonTuple.ToArray.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IPythonUtils">
+    <param name="Name" value="IPythonUtils">
+    <param name="Local" value="Interface/IPythonUtils/IPythonUtils.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IPythonUtils.AddFolderToPythonPath">
+    <param name="Name" value="IPythonUtils.AddFolderToPythonPath">
+    <param name="Local" value="Interface/IPythonUtils/IPythonUtils.AddFolderToPythonPath.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="AddFolderToPythonPath">
+    <param name="Name" value="IPythonUtils.AddFolderToPythonPath">
+    <param name="Local" value="Interface/IPythonUtils/IPythonUtils.AddFolderToPythonPath.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IPythonUtils.Invoke">
+    <param name="Name" value="IPythonUtils.Invoke">
+    <param name="Local" value="Interface/IPythonUtils/IPythonUtils.Invoke.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Введение">
+    <param name="Name" value="Введение: Сборка Python">
+    <param name="Local" value="Intro/Python_Intro.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Примеры">
+    <param name="Name" value="Примеры: Сборка Python">
+    <param name="Local" value="Samples/Python_Samples.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Работа с методами интеллектуального анализа данных">
+      <param name="Name" value="Работа с методами интеллектуального анализа данных: Python">
+      <param name="Local" value="Samples/Use_LogisticRegression_from_Python.htm">
+    </object>
+    </ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IPythonValueObject">
+    <param name="Name" value="IPythonValueObject">
+    <param name="Local" value="Interface/IPythonValueObject/IPythonValueObject.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IPythonValueObject.Value">
+    <param name="Name" value="IPythonValueObject.Value">
+    <param name="Local" value="Interface/IPythonValueObject/IPythonValueObject.Value.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="PythonValueObject">
+    <param name="Name" value="PythonValueObject">
+    <param name="Local" value="Class/PythonValueObject/PythonValueObject.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="PythonValueObject.Create">
+    <param name="Name" value="PythonValueObject.Create">
+    <param name="Local" value="Class/PythonValueObject/PythonValueObject.Create.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IPythonModule.Modified">
+    <param name="Name" value="IPythonModule.Modified">
+    <param name="Local" value="Interface/IPythonModule/IPythonModule.Modified.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Modified">
+    <param name="Name" value="IPythonModule.Modified">
+    <param name="Local" value="Interface/IPythonModule/IPythonModule.Modified.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IPythonModule.Text">
+    <param name="Name" value="IPythonModule.Text">
+    <param name="Local" value="Interface/IPythonModule/IPythonModule.Text.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Text">
+    <param name="Name" value="IPythonModule.Text">
+    <param name="Local" value="Interface/IPythonModule/IPythonModule.Text.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="PythonClassObject.CreateFromModule">
+    <param name="Name" value="PythonClassObject.CreateFromModule">
+    <param name="Local" value="Class/PythonClassObject/PythonClassObject.CreateFromModule.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="CreateFromModule">
+    <param name="Name" value="PythonClassObject.CreateFromModule">
+    <param name="Local" value="Class/PythonClassObject/PythonClassObject.CreateFromModule.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IPythonModule">
+    <param name="Name" value="IPythonModule">
+    <param name="Local" value="Interface/IPythonModule/IPythonModule.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IPythonUtils.InvokeModule">
+    <param name="Name" value="IPythonUtils.InvokeModule">
+    <param name="Local" value="Interface/IPythonUtils/IPythonUtils.InvokeModule.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="InvokeModule">
+    <param name="Name" value="IPythonUtils.InvokeModule">
+    <param name="Local" value="Interface/IPythonUtils/IPythonUtils.InvokeModule.htm">
+    <param name="Name" value="Python.InvokeModule">
+    <param name="Local" value="Class/Python/Python.InvokeModule.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Python.InvokeModule">
+    <param name="Name" value="Python.InvokeModule">
+    <param name="Local" value="Class/Python/Python.InvokeModule.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="PythonSerializer">
+    <param name="Name" value="PythonSerializer">
+    <param name="Local" value="Class/PythonSerializer/PythonSerializer.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IPythonSerializer">
+    <param name="Name" value="IPythonSerializer">
+    <param name="Local" value="Interface/IPythonSerializer/IPythonSerializer.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IPythonSerializer.CreateLoaderFromFile">
+    <param name="Name" value="IPythonSerializer.CreateLoaderFromFile">
+    <param name="Local" value="Interface/IPythonSerializer/IPythonSerializer.CreateLoaderFromFile.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="CreateLoaderFromFile">
+    <param name="Name" value="IPythonSerializer.CreateLoaderFromFile">
+    <param name="Local" value="Interface/IPythonSerializer/IPythonSerializer.CreateLoaderFromFile.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IPythonSerializer.SaveModuleToFile">
+    <param name="Name" value="IPythonSerializer.SaveModuleToFile">
+    <param name="Local" value="Interface/IPythonSerializer/IPythonSerializer.SaveModuleToFile.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="SaveModuleToFile">
+    <param name="Name" value="IPythonSerializer.SaveModuleToFile">
+    <param name="Local" value="Interface/IPythonSerializer/IPythonSerializer.SaveModuleToFile.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IPythonSerializerLoader">
+    <param name="Name" value="IPythonSerializerLoader">
+    <param name="Local" value="Interface/IPythonSerializerLoader/IPythonSerializerLoader.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IPythonSerializerLoader.CreateInfo">
+    <param name="Name" value="IPythonSerializerLoader.CreateInfo">
+    <param name="Local" value="Interface/IPythonSerializerLoader/IPythonSerializerLoader.CreateInfo.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="CreateInfo">
+    <param name="Name" value="IPythonSerializerLoader.CreateInfo">
+    <param name="Local" value="Interface/IPythonSerializerLoader/IPythonSerializerLoader.CreateInfo.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IPythonSerializerLoader.LoadModule">
+    <param name="Name" value="IPythonSerializerLoader.LoadModule">
+    <param name="Local" value="Interface/IPythonSerializerLoader/IPythonSerializerLoader.LoadModule.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="LoadModule">
+    <param name="Name" value="IPythonSerializerLoader.LoadModule">
+    <param name="Local" value="Interface/IPythonSerializerLoader/IPythonSerializerLoader.LoadModule.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IPythonSerializerLoader.Metabase">
+    <param name="Name" value="IPythonSerializerLoader.Metabase">
+    <param name="Local" value="Interface/IPythonSerializerLoader/IPythonSerializerLoader.Metabase.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Metabase">
+    <param name="Name" value="IPythonSerializerLoader.Metabase">
+    <param name="Local" value="Interface/IPythonSerializerLoader/IPythonSerializerLoader.Metabase.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IPythonDictionary">
+    <param name="Name" value="IPythonDictionary">
+    <param name="Local" value="Interface/IPythonDictionary/IPythonDictionary.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IPythonDictionary.Clear">
+    <param name="Name" value="IPythonDictionary.Clear">
+    <param name="Local" value="Interface/IPythonDictionary/IPythonDictionary.Clear.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Clear">
+    <param name="Name" value="IPythonDictionary.Clear">
+    <param name="Local" value="Interface/IPythonDictionary/IPythonDictionary.Clear.htm">
+    <param name="Name" value="IPythonSet.Clear">
+    <param name="Local" value="Interface/IPythonSet/IPythonSet.Clear.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IPythonDictionary.Item">
+    <param name="Name" value="IPythonDictionary.Item">
+    <param name="Local" value="Interface/IPythonDictionary/IPythonDictionary.Item.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IPythonDictionary.Keys">
+    <param name="Name" value="IPythonDictionary.Keys">
+    <param name="Local" value="Interface/IPythonDictionary/IPythonDictionary.Keys.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Keys">
+    <param name="Name" value="IPythonDictionary.Keys">
+    <param name="Local" value="Interface/IPythonDictionary/IPythonDictionary.Keys.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IPythonDictionary.Length">
+    <param name="Name" value="IPythonDictionary.Length">
+    <param name="Local" value="Interface/IPythonDictionary/IPythonDictionary.Length.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IPythonDictionary.Pop">
+    <param name="Name" value="IPythonDictionary.Pop">
+    <param name="Local" value="Interface/IPythonDictionary/IPythonDictionary.Pop.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Pop">
+    <param name="Name" value="IPythonDictionary.Pop">
+    <param name="Local" value="Interface/IPythonDictionary/IPythonDictionary.Pop.htm">
+    <param name="Name" value="IPythonSet.Pop">
+    <param name="Local" value="Interface/IPythonSet/IPythonSet.Pop.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IPythonDictionary.Update">
+    <param name="Name" value="IPythonDictionary.Update">
+    <param name="Local" value="Interface/IPythonDictionary/IPythonDictionary.Update.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Update">
+    <param name="Name" value="IPythonDictionary.Update">
+    <param name="Local" value="Interface/IPythonDictionary/IPythonDictionary.Update.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IPythonDictionary.Values">
+    <param name="Name" value="IPythonDictionary.Values">
+    <param name="Local" value="Interface/IPythonDictionary/IPythonDictionary.Values.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Values">
+    <param name="Name" value="IPythonDictionary.Values">
+    <param name="Local" value="Interface/IPythonDictionary/IPythonDictionary.Values.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="PythonDictionary">
+    <param name="Name" value="PythonDictionary">
+    <param name="Local" value="Class/PythonDictionary/PythonDictionary.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="PythonDictionary.Create">
+    <param name="Name" value="PythonDictionary.Create">
+    <param name="Local" value="Class/PythonDictionary/PythonDictionary.Create.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="PythonSet">
+    <param name="Name" value="PythonSet">
+    <param name="Local" value="Class/PythonSet/PythonSet.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="PythonSet.Create">
+    <param name="Name" value="PythonSet.Create">
+    <param name="Local" value="Class/PythonSet/PythonSet.Create.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IPythonSet.Length">
+    <param name="Name" value="IPythonSet.Length">
+    <param name="Local" value="Interface/IPythonSet/IPythonSet.Length.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IPythonSet.Pop">
+    <param name="Name" value="IPythonSet.Pop">
+    <param name="Local" value="Interface/IPythonSet/IPythonSet.Pop.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IPythonSet">
+    <param name="Name" value="IPythonSet">
+    <param name="Local" value="Interface/IPythonSet/IPythonSet.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IPythonSet.Remove">
+    <param name="Name" value="IPythonSet.Remove">
+    <param name="Local" value="Interface/IPythonSet/IPythonSet.Remove.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Remove">
+    <param name="Name" value="IPythonSet.Remove">
+    <param name="Local" value="Interface/IPythonSet/IPythonSet.Remove.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IPythonSet.Add">
+    <param name="Name" value="IPythonSet.Add">
+    <param name="Local" value="Interface/IPythonSet/IPythonSet.Add.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IPythonSet.ToArray">
+    <param name="Name" value="IPythonSet.ToArray">
+    <param name="Local" value="Interface/IPythonSet/IPythonSet.ToArray.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IPythonSet.Clear">
+    <param name="Name" value="IPythonSet.Clear">
+    <param name="Local" value="Interface/IPythonSet/IPythonSet.Clear.htm">
+  </object>
+</ul>
+</html>

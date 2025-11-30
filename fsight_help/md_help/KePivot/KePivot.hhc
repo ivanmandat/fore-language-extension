@@ -1,0 +1,2647 @@
+<html>
+<!-- Sitemap 1.0 -->
+<object type="text/site properties">
+  <param name="SiteType" value="toc">
+  <param name="Image Width" value="16">
+  <param name="Window Styles" value="0x800027">
+  <param name="ExWindow Styles" value="0x100">
+</object>
+<ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Pivot">
+    <param name="Local" value="Intro/KePivot_TitlePage.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Введение в сборку Pivot">
+      <param name="Local" value="KePivot_Introduction.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Общие принципы программирования с использованием сборки Pivot">
+        <param name="Local" value="Intro/KePivot_Programming.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Настройка отображения данных таблицы">
+          <param name="Local" value="Intro/Common_view_table.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Иерархия сборки Pivot">
+        <param name="Local" value="Intro/KePivot_Hierarchy.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Распределение">
+          <param name="Local" value="Intro/Hierarchy/Hierarchy_Pareto.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Подсветка данных в таблице">
+          <param name="Local" value="Intro/Hierarchy/Hierarchy_Highlight.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Работа с вычисляемыми показателями">
+          <param name="Local" value="Intro/Hierarchy/Hierarchy_Evaluator.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Работа с данными таблицы">
+          <param name="Local" value="Intro/Hierarchy/Hierarchy_Tables.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Работа с заголовками таблицы">
+          <param name="Local" value="Intro/Hierarchy/Hierarchy_Header.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Работа с измерениями источников данных">
+          <param name="Local" value="Intro/Hierarchy/Hierarchy_Dimensions.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Сортировка данных">
+          <param name="Local" value="Intro/Hierarchy/Hierarchy_Sort.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Фильтрация данных">
+          <param name="Local" value="Intro/Hierarchy/Hierarchy_Filter.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Обработка событий таблицы">
+          <param name="Local" value="Intro/Hierarchy/Hierarchy_Events.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Интерфейсы сборки Pivot">
+      <param name="Local" value="Interface/KePivot_Interface.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IPivot">
+        <param name="Local" value="Interface/IPivot/IPivot.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivot.AddEventHandler">
+          <param name="Local" value="Interface/IPivot/IPivot.AddEventHandler.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivot.AddHierarchy">
+          <param name="Local" value="Interface/IPivot/IPivot.AddHierarchy.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivot.AggregationElement">
+          <param name="Local" value="Interface/IPivot/IPivot.AggregationElement.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivot.BeginSelectionUpdate">
+          <param name="Local" value="Interface/IPivot/IPivot.BeginSelectionUpdate.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivot.BeginUpdate">
+          <param name="Local" value="Interface/IPivot/IPivot.BeginUpdate.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivot.BroughtOutDim">
+          <param name="Local" value="Interface/IPivot/IPivot.BroughtOutDim.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivot.BroughtOutDimValue">
+          <param name="Local" value="Interface/IPivot/IPivot.BroughtOutDimValue.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivot.BuildWithEmptyHeader">
+          <param name="Local" value="Interface/IPivot/IPivot.BuildWithEmptyHeader.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivot.CalculateDataRights">
+          <param name="Local" value="Interface/IPivot/IPivot.CalculateDataRights.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivot.CanEdit">
+          <param name="Local" value="Interface/IPivot/IPivot.CanEdit.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivot.CanUngroupElement">
+          <param name="Local" value="Interface/IPivot/IPivot.CanUngroupElement.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivot.ContainsHierarchy">
+          <param name="Local" value="Interface/IPivot/IPivot.ContainsHierarchy.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivot.DataCacheEnabled">
+          <param name="Local" value="Interface/IPivot/IPivot.DataCacheEnabled.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivot.DataSource">
+          <param name="Local" value="Interface/IPivot/IPivot.DataSource.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivot.DimCount">
+          <param name="Local" value="Interface/IPivot/IPivot.DimCount.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivot.DimElementsDetailing">
+          <param name="Local" value="Interface/IPivot/IPivot.DimElementsDetailing.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivot.Dimensions">
+          <param name="Local" value="Interface/IPivot/IPivot.Dimensions.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivot.DimItem">
+          <param name="Local" value="Interface/IPivot/IPivot.DimItem.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivot.DrillThrough">
+          <param name="Local" value="Interface/IPivot/IPivot.DrillThrough.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivot.EndSelectionUpdate">
+          <param name="Local" value="Interface/IPivot/IPivot.EndSelectionUpdate.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivot.EndUpdate">
+          <param name="Local" value="Interface/IPivot/IPivot.EndUpdate.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivot.EndUpdateEx">
+          <param name="Local" value="Interface/IPivot/IPivot.EndUpdateEx.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivot.Evaluator">
+          <param name="Local" value="Interface/IPivot/IPivot.Evaluator.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivot.EventsEnabled">
+          <param name="Local" value="Interface/IPivot/IPivot.EventsEnabled.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivot.Filter">
+          <param name="Local" value="Interface/IPivot/IPivot.Filter.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivot.FilterHeader">
+          <param name="Local" value="Interface/IPivot/IPivot.FilterHeader.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivot.FixedElementsAggregation">
+          <param name="Local" value="Interface/IPivot/IPivot.FixedElementsAggregation.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivot.FixedHeader">
+          <param name="Local" value="Interface/IPivot/IPivot.FixedHeader.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivot.FlushDataCache">
+          <param name="Local" value="Interface/IPivot/IPivot.FlushDataCache.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivot.GroupElement">
+          <param name="Local" value="Interface/IPivot/IPivot.GroupElement.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivot.HasScaledData">
+          <param name="Local" value="Interface/IPivot/IPivot.HasScaledData.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivot.HeadersAndData">
+          <param name="Local" value="Interface/IPivot/IPivot.HeadersAndData.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivot.Highlight">
+          <param name="Local" value="Interface/IPivot/IPivot.Highlight.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivot.IsAggregationCalced">
+          <param name="Local" value="Interface/IPivot/IPivot.IsAggregationCalced.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivot.IsCalced">
+          <param name="Local" value="Interface/IPivot/IPivot.IsCalced.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivot.IsDimEnabled">
+          <param name="Local" value="Interface/IPivot/IPivot.IsDimEnabled.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivot.IsEditEnabled">
+          <param name="Local" value="Interface/IPivot/IPivot.IsEditEnabled.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivot.IsFactsAggregationAvailable">
+          <param name="Local" value="Interface/IPivot/IPivot.IsFactsAggregationAvailable.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivot.IsReadyToExecute">
+          <param name="Local" value="Interface/IPivot/IPivot.IsReadyToExecute.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivot.KeepDataMatrix">
+          <param name="Local" value="Interface/IPivot/IPivot.KeepDataMatrix.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivot.LastException">
+          <param name="Local" value="Interface/IPivot/IPivot.LastException.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivot.LeftHeader">
+          <param name="Local" value="Interface/IPivot/IPivot.LeftHeader.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivot.LocalExecuting">
+          <param name="Local" value="Interface/IPivot/IPivot.LocalExecuting.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivot.Locked">
+          <param name="Local" value="Interface/IPivot/IPivot.Locked.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivot.Matrix">
+          <param name="Local" value="Interface/IPivot/IPivot.Matrix.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivot.MergedAdditionalNamingMode">
+          <param name="Local" value="Interface/IPivot/IPivot.MergedAdditionalNamingMode.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivot.MergedAdditionalNamingSeparator">
+          <param name="Local" value="Interface/IPivot/IPivot.MergedAdditionalNamingSeparator.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivot.MergedNamingMode">
+          <param name="Local" value="Interface/IPivot/IPivot.MergedNamingMode.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivot.MergedNamingSeparator">
+          <param name="Local" value="Interface/IPivot/IPivot.MergedNamingSeparator.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivot.ObtainDataMode">
+          <param name="Local" value="Interface/IPivot/IPivot.ObtainDataMode.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivot.ObtainTable">
+          <param name="Local" value="Interface/IPivot/IPivot.ObtainTable.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivot.ObtainTables">
+          <param name="Local" value="Interface/IPivot/IPivot.ObtainTables.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivot.Pareto">
+          <param name="Local" value="Interface/IPivot/IPivot.Pareto.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivot.RankAreaType">
+          <param name="Local" value="Interface/IPivot/IPivot.RankAreaType.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivot.RankType">
+          <param name="Local" value="Interface/IPivot/IPivot.RankType.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivot.RebuildCompounds">
+          <param name="Local" value="Interface/IPivot/IPivot.RebuildCompounds.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivot.Refresh">
+          <param name="Local" value="Interface/IPivot/IPivot.Refresh.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivot.RemoveEventHandler">
+          <param name="Local" value="Interface/IPivot/IPivot.RemoveEventHandler.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivot.RemoveHierarchy">
+          <param name="Local" value="Interface/IPivot/IPivot.RemoveHierarchy.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivot.Selection">
+          <param name="Local" value="Interface/IPivot/IPivot.Selection.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivot.SeparateCombinedDimsNamings">
+          <param name="Local" value="Interface/IPivot/IPivot.SeparateCombinedDimsNamings.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivot.SetDataSource">
+          <param name="Local" value="Interface/IPivot/IPivot.SetDataSource.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivot.SortDiapason">
+          <param name="Local" value="Interface/IPivot/IPivot.SortDiapason.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivot.Sorter">
+          <param name="Local" value="Interface/IPivot/IPivot.Sorter.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivot.SplitNamings">
+          <param name="Local" value="Interface/IPivot/IPivot.SplitNamings.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivot.Stub">
+          <param name="Local" value="Interface/IPivot/IPivot.Stub.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivot.TableNoData">
+          <param name="Local" value="Interface/IPivot/IPivot.TableNoData.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivot.TopHeader">
+          <param name="Local" value="Interface/IPivot/IPivot.TopHeader.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivot.Turn">
+          <param name="Local" value="Interface/IPivot/IPivot.Turn.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivot.UndoRedo">
+          <param name="Local" value="Interface/IPivot/IPivot.UndoRedo.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivot.UngroupElement">
+          <param name="Local" value="Interface/IPivot/IPivot.UngroupElement.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivot.UnmatchedUnitsText">
+          <param name="Local" value="Interface/IPivot/IPivot.UnmatchedUnitsText.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivot.UseDataCache">
+          <param name="Local" value="Interface/IPivot/IPivot.UseDataCache.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivot.ValueAreaType">
+          <param name="Local" value="Interface/IPivot/IPivot.ValueAreaType.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivot.ValueType">
+          <param name="Local" value="Interface/IPivot/IPivot.ValueType.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivot.ViewMode">
+          <param name="Local" value="Interface/IPivot/IPivot.ViewMode.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivot.ViewOptions">
+          <param name="Local" value="Interface/IPivot/IPivot.ViewOptions.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IPivotClass">
+        <param name="Local" value="Interface/IPivotClass/IPivotClass.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotClass.ActivePivot">
+          <param name="Local" value="Interface/IPivotClass/IPivotClass.ActivePivot.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotClass.SubTotal">
+          <param name="Local" value="Interface/IPivotClass/IPivotClass.SubTotal.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotClass.Total">
+          <param name="Local" value="Interface/IPivotClass/IPivotClass.Total.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IPivotCustomDimNaming">
+        <param name="Local" value="Interface/IPivotCustomDimNaming/IPivotCustomDimNaming.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotCustomDimNaming.Dimension">
+          <param name="Local" value="Interface/IPivotCustomDimNaming/IPivotCustomDimNaming.Dimension.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotCustomDimNaming.ElementName">
+          <param name="Local" value="Interface/IPivotCustomDimNaming/IPivotCustomDimNaming.ElementName.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotCustomDimNaming.Enabled">
+          <param name="Local" value="Interface/IPivotCustomDimNaming/IPivotCustomDimNaming.Enabled.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotCustomDimNaming.Expression">
+          <param name="Local" value="Interface/IPivotCustomDimNaming/IPivotCustomDimNaming.Expression.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IPivotDimension">
+        <param name="Local" value="Interface/IPivotDimension/IPivotDimension.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotDimension.DimInstance">
+          <param name="Local" value="Interface/IPivotDimension/IPivotDimension.DimInstance.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotDimension.Levels">
+          <param name="Local" value="Interface/IPivotDimension/IPivotDimension.Levels.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotDimension.Settings">
+          <param name="Local" value="Interface/IPivotDimension/IPivotDimension.Settings.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IPivotDimensionFilterSettings">
+        <param name="Local" value="Interface/IPivotDimensionFilterSettings/IPivotDimensionFilterSettings.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotDimensionFilterSettings.Condition">
+          <param name="Local" value="Interface/IPivotDimensionFilterSettings/IPivotDimensionFilterSettings.Condition.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotDimensionFilterSettings.KeepParent">
+          <param name="Local" value="Interface/IPivotDimensionFilterSettings/IPivotDimensionFilterSettings.KeepParent.htm">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotDimensionFilterSettings.UseCondition">
+          <param name="Local" value="Interface/IPivotDimensionFilterSettings/IPivotDimensionFilterSettings.UseCondition.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IPivotDimensionLevel">
+        <param name="Local" value="Interface/IPivotDimensionLevel/IPivotDimensionLevel.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotDimensionLevel.Dimension">
+          <param name="Local" value="Interface/IPivotDimensionLevel/IPivotDimensionLevel.Dimension.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotDimensionLevel.Level">
+          <param name="Local" value="Interface/IPivotDimensionLevel/IPivotDimensionLevel.Level.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IPivotDimensionLevelNumbering">
+        <param name="Local" value="Interface/IPivotDimensionLevelNumbering/IPivotDimensionLevelNumbering.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotDimensionLevelNumbering.Enable">
+          <param name="Local" value="Interface/IPivotDimensionLevelNumbering/IPivotDimensionLevelNumbering.Enable.htm">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotDimensionLevelNumbering.Format">
+          <param name="Local" value="Interface/IPivotDimensionLevelNumbering/IPivotDimensionLevelNumbering.Format.htm">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotDimensionLevelNumbering.IsEnabled">
+          <param name="Local" value="Interface/IPivotDimensionLevelNumbering/IPivotDimensionLevelNumbering.IsEnabled.htm">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotDimensionLevelNumbering.Separator">
+          <param name="Local" value="Interface/IPivotDimensionLevelNumbering/IPivotDimensionLevelNumbering.Separator.htm">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotDimensionLevelNumbering.Type">
+          <param name="Local" value="Interface/IPivotDimensionLevelNumbering/IPivotDimensionLevelNumbering.Type.htm">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IPivotDimensionLevelProperties">
+        <param name="Local" value="Interface/IPivotDimensionLevelProperties/IPivotDimensionLevelProperties.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotDimensionLevelProperties.Namings">
+          <param name="Local" value="Interface/IPivotDimensionLevelProperties/IPivotDimensionLevelProperties.Namings.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotDimensionLevelProperties.Numbering">
+          <param name="Local" value="Interface/IPivotDimensionLevelProperties/IPivotDimensionLevelProperties.Numbering.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IPivotDimensionLevelPropertiesCommon">
+        <param name="Local" value="Interface/IPivotDimensionLevelPropertiesCommon/IPivotDimensionLevelPropertiesCommon.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotDimensionLevelPropertiesCommon.ChildrenBeforeParents">
+          <param name="Local" value="Interface/IPivotDimensionLevelPropertiesCommon/IPivotDimensionLevelPropertiesCommon.ChildrenBeforeParents.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotDimensionLevelPropertiesCommon.CollapseChildren">
+          <param name="Local" value="Interface/IPivotDimensionLevelPropertiesCommon/IPivotDimensionLevelPropertiesCommon.CollapseChildren.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotDimensionLevelPropertiesCommon.DuplicateParent">
+          <param name="Local" value="Interface/IPivotDimensionLevelPropertiesCommon/IPivotDimensionLevelPropertiesCommon.DuplicateParent.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotDimensionLevelPropertiesCommon.IsChildrenBeforeParents">
+          <param name="Local" value="Interface/IPivotDimensionLevelPropertiesCommon/IPivotDimensionLevelPropertiesCommon.IsChildrenBeforeParents.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotDimensionLevelPropertiesCommon.IsCollapseChildren">
+          <param name="Local" value="Interface/IPivotDimensionLevelPropertiesCommon/IPivotDimensionLevelPropertiesCommon.IsCollapseChildren.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotDimensionLevelPropertiesCommon.IsDuplicateParent">
+          <param name="Local" value="Interface/IPivotDimensionLevelPropertiesCommon/IPivotDimensionLevelPropertiesCommon.IsDuplicateParent.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotDimensionLevelPropertiesCommon.IsSeparated">
+          <param name="Local" value="Interface/IPivotDimensionLevelPropertiesCommon/IPivotDimensionLevelPropertiesCommon.IsSeparated.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotDimensionLevelPropertiesCommon.Separated">
+          <param name="Local" value="Interface/IPivotDimensionLevelPropertiesCommon/IPivotDimensionLevelPropertiesCommon.Separated.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IPivotDimensionLevels">
+        <param name="Local" value="Interface/IPivotDimensionLevels/IPivotDimensionLevels.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotDimensionLevels.Count">
+          <param name="Local" value="Interface/IPivotDimensionLevels/IPivotDimensionLevels.Count.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotDimensionLevels.Dimension">
+          <param name="Local" value="Interface/IPivotDimensionLevels/IPivotDimensionLevels.Dimension.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotDimensionLevels.Item">
+          <param name="Local" value="Interface/IPivotDimensionLevels/IPivotDimensionLevels.Item.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IPivotDimensions">
+        <param name="Local" value="Interface/IPivotDimensions/IPivotDimensions.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotDimensions.Count">
+          <param name="Local" value="Interface/IPivotDimensions/IPivotDimensions.Count.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotDimensions.FindByKey">
+          <param name="Local" value="Interface/IPivotDimensions/IPivotDimensions.FindByKey.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotDimensions.Item">
+          <param name="Local" value="Interface/IPivotDimensions/IPivotDimensions.Item.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IPivotDimensionSettings">
+        <param name="Local" value="Interface/IPivotDimensionSettings/IPivotDimensionSettings.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotDimensionSettings.GetKeepLeafParents">
+          <param name="Local" value="Interface/IPivotDimensionSettings/IPivotDimensionSettings.GetKeepLeafParents.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotDimensionSettings.IsJoinAdditionalAttributes">
+          <param name="Local" value="Interface/IPivotDimensionSettings/IPivotDimensionSettings.IsJoinAdditionalAttributes.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotDimensionSettings.IsLeafElementsOnly">
+          <param name="Local" value="Interface/IPivotDimensionSettings/IPivotDimensionSettings.IsLeafElementsOnly.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotDimensionSettings.JoinAdditionalAttributes">
+          <param name="Local" value="Interface/IPivotDimensionSettings/IPivotDimensionSettings.JoinAdditionalAttributes.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotDimensionSettings.KeepLeafParents">
+          <param name="Local" value="Interface/IPivotDimensionSettings/IPivotDimensionSettings.KeepLeafParents.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotDimensionSettings.LeafElementsOnly">
+          <param name="Local" value="Interface/IPivotDimensionSettings/IPivotDimensionSettings.LeafElementsOnly.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IPivotDimensionSettingsEx">
+        <param name="Local" value="Interface/IPivotDimensionSettingsEx/IPivotDimensionSettingsEx.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotDimensionSettingsEx.Filter">
+          <param name="Local" value="Interface/IPivotDimensionSettingsEx/IPivotDimensionSettingsEx.Filter.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotDimensionSettingsEx.MergedElement">
+          <param name="Local" value="Interface/IPivotDimensionSettingsEx/IPivotDimensionSettingsEx.MergedElement.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotDimensionSettingsEx.MergedSelection">
+          <param name="Local" value="Interface/IPivotDimensionSettingsEx/IPivotDimensionSettingsEx.MergedSelection.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotDimensionSettingsEx.MergeTopDown">
+          <param name="Local" value="Interface/IPivotDimensionSettingsEx/IPivotDimensionSettingsEx.MergeTopDown.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotDimensionSettingsEx.TotalsEnabled">
+          <param name="Local" value="Interface/IPivotDimensionSettingsEx/IPivotDimensionSettingsEx.TotalsEnabled.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IPivotDimElementsDetailing">
+        <param name="Local" value="Interface/IPivotDimElementsDetailing/IPivotDimElementsDetailing.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotDimElementsDetailing.Add">
+          <param name="Local" value="Interface/IPivotDimElementsDetailing/IPivotDimElementsDetailing.Add.htm">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotDimElementsDetailing.Clear">
+          <param name="Local" value="Interface/IPivotDimElementsDetailing/IPivotDimElementsDetailing.Clear.htm">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotDimElementsDetailing.Count">
+          <param name="Local" value="Interface/IPivotDimElementsDetailing/IPivotDimElementsDetailing.Count.htm">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotDimElementsDetailing.Item">
+          <param name="Local" value="Interface/IPivotDimElementsDetailing/IPivotDimElementsDetailing.Item.htm">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotDimElementsDetailing.Remove">
+          <param name="Local" value="Interface/IPivotDimElementsDetailing/IPivotDimElementsDetailing.Remove.htm">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IPivotDimElementsDetailingItem">
+        <param name="Local" value="Interface/IPivotDimElementsDetailingItem/IPivotDimElementsDetailingItem.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotDimElementsDetailingItem.Elements">
+          <param name="Local" value="Interface/IPivotDimElementsDetailingItem/IPivotDimElementsDetailingItem.Elements.htm">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotDimElementsDetailingItem.Selection">
+          <param name="Local" value="Interface/IPivotDimElementsDetailingItem/IPivotDimElementsDetailingItem.Selection.htm">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IPivotDimNaming">
+        <param name="Local" value="Interface/IPivotDimNaming/IPivotDimNaming.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotDimNaming.Expression">
+          <param name="Local" value="Interface/IPivotDimNaming/IPivotDimNaming.Expression.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IPivotDimNamings">
+        <param name="Local" value="Interface/IPivotDimNamings/IPivotDimNamings.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotDimNamings.Add">
+          <param name="Local" value="Interface/IPivotDimNamings/IPivotDimNamings.Add.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotDimNamings.Clear">
+          <param name="Local" value="Interface/IPivotDimNamings/IPivotDimNamings.Clear.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotDimNamings.Count">
+          <param name="Local" value="Interface/IPivotDimNamings/IPivotDimNamings.Count.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotDimNamings.CustomNaming">
+          <param name="Local" value="Interface/IPivotDimNamings/IPivotDimNamings.CustomNaming.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotDimNamings.Item">
+          <param name="Local" value="Interface/IPivotDimNamings/IPivotDimNamings.Item.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotDimNamings.Move">
+          <param name="Local" value="Interface/IPivotDimNamings/IPivotDimNamings.Move.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotDimNamings.Remove">
+          <param name="Local" value="Interface/IPivotDimNamings/IPivotDimNamings.Remove.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IPivotEvaluator">
+        <param name="Local" value="Interface/IPivotEvaluator/IPivotEvaluator.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotEvaluator.DimCalculates">
+          <param name="Local" value="Interface/IPivotEvaluator/IPivotEvaluator.DimCalculates.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotEvaluator.Dynamics">
+          <param name="Local" value="Interface/IPivotEvaluator/IPivotEvaluator.Dynamics.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotEvaluator.Totals">
+          <param name="Local" value="Interface/IPivotEvaluator/IPivotEvaluator.Totals.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IPivotEvaluatorDimCalculates">
+        <param name="Local" value="Interface/IPivotEvaluatorDimCalculates/IPivotEvaluatorDimCalculates.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotEvaluatorDimCalculates.Clear">
+          <param name="Local" value="Interface/IPivotEvaluatorDimCalculates/IPivotEvaluatorDimCalculates.Clear.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotEvaluatorDimCalculates.Count">
+          <param name="Local" value="Interface/IPivotEvaluatorDimCalculates/IPivotEvaluatorDimCalculates.Count.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotEvaluatorDimCalculates.FindByDimKey">
+          <param name="Local" value="Interface/IPivotEvaluatorDimCalculates/IPivotEvaluatorDimCalculates.FindByDimKey.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotEvaluatorDimCalculates.Item">
+          <param name="Local" value="Interface/IPivotEvaluatorDimCalculates/IPivotEvaluatorDimCalculates.Item.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IPivotEvaluatorDimCalculatesItem">
+        <param name="Local" value="Interface/IPivotEvaluatorDimCalculatesItem/IPivotEvaluatorDimCalculatesItem.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotEvaluatorDimCalculatesItem.AddCalculatedElement">
+          <param name="Local" value="Interface/IPivotEvaluatorDimCalculatesItem/IPivotEvaluatorDimCalculatesItem.AddCalculatedElement.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotEvaluatorDimCalculatesItem.AddPercentCalculate">
+          <param name="Local" value="Interface/IPivotEvaluatorDimCalculatesItem/IPivotEvaluatorDimCalculatesItem.AddPercentCalculate.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotEvaluatorDimCalculatesItem.CalculatedElement">
+          <param name="Local" value="Interface/IPivotEvaluatorDimCalculatesItem/IPivotEvaluatorDimCalculatesItem.CalculatedElement.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotEvaluatorDimCalculatesItem.CalculatedName">
+          <param name="Local" value="Interface/IPivotEvaluatorDimCalculatesItem/IPivotEvaluatorDimCalculatesItem.CalculatedName.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotEvaluatorDimCalculatesItem.Clear">
+          <param name="Local" value="Interface/IPivotEvaluatorDimCalculatesItem/IPivotEvaluatorDimCalculatesItem.Clear.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotEvaluatorDimCalculatesItem.Count">
+          <param name="Local" value="Interface/IPivotEvaluatorDimCalculatesItem/IPivotEvaluatorDimCalculatesItem.Count.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotEvaluatorDimCalculatesItem.Dim">
+          <param name="Local" value="Interface/IPivotEvaluatorDimCalculatesItem/IPivotEvaluatorDimCalculatesItem.Dim.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotEvaluatorDimCalculatesItem.Enabled">
+          <param name="Local" value="Interface/IPivotEvaluatorDimCalculatesItem/IPivotEvaluatorDimCalculatesItem.Enabled.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotEvaluatorDimCalculatesItem.Expression">
+          <param name="Local" value="Interface/IPivotEvaluatorDimCalculatesItem/IPivotEvaluatorDimCalculatesItem.Expression.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotEvaluatorDimCalculatesItem.FindByDimElement">
+          <param name="Local" value="Interface/IPivotEvaluatorDimCalculatesItem/IPivotEvaluatorDimCalculatesItem.FindByDimElement.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotEvaluatorDimCalculatesItem.Relation">
+          <param name="Local" value="Interface/IPivotEvaluatorDimCalculatesItem/IPivotEvaluatorDimCalculatesItem.Relation.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotEvaluatorDimCalculatesItem.RelationElement">
+          <param name="Local" value="Interface/IPivotEvaluatorDimCalculatesItem/IPivotEvaluatorDimCalculatesItem.RelationElement.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotEvaluatorDimCalculatesItem.RemoveCalculatedElement">
+          <param name="Local" value="Interface/IPivotEvaluatorDimCalculatesItem/IPivotEvaluatorDimCalculatesItem.RemoveCalculatedElement.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotEvaluatorDimCalculatesItem.Type">
+          <param name="Local" value="Interface/IPivotEvaluatorDimCalculatesItem/IPivotEvaluatorDimCalculatesItem.Type.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IPivotEvaluatorDimCalculatesList">
+        <param name="Local" value="Interface/IPivotEvaluatorDimCalculatesList/IPivotEvaluatorDimCalculatesList.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotEvaluatorDimCalculatesList.Count">
+          <param name="Local" value="Interface/IPivotEvaluatorDimCalculatesList/IPivotEvaluatorDimCalculatesList.Count.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotEvaluatorDimCalculatesList.DimCalculatesItem">
+          <param name="Local" value="Interface/IPivotEvaluatorDimCalculatesList/IPivotEvaluatorDimCalculatesList.DimCalculatesItem.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotEvaluatorDimCalculatesList.Element">
+          <param name="Local" value="Interface/IPivotEvaluatorDimCalculatesList/IPivotEvaluatorDimCalculatesList.Element.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotEvaluatorDimCalculatesList.Item">
+          <param name="Local" value="Interface/IPivotEvaluatorDimCalculatesList/IPivotEvaluatorDimCalculatesList.Item.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IPivotEvaluatorDynamics">
+        <param name="Local" value="Interface/IPivotEvaluatorDynamics/IPivotEvaluatorDynamics.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotEvaluatorDynamics.LeftHeader">
+          <param name="Local" value="Interface/IPivotEvaluatorDynamics/IPivotEvaluatorDynamics.LeftHeader.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotEvaluatorDynamics.TopHeader">
+          <param name="Local" value="Interface/IPivotEvaluatorDynamics/IPivotEvaluatorDynamics.TopHeader.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IPivotEvaluatorDynamicsHeader">
+        <param name="Local" value="Interface/IPivotEvaluatorDynamicsHeader/IPivotEvaluatorDynamicsHeader.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotEvaluatorDynamicsHeader.AbsGrowth">
+          <param name="Local" value="Interface/IPivotEvaluatorDynamicsHeader/IPivotEvaluatorDynamicsHeader.AbsGrowth.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotEvaluatorDynamicsHeader.GrowthRate">
+          <param name="Local" value="Interface/IPivotEvaluatorDynamicsHeader/IPivotEvaluatorDynamicsHeader.GrowthRate.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotEvaluatorDynamicsHeader.IncreaseRate">
+          <param name="Local" value="Interface/IPivotEvaluatorDynamicsHeader/IPivotEvaluatorDynamicsHeader.IncreaseRate.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotEvaluatorDynamicsHeader.Slot">
+          <param name="Local" value="Interface/IPivotEvaluatorDynamicsHeader/IPivotEvaluatorDynamicsHeader.Slot.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IPivotEvaluatorTotals">
+        <param name="Local" value="Interface/IPivotEvaluatorTotals/IPivotEvaluatorTotals.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotEvaluatorTotals.Add">
+          <param name="Local" value="Interface/IPivotEvaluatorTotals/IPivotEvaluatorTotals.Add.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotEvaluatorTotals.Clear">
+          <param name="Local" value="Interface/IPivotEvaluatorTotals/IPivotEvaluatorTotals.Clear.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotEvaluatorTotals.ColumnTotalName">
+          <param name="Local" value="Interface/IPivotEvaluatorTotals/IPivotEvaluatorTotals.ColumnTotalName.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotEvaluatorTotals.ColumnTotalsEnabled">
+          <param name="Local" value="Interface/IPivotEvaluatorTotals/IPivotEvaluatorTotals.ColumnTotalsEnabled.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotEvaluatorTotals.ColumnTypes">
+          <param name="Local" value="Interface/IPivotEvaluatorTotals/IPivotEvaluatorTotals.ColumnTypes.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotEvaluatorTotals.Count">
+          <param name="Local" value="Interface/IPivotEvaluatorTotals/IPivotEvaluatorTotals.Count.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotEvaluatorTotals.DataSourceTotalsDefined">
+          <param name="Local" value="Interface/IPivotEvaluatorTotals/IPivotEvaluatorTotals.DataSourceTotalsDefined.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotEvaluatorTotals.DimElementTotalEnabled">
+          <param name="Local" value="Interface/IPivotEvaluatorTotals/IPivotEvaluatorTotals.DimElementTotalEnabled.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotEvaluatorTotals.DimElementTotalType">
+          <param name="Local" value="Interface/IPivotEvaluatorTotals/IPivotEvaluatorTotals.DimElementTotalType.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotEvaluatorTotals.Enabled">
+          <param name="Local" value="Interface/IPivotEvaluatorTotals/IPivotEvaluatorTotals.Enabled.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotEvaluatorTotals.EvaluateForSingleElement">
+          <param name="Local" value="Interface/IPivotEvaluatorTotals/IPivotEvaluatorTotals.EvaluateForSingleElement.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotEvaluatorTotals.HierarchyTotals">
+          <param name="Local" value="Interface/IPivotEvaluatorTotals/IPivotEvaluatorTotals.HierarchyTotals.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotEvaluatorTotals.IncludeOwner">
+          <param name="Local" value="Interface/IPivotEvaluatorTotals/IPivotEvaluatorTotals.IncludeOwner.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotEvaluatorTotals.IsCommonTotalsAvailable">
+          <param name="Local" value="Interface/IPivotEvaluatorTotals/IPivotEvaluatorTotals.IsCommonTotalsAvailable.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotEvaluatorTotals.Item">
+          <param name="Local" value="Interface/IPivotEvaluatorTotals/IPivotEvaluatorTotals.Item.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotEvaluatorTotals.LeftHeaderSettings">
+          <param name="Local" value="Interface/IPivotEvaluatorTotals/IPivotEvaluatorTotals.LeftHeaderSettings.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotEvaluatorTotals.LevelTotals">
+          <param name="Local" value="Interface/IPivotEvaluatorTotals/IPivotEvaluatorTotals.LevelTotals.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotEvaluatorTotals.OverallTotal">
+          <param name="Local" value="Interface/IPivotEvaluatorTotals/IPivotEvaluatorTotals.OverallTotal.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotEvaluatorTotals.PlaceBeforeData">
+          <param name="Local" value="Interface/IPivotEvaluatorTotals/IPivotEvaluatorTotals.PlaceBeforeData.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotEvaluatorTotals.Remove">
+          <param name="Local" value="Interface/IPivotEvaluatorTotals/IPivotEvaluatorTotals.Remove.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotEvaluatorTotals.RemoveDimElementTotal">
+          <param name="Local" value="Interface/IPivotEvaluatorTotals/IPivotEvaluatorTotals.RemoveDimElementTotal.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotEvaluatorTotals.RowTotalName">
+          <param name="Local" value="Interface/IPivotEvaluatorTotals/IPivotEvaluatorTotals.RowTotalName.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotEvaluatorTotals.RowTotalsEnabled">
+          <param name="Local" value="Interface/IPivotEvaluatorTotals/IPivotEvaluatorTotals.RowTotalsEnabled.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotEvaluatorTotals.RowTypes">
+          <param name="Local" value="Interface/IPivotEvaluatorTotals/IPivotEvaluatorTotals.RowTypes.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotEvaluatorTotals.TopHeaderSettings">
+          <param name="Local" value="Interface/IPivotEvaluatorTotals/IPivotEvaluatorTotals.TopHeaderSettings.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotEvaluatorTotals.TreatEmptyAsZero">
+          <param name="Local" value="Interface/IPivotEvaluatorTotals/IPivotEvaluatorTotals.TreatEmptyAsZero.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IPivotEvaluatorTotalsItem">
+        <param name="Local" value="Interface/IPivotEvaluatorTotalsItem/IPivotEvaluatorTotalsItem.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotEvaluatorTotalsItem.BaseLevel">
+          <param name="Local" value="Interface/IPivotEvaluatorTotalsItem/IPivotEvaluatorTotalsItem.BaseLevel.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotEvaluatorTotalsItem.Dim">
+          <param name="Local" value="Interface/IPivotEvaluatorTotalsItem/IPivotEvaluatorTotalsItem.Dim.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotEvaluatorTotalsItem.TotalTypes">
+          <param name="Local" value="Interface/IPivotEvaluatorTotalsItem/IPivotEvaluatorTotalsItem.TotalTypes.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IPivotEvents">
+        <param name="Local" value="Interface/IPivotEvents/IPivotEvents.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotEvents.OnAfterDataSourceExecute">
+          <param name="Local" value="Interface/IPivotEvents/IPivotEvents.OnAfterDataSourceExecute.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotEvents.OnAfterDrillUpThrough">
+          <param name="Local" value="Interface/IPivotEvents/IPivotEvents.OnAfterDrillUpThrough.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotEvents.OnAfterSelSetChanged">
+          <param name="Local" value="Interface/IPivotEvents/IPivotEvents.OnAfterSelSetChanged.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotEvents.OnBeforeDataSourceChange">
+          <param name="Local" value="Interface/IPivotEvents/IPivotEvents.OnBeforeDataSourceChange.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotEvents.OnBeforeDataSourceExecute">
+          <param name="Local" value="Interface/IPivotEvents/IPivotEvents.OnBeforeDataSourceExecute.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotEvents.OnBeforeDrillDownThrough">
+          <param name="Local" value="Interface/IPivotEvents/IPivotEvents.OnBeforeDrillDownThrough.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotEvents.OnBeforeSelectionChangeSent">
+          <param name="Local" value="Interface/IPivotEvents/IPivotEvents.OnBeforeSelectionChangeSent.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotEvents.OnBeforeTableRefresh">
+          <param name="Local" value="Interface/IPivotEvents/IPivotEvents.OnBeforeTableRefresh.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotEvents.OnBroughtOutDimHeaderChange">
+          <param name="Local" value="Interface/IPivotEvents/IPivotEvents.OnBroughtOutDimHeaderChange.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotEvents.OnChange">
+          <param name="Local" value="Interface/IPivotEvents/IPivotEvents.OnChange.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotEvents.OnDataSourceChange">
+          <param name="Local" value="Interface/IPivotEvents/IPivotEvents.OnDataSourceChange.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotEvents.OnFilterSeparateHeadersChange">
+          <param name="Local" value="Interface/IPivotEvents/IPivotEvents.OnFilterSeparateHeadersChange.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotEvents.OnFinishExecute">
+          <param name="Local" value="Interface/IPivotEvents/IPivotEvents.OnFinishExecute.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotEvents.OnHeaderChange">
+          <param name="Local" value="Interface/IPivotEvents/IPivotEvents.OnHeaderChange.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotEvents.OnHighlightChange">
+          <param name="Local" value="Interface/IPivotEvents/IPivotEvents.OnHighlightChange.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotEvents.OnMatrixerChange">
+          <param name="Local" value="Interface/IPivotEvents/IPivotEvents.OnMatrixerChange.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotEvents.OnParamChange">
+          <param name="Local" value="Interface/IPivotEvents/IPivotEvents.OnParamChange.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotEvents.OnPivotTableCellChange">
+          <param name="Local" value="Interface/IPivotEvents/IPivotEvents.OnPivotTableCellChange.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotEvents.OnPivotTableCellChanged">
+          <param name="Local" value="Interface/IPivotEvents/IPivotEvents.OnPivotTableCellChanged.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotEvents.OnPivotTableEvent">
+          <param name="Local" value="Interface/IPivotEvents/IPivotEvents.OnPivotTableEvent.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotEvents.OnSelectionChange2">
+          <param name="Local" value="Interface/IPivotEvents/IPivotEvents.OnSelectionChange2.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotEvents.OnSelectionContentChange">
+          <param name="Local" value="Interface/IPivotEvents/IPivotEvents.OnSelectionContentChange.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotEvents.OnSelectionStructureChange">
+          <param name="Local" value="Interface/IPivotEvents/IPivotEvents.OnSelectionStructureChange.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotEvents.OnStartExecute">
+          <param name="Local" value="Interface/IPivotEvents/IPivotEvents.OnStartExecute.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IPivotException">
+        <param name="Local" value="Interface/IPivotException/IPivotException.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotException.ExceptionType">
+          <param name="Local" value="Interface/IPivotException/IPivotException.ExceptionType.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IPivotFilter">
+        <param name="Local" value="Interface/IPivotFilter/IPivotFilter.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotFilter.Area">
+          <param name="Local" value="Interface/IPivotFilter/IPivotFilter.Area.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotFilter.Elements">
+          <param name="Local" value="Interface/IPivotFilter/IPivotFilter.Elements.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotFilter.Range">
+          <param name="Local" value="Interface/IPivotFilter/IPivotFilter.Range.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotFilter.SeparateHeaders">
+          <param name="Local" value="Interface/IPivotFilter/IPivotFilter.SeparateHeaders.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IPivotFilterAttributeLink">
+        <param name="Local" value="Interface/IPivotFilterAttributeLink/IPivotFilterAttributeLink.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotFilterAttributeLink.FirstDimensionAllowNull">
+          <param name="Local" value="Interface/IPivotFilterAttributeLink/IPivotFilterAttributeLink.FirstDimensionAllowNull.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotFilterAttributeLink.FirstDimensionAttrId">
+          <param name="Local" value="Interface/IPivotFilterAttributeLink/IPivotFilterAttributeLink.FirstDimensionAttrId.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotFilterAttributeLink.FirstDimensionKey">
+          <param name="Local" value="Interface/IPivotFilterAttributeLink/IPivotFilterAttributeLink.FirstDimensionKey.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotFilterAttributeLink.IsValid">
+          <param name="Local" value="Interface/IPivotFilterAttributeLink/IPivotFilterAttributeLink.IsValid.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotFilterAttributeLink.SecondDimensionAllowNull">
+          <param name="Local" value="Interface/IPivotFilterAttributeLink/IPivotFilterAttributeLink.SecondDimensionAllowNull.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotFilterAttributeLink.SecondDimensionAttrId">
+          <param name="Local" value="Interface/IPivotFilterAttributeLink/IPivotFilterAttributeLink.SecondDimensionAttrId.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotFilterAttributeLink.SecondDimensionKey">
+          <param name="Local" value="Interface/IPivotFilterAttributeLink/IPivotFilterAttributeLink.SecondDimensionKey.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IPivotFilterAttributeLinks">
+        <param name="Local" value="Interface/IPivotFilterAttributeLinks/IPivotFilterAttributeLinks.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotFilterAttributeLinks.Add">
+          <param name="Local" value="Interface/IPivotFilterAttributeLinks/IPivotFilterAttributeLinks.Add.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotFilterAttributeLinks.Clear">
+          <param name="Local" value="Interface/IPivotFilterAttributeLinks/IPivotFilterAttributeLinks.Clear.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotFilterAttributeLinks.Count">
+          <param name="Local" value="Interface/IPivotFilterAttributeLinks/IPivotFilterAttributeLinks.Count.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotFilterAttributeLinks.Item">
+          <param name="Local" value="Interface/IPivotFilterAttributeLinks/IPivotFilterAttributeLinks.Item.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotFilterAttributeLinks.RemoveAt">
+          <param name="Local" value="Interface/IPivotFilterAttributeLinks/IPivotFilterAttributeLinks.RemoveAt.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IPivotFilterRange">
+        <param name="Local" value="Interface/IPivotFilterRange/IPivotFilterRange.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotFilterRange.Bottom">
+          <param name="Local" value="Interface/IPivotFilterRange/IPivotFilterRange.Bottom.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotFilterRange.Left">
+          <param name="Local" value="Interface/IPivotFilterRange/IPivotFilterRange.Left.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotFilterRange.Right">
+          <param name="Local" value="Interface/IPivotFilterRange/IPivotFilterRange.Right.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotFilterRange.Top">
+          <param name="Local" value="Interface/IPivotFilterRange/IPivotFilterRange.Top.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IPivotFilterSettings">
+        <param name="Local" value="Interface/IPivotFilterSettings/IPivotFilterSettings.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotFilterSettings.AdditionalTableSourceSelSet">
+          <param name="Local" value="Interface/IPivotFilterSettings/IPivotFilterSettings.AdditionalTableSourceSelSet.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotFilterSettings.AttributeLinks">
+          <param name="Local" value="Interface/IPivotFilterSettings/IPivotFilterSettings.AttributeLinks.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotFilterSettings.Condition">
+          <param name="Local" value="Interface/IPivotFilterSettings/IPivotFilterSettings.Condition.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotFilterSettings.ConditionType">
+          <param name="Local" value="Interface/IPivotFilterSettings/IPivotFilterSettings.ConditionType.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotFilterSettings.ConditionValueA">
+          <param name="Local" value="Interface/IPivotFilterSettings/IPivotFilterSettings.ConditionValueA.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotFilterSettings.ConditionValueB">
+          <param name="Local" value="Interface/IPivotFilterSettings/IPivotFilterSettings.ConditionValueB.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotFilterSettings.Enabled">
+          <param name="Local" value="Interface/IPivotFilterSettings/IPivotFilterSettings.Enabled.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotFilterSettings.FilterSelection">
+          <param name="Local" value="Interface/IPivotFilterSettings/IPivotFilterSettings.FilterSelection.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotFilterSettings.FilterSources">
+          <param name="Local" value="Interface/IPivotFilterSettings/IPivotFilterSettings.FilterSources.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotFilterSettings.KeepNeighbors">
+          <param name="Local" value="Interface/IPivotFilterSettings/IPivotFilterSettings.KeepNeighbors.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotFilterSettings.KeepParent">
+          <param name="Local" value="Interface/IPivotFilterSettings/IPivotFilterSettings.KeepParent.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotFilterSettings.SupressEmpty">
+          <param name="Local" value="Interface/IPivotFilterSettings/IPivotFilterSettings.SupressEmpty.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotFilterSettings.SupressNoNumeric">
+          <param name="Local" value="Interface/IPivotFilterSettings/IPivotFilterSettings.SupressNoNumeric.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotFilterSettings.SupressZeros">
+          <param name="Local" value="Interface/IPivotFilterSettings/IPivotFilterSettings.SupressZeros.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotFilterSettings.UseAdditionalTableSource">
+          <param name="Local" value="Interface/IPivotFilterSettings/IPivotFilterSettings.UseAdditionalTableSource.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotFilterSettings.UseAttributesLinks">
+          <param name="Local" value="Interface/IPivotFilterSettings/IPivotFilterSettings.UseAttributesLinks.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotFilterSettings.UseCondition">
+          <param name="Local" value="Interface/IPivotFilterSettings/IPivotFilterSettings.UseCondition.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotFilterSettings.UseFilterSelection">
+          <param name="Local" value="Interface/IPivotFilterSettings/IPivotFilterSettings.UseFilterSelection.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotFilterSettings.UseTransformationFilter">
+          <param name="Local" value="Interface/IPivotFilterSettings/IPivotFilterSettings.UseTransformationFilter.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IPivotFilterSource">
+        <param name="Local" value="Interface/IPivotFilterSource/IPivotFilterSource.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotFilterSource.DataSource">
+          <param name="Local" value="Interface/IPivotFilterSource/IPivotFilterSource.DataSource.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotFilterSource.Enable">
+          <param name="Local" value="Interface/IPivotFilterSource/IPivotFilterSource.Enable.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotFilterSource.Matrix">
+          <param name="Local" value="Interface/IPivotFilterSource/IPivotFilterSource.Matrix.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotFilterSource.Selection">
+          <param name="Local" value="Interface/IPivotFilterSource/IPivotFilterSource.Selection.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IPivotFilterSources">
+        <param name="Local" value="Interface/IPivotFilterSources/IPivotFilterSources.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotFilterSources.Add">
+          <param name="Local" value="Interface/IPivotFilterSources/IPivotFilterSources.Add.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotFilterSources.Clear">
+          <param name="Local" value="Interface/IPivotFilterSources/IPivotFilterSources.Clear.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotFilterSources.Count">
+          <param name="Local" value="Interface/IPivotFilterSources/IPivotFilterSources.Count.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotFilterSources.Enable">
+          <param name="Local" value="Interface/IPivotFilterSources/IPivotFilterSources.Enable.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotFilterSources.Inverted">
+          <param name="Local" value="Interface/IPivotFilterSources/IPivotFilterSources.Inverted.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotFilterSources.Item">
+          <param name="Local" value="Interface/IPivotFilterSources/IPivotFilterSources.Item.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotFilterSources.Move">
+          <param name="Local" value="Interface/IPivotFilterSources/IPivotFilterSources.Move.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotFilterSources.Remove">
+          <param name="Local" value="Interface/IPivotFilterSources/IPivotFilterSources.Remove.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IPivotHeader">
+        <param name="Local" value="Interface/IPivotHeader/IPivotHeader.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotHeader.AddDim">
+          <param name="Local" value="Interface/IPivotHeader/IPivotHeader.AddDim.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotHeader.Clear">
+          <param name="Local" value="Interface/IPivotHeader/IPivotHeader.Clear.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotHeader.DeleteDim">
+          <param name="Local" value="Interface/IPivotHeader/IPivotHeader.DeleteDim.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotHeader.Dim">
+          <param name="Local" value="Interface/IPivotHeader/IPivotHeader.Dim.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotHeader.DimCount">
+          <param name="Local" value="Interface/IPivotHeader/IPivotHeader.DimCount.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotHeader.EvaluatedSlots">
+          <param name="Local" value="Interface/IPivotHeader/IPivotHeader.EvaluatedSlots.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotHeader.InsertDim">
+          <param name="Local" value="Interface/IPivotHeader/IPivotHeader.InsertDim.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotHeader.MultiLevelHeader">
+          <param name="Local" value="Interface/IPivotHeader/IPivotHeader.MultiLevelHeader.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotHeader.Numbering">
+          <param name="Local" value="Interface/IPivotHeader/IPivotHeader.Numbering.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotHeader.PivotDim">
+          <param name="Local" value="Interface/IPivotHeader/IPivotHeader.PivotDim.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotHeader.Settings">
+          <param name="Local" value="Interface/IPivotHeader/IPivotHeader.Settings.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotHeader.StairsHierarchy">
+          <param name="Local" value="Interface/IPivotHeader/IPivotHeader.StairsHierarchy.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IPivotHeaderEvaluatedSlot">
+        <param name="Local" value="Interface/IPivotHeaderEvaluatedSlot/IPivotHeaderEvaluatedSlot.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotHeaderEvaluatedSlot.Visible">
+          <param name="Local" value="Interface/IPivotHeaderEvaluatedSlot/IPivotHeaderEvaluatedSlot.Visible.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IPivotHeaderEvaluatedSlots">
+        <param name="Local" value="Interface/IPivotHeaderEvaluatedSlots/IPivotHeaderEvaluatedSlots.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotHeaderEvaluatedSlots.Add">
+          <param name="Local" value="Interface/IPivotHeaderEvaluatedSlots/IPivotHeaderEvaluatedSlots.Add.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotHeaderEvaluatedSlots.Clear">
+          <param name="Local" value="Interface/IPivotHeaderEvaluatedSlots/IPivotHeaderEvaluatedSlots.Clear.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotHeaderEvaluatedSlots.Count">
+          <param name="Local" value="Interface/IPivotHeaderEvaluatedSlots/IPivotHeaderEvaluatedSlots.Count.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotHeaderEvaluatedSlots.FindByKey">
+          <param name="Local" value="Interface/IPivotHeaderEvaluatedSlots/IPivotHeaderEvaluatedSlots.FindByKey.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotHeaderEvaluatedSlots.IndexOf">
+          <param name="Local" value="Interface/IPivotHeaderEvaluatedSlots/IPivotHeaderEvaluatedSlots.IndexOf.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotHeaderEvaluatedSlots.Item">
+          <param name="Local" value="Interface/IPivotHeaderEvaluatedSlots/IPivotHeaderEvaluatedSlots.Item.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotHeaderEvaluatedSlots.Move">
+          <param name="Local" value="Interface/IPivotHeaderEvaluatedSlots/IPivotHeaderEvaluatedSlots.Move.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotHeaderEvaluatedSlots.Remove">
+          <param name="Local" value="Interface/IPivotHeaderEvaluatedSlots/IPivotHeaderEvaluatedSlots.Remove.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotHeaderEvaluatedSlots.RemoveByKey">
+          <param name="Local" value="Interface/IPivotHeaderEvaluatedSlots/IPivotHeaderEvaluatedSlots.RemoveByKey.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IPivotHeaderFilterSettings">
+        <param name="Local" value="Interface/IPivotHeaderFilterSettings/IPivotHeaderFilterSettings.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotHeaderFilterSettings.ExcludeElements">
+          <param name="Local" value="Interface/IPivotHeaderFilterSettings/IPivotHeaderFilterSettings.ExcludeElements.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotHeaderFilterSettings.ExcludeSelection">
+          <param name="Local" value="Interface/IPivotHeaderFilterSettings/IPivotHeaderFilterSettings.ExcludeSelection.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IPivotHeaderNumbering">
+        <param name="Local" value="Interface/IPivotHeaderNumbering/IPivotHeaderNumbering.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotHeaderNumbering.AutoIdent">
+          <param name="Local" value="Interface/IPivotHeaderNumbering/IPivotHeaderNumbering.AutoIdent.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotHeaderNumbering.ConsiderHeader">
+          <param name="Local" value="Interface/IPivotHeaderNumbering/IPivotHeaderNumbering.ConsiderHeader.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotHeaderNumbering.CornerFormat">
+          <param name="Local" value="Interface/IPivotHeaderNumbering/IPivotHeaderNumbering.CornerFormat.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotHeaderNumbering.CrossDimension">
+          <param name="Local" value="Interface/IPivotHeaderNumbering/IPivotHeaderNumbering.CrossDimension.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotHeaderNumbering.IsOn">
+          <param name="Local" value="Interface/IPivotHeaderNumbering/IPivotHeaderNumbering.IsOn.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotHeaderNumbering.PlaceAtEnd">
+          <param name="Local" value="Interface/IPivotHeaderNumbering/IPivotHeaderNumbering.PlaceAtEnd.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotHeaderNumbering.Prefix">
+          <param name="Local" value="Interface/IPivotHeaderNumbering/IPivotHeaderNumbering.Prefix.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotHeaderNumbering.StartIndex">
+          <param name="Local" value="Interface/IPivotHeaderNumbering/IPivotHeaderNumbering.StartIndex.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IPivotHeaderSettings">
+        <param name="Local" value="Interface/IPivotHeaderSettings/IPivotHeaderSettings.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotHeaderSettings.Filter">
+          <param name="Local" value="Interface/IPivotHeaderSettings/IPivotHeaderSettings.Filter.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IPivotHighlightItem">
+        <param name="Local" value="Interface/IPivotHighlightItem/IPivotHighlightItem.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotHighlightItem.Area">
+          <param name="Local" value="Interface/IPivotHighlightItem/IPivotHighlightItem.Area.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotHighlightItem.ConditionType">
+          <param name="Local" value="Interface/IPivotHighlightItem/IPivotHighlightItem.ConditionType.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotHighlightItem.ConditionValueA">
+          <param name="Local" value="Interface/IPivotHighlightItem/IPivotHighlightItem.ConditionValueA.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotHighlightItem.ConditionValueB">
+          <param name="Local" value="Interface/IPivotHighlightItem/IPivotHighlightItem.ConditionValueB.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotHighlightItem.Enabled">
+          <param name="Local" value="Interface/IPivotHighlightItem/IPivotHighlightItem.Enabled.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotHighlightItem.Number">
+          <param name="Local" value="Interface/IPivotHighlightItem/IPivotHighlightItem.Number.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotHighlightItem.Range">
+          <param name="Local" value="Interface/IPivotHighlightItem/IPivotHighlightItem.Range.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IPivotHighlightItems">
+        <param name="Local" value="Interface/IPivotHighlightItems/IPivotHighlightItems.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotHighlightItems.Add">
+          <param name="Local" value="Interface/IPivotHighlightItems/IPivotHighlightItems.Add.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotHighlightItems.Clear">
+          <param name="Local" value="Interface/IPivotHighlightItems/IPivotHighlightItems.Clear.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotHighlightItems.Count">
+          <param name="Local" value="Interface/IPivotHighlightItems/IPivotHighlightItems.Count.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotHighlightItems.Item">
+          <param name="Local" value="Interface/IPivotHighlightItems/IPivotHighlightItems.Item.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotHighlightItems.Remove">
+          <param name="Local" value="Interface/IPivotHighlightItems/IPivotHighlightItems.Remove.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IPivotInsteadOwnerTotalsSettings">
+        <param name="Local" value="Interface/IPivotInsteadOwnerTotalsSettings/IPivotInsteadOwnerTotalsSettings.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotInsteadOwnerTotalsSettings.HierarchyTotal">
+          <param name="Local" value="Interface/IPivotInsteadOwnerTotalsSettings/IPivotInsteadOwnerTotalsSettings.HierarchyTotal.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotInsteadOwnerTotalsSettings.NameSeparator">
+          <param name="Local" value="Interface/IPivotInsteadOwnerTotalsSettings/IPivotInsteadOwnerTotalsSettings.NameSeparator.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotInsteadOwnerTotalsSettings.NamingMode">
+          <param name="Local" value="Interface/IPivotInsteadOwnerTotalsSettings/IPivotInsteadOwnerTotalsSettings.NamingMode.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotInsteadOwnerTotalsSettings.OverallTotal">
+          <param name="Local" value="Interface/IPivotInsteadOwnerTotalsSettings/IPivotInsteadOwnerTotalsSettings.OverallTotal.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotInsteadOwnerTotalsSettings.TotalType">
+          <param name="Local" value="Interface/IPivotInsteadOwnerTotalsSettings/IPivotInsteadOwnerTotalsSettings.TotalType.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IPivotPareto">
+        <param name="Local" value="Interface/IPivotPareto/IPivotPareto.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotPareto.ColumnsSettings">
+          <param name="Local" value="Interface/IPivotPareto/IPivotPareto.ColumnsSettings.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotPareto.RowsSettings">
+          <param name="Local" value="Interface/IPivotPareto/IPivotPareto.RowsSettings.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IPivotParetoSettings">
+        <param name="Local" value="Interface/IPivotParetoSettings/IPivotParetoSettings.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotParetoSettings.BottomSettings">
+          <param name="Local" value="Interface/IPivotParetoSettings/IPivotParetoSettings.BottomSettings.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotParetoSettings.ElementIndex">
+          <param name="Local" value="Interface/IPivotParetoSettings/IPivotParetoSettings.ElementIndex.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotParetoSettings.Enabled">
+          <param name="Local" value="Interface/IPivotParetoSettings/IPivotParetoSettings.Enabled.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotParetoSettings.OtherAggregation">
+          <param name="Local" value="Interface/IPivotParetoSettings/IPivotParetoSettings.OtherAggregation.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotParetoSettings.TopSettings">
+          <param name="Local" value="Interface/IPivotParetoSettings/IPivotParetoSettings.TopSettings.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IPivotParetoSettingsItem">
+        <param name="Local" value="Interface/IPivotParetoSettingsItem/IPivotParetoSettingsItem.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotParetoSettingsItem.Display">
+          <param name="Local" value="Interface/IPivotParetoSettingsItem/IPivotParetoSettingsItem.Display.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotParetoSettingsItem.Kind">
+          <param name="Local" value="Interface/IPivotParetoSettingsItem/IPivotParetoSettingsItem.Kind.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotParetoSettingsItem.Threshold">
+          <param name="Local" value="Interface/IPivotParetoSettingsItem/IPivotParetoSettingsItem.Threshold.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IPivotSorter">
+        <param name="Local" value="Interface/IPivotSorter/IPivotSorter.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotSorter.Add">
+          <param name="Local" value="Interface/IPivotSorter/IPivotSorter.Add.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotSorter.Clear">
+          <param name="Local" value="Interface/IPivotSorter/IPivotSorter.Clear.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotSorter.Count">
+          <param name="Local" value="Interface/IPivotSorter/IPivotSorter.Count.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotSorter.Enabled">
+          <param name="Local" value="Interface/IPivotSorter/IPivotSorter.Enabled.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotSorter.Item">
+          <param name="Local" value="Interface/IPivotSorter/IPivotSorter.Item.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotSorter.Move">
+          <param name="Local" value="Interface/IPivotSorter/IPivotSorter.Move.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotSorter.Remove">
+          <param name="Local" value="Interface/IPivotSorter/IPivotSorter.Remove.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IPivotSortItem">
+        <param name="Local" value="Interface/IPivotSortItem/IPivotSortItem.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotSortItem.AttributeKey">
+          <param name="Local" value="Interface/IPivotSortItem/IPivotSortItem.AttributeKey.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotSortItem.DimKey">
+          <param name="Local" value="Interface/IPivotSortItem/IPivotSortItem.DimKey.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotSortItem.Direction">
+          <param name="Local" value="Interface/IPivotSortItem/IPivotSortItem.Direction.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotSortItem.IndexInHeader">
+          <param name="Local" value="Interface/IPivotSortItem/IPivotSortItem.IndexInHeader.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotSortItem.Kind">
+          <param name="Local" value="Interface/IPivotSortItem/IPivotSortItem.Kind.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotSortItem.Selection">
+          <param name="Local" value="Interface/IPivotSortItem/IPivotSortItem.Selection.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotSortItem.SkipNonNumeric">
+          <param name="Local" value="Interface/IPivotSortItem/IPivotSortItem.SkipNonNumeric.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotSortItem.UseTransformationValues">
+          <param name="Local" value="Interface/IPivotSortItem/IPivotSortItem.UseTransformationValues.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IPivotTable">
+        <param name="Local" value="Interface/IPivotTable/IPivotTable.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotTable.Attachments">
+          <param name="Local" value="Interface/IPivotTable/IPivotTable.Attachments.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotTable.Cancel">
+          <param name="Local" value="Interface/IPivotTable/IPivotTable.Cancel.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotTable.CanEdit">
+          <param name="Local" value="Interface/IPivotTable/IPivotTable.CanEdit.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotTable.Cell">
+          <param name="Local" value="Interface/IPivotTable/IPivotTable.Cell.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotTable.ColumnCount">
+          <param name="Local" value="Interface/IPivotTable/IPivotTable.ColumnCount.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotTable.Coord">
+          <param name="Local" value="Interface/IPivotTable/IPivotTable.Coord.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotTable.CoordByMatrix">
+          <param name="Local" value="Interface/IPivotTable/IPivotTable.CoordByMatrix.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotTable.DataRights">
+          <param name="Local" value="Interface/IPivotTable/IPivotTable.DataRights.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotTable.DataType">
+          <param name="Local" value="Interface/IPivotTable/IPivotTable.DataType.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotTable.DropCacheCoord">
+          <param name="Local" value="Interface/IPivotTable/IPivotTable.DropCacheCoord.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotTable.Edit">
+          <param name="Local" value="Interface/IPivotTable/IPivotTable.Edit.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotTable.GetSourceCoord">
+          <param name="Local" value="Interface/IPivotTable/IPivotTable.GetSourceCoord.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotTable.HasAttachments">
+          <param name="Local" value="Interface/IPivotTable/IPivotTable.HasAttachments.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotTable.HasAttachmentsSupport">
+          <param name="Local" value="Interface/IPivotTable/IPivotTable.HasAttachmentsSupport.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotTable.Highlight">
+          <param name="Local" value="Interface/IPivotTable/IPivotTable.Highlight.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotTable.IsChanged">
+          <param name="Local" value="Interface/IPivotTable/IPivotTable.IsChanged.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotTable.IsChangedCell">
+          <param name="Local" value="Interface/IPivotTable/IPivotTable.IsChangedCell.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotTable.IsDataChanged">
+          <param name="Local" value="Interface/IPivotTable/IPivotTable.IsDataChanged.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotTable.IsEditing">
+          <param name="Local" value="Interface/IPivotTable/IPivotTable.IsEditing.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotTable.IsEvaluatedCell">
+          <param name="Local" value="Interface/IPivotTable/IPivotTable.IsEvaluatedCell.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotTable.IsHighlighted">
+          <param name="Local" value="Interface/IPivotTable/IPivotTable.IsHighlighted.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotTable.IsStairCell">
+          <param name="Local" value="Interface/IPivotTable/IPivotTable.IsStairCell.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotTable.LeftHeader">
+          <param name="Local" value="Interface/IPivotTable/IPivotTable.LeftHeader.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotTable.Post">
+          <param name="Local" value="Interface/IPivotTable/IPivotTable.Post.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotTable.PostAttachments">
+          <param name="Local" value="Interface/IPivotTable/IPivotTable.PostAttachments.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotTable.PostEx">
+          <param name="Local" value="Interface/IPivotTable/IPivotTable.PostEx.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotTable.RowCount">
+          <param name="Local" value="Interface/IPivotTable/IPivotTable.RowCount.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotTable.Selection">
+          <param name="Local" value="Interface/IPivotTable/IPivotTable.Selection.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotTable.StartCacheCoord">
+          <param name="Local" value="Interface/IPivotTable/IPivotTable.StartCacheCoord.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotTable.SupportWriteAttachments">
+          <param name="Local" value="Interface/IPivotTable/IPivotTable.SupportWriteAttachments.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotTable.TopHeader">
+          <param name="Local" value="Interface/IPivotTable/IPivotTable.TopHeader.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IPivotTableCellChangeEventArgs">
+        <param name="Local" value="Interface/IPivotTableCellChangeEventArgs/IPivotTableCellChangeEventArgs.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotTableCellChangeEventArgs.Column">
+          <param name="Local" value="Interface/IPivotTableCellChangeEventArgs/IPivotTableCellChangeEventArgs.Column.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotTableCellChangeEventArgs.NewValue">
+          <param name="Local" value="Interface/IPivotTableCellChangeEventArgs/IPivotTableCellChangeEventArgs.NewValue.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotTableCellChangeEventArgs.Row">
+          <param name="Local" value="Interface/IPivotTableCellChangeEventArgs/IPivotTableCellChangeEventArgs.Row.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotTableCellChangeEventArgs.Table">
+          <param name="Local" value="Interface/IPivotTableCellChangeEventArgs/IPivotTableCellChangeEventArgs.Table.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IPivotTableCellEventArgs">
+        <param name="Local" value="Interface/IPivotTableCellEventArgs/IPivotTableCellEventArgs.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotTableCellEventArgs.Cancel">
+          <param name="Local" value="Interface/IPivotTableCellEventArgs/IPivotTableCellEventArgs.Cancel.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IPivotTableHeader">
+        <param name="Local" value="Interface/IPivotTableHeader/IPivotTableHeader.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotTableHeader.ContainsKey">
+          <param name="Local" value="Interface/IPivotTableHeader/IPivotTableHeader.ContainsKey.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotTableHeader.DimensionElement">
+          <param name="Local" value="Interface/IPivotTableHeader/IPivotTableHeader.DimensionElement.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotTableHeader.Element">
+          <param name="Local" value="Interface/IPivotTableHeader/IPivotTableHeader.Element.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotTableHeader.ElementCount">
+          <param name="Local" value="Interface/IPivotTableHeader/IPivotTableHeader.ElementCount.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotTableHeader.ElementDim">
+          <param name="Local" value="Interface/IPivotTableHeader/IPivotTableHeader.ElementDim.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotTableHeader.ElementDimKey">
+          <param name="Local" value="Interface/IPivotTableHeader/IPivotTableHeader.ElementDimKey.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotTableHeader.ElementDimLevel">
+          <param name="Local" value="Interface/IPivotTableHeader/IPivotTableHeader.ElementDimLevel.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotTableHeader.ElementLevel">
+          <param name="Local" value="Interface/IPivotTableHeader/IPivotTableHeader.ElementLevel.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotTableHeader.ElementName">
+          <param name="Local" value="Interface/IPivotTableHeader/IPivotTableHeader.ElementName.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotTableHeader.ElementNameEx">
+          <param name="Local" value="Interface/IPivotTableHeader/IPivotTableHeader.ElementNameEx.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotTableHeader.GetSlotName">
+          <param name="Local" value="Interface/IPivotTableHeader/IPivotTableHeader.GetSlotName.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotTableHeader.Group">
+          <param name="Local" value="Interface/IPivotTableHeader/IPivotTableHeader.Group.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotTableHeader.IsCombinedSlot">
+          <param name="Local" value="Interface/IPivotTableHeader/IPivotTableHeader.IsCombinedSlot.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotTableHeader.IsDimensionMergeAllowed">
+          <param name="Local" value="Interface/IPivotTableHeader/IPivotTableHeader.IsDimensionMergeAllowed.htm">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotTableHeader.IsEvaluatedElement">
+          <param name="Local" value="Interface/IPivotTableHeader/IPivotTableHeader.IsEvaluatedElement.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotTableHeader.IsEvaluatedSlot">
+          <param name="Local" value="Interface/IPivotTableHeader/IPivotTableHeader.IsEvaluatedSlot.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotTableHeader.IsGrouppingElement">
+          <param name="Local" value="Interface/IPivotTableHeader/IPivotTableHeader.IsGrouppingElement.htm">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotTableHeader.IsJoinSlot">
+          <param name="Local" value="Interface/IPivotTableHeader/IPivotTableHeader.IsJoinSlot.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotTableHeader.IsMerged">
+          <param name="Local" value="Interface/IPivotTableHeader/IPivotTableHeader.IsMerged.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotTableHeader.IsPartialElement">
+          <param name="Local" value="Interface/IPivotTableHeader/IPivotTableHeader.IsPartialElement.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotTableHeader.IsStairElement">
+          <param name="Local" value="Interface/IPivotTableHeader/IPivotTableHeader.IsStairElement.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotTableHeader.MergedDimKeys">
+          <param name="Local" value="Interface/IPivotTableHeader/IPivotTableHeader.MergedDimKeys.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotTableHeader.MergedElement">
+          <param name="Local" value="Interface/IPivotTableHeader/IPivotTableHeader.MergedElement.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotTableHeader.SlotCount">
+          <param name="Local" value="Interface/IPivotTableHeader/IPivotTableHeader.SlotCount.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotTableHeader.SlotDim">
+          <param name="Local" value="Interface/IPivotTableHeader/IPivotTableHeader.SlotDim.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotTableHeader.SlotDims">
+          <param name="Local" value="Interface/IPivotTableHeader/IPivotTableHeader.SlotDims.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotTableHeader.SlotLevel">
+          <param name="Local" value="Interface/IPivotTableHeader/IPivotTableHeader.SlotLevel.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IPivotTables">
+        <param name="Local" value="Interface/IPivotTables/IPivotTables.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotTables.Count">
+          <param name="Local" value="Interface/IPivotTables/IPivotTables.Count.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotTables.Item">
+          <param name="Local" value="Interface/IPivotTables/IPivotTables.Item.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPivotTables.ItemByElement">
+          <param name="Local" value="Interface/IPivotTables/IPivotTables.ItemByElement.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Перечисления сборки Pivot">
+      <param name="Local" value="Enums/KePivot_Enums.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="PivotAggregationOperation">
+        <param name="Local" value="Enums/PivotAggregationOperation.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="PivotDimensionLevelNumberingType">
+        <param name="Local" value="Enums/PivotDimensionLevelNumberingType.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="PivotDimPosition">
+        <param name="Local" value="Enums/PivotDimPosition.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="PivotEvaluatorDimCalcType">
+        <param name="Local" value="Enums/PivotEvaluatorDimCalcType.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="PivotEvaluatorElementType">
+        <param name="Local" value="Enums/PivotEvaluatorElementType.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="PivotEvaluatorTotalDisposition">
+        <param name="Local" value="Enums/PivotEvaluatorTotalDisposition.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="PivotExceptionType">
+        <param name="Local" value="Enums/PivotExceptionType.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="PivotFilterArea">
+        <param name="Local" value="Enums/PivotFilterArea.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="PivotFilterElements">
+        <param name="Local" value="Enums/PivotFilterElements.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="PivotFilterType">
+        <param name="Local" value="Enums/PivotFilterType.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="PivotHighlightType">
+        <param name="Local" value="Enums/PivotHighlightType.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="PivotMergedNamingMode">
+        <param name="Local" value="Enums/PivotMergedNamingMode.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="PivotNumberingFormat">
+        <param name="Local" value="Enums/PivotNumberingFormat.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="PivotObtainDataMode">
+        <param name="Local" value="Enums/PivotObtainDataMode.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="PivotParetoKind">
+        <param name="Local" value="Enums/PivotParetoKind.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="PivotRankType">
+        <param name="Local" value="Enums/PivotRankType.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="PivotSortDiapason">
+        <param name="Local" value="Enums/PivotSortDiapason.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="PivotSortDirection">
+        <param name="Local" value="Enums/PivotSortDirection.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="PivotSortKind">
+        <param name="Local" value="Enums/PivotSortKind.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="PivotTableEventType">
+        <param name="Local" value="Enums/PivotTableEventType.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="PivotTotalParentNamingMode">
+        <param name="Local" value="Enums/PivotTotalParentNamingMode.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="PivotTotalPosition">
+        <param name="Local" value="Enums/PivotTotalPosition.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="PivotTotalType">
+        <param name="Local" value="Enums/PivotTotalType.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="PivotValueArea">
+        <param name="Local" value="Enums/PivotValueArea.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="PivotValueType">
+        <param name="Local" value="Enums/PivotValueType.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="PivotViewMode">
+        <param name="Local" value="Enums/PivotViewMode.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="PivotViewOptions">
+        <param name="Local" value="Enums/PivotViewOptions.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Классы сборки Pivot">
+      <param name="Local" value="Class/kepivot_class.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="PivotClass">
+        <param name="Local" value="Class/PivotClass/PivotClass.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="PivotEvents">
+        <param name="Local" value="Class/PivotEvents/PivotEvents.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Примеры">
+      <param name="Local" value="Samples/KePivot_Sample.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Создание экспресс-отчёта">
+        <param name="Local" value="Samples/KePivot_Sample1.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Создание вычисляемого столбца в боковике таблицы">
+        <param name="Local" value="Samples/EvaluatedSlot.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      </ul>
+    </ul>
+</ul>
+</html>

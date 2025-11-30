@@ -1,0 +1,775 @@
+<html>
+<!-- Sitemap 1.0 -->
+<object type="text/site properties">
+  <param name="SiteType" value="toc">
+  <param name="Image Width" value="16">
+  <param name="Window Styles" value="0x800027">
+  <param name="ExWindow Styles" value="0x100">
+</object>
+<ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Библиотека методов и моделей">
+    <param name="Local" value="uimodelling_lib_common.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Регрессионные модели">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Линейная регрессия">
+        <param name="Local" value="01_Regression_models/Line_Regression.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Методы расчета линейной регрессии">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Метод наименьших квадратов">
+            <param name="Local" value="01_Regression_models/UiModelling_LinearRegr_LSM.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Оценка методом инструментальных переменных">
+            <param name="Local" value="01_Regression_models/UiModelling_LinearRegr_Method_Instr_Var.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Линейная регрессия с урезанными и цензурированными данными">
+          <param name="Local" value="01_Regression_models/Lib_LR_censored_trunc.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Парная линейная регрессия">
+        <param name="Local" value="01_Regression_models/Lib_PairRegress.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Множественная линейная регрессия">
+        <param name="Local" value="01_Regression_models/Lib_MultiRegress.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Бинарная регрессия">
+        <param name="Local" value="01_Regression_models/UiModelling_BinaryModel.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Нелинейная регрессия">
+        <param name="Local" value="01_Regression_models/UiModelling_NonLinearRegr.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Авторегрессия">
+        <param name="Local" value="01_Regression_models/UiModelling_AutoRegress.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Регрессия на панельных данных">
+        <param name="Local" value="01_Regression_models/UiModelling_PooledModel.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Квантильная регрессия">
+        <param name="Local" value="01_Regression_models/QuantileRegression.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Скользящая регрессия">
+        <param name="Local" value="01_Regression_models/Rolling_Regression.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Анализ временных рядов">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Тренд с подбором функциональной зависимости">
+        <param name="Local" value="02_Time_series_analysis/UiModelling_TrendCurveEstimation.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Стационарность и характеристические корни">
+        <param name="Local" value="02_Time_series_analysis/Stationarity_CharacteristicRoots.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="ARIMA">
+        <param name="Local" value="02_Time_series_analysis/UiModelling_ARIMA.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Модель регрессии с авторегрессионными остатками и скользящим средним">
+          <param name="Local" value="02_Time_series_analysis/UiModelling_regr_ARMA.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Оценка коэффициентов модели ARIMA">
+          <param name="Local" value="02_Time_series_analysis/Lib_ARIMA_Coef.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Оценка коэффициентов с помощью метода максимального правдоподобия">
+            <param name="Local" value="02_Time_series_analysis/ARIMA_Estimation_MaxLikelihood.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Квазиньютоновский метод">
+            <param name="Local" value="02_Time_series_analysis/Quasi_Newton.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Метод Левенберга-Марквардта">
+            <param name="Local" value="02_Time_series_analysis/Levenberg-Marquardt.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Модели распределенных лагов">
+        <param name="Local" value="02_Time_series_analysis/UiModelling_Polinimial_Distributed_Lags.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Модель полиноминально распределенных лагов. Метод Алмона">
+          <param name="Local" value="02_Time_series_analysis/Lib_PolinDistrLags_Almon.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Модель геометрически распределенных лагов. Метод Койка">
+          <param name="Local" value="02_Time_series_analysis/Lib_GeomDistrLags_Koyck.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Методы сглаживания и выделения сезонности">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Медианное сглаживание">
+          <param name="Local" value="02_Time_series_analysis/UiModelling_median_smoothing.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Скользящее среднее">
+          <param name="Local" value="02_Time_series_analysis/UiModelling_SlideSmooth.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Модель GM(1,1) (Грей-метод)">
+          <param name="Local" value="02_Time_series_analysis/Grey.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Фильтр Ходрика-Прескотта">
+          <param name="Local" value="02_Time_series_analysis/UiModelling_HodrickPrescottFilter.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="LRX-фильтр">
+          <param name="Local" value="02_Time_series_analysis/UiModellling_LRX.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Фильтр Бакстера-Кинга">
+          <param name="Local" value="02_Time_series_analysis/UiModelling_BaxterKingFilter.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Экспоненциальное сглаживание">
+          <param name="Local" value="02_Time_series_analysis/UiModelling_ExpSmooth.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Модель с аддитивным и мультипликативным сезонными эффектами">
+            <param name="Local" value="02_Time_series_analysis/UiModelling_ExpSmooth_season.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Модели роста">
+            <param name="Local" value="02_Time_series_analysis/UiModelling_ExpSmooth_growthhtm.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Метод наилучшей пробы">
+            <param name="Local" value="02_Time_series_analysis/Lib_BestTrialMethod.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Census1">
+          <param name="Local" value="02_Time_series_analysis/UiModelling_Census1.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="X11">
+          <param name="Local" value="02_Time_series_analysis/UiModelling_Census2.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="X12-ARIMA">
+          <param name="Local" value="02_Time_series_analysis/X12.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TRAMO/SEATS">
+          <param name="Local" value="02_Time_series_analysis/Tramo_Seats.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Коинтегрированные процессы">
+        <param name="Local" value="02_Time_series_analysis/Lib_CointegrProcesses.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Модель коррекции ошибок">
+          <param name="Local" value="02_Time_series_analysis/UiModelling_ErrCorrModel.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Векторная модель коррекции ошибок">
+          <param name="Local" value="02_Time_series_analysis/Lib_VECM.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Спектральный анализ">
+        <param name="Local" value="02_Time_series_analysis/Lib_SpectralAnalysis.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="GARCH-модель">
+        <param name="Local" value="02_Time_series_analysis/GARCH.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Геометрическая экстраполяция">
+        <param name="Local" value="02_Time_series_analysis/Geometric_extrapolation.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Преобразования">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Агрегация (базовая и расширенная)">
+        <param name="Local" value="03_Transformations/UiModelling_Aggr.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Интерполяция">
+        <param name="Local" value="03_Transformations/UiModelling_Interpolation.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Обработка пропусков">
+        <param name="Local" value="03_Transformations/UiModelling_Fill_Gaps.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Распределения">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Биномиальное распределение">
+        <param name="Local" value="05_Statistics/Distribution/Lib_BinomialDistribution.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Экспоненциальное распределение">
+        <param name="Local" value="05_Statistics/Distribution/Lib_ExponentialDistribution.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Логнормальное распределение">
+        <param name="Local" value="05_Statistics/Distribution/Lib_LogNormalDistribution.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Нормальное распределение">
+        <param name="Local" value="05_Statistics/Distribution/Lib_NormalDistribution.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Равномерное распределение">
+        <param name="Local" value="05_Statistics/Distribution/Lib_UniformDistribution.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Распределение Стьюдента">
+        <param name="Local" value="05_Statistics/UiModelling_Student.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Распределение хи-квадрат">
+        <param name="Local" value="05_Statistics/Distribution/Lib_Chi2Distribution.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Распределение Фишера">
+        <param name="Local" value="05_Statistics/Distribution/Lib_FisherDistribution.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Бета-распределение">
+        <param name="Local" value="05_Statistics/Distribution/Lib_BetaDistribution.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Гамма-распределение">
+        <param name="Local" value="05_Statistics/Distribution/Lib_GammaDistribution.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Распределение Вейбулла">
+        <param name="Local" value="05_Statistics/Distribution/Lib_WeibullDistribution.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Логистическое распределение">
+        <param name="Local" value="05_Statistics/Distribution/Lib_LogisticDistribution.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Распределение Коши">
+        <param name="Local" value="05_Statistics/Distribution/Lib_CauchyDistribution.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Распределение Пуассона">
+        <param name="Local" value="05_Statistics/Distribution/Lib_PoissonDistribution.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Гипергеометрическое распределение">
+        <param name="Local" value="05_Statistics/Distribution/Lib_HyperGeometricDistribution.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Многомерное нормальное распределение">
+        <param name="Local" value="05_Statistics/Distribution/Lib_MultiNormalDistribution.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Распределение Парето">
+        <param name="Local" value="05_Statistics/Distribution/Lib_ParetoDistribution.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Обобщенное распределение Парето">
+        <param name="Local" value="05_Statistics/Distribution/GeneralizedParetoDistribution.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Обобщенное распределение экстремальных значений">
+        <param name="Local" value="05_Statistics/Distribution/GeneralizedExtremeValueDistribution.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Оценка параметров распределения">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Оценка методом максимального правдоподобия">
+          <param name="Local" value="05_Statistics/Distribution/MaximumLikelihood.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Линейная комбинация показателей расстояний">
+          <param name="Local" value="05_Statistics/Distribution/Linear_Combination_of_Ratios_of_Spacings.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Функции распределения">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Функция стандартного нормального распределения вероятности">
+          <param name="Local" value="05_Statistics/Distrib_func/Lib_Norms.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Функция F-распределения вероятности">
+          <param name="Local" value="05_Statistics/Distrib_func/Lib_FDist.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Функция бета-распределения вероятности">
+          <param name="Local" value="05_Statistics/Distrib_func/Lib_BetaDist_1.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Функция гамма-распределения вероятности">
+          <param name="Local" value="05_Statistics/Distrib_func/Lib_GammaDist.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Значение Гамма-функции">
+          <param name="Local" value="05_Statistics/Distrib_func/Lib_GammaFunc.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Частота">
+          <param name="Local" value="05_Statistics/Distrib_func/Lib_Frequency.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Интеллектуальный анализ данных">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Наивный байесовский классификатор">
+        <param name="Local" value="06_DataMining/Lib_NaiveBayes.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Анализ исключений">
+        <param name="Local" value="06_DataMining/Lib_ExceptionSearch.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Дерево решений">
+        <param name="Local" value="06_DataMining/Lib_DecisionTree.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Логистическая регрессия">
+        <param name="Local" value="06_DataMining/Lib_LogisticRegr.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Сеть обратного распространения">
+        <param name="Local" value="06_DataMining/Lib_BackPropagation.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Самоорганизующиеся карты Кохонена">
+        <param name="Local" value="06_DataMining/Lib_SOM.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Кластеризация методом К-мод">
+        <param name="Local" value="06_DataMining/Lib_kModes.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Дискриминантный анализ">
+        <param name="Local" value="06_DataMining/Lib_DiscriminantAnalysis.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Анализ ассоциаций">
+        <param name="Local" value="06_DataMining/Lib_Assosiation.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Прочие модели">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Модель «Межотраслевой баланс»">
+        <param name="Local" value="04_Other_models/UiModelling_Interindustry_Balance.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Value-At-Risk">
+        <param name="Local" value="04_Other_models/UiModelling_ValueAtRisk.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Дельта-нормальный метод расчёта">
+          <param name="Local" value="04_Other_models/UiModelling_ValueAtRisk.DeltaNormal.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Исторический метод расчёта">
+          <param name="Local" value="04_Other_models/UiModelling_ValueAtRisk.Historic.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Метод Монте-Карло">
+          <param name="Local" value="04_Other_models/UiModelling_ValueAtRisk.MonteCarlo.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Бэктестинг: «Принцип светофора»">
+          <param name="Local" value="04_Other_models/UiModelling_ValueAtRisk.Backtesting.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Методы решения системы нелинейных уравнений">
+        <param name="Local" value="04_Other_models/UiModelling_LonLinearEq_method.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Решение системы линейных уравнений. Метод Гаусса">
+        <param name="Local" value="04_Other_models/UiModelling_GaussMethod.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Многомерный статистический анализ">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Метод главных компонент">
+          <param name="Local" value="04_Other_models/UiModelling_PrincipalComponents.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Сингулярный спектральный анализ">
+          <param name="Local" value="04_Other_models/SingularSpectrumAnalysis.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Иерархический кластерный анализ">
+          <param name="Local" value="04_Other_models/Lib_HierarhClustering.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Кластеризация методом k-средних">
+          <param name="Local" value="04_Other_models/Lib_kMeans.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Задача оптимального управления с учетом ограничений">
+        <param name="Local" value="04_Other_models/Optimization.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Задача квадратичного программирования">
+        <param name="Local" value="04_Other_models/QuadraticProgramming.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Система разностных уравнений">
+        <param name="Local" value="04_Other_models/Decomposition.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Описательные статистики и статистические характеристики">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Среднее значение">
+        <param name="Local" value="05_Statistics/UiModelling_Avg.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Среднее геометрическое">
+        <param name="Local" value="05_Statistics/UiModelling_Avg_geometr.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Среднее гармоническое">
+        <param name="Local" value="05_Statistics/UiModelling_Avg_harm.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Дисперсия">
+        <param name="Local" value="05_Statistics/UIModelling_dispers.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Среднеквадратическое отклонение">
+        <param name="Local" value="05_Statistics/UiModelling_ArgSqDev.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Коэффициент вариации">
+        <param name="Local" value="05_Statistics/UiModelling_CoeffVar.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Среднее отклонение">
+        <param name="Local" value="05_Statistics/UiModelling_AvgDev.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Показатель асимметрии">
+        <param name="Local" value="05_Statistics/UiModelling_Asymmetry.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Показатель эксцесса">
+        <param name="Local" value="05_Statistics/UiModelling_Excess.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Медиана">
+        <param name="Local" value="05_Statistics/UiModelling_Median.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Мода">
+        <param name="Local" value="05_Statistics/UiModelling_mode.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Квантиль">
+        <param name="Local" value="05_Statistics/Quantile.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Размах">
+        <param name="Local" value="05_Statistics/Range.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Сумма квадратов">
+        <param name="Local" value="05_Statistics/SquaresSum.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Тест Дики-Фуллера">
+        <param name="Local" value="05_Statistics/UiModelling_DF_test.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Тест Гранжера">
+        <param name="Local" value="05_Statistics/UiModelling_GrangerTest.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Автокорреляционный анализ">
+        <param name="Local" value="05_Statistics/UiModelling_Autocorrelation.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Коэффициент корреляции">
+        <param name="Local" value="05_Statistics/UiModelling_CoeffCorr.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="t-статистика">
+        <param name="Local" value="05_Statistics/UiModelling_t_stat.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Тест Йохансена">
+        <param name="Local" value="05_Statistics/UiModelling_Johansen_test.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Тест Колмогорова-Смирнова">
+        <param name="Local" value="05_Statistics/UiModelling_KolmogorovSmirnovTest.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Дисперсионный анализ">
+        <param name="Local" value="05_Statistics/Lib_VarianceAnalysis.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Критерий Фишера">
+        <param name="Local" value="05_Statistics/UiModelling_F_Test.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Хи-тест">
+        <param name="Local" value="05_Statistics/ChiTest.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Критерии качества">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Статистика Фишера">
+          <param name="Local" value="05_Statistics/UiModelling_Fisher.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Коэффициент детерминации">
+          <param name="Local" value="05_Statistics/UiModellind_DetermCoeff_R2.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Скорректированный коэффициент детерминации">
+          <param name="Local" value="05_Statistics/UiModellind_DetermCoeff_AdjR2.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Критерии качества модели бинарного выбора">
+          <param name="Local" value="05_Statistics/determcoeff_McFadden.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Информационные критерии">
+          <param name="Local" value="05_Statistics/Information_Criteria.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Функция правдоподобия">
+          <param name="Local" value="05_Statistics/UiModelling_LogL.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Стандартная ошибка">
+          <param name="Local" value="05_Statistics/UiModelling_StdError.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Критерий согласия Пирсона">
+          <param name="Local" value="05_Statistics/UiModelling_ChiTest.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="J-Статистика">
+          <param name="Local" value="05_Statistics/Lib_JStatictic.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Тесты на единичные корни">
+        <param name="Local" value="05_Statistics/UnitRootTests.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Расширенный тест Дики-Фуллера">
+          <param name="Local" value="05_Statistics/AugmentDickeyFullerTest.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Диагностические критерии">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Тест Дарбина-Уотсона">
+          <param name="Local" value="05_Statistics/UiModelling_DurbinW.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Анализ остатков">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Стандартное отклонение">
+          <param name="Local" value="05_Statistics/UiModelling_Stddev.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Статистика Жака-Бера">
+          <param name="Local" value="05_Statistics/UiModelling_JarqueBeraStat.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      </ul>
+    </ul>
+</ul>
+</html>

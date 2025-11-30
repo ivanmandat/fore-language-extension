@@ -1,0 +1,423 @@
+<html>
+<!-- Sitemap 1.0 -->
+<object type="text/site properties">
+  <param name="SiteType" value="toc">
+  <param name="Image Width" value="16">
+  <param name="Window Styles" value="0x800027">
+  <param name="ExWindow Styles" value="0x100">
+</object>
+<ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Построение аналитических панелей">
+    <param name="Local" value="UiAdhoc_Purpose.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Начало работы с инструментом «Аналитические панели»">
+      <param name="Local" value="Launching.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Построение аналитической панели">
+      <param name="Local" value="Document/Work.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Проектирование эскиза панели">
+        <param name="Local" value="Document/Layout_mode.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Выбор режима компоновки панели">
+          <param name="Local" value="Document/Layout_mode.htm#layoutingmode642b3b9347ca42c9b00b820c00c373fa=1">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Выбор элементов эскиза для компоновки панели">
+          <param name="Local" value="Blocks/Create_markup.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Вставка сетки и работа с ней">
+            <param name="Local" value="Blocks/Container_Grid.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Вставка вкладок и работа с ними">
+            <param name="Local" value="Blocks/Container_Tabs.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Вставка панели и работа с ней">
+            <param name="Local" value="Blocks/Container_Panel.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Настройка внешнего вида элемента эскиза">
+          <param name="Local" value="Document/AdjustingAppearance.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Настройка заголовка">
+            <param name="Local" value="Document/Block_Caption.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Настройка размера и положения">
+            <param name="Local" value="Document/SizePosition.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Настройка формата">
+            <param name="Local" value="Document/Block_BaseProps.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Вставка и настройка визуализаторов">
+        <param name="Local" value="Blocks/Gadgets/Gadgets.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Выбор и настройка источника данных визуализатора">
+          <param name="Local" value="Blocks/Gadgets/Panels/Select_DataSource.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Поиск источников данных">
+            <param name="Local" value="Blocks/Gadgets/DataSource_Search.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Настройка структуры источника данных визуализатора">
+            <param name="Local" value="Blocks/Gadgets/DS_structure.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Управление параметрами источника данных">
+            <param name="Local" value="Blocks/Gadgets/Panels/DataSource_param.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Управление данными нескольких источников">
+            <param name="Local" value="Blocks/Gadgets/Panels/Multiply_src.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+        </ul>
+        <object type="text/sitemap">
+          <param name="Name" value="UiSelection.chm::/UiSelection.hhc">
+          <param name="Merge" value="UiSelection.chm::/UiSelection.hhc" value2="../uiselection">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Фильтрация и преобразование данных">
+            <param name="Local" value="Blocks/Gadgets/Panels/Data.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Настройка визуализатора «Таблица»">
+          <param name="Local" value="Blocks/Gadgets/Table.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Настройка визуализатора «Диаграмма»">
+          <param name="Local" value="Blocks/Gadgets/Diagram.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Настройка визуализатора «Карта»">
+          <param name="Local" value="Blocks/Gadgets/Map.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Настройка визуализатора «Пузырьковая диаграмма»">
+          <param name="Local" value="Blocks/Gadgets/Bubbles.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Настройка визуализатора «Пузырьковое дерево»">
+          <param name="Local" value="Blocks/Gadgets/Bubble_Tree.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Настройка визуализатора «Плоское дерево»">
+          <param name="Local" value="Blocks/Gadgets/Map_Tree.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Настройка визуализатора «Индикатор»">
+          <param name="Local" value="Blocks/Gadgets/Indicator.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Настройка основных параметров индикатора">
+            <param name="Local" value="Blocks/Gadgets/Panels/Speedometer.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Настройка шкал">
+            <param name="Local" value="Blocks/Gadgets/Panels/Scale.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Настройка секторов">
+            <param name="Local" value="Blocks/Gadgets/Panels/Sectors.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Настойка стрелки">
+            <param name="Local" value="Blocks/Gadgets/Panels/Arrow.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Настройка центра индикатора">
+            <param name="Local" value="Blocks/Gadgets/Panels/Center.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Настройка динамической подсветки">
+            <param name="Local" value="Blocks/Gadgets/Panels/DynamicHighlight.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Настройка заголовка визуализатора">
+          <param name="Local" value="Blocks/Gadgets/Panels/Caption.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Использование подстановок в заголовке">
+            <param name="Local" value="Blocks/Gadgets/Panels/Substitution.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Вставка и настройка отчётов">
+        <param name="Local" value="Blocks/Reports/Reports.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Настройка регламентного отчёта">
+          <param name="Local" value="Blocks/Reports/Procedural_report.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Настройка отчета «Аналитическая панель»">
+          <param name="Local" value="Blocks/Reports/Dashboard.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Настройка экспресс-отчёта">
+          <param name="Local" value="Blocks/Reports/Express_Report.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Настройка временных рядов">
+          <param name="Local" value="Blocks/Reports/TimeSeries.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Вставка и настройка интерактивных элементов управления">
+        <param name="Local" value="Blocks/Controls/Controls.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Настройка кнопки">
+          <param name="Local" value="Blocks/Controls/Button.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Настройка списков">
+          <param name="Local" value="Blocks/Controls/List.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Настройка управляющего параметра">
+          <param name="Local" value="Blocks/Controls/Parameter.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Вставка текста с дополнительными возможностями">
+          <param name="Local" value="Blocks/Other/Text.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Вставка надписей, иллюстраций и HTML-контента">
+        <param name="Local" value="Blocks/Other/Other.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Создание надписи">
+          <param name="Local" value="Blocks/Other/Label.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Вставка рисунка">
+          <param name="Local" value="Blocks/Other/Picture.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Вставка HTML-контента">
+          <param name="Local" value="Blocks/Other/html_link.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Вставка и настройка плагинов">
+        <param name="Local" value="Blocks/Plugins/Plugins.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Настройка Sankey-диаграммы">
+          <param name="Local" value="Blocks/Plugins/Sankey_Chart.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Настройка диаграммы Ганта">
+          <param name="Local" value="Blocks/Plugins/Gantt_Chart.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Настройка индикатора">
+          <param name="Local" value="Blocks/Plugins/Indicator.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Настройка автоматического обновления данных">
+        <param name="Local" value="Document/Update.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Настройка синхронизации измерений источников данных">
+        <param name="Local" value="Blocks/Dimension_links.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Настройка синхронизации параметров источников данных">
+        <param name="Local" value="Document/Params_sync.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Просмотр готовой аналитической панели">
+        <param name="Local" value="Work/DashboardView.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Использование дополнительных сервисов в аналитической панели">
+        <param name="Local" value="Document/Document_tuning.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Включение режима редактирования данных">
+          <param name="Local" value="Document/Document.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Управление объектами">
+          <param name="Local" value="Document/Object_Control.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Работа со слайдами">
+          <param name="Local" value="Presentation/Presentation.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Панель слайдов">
+            <param name="Local" value="UI/Slaide_Panel.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Получение веб-ссылки">
+          <param name="Local" value="Document/LinkToDashboard.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Работа с готовой аналитической панелью">
+      <param name="Local" value="Work/ViewMode.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Обновление данных аналитической панели">
+        <param name="Local" value="Work/Refresh.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Работа с интерактивными элементами управления">
+        <param name="Local" value="Work/InteractiveElements.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Отмена/повтор операции над объектами аналитической панели">
+        <param name="Local" value="Work/Undo_Redo.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Экспорт аналитической панели">
+        <param name="Local" value="Document/Export.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Предварительный просмотр и печать аналитической панели">
+        <param name="Local" value="Work/PreviewPrint.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Создание копии аналитической панели">
+        <param name="Local" value="Work/Copy.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Использование дополнительных сервисов при работе с готовой аналитической панелью">
+        <param name="Local" value="Work/AdvancedServices.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Публикация в социальных сетях и обсуждение аналитической панели">
+        <param name="Local" value="Work/Publication.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Вопросы и ответы">
+      <param name="Local" value="FAQ/FAQ.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Как использовать заголовок визуализатора для управления отметкой элементов измерения?">
+        <param name="Local" value="FAQ/Header_configuration.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Как отключить режим автоматического размещения объектов, используемый по умолчанию?">
+        <param name="Local" value="FAQ/Automatic_placement.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Как сделать доступным создание блоков, предназначенных для работы с отчетами?">
+        <param name="Local" value="FAQ/Reports.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Как подключить BI-поиск для аналитических панелей в веб-приложении?">
+        <param name="Local" value="FAQ/Using_BISearch_In_Web.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Как настроить визуализатор «Индикатор»?">
+        <param name="Local" value="FAQ/Indicator_example.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      </ul>
+    </ul>
+</ul>
+</html>

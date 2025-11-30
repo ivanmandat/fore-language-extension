@@ -1,0 +1,2157 @@
+<html>
+<!-- Sitemap 1.0 -->
+<object type="text/site properties">
+  <param name="SiteType" value="toc">
+  <param name="Image Width" value="16">
+  <param name="Window Styles" value="0x800027">
+  <param name="ExWindow Styles" value="0x100">
+</object>
+<ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Etl">
+    <param name="Local" value="KeEtl_Title.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Интерфейсы сборки Etl">
+      <param name="Local" value="Interface/KeEtl_Interface.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IEtlAttachCPEventArgs">
+        <param name="Local" value="Interface/IEtlAttachCPEventArgs/IEtlAttachCPEventArgs.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlAttachCPEventArgs.CPIndexToAttach">
+          <param name="Local" value="Interface/IEtlAttachCPEventArgs/IEtlAttachCPEventArgs.CPIndexToAttach.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlAttachCPEventArgs.ShapeToAttach">
+          <param name="Local" value="Interface/IEtlAttachCPEventArgs/IEtlAttachCPEventArgs.ShapeToAttach.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IEtlBox">
+        <param name="Local" value="Interface/IEtlBox/IEtlBox.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlBox.ActiveTool">
+          <param name="Local" value="Interface/IEtlBox/IEtlBox.ActiveTool.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlBox.BorderStyle">
+          <param name="Local" value="Interface/IEtlBox/IEtlBox.BorderStyle.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlBox.ConvertPtToView">
+          <param name="Local" value="Interface/IEtlBox/IEtlBox.ConvertPtToView.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlBox.DefaultHandlers">
+          <param name="Local" value="Interface/IEtlBox/IEtlBox.DefaultHandlers.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlBox.DefaultMenu">
+          <param name="Local" value="Interface/IEtlBox/IEtlBox.DefaultMenu.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlBox.DisplayConnectionPoints">
+          <param name="Local" value="Interface/IEtlBox/IEtlBox.DisplayConnectionPoints.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlBox.DisplayFocusFrame">
+          <param name="Local" value="Interface/IEtlBox/IEtlBox.DisplayFocusFrame.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlBox.DisplayGrid">
+          <param name="Local" value="Interface/IEtlBox/IEtlBox.DisplayGrid.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlBox.DisplayIntersections">
+          <param name="Local" value="Interface/IEtlBox/IEtlBox.DisplayIntersections.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlBox.DisplayScrollBars">
+          <param name="Local" value="Interface/IEtlBox/IEtlBox.DisplayScrollBars.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlBox.DisplaySelections">
+          <param name="Local" value="Interface/IEtlBox/IEtlBox.DisplaySelections.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlBox.ExecuteTask">
+          <param name="Local" value="Interface/IEtlBox/IEtlBox.ExecuteTask.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlBox.GetShapeByPt">
+          <param name="Local" value="Interface/IEtlBox/IEtlBox.GetShapeByPt.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlBox.OrderOperations">
+          <param name="Local" value="Interface/IEtlBox/IEtlBox.OrderOperations.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlBox.Source">
+          <param name="Local" value="Interface/IEtlBox/IEtlBox.Source.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlBox.UpdateObjectsState">
+          <param name="Local" value="Interface/IEtlBox/IEtlBox.UpdateObjectsState.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlBox.View">
+          <param name="Local" value="Interface/IEtlBox/IEtlBox.View.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IEtlCodeBlock">
+        <param name="Local" value="Interface/IEtlCodeBlock/IEtlCodeBlock.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlCodeBlock.Check">
+          <param name="Local" value="Interface/IEtlCodeBlock/IEtlCodeBlock.Check.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlCodeBlock.Edit">
+          <param name="Local" value="Interface/IEtlCodeBlock/IEtlCodeBlock.Edit.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlCodeBlock.Module">
+          <param name="Local" value="Interface/IEtlCodeBlock/IEtlCodeBlock.Module.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlCodeBlock.Params">
+          <param name="Local" value="Interface/IEtlCodeBlock/IEtlCodeBlock.Params.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlCodeBlock.PlainInput">
+          <param name="Local" value="Interface/IEtlCodeBlock/IEtlCodeBlock.PlainInput.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlCodeBlock.PlainOutput">
+          <param name="Local" value="Interface/IEtlCodeBlock/IEtlCodeBlock.PlainOutput.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlCodeBlock.Procedure">
+          <param name="Local" value="Interface/IEtlCodeBlock/IEtlCodeBlock.Procedure.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlCodeBlock.Save">
+          <param name="Local" value="Interface/IEtlCodeBlock/IEtlCodeBlock.Save.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IEtlCustomCodeBlock">
+        <param name="Local" value="Interface/IEtlCustomCodeBlock/IEtlCustomCodeBlock.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlCustomCodeBlock.Execute">
+          <param name="Local" value="Interface/IEtlCustomCodeBlock/IEtlCustomCodeBlock.Execute.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlCustomCodeBlock.Read">
+          <param name="Local" value="Interface/IEtlCustomCodeBlock/IEtlCustomCodeBlock.Read.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IEtlCustomUser">
+        <param name="Local" value="Interface/IEtlCustomUser/IEtlCustomUser.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlCustomUser.Read">
+          <param name="Local" value="Interface/IEtlCustomUser/IEtlCustomUser.Read.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlCustomUser.Transform">
+          <param name="Local" value="Interface/IEtlCustomUser/IEtlCustomUser.Transform.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IEtlExecutionCallback">
+        <param name="Local" value="Interface/IEtlExecutionCallback/IEtlExecutionCallback.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlExecutionCallback.OnObject">
+          <param name="Local" value="Interface/IEtlExecutionCallback/IEtlExecutionCallback.OnObject.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlExecutionCallback.OnProgress">
+          <param name="Local" value="Interface/IEtlExecutionCallback/IEtlExecutionCallback.OnProgress.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlExecutionCallback.OnSetResult">
+          <param name="Local" value="Interface/IEtlExecutionCallback/IEtlExecutionCallback.OnSetResult.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IEtlFixedCodeBlock">
+        <param name="Local" value="Interface/IEtlFixedCodeBlock/IEtlFixedCodeBlock.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlFixedCodeBlock.Template">
+          <param name="Local" value="Interface/IEtlFixedCodeBlock/IEtlFixedCodeBlock.Template.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlFixedCodeBlock.UserData">
+          <param name="Local" value="Interface/IEtlFixedCodeBlock/IEtlFixedCodeBlock.UserData.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IEtlForeWizardPage">
+        <param name="Local" value="Interface/IEtlForeWizardPage/IEtlForeWizardPage.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlForeWizardPage.IsDoneAllowed">
+          <param name="Local" value="Interface/IEtlForeWizardPage/IEtlForeWizardPage.IsDoneAllowed.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlForeWizardPage.IsLeaveAllowed">
+          <param name="Local" value="Interface/IEtlForeWizardPage/IEtlForeWizardPage.IsLeaveAllowed.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlForeWizardPage.Model">
+          <param name="Local" value="Interface/IEtlForeWizardPage/IEtlForeWizardPage.Model.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlForeWizardPage.OnSetActive">
+          <param name="Local" value="Interface/IEtlForeWizardPage/IEtlForeWizardPage.OnSetActive.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlForeWizardPage.OnWizardBack">
+          <param name="Local" value="Interface/IEtlForeWizardPage/IEtlForeWizardPage.OnWizardBack.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlForeWizardPage.OnWizardNext">
+          <param name="Local" value="Interface/IEtlForeWizardPage/IEtlForeWizardPage.OnWizardNext.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlForeWizardPage.Title">
+          <param name="Local" value="Interface/IEtlForeWizardPage/IEtlForeWizardPage.Title.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IEtlForeWizardPages">
+        <param name="Local" value="Interface/IEtlForeWizardPages/IEtlForeWizardPages.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlForeWizardPages.Count">
+          <param name="Local" value="Interface/IEtlForeWizardPages/IEtlForeWizardPages.Count.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlForeWizardPages.Item">
+          <param name="Local" value="Interface/IEtlForeWizardPages/IEtlForeWizardPages.Item.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlForeWizardPages.Metabase">
+          <param name="Local" value="Interface/IEtlForeWizardPages/IEtlForeWizardPages.Metabase.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlForeWizardPages.Model">
+          <param name="Local" value="Interface/IEtlForeWizardPages/IEtlForeWizardPages.Model.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlForeWizardPages.OnWizardCancel">
+          <param name="Local" value="Interface/IEtlForeWizardPages/IEtlForeWizardPages.OnWizardCancel.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlForeWizardPages.OnWizardOK">
+          <param name="Local" value="Interface/IEtlForeWizardPages/IEtlForeWizardPages.OnWizardOK.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IEtlMoveCPEventArgs">
+        <param name="Local" value="Interface/IEtlMoveCPEventArgs/IEtlMoveCPEventArgs.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlMoveCPEventArgs.Cancel">
+          <param name="Local" value="Interface/IEtlMoveCPEventArgs/IEtlMoveCPEventArgs.Cancel.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlMoveCPEventArgs.CPIndex">
+          <param name="Local" value="Interface/IEtlMoveCPEventArgs/IEtlMoveCPEventArgs.CPIndex.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlMoveCPEventArgs.Shape">
+          <param name="Local" value="Interface/IEtlMoveCPEventArgs/IEtlMoveCPEventArgs.Shape.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IEtlObject">
+        <param name="Local" value="Interface/IEtlObject/IEtlObject.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlObject.ConnCompId">
+          <param name="Local" value="Interface/IEtlObject/IEtlObject.ConnCompId.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlObject.Description">
+          <param name="Local" value="Interface/IEtlObject/IEtlObject.Description.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlObject.GetControlledObjects">
+          <param name="Local" value="Interface/IEtlObject/IEtlObject.GetControlledObjects.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlObject.Id">
+          <param name="Local" value="Interface/IEtlObject/IEtlObject.Id.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlObject.InputType">
+          <param name="Local" value="Interface/IEtlObject/IEtlObject.InputType.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlObject.IsActive">
+          <param name="Local" value="Interface/IEtlObject/IEtlObject.IsActive.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlObject.Name">
+          <param name="Local" value="Interface/IEtlObject/IEtlObject.Name.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlObject.ObjectType">
+          <param name="Local" value="Interface/IEtlObject/IEtlObject.ObjectType.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlObject.ObjectTypeName">
+          <param name="Local" value="Interface/IEtlObject/IEtlObject.ObjectTypeName.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlObject.OutputType">
+          <param name="Local" value="Interface/IEtlObject/IEtlObject.OutputType.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlObject.Task">
+          <param name="Local" value="Interface/IEtlObject/IEtlObject.Task.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlObject.Remove">
+          <param name="Local" value="Interface/IEtlObject/IEtlObject.Remove.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IEtlObjectPanelBox">
+        <param name="Local" value="Interface/IEtlObjectPanelBox/IEtlObjectPanelBox.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlObjectPanelBox.ActiveTab">
+          <param name="Local" value="Interface/IEtlObjectPanelBox/IEtlObjectPanelBox.ActiveTab.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlObjectPanelBox.BorderStyle">
+          <param name="Local" value="Interface/IEtlObjectPanelBox/IEtlObjectPanelBox.BorderStyle.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlObjectPanelBox.EtlBox">
+          <param name="Local" value="Interface/IEtlObjectPanelBox/IEtlObjectPanelBox.EtlBox.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlObjectPanelBox.ShowDestinations">
+          <param name="Local" value="Interface/IEtlObjectPanelBox/IEtlObjectPanelBox.ShowDestinations.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlObjectPanelBox.ShowOthers">
+          <param name="Local" value="Interface/IEtlObjectPanelBox/IEtlObjectPanelBox.ShowOthers.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlObjectPanelBox.ShowSources">
+          <param name="Local" value="Interface/IEtlObjectPanelBox/IEtlObjectPanelBox.ShowSources.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IEtlPlainDataBulkConsumer">
+        <param name="Local" value="Interface/IEtlPlainDataBulkConsumer/IEtlPlainDataBulkConsumer.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlPlainDataBulkConsumer.ActionOnProblem">
+          <param name="Local" value="Interface/IEtlPlainDataBulkConsumer/IEtlPlainDataBulkConsumer.ActionOnProblem.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlPlainDataBulkConsumer.CommitCount">
+          <param name="Local" value="Interface/IEtlPlainDataBulkConsumer/IEtlPlainDataBulkConsumer.CommitCount.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlPlainDataBulkConsumer.EventId">
+          <param name="Local" value="Interface/IEtlPlainDataBulkConsumer/IEtlPlainDataBulkConsumer.EventId.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlPlainDataBulkConsumer.InvalidRecsFileName">
+          <param name="Local" value="Interface/IEtlPlainDataBulkConsumer/IEtlPlainDataBulkConsumer.InvalidRecsFileName.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlPlainDataBulkConsumer.SaveInvalidRecs">
+          <param name="Local" value="Interface/IEtlPlainDataBulkConsumer/IEtlPlainDataBulkConsumer.SaveInvalidRecs.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlPlainDataBulkConsumer.StopLimit">
+          <param name="Local" value="Interface/IEtlPlainDataBulkConsumer/IEtlPlainDataBulkConsumer.StopLimit.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlPlainDataBulkConsumer.UseStopLimit">
+          <param name="Local" value="Interface/IEtlPlainDataBulkConsumer/IEtlPlainDataBulkConsumer.UseStopLimit.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IEtlPlainDataConsumer">
+        <param name="Local" value="Interface/IEtlPlainDataConsumer/IEtlPlainDataConsumer.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlPlainDataConsumer.ClearConsumer">
+          <param name="Local" value="Interface/IEtlPlainDataConsumer/IEtlPlainDataConsumer.ClearConsumer.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlPlainDataConsumer.Consumer">
+          <param name="Local" value="Interface/IEtlPlainDataConsumer/IEtlPlainDataConsumer.Consumer.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlPlainDataConsumer.Edit">
+          <param name="Local" value="Interface/IEtlPlainDataConsumer/IEtlPlainDataConsumer.Edit.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlPlainDataConsumer.FillDefault">
+          <param name="Local" value="Interface/IEtlPlainDataConsumer/IEtlPlainDataConsumer.FillDefault.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlPlainDataConsumer.KeyFieldNames">
+          <param name="Local" value="Interface/IEtlPlainDataConsumer/IEtlPlainDataConsumer.KeyFieldNames.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlPlainDataConsumer.PlainInput">
+          <param name="Local" value="Interface/IEtlPlainDataConsumer/IEtlPlainDataConsumer.PlainInput.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlPlainDataConsumer.Save">
+          <param name="Local" value="Interface/IEtlPlainDataConsumer/IEtlPlainDataConsumer.Save.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IEtlPlainDataCopy">
+        <param name="Local" value="Interface/IEtlPlainDataCopy/IEtlPlainDataCopy.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlPlainDataCopy.ActionOnProblem">
+          <param name="Local" value="Interface/IEtlPlainDataCopy/IEtlPlainDataCopy.ActionOnProblem.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlPlainDataCopy.AddLink">
+          <param name="Local" value="Interface/IEtlPlainDataCopy/IEtlPlainDataCopy.AddLink.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlPlainDataCopy.AutoLink">
+          <param name="Local" value="Interface/IEtlPlainDataCopy/IEtlPlainDataCopy.AutoLink.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlPlainDataCopy.ClearConsumer">
+          <param name="Local" value="Interface/IEtlPlainDataCopy/IEtlPlainDataCopy.ClearConsumer.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlPlainDataCopy.CommitCount">
+          <param name="Local" value="Interface/IEtlPlainDataCopy/IEtlPlainDataCopy.CommitCount.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlPlainDataCopy.Consumer">
+          <param name="Local" value="Interface/IEtlPlainDataCopy/IEtlPlainDataCopy.Consumer.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlPlainDataCopy.Edit">
+          <param name="Local" value="Interface/IEtlPlainDataCopy/IEtlPlainDataCopy.Edit.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlPlainDataCopy.EventId">
+          <param name="Local" value="Interface/IEtlPlainDataCopy/IEtlPlainDataCopy.EventId.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlPlainDataCopy.InvalidRecsFileName">
+          <param name="Local" value="Interface/IEtlPlainDataCopy/IEtlPlainDataCopy.InvalidRecsFileName.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlPlainDataCopy.IsLinked">
+          <param name="Local" value="Interface/IEtlPlainDataCopy/IEtlPlainDataCopy.IsLinked.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlPlainDataCopy.Provider">
+          <param name="Local" value="Interface/IEtlPlainDataCopy/IEtlPlainDataCopy.Provider.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlPlainDataCopy.RemoveLink">
+          <param name="Local" value="Interface/IEtlPlainDataCopy/IEtlPlainDataCopy.RemoveLink.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlPlainDataCopy.Save">
+          <param name="Local" value="Interface/IEtlPlainDataCopy/IEtlPlainDataCopy.Save.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlPlainDataCopy.SaveInvalidRecs">
+          <param name="Local" value="Interface/IEtlPlainDataCopy/IEtlPlainDataCopy.SaveInvalidRecs.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlPlainDataCopy.StopLimit">
+          <param name="Local" value="Interface/IEtlPlainDataCopy/IEtlPlainDataCopy.StopLimit.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlPlainDataCopy.UseStopLimit">
+          <param name="Local" value="Interface/IEtlPlainDataCopy/IEtlPlainDataCopy.UseStopLimit.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IEtlPlainDataDeduplicate">
+        <param name="Local" value="Interface/IEtlPlainDataDeduplicate/IEtlPlainDataDeduplicate.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlPlainDataDeduplicate.DuplicatePlainOutput">
+          <param name="Local" value="Interface/IEtlPlainDataDeduplicate/IEtlPlainDataDeduplicate.DuplicatePlainOutput.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlPlainDataDeduplicate.Edit">
+          <param name="Local" value="Interface/IEtlPlainDataDeduplicate/IEtlPlainDataDeduplicate.Edit.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlPlainDataDeduplicate.Expression">
+          <param name="Local" value="Interface/IEtlPlainDataDeduplicate/IEtlPlainDataDeduplicate.Expression.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlPlainDataDeduplicate.Index">
+          <param name="Local" value="Interface/IEtlPlainDataDeduplicate/IEtlPlainDataDeduplicate.Index.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlPlainDataDeduplicate.PlainInput">
+          <param name="Local" value="Interface/IEtlPlainDataDeduplicate/IEtlPlainDataDeduplicate.PlainInput.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlPlainDataDeduplicate.PlainOutput">
+          <param name="Local" value="Interface/IEtlPlainDataDeduplicate/IEtlPlainDataDeduplicate.PlainOutput.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlPlainDataDeduplicate.Rule">
+          <param name="Local" value="Interface/IEtlPlainDataDeduplicate/IEtlPlainDataDeduplicate.Rule.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlPlainDataDeduplicate.Save">
+          <param name="Local" value="Interface/IEtlPlainDataDeduplicate/IEtlPlainDataDeduplicate.Save.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IEtlPlainDataFilter">
+        <param name="Local" value="Interface/IEtlPlainDataFilter/IEtlPlainDataFilter.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlPlainDataFilter.Edit">
+          <param name="Local" value="Interface/IEtlPlainDataFilter/IEtlPlainDataFilter.Edit.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlPlainDataFilter.FilterIf">
+          <param name="Local" value="Interface/IEtlPlainDataFilter/IEtlPlainDataFilter.FilterIf.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlPlainDataFilter.KeepIfFulfillCondition">
+          <param name="Local" value="Interface/IEtlPlainDataFilter/IEtlPlainDataFilter.KeepIfFulfillCondition.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlPlainDataFilter.PlainInput">
+          <param name="Local" value="Interface/IEtlPlainDataFilter/IEtlPlainDataFilter.PlainInput.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlPlainDataFilter.PlainOutput">
+          <param name="Local" value="Interface/IEtlPlainDataFilter/IEtlPlainDataFilter.PlainOutput.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlPlainDataFilter.Save">
+          <param name="Local" value="Interface/IEtlPlainDataFilter/IEtlPlainDataFilter.Save.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IEtlPlainDataFixedUser">
+        <param name="Local" value="Interface/IEtlPlainDataFixedUser/IEtlPlainDataFixedUser.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlPlainDataFixedUser.Edit">
+          <param name="Local" value="Interface/IEtlPlainDataFixedUser/IEtlPlainDataFixedUser.Edit.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlPlainDataFixedUser.PlainInputs">
+          <param name="Local" value="Interface/IEtlPlainDataFixedUser/IEtlPlainDataFixedUser.PlainInputs.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlPlainDataFixedUser.PlainOutputs">
+          <param name="Local" value="Interface/IEtlPlainDataFixedUser/IEtlPlainDataFixedUser.PlainOutputs.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlPlainDataFixedUser.Save">
+          <param name="Local" value="Interface/IEtlPlainDataFixedUser/IEtlPlainDataFixedUser.Save.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlPlainDataFixedUser.Template">
+          <param name="Local" value="Interface/IEtlPlainDataFixedUser/IEtlPlainDataFixedUser.Template.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IEtlPlainDataFixedUserConsumer">
+        <param name="Local" value="Interface/IEtlPlainDataFixedUserConsumer/IEtlPlainDataFixedUserConsumer.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlPlainDataFixedUserConsumer.Template">
+          <param name="Local" value="Interface/IEtlPlainDataFixedUserConsumer/IEtlPlainDataFixedUserConsumer.Template.htm">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IEtlPlainDataFixedUserProvider">
+        <param name="Local" value="Interface/IEtlPlainDataFixedUserProvider/IEtlPlainDataFixedUserProvider.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlPlainDataFixedUserProvider.Template">
+          <param name="Local" value="Interface/IEtlPlainDataFixedUserProvider/IEtlPlainDataFixedUserProvider.Template.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IEtlPlainDataForceQueryForFile">
+        <param name="Local" value="Interface/IEtlPlainDataForceQueryForFile/IEtlPlainDataForceQueryForFile.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlPlainDataForceQueryForFile.ForceQuery">
+          <param name="Local" value="Interface/IEtlPlainDataForceQueryForFile/IEtlPlainDataForceQueryForFile.ForceQuery.htm">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IEtlPlainDataGroup">
+        <param name="Local" value="Interface/IEtlPlainDataGroup/IEtlPlainDataGroup.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlPlainDataGroup.Edit">
+          <param name="Local" value="Interface/IEtlPlainDataGroup/IEtlPlainDataGroup.Edit.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlPlainDataGroup.Formula">
+          <param name="Local" value="Interface/IEtlPlainDataGroup/IEtlPlainDataGroup.Formula.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlPlainDataGroup.Index">
+          <param name="Local" value="Interface/IEtlPlainDataGroup/IEtlPlainDataGroup.Index.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlPlainDataGroup.PlainInput">
+          <param name="Local" value="Interface/IEtlPlainDataGroup/IEtlPlainDataGroup.PlainInput.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlPlainDataGroup.PlainOutput">
+          <param name="Local" value="Interface/IEtlPlainDataGroup/IEtlPlainDataGroup.PlainOutput.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlPlainDataGroup.Save">
+          <param name="Local" value="Interface/IEtlPlainDataGroup/IEtlPlainDataGroup.Save.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IEtlPlainDataJoin">
+        <param name="Local" value="Interface/IEtlPlainDataJoin/IEtlPlainDataJoin.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlPlainDataJoin.Edit">
+          <param name="Local" value="Interface/IEtlPlainDataJoin/IEtlPlainDataJoin.Edit.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlPlainDataJoin.Index">
+          <param name="Local" value="Interface/IEtlPlainDataJoin/IEtlPlainDataJoin.Index.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlPlainDataJoin.Mapper">
+          <param name="Local" value="Interface/IEtlPlainDataJoin/IEtlPlainDataJoin.Mapper.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlPlainDataJoin.PlainInputs">
+          <param name="Local" value="Interface/IEtlPlainDataJoin/IEtlPlainDataJoin.PlainInputs.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlPlainDataJoin.PlainOutput">
+          <param name="Local" value="Interface/IEtlPlainDataJoin/IEtlPlainDataJoin.PlainOutput.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlPlainDataJoin.PrimaryInput">
+          <param name="Local" value="Interface/IEtlPlainDataJoin/IEtlPlainDataJoin.PrimaryInput.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlPlainDataJoin.Save">
+          <param name="Local" value="Interface/IEtlPlainDataJoin/IEtlPlainDataJoin.Save.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlPlainDataJoin.Type">
+          <param name="Local" value="Interface/IEtlPlainDataJoin/IEtlPlainDataJoin.Type.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IEtlPlainDataMapper">
+        <param name="Local" value="Interface/IEtlPlainDataMapper/IEtlPlainDataMapper.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlPlainDataMapper.Edit">
+          <param name="Local" value="Interface/IEtlPlainDataMapper/IEtlPlainDataMapper.Edit.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlPlainDataMapper.Mapper">
+          <param name="Local" value="Interface/IEtlPlainDataMapper/IEtlPlainDataMapper.Mapper.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlPlainDataMapper.PlainInput">
+          <param name="Local" value="Interface/IEtlPlainDataMapper/IEtlPlainDataMapper.PlainInput.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlPlainDataMapper.PlainOutput">
+          <param name="Local" value="Interface/IEtlPlainDataMapper/IEtlPlainDataMapper.PlainOutput.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlPlainDataMapper.Save">
+          <param name="Local" value="Interface/IEtlPlainDataMapper/IEtlPlainDataMapper.Save.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IEtlPlainDataProvider">
+        <param name="Local" value="Interface/IEtlPlainDataProvider/IEtlPlainDataProvider.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlPlainDataProvider.Edit">
+          <param name="Local" value="Interface/IEtlPlainDataProvider/IEtlPlainDataProvider.Edit.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlPlainDataProvider.FetchBlockSize">
+          <param name="Local" value="Interface/IEtlPlainDataProvider/IEtlPlainDataProvider.FetchBlockSize.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlPlainDataProvider.FillDefault">
+          <param name="Local" value="Interface/IEtlPlainDataProvider/IEtlPlainDataProvider.FillDefault.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlPlainDataProvider.FillFromSource">
+          <param name="Local" value="Interface/IEtlPlainDataProvider/IEtlPlainDataProvider.FillFromSource.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlPlainDataProvider.PlainOutput">
+          <param name="Local" value="Interface/IEtlPlainDataProvider/IEtlPlainDataProvider.PlainOutput.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlPlainDataProvider.Provider">
+          <param name="Local" value="Interface/IEtlPlainDataProvider/IEtlPlainDataProvider.Provider.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlPlainDataProvider.Save">
+          <param name="Local" value="Interface/IEtlPlainDataProvider/IEtlPlainDataProvider.Save.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlPlainDataProvider.UnpivotMode">
+          <param name="Local" value="Interface/IEtlPlainDataProvider/IEtlPlainDataProvider.UnpivotMode.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlPlainDataProvider.UnpivotProvider">
+          <param name="Local" value="Interface/IEtlPlainDataProvider/IEtlPlainDataProvider.UnpivotProvider.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IEtlPlainDataSort">
+        <param name="Local" value="Interface/IEtlPlainDataSort/IEtlPlainDataSort.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlPlainDataSort.Edit">
+          <param name="Local" value="Interface/IEtlPlainDataSort/IEtlPlainDataSort.Edit.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlPlainDataSort.Index">
+          <param name="Local" value="Interface/IEtlPlainDataSort/IEtlPlainDataSort.Index.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlPlainDataSort.IsFieldAscending">
+          <param name="Local" value="Interface/IEtlPlainDataSort/IEtlPlainDataSort.IsFieldAscending.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlPlainDataSort.PlainInput">
+          <param name="Local" value="Interface/IEtlPlainDataSort/IEtlPlainDataSort.PlainInput.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlPlainDataSort.PlainOutput">
+          <param name="Local" value="Interface/IEtlPlainDataSort/IEtlPlainDataSort.PlainOutput.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlPlainDataSort.Save">
+          <param name="Local" value="Interface/IEtlPlainDataSort/IEtlPlainDataSort.Save.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IEtlPlainDataSplit">
+        <param name="Local" value="Interface/IEtlPlainDataSplit/IEtlPlainDataSplit.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlPlainDataSplit.Add">
+          <param name="Local" value="Interface/IEtlPlainDataSplit/IEtlPlainDataSplit.Add.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlPlainDataSplit.Clear">
+          <param name="Local" value="Interface/IEtlPlainDataSplit/IEtlPlainDataSplit.Clear.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlPlainDataSplit.Condition">
+          <param name="Local" value="Interface/IEtlPlainDataSplit/IEtlPlainDataSplit.Condition.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlPlainDataSplit.Count">
+          <param name="Local" value="Interface/IEtlPlainDataSplit/IEtlPlainDataSplit.Count.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlPlainDataSplit.Delete">
+          <param name="Local" value="Interface/IEtlPlainDataSplit/IEtlPlainDataSplit.Delete.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlPlainDataSplit.Edit">
+          <param name="Local" value="Interface/IEtlPlainDataSplit/IEtlPlainDataSplit.Edit.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlPlainDataSplit.Mapper">
+          <param name="Local" value="Interface/IEtlPlainDataSplit/IEtlPlainDataSplit.Mapper.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlPlainDataSplit.MoveDown">
+          <param name="Local" value="Interface/IEtlPlainDataSplit/IEtlPlainDataSplit.MoveDown.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlPlainDataSplit.MoveUp">
+          <param name="Local" value="Interface/IEtlPlainDataSplit/IEtlPlainDataSplit.MoveUp.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlPlainDataSplit.PlainInput">
+          <param name="Local" value="Interface/IEtlPlainDataSplit/IEtlPlainDataSplit.PlainInput.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlPlainDataSplit.PlainOutputs">
+          <param name="Local" value="Interface/IEtlPlainDataSplit/IEtlPlainDataSplit.PlainOutputs.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlPlainDataSplit.Save">
+          <param name="Local" value="Interface/IEtlPlainDataSplit/IEtlPlainDataSplit.Save.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IEtlPlainDataTransformer">
+        <param name="Local" value="Interface/IEtlPlainDataTransformer/IEtlPlainDataTransformer.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlPlainDataTransformer.ErrorOutput">
+          <param name="Local" value="Interface/IEtlPlainDataTransformer/IEtlPlainDataTransformer.ErrorOutput.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlPlainDataTransformer.ErrorOverlimitPolicy">
+          <param name="Local" value="Interface/IEtlPlainDataTransformer/IEtlPlainDataTransformer.ErrorOverlimitPolicy.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlPlainDataTransformer.ErrorStopLimit">
+          <param name="Local" value="Interface/IEtlPlainDataTransformer/IEtlPlainDataTransformer.ErrorStopLimit.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IEtlPlainDataUnion">
+        <param name="Local" value="Interface/IEtlPlainDataUnion/IEtlPlainDataUnion.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlPlainDataUnion.Edit">
+          <param name="Local" value="Interface/IEtlPlainDataUnion/IEtlPlainDataUnion.Edit.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlPlainDataUnion.Mapper">
+          <param name="Local" value="Interface/IEtlPlainDataUnion/IEtlPlainDataUnion.Mapper.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlPlainDataUnion.PlainInputs">
+          <param name="Local" value="Interface/IEtlPlainDataUnion/IEtlPlainDataUnion.PlainInputs.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlPlainDataUnion.PlainOutput">
+          <param name="Local" value="Interface/IEtlPlainDataUnion/IEtlPlainDataUnion.PlainOutput.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlPlainDataUnion.Save">
+          <param name="Local" value="Interface/IEtlPlainDataUnion/IEtlPlainDataUnion.Save.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IEtlPlainDataUser">
+        <param name="Local" value="Interface/IEtlPlainDataUser/IEtlPlainDataUser.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlPlainDataUser.Edit">
+          <param name="Local" value="Interface/IEtlPlainDataUser/IEtlPlainDataUser.Edit.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlPlainDataUser.ForeSub">
+          <param name="Local" value="Interface/IEtlPlainDataUser/IEtlPlainDataUser.ForeSub.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlPlainDataUser.Module">
+          <param name="Local" value="Interface/IEtlPlainDataUser/IEtlPlainDataUser.Module.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlPlainDataUser.PlainInputs">
+          <param name="Local" value="Interface/IEtlPlainDataUser/IEtlPlainDataUser.PlainInputs.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlPlainDataUser.PlainOutputs">
+          <param name="Local" value="Interface/IEtlPlainDataUser/IEtlPlainDataUser.PlainOutputs.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlPlainDataUser.Save">
+          <param name="Local" value="Interface/IEtlPlainDataUser/IEtlPlainDataUser.Save.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IEtlPlainDataUserConsumer">
+        <param name="Local" value="Interface/IEtlPlainDataUserConsumer/IEtlPlainDataUserConsumer.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IEtlPlainDataUserProvider">
+        <param name="Local" value="Interface/IEtlPlainDataUserProvider/IEtlPlainDataUserProvider.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IEtlPlainField">
+        <param name="Local" value="Interface/IEtlPlainField/IEtlPlainField.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlPlainField.DataType">
+          <param name="Local" value="Interface/IEtlPlainField/IEtlPlainField.DataType.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlPlainField.Description">
+          <param name="Local" value="Interface/IEtlPlainField/IEtlPlainField.Description.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlPlainField.Edit">
+          <param name="Local" value="Interface/IEtlPlainField/IEtlPlainField.Edit.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlPlainField.Fields">
+          <param name="Local" value="Interface/IEtlPlainField/IEtlPlainField.Fields.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlPlainField.Id">
+          <param name="Local" value="Interface/IEtlPlainField/IEtlPlainField.Id.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlPlainField.Key">
+          <param name="Local" value="Interface/IEtlPlainField/IEtlPlainField.Key.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlPlainField.Name">
+          <param name="Local" value="Interface/IEtlPlainField/IEtlPlainField.Name.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlPlainField.Precision">
+          <param name="Local" value="Interface/IEtlPlainField/IEtlPlainField.Precision.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlPlainField.Save">
+          <param name="Local" value="Interface/IEtlPlainField/IEtlPlainField.Save.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlPlainField.Size">
+          <param name="Local" value="Interface/IEtlPlainField/IEtlPlainField.Size.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IEtlPlainFields">
+        <param name="Local" value="Interface/IEtlPlainFields/IEtlPlainFields.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlPlainFields.Add">
+          <param name="Local" value="Interface/IEtlPlainFields/IEtlPlainFields.Add.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlPlainFields.Clear">
+          <param name="Local" value="Interface/IEtlPlainFields/IEtlPlainFields.Clear.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlPlainFields.Count">
+          <param name="Local" value="Interface/IEtlPlainFields/IEtlPlainFields.Count.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlPlainFields.Edit">
+          <param name="Local" value="Interface/IEtlPlainFields/IEtlPlainFields.Edit.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlPlainFields.Fill">
+          <param name="Local" value="Interface/IEtlPlainFields/IEtlPlainFields.Fill.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlPlainFields.FindById">
+          <param name="Local" value="Interface/IEtlPlainFields/IEtlPlainFields.FindById.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlPlainFields.Item">
+          <param name="Local" value="Interface/IEtlPlainFields/IEtlPlainFields.Item.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlPlainFields.MoveDown">
+          <param name="Local" value="Interface/IEtlPlainFields/IEtlPlainFields.MoveDown.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlPlainFields.MoveUp">
+          <param name="Local" value="Interface/IEtlPlainFields/IEtlPlainFields.MoveUp.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlPlainFields.Remove">
+          <param name="Local" value="Interface/IEtlPlainFields/IEtlPlainFields.Remove.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlPlainFields.Save">
+          <param name="Local" value="Interface/IEtlPlainFields/IEtlPlainFields.Save.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IEtlPlainFieldsMapper">
+        <param name="Local" value="Interface/IEtlPlainFieldsMapper/IEtlPlainFieldsMapper.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlPlainFieldsMapper.Description">
+          <param name="Local" value="Interface/IEtlPlainFieldsMapper/IEtlPlainFieldsMapper.Description.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlPlainFieldsMapper.Edit">
+          <param name="Local" value="Interface/IEtlPlainFieldsMapper/IEtlPlainFieldsMapper.Edit.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlPlainFieldsMapper.Map">
+          <param name="Local" value="Interface/IEtlPlainFieldsMapper/IEtlPlainFieldsMapper.Map.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlPlainFieldsMapper.Name">
+          <param name="Local" value="Interface/IEtlPlainFieldsMapper/IEtlPlainFieldsMapper.Name.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlPlainFieldsMapper.Save">
+          <param name="Local" value="Interface/IEtlPlainFieldsMapper/IEtlPlainFieldsMapper.Save.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IEtlPlainIndex">
+        <param name="Local" value="Interface/IEtlPlainIndex/IEtlPlainIndex.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlPlainIndex.AddField">
+          <param name="Local" value="Interface/IEtlPlainIndex/IEtlPlainIndex.AddField.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlPlainIndex.ClearFields">
+          <param name="Local" value="Interface/IEtlPlainIndex/IEtlPlainIndex.ClearFields.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlPlainIndex.Description">
+          <param name="Local" value="Interface/IEtlPlainIndex/IEtlPlainIndex.Description.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlPlainIndex.Edit">
+          <param name="Local" value="Interface/IEtlPlainIndex/IEtlPlainIndex.Edit.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlPlainIndex.FieldCount">
+          <param name="Local" value="Interface/IEtlPlainIndex/IEtlPlainIndex.FieldCount.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlPlainIndex.Name">
+          <param name="Local" value="Interface/IEtlPlainIndex/IEtlPlainIndex.Name.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlPlainIndex.PlainInput">
+          <param name="Local" value="Interface/IEtlPlainIndex/IEtlPlainIndex.PlainInput.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlPlainIndex.PlainInputCount">
+          <param name="Local" value="Interface/IEtlPlainIndex/IEtlPlainIndex.PlainInputCount.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlPlainIndex.PlainInputField">
+          <param name="Local" value="Interface/IEtlPlainIndex/IEtlPlainIndex.PlainInputField.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlPlainIndex.RemoveField">
+          <param name="Local" value="Interface/IEtlPlainIndex/IEtlPlainIndex.RemoveField.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlPlainIndex.Save">
+          <param name="Local" value="Interface/IEtlPlainIndex/IEtlPlainIndex.Save.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IEtlPlainInput">
+        <param name="Local" value="Interface/IEtlPlainInput/IEtlPlainInput.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlPlainInput.Description">
+          <param name="Local" value="Interface/IEtlPlainInput/IEtlPlainInput.Description.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlPlainInput.Edit">
+          <param name="Local" value="Interface/IEtlPlainInput/IEtlPlainInput.Edit.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlPlainInput.Fields">
+          <param name="Local" value="Interface/IEtlPlainInput/IEtlPlainInput.Fields.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlPlainInput.Id">
+          <param name="Local" value="Interface/IEtlPlainInput/IEtlPlainInput.Id.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlPlainInput.Inputs">
+          <param name="Local" value="Interface/IEtlPlainInput/IEtlPlainInput.Inputs.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlPlainInput.Link">
+          <param name="Local" value="Interface/IEtlPlainInput/IEtlPlainInput.Link.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlPlainInput.Name">
+          <param name="Local" value="Interface/IEtlPlainInput/IEtlPlainInput.Name.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlPlainInput.Save">
+          <param name="Local" value="Interface/IEtlPlainInput/IEtlPlainInput.Save.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IEtlPlainInputs">
+        <param name="Local" value="Interface/IEtlPlainInputs/IEtlPlainInputs.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlPlainInputs.Add">
+          <param name="Local" value="Interface/IEtlPlainInputs/IEtlPlainInputs.Add.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlPlainInputs.Clear">
+          <param name="Local" value="Interface/IEtlPlainInputs/IEtlPlainInputs.Clear.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlPlainInputs.Count">
+          <param name="Local" value="Interface/IEtlPlainInputs/IEtlPlainInputs.Count.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlPlainInputs.Edit">
+          <param name="Local" value="Interface/IEtlPlainInputs/IEtlPlainInputs.Edit.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlPlainInputs.ETLObject">
+          <param name="Local" value="Interface/IEtlPlainInputs/IEtlPlainInputs.ETLObject.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlPlainInputs.Item">
+          <param name="Local" value="Interface/IEtlPlainInputs/IEtlPlainInputs.Item.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlPlainInputs.MaxObjectCount">
+          <param name="Local" value="Interface/IEtlPlainInputs/IEtlPlainInputs.MaxObjectCount.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlPlainInputs.Remove">
+          <param name="Local" value="Interface/IEtlPlainInputs/IEtlPlainInputs.Remove.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlPlainInputs.Save">
+          <param name="Local" value="Interface/IEtlPlainInputs/IEtlPlainInputs.Save.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IEtlPlainLink">
+        <param name="Local" value="Interface/IEtlPlainLink/IEtlPlainLink.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlPlainLink.DestinationObjectInput">
+          <param name="Local" value="Interface/IEtlPlainLink/IEtlPlainLink.DestinationObjectInput.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlPlainLink.Edit">
+          <param name="Local" value="Interface/IEtlPlainLink/IEtlPlainLink.Edit.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlPlainLink.FillDefault">
+          <param name="Local" value="Interface/IEtlPlainLink/IEtlPlainLink.FillDefault.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlPlainLink.Link">
+          <param name="Local" value="Interface/IEtlPlainLink/IEtlPlainLink.Link.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlPlainLink.Save">
+          <param name="Local" value="Interface/IEtlPlainLink/IEtlPlainLink.Save.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlPlainLink.SourceObjectOutput">
+          <param name="Local" value="Interface/IEtlPlainLink/IEtlPlainLink.SourceObjectOutput.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IEtlPlainLinkFieldMapping">
+        <param name="Local" value="Interface/IEtlPlainLinkFieldMapping/IEtlPlainLinkFieldMapping.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlPlainLinkFieldMapping.Database">
+          <param name="Local" value="Interface/IEtlPlainLinkFieldMapping/IEtlPlainLinkFieldMapping.Database.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlPlainLinkFieldMapping.Field">
+          <param name="Local" value="Interface/IEtlPlainLinkFieldMapping/IEtlPlainLinkFieldMapping.Field.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlPlainLinkFieldMapping.Increment">
+          <param name="Local" value="Interface/IEtlPlainLinkFieldMapping/IEtlPlainLinkFieldMapping.Increment.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlPlainLinkFieldMapping.Sequence">
+          <param name="Local" value="Interface/IEtlPlainLinkFieldMapping/IEtlPlainLinkFieldMapping.Sequence.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlPlainLinkFieldMapping.StartValue">
+          <param name="Local" value="Interface/IEtlPlainLinkFieldMapping/IEtlPlainLinkFieldMapping.StartValue.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlPlainLinkFieldMapping.Type">
+          <param name="Local" value="Interface/IEtlPlainLinkFieldMapping/IEtlPlainLinkFieldMapping.Type.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlPlainLinkFieldMapping.Value">
+          <param name="Local" value="Interface/IEtlPlainLinkFieldMapping/IEtlPlainLinkFieldMapping.Value.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IEtlPlainLinks">
+        <param name="Local" value="Interface/IEtlPlainLinks/IEtlPlainLinks.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlPlainLinks.Count">
+          <param name="Local" value="Interface/IEtlPlainLinks/IEtlPlainLinks.Count.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlPlainLinks.Item">
+          <param name="Local" value="Interface/IEtlPlainLinks/IEtlPlainLinks.Item.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IEtlPlainOutput">
+        <param name="Local" value="Interface/IEtlPlainOutput/IEtlPlainOutput.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlPlainOutput.Description">
+          <param name="Local" value="Interface/IEtlPlainOutput/IEtlPlainOutput.Description.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlPlainOutput.Edit">
+          <param name="Local" value="Interface/IEtlPlainOutput/IEtlPlainOutput.Edit.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlPlainOutput.Fields">
+          <param name="Local" value="Interface/IEtlPlainOutput/IEtlPlainOutput.Fields.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlPlainOutput.Id">
+          <param name="Local" value="Interface/IEtlPlainOutput/IEtlPlainOutput.Id.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlPlainOutput.Link">
+          <param name="Local" value="Interface/IEtlPlainOutput/IEtlPlainOutput.Link.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlPlainOutput.Name">
+          <param name="Local" value="Interface/IEtlPlainOutput/IEtlPlainOutput.Name.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlPlainOutput.Outputs">
+          <param name="Local" value="Interface/IEtlPlainOutput/IEtlPlainOutput.Outputs.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlPlainOutput.Save">
+          <param name="Local" value="Interface/IEtlPlainOutput/IEtlPlainOutput.Save.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IEtlPlainOutputs">
+        <param name="Local" value="Interface/IEtlPlainOutputs/IEtlPlainOutputs.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlPlainOutputs.Add">
+          <param name="Local" value="Interface/IEtlPlainOutputs/IEtlPlainOutputs.Add.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlPlainOutputs.Clear">
+          <param name="Local" value="Interface/IEtlPlainOutputs/IEtlPlainOutputs.Clear.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlPlainOutputs.Count">
+          <param name="Local" value="Interface/IEtlPlainOutputs/IEtlPlainOutputs.Count.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlPlainOutputs.Edit">
+          <param name="Local" value="Interface/IEtlPlainOutputs/IEtlPlainOutputs.Edit.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlPlainOutputs.ETLObject">
+          <param name="Local" value="Interface/IEtlPlainOutputs/IEtlPlainOutputs.ETLObject.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlPlainOutputs.Item">
+          <param name="Local" value="Interface/IEtlPlainOutputs/IEtlPlainOutputs.Item.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlPlainOutputs.MaxObjectCount">
+          <param name="Local" value="Interface/IEtlPlainOutputs/IEtlPlainOutputs.MaxObjectCount.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlPlainOutputs.Remove">
+          <param name="Local" value="Interface/IEtlPlainOutputs/IEtlPlainOutputs.Remove.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlPlainOutputs.Save">
+          <param name="Local" value="Interface/IEtlPlainOutputs/IEtlPlainOutputs.Save.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IEtlPlainRecord">
+        <param name="Local" value="Interface/IEtlPlainRecord/IEtlPlainRecord.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlPlainRecord.Count">
+          <param name="Local" value="Interface/IEtlPlainRecord/IEtlPlainRecord.Count.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlPlainRecord.Value">
+          <param name="Local" value="Interface/IEtlPlainRecord/IEtlPlainRecord.Value.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlPlainRecord.ValueById">
+          <param name="Local" value="Interface/IEtlPlainRecord/IEtlPlainRecord.ValueById.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IEtlPlainRecordSet">
+        <param name="Local" value="Interface/IEtlPlainRecordSet/IEtlPlainRecordSet.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlPlainRecordSet.Add">
+          <param name="Local" value="Interface/IEtlPlainRecordSet/IEtlPlainRecordSet.Add.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlPlainRecordSet.Clear">
+          <param name="Local" value="Interface/IEtlPlainRecordSet/IEtlPlainRecordSet.Clear.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlPlainRecordSet.Count">
+          <param name="Local" value="Interface/IEtlPlainRecordSet/IEtlPlainRecordSet.Count.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlPlainRecordSet.Fields">
+          <param name="Local" value="Interface/IEtlPlainRecordSet/IEtlPlainRecordSet.Fields.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlPlainRecordSet.Item">
+          <param name="Local" value="Interface/IEtlPlainRecordSet/IEtlPlainRecordSet.Item.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlPlainRecordSet.Remove">
+          <param name="Local" value="Interface/IEtlPlainRecordSet/IEtlPlainRecordSet.Remove.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IEtlPlainRecordSets">
+        <param name="Local" value="Interface/IEtlPlainRecordSets/IEtlPlainRecordSets.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlPlainRecordSets.Count">
+          <param name="Local" value="Interface/IEtlPlainRecordSets/IEtlPlainRecordSets.Count.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlPlainRecordSets.Item">
+          <param name="Local" value="Interface/IEtlPlainRecordSets/IEtlPlainRecordSets.Item.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IEtlShapeChangedEventArgs">
+        <param name="Local" value="Interface/IEtlShapeChangedEventArgs/IEtlShapeChangedEventArgs.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlShapeChangedEventArgs.Shape">
+          <param name="Local" value="Interface/IEtlShapeChangedEventArgs/IEtlShapeChangedEventArgs.Shape.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlShapeChangedEventArgs.ShapeOperation">
+          <param name="Local" value="Interface/IEtlShapeChangedEventArgs/IEtlShapeChangedEventArgs.ShapeOperation.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IEtlSource">
+        <param name="Local" value="Interface/IEtlSource/IEtlSource.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IEtlTask">
+        <param name="Local" value="Interface/IEtlTask/IEtlTask.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlTask.ActivateObject">
+          <param name="Local" value="Interface/IEtlTask/IEtlTask.ActivateObject.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlTask.ActiveChain">
+          <param name="Local" value="Interface/IEtlTask/IEtlTask.ActiveChain.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlTask.CanDeactivateObject">
+          <param name="Local" value="Interface/IEtlTask/IEtlTask.CanDeactivateObject.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlTask.Count">
+          <param name="Local" value="Interface/IEtlTask/IEtlTask.Count.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlTask.Create">
+          <param name="Local" value="Interface/IEtlTask/IEtlTask.Create.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlTask.CreatePlainLink">
+          <param name="Local" value="Interface/IEtlTask/IEtlTask.CreatePlainLink.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlTask.CustomData">
+          <param name="Local" value="Interface/IEtlTask/IEtlTask.CustomData.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlTask.DefaultBlockSize">
+          <param name="Local" value="Interface/IEtlTask/IEtlTask.DefaultBlockSize.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlTask.EventsAssembly">
+          <param name="Local" value="Interface/IEtlTask/IEtlTask.EventsAssembly.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlTask.EventsClass">
+          <param name="Local" value="Interface/IEtlTask/IEtlTask.EventsClass.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlTask.Execute">
+          <param name="Local" value="Interface/IEtlTask/IEtlTask.Execute.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlTask.FindById">
+          <param name="Local" value="Interface/IEtlTask/IEtlTask.FindById.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlTask.FindETLPlainLink">
+          <param name="Local" value="Interface/IEtlTask/IEtlTask.FindETLPlainLink.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlTask.FindWxLink">
+          <param name="Local" value="Interface/IEtlTask/IEtlTask.FindWxLink.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlTask.Item">
+          <param name="Local" value="Interface/IEtlTask/IEtlTask.Item.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlTask.Links">
+          <param name="Local" value="Interface/IEtlTask/IEtlTask.Links.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlTask.Log">
+          <param name="Local" value="Interface/IEtlTask/IEtlTask.Log.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlTask.Modified">
+          <param name="Local" value="Interface/IEtlTask/IEtlTask.Modified.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlTask.ParamValues">
+          <param name="Local" value="Interface/IEtlTask/IEtlTask.ParamValues.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlTask.PartialFetch">
+          <param name="Local" value="Interface/IEtlTask/IEtlTask.PartialFetch.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlTask.ShowInfoBox">
+          <param name="Local" value="Interface/IEtlTask/IEtlTask.ShowInfoBox.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlTask.StopExecute">
+          <param name="Local" value="Interface/IEtlTask/IEtlTask.StopExecute.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlTask.Workspace">
+          <param name="Local" value="Interface/IEtlTask/IEtlTask.Workspace.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IEtlTaskExecutionEvents">
+        <param name="Local" value="Interface/IEtlTaskExecutionEvents/IEtlTaskExecutionEvents.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlTaskExecutionEvents.OnEndBlock">
+          <param name="Local" value="Interface/IEtlTaskExecutionEvents/IEtlTaskExecutionEvents.OnEndBlock.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlTaskExecutionEvents.OnEndTask">
+          <param name="Local" value="Interface/IEtlTaskExecutionEvents/IEtlTaskExecutionEvents.OnEndTask.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlTaskExecutionEvents.OnError">
+          <param name="Local" value="Interface/IEtlTaskExecutionEvents/IEtlTaskExecutionEvents.OnError.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlTaskExecutionEvents.OnProgress">
+          <param name="Local" value="Interface/IEtlTaskExecutionEvents/IEtlTaskExecutionEvents.OnProgress.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlTaskExecutionEvents.OnStartBlock">
+          <param name="Local" value="Interface/IEtlTaskExecutionEvents/IEtlTaskExecutionEvents.OnStartBlock.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlTaskExecutionEvents.OnStartTask">
+          <param name="Local" value="Interface/IEtlTaskExecutionEvents/IEtlTaskExecutionEvents.OnStartTask.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IEtlUserDataContainer">
+        <param name="Local" value="Interface/IEtlUserDataContainer/IEtlUserDataContainer.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlUserDataContainer.IsDirty">
+          <param name="Local" value="Interface/IEtlUserDataContainer/IEtlUserDataContainer.IsDirty.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlUserDataContainer.SetDirty">
+          <param name="Local" value="Interface/IEtlUserDataContainer/IEtlUserDataContainer.SetDirty.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IEtlUserDataContainer.UserData">
+          <param name="Local" value="Interface/IEtlUserDataContainer/IEtlUserDataContainer.UserData.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IExecuteEtlScheduledTask">
+        <param name="Local" value="Interface/IExecuteEtlScheduledTask/IExecuteEtlScheduledTask.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IExecuteEtlScheduledTask.SourceTask">
+          <param name="Local" value="Interface/IExecuteEtlScheduledTask/IExecuteEtlScheduledTask.SourceTask.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="INewEtlObjectEventArgs">
+        <param name="Local" value="Interface/INewEtlObjectEventArgs/INewEtlObjectEventArgs.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="INewEtlObjectEventArgs.CmdID">
+          <param name="Local" value="Interface/INewEtlObjectEventArgs/INewEtlObjectEventArgs.CmdID.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IUiEtlObject">
+        <param name="Local" value="Interface/IUiEtlObject/IUiEtlObject.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IUiEtlObject.EtlTask">
+          <param name="Local" value="Interface/IUiEtlObject/IUiEtlObject.EtlTask.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IWxETLObject">
+        <param name="Local" value="Interface/IWxEtlObject/IWxETLObject.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxETLObject.ETLObject">
+          <param name="Local" value="Interface/IWxEtlObject/IWxETLObject.ETLObject.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Перечисления сборки Etl">
+      <param name="Local" value="Enums/KeEtl_Enums.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="EtlActionOnProblem">
+        <param name="Local" value="Enums/EtlActionOnProblem.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="EtlAgregateFormula">
+        <param name="Local" value="Enums/EtlAgregateFormula.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="EtlErrorOverlimitPolicy">
+        <param name="Local" value="Enums/EtlErrorOverlimitPolicy.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="EtlInputOutputType">
+        <param name="Local" value="Enums/EtlInputOutputType.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="EtlJoinType">
+        <param name="Local" value="Enums/EtlJoinType.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="EtlObjectType">
+        <param name="Local" value="Enums/EtlObjectType.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="EtlPlainLinkFieldMappingType">
+        <param name="Local" value="Enums/EtlPlainLinkFieldMappingType.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Классы сборки Etl">
+      <param name="Local" value="Class/KeEtl_Class.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="EtlAttachCPEventArgs">
+        <param name="Local" value="Class/EtlAttachCPEventArgs/EtlAttachCPEventArgs.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="EtlAttachCPEventArgs.CreateArgs">
+          <param name="Local" value="Class/EtlAttachCPEventArgs/EtlAttachCPEventArgs.CreateArgs.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="EtlBox">
+        <param name="Local" value="Class/EtlBox/EtlBox.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="EtlBox.OnAfterMoveCP">
+          <param name="Local" value="Class/EtlBox/EtlBox.OnAfterMoveCP.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="EtlBox.OnBeforeMoveCP">
+          <param name="Local" value="Class/EtlBox/EtlBox.OnBeforeMoveCP.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="EtlBox.OnSelectionChanged">
+          <param name="Local" value="Class/EtlBox/EtlBox.OnSelectionChanged.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="EtlBox.OnShapeChanged">
+          <param name="Local" value="Class/EtlBox/EtlBox.OnShapeChanged.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="EtlMoveCPEventArgs">
+        <param name="Local" value="Class/EtlMoveCPEventArgs/EtlMoveCPEventArgs.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="EtlMoveCPEventArgs.Create">
+          <param name="Local" value="Class/EtlMoveCPEventArgs/EtlMoveCPEventArgs.Create.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="EtlObjectPanelBox">
+        <param name="Local" value="Class/EtlObjectPanelBox/EtlObjectPanelBox.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="EtlObjectPanelBox.OnNewEtlObject">
+          <param name="Local" value="Class/EtlObjectPanelBox/EtlObjectPanelBox.OnNewEtlObject.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="EtlTaskExecutionEvents">
+        <param name="Local" value="Class/EtlTaskExecutionEvents/EtlTaskExecutionEvents.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="NewEtlObjectEventArgs">
+        <param name="Local" value="Class/NewEtlObjectEventArgs/NewEtlObjectEventArgs.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="NewEtlObjectEventArgs.CreateArgs">
+          <param name="Local" value="Class/NewEtlObjectEventArgs/NewEtlObjectEventArgs.CreateArgs.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="UiEtlObject">
+        <param name="Local" value="Class/UiEtlObject/UiEtlObject.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="WxEtlObject">
+        <param name="Local" value="Class/WxEtlObject/WxEtlObject.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Делегаты сборки Etl">
+      <param name="Local" value="Delegate/KeEtl_Delegate.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="OnAfterMoveCPIEtlBoxEventsDelegate">
+        <param name="Local" value="Delegate/OnAfterMoveCPIEtlBoxEventsDelegate.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="OnBeforeMoveCPIEtlBoxEventsDelegate">
+        <param name="Local" value="Delegate/OnBeforeMoveCPIEtlBoxEventsDelegate.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="OnNewEtlObjectIEtlObjectPanelBoxEventsDelegate">
+        <param name="Local" value="Delegate/OnNewEtlObjectIEtlObjectPanelBoxEventsDelegate.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="OnSelectionChangedIEtlBoxEventsDelegate">
+        <param name="Local" value="Delegate/OnSelectionChangedIEtlBoxEventsDelegate.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="OnShapeChangedIEtlBoxEventsDelegate">
+        <param name="Local" value="Delegate/OnShapeChangedIEtlBoxEventsDelegate.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Примеры">
+      <param name="Local" value="Samples/KeEtl_Sample.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Создание преобразователей">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Алгоритм пользователя">
+          <param name="Local" value="Samples/User_Algorithm.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Группировка">
+          <param name="Local" value="Samples/Group.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Объединение">
+          <param name="Local" value="Samples/Union.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Преобразование">
+          <param name="Local" value="Samples/Transformation.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Разделение">
+          <param name="Local" value="Samples/Split.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Соединение">
+          <param name="Local" value="Samples/Join.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Сортировка">
+          <param name="Local" value="Samples/Sort.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Удаление дубликатов">
+          <param name="Local" value="Samples/Deduplicate.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Фильтрация">
+          <param name="Local" value="Samples/Filter.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Импорт из XML-файлов со смешанной структурой">
+        <param name="Local" value="Samples/KeEtl_Sample1.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      </ul>
+    </ul>
+</ul>
+</html>

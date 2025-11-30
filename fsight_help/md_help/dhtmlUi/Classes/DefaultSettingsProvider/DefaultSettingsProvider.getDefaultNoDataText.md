@@ -1,0 +1,38 @@
+﻿# DefaultSettingsProvider.getDefaultNoDataText
+
+DefaultSettingsProvider.getDefaultNoDataText
+-
+
+
+# DefaultSettingsProvider.getDefaultNoDataText
+
+
+## Синтаксис
+
+
+getDefaultNoDataText();
+
+
+## Описание
+
+
+Метод getDefaultNoDataText возвращает
+ текст «без данных» для всплывающих подсказок и подписей данных по умолчанию.
+
+
+## Пример
+
+
+Пример использования метода приведен в описании метода [getDefaultLabelsMaskText](DefaultSettingsProvider.getDefaultLabelsMaskText.htm).
+
+
+См. также:
+
+
+[DefaultSettingsProvider](DefaultSettingsProvider.htm)
+
+
+		Справочная
+		 система на версию 10.9
+		 от 18/08/2025,
+		 © ООО «ФОРСАЙТ»,

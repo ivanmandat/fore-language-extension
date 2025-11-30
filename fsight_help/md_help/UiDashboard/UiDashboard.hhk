@@ -1,0 +1,957 @@
+<html>
+<!-- Sitemap 1.0 -->
+<object type="text/site properties">
+  <param name="SiteType" value="index">
+</object>
+<ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Публикация в социальных сетях">
+    <param name="Name" value="Публикация в социальных сетях">
+    <param name="Local" value="Project/Publishing.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Публикация">
+    <param name="Name" value="Публикация в социальных сетях">
+    <param name="Local" value="Project/Publishing.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Работа со слайдами">
+    <param name="Name" value="Работа со слайдами">
+    <param name="Local" value="InformationPanel/Building/Frames/frames.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Слайд">
+    <param name="Name" value="Работа со слайдами">
+    <param name="Local" value="InformationPanel/Building/Frames/frames.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Работа с визуализаторами">
+    <param name="Name" value="Добавление визуализаторов и работа с ними">
+    <param name="Local" value="InformationPanel/Building/Visualizers/visualizers.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Визуализатор">
+    <param name="Name" value="Добавление визуализаторов и работа с ними">
+    <param name="Local" value="InformationPanel/Building/Visualizers/visualizers.htm">
+    <param name="Name" value="Выбор и настройка источника данных визуализатора">
+    <param name="Local" value="InformationPanel/Building/Source.htm">
+    <param name="Name" value="Настройка визуализации данных">
+    <param name="Local" value="InformationPanel/Building/Visualizers/Visualization/visualization_setting.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Публикация визуализаторов">
+    <param name="Name" value="Публикация в социальных сетях">
+    <param name="Local" value="Project/Publishing.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Публикация слайдов">
+    <param name="Name" value="Публикация в социальных сетях">
+    <param name="Local" value="Project/Publishing.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Публикация визуализаторов и слайдов">
+    <param name="Name" value="Публикация визуализаторов и слайдов">
+    <param name="Local" value="Project/Publishing.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Оформление таблицы">
+    <param name="Name" value="Оформление таблицы и её элементов">
+    <param name="Local" value="InformationPanel/Building/Visualizers/Table/Table_Formatting.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Оформление таблицы и её элементов">
+    <param name="Name" value="Оформление таблицы и её элементов">
+    <param name="Local" value="InformationPanel/Building/Visualizers/Table/Table_Formatting.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Выделение элементов таблицы">
+    <param name="Name" value="Выделение элементов таблицы">
+    <param name="Local" value="InformationPanel/Building/Visualizers/Table/Select_Areas.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Элементы таблицы">
+    <param name="Name" value="Настройка визуализатора «Таблица»">
+    <param name="Local" value="InformationPanel/Building/Visualizers/Table/Table.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Таблица">
+    <param name="Name" value="Настройка визуализатора «Таблица»">
+    <param name="Local" value="InformationPanel/Building/Visualizers/Table/Table.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Модель данных">
+    <param name="Name" value="Создание модели данных">
+    <param name="Local" value="DataModel/create_data_model.htm">
+    <param name="Name" value="Построение модели данных">
+    <param name="Local" value="DataModel/Building_Data_Model.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Анализ данных">
+    <param name="Name" value="Анализ данных">
+    <param name="Local" value="InformationPanel/data_analysis.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Настройка вычисляемых фактов">
+    <param name="Name" value="Настройка вычисляемых фактов">
+    <param name="Local" value="InformationPanel/Building/calculated_facts.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Вычисляемые факты">
+    <param name="Name" value="Настройка вычисляемых фактов">
+    <param name="Local" value="InformationPanel/Building/calculated_facts.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Стиль таблицы">
+    <param name="Name" value="Настройка визуализатора «Таблица»">
+    <param name="Local" value="InformationPanel/Building/Visualizers/Table/Table.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Построение моделей данных">
+    <param name="Name" value="Построение модели данных">
+    <param name="Local" value="DataModel/Building_Data_Model.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Информационная панель">
+    <param name="Name" value="Построение информационной панели">
+    <param name="Local" value="InformationPanel/Building/Create_Informatuion_Panel.htm">
+    <param name="Name" value="Начало работы с инструментом «Информационная панель»">
+    <param name="Local" value="InformationPanel/Starting.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ClickHouse">
+    <param name="Name" value="Настройка ClickHouse">
+    <param name="Local" value="DataModel/ClickHouse.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Операции с моделью данных">
+    <param name="Name" value="Создание модели данных">
+    <param name="Local" value="DataModel/create_data_model.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Создание модели данных">
+    <param name="Name" value="Создание модели данных">
+    <param name="Local" value="DataModel/create_data_model.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Добавление источников">
+    <param name="Name" value="Добавление источников">
+    <param name="Local" value="DataModel/DataSources/add_data_sources.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Загрузка файлов">
+    <param name="Name" value="Добавление источников">
+    <param name="Local" value="DataModel/DataSources/add_data_sources.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Источник ФАП">
+    <param name="Name" value="Добавление источников">
+    <param name="Local" value="DataModel/DataSources/add_data_sources.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Подключение к БД">
+    <param name="Name" value="Добавление источников">
+    <param name="Local" value="DataModel/DataSources/add_data_sources.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Преднастроенные подключения">
+    <param name="Name" value="Добавление источников">
+    <param name="Local" value="DataModel/DataSources/add_data_sources.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="SQL-запрос">
+    <param name="Name" value="Создание SQL-запросов">
+    <param name="Local" value="DataModel/DataSources/create_sql.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Создание SQL-запросов">
+    <param name="Name" value="Создание SQL-запросов">
+    <param name="Local" value="DataModel/DataSources/create_sql.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Добавление объектов">
+    <param name="Name" value="Добавление объектов и связей между ними">
+    <param name="Local" value="DataModel/Objects/add_objects.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Добавление связей">
+    <param name="Name" value="Добавление объектов и связей между ними">
+    <param name="Local" value="DataModel/Objects/add_objects.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Вычисляемое поле">
+    <param name="Name" value="Задание выражений">
+    <param name="Local" value="DataModel/Preview/expressions.htm">
+    <param name="Name" value="Таблица предварительного просмотра">
+    <param name="Local" value="DataModel/Preview/preview_table.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Задание выражений">
+    <param name="Name" value="Задание выражений">
+    <param name="Local" value="DataModel/Preview/expressions.htm">
+    <param name="Name" value="Редактор выражения">
+    <param name="Local" value="InformationPanel/Building/ExpressionEditor.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Фильтр модели данных">
+    <param name="Name" value="Задание выражений">
+    <param name="Local" value="DataModel/Preview/expressions.htm">
+    <param name="Name" value="Таблица предварительного просмотра">
+    <param name="Local" value="DataModel/Preview/preview_table.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Автообновление таблицы">
+    <param name="Name" value="Таблица предварительного просмотра">
+    <param name="Local" value="DataModel/Preview/preview_table.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Настройка высоты таблицы">
+    <param name="Name" value="Таблица предварительного просмотра">
+    <param name="Local" value="DataModel/Preview/preview_table.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Высота таблицы">
+    <param name="Name" value="Таблица предварительного просмотра">
+    <param name="Local" value="DataModel/Preview/preview_table.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Настройка отображения полей">
+    <param name="Name" value="Таблица предварительного просмотра">
+    <param name="Local" value="DataModel/Preview/preview_table.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Отображение полей">
+    <param name="Name" value="Таблица предварительного просмотра">
+    <param name="Local" value="DataModel/Preview/preview_table.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Настройка скрытия полей">
+    <param name="Name" value="Таблица предварительного просмотра">
+    <param name="Local" value="DataModel/Preview/preview_table.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Скрытие полей">
+    <param name="Name" value="Таблица предварительного просмотра">
+    <param name="Local" value="DataModel/Preview/preview_table.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Настройка фильтрации модели данных">
+    <param name="Name" value="Таблица предварительного просмотра">
+    <param name="Local" value="DataModel/Preview/preview_table.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Фильтрация модели данных">
+    <param name="Name" value="Таблица предварительного просмотра">
+    <param name="Local" value="DataModel/Preview/preview_table.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Переименование полей">
+    <param name="Name" value="Таблица предварительного просмотра">
+    <param name="Local" value="DataModel/Preview/preview_table.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Создание вычисляемых полей">
+    <param name="Name" value="Таблица предварительного просмотра">
+    <param name="Local" value="DataModel/Preview/preview_table.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Таблица предварительного просмотра">
+    <param name="Name" value="Таблица предварительного просмотра">
+    <param name="Local" value="DataModel/Preview/preview_table.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Настройка ClickHouse">
+    <param name="Name" value="Настройка ClickHouse">
+    <param name="Local" value="DataModel/ClickHouse.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Установка ClickHouse">
+    <param name="Name" value="Настройка ClickHouse">
+    <param name="Local" value="DataModel/ClickHouse.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Масштабирование рабочей области">
+    <param name="Name" value="Настройка рабочей области">
+    <param name="Local" value="DataModel/data_model_workspace_features.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Навигация по рабочей области">
+    <param name="Name" value="Настройка рабочей области">
+    <param name="Local" value="DataModel/data_model_workspace_features.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Настройка рабочей области">
+    <param name="Name" value="Настройка рабочей области">
+    <param name="Local" value="DataModel/data_model_workspace_features.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Обновление объектов на рабочей области">
+    <param name="Name" value="Настройка рабочей области">
+    <param name="Local" value="DataModel/data_model_workspace_features.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Переименование объектов на рабочей области">
+    <param name="Name" value="Настройка рабочей области">
+    <param name="Local" value="DataModel/data_model_workspace_features.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Перемещение объектов по рабочей области">
+    <param name="Name" value="Настройка рабочей области">
+    <param name="Local" value="DataModel/data_model_workspace_features.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Удаление объектов с рабочей области">
+    <param name="Name" value="Настройка рабочей области">
+    <param name="Local" value="DataModel/data_model_workspace_features.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Извлечение данных">
+    <param name="Name" value="Настройка режимов работы с данными">
+    <param name="Local" value="DataModel/data_modes.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Настройка режимов работы с данными">
+    <param name="Name" value="Настройка режимов работы с данными">
+    <param name="Local" value="DataModel/data_modes.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Прямое подключение">
+    <param name="Name" value="Настройка режимов работы с данными">
+    <param name="Local" value="DataModel/data_modes.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Ручное обновление данных">
+    <param name="Name" value="Настройка режимов работы с данными">
+    <param name="Local" value="DataModel/data_modes.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Статус извлечения данных">
+    <param name="Name" value="Настройка режимов работы с данными">
+    <param name="Local" value="DataModel/data_modes.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Построение модели данных">
+    <param name="Name" value="Построение модели данных">
+    <param name="Local" value="DataModel/Building_Data_Model.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Добавление слайдов">
+    <param name="Name" value="Добавление слайдов и работа с ними">
+    <param name="Local" value="InformationPanel/Building/Frames/frames.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Операции со слайдами">
+    <param name="Name" value="Добавление слайдов и работа с ними">
+    <param name="Local" value="InformationPanel/Building/Frames/frames.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Активация синхронизации">
+    <param name="Name" value="Синхронизация визуализаторов на слайде">
+    <param name="Local" value="InformationPanel/Building/Frames/visualizers_synchronization.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Настройка элементов управления">
+    <param name="Name" value="Синхронизация визуализаторов на слайде">
+    <param name="Local" value="InformationPanel/Building/Frames/visualizers_synchronization.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Элементы управления">
+    <param name="Name" value="Синхронизация визуализаторов на слайде">
+    <param name="Local" value="InformationPanel/Building/Frames/visualizers_synchronization.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Синхронизация визуализаторов">
+    <param name="Name" value="Синхронизация визуализаторов на слайде">
+    <param name="Local" value="InformationPanel/Building/Frames/visualizers_synchronization.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Отключение синхронизации">
+    <param name="Name" value="Синхронизация визуализаторов на слайде">
+    <param name="Local" value="InformationPanel/Building/Frames/visualizers_synchronization.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Синхронизация по выделению">
+    <param name="Name" value="Синхронизация визуализаторов на слайде">
+    <param name="Local" value="InformationPanel/Building/Frames/visualizers_synchronization.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Синхронизация">
+    <param name="Name" value="Синхронизация визуализаторов на слайде">
+    <param name="Local" value="InformationPanel/Building/Frames/visualizers_synchronization.htm">
+    <param name="Name" value="Настройка визуализации данных">
+    <param name="Local" value="InformationPanel/Building/Visualizers/Visualization/visualization_setting.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Синхронизация по отметке">
+    <param name="Name" value="Синхронизация визуализаторов на слайде">
+    <param name="Local" value="InformationPanel/Building/Frames/visualizers_synchronization.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Выделение боковика">
+    <param name="Name" value="Выделение элементов таблицы">
+    <param name="Local" value="InformationPanel/Building/Visualizers/Table/Select_Areas.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Выделение данных">
+    <param name="Name" value="Выделение элементов таблицы">
+    <param name="Local" value="InformationPanel/Building/Visualizers/Table/Select_Areas.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Выделение итогов">
+    <param name="Name" value="Выделение элементов таблицы">
+    <param name="Local" value="InformationPanel/Building/Visualizers/Table/Select_Areas.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Выделение шапки">
+    <param name="Name" value="Выделение элементов таблицы">
+    <param name="Local" value="InformationPanel/Building/Visualizers/Table/Select_Areas.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Выделение строки">
+    <param name="Name" value="Выделение элементов таблицы">
+    <param name="Local" value="InformationPanel/Building/Visualizers/Table/Select_Areas.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Выделение столбца">
+    <param name="Name" value="Выделение элементов таблицы">
+    <param name="Local" value="InformationPanel/Building/Visualizers/Table/Select_Areas.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Выделение уголка">
+    <param name="Name" value="Выделение элементов таблицы">
+    <param name="Local" value="InformationPanel/Building/Visualizers/Table/Select_Areas.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Выделение всей таблицы">
+    <param name="Name" value="Выделение элементов таблицы">
+    <param name="Local" value="InformationPanel/Building/Visualizers/Table/Select_Areas.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Выделение таблицы">
+    <param name="Name" value="Выделение элементов таблицы">
+    <param name="Local" value="InformationPanel/Building/Visualizers/Table/Select_Areas.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Операции с таблицами">
+    <param name="Name" value="Настройка визуализатора «Таблица»">
+    <param name="Local" value="InformationPanel/Building/Visualizers/Table/Table.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Структура таблицы">
+    <param name="Name" value="Настройка визуализатора «Таблица»">
+    <param name="Local" value="InformationPanel/Building/Visualizers/Table/Table.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Оформление элементов таблицы">
+    <param name="Name" value="Оформление таблицы и её элементов">
+    <param name="Local" value="InformationPanel/Building/Visualizers/Table/Table_Formatting.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Sankey диаграмма">
+    <param name="Name" value="Настройка визуализатора «Диаграмма»">
+    <param name="Local" value="InformationPanel/Building/Visualizers/Visualization/visualizer_types.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Диаграмма рассеяния">
+    <param name="Name" value="Настройка визуализатора «Диаграмма»">
+    <param name="Local" value="InformationPanel/Building/Visualizers/Visualization/visualizer_types.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Диаграмма с областями">
+    <param name="Name" value="Настройка визуализатора «Диаграмма»">
+    <param name="Local" value="InformationPanel/Building/Visualizers/Visualization/visualizer_types.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Кольцевая диаграмма">
+    <param name="Name" value="Настройка визуализатора «Диаграмма»">
+    <param name="Local" value="InformationPanel/Building/Visualizers/Visualization/visualizer_types.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Круговая диаграмма">
+    <param name="Name" value="Настройка визуализатора «Диаграмма»">
+    <param name="Local" value="InformationPanel/Building/Visualizers/Visualization/visualizer_types.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Лепестковая диаграмма">
+    <param name="Name" value="Настройка визуализатора «Диаграмма»">
+    <param name="Local" value="InformationPanel/Building/Visualizers/Visualization/visualizer_types.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Линейная диаграмма">
+    <param name="Name" value="Настройка визуализатора «Диаграмма»">
+    <param name="Local" value="InformationPanel/Building/Visualizers/Visualization/visualizer_types.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Линейчатая диаграмма">
+    <param name="Name" value="Настройка визуализатора «Диаграмма»">
+    <param name="Local" value="InformationPanel/Building/Visualizers/Visualization/visualizer_types.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Смешанная диаграмма">
+    <param name="Name" value="Настройка визуализатора «Диаграмма»">
+    <param name="Local" value="InformationPanel/Building/Visualizers/Visualization/visualizer_types.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Столбиковая диаграмма">
+    <param name="Name" value="Настройка визуализатора «Диаграмма»">
+    <param name="Local" value="InformationPanel/Building/Visualizers/Visualization/visualizer_types.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Карта">
+    <param name="Name" value="Настройка визуализатора «Карта»">
+    <param name="Local" value="InformationPanel/Building/Visualizers/Visualization/Map.htm">
+    <param name="Name" value="Настройка визуализации данных">
+    <param name="Local" value="InformationPanel/Building/Visualizers/Visualization/visualization_setting.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Индикатор">
+    <param name="Name" value="Настройка визуализатора «Индикатор»">
+    <param name="Local" value="InformationPanel/Building/Visualizers/Visualization/Indicator.htm">
+    <param name="Name" value="Настройка визуализации данных">
+    <param name="Local" value="InformationPanel/Building/Visualizers/Visualization/visualization_setting.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Диаграмма">
+    <param name="Name" value="Настройка визуализатора «Диаграмма»">
+    <param name="Local" value="InformationPanel/Building/Visualizers/Visualization/visualizer_types.htm">
+    <param name="Name" value="Настройка визуализации данных">
+    <param name="Local" value="InformationPanel/Building/Visualizers/Visualization/visualization_setting.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Визуализация данных">
+    <param name="Name" value="Настройка визуализации данных">
+    <param name="Local" value="InformationPanel/Building/Visualizers/Visualization/visualization_setting.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Настройки визуализаторов">
+    <param name="Name" value="Настройка визуализации данных">
+    <param name="Local" value="InformationPanel/Building/Visualizers/Visualization/visualization_setting.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Настройки на боковой панели">
+    <param name="Name" value="Настройка визуализации данных">
+    <param name="Local" value="InformationPanel/Building/Visualizers/Visualization/visualization_setting.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Панель настроек">
+    <param name="Name" value="Настройка визуализации данных">
+    <param name="Local" value="InformationPanel/Building/Visualizers/Visualization/visualization_setting.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Экспорт визуализаторов">
+    <param name="Name" value="Экспорт визуализаторов и слайдов">
+    <param name="Local" value="InformationPanel/Work/export.htm">
+    <param name="Name" value="Добавление визуализаторов и работа с ними">
+    <param name="Local" value="InformationPanel/Building/Visualizers/visualizers.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Экспорт слайдов">
+    <param name="Name" value="Экспорт визуализаторов и слайдов">
+    <param name="Local" value="InformationPanel/Work/export.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Операции с визуализаторами">
+    <param name="Name" value="Добавление визуализаторов и работа с ними">
+    <param name="Local" value="InformationPanel/Building/Visualizers/visualizers.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Работа с визуализатором">
+    <param name="Name" value="Добавление визуализаторов и работа с ними">
+    <param name="Local" value="InformationPanel/Building/Visualizers/visualizers.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Выбор источника данных визуализатора">
+    <param name="Name" value="Выбор и настройка источника данных визуализатора">
+    <param name="Local" value="InformationPanel/Building/Source.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Настройка источника данных визуализатора">
+    <param name="Name" value="Выбор и настройка источника данных визуализатора">
+    <param name="Local" value="InformationPanel/Building/Source.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Работа с источниками данных">
+    <param name="Name" value="Выбор и настройка источника данных визуализатора">
+    <param name="Local" value="InformationPanel/Building/Source.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Источник данных">
+    <param name="Name" value="Выбор и настройка источника данных визуализатора">
+    <param name="Local" value="InformationPanel/Building/Source.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Вычисляемый факт">
+    <param name="Name" value="Настройка вычисляемых фактов">
+    <param name="Local" value="InformationPanel/Building/calculated_facts.htm">
+    <param name="Name" value="Настройка визуализации данных">
+    <param name="Local" value="InformationPanel/Building/Visualizers/Visualization/visualization_setting.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Создание вычисляемых фактов">
+    <param name="Name" value="Настройка вычисляемых фактов">
+    <param name="Local" value="InformationPanel/Building/calculated_facts.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Просмотр информационной панели">
+    <param name="Name" value="Просмотр готовой информационной панели">
+    <param name="Local" value="InformationPanel/Building/Preview.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Сохранение информационной панели">
+    <param name="Name" value="Сохранение информационной панели">
+    <param name="Local" value="InformationPanel/Building/Save.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Работа с информационной панелью">
+    <param name="Name" value="Работа с готовой информационной панелью">
+    <param name="Local" value="InformationPanel/Work/Work_with_information_bar.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Построение информационных пенелей">
+    <param name="Name" value="Построение информационной панели">
+    <param name="Local" value="InformationPanel/Building/Create_Informatuion_Panel.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Построение информационной пенели">
+    <param name="Name" value="Построение информационной панели">
+    <param name="Local" value="InformationPanel/Building/Create_Informatuion_Panel.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Внешний вид таблицы">
+    <param name="Name" value="Настройка визуализатора «Таблица»">
+    <param name="Local" value="InformationPanel/Building/Visualizers/Table/Table.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Промежуточные итоги">
+    <param name="Name" value="Настройка визуализатора «Таблица»">
+    <param name="Local" value="InformationPanel/Building/Visualizers/Table/Table.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Итоги">
+    <param name="Name" value="Настройка визуализатора «Таблица»">
+    <param name="Local" value="InformationPanel/Building/Visualizers/Table/Table.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Спарклайн">
+    <param name="Name" value="Настройка визуализатора «Таблица»">
+    <param name="Local" value="InformationPanel/Building/Visualizers/Table/Table.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Индикатор роста">
+    <param name="Name" value="Настройка визуализатора «Таблица»">
+    <param name="Local" value="InformationPanel/Building/Visualizers/Table/Table.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Сортировка данных">
+    <param name="Name" value="Настройка визуализатора «Таблица»">
+    <param name="Local" value="InformationPanel/Building/Visualizers/Table/Table.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Исключение данных">
+    <param name="Name" value="Настройка визуализатора «Таблица»">
+    <param name="Local" value="InformationPanel/Building/Visualizers/Table/Table.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Заголовок">
+    <param name="Name" value="Настройка визуализатора «Таблица»">
+    <param name="Local" value="InformationPanel/Building/Visualizers/Table/Table.htm">
+    <param name="Name" value="Настройка визуализации данных">
+    <param name="Local" value="InformationPanel/Building/Visualizers/Visualization/visualization_setting.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Отображение пустых строк">
+    <param name="Name" value="Настройка визуализатора «Таблица»">
+    <param name="Local" value="InformationPanel/Building/Visualizers/Table/Table.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Скрытие пустых строк">
+    <param name="Name" value="Настройка визуализатора «Таблица»">
+    <param name="Local" value="InformationPanel/Building/Visualizers/Table/Table.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Добавление источника данных">
+    <param name="Name" value="Выбор и настройка источника данных визуализатора">
+    <param name="Local" value="InformationPanel/Building/Source.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Редактирование источника данных">
+    <param name="Name" value="Выбор и настройка источника данных визуализатора">
+    <param name="Local" value="InformationPanel/Building/Source.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Удаление источника данных">
+    <param name="Name" value="Выбор и настройка источника данных визуализатора">
+    <param name="Local" value="InformationPanel/Building/Source.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Измерения">
+    <param name="Name" value="Настройка визуализации данных">
+    <param name="Local" value="InformationPanel/Building/Visualizers/Visualization/visualization_setting.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Факты">
+    <param name="Name" value="Настройка визуализации данных">
+    <param name="Local" value="InformationPanel/Building/Visualizers/Visualization/visualization_setting.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Поля">
+    <param name="Name" value="Настройка визуализации данных">
+    <param name="Local" value="InformationPanel/Building/Visualizers/Visualization/visualization_setting.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Поиск измерений">
+    <param name="Name" value="Настройка визуализации данных">
+    <param name="Local" value="InformationPanel/Building/Visualizers/Visualization/visualization_setting.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Поиск фактов">
+    <param name="Name" value="Настройка визуализации данных">
+    <param name="Local" value="InformationPanel/Building/Visualizers/Visualization/visualization_setting.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Удаление полей">
+    <param name="Name" value="Настройка визуализации данных">
+    <param name="Local" value="InformationPanel/Building/Visualizers/Visualization/visualization_setting.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Задание полей">
+    <param name="Name" value="Настройка визуализации данных">
+    <param name="Local" value="InformationPanel/Building/Visualizers/Visualization/visualization_setting.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Линии тренда">
+    <param name="Name" value="Настройка визуализации данных">
+    <param name="Local" value="InformationPanel/Building/Visualizers/Visualization/visualization_setting.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Геообъект">
+    <param name="Name" value="Настройка визуализации данных">
+    <param name="Local" value="InformationPanel/Building/Visualizers/Visualization/visualization_setting.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Агрегация уровней">
+    <param name="Name" value="Настройка визуализации данных">
+    <param name="Local" value="InformationPanel/Building/Visualizers/Visualization/visualization_setting.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Фильтр измерений">
+    <param name="Name" value="Настройка визуализации данных">
+    <param name="Local" value="InformationPanel/Building/Visualizers/Visualization/visualization_setting.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Формат данных">
+    <param name="Name" value="Настройка визуализации данных">
+    <param name="Local" value="InformationPanel/Building/Visualizers/Visualization/visualization_setting.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Цвет шрифта">
+    <param name="Name" value="Настройка визуализации данных">
+    <param name="Local" value="InformationPanel/Building/Visualizers/Visualization/visualization_setting.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Сортировка">
+    <param name="Name" value="Настройка визуализации данных">
+    <param name="Local" value="InformationPanel/Building/Visualizers/Visualization/visualization_setting.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Ось категорий">
+    <param name="Name" value="Оси диаграммы: Информационные панели">
+    <param name="Local" value="InformationPanel/Building/Visualizers/Visualization/Axes.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Ось значений">
+    <param name="Name" value="Оси диаграммы: Информационные панели">
+    <param name="Local" value="InformationPanel/Building/Visualizers/Visualization/Axes.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Подписи данных">
+    <param name="Name" value="Подписи данных: Информационные панели">
+    <param name="Local" value="InformationPanel/Building/Visualizers/Visualization/Data_Labels.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Подсказки">
+    <param name="Name" value="Всплывающие подсказки: Информационные панели">
+    <param name="Local" value="InformationPanel/Building/Visualizers/Visualization/Tooltips.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Легенда">
+    <param name="Name" value="Легенда: Информационные панели">
+    <param name="Local" value="InformationPanel/Building/Visualizers/Visualization/Legend.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Онлайн-отображение карты">
+    <param name="Name" value="Настройка визуализатора «Карта»">
+    <param name="Local" value="InformationPanel/Building/Visualizers/Visualization/Map.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Автомасштаб карты">
+    <param name="Name" value="Настройка визуализатора «Карта»">
+    <param name="Local" value="InformationPanel/Building/Visualizers/Visualization/Map.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Тип ряда">
+    <param name="Name" value="Ряды данных: Информационные панели#type">
+    <param name="Local" value="InformationPanel/Building/Visualizers/Visualization/Data_Series.htm#type">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Отметка элементов измерения">
+    <param name="Name" value="Отметка элементов измерения">
+    <param name="Local" value="InformationPanel/Building/Selecting_Dimension_Elements.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Отметка элементов">
+    <param name="Name" value="Отметка элементов измерения">
+    <param name="Local" value="InformationPanel/Building/Selecting_Dimension_Elements.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Текст">
+    <param name="Name" value="Настройка визуализатора «Текст»">
+    <param name="Local" value="InformationPanel/Building/Visualizers/Visualization/Text.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Настройка текста">
+    <param name="Name" value="Настройка визуализатора «Текст»">
+    <param name="Local" value="InformationPanel/Building/Visualizers/Visualization/Text.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Изображение">
+    <param name="Name" value="Настройка визуализатора «Изображение»">
+    <param name="Local" value="InformationPanel/Building/Visualizers/Visualization/Image.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Редактор выражения">
+    <param name="Name" value="Редактор выражения: Информационные панели">
+    <param name="Local" value="InformationPanel/Building/ExpressionEditor.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Всплывающие подсказки">
+    <param name="Name" value="Всплывающие подсказки: Информационные панели">
+    <param name="Local" value="InformationPanel/Building/Visualizers/Visualization/Tooltips.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Коридоры диаграмм">
+    <param name="Name" value="Коридоры диаграммы: Информационные панели">
+    <param name="Local" value="InformationPanel/Building/Visualizers/Visualization/Corridors.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Линии уровня">
+    <param name="Name" value="Линии уровня: Информационные панели">
+    <param name="Local" value="InformationPanel/Building/Visualizers/Visualization/Level_Lines.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Область построения">
+    <param name="Name" value="Область построения: Информационные панели">
+    <param name="Local" value="InformationPanel/Building/Visualizers/Visualization/Construction_Area.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Общие настройки">
+    <param name="Name" value="Общие настройки: Информационные панели">
+    <param name="Local" value="InformationPanel/Building/Visualizers/Visualization/General_Settings.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Оси диаграммы">
+    <param name="Name" value="Оси диаграммы: Информационные панели">
+    <param name="Local" value="InformationPanel/Building/Visualizers/Visualization/Axes.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Перекрытия и зазоры">
+    <param name="Name" value="Перекрытия и зазоры: Информационные панели">
+    <param name="Local" value="InformationPanel/Building/Visualizers/Visualization/Overlap_and_gap.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Ряды данных">
+    <param name="Name" value="Ряды данных: Информационные панели">
+    <param name="Local" value="InformationPanel/Building/Visualizers/Visualization/Data_Series.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Агрегация фактов">
+    <param name="Name" value="Настройка визуализации данных">
+    <param name="Local" value="InformationPanel/Building/Visualizers/Visualization/visualization_setting.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Боковая панель">
+    <param name="Name" value="Настройка визуализации данных">
+    <param name="Local" value="InformationPanel/Building/Visualizers/Visualization/visualization_setting.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Перекрытие">
+    <param name="Name" value="Перекрытия и зазоры: Информационные панели#overlap">
+    <param name="Local" value="InformationPanel/Building/Visualizers/Visualization/Overlap_and_gap.htm#overlap">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Боковой зазор">
+    <param name="Name" value="Перекрытия и зазоры: Информационные панели#gap">
+    <param name="Local" value="InformationPanel/Building/Visualizers/Visualization/Overlap_and_gap.htm#gap">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Закругление столбиков">
+    <param name="Name" value="Перекрытия и зазоры: Информационные панели#rounded_columns">
+    <param name="Local" value="InformationPanel/Building/Visualizers/Visualization/Overlap_and_gap.htm#rounded_columns">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Зазор между окружностями">
+    <param name="Name" value="Перекрытия и зазоры: Информационные панели#gap_between_circles">
+    <param name="Local" value="InformationPanel/Building/Visualizers/Visualization/Overlap_and_gap.htm#gap_between_circles">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Диаметр отверстия">
+    <param name="Name" value="Перекрытия и зазоры: Информационные панели#diameter">
+    <param name="Local" value="InformationPanel/Building/Visualizers/Visualization/Overlap_and_gap.htm#diameter">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Угол поворота">
+    <param name="Name" value="Перекрытия и зазоры: Информационные панели#angle">
+    <param name="Local" value="InformationPanel/Building/Visualizers/Visualization/Overlap_and_gap.htm#angle">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Создание копии модели данных">
+    <param name="Name" value="Сохранение модели данных">
+    <param name="Local" value="DataModel/Save.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Сохранение модели данных">
+    <param name="Name" value="Сохранение модели данных">
+    <param name="Local" value="DataModel/Save.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Сохранение копии информационной панели">
+    <param name="Name" value="Сохранение информационной панели">
+    <param name="Local" value="InformationPanel/Building/Save.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Печать визуализаторов">
+    <param name="Name" value="Печать визуализаторов и слайдов">
+    <param name="Local" value="InformationPanel/Work/print.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Печать слайдов">
+    <param name="Name" value="Печать визуализаторов и слайдов">
+    <param name="Local" value="InformationPanel/Work/print.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Параметры страницы">
+    <param name="See Also" value="Параметры страницы">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Верхний колонтитул">
+      <param name="Name" value="Колонтитулы на странице: Информационные панели">
+      <param name="Local" value="InformationPanel/Work/Print/Footers_params.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Нижний колонтитул">
+      <param name="Name" value="Колонтитулы на странице: Информационные панели">
+      <param name="Local" value="InformationPanel/Work/Print/Footers_params.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Страница">
+      <param name="Name" value="Общие параметры страницы: Информационные панели">
+      <param name="Local" value="InformationPanel/Work/Print/Common_ParamsPage.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Поля">
+      <param name="Name" value="Поля на странице: Информационные панели">
+      <param name="Local" value="InformationPanel/Work/Print/Fields_OnPage.htm">
+    </object>
+    </ul>
+</ul>
+</html>

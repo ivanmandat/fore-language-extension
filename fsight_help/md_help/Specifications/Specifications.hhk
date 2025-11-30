@@ -1,0 +1,256 @@
+<html>
+<!-- Sitemap 1.0 -->
+<object type="text/site properties">
+  <param name="SiteType" value="index">
+</object>
+<ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="&lt;area&gt;">
+    <param name="Name" value="Элемент &lt;area&gt;">
+    <param name="Local" value="AdhocSpecification/BaseElements/Adhoc_area.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="&lt;block&gt;">
+    <param name="Name" value="Элемент &lt;block&gt;">
+    <param name="Local" value="AdhocSpecification/BaseElements/AdhocSpec_block.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="&lt;item&gt;">
+    <param name="Name" value="Элемент &lt;item&gt;">
+    <param name="Local" value="AdhocSpecification/BaseElements/AdhocSpec_item.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="&lt;kap&gt;">
+    <param name="Name" value="Элемент &lt;kap&gt;">
+    <param name="Local" value="AdhocSpecification/BaseElements/AdhocSpec_kap.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="&lt;prop&gt;">
+    <param name="Name" value="Элемент &lt;prop&gt;">
+    <param name="Local" value="AdhocSpecification/BaseElements/adhocspec_prop.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="&lt;g&gt;">
+    <param name="Name" value="Элемент &lt;g&gt;">
+    <param name="Local" value="SVGMapSpecification/Structure/BaseElements/g_element.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="&lt;svg&gt;">
+    <param name="Name" value="Элемент &lt;svg&gt;">
+    <param name="Local" value="SVGMapSpecification/Structure/BaseElements/svg_element.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Конструктивные элементы аналитической панели">
+    <param name="Name" value="Конструктивные элементы аналитической панели">
+    <param name="Local" value="AdhocSpecification/BaseElements/adhoc_baseelements.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="&lt;area&gt;">
+      <param name="Name" value="Элемент &lt;area&gt;">
+      <param name="Local" value="AdhocSpecification/BaseElements/Adhoc_area.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="&lt;block&gt;">
+      <param name="Name" value="Элемент &lt;block&gt;">
+      <param name="Local" value="AdhocSpecification/BaseElements/AdhocSpec_block.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="&lt;item&gt;">
+      <param name="Name" value="Элемент &lt;item&gt;">
+      <param name="Local" value="AdhocSpecification/BaseElements/AdhocSpec_item.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="&lt;kap&gt;">
+      <param name="Name" value="Элемент &lt;kap&gt;">
+      <param name="Local" value="AdhocSpecification/BaseElements/AdhocSpec_kap.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="&lt;prop&gt;">
+      <param name="Name" value="Элемент &lt;prop&gt;">
+      <param name="Local" value="AdhocSpecification/BaseElements/adhocspec_prop.htm">
+    </object>
+    </ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Типы данных">
+    <param name="Name" value="Типы данных: Спецификация аналитических панелей">
+    <param name="Local" value="AdhocSpecification/Props/AdhocSpec_DataTypes.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Назначение и основные возможности">
+    <param name="Name" value="Назначение и основные возможности: Аналитические панели">
+    <param name="Local" value="AdhocSpecification/adhocspec_intro.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Рисунок">
+    <param name="Name" value="Рисунок">
+    <param name="Local" value="AdhocSpecification/Props/adhoc_image.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Пример">
+    <param name="Name" value="Примеры">
+    <param name="Local" value="AdhocSpecification/Samples/adhoc_samples.htm">
+    <param name="Name" value="Примеры">
+    <param name="Local" value="SVGMapSpecification/Sample/SVGMap_Sample.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Аналитическая панель">
+      <param name="Name" value="Аналитическая панель">
+      <param name="Local" value="AdhocSpecification/Samples/01_Adhoc.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Закладки. Панель. Таблица">
+      <param name="Name" value="Закладки. Панель. Таблица">
+      <param name="Local" value="AdhocSpecification/Samples/03_TabPanelTable.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Информационные блоки без источника данных">
+      <param name="Name" value="Информационные блоки без источника данных">
+      <param name="Local" value="AdhocSpecification/Samples/04_BlockOther.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Информационный блок">
+      <param name="Name" value="Информационный блок">
+      <param name="Local" value="AdhocSpecification/Samples/02_InfoBlock.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="SVG-карта, связываемая по атрибуту ID">
+      <param name="Name" value="SVG-карта, связываемая по атрибуту ID">
+      <param name="Local" value="SVGMapSpecification/Sample/SVGSample_Link_Id.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="SVG-карта, связываемая по атрибуту ISO">
+      <param name="Name" value="SVG-карта, связываемая по атрибуту ISO">
+      <param name="Local" value="SVGMapSpecification/Sample/SVGSample_Link_ISO.htm">
+    </object>
+    </ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Таблица">
+    <param name="Name" value="Таблица: Блок аналитической панели">
+    <param name="Local" value="AdhocSpecification/Props/block_table.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Панель">
+    <param name="Name" value="Панель: Блок аналитической панели">
+    <param name="Local" value="AdhocSpecification/Props/adhocspec_panel.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Свойства типовых блоков панели">
+    <param name="Name" value="Свойства типовых блоков панели">
+    <param name="Local" value="AdhocSpecification/Props/adhocspec_props.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Спецификация аналитических панелей">
+    <param name="Name" value="Спецификация аналитических панелей">
+    <param name="Local" value="AdhocSpecification/AdhocSpec_Title.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Аналитическая панель">
+    <param name="Name" value="Аналитическая панель: Блок аналитической панели">
+    <param name="Local" value="AdhocSpecification/Props/block_dashboard.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="HTML">
+    <param name="Name" value="HTML: Блок аналитической панели">
+    <param name="Local" value="AdhocSpecification/Props/block_frame.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Надпись">
+    <param name="Name" value="Надпись: Блок аналитической панели">
+    <param name="Local" value="AdhocSpecification/Props/block_label.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Закладки">
+    <param name="Name" value="Закладки: Блок аналитической панели">
+    <param name="Local" value="AdhocSpecification/Props/block_tabpanel.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Структура SVG-топоосновы">
+    <param name="Name" value="Структура SVG-топоосновы">
+    <param name="Local" value="SVGMapSpecification/Structure/SVGMap_Structure.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Однотипные свойства блоков">
+    <param name="Name" value="Однотипные свойства блоков">
+    <param name="Local" value="AdhocSpecification/Props/AdhocSpec_block.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="SVG">
+    <param name="Name" value="Назначение и основные возможности: SVG-топоосновы">
+    <param name="Local" value="SVGMapSpecification/SVGMap_Intro.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="&lt;fs:Attributes&gt;">
+    <param name="Name" value="Элемент fs:Attributes">
+    <param name="Local" value="SVGMapSpecification/Structure/BaseElements/fs_Attributes_element.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Name">
+      <param name="Name" value="Name: Атрибут SVG карты">
+      <param name="Local" value="SVGMapSpecification/Structure/BaseElements/Attributes/Name_Attribute.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="ImageOriginOffset">
+      <param name="Name" value="ImageOriginOffset: Атрибут SVG карты">
+      <param name="Local" value="SVGMapSpecification/Structure/BaseElements/Attributes/ImageOriginOffset_Attribute.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="PieOriginOffset">
+      <param name="Name" value="PieOriginOffset: Атрибут SVG карты">
+      <param name="Local" value="SVGMapSpecification/Structure/BaseElements/Attributes/PieOriginOffset_Attribute.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="BarOriginOffset">
+      <param name="Name" value="BarOriginOffset: Атрибут SVG карты">
+      <param name="Local" value="SVGMapSpecification/Structure/BaseElements/Attributes/BarOriginOffset_Attribute.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="TextOriginOffset">
+      <param name="Name" value="TextOriginOffset: Атрибут SVG карты">
+      <param name="Local" value="SVGMapSpecification/Structure/BaseElements/Attributes/TextOriginOffset_Attribute.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="OriginOffset">
+      <param name="Name" value="OriginOffset: Атрибут SVG карты">
+      <param name="Local" value="SVGMapSpecification/Structure/BaseElements/Attributes/OriginOffset_Attribute.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="IdMapping">
+      <param name="Name" value="IdMapping: Атрибут SVG карты">
+      <param name="Local" value="SVGMapSpecification/Structure/BaseElements/Attributes/IdMapping_Attribute.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="ISO">
+      <param name="Name" value="ISO: Атрибут SVG карты">
+      <param name="Local" value="SVGMapSpecification/Structure/BaseElements/Attributes/ISO_Attribute.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Description">
+      <param name="Name" value="Description: Атрибут SVG карты">
+      <param name="Local" value="SVGMapSpecification/Structure/BaseElements/Attributes/Description_Attribute.htm">
+    </object>
+    </ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="&lt;fs:MetaInfo&gt;">
+    <param name="Name" value="Элемент fs:MetaInfo">
+    <param name="Local" value="SVGMapSpecification/Structure/BaseElements/fs_MetaInfo_element.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="&lt;fs:Geo&gt;">
+    <param name="Name" value="Элемент fs:Geo">
+    <param name="Local" value="SVGMapSpecification/Structure/BaseElements/fs_Geo_element.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Подготовка SVG-топоосновы">
+    <param name="Name" value="Подготовка SVG-топоосновы">
+    <param name="Local" value="SVGMapSpecification/Prepare_SVG_topobase.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="SVG-топоосновы">
+    <param name="Name" value="SVG-топоосновы">
+    <param name="Local" value="SVGMapSpecification/SVGMap_Intro.htm">
+  </object>
+</ul>
+</html>

@@ -1,0 +1,88 @@
+<html>
+<!-- Sitemap 1.0 -->
+<object type="text/site properties">
+  <param name="SiteType" value="index">
+</object>
+<ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Способ разбиения">
+    <param name="Name" value="Редактирование признака">
+    <param name="Local" value="Master/Edit_Attribute.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Редактирование признака">
+    <param name="Name" value="Редактирование признака">
+    <param name="Local" value="Master/Edit_Attribute.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Выполнение интеллектуального анализа">
+    <param name="Name" value="Выполнение интеллектуального анализа">
+    <param name="Local" value="Master/Methods/Performing_DataMining.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Назначение и основные возможности">
+    <param name="Name" value="Назначение и основные возможности">
+    <param name="Local" value="DataMining_Intro.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Прогнозирование">
+    <param name="Name" value="Прогнозирование">
+    <param name="Local" value="Master/Methods/DataMining_Forecasting.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Интеллектуальный анализ данных">
+    <param name="Name" value="Интеллектуальный анализ данных">
+    <param name="Local" value="DataMining_Title.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Запуск интеллектуального анализа данных">
+    <param name="Name" value="Запуск интеллектуального анализа данных">
+    <param name="Local" value="DataMining_Starting.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Ключевые факторы">
+    <param name="Name" value="Ключевые факторы">
+    <param name="Local" value="Master/Methods/DataMining_KeyInf.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Заполнение по шаблону">
+    <param name="Name" value="Заполнение по шаблону">
+    <param name="Local" value="Master/Methods/DataMining_PatternSubst.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Результаты анализа">
+    <param name="Name" value="Страница «Результаты анализа»">
+    <param name="Local" value="Master/DataMining_Result.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Анализ ассоциаций">
+    <param name="Name" value="Анализ ассоциаций">
+    <param name="Local" value="Master/Methods/DataMining_AssosiationAn.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Определение категорий">
+    <param name="Name" value="Определение категорий">
+    <param name="Local" value="Master/Methods/DataMining_CategDetect.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Поиск исключений">
+    <param name="Name" value="Поиск исключений">
+    <param name="Local" value="Master/Methods/DataMining_ExceptionSearch.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Выбор данных для анализа">
+    <param name="Name" value="Выбор данных для анализа">
+    <param name="Local" value="Master/DataMining_Master1_Table.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Работа с результатами анализа">
+    <param name="Name" value="Работа с результатами анализа">
+    <param name="Local" value="Master/DataMining_Result.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Предупреждения">
+    <param name="Name" value="Просмотр предупреждений">
+    <param name="Local" value="Master/Warnings.htm">
+  </object>
+</ul>
+</html>

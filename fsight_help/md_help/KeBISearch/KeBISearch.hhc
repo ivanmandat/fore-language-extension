@@ -1,0 +1,1470 @@
+<html>
+<!-- Sitemap 1.0 -->
+<object type="text/site properties">
+  <param name="SiteType" value="toc">
+  <param name="Image Width" value="16">
+  <param name="Window Styles" value="0x800027">
+  <param name="ExWindow Styles" value="0x100">
+</object>
+<ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="BISearch">
+    <param name="Local" value="KeBISearch_Title.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Введение в сборку BISearch">
+      <param name="Local" value="Intro/KeBISearch_Intro.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Доступ к поисковому сервису">
+        <param name="Local" value="Intro/get_access.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Индексация">
+        <param name="Local" value="Intro/indexing.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Поиск">
+        <param name="Local" value="Intro/BISearchData.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Иерархия сборки BISearch">
+        <param name="Local" value="Intro/KeBISearch_Hierarchy.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Доступ к поисковому сервису">
+          <param name="Local" value="Intro/Hierarchy/H_ISearchEngineServiceFactory.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Индексация">
+          <param name="Local" value="Intro/Hierarchy/H_IImportExecutor.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Поиск">
+          <param name="Local" value="Intro/Hierarchy/H_ISearchExecutor.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Интерфейсы сборки BISearch">
+      <param name="Local" value="Interface/KeBISearch_Interface.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="ICalendarInfo">
+        <param name="Local" value="Interface/ICalendarInfo/ICalendarInfo.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ICalendarInfo.DateEnd">
+          <param name="Local" value="Interface/ICalendarInfo/ICalendarInfo.DateEnd.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ICalendarInfo.DateStart">
+          <param name="Local" value="Interface/ICalendarInfo/ICalendarInfo.DateStart.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ICalendarInfo.Key">
+          <param name="Local" value="Interface/ICalendarInfo/ICalendarInfo.Key.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="ICalendarInfos">
+        <param name="Local" value="Interface/ICalendarInfos/ICalendarInfos.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ICalendarInfos.Count">
+          <param name="Local" value="Interface/ICalendarInfos/ICalendarInfos.Count.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ICalendarInfos.Item">
+          <param name="Local" value="Interface/ICalendarInfos/ICalendarInfos.Item.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="ISearchDimSelection">
+        <param name="Local" value="Interface/ISearchDimSelection/ISearchDimSelection.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISearchDimSelection.DimensionKey">
+          <param name="Local" value="Interface/ISearchDimSelection/ISearchDimSelection.DimensionKey.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISearchDimSelection.Elements">
+          <param name="Local" value="Interface/ISearchDimSelection/ISearchDimSelection.Elements.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="ISearchDimSelectionElement">
+        <param name="Local" value="Interface/ISearchDimSelectionElement/ISearchDimSelectionElement.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISearchDimSelectionElement.Key">
+          <param name="Local" value="Interface/ISearchDimSelectionElement/ISearchDimSelectionElement.Key.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISearchDimSelectionElement.Name">
+          <param name="Local" value="Interface/ISearchDimSelectionElement/ISearchDimSelectionElement.Name.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="ISearchDimSelectionElements">
+        <param name="Local" value="Interface/ISearchDimSelectionElements/ISearchDimSelectionElements.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISearchDimSelectionElements.Count">
+          <param name="Local" value="Interface/ISearchDimSelectionElements/ISearchDimSelectionElements.Count.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISearchDimSelectionElements.Item">
+          <param name="Local" value="Interface/ISearchDimSelectionElements/ISearchDimSelectionElements.Item.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="ISearchDimSelectionSet">
+        <param name="Local" value="Interface/ISearchDimSelectionSet/ISearchDimSelectionSet.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISearchDimSelectionSet.Count">
+          <param name="Local" value="Interface/ISearchDimSelectionSet/ISearchDimSelectionSet.Count.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISearchDimSelectionSet.Item">
+          <param name="Local" value="Interface/ISearchDimSelectionSet/ISearchDimSelectionSet.Item.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="ISearchEngineImportScheduledTask">
+        <param name="Local" value="Interface/ISearchEngineImportScheduledTask/ISearchEngineImportScheduledTask.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISearchEngineImportScheduledTask.Engine">
+          <param name="Local" value="Interface/ISearchEngineImportScheduledTask/ISearchEngineImportScheduledTask.Engine.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISearchEngineImportScheduledTask.IsSharedEngine">
+          <param name="Local" value="Interface/ISearchEngineImportScheduledTask/ISearchEngineImportScheduledTask.IsSharedEngine.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="ISearchEngineSchema">
+        <param name="Local" value="Interface/ISearchEngineSchema/ISearchEngineSchema.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISearchEngineSchema.SearchExecutor">
+          <param name="Local" value="Interface/ISearchEngineSchema/ISearchEngineSchema.SearchExecutor.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="ISearchEngineSearchContext">
+        <param name="Local" value="Interface/ISearchEngineSearchContext/ISearchEngineSearchContext.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISearchEngineSearchContext.Text">
+          <param name="Local" value="Interface/ISearchEngineSearchContext/ISearchEngineSearchContext.Text.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="ISearchEngineService">
+        <param name="Local" value="Interface/ISearchEngineService/ISearchEngineService.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISearchEngineService.SearchEngineSchema">
+          <param name="Local" value="Interface/ISearchEngineService/ISearchEngineService.SearchEngineSchema.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="ISearchExecutor">
+        <param name="Local" value="Interface/ISearchExecutor/ISearchExecutor.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISearchExecutor.CreateContext">
+          <param name="Local" value="Interface/ISearchExecutor/ISearchExecutor.CreateContext.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISearchExecutor.Search">
+          <param name="Local" value="Interface/ISearchExecutor/ISearchExecutor.Search.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="ISearchMbObjectResult">
+        <param name="Local" value="Interface/ISearchMbObjectResult/ISearchMbObjectResult.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISearchMbObjectResult.ClassId">
+          <param name="Local" value="Interface/ISearchMbObjectResult/ISearchMbObjectResult.ClassId.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISearchMbObjectResult.ClassName">
+          <param name="Local" value="Interface/ISearchMbObjectResult/ISearchMbObjectResult.ClassName.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISearchMbObjectResult.Content">
+          <param name="Local" value="Interface/ISearchMbObjectResult/ISearchMbObjectResult.Content.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISearchMbObjectResult.HighlightedClassName">
+          <param name="Local" value="Interface/ISearchMbObjectResult/ISearchMbObjectResult.HighlightedClassName.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISearchMbObjectResult.HighlightedContent">
+          <param name="Local" value="Interface/ISearchMbObjectResult/ISearchMbObjectResult.HighlightedContent.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISearchMbObjectResult.HighlightedId">
+          <param name="Local" value="Interface/ISearchMbObjectResult/ISearchMbObjectResult.HighlightedId.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISearchMbObjectResult.HighlightedKey">
+          <param name="Local" value="Interface/ISearchMbObjectResult/ISearchMbObjectResult.HighlightedKey.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISearchMbObjectResult.HighlightedTimestamp">
+          <param name="Local" value="Interface/ISearchMbObjectResult/ISearchMbObjectResult.HighlightedTimestamp.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISearchMbObjectResult.Id">
+          <param name="Local" value="Interface/ISearchMbObjectResult/ISearchMbObjectResult.Id.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISearchMbObjectResult.Key">
+          <param name="Local" value="Interface/ISearchMbObjectResult/ISearchMbObjectResult.Key.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISearchMbObjectResult.Timestamp">
+          <param name="Local" value="Interface/ISearchMbObjectResult/ISearchMbObjectResult.Timestamp.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="ISearchResult">
+        <param name="Local" value="Interface/ISearchResult/ISearchResult.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISearchResult.Description">
+          <param name="Local" value="Interface/ISearchResult/ISearchResult.Description.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISearchResult.HighlightedDescription">
+          <param name="Local" value="Interface/ISearchResult/ISearchResult.HighlightedDescription.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISearchResult.HighlightedName">
+          <param name="Local" value="Interface/ISearchResult/ISearchResult.HighlightedName.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISearchResult.Name">
+          <param name="Local" value="Interface/ISearchResult/ISearchResult.Name.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="ISearchResults">
+        <param name="Local" value="Interface/ISearchResults/ISearchResults.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISearchResults.Count">
+          <param name="Local" value="Interface/ISearchResults/ISearchResults.Count.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISearchResults.Item">
+          <param name="Local" value="Interface/ISearchResults/ISearchResults.Item.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISearchResults.TotalCount">
+          <param name="Local" value="Interface/ISearchResults/ISearchResults.TotalCount.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="ISearchSourceDataResult">
+        <param name="Local" value="Interface/ISearchSourceDataResult/ISearchSourceDataResult.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISearchSourceDataResult.CreateDimSelectionSet">
+          <param name="Local" value="Interface/ISearchSourceDataResult/ISearchSourceDataResult.CreateDimSelectionSet.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISearchSourceDataResult.DateLevels">
+          <param name="Local" value="Interface/ISearchSourceDataResult/ISearchSourceDataResult.DateLevels.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISearchSourceDataResult.HighlightedFreeDimensions">
+          <param name="Local" value="Interface/ISearchSourceDataResult/ISearchSourceDataResult.HighlightedFreeDimensions.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISearchSourceDataResult.HighlightedTime">
+          <param name="Local" value="Interface/ISearchSourceDataResult/ISearchSourceDataResult.HighlightedTime.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISearchSourceDataResult.SourceMetadata">
+          <param name="Local" value="Interface/ISearchSourceDataResult/ISearchSourceDataResult.SourceMetadata.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISearchSourceDataResult.Time">
+          <param name="Local" value="Interface/ISearchSourceDataResult/ISearchSourceDataResult.Time.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="ISolrCoreInfo">
+        <param name="Local" value="Interface/ISolrCoreInfo/ISolrCoreInfo.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISolrCoreInfo.Current">
+          <param name="Local" value="Interface/ISolrCoreInfo/ISolrCoreInfo.Current.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISolrCoreInfo.DeletedDocs">
+          <param name="Local" value="Interface/ISolrCoreInfo/ISolrCoreInfo.DeletedDocs.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISolrCoreInfo.HasDeletions">
+          <param name="Local" value="Interface/ISolrCoreInfo/ISolrCoreInfo.HasDeletions.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISolrCoreInfo.LastModified">
+          <param name="Local" value="Interface/ISolrCoreInfo/ISolrCoreInfo.LastModified.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISolrCoreInfo.MaxDoc">
+          <param name="Local" value="Interface/ISolrCoreInfo/ISolrCoreInfo.MaxDoc.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISolrCoreInfo.NumDocs">
+          <param name="Local" value="Interface/ISolrCoreInfo/ISolrCoreInfo.NumDocs.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="ISolrCustomFieldSearchResult">
+        <param name="Local" value="Interface/ISolrCustomFieldSearchResult/ISolrCustomFieldSearchResult.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISolrCustomFieldSearchResult.HighlightedValues">
+          <param name="Local" value="Interface/ISolrCustomFieldSearchResult/ISolrCustomFieldSearchResult.HighlightedValues.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISolrCustomFieldSearchResult.SolrField">
+          <param name="Local" value="Interface/ISolrCustomFieldSearchResult/ISolrCustomFieldSearchResult.SolrField.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISolrCustomFieldSearchResult.Values">
+          <param name="Local" value="Interface/ISolrCustomFieldSearchResult/ISolrCustomFieldSearchResult.Values.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="ISolrCustomFieldSearchResults">
+        <param name="Local" value="Interface/ISolrCustomFieldSearchResults/ISolrCustomFieldSearchResults.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISolrCustomFieldSearchResults.Count">
+          <param name="Local" value="Interface/ISolrCustomFieldSearchResults/ISolrCustomFieldSearchResults.Count.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISolrCustomFieldSearchResults.FindBySolrField">
+          <param name="Local" value="Interface/ISolrCustomFieldSearchResults/ISolrCustomFieldSearchResults.FindBySolrField.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISolrCustomFieldSearchResults.Item">
+          <param name="Local" value="Interface/ISolrCustomFieldSearchResults/ISolrCustomFieldSearchResults.Item.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="ISolrFacetFieldResults">
+        <param name="Local" value="Interface/ISolrFacetFieldResults/ISolrFacetFieldResults.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISolrFacetFieldResults.Count">
+          <param name="Local" value="Interface/ISolrFacetFieldResults/ISolrFacetFieldResults.Count.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISolrFacetFieldResults.Id">
+          <param name="Local" value="Interface/ISolrFacetFieldResults/ISolrFacetFieldResults.Id.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISolrFacetFieldResults.Item">
+          <param name="Local" value="Interface/ISolrFacetFieldResults/ISolrFacetFieldResults.Item.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="ISolrFacetFieldValue">
+        <param name="Local" value="Interface/ISolrFacetFieldValue/ISolrFacetFieldValue.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISolrFacetFieldValue.FacetCount">
+          <param name="Local" value="Interface/ISolrFacetFieldValue/ISolrFacetFieldValue.FacetCount.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISolrFacetFieldValue.FacetValue">
+          <param name="Local" value="Interface/ISolrFacetFieldValue/ISolrFacetFieldValue.FacetValue.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="ISolrFacetSearchResults">
+        <param name="Local" value="Interface/ISolrFacetSearchResults/ISolrFacetSearchResults.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISolrFacetSearchResults.Count">
+          <param name="Local" value="Interface/ISolrFacetSearchResults/ISolrFacetSearchResults.Count.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISolrFacetSearchResults.FindById">
+          <param name="Local" value="Interface/ISolrFacetSearchResults/ISolrFacetSearchResults.FindById.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISolrFacetSearchResults.Item">
+          <param name="Local" value="Interface/ISolrFacetSearchResults/ISolrFacetSearchResults.Item.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="ISolrField">
+        <param name="Local" value="Interface/ISolrField/ISolrField.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISolrField.DataType">
+          <param name="Local" value="Interface/ISolrField/ISolrField.DataType.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISolrField.Fields">
+          <param name="Local" value="Interface/ISolrField/ISolrField.Fields.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISolrField.Id">
+          <param name="Local" value="Interface/ISolrField/ISolrField.Id.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISolrField.IncludeInSearchResult">
+          <param name="Local" value="Interface/ISolrField/ISolrField.IncludeInSearchResult.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISolrField.MultiValue">
+          <param name="Local" value="Interface/ISolrField/ISolrField.MultiValue.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISolrField.Type">
+          <param name="Local" value="Interface/ISolrField/ISolrField.Type.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="ISolrFields">
+        <param name="Local" value="Interface/ISolrFields/ISolrFields.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISolrFields.AddField">
+          <param name="Local" value="Interface/ISolrFields/ISolrFields.AddField.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISolrFields.Count">
+          <param name="Local" value="Interface/ISolrFields/ISolrFields.Count.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISolrFields.FindById">
+          <param name="Local" value="Interface/ISolrFields/ISolrFields.FindById.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISolrFields.Item">
+          <param name="Local" value="Interface/ISolrFields/ISolrFields.Item.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISolrFields.Remove">
+          <param name="Local" value="Interface/ISolrFields/ISolrFields.Remove.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISolrFields.RemoveById">
+          <param name="Local" value="Interface/ISolrFields/ISolrFields.RemoveById.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISolrFields.TargetType">
+          <param name="Local" value="Interface/ISolrFields/ISolrFields.TargetType.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="ISolrFieldValue">
+        <param name="Local" value="Interface/ISolrFieldValue/ISolrFieldValue.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISolrFieldValue.Field">
+          <param name="Local" value="Interface/ISolrFieldValue/ISolrFieldValue.Field.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISolrFieldValue.Value">
+          <param name="Local" value="Interface/ISolrFieldValue/ISolrFieldValue.Value.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="ISolrFieldValues">
+        <param name="Local" value="Interface/ISolrFieldValues/ISolrFieldValues.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISolrFieldValues.Count">
+          <param name="Local" value="Interface/ISolrFieldValues/ISolrFieldValues.Count.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISolrFieldValues.FindByField">
+          <param name="Local" value="Interface/ISolrFieldValues/ISolrFieldValues.FindByField.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISolrFieldValues.FindById">
+          <param name="Local" value="Interface/ISolrFieldValues/ISolrFieldValues.FindById.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISolrFieldValues.Item">
+          <param name="Local" value="Interface/ISolrFieldValues/ISolrFieldValues.Item.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="ISolrFilterCondition">
+        <param name="Local" value="Interface/ISolrFilterCondition/ISolrFilterCondition.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISolrFilterCondition.Nested">
+          <param name="Local" value="Interface/ISolrFilterCondition/ISolrFilterCondition.Nested.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISolrFilterCondition.Operator_">
+          <param name="Local" value="Interface/ISolrFilterCondition/ISolrFilterCondition.Operator_.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISolrFilterCondition.SolrField">
+          <param name="Local" value="Interface/ISolrFilterCondition/ISolrFilterCondition.SolrField.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISolrFilterCondition.Values">
+          <param name="Local" value="Interface/ISolrFilterCondition/ISolrFilterCondition.Values.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="ISolrFilterConditions">
+        <param name="Local" value="Interface/ISolrFilterConditions/ISolrFilterConditions.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISolrFilterConditions.Add">
+          <param name="Local" value="Interface/ISolrFilterConditions/ISolrFilterConditions.Add.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISolrFilterConditions.Clear">
+          <param name="Local" value="Interface/ISolrFilterConditions/ISolrFilterConditions.Clear.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISolrFilterConditions.Count">
+          <param name="Local" value="Interface/ISolrFilterConditions/ISolrFilterConditions.Count.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISolrFilterConditions.Item">
+          <param name="Local" value="Interface/ISolrFilterConditions/ISolrFilterConditions.Item.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISolrFilterConditions.Remove">
+          <param name="Local" value="Interface/ISolrFilterConditions/ISolrFilterConditions.Remove.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="ISolrFilterContext">
+        <param name="Local" value="Interface/ISolrFilterContext/ISolrFilterContext.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISolrFilterContext.FilterCondition">
+          <param name="Local" value="Interface/ISolrFilterContext/ISolrFilterContext.FilterCondition.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="ISolrFilterFieldValues">
+        <param name="Local" value="Interface/ISolrFilterFieldValues/ISolrFilterFieldValues.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISolrFilterFieldValues.Operator_">
+          <param name="Local" value="Interface/ISolrFilterFieldValues/ISolrFilterFieldValues.Operator_.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISolrFilterFieldValues.Values">
+          <param name="Local" value="Interface/ISolrFilterFieldValues/ISolrFilterFieldValues.Values.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="ISolrImportAttributeFieldBinding">
+        <param name="Local" value="Interface/ISolrImportAttributeFieldBinding/ISolrImportAttributeFieldBinding.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISolrImportAttributeFieldBinding.Attribute">
+          <param name="Local" value="Interface/ISolrImportAttributeFieldBinding/ISolrImportAttributeFieldBinding.Attribute.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISolrImportAttributeFieldBinding.Dimension">
+          <param name="Local" value="Interface/ISolrImportAttributeFieldBinding/ISolrImportAttributeFieldBinding.Dimension.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="ISolrImportContext">
+        <param name="Local" value="Interface/ISolrImportContext/ISolrImportContext.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISolrImportContext.CleanType">
+          <param name="Local" value="Interface/ISolrImportContext/ISolrImportContext.CleanType.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISolrImportContext.Locales">
+          <param name="Local" value="Interface/ISolrImportContext/ISolrImportContext.Locales.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="ISolrImportCustomBinding">
+        <param name="Local" value="Interface/ISolrImportCustomBinding/ISolrImportCustomBinding.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISolrImportCustomBinding.Assembly">
+          <param name="Local" value="Interface/ISolrImportCustomBinding/ISolrImportCustomBinding.Assembly.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISolrImportCustomBinding.ClassName">
+          <param name="Local" value="Interface/ISolrImportCustomBinding/ISolrImportCustomBinding.ClassName.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="ISolrImportCustomValues">
+        <param name="Local" value="Interface/ISolrImportCustomValues/ISolrImportCustomValues.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISolrImportCustomValues.FillValues">
+          <param name="Local" value="Interface/ISolrImportCustomValues/ISolrImportCustomValues.FillValues.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="ISolrImportDocumentExtensionBinding">
+        <param name="Local" value="Interface/ISolrImportDocumentExtensionBinding/ISolrImportDocumentExtensionBinding.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISolrImportDocumentExtensionBinding.Element">
+          <param name="Local" value="Interface/ISolrImportDocumentExtensionBinding/ISolrImportDocumentExtensionBinding.Element.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="ISolrImportDocumentExtensionInfo">
+        <param name="Local" value="Interface/ISolrImportDocumentExtensionInfo/ISolrImportDocumentExtensionInfo.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISolrImportDocumentExtensionInfo.Cube">
+          <param name="Local" value="Interface/ISolrImportDocumentExtensionInfo/ISolrImportDocumentExtensionInfo.Cube.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISolrImportDocumentExtensionInfo.Dimension">
+          <param name="Local" value="Interface/ISolrImportDocumentExtensionInfo/ISolrImportDocumentExtensionInfo.Dimension.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISolrImportDocumentExtensionInfo.Params">
+          <param name="Local" value="Interface/ISolrImportDocumentExtensionInfo/ISolrImportDocumentExtensionInfo.Params.htm">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="ISolrImportFieldBinding">
+        <param name="Local" value="Interface/ISolrImportFieldBinding/ISolrImportFieldBinding.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISolrImportFieldBinding.Field">
+          <param name="Local" value="Interface/ISolrImportFieldBinding/ISolrImportFieldBinding.Field.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISolrImportFieldBinding.Key">
+          <param name="Local" value="Interface/ISolrImportFieldBinding/ISolrImportFieldBinding.Key.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISolrImportFieldBinding.Type">
+          <param name="Local" value="Interface/ISolrImportFieldBinding/ISolrImportFieldBinding.Type.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="ISolrImportFieldBindings">
+        <param name="Local" value="Interface/ISolrImportFieldBindings/ISolrImportFieldBindings.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISolrImportFieldBindings.AddBinding">
+          <param name="Local" value="Interface/ISolrImportFieldBindings/ISolrImportFieldBindings.AddBinding.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISolrImportFieldBindings.Count">
+          <param name="Local" value="Interface/ISolrImportFieldBindings/ISolrImportFieldBindings.Count.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISolrImportFieldBindings.FindByField">
+          <param name="Local" value="Interface/ISolrImportFieldBindings/ISolrImportFieldBindings.FindByField.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISolrImportFieldBindings.FindByKey">
+          <param name="Local" value="Interface/ISolrImportFieldBindings/ISolrImportFieldBindings.FindByKey.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISolrImportFieldBindings.Item">
+          <param name="Local" value="Interface/ISolrImportFieldBindings/ISolrImportFieldBindings.Item.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISolrImportFieldBindings.Remove">
+          <param name="Local" value="Interface/ISolrImportFieldBindings/ISolrImportFieldBindings.Remove.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISolrImportFieldBindings.RemoveByField">
+          <param name="Local" value="Interface/ISolrImportFieldBindings/ISolrImportFieldBindings.RemoveByField.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISolrImportFieldBindings.RemoveByKey">
+          <param name="Local" value="Interface/ISolrImportFieldBindings/ISolrImportFieldBindings.RemoveByKey.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="ISolrImportFieldToFieldBinding">
+        <param name="Local" value="Interface/ISolrImportFieldToFieldBinding/ISolrImportFieldToFieldBinding.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISolrImportFieldToFieldBinding.SourceField">
+          <param name="Local" value="Interface/ISolrImportFieldToFieldBinding/ISolrImportFieldToFieldBinding.SourceField.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="ISolrImportProcessOptions">
+        <param name="Local" value="Interface/ISolrImportProcessOptions/ISolrImportProcessOptions.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISolrImportProcessOptions.BlockSize">
+          <param name="Local" value="Interface/ISolrImportProcessOptions/ISolrImportProcessOptions.BlockSize.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISolrImportProcessOptions.ImportBinding">
+          <param name="Local" value="Interface/ISolrImportProcessOptions/ISolrImportProcessOptions.ImportBinding.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISolrImportProcessOptions.NeedSmartSearch">
+          <param name="Local" value="Interface/ISolrImportProcessOptions/ISolrImportProcessOptions.NeedSmartSearch.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISolrImportProcessOptions.QueryMaxSize">
+          <param name="Local" value="Interface/ISolrImportProcessOptions/ISolrImportProcessOptions.QueryMaxSize.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISolrImportProcessOptions.ThreadsCount">
+          <param name="Local" value="Interface/ISolrImportProcessOptions/ISolrImportProcessOptions.ThreadsCount.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="ISolrMbObjectsSearchContext">
+        <param name="Local" value="Interface/ISolrMbObjectsSearchContext/ISolrMbObjectsSearchContext.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISolrMbObjectsSearchContext.NeedDocumentContent">
+          <param name="Local" value="Interface/ISolrMbObjectsSearchContext/ISolrMbObjectsSearchContext.NeedDocumentContent.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="ISolrOperations">
+        <param name="Local" value="Interface/ISolrOperations/ISolrOperations.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISolrOperations.ClearAll">
+          <param name="Local" value="Interface/ISolrOperations/ISolrOperations.ClearAll.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISolrOperations.GetOverview">
+          <param name="Local" value="Interface/ISolrOperations/ISolrOperations.GetOverview.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISolrOperations.GetPhraseAnalysisByFieldName">
+          <param name="Local" value="Interface/ISolrOperations/ISolrOperations.GetPhraseAnalysisByFieldName.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISolrOperations.GetPhraseAnalysisByFieldType">
+          <param name="Local" value="Interface/ISolrOperations/ISolrOperations.GetPhraseAnalysisByFieldType.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISolrOperations.RemoveDocsByFieldName">
+          <param name="Local" value="Interface/ISolrOperations/ISolrOperations.RemoveDocsByFieldName.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="ISolrSearchEngineCore">
+        <param name="Local" value="Interface/ISolrSearchEngineCore/ISolrSearchEngineCore.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISolrSearchEngineCore.Key">
+          <param name="Local" value="Interface/ISolrSearchEngineCore/ISolrSearchEngineCore.Key.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISolrSearchEngineCore.Locale">
+          <param name="Local" value="Interface/ISolrSearchEngineCore/ISolrSearchEngineCore.Locale.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISolrSearchEngineCore.Type">
+          <param name="Local" value="Interface/ISolrSearchEngineCore/ISolrSearchEngineCore.Type.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISolrSearchEngineCore.Uri">
+          <param name="Local" value="Interface/ISolrSearchEngineCore/ISolrSearchEngineCore.Uri.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="ISolrSearchContext">
+        <param name="Local" value="Interface/ISolrSearchContext/ISolrSearchContext.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISolrSearchContext.FilterContext">
+          <param name="Local" value="Interface/ISolrSearchContext/ISolrSearchContext.FilterContext.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISolrSearchContext.ItemsOnPage">
+          <param name="Local" value="Interface/ISolrSearchContext/ISolrSearchContext.ItemsOnPage.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISolrSearchContext.Locale">
+          <param name="Local" value="Interface/ISolrSearchContext/ISolrSearchContext.Locale.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISolrSearchContext.Page">
+          <param name="Local" value="Interface/ISolrSearchContext/ISolrSearchContext.Page.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISolrSearchContext.RelevanceImpactFormula">
+          <param name="Local" value="Interface/ISolrSearchContext/ISolrSearchContext.RelevanceImpactFormula.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISolrSearchContext.SearchType">
+          <param name="Local" value="Interface/ISolrSearchContext/ISolrSearchContext.SearchType.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISolrSearchContext.SortContext">
+          <param name="Local" value="Interface/ISolrSearchContext/ISolrSearchContext.SortContext.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="ISolrSearchEngineCores">
+        <param name="Local" value="Interface/ISolrSearchEngineCores/ISolrSearchEngineCores.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISolrSearchEngineCores.Add">
+          <param name="Local" value="Interface/ISolrSearchEngineCores/ISolrSearchEngineCores.Add.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISolrSearchEngineCores.Count">
+          <param name="Local" value="Interface/ISolrSearchEngineCores/ISolrSearchEngineCores.Count.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISolrSearchEngineCores.FindByKey">
+          <param name="Local" value="Interface/ISolrSearchEngineCores/ISolrSearchEngineCores.FindByKey.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISolrSearchEngineCores.Item">
+          <param name="Local" value="Interface/ISolrSearchEngineCores/ISolrSearchEngineCores.Item.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISolrSearchEngineCores.Remove">
+          <param name="Local" value="Interface/ISolrSearchEngineCores/ISolrSearchEngineCores.Remove.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISolrSearchEngineCores.RemoveByKey">
+          <param name="Local" value="Interface/ISolrSearchEngineCores/ISolrSearchEngineCores.RemoveByKey.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="ISolrSearchEngineSchema">
+        <param name="Local" value="Interface/ISolrSearchEngineSchema/ISolrSearchEngineSchema.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISolrSearchEngineSchema.Fields">
+          <param name="Local" value="Interface/ISolrSearchEngineSchema/ISolrSearchEngineSchema.Fields.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISolrSearchEngineSchema.FillSchemaOptions">
+          <param name="Local" value="Interface/ISolrSearchEngineSchema/ISolrSearchEngineSchema.FillSchemaOptions.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISolrSearchEngineSchema.ImportProcessOptions">
+          <param name="Local" value="Interface/ISolrSearchEngineSchema/ISolrSearchEngineSchema.ImportProcessOptions.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISolrSearchEngineSchema.SearchOptions">
+          <param name="Local" value="Interface/ISolrSearchEngineSchema/ISolrSearchEngineSchema.SearchOptions.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="ISolrSearchEngineService">
+        <param name="Local" value="Interface/ISolrSearchEngineService/ISolrSearchEngineService.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISolrSearchEngineService.Cores">
+          <param name="Local" value="Interface/ISolrSearchEngineService/ISolrSearchEngineService.Cores.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="ISolrSearchField">
+        <param name="Local" value="Interface/ISolrSearchField/ISolrSearchField.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISolrSearchField.BoostFactor">
+          <param name="Local" value="Interface/ISolrSearchField/ISolrSearchField.BoostFactor.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="ISolrSearchOptions">
+        <param name="Local" value="Interface/ISolrSearchOptions/ISolrSearchOptions.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISolrSearchOptions.Operator_">
+          <param name="Local" value="Interface/ISolrSearchOptions/ISolrSearchOptions.Operator_.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISolrSearchOptions.RelevanceImpactFormula">
+          <param name="Local" value="Interface/ISolrSearchOptions/ISolrSearchOptions.RelevanceImpactFormula.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISolrSearchOptions.UseSmartSearch">
+          <param name="Local" value="Interface/ISolrSearchOptions/ISolrSearchOptions.UseSmartSearch.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="ISolrSearchResult">
+        <param name="Local" value="Interface/ISolrSearchResult/ISolrSearchResult.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISolrSearchResult.CustomFieldSearchResults">
+          <param name="Local" value="Interface/ISolrSearchResult/ISolrSearchResult.CustomFieldSearchResults.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISolrSearchResult.DocId">
+          <param name="Local" value="Interface/ISolrSearchResult/ISolrSearchResult.DocId.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="ISolrSearchResults">
+        <param name="Local" value="Interface/ISolrSearchResults/ISolrSearchResults.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISolrSearchResults.FacetSearchResults">
+          <param name="Local" value="Interface/ISolrSearchResults/ISolrSearchResults.FacetSearchResults.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="ISolrSortContext">
+        <param name="Local" value="Interface/ISolrSortContext/ISolrSortContext.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISolrSortContext.AddField">
+          <param name="Local" value="Interface/ISolrSortContext/ISolrSortContext.AddField.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISolrSortContext.Clear">
+          <param name="Local" value="Interface/ISolrSortContext/ISolrSortContext.Clear.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISolrSortContext.Count">
+          <param name="Local" value="Interface/ISolrSortContext/ISolrSortContext.Count.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISolrSortContext.FindBySolrField">
+          <param name="Local" value="Interface/ISolrSortContext/ISolrSortContext.FindBySolrField.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISolrSortContext.Item">
+          <param name="Local" value="Interface/ISolrSortContext/ISolrSortContext.Item.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISolrSortContext.RemoveBySolrField">
+          <param name="Local" value="Interface/ISolrSortContext/ISolrSortContext.RemoveBySolrField.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="ISolrSortItem">
+        <param name="Local" value="Interface/ISolrSortItem/ISolrSortItem.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISolrSortItem.SolrField">
+          <param name="Local" value="Interface/ISolrSortItem/ISolrSortItem.SolrField.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISolrSortItem.SortDirection">
+          <param name="Local" value="Interface/ISolrSortItem/ISolrSortItem.SortDirection.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="ISolrSourceDataImportDestinationInfo">
+        <param name="Local" value="Interface/ISolrSourceDataImportDestinationInfo/ISolrSourceDataImportDestinationInfo.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISolrSourceDataImportDestinationInfo.DocumentExtensionInfo">
+          <param name="Local" value="Interface/ISolrSourceDataImportDestinationInfo/ISolrSourceDataImportDestinationInfo.DocumentExtensionInfo.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISolrSourceDataImportDestinationInfo.FieldBindings">
+          <param name="Local" value="Interface/ISolrSourceDataImportDestinationInfo/ISolrSourceDataImportDestinationInfo.FieldBindings.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="ISolrSourceDataSearchContext">
+        <param name="Local" value="Interface/ISolrSourceDataSearchContext/ISolrSourceDataSearchContext.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="ISourceDataImportContext">
+        <param name="Local" value="Interface/ISourceDataImportContext/ISourceDataImportContext.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISourceDataImportContext.ContainerKeys">
+          <param name="Local" value="Interface/ISourceDataImportContext/ISourceDataImportContext.ContainerKeys.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISourceDataImportContext.SourceInfos">
+          <param name="Local" value="Interface/ISourceDataImportContext/ISourceDataImportContext.SourceInfos.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="ISourceDataImportDestinationInfo">
+        <param name="Local" value="Interface/ISourceDataImportDestinationInfo/ISourceDataImportDestinationInfo.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISourceDataImportDestinationInfo.Destination">
+          <param name="Local" value="Interface/ISourceDataImportDestinationInfo/ISourceDataImportDestinationInfo.Destination.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISourceDataImportDestinationInfo.FreeDimensions">
+          <param name="Local" value="Interface/ISourceDataImportDestinationInfo/ISourceDataImportDestinationInfo.FreeDimensions.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISourceDataImportDestinationInfo.GroupByDl">
+          <param name="Local" value="Interface/ISourceDataImportDestinationInfo/ISourceDataImportDestinationInfo.GroupByDl.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISourceDataImportDestinationInfo.ImportMode">
+          <param name="Local" value="Interface/ISourceDataImportDestinationInfo/ISourceDataImportDestinationInfo.ImportMode.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISourceDataImportDestinationInfo.KeyWordsDimensions">
+          <param name="Local" value="Interface/ISourceDataImportDestinationInfo/ISourceDataImportDestinationInfo.KeyWordsDimensions.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISourceDataImportDestinationInfo.SelectionSet">
+          <param name="Local" value="Interface/ISourceDataImportDestinationInfo/ISourceDataImportDestinationInfo.SelectionSet.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="ISourceDataImportDestinationInfos">
+        <param name="Local" value="Interface/ISourceDataImportDestinationInfos/ISourceDataImportDestinationInfos.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISourceDataImportDestinationInfos.Count">
+          <param name="Local" value="Interface/ISourceDataImportDestinationInfos/ISourceDataImportDestinationInfos.Count.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISourceDataImportDestinationInfos.FindByKey">
+          <param name="Local" value="Interface/ISourceDataImportDestinationInfos/ISourceDataImportDestinationInfos.FindByKey.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISourceDataImportDestinationInfos.Item">
+          <param name="Local" value="Interface/ISourceDataImportDestinationInfos/ISourceDataImportDestinationInfos.Item.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISourceDataImportDestinationInfos.Remove">
+          <param name="Local" value="Interface/ISourceDataImportDestinationInfos/ISourceDataImportDestinationInfos.Remove.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="ISourceDataImportInfo">
+        <param name="Local" value="Interface/ISourceDataImportInfo/ISourceDataImportInfo.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISourceDataImportInfo.DestinationInfos">
+          <param name="Local" value="Interface/ISourceDataImportInfo/ISourceDataImportInfo.DestinationInfos.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISourceDataImportInfo.Key">
+          <param name="Local" value="Interface/ISourceDataImportInfo/ISourceDataImportInfo.Key.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISourceDataImportInfo.Params">
+          <param name="Local" value="Interface/ISourceDataImportInfo/ISourceDataImportInfo.Params.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="ISourceDataImportInfos">
+        <param name="Local" value="Interface/ISourceDataImportInfos/ISourceDataImportInfos.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISourceDataImportInfos.Add">
+          <param name="Local" value="Interface/ISourceDataImportInfos/ISourceDataImportInfos.Add.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISourceDataImportInfos.Count">
+          <param name="Local" value="Interface/ISourceDataImportInfos/ISourceDataImportInfos.Count.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISourceDataImportInfos.FindByKey">
+          <param name="Local" value="Interface/ISourceDataImportInfos/ISourceDataImportInfos.FindByKey.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISourceDataImportInfos.Item">
+          <param name="Local" value="Interface/ISourceDataImportInfos/ISourceDataImportInfos.Item.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISourceDataImportInfos.Remove">
+          <param name="Local" value="Interface/ISourceDataImportInfos/ISourceDataImportInfos.Remove.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="ISourceMetadata">
+        <param name="Local" value="Interface/ISourceMetadata/ISourceMetadata.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISourceMetadata.CalendarInfo">
+          <param name="Local" value="Interface/ISourceMetadata/ISourceMetadata.CalendarInfo.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISourceMetadata.DestinationKey">
+          <param name="Local" value="Interface/ISourceMetadata/ISourceMetadata.DestinationKey.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISourceMetadata.FreeDimensionsSelection">
+          <param name="Local" value="Interface/ISourceMetadata/ISourceMetadata.FreeDimensionsSelection.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISourceMetadata.HighlightedSourceName">
+          <param name="Local" value="Interface/ISourceMetadata/ISourceMetadata.HighlightedSourceName.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISourceMetadata.Selection">
+          <param name="Local" value="Interface/ISourceMetadata/ISourceMetadata.Selection.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISourceMetadata.SourceClassId">
+          <param name="Local" value="Interface/ISourceMetadata/ISourceMetadata.SourceClassId.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISourceMetadata.SourceId">
+          <param name="Local" value="Interface/ISourceMetadata/ISourceMetadata.SourceId.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISourceMetadata.SourceKey">
+          <param name="Local" value="Interface/ISourceMetadata/ISourceMetadata.SourceKey.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISourceMetadata.SourceName">
+          <param name="Local" value="Interface/ISourceMetadata/ISourceMetadata.SourceName.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Перечисления сборки BISearch">
+      <param name="Local" value="Enums/KeBISearch_Enums.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="LogicalOperator">
+        <param name="Local" value="Enums/LogicalOperator.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="SearchEngineTargetType">
+        <param name="Local" value="Enums/SearchEngineTargetType.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="SearchSortMode">
+        <param name="Local" value="Enums/SearchSortMode.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="SolrFieldBindingType">
+        <param name="Local" value="Enums/SolrFieldBindingType.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="SolrFieldType">
+        <param name="Local" value="Enums/SolrFieldType.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="SolrImportCleanType">
+        <param name="Local" value="Enums/SolrImportCleanType.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="SolrSearchType">
+        <param name="Local" value="Enums/SolrSearchType.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="SourceImportMode">
+        <param name="Local" value="Enums/SourceImportMode.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Классы сборки BISearch">
+      <param name="Local" value="Class/KeBISearch_Class.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="SearchEngineServiceFactory">
+        <param name="Local" value="Class/SearchEngineServiceFactory/SearchEngineServiceFactory.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="SolrOperations">
+        <param name="Local" value="Class/SolrOperations/SolrOperations.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      </ul>
+    </ul>
+</ul>
+</html>

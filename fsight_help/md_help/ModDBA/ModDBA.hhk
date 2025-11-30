@@ -1,0 +1,97 @@
+<html>
+<!-- Sitemap 1.0 -->
+<object type="text/site properties">
+  <param name="SiteType" value="index">
+</object>
+<ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="DBA">
+    <param name="Name" value="—борка DBA">
+    <param name="Local" value="ModDBA_Title.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="¬ведение в сборку DBA">
+      <param name="Name" value="¬ведение в сборку DBA">
+      <param name="Local" value="Intro/ModDBA_Introduction.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="»нтерфейсы сборки DBA">
+      <param name="Name" value="»нтерфейсы сборки DBA">
+      <param name="Local" value="Interface/ModDBA_Interface.htm">
+    </object>
+    </ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="—борка DBA">
+    <param name="Name" value="—борка DBA">
+    <param name="Local" value="ModDBA_Title.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="»нтерфейсы сборки DBA">
+      <param name="Name" value="»нтерфейсы сборки DBA">
+      <param name="Local" value="Interface/ModDBA_Interface.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="¬ведение в сборку DBA">
+      <param name="Name" value="¬ведение: —борка DBA">
+      <param name="Local" value="Intro/ModDBA_Introduction.htm">
+    </object>
+    </ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IBusinessApplication">
+    <param name="Name" value="IBusinessApplication">
+    <param name="Local" value="Interface/IBusinessApplication/IBusinessApplication.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IBusinessApplication.Database">
+    <param name="Name" value="IBusinessApplication.Database">
+    <param name="Local" value="Interface/IBusinessApplication/IBusinessApplication.Database.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Database">
+    <param name="Name" value="IBusinessApplication.Database">
+    <param name="Local" value="Interface/IBusinessApplication/IBusinessApplication.Database.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IBusinessApplication.Descriptor">
+    <param name="Name" value="IBusinessApplication.Descriptor">
+    <param name="Local" value="Interface/IBusinessApplication/IBusinessApplication.Descriptor.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Descriptor">
+    <param name="Name" value="IBusinessApplication.Descriptor">
+    <param name="Local" value="Interface/IBusinessApplication/IBusinessApplication.Descriptor.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IBusinessApplication.IsEdited">
+    <param name="Name" value="IBusinessApplication.IsEdited">
+    <param name="Local" value="Interface/IBusinessApplication/IBusinessApplication.IsEdited.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IsEdited">
+    <param name="Name" value="IBusinessApplication.IsEdited">
+    <param name="Local" value="Interface/IBusinessApplication/IBusinessApplication.IsEdited.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IBusinessApplication.SaveObject">
+    <param name="Name" value="IBusinessApplication.SaveObject">
+    <param name="Local" value="Interface/IBusinessApplication/IBusinessApplication.SaveObject.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="SaveObject">
+    <param name="Name" value="IBusinessApplication.SaveObject">
+    <param name="Local" value="Interface/IBusinessApplication/IBusinessApplication.SaveObject.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="»нтерфейсы сборки DBA">
+    <param name="Name" value="»нтерфейсы сборки DBA">
+    <param name="Local" value="Interface/ModDBA_Interface.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="¬ведение">
+    <param name="Name" value="¬ведение: —борка DBA">
+    <param name="Local" value="Intro/ModDBA_Introduction.htm">
+  </object>
+</ul>
+</html>

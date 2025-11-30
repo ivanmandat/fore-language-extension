@@ -1,0 +1,3532 @@
+<html>
+<!-- Sitemap 1.0 -->
+<object type="text/site properties">
+  <param name="SiteType" value="index">
+</object>
+<ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GetWbkMd">
+    <param name="Name" value="GetWbkMd: Операция">
+    <param name="Local" value="Operations/TimeSeriesDatabase/GetWbkMd.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="OpenWbk">
+    <param name="Name" value="OpenWbk: Операция">
+    <param name="Local" value="Operations/TimeSeriesDatabase/OpenWbk.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="SetChart">
+    <param name="Name" value="SetChart: Операция">
+    <param name="Local" value="Operations/Visualizators/SetChart.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GetChart">
+    <param name="Name" value="GetChart: Операция">
+    <param name="Local" value="Operations/Visualizators/GetChart.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Создание модели">
+    <param name="Name" value="Создание модели">
+    <param name="Local" value="Operations/ModelingContainer/GetMs_Sample/GetMsNewModel.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Открытие контейнера моделирования на редактирование">
+    <param name="Name" value="Открытие контейнера моделирования на редактирование">
+    <param name="Local" value="Operations/ModelingContainer/OpenMs_Sample/OpenMsEdit.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="OpenMs">
+    <param name="Name" value="OpenMs: Операция">
+    <param name="Local" value="Operations/ModelingContainer/OpenMs.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Открытие контейнера моделирования">
+    <param name="Name" value="Открытие контейнера моделирования">
+    <param name="Local" value="Operations/ModelingContainer/OpenMs_Sample/OpenMs.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Работа с контейнером моделирования">
+    <param name="Name" value="Работа с контейнером моделирования">
+    <param name="Local" value="Operations/ModelingContainer/ModelingContainer_List.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="CloseMs">
+    <param name="Name" value="CloseMs: Операция">
+    <param name="Local" value="Operations/ModelingContainer/CloseMs.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="SetMs">
+    <param name="Name" value="SetMs: Операция">
+    <param name="Local" value="Operations/ModelingContainer/SetMs.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Arima">
+    <param name="Name" value="Настройка параметров метода «ARIMA»">
+    <param name="Local" value="Operations/ModelingContainer/SetMs_Sample/SetMsARIMA.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GetMs">
+    <param name="Name" value="GetMs: Операция">
+    <param name="Local" value="Operations/ModelingContainer/GetMs.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Введение">
+    <param name="Name" value="Введение: Веб-сервис PP.SOM">
+    <param name="Local" value="PP7SOMService_Title.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Вопросы и ответы">
+    <param name="Name" value="Вопросы и ответы: Веб-сервис PP.SOM">
+    <param name="Local" value="FAQ/FAQ.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Аналитические панели">
+    <param name="Name" value="Как изменить на сервере источник данных для блока аналитической панели?">
+    <param name="Local" value="FAQ/Adhoc_src_change.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Источник данных">
+    <param name="Name" value="Как изменить на сервере источник данных для блока аналитической панели?">
+    <param name="Local" value="FAQ/Adhoc_src_change.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Визуализатор аналитической панели">
+    <param name="Name" value="Как изменить на сервере источник данных для визуализатора аналитической панели?">
+    <param name="Local" value="FAQ/Adhoc_src_change.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Создание контейнера моделирования">
+    <param name="Name" value="Создание контейнера моделирования">
+    <param name="Local" value="Operations/ModelingContainer/OpenMs_Sample/OpenMsNew.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Открытие контейнера моделирования с извлечением данных о сценариях">
+    <param name="Name" value="Открытие контейнера моделирования с извлечением данных о сценариях">
+    <param name="Local" value="Operations/ModelingContainer/OpenMs_Sample/OpenMsMeta.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Открытие модели">
+    <param name="Name" value="Открытие модели">
+    <param name="Local" value="Operations/ModelingContainer/GetMs_Sample/GetMsOpenModel.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Создание переменной">
+    <param name="Name" value="Создание переменной">
+    <param name="Local" value="Operations/ModelingContainer/GetMs_Sample/GetMsNewVarable.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Создание уравнения">
+    <param name="Name" value="Создание уравнения">
+    <param name="Local" value="Operations/ModelingContainer/GetMs_Sample/GetMsNewEquation.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Расчёт уравнения">
+    <param name="Name" value="Расчёт уравнения">
+    <param name="Local" value="Operations/ModelingContainer/GetMs_Sample/GetMsCalcEq.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Экспоненциальное сглаживание">
+    <param name="Name" value="Настройка параметров метода «Экспоненциальное сглаживание»">
+    <param name="Local" value="Operations/ModelingContainer/SetMs_Sample/SetMsExpSmoothing.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Подбор вида зависимости">
+    <param name="Name" value="Настройка параметров метода «Подбор вида зависимости»">
+    <param name="Local" value="Operations/ModelingContainer/SetMs_Sample/SetMsCurveEstimation.htm">
+    <param name="Name" value="Расчёт метода «Подбор вида зависимости»">
+    <param name="Local" value="Operations/ModelingContainer/GetMs_Sample/GetMsCurveEstimation.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Фильтр Бакстера-Кинга">
+    <param name="Name" value="Настройка параметров метода «Фильтр Бакстера-Кинга»">
+    <param name="Local" value="Operations/ModelingContainer/SetMs_Sample/SetMsBpf.htm">
+    <param name="Name" value="Расчёт метода «Фильтр Бакстера-Кинга»">
+    <param name="Local" value="Operations/ModelingContainer/GetMs_Sample/GetMsBpf.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Фильтр Ходрика-Прескотта">
+    <param name="Name" value="Настройка параметров метода «Фильтр Ходрика-Прескотта»">
+    <param name="Local" value="Operations/ModelingContainer/SetMs_Sample/SetMsHpf.htm">
+    <param name="Name" value="Расчёт метода «Фильтр Ходрика-Прескотта»">
+    <param name="Local" value="Operations/ModelingContainer/GetMs_Sample/GetMsHpf.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Детерминированное уравнение">
+    <param name="Name" value="Настройка параметров метода «Детерминированное уравнение»">
+    <param name="Local" value="Operations/ModelingContainer/SetMs_Sample/SetMsDeterm.htm">
+    <param name="Name" value="Расчёт метода «Детерминированное уравнение»">
+    <param name="Local" value="Operations/ModelingContainer/GetMs_Sample/GetMsDeterm.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Линейная регрессия">
+    <param name="Name" value="Настройка параметров метода «Линейная регрессия»">
+    <param name="Local" value="Operations/ModelingContainer/SetMs_Sample/SetMsLinearRegr.htm">
+    <param name="Name" value="Расчёт метода «Линейная регрессия»">
+    <param name="Local" value="Operations/ModelingContainer/GetMs_Sample/GetMsLinearRegr.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Нелинейная регрессия">
+    <param name="Name" value="Настройка параметров метода «Нелинейная регрессия»">
+    <param name="Local" value="Operations/ModelingContainer/SetMs_Sample/SetMsNonLinearRegr.htm">
+    <param name="Name" value="Расчёт метода «Нелинейная регрессия»">
+    <param name="Local" value="Operations/ModelingContainer/GetMs_Sample/GetMsNonLinearRegr.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Методы накопления">
+    <param name="Name" value="Настройка параметров уравнения, использующего метод накопления">
+    <param name="Local" value="Operations/ModelingContainer/SetMs_Sample/SetMsCum.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Заполнение пропусков">
+    <param name="Name" value="Настройка параметров метода «Заполнение пропусков»">
+    <param name="Local" value="Operations/ModelingContainer/SetMs_Sample/SetMsFillGaps.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Грей-метод">
+    <param name="Name" value="Настройка параметров Грей-метода">
+    <param name="Local" value="Operations/ModelingContainer/SetMs_Sample/SetMsGrey.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Удаление уравнения">
+    <param name="Name" value="Удаление уравнения">
+    <param name="Local" value="Operations/ModelingContainer/GetMs_Sample/GetMsDelEq.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Создание переменной на основе ряда из БД временных рядов">
+    <param name="Name" value="Создание переменной на основе ряда из БД временных рядов">
+    <param name="Local" value="Operations/ModelingContainer/GetMs_Sample/GetMsRubVar.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Переименование переменной">
+    <param name="Name" value="Переименование переменной">
+    <param name="Local" value="Operations/ModelingContainer/GetMs_Sample/GetMsRenameVar.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Извлечение ограниченного числа объектов">
+    <param name="Name" value="Извлечение ограниченного числа объектов">
+    <param name="Local" value="Operations/ModelingContainer/GetMs_Sample/GetMsFilter.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Добавление сценария в расчет модели">
+    <param name="Name" value="Добавление сценария в расчет модели">
+    <param name="Local" value="Operations/ModelingContainer/SetMs_Sample/SetMsAddScenModel.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Открытие метамодели">
+    <param name="Name" value="Открытие метамодели">
+    <param name="Local" value="Operations/ModelingContainer/GetMs_Sample/GetMsCalcChain.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Создание параметра метамодели">
+    <param name="Name" value="Создание параметра метамодели">
+    <param name="Local" value="Operations/ModelingContainer/SetMs_Sample/SetMsAddParam.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Пошаговый расчёт модели">
+    <param name="Name" value="Пошаговый расчёт модели">
+    <param name="Local" value="Operations/ModelingContainer/GetMs_Sample/GetMsStepIntoCalc.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Запуск расчёта модели">
+    <param name="Name" value="Запуск расчёта модели">
+    <param name="Local" value="Operations/ModelingContainer/GetMs_Sample/GetMsCalcRun.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Создание объекта для расчёта модели">
+    <param name="Name" value="Создание объекта для расчёта модели">
+    <param name="Local" value="Operations/ModelingContainer/GetMs_Sample/GetMsStartCalc.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Приостановка расчёта модели">
+    <param name="Name" value="Приостановка расчёта модели">
+    <param name="Local" value="Operations/ModelingContainer/GetMs_Sample/GetMsCalcSuspend.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Возобновление расчета модели">
+    <param name="Name" value="Возобновление расчета модели">
+    <param name="Local" value="Operations/ModelingContainer/GetMs_Sample/GetMsCalcResume.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Остановка расчёта модели">
+    <param name="Name" value="Остановка расчёта модели">
+    <param name="Local" value="Operations/ModelingContainer/GetMs_Sample/GetMsCalcStop.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Получение данных уравнения">
+    <param name="Name" value="Получение данных уравнения">
+    <param name="Local" value="Operations/ModelingContainer/GetMs_Sample/GetMsEqData.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Получение данных переменной">
+    <param name="Name" value="Получение данных переменной">
+    <param name="Local" value="Operations/ModelingContainer/GetMs_Sample/GetMsOpenVar.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Получение данных модели">
+    <param name="Name" value="Получение данных модели">
+    <param name="Local" value="Operations/ModelingContainer/GetMs_Sample/GetMsModelData.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Изменение данных переменной">
+    <param name="Name" value="Изменение данных переменной">
+    <param name="Local" value="Operations/ModelingContainer/SetMs_Sample/SetMsVarData.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Изменение данных в модели">
+    <param name="Name" value="Изменение данных в модели">
+    <param name="Local" value="Operations/ModelingContainer/SetMs_Sample/SetMsModelData.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Добавление переменной в уравнение">
+    <param name="Name" value="Добавление переменной в уравнение">
+    <param name="Local" value="Operations/ModelingContainer/SetMs_Sample/SetMsAddFactor.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Удаление переменной из уравнения">
+    <param name="Name" value="Удаление переменной из уравнения">
+    <param name="Local" value="Operations/ModelingContainer/SetMs_Sample/SetMsRemoveFactor.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Создание копии сценария моделирования">
+    <param name="Name" value="Создание копии сценария моделирования">
+    <param name="Local" value="Operations/ModelingContainer/SetMs_Sample/SetMsScenarioCopy.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Поиск фактора модели по срезу данных">
+    <param name="Name" value="Поиск фактора модели по срезу данных">
+    <param name="Local" value="Operations/ModelingContainer/GetMs_Sample/GetMsFactorByVarable.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Добавление переменных в модель">
+    <param name="Name" value="Добавление переменных в модель">
+    <param name="Local" value="Operations/ModelingContainer/GetMs_Sample/GetMsAddVars.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Открытие рабочей книги с изменением периода отображения данных">
+    <param name="Name" value="Открытие рабочей книги с изменением периода отображения данных">
+    <param name="Local" value="Operations/TimeSeriesDatabase/OpenWbk_Sample/OpenWbkForEdit.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Открытие рабочей книги для чтения">
+    <param name="Name" value="Открытие рабочей книги для чтения">
+    <param name="Local" value="Operations/TimeSeriesDatabase/OpenWbk_Sample/OpenWbkForRead.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="CloseRds">
+    <param name="Name" value="CloseRds: Операция">
+    <param name="Local" value="Operations/Rds/CloseRds.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GetRds">
+    <param name="Name" value="GetRds: Операция">
+    <param name="Local" value="Operations/Rds/GetRds.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GetRdsElements">
+    <param name="Name" value="GetRdsElements: Операция">
+    <param name="Local" value="Operations/Rds/GetRdsElements.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="OpenRds">
+    <param name="Name" value="OpenRds: Операция">
+    <param name="Local" value="Operations/Rds/OpenRds.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="SetRds">
+    <param name="Name" value="SetRds: Операция">
+    <param name="Local" value="Operations/Rds/SetRds.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ChangeDimSelection">
+    <param name="Name" value="ChangeDimSelection: Операция">
+    <param name="Local" value="Operations/Dimension/ChangeDimSelection.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="CloseDim">
+    <param name="Name" value="CloseDim: Операция">
+    <param name="Local" value="Operations/Dimension/CloseDim.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GetDimElements">
+    <param name="Name" value="GetDimElements: Операция">
+    <param name="Local" value="Operations/Dimension/GetDimElements.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GetDimMetadata">
+    <param name="Name" value="GetDimMetadata: Операция">
+    <param name="Local" value="Operations/Dimension/GetDimMetadata.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Отображение дополнительных столбцов со значениями атрибутов">
+    <param name="Name" value="Отображение дополнительных столбцов со значениями атрибутов">
+    <param name="Local" value="Operations/TimeSeriesDatabase/SetWbkMd_Sample/SetWbkColumns.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Сохранение вычисляемого ряда в виде задачи моделирования">
+    <param name="Name" value="Сохранение вычисляемого ряда в виде задачи моделирования">
+    <param name="Local" value="Operations/TimeSeriesDatabase/GetWbk_Sample/GetWbkSaveAsProblem.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Получение признаков доступности результатов вычислений">
+    <param name="Name" value="Получение признаков доступности результатов вычислений">
+    <param name="Local" value="Operations/TimeSeriesDatabase/GetWbk_Sample/GetWbkResults.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Получение различных видов диаграмм для рабочей книги">
+    <param name="Name" value="Получение различных видов диаграмм для рабочей книги">
+    <param name="Local" value="Operations/TimeSeriesDatabase/GetWbk_Sample/GetWbkChart.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Изменение диаграммы в рабочей книге">
+    <param name="Name" value="Изменение диаграммы в рабочей книге">
+    <param name="Local" value="Operations/TimeSeriesDatabase/SetWbkMd_Sample/SetWbkChart.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Получение значений рядов">
+    <param name="Name" value="Получение значений рядов">
+    <param name="Local" value="Operations/TimeSeriesDatabase/GetWbk_Sample/GetWbkObsTbl.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Изменение стиля ячеек">
+    <param name="Name" value="Изменение стиля ячеек">
+    <param name="Local" value="Operations/TimeSeriesDatabase/SetWbkMd_Sample/SetWbkStyle.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Получение настроек для дерева рядов рабочей книги">
+    <param name="Name" value="Получение настроек для дерева рядов рабочей книги">
+    <param name="Local" value="Operations/TimeSeriesDatabase/GetWbk_Sample/GetWbkAttTreeOpt.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Создание вычисляемого ряда">
+    <param name="Name" value="Создание вычисляемого ряда">
+    <param name="Local" value="Operations/TimeSeriesDatabase/SetWbkMd_Sample/SetWbkCalcSerie.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Удаление ряда из рабочей книги">
+    <param name="Name" value="Удаление ряда из рабочей книги">
+    <param name="Local" value="Operations/TimeSeriesDatabase/SetWbkMd_Sample/SetWbkDelSerie.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Применение преобразования к ряду">
+    <param name="Name" value="Применение преобразования к ряду">
+    <param name="Local" value="Operations/TimeSeriesDatabase/SetWbkMd_Sample/SetWbkTransformSerie.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="CloseAdHoc">
+    <param name="Name" value="CloseAdHoc: Операция">
+    <param name="Local" value="Operations/Adhoc/CloseAdHoc.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GetAdHoc">
+    <param name="Name" value="GetAdHoc: Операция">
+    <param name="Local" value="Operations/Adhoc/GetAdHoc.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="OpenAdHoc">
+    <param name="Name" value="OpenAdHoc: Операция">
+    <param name="Local" value="Operations/Adhoc/OpenAdHoc.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="SetAdHoc">
+    <param name="Name" value="SetAdHoc: Операция">
+    <param name="Local" value="Operations/Adhoc/SetAdHoc.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="CloseCube">
+    <param name="Name" value="CloseCube: Операция">
+    <param name="Local" value="Operations/Cube/CloseCube.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GetCube">
+    <param name="Name" value="GetCube: Операция">
+    <param name="Local" value="Operations/Cube/GetCube.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="OpenCube">
+    <param name="Name" value="OpenCube: Операция">
+    <param name="Local" value="Operations/Cube/OpenCube.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="SetCube">
+    <param name="Name" value="SetCube: Операция">
+    <param name="Local" value="Operations/Cube/SetCube.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="OpenDim">
+    <param name="Name" value="OpenDim: Операция">
+    <param name="Local" value="Operations/Dimension/OpenDim.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="CloseEtl">
+    <param name="Name" value="CloseEtl: Операция">
+    <param name="Local" value="Operations/Etl/CloseEtl.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GetEtl">
+    <param name="Name" value="GetEtl: Операция">
+    <param name="Local" value="Operations/Etl/GetEtl.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="OpenEtl">
+    <param name="Name" value="OpenEtl: Операция">
+    <param name="Local" value="Operations/Etl/OpenEtl.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="SetEtl">
+    <param name="Name" value="SetEtl: Операция">
+    <param name="Local" value="Operations/Etl/SetEtl.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="CloseEax">
+    <param name="Name" value="CloseEax: Операция">
+    <param name="Local" value="Operations/ExpressReport/CloseEax.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GetEaxMd">
+    <param name="Name" value="GetEaxMd: Операция">
+    <param name="Local" value="Operations/ExpressReport/GetEaxMd.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="OpenEax">
+    <param name="Name" value="OpenEax: Операция">
+    <param name="Local" value="Operations/ExpressReport/OpenEax.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="SetEaxMd">
+    <param name="Name" value="SetEaxMd: Операция">
+    <param name="Local" value="Operations/ExpressReport/SetEaxMd.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GetMap">
+    <param name="Name" value="GetMap: Операция">
+    <param name="Local" value="Operations/Visualizators/GetMap.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ClosePrx">
+    <param name="Name" value="ClosePrx: Операция">
+    <param name="Local" value="Operations/RegularReport/ClosePrx.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GetPrxMd">
+    <param name="Name" value="GetPrxMd: Операция">
+    <param name="Local" value="Operations/RegularReport/GetPrxMd.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="OpenPrx">
+    <param name="Name" value="OpenPrx: Операция">
+    <param name="Local" value="Operations/RegularReport/OpenPrx.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="SetPrxMd">
+    <param name="Name" value="SetPrxMd: Операция">
+    <param name="Local" value="Operations/RegularReport/SetPrxMd.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="CloseAuditLog">
+    <param name="Name" value="CloseAuditLog: Операция">
+    <param name="Local" value="Operations/Repository/CloseAuditLog.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="CloseMetabase">
+    <param name="Name" value="CloseMetabase: Операция">
+    <param name="Local" value="Operations/Repository/CloseMetabase.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="CreateObject">
+    <param name="Name" value="CreateObject: Операция">
+    <param name="Local" value="Operations/Repository/CreateObject.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="DeleteObjects">
+    <param name="Name" value="DeleteObjects: Операция">
+    <param name="Local" value="Operations/Repository/DeleteObjects.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GetAuditLog">
+    <param name="Name" value="GetAuditLog: Операция">
+    <param name="Local" value="Operations/Repository/GetAuditLog.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GetMbSec">
+    <param name="Name" value="GetMbSec: Операция">
+    <param name="Local" value="Operations/Repository/GetMbSec.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GetObjects">
+    <param name="Name" value="GetObjects: Операция">
+    <param name="Local" value="Operations/Repository/GetObjects.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GetStatus">
+    <param name="Name" value="GetStatus: Операция">
+    <param name="Local" value="Operations/Repository/GetStatus.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="MoveObject">
+    <param name="Name" value="MoveObject: Операция">
+    <param name="Local" value="Operations/Repository/MoveObject.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="OpenAuditLog">
+    <param name="Name" value="OpenAuditLog: Операция">
+    <param name="Local" value="Operations/Repository/OpenAuditLog.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="OpenMetabase">
+    <param name="Name" value="OpenMetabase: Операция">
+    <param name="Local" value="Operations/Repository/OpenMetabase.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="SaveObject">
+    <param name="Name" value="SaveObject: Операция">
+    <param name="Local" value="Operations/Repository/SaveObject.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="SaveObjectAs">
+    <param name="Name" value="SaveObjectAs: Операция">
+    <param name="Local" value="Operations/Repository/SaveObjectAs.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="SetMbSec">
+    <param name="Name" value="SetMbSec: Операция">
+    <param name="Local" value="Operations/Repository/SetMbSec.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GetTabSheetData">
+    <param name="Name" value="GetTabSheetData: Операция">
+    <param name="Local" value="Operations/Visualizators/GetTabSheetData.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="SetTabSheetData">
+    <param name="Name" value="SetTabSheetData: Операция">
+    <param name="Local" value="Operations/Visualizators/SetTabSheetData.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="CloseScheduler">
+    <param name="Name" value="CloseScheduler: Операция">
+    <param name="Local" value="Operations/TaskContainer/CloseScheduler.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GetScheduler">
+    <param name="Name" value="GetScheduler: Операция">
+    <param name="Local" value="Operations/TaskContainer/GetScheduler.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="OpenScheduler">
+    <param name="Name" value="OpenScheduler: Операция">
+    <param name="Local" value="Operations/TaskContainer/OpenScheduler.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="SetScheduler">
+    <param name="Name" value="SetScheduler: Операция">
+    <param name="Local" value="Operations/TaskContainer/SetScheduler.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="CloseHie">
+    <param name="Name" value="CloseHie: Операция">
+    <param name="Local" value="Operations/TimeSeriesDatabase/CloseHie.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="CloseRub">
+    <param name="Name" value="CloseRub: Операция">
+    <param name="Local" value="Operations/TimeSeriesDatabase/CloseRub.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="CloseWbk">
+    <param name="Name" value="CloseWbk: Операция">
+    <param name="Local" value="Operations/TimeSeriesDatabase/CloseWbk.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GetHieMd">
+    <param name="Name" value="GetHieMd: Операция">
+    <param name="Local" value="Operations/TimeSeriesDatabase/GetHieMd.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GetHieMembers">
+    <param name="Name" value="GetHieMembers: Операция">
+    <param name="Local" value="Operations/TimeSeriesDatabase/GetHieMembers.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GetRubMd">
+    <param name="Name" value="GetRubMd: Операция">
+    <param name="Local" value="Operations/TimeSeriesDatabase/GetRubMd.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="OpenHie">
+    <param name="Name" value="OpenHie: Операция">
+    <param name="Local" value="Operations/TimeSeriesDatabase/OpenHie.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="OpenRub">
+    <param name="Name" value="OpenRub: Операция">
+    <param name="Local" value="Operations/TimeSeriesDatabase/OpenRub.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="SetHieMd">
+    <param name="Name" value="SetHieMd: Операция">
+    <param name="Local" value="Operations/TimeSeriesDatabase/SetHieMd.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="SetWbkMd">
+    <param name="Name" value="SetWbkMd: Операция">
+    <param name="Local" value="Operations/TimeSeriesDatabase/SetWbkMd.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GetVerifierCode">
+    <param name="Name" value="GetVerifierCode: Операция">
+    <param name="Local" value="Operations/Repository/GetVerifierCode.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="SetRdsElements">
+    <param name="Name" value="SetRdsElements: Операция">
+    <param name="Local" value="Operations/Rds/SetRdsElements.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ForeExec">
+    <param name="Name" value="ForeExec: Операция">
+    <param name="Local" value="Operations/Repository/ForeExec.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Веб-сервис">
+    <param name="Name" value="Введение: Веб-сервис PP.SOM">
+    <param name="Local" value="PP7SOMService_Title.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="BatchExec">
+    <param name="Name" value="BatchExec: Операция">
+    <param name="Local" value="Operations/Repository/BatchExec.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="OpenDbCommand">
+    <param name="Name" value="OpenDbCommand: Операция">
+    <param name="Local" value="Operations/Relational/OpenDbCommand.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="CloseDbCommand">
+    <param name="Name" value="CloseDbCommand: Операция">
+    <param name="Local" value="Operations/Relational/CloseDbCommand.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GetDbCommand">
+    <param name="Name" value="GetDbCommand: Операция">
+    <param name="Local" value="Operations/Relational/GetDbCommand.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="SetDbCommand">
+    <param name="Name" value="SetDbCommand: Операция">
+    <param name="Local" value="Operations/Relational/SetDbCommand.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="PutBin">
+    <param name="Name" value="PutBin: Операция">
+    <param name="Local" value="Additional/PutBin.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GetBin">
+    <param name="Name" value="GetBin: Операция">
+    <param name="Local" value="Additional/GetBin.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="OpenCubeImport">
+    <param name="Name" value="OpenCubeImport: Операция">
+    <param name="Local" value="Operations/Cube/OpenCubeImport.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="SetCubeImport">
+    <param name="Name" value="SetCubeImport: Операция">
+    <param name="Local" value="Operations/Cube/SetCubeImport.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="CloseCubeImport">
+    <param name="Name" value="CloseCubeImport: Операция">
+    <param name="Local" value="Operations/Cube/CloseCubeImport.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GetTreeElements">
+    <param name="Name" value="GetTreeElements: Операция">
+    <param name="Local" value="Operations/Repository/GetTreeElements.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="SetExp">
+    <param name="Name" value="SetExp: Операция">
+    <param name="Local" value="Operations/Repository/SetExp.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GetSearch">
+    <param name="Name" value="GetSearch: Операция">
+    <param name="Local" value="Operations/Repository/GetSearch.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Консоль веб-сервиса">
+    <param name="Name" value="Консоль веб-сервиса">
+    <param name="Local" value="Intro/WSC_Intro.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Параметры строки адреса">
+      <param name="Name" value="Параметры строки адреса консоли веб-сервиса">
+      <param name="Local" value="Intro/WSC/WSC_URL_Parameters.htm">
+    </object>
+    </ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GetCubeImport">
+    <param name="Name" value="GetCubeImport: Операция">
+    <param name="Local" value="Operations/Cube/GetCubeImport.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="SetCustomOb">
+    <param name="Name" value="SetCustomOb: Операция">
+    <param name="Local" value="Operations/Repository/SetCustomOb.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="OpenCustomOb">
+    <param name="Name" value="OpenCustomOb: Операция">
+    <param name="Local" value="Operations/Repository/OpenCustomOb.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GetCustomOb">
+    <param name="Name" value="GetCustomOb: Операция">
+    <param name="Local" value="Operations/Repository/GetCustomOb.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="CloseCustomOb">
+    <param name="Name" value="CloseCustomOb: Операция">
+    <param name="Local" value="Operations/Repository/CloseCustomOb.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GetFormulaEditorInfo">
+    <param name="Name" value="GetFormulaEditorInfo: Операция">
+    <param name="Local" value="Operations/Repository/GetFormulaEditorInfo.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="SetSpeedometer">
+    <param name="Name" value="SetSpeedometer: Операция">
+    <param name="Local" value="Operations/Visualizators/SetSpeedometer.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GetSpeedometer">
+    <param name="Name" value="GetSpeedometer: Операция">
+    <param name="Local" value="Operations/Visualizators/GetSpeedometer.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="SetBubbleTree">
+    <param name="Name" value="SetBubbleTree: Операция">
+    <param name="Local" value="Operations/Visualizators/SetBubbleTree.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GetBubbleTree">
+    <param name="Name" value="GetBubbleTree: Операция">
+    <param name="Local" value="Operations/Visualizators/GetBubbleTree.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GetTreeMap">
+    <param name="Name" value="GetTreeMap: Операция">
+    <param name="Local" value="Operations/Visualizators/GetTreeMap.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="SetMap">
+    <param name="Name" value="SetMap: Операция">
+    <param name="Local" value="Operations/Visualizators/SetMap.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="SetTreeMap">
+    <param name="Name" value="SetTreeMap: Операция">
+    <param name="Local" value="Operations/Visualizators/SetTreeMap.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GetDefaultChart">
+    <param name="Name" value="GetDefaultChart: Операция">
+    <param name="Local" value="Operations/Visualizators/GetDefaultChart.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="CloseMbSecSnapshot">
+    <param name="Name" value="CloseMbSecSnapshot: Операция">
+    <param name="Local" value="Operations/Repository/CloseMbSecSnapshot.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GetMbSecSnapshot">
+    <param name="Name" value="GetMbSecSnapshot: Операция">
+    <param name="Local" value="Operations/Repository/GetMbSecSnapshot.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="OpenMbSecSnapshot">
+    <param name="Name" value="OpenMbSecSnapshot: Операция">
+    <param name="Local" value="Operations/Repository/OpenMbSecSnapshot.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="SetMbSecSnapshot">
+    <param name="Name" value="SetMbSecSnapshot: Операция">
+    <param name="Local" value="Operations/Repository/SetMbSecSnapshot.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="SetAuditLogMd">
+    <param name="Name" value="SetAuditLogMd: Операция">
+    <param name="Local" value="Operations/Repository/SetAuditLogMd.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GetAuditLogMd">
+    <param name="Name" value="GetAuditLogMd: Операция">
+    <param name="Local" value="Operations/Repository/GetAuditLogMd.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="UpdCubeCache">
+    <param name="Name" value="UpdCubeCache: Операция">
+    <param name="Local" value="Operations/Cube/UpdCubeCache.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ExportForeObj">
+    <param name="Name" value="ExportForeObj: Операция">
+    <param name="Local" value="Operations/DevEnv/ExportForeObj.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="FindInModules">
+    <param name="Name" value="FindInModules: Операция">
+    <param name="Local" value="Operations/DevEnv/FindInModules.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GetAssembly">
+    <param name="Name" value="GetAssembly: Операция">
+    <param name="Local" value="Operations/DevEnv/GetAssembly.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GetBuiltinAssemblies">
+    <param name="Name" value="GetBuiltinAssemblies: Операция">
+    <param name="Local" value="Operations/DevEnv/GetBuiltinAssemblies.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GetDeclaration">
+    <param name="Name" value="GetDeclaration: Операция">
+    <param name="Local" value="Operations/DevEnv/GetDeclaration.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GetDeclarationBlock">
+    <param name="Name" value="GetDeclarationBlock: Операция">
+    <param name="Local" value="Operations/DevEnv/GetDeclarationBlock.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GetModule">
+    <param name="Name" value="GetModule: Операция">
+    <param name="Local" value="Operations/DevEnv/GetModule.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ImportForeObj">
+    <param name="Name" value="ImportForeObj: Операция">
+    <param name="Local" value="Operations/DevEnv/ImportForeObj.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="SetAssembly">
+    <param name="Name" value="SetAssembly: Операция">
+    <param name="Local" value="Operations/DevEnv/SetAssembly.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="SetModule">
+    <param name="Name" value="SetModule: Операция">
+    <param name="Local" value="Operations/DevEnv/SetModule.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="CloseDatabase">
+    <param name="Name" value="CloseDatabase: Операция">
+    <param name="Local" value="Operations/Relational/CloseDatabase.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="CloseMetabaseLink">
+    <param name="Name" value="CloseMetabaseLink: Операция">
+    <param name="Local" value="Operations/Relational/CloseMetabaseLink.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="CloseQuery">
+    <param name="Name" value="CloseQuery: Операция">
+    <param name="Local" value="Operations/Relational/CloseQuery.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="CloseTable">
+    <param name="Name" value="CloseTable: Операция">
+    <param name="Local" value="Operations/Relational/CloseTable.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GetDatabase">
+    <param name="Name" value="GetDatabase: Операция">
+    <param name="Local" value="Operations/Relational/GetDatabase.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GetMetabaseLink">
+    <param name="Name" value="GetMetabaseLink: Операция">
+    <param name="Local" value="Operations/Relational/GetMetabaseLink.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GetQuery">
+    <param name="Name" value="GetQuery: Операция">
+    <param name="Local" value="Operations/Relational/GetQuery.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GetTable">
+    <param name="Name" value="GetTable: Операция">
+    <param name="Local" value="Operations/Relational/GetTable.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="OpenDatabase">
+    <param name="Name" value="OpenDatabase: Операция">
+    <param name="Local" value="Operations/Relational/OpenDatabase.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="OpenMetabaseLink">
+    <param name="Name" value="OpenMetabaseLink: Операция">
+    <param name="Local" value="Operations/Relational/OpenMetabaseLink.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="OpenQuery">
+    <param name="Name" value="OpenQuery: Операция">
+    <param name="Local" value="Operations/Relational/OpenQuery.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="OpenTable">
+    <param name="Name" value="OpenTable: Операция">
+    <param name="Local" value="Operations/Relational/OpenTable.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="SetDatabase">
+    <param name="Name" value="SetDatabase: Операция">
+    <param name="Local" value="Operations/Relational/SetDatabase.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="SetMetabaseLink">
+    <param name="Name" value="SetMetabaseLink: Операция">
+    <param name="Local" value="Operations/Relational/SetMetabaseLink.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="SetQuery">
+    <param name="Name" value="SetQuery: Операция">
+    <param name="Local" value="Operations/Relational/SetQuery.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="SetTable">
+    <param name="Name" value="SetTable: Операция">
+    <param name="Local" value="Operations/Relational/SetTable.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GetDmStd">
+    <param name="Name" value="GetDmStd: Операция">
+    <param name="Local" value="Operations/Dimension/GetDmStd.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="SetDmStd">
+    <param name="Name" value="SetDmStd: Операция">
+    <param name="Local" value="Operations/Dimension/SetDmStd.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GetDmCln">
+    <param name="Name" value="GetDmCln: Операция">
+    <param name="Local" value="Operations/Dimension/GetDmCln.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="SetDmCln">
+    <param name="Name" value="SetDmCln: Операция">
+    <param name="Local" value="Operations/Dimension/SetDmCln.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GetRepoParams">
+    <param name="Name" value="GetRepoParams: Операция">
+    <param name="Local" value="Operations/Repository/GetRepoParams.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ClosePrxMeta">
+    <param name="Name" value="ClosePrxMeta: Операция">
+    <param name="Local" value="Operations/RegularReport/ClosePrxMeta.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="DataAreaSlicesAdd">
+    <param name="Name" value="DataAreaSlicesAdd: Операция">
+    <param name="Local" value="Operations/RegularReport/DataAreaSlicesAdd.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="DataAreaSlicesDelete">
+    <param name="Name" value="DataAreaSlicesDelete: Операция">
+    <param name="Local" value="Operations/RegularReport/DataAreaSlicesDelete.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="DataAreaSourcesAdd">
+    <param name="Name" value="DataAreaSourcesAdd: Операция">
+    <param name="Local" value="Operations/RegularReport/DataAreaSourcesAdd.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="DataAreaSourcesDelete">
+    <param name="Name" value="DataAreaSourcesDelete: Операция">
+    <param name="Local" value="Operations/RegularReport/DataAreaSourcesDelete.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="DataAreaViewsDelete">
+    <param name="Name" value="DataAreaViewsDelete: Операция">
+    <param name="Local" value="Operations/RegularReport/DataAreaViewsDelete.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GetDataAreaSources">
+    <param name="Name" value="GetDataAreaSources: Операция">
+    <param name="Local" value="Operations/RegularReport/GetDataAreaSources.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GetPivotMetaData">
+    <param name="Name" value="GetPivotMetaData: Операция">
+    <param name="Local" value="Operations/RegularReport/GetPivotMetaData.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GetPrxMeta">
+    <param name="Name" value="GetPrxMeta: Операция">
+    <param name="Local" value="Operations/RegularReport/GetPrxMeta.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="OpenPrxMeta">
+    <param name="Name" value="OpenPrxMeta: Операция">
+    <param name="Local" value="Operations/RegularReport/OpenPrxMeta.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="PivotChangeDimHeader">
+    <param name="Name" value="PivotChangeDimHeader: Операция">
+    <param name="Local" value="Operations/RegularReport/PivotChangeDimHeader.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="PivotMoveDimToIndex">
+    <param name="Name" value="PivotMoveDimToIndex: Операция">
+    <param name="Local" value="Operations/RegularReport/PivotMoveDimToIndex.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="PrxMetaReportExport">
+    <param name="Name" value="PrxMetaReportExport: Операция">
+    <param name="Local" value="Operations/RegularReport/PrxMetaReportExport.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="PrxMetaReportRecalc">
+    <param name="Name" value="PrxMetaReportRecalc: Операция">
+    <param name="Local" value="Operations/RegularReport/PrxMetaReportRecalc.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="PrxMetaSheetsAdd">
+    <param name="Name" value="PrxMetaSheetsAdd: Операция">
+    <param name="Local" value="Operations/RegularReport/PrxMetaSheetsAdd.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="PrxMetaSheetsDelete">
+    <param name="Name" value="PrxMetaSheetsDelete: Операция">
+    <param name="Local" value="Operations/RegularReport/PrxMetaSheetsDelete.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="PrxMetaViewsAdd">
+    <param name="Name" value="PrxMetaViewsAdd: Операция">
+    <param name="Local" value="Operations/RegularReport/PrxMetaViewsAdd.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="SetDataAreaSources">
+    <param name="Name" value="SetDataAreaSources: Операция">
+    <param name="Local" value="Operations/RegularReport/SetDataAreaSources.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="SetPivotMetaData">
+    <param name="Name" value="SetPivotMetaData: Операция">
+    <param name="Local" value="Operations/RegularReport/SetPivotMetaData.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="SetPrxMeta">
+    <param name="Name" value="SetPrxMeta: Операция">
+    <param name="Local" value="Operations/RegularReport/SetPrxMeta.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GetInMem">
+    <param name="Name" value="GetInMem: Операция">
+    <param name="Local" value="Operations/InMemory/GetInMem.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="SetInMem">
+    <param name="Name" value="SetInMem: Операция">
+    <param name="Local" value="Operations/InMemory/SetInMem.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="PrxMetaControlsAdd">
+    <param name="Name" value="PrxMetaControlsAdd: Операция">
+    <param name="Local" value="Operations/RegularReport/PrxMetaControlsAdd.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="PrxMetaControlsDelete">
+    <param name="Name" value="PrxMetaControlsDelete: Операция">
+    <param name="Local" value="Operations/RegularReport/PrxMetaControlsDelete.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="PrxMetaControlsMove">
+    <param name="Name" value="PrxMetaControlsMove: Операция">
+    <param name="Local" value="Operations/RegularReport/PrxMetaControlsMove.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="PrxMetaSheetsDuplicate">
+    <param name="Name" value="PrxMetaSheetsDuplicate: Операция">
+    <param name="Local" value="Operations/RegularReport/PrxMetaSheetsDuplicate.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="PrxMetaSheetsMove">
+    <param name="Name" value="PrxMetaSheetsMove: Операция">
+    <param name="Local" value="Operations/RegularReport/PrxMetaSheetsMove.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="DataAreaGridRefreshPart">
+    <param name="Name" value="DataAreaGridRefreshPart: Операция">
+    <param name="Local" value="Operations/RegularReport/DataAreaGridRefreshPart.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GetStyle">
+    <param name="Name" value="GetStyle: Операция">
+    <param name="Local" value="Operations/Visualizators/GetStyle.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="SetStyle">
+    <param name="Name" value="SetStyle: Операция">
+    <param name="Local" value="Operations/Visualizators/SetStyle.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="SetPivotHeaderMetaData">
+    <param name="Name" value="SetPivotHeaderMetaData: Операция">
+    <param name="Local" value="Operations/RegularReport/SetPivotHeaderMetaData.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GetPivotHeaderMetaData">
+    <param name="Name" value="GetPivotHeaderMetaData: Операция">
+    <param name="Local" value="Operations/RegularReport/GetPivotHeaderMetaData.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GetPivotFilterMetaData">
+    <param name="Name" value="GetPivotFilterMetaData: Операция">
+    <param name="Local" value="Operations/RegularReport/GetPivotFilterMetaData.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="SetPivotFilterMetaData">
+    <param name="Name" value="SetPivotFilterMetaData: Операция">
+    <param name="Local" value="Operations/RegularReport/SetPivotFilterMetaData.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GetPivotHeaderFilterMetaData">
+    <param name="Name" value="GetPivotHeaderFilterMetaData: Операция">
+    <param name="Local" value="Operations/RegularReport/GetPivotHeaderFilterMetaData.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="SetPivotHeaderFilterMetaData">
+    <param name="Name" value="SetPivotHeaderFilterMetaData: Операция">
+    <param name="Local" value="Operations/RegularReport/SetPivotHeaderFilterMetaData.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GetPivotDimensionMetaData">
+    <param name="Name" value="GetPivotDimensionMetaData: Операция">
+    <param name="Local" value="Operations/RegularReport/GetPivotDimensionMetaData.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="SetPivotDimLevelMetaData">
+    <param name="Name" value="SetPivotDimLevelMetaData: Операция">
+    <param name="Local" value="Operations/RegularReport/SetPivotDimLevelMetaData.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GetPivotDimLevelMetaData">
+    <param name="Name" value="GetPivotDimLevelMetaData: Операция">
+    <param name="Local" value="Operations/RegularReport/GetPivotDimLevelMetaData.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="SetPivotDimensionMetaData">
+    <param name="Name" value="SetPivotDimensionMetaData: Операция">
+    <param name="Local" value="Operations/RegularReport/SetPivotDimensionMetaData.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="OpenMbCheckSum">
+    <param name="Name" value="OpenMbCheckSum: Операция">
+    <param name="Local" value="Operations/Repository/OpenMbCheckSum.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="CloseMbCheckSum">
+    <param name="Name" value="CloseMbCheckSum: Операция">
+    <param name="Local" value="Operations/Repository/CloseMbCheckSum.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GetMbCheckSum">
+    <param name="Name" value="GetMbCheckSum: Операция">
+    <param name="Local" value="Operations/Repository/GetMbCheckSum.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="OpenMbUpdate">
+    <param name="Name" value="OpenMbUpdate: Операция">
+    <param name="Local" value="Operations/Repository/OpenMbUpdate.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GetMbUpdate">
+    <param name="Name" value="GetMbUpdate: Операция">
+    <param name="Local" value="Operations/Repository/GetMbUpdate.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="SetMbUpdate">
+    <param name="Name" value="SetMbUpdate: Операция">
+    <param name="Local" value="Operations/Repository/SetMbUpdate.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="CloseMbUpdate">
+    <param name="Name" value="CloseMbUpdate: Операция">
+    <param name="Local" value="Operations/Repository/CloseMbUpdate.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GetMbDefs">
+    <param name="Name" value="GetMbDefs: Операция">
+    <param name="Local" value="Operations/Repository/GetMbDefs.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="SetMbDefs">
+    <param name="Name" value="SetMbDefs: Операция">
+    <param name="Local" value="Operations/Repository/SetMbDefs.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GetIntelliSenseInfo">
+    <param name="Name" value="GetIntelliSenseInfo: Операция">
+    <param name="Local" value="Operations/DevEnv/GetIntelliSenseInfo.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GetIntelliSenseTooltip">
+    <param name="Name" value="GetIntelliSenseTooltip: Операция">
+    <param name="Local" value="Operations/DevEnv/GetIntelliSenseTooltip.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="TabDeleteColumns">
+    <param name="Name" value="TabDeleteColumns: Операция">
+    <param name="Local" value="Operations/Visualizators/TabDeleteColumns.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="TabDeleteRows">
+    <param name="Name" value="TabDeleteRows: Операция">
+    <param name="Local" value="Operations/Visualizators/TabDeleteRows.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="TabInsertRows">
+    <param name="Name" value="TabInsertRows: Операция">
+    <param name="Local" value="Operations/Visualizators/TabInsertRows.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="TabRangeDelete">
+    <param name="Name" value="TabRangeDelete: Операция">
+    <param name="Local" value="Operations/Visualizators/TabRangeDelete.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="TabRangeInsert">
+    <param name="Name" value="TabRangeInsert: Операция">
+    <param name="Local" value="Operations/Visualizators/TabRangeInsert.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="TabRangeMerge">
+    <param name="Name" value="TabRangeMerge: Операция">
+    <param name="Local" value="Operations/Visualizators/TabRangeMerge.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="TabRangeUnmerge">
+    <param name="Name" value="TabRangeUnmerge: Операция">
+    <param name="Local" value="Operations/Visualizators/TabRangeUnmerge.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="SetRubMd">
+    <param name="Name" value="SetRubMd: Операция">
+    <param name="Local" value="Operations/TimeSeriesDatabase/SetRubMd.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="OpenRdsDatabase">
+    <param name="Name" value="OpenRdsDatabase: Операция">
+    <param name="Local" value="Operations/Rds/OpenRdsDatabase.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="CloseRdsDatabase">
+    <param name="Name" value="CloseRdsDatabase: Операция">
+    <param name="Local" value="Operations/Rds/CloseRdsDatabase.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GetRdsDatabase">
+    <param name="Name" value="GetRdsDatabase: Операция">
+    <param name="Local" value="Operations/Rds/GetRdsDatabase.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GetDmUser">
+    <param name="Name" value="GetDmUser: Операция">
+    <param name="Local" value="Operations/Dimension/GetDmUser.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="SetDmUser">
+    <param name="Name" value="SetDmUser: Операция">
+    <param name="Local" value="Operations/Dimension/SetDmUser.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="TabLoadImage">
+    <param name="Name" value="TabLoadImage: Операция">
+    <param name="Local" value="Operations/Visualizators/TabLoadImage.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="TabRangeClear">
+    <param name="Name" value="TabRangeClear: Операция">
+    <param name="Local" value="Operations/Visualizators/TabRangeClear.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="TabGetImages">
+    <param name="Name" value="TabGetImages: Операция">
+    <param name="Local" value="Operations/Visualizators/TabGetImages.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GetRawMd">
+    <param name="Name" value="GetRawMd: Операция">
+    <param name="Local" value="Operations/Raw/GetRawMd.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="SetRawMd">
+    <param name="Name" value="SetRawMd: Операция">
+    <param name="Local" value="Operations/Raw/SetRawMd.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GetDataAreaGridMetaData">
+    <param name="Name" value="GetDataAreaGridMetaData: Операция">
+    <param name="Local" value="Operations/RegularReport/GetDataAreaGridMetaData.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="SetDataAreaGridMetaData">
+    <param name="Name" value="SetDataAreaGridMetaData: Операция">
+    <param name="Local" value="Operations/RegularReport/SetDataAreaGridMetaData.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ValidateFormatNumber">
+    <param name="Name" value="ValidateFormatNumber: Операция">
+    <param name="Local" value="Operations/Visualizators/ValidateFormatNumber.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GetTabFormatCondition">
+    <param name="Name" value="GetTabFormatCondition: Операция">
+    <param name="Local" value="Operations/Visualizators/GetTabFormatCondition.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GetTabRangeMetaData">
+    <param name="Name" value="GetTabRangeMetaData: Операция">
+    <param name="Local" value="Operations/Visualizators/GetTabRangeMetaData.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="SetTabFormatCondition">
+    <param name="Name" value="SetTabFormatCondition: Операция">
+    <param name="Local" value="Operations/Visualizators/SetTabFormatCondition.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="TabFormatConditionsAdd">
+    <param name="Name" value="TabFormatConditionsAdd: Операция">
+    <param name="Local" value="Operations/Visualizators/TabFormatConditionsAdd.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="TabFormatConditionsClear">
+    <param name="Name" value="TabFormatConditionsClear: Операция">
+    <param name="Local" value="Operations/Visualizators/TabFormatConditionsClear.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="TabFormatConditionsMove">
+    <param name="Name" value="TabFormatConditionsMove: Операция">
+    <param name="Local" value="Operations/Visualizators/TabFormatConditionsMove.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="TabFormatConditionsRemove">
+    <param name="Name" value="TabFormatConditionsRemove: Операция">
+    <param name="Local" value="Operations/Visualizators/TabFormatConditionsRemove.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="CloseAlg">
+    <param name="Name" value="CloseAlg: Операция">
+    <param name="Local" value="Operations/Algo/CloseAlg.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GetAlg">
+    <param name="Name" value="GetAlg: Операция">
+    <param name="Local" value="Operations/Algo/GetAlg.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="OpenAlg">
+    <param name="Name" value="OpenAlg: Операция">
+    <param name="Local" value="Operations/Algo/OpenAlg.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="SaveAlg">
+    <param name="Name" value="SaveAlg: Операция">
+    <param name="Local" value="Operations/Algo/SaveAlg.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="SetAlg">
+    <param name="Name" value="SetAlg: Операция">
+    <param name="Local" value="Operations/Algo/SetAlg.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GetDevEnvSettings">
+    <param name="Name" value="GetDevEnvSettings: Операция">
+    <param name="Local" value="Operations/DevEnv/GetDevEnvSettings.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="SetDevEnvSettings">
+    <param name="Name" value="SetDevEnvSettings: Операция">
+    <param name="Local" value="Operations/DevEnv/SetDevEnvSettings.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GetDeclarationPoint">
+    <param name="Name" value="GetDeclarationPoint: Операция">
+    <param name="Local" value="Operations/DevEnv/GetDeclarationPoint.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="CalcAlg">
+    <param name="Name" value="CalcAlg: Операция">
+    <param name="Local" value="Operations/Algo/CalcAlg.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GetObjectByOdId">
+    <param name="Name" value="GetObjectByOdId: Операция">
+    <param name="Local" value="Operations/Repository/GetObjectByOdId.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="SetObject">
+    <param name="Name" value="SetObject: Операция">
+    <param name="Local" value="Operations/Repository/SetObject.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="TabRangeCopy">
+    <param name="Name" value="TabRangeCopy: Операция">
+    <param name="Local" value="Operations/Visualizators/TabRangeCopy.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="TabRangePaste">
+    <param name="Name" value="TabRangePaste: Операция">
+    <param name="Local" value="Operations/Visualizators/TabRangePaste.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="TabRangeCut">
+    <param name="Name" value="TabRangeCut: Операция">
+    <param name="Local" value="Operations/Visualizators/TabRangeCut.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="TabObjectsCopy">
+    <param name="Name" value="TabObjectsCopy: Операция">
+    <param name="Local" value="Operations/Visualizators/TabObjectsCopy.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="TabObjectsPaste">
+    <param name="Name" value="TabObjectsPaste: Операция">
+    <param name="Local" value="Operations/Visualizators/TabObjectsPaste.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="TabObjectsCut">
+    <param name="Name" value="TabObjectsCut: Операция">
+    <param name="Local" value="Operations/Visualizators/TabObjectsCut.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GetTabFormatConditions">
+    <param name="Name" value="GetTabFormatConditions: Операция">
+    <param name="Local" value="Operations/Visualizators/GetTabFormatConditions.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="SetTabFormatConditions">
+    <param name="Name" value="SetTabFormatConditions: Операция">
+    <param name="Local" value="Operations/Visualizators/SetTabFormatConditions.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="CloseWsp">
+    <param name="Name" value="CloseWsp: Операция">
+    <param name="Local" value="Operations/Workspace/CloseWsp.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GetWspMd">
+    <param name="Name" value="GetWspMd: Операция">
+    <param name="Local" value="Operations/Workspace/GetWspMd.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="OpenWsp">
+    <param name="Name" value="OpenWsp: Операция">
+    <param name="Local" value="Operations/Workspace/OpenWsp.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="SetWspMd">
+    <param name="Name" value="SetWspMd: Операция">
+    <param name="Local" value="Operations/Workspace/SetWspMd.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GetPrxMetaOptions">
+    <param name="Name" value="GetPrxMetaOptions: Операция">
+    <param name="Local" value="Operations/RegularReport/GetPrxMetaOptions.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="SetPrxMetaOptions">
+    <param name="Name" value="SetPrxMetaOptions: Операция">
+    <param name="Local" value="Operations/RegularReport/SetPrxMetaOptions.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GetUpdateSettings">
+    <param name="Name" value="GetUpdateSettings: Операция">
+    <param name="Local" value="Operations/RegularReport/GetUpdateSettings.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="SetUpdateSettings">
+    <param name="Name" value="SetUpdateSettings: Операция">
+    <param name="Local" value="Operations/RegularReport/SetUpdateSettings.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GetCalculatedCubeFormulas">
+    <param name="Name" value="GetCalculatedCubeFormulas: Операция">
+    <param name="Local" value="Operations/Cube/GetCalculatedCubeFormulas.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="SetCalculatedCubeFormulas">
+    <param name="Name" value="SetCalculatedCubeFormulas: Операция">
+    <param name="Local" value="Operations/Cube/SetCalculatedCubeFormulas.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="SaveCalculatedCubeFormulas">
+    <param name="Name" value="SaveCalculatedCubeFormulas: Операция">
+    <param name="Local" value="Operations/Cube/SaveCalculatedCubeFormulas.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="SaveSchedulerSettings">
+    <param name="Name" value="SaveSchedulerSettings: Операция">
+    <param name="Local" value="Operations/TaskContainer/SaveSchedulerSettings.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="TabFilterItemSearch">
+    <param name="Name" value="TabFilterItemSearch: Операция">
+    <param name="Local" value="Operations/Visualizators/TabFilterItemSearch.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="TabInsertColumns">
+    <param name="Name" value="TabInsertColumns: Операция">
+    <param name="Local" value="Operations/Visualizators/TabInsertColumns.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GetDimHierarchiesSettings">
+    <param name="Name" value="GetDimHierarchiesSettings: Операция">
+    <param name="Local" value="Operations/Dimension/GetDimHierarchiesSettings.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="SetDimHierarchiesSettings">
+    <param name="Name" value="SetDimHierarchiesSettings: Операция">
+    <param name="Local" value="Operations/Dimension/SetDimHierarchiesSettings.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="OpenDimSelectionSchema">
+    <param name="Name" value="OpenDimSelectionSchema: Операция">
+    <param name="Local" value="Operations/Dimension/OpenDimSelectionSchema.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GetDimSelectionSchema">
+    <param name="Name" value="GetDimSelectionSchema: Операция">
+    <param name="Local" value="Operations/Dimension/GetDimSelectionSchema.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="SetDimSelectionSchema">
+    <param name="Name" value="SetDimSelectionSchema: Операция">
+    <param name="Local" value="Operations/Dimension/SetDimSelectionSchema.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="CloseDimSelectionSchema">
+    <param name="Name" value="CloseDimSelectionSchema: Операция">
+    <param name="Local" value="Operations/Dimension/CloseDimSelectionSchema.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ApplySelControl">
+    <param name="Name" value="ApplySelControl: Операция">
+    <param name="Local" value="Operations/Algo/ApplySelControl.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="PrxMetaSheetRecalc">
+    <param name="Name" value="PrxMetaSheetRecalc: Операция">
+    <param name="Local" value="Operations/RegularReport/PrxMetaSheetRecalc.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="OpenAlgDest">
+    <param name="Name" value="OpenAlgDest: Операция">
+    <param name="Local" value="Operations/Algo/OpenAlgDest.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="DebugAlg">
+    <param name="Name" value="DebugAlg: Операция">
+    <param name="Local" value="Operations/Algo/DebugAlg.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GetChartSettings">
+    <param name="Name" value="GetChartSettings: Операция">
+    <param name="Local" value="Operations/Visualizators/GetChartSettings.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="SetChartSettings">
+    <param name="Name" value="SetChartSettings: Операция">
+    <param name="Local" value="Operations/Visualizators/SetChartSettings.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="TabValidateFormula">
+    <param name="Name" value="TabValidateFormula: Операция">
+    <param name="Local" value="Operations/Visualizators/TabValidateFormula.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="LoadTopobase">
+    <param name="Name" value="LoadTopobase: Операция">
+    <param name="Local" value="Additional/LoadTopobase.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ReloadTopobase">
+    <param name="Name" value="ReloadTopobase: Операция">
+    <param name="Local" value="Additional/ReloadTopobase.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="SaveTopobase">
+    <param name="Name" value="SaveTopobase: Операция">
+    <param name="Local" value="Additional/SaveTopobase.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ConvertTopobase">
+    <param name="Name" value="ConvertTopobase">
+    <param name="Local" value="Operations/Visualizators/ConvertTopobase.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GetChartLegend">
+    <param name="Name" value="GetChartLegend: Операция">
+    <param name="Local" value="Operations/Visualizators/GetChartLegend.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="SetChartLegend">
+    <param name="Name" value="SetChartLegend: Операция">
+    <param name="Local" value="Operations/Visualizators/SetChartLegend.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="InsertPrxPicture">
+    <param name="Name" value="InsertPrxPicture: Операция">
+    <param name="Local" value="Additional/InsertPrxPicture.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GetChartSerie">
+    <param name="Name" value="GetChartSerie: Операция">
+    <param name="Local" value="Operations/Visualizators/GetChartSerie.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GetChartSeries">
+    <param name="Name" value="GetChartSeries: Операция">
+    <param name="Local" value="Operations/Visualizators/GetChartSeries.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="SetChartSerie">
+    <param name="Name" value="SetChartSerie: Операция">
+    <param name="Local" value="Operations/Visualizators/SetChartSerie.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="MoveChartSerie">
+    <param name="Name" value="MoveChartSerie: Операция">
+    <param name="Local" value="Operations/Visualizators/MoveChartSerie.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="PrxObjectCreate">
+    <param name="Name" value="PrxObjectCreate: Операция">
+    <param name="Local" value="Operations/RegularReport/PrxObjectCreate.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GetPrxMetaChartsInfo">
+    <param name="Name" value="GetPrxMetaChartsInfo: Операция">
+    <param name="Local" value="Operations/RegularReport/GetPrxMetaChartsInfo.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GetPrxMetaChart">
+    <param name="Name" value="GetPrxMetaChart: Операция">
+    <param name="Local" value="Operations/RegularReport/GetPrxMetaChart.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="SetPrxMetaChart">
+    <param name="Name" value="SetPrxMetaChart: Операция">
+    <param name="Local" value="Operations/RegularReport/SetPrxMetaChart.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GetChartAxisY">
+    <param name="Name" value="GetChartAxisY: Операция">
+    <param name="Local" value="Operations/Visualizators/GetChartAxisY.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="SetChartAxisY">
+    <param name="Name" value="SetChartAxisY: Операция">
+    <param name="Local" value="Operations/Visualizators/SetChartAxisY.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ResetChartAxisY">
+    <param name="Name" value="ResetChartAxisY: Операция">
+    <param name="Local" value="Operations/Visualizators/ResetChartAxisY.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GetChartAxisYSec">
+    <param name="Name" value="GetChartAxisYSec: Операция">
+    <param name="Local" value="Operations/Visualizators/GetChartAxisYSec.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ResetChartAxisYSec">
+    <param name="Name" value="ResetChartAxisYSec: Операция">
+    <param name="Local" value="Operations/Visualizators/ResetChartAxisYSec.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="SetChartAxisYSec">
+    <param name="Name" value="SetChartAxisYSec: Операция">
+    <param name="Local" value="Operations/Visualizators/SetChartAxisYSec.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GetChartLabel">
+    <param name="Name" value="GetChartLabel: Операция">
+    <param name="Local" value="Operations/Visualizators/GetChartLabel.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="SetChartLabel">
+    <param name="Name" value="SetChartLabel: Операция">
+    <param name="Local" value="Operations/Visualizators/SetChartLabel.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GetChartLabels">
+    <param name="Name" value="GetChartLabels: Операция">
+    <param name="Local" value="Operations/Visualizators/GetChartLabels.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="EmulateGridHyperlinkClick">
+    <param name="Name" value="EmulateGridHyperlinkClick: Операция">
+    <param name="Local" value="Operations/RegularReport/EmulateGridHyperlinkClick.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="AddDecisionTreeParameter">
+    <param name="Name" value="AddDecisionTreeParameter: Операция">
+    <param name="Local" value="Operations/DecisionTree/AddDecisionTreeParameter.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ComObjectsProfilerStart">
+    <param name="Name" value="ComObjectsProfilerStart: Операция">
+    <param name="Local" value="Operations/DevEnv/ComObjectsProfilerStart.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ForeExecWithState">
+    <param name="Name" value="ForeExecWithState: Операция">
+    <param name="Local" value="Operations/Repository/ForeExecWithState.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="SetActionAutoRun">
+    <param name="Name" value="SetActionAutoRun: Операция">
+    <param name="Local" value="Operations/DecisionTree/SetActionAutoRun.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IsFeatureAvailable">
+    <param name="Name" value="IsFeatureAvailable: Операция">
+    <param name="Local" value="Operations/Repository/IsFeatureAvailable.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="PrxMetaAssembliesAdd">
+    <param name="Name" value="PrxMetaAssembliesAdd: Операция">
+    <param name="Local" value="Operations/RegularReport/PrxMetaAssembliesAdd.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="PrxMetaAssembliesRemove">
+    <param name="Name" value="PrxMetaAssembliesRemove: Операция">
+    <param name="Local" value="Operations/RegularReport/PrxMetaAssembliesRemove.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="CalculateDecisionTree">
+    <param name="Name" value="CalculateDecisionTree: Операция">
+    <param name="Local" value="Operations/DecisionTree/CalculateDTree.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="VerifyDecisionTree">
+    <param name="Name" value="VerifyDecisionTree: Операция">
+    <param name="Local" value="Operations/DecisionTree/VerifyDecisionTree.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="AddChartCorridor">
+    <param name="Name" value="AddChartCorridor: Операция">
+    <param name="Local" value="Operations/Visualizators/Chart/AddChartCorridor.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="DisplayChartCorridors">
+    <param name="Name" value="DisplayChartCorridors: Операция">
+    <param name="Local" value="Operations/Visualizators/Chart/DisplayChartCorridors.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GetChartCorridor">
+    <param name="Name" value="GetChartCorridor: Операция">
+    <param name="Local" value="Operations/Visualizators/Chart/GetChartCorridor.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GetChartCorridors">
+    <param name="Name" value="GetChartCorridors: Операция">
+    <param name="Local" value="Operations/Visualizators/Chart/GetChartCorridors.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GetChartGraphArea">
+    <param name="Name" value="GetChartGraphArea: Операция">
+    <param name="Local" value="Operations/Visualizators/Chart/GetChartGraphArea.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GetChartHint">
+    <param name="Name" value="GetChartHint: Операция">
+    <param name="Local" value="Operations/Visualizators/Chart/GetChartHint.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GetChartTrendLine">
+    <param name="Name" value="GetChartTrendLine: Операция">
+    <param name="Local" value="Operations/Visualizators/Chart/GetChartTrendLine.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="RemoveChartCorridor">
+    <param name="Name" value="RemoveChartCorridor: Операция">
+    <param name="Local" value="Operations/Visualizators/Chart/RemoveChartCorridor.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="SetChartCorridor">
+    <param name="Name" value="SetChartCorridor: Операция">
+    <param name="Local" value="Operations/Visualizators/Chart/SetChartCorridor.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="SetChartGraphArea">
+    <param name="Name" value="SetChartGraphArea: Операция">
+    <param name="Local" value="Operations/Visualizators/Chart/SetChartGraphArea.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="SetChartHint">
+    <param name="Name" value="SetChartHint: Операция">
+    <param name="Local" value="Operations/Visualizators/Chart/SetChartHint.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="SetChartTrendLine">
+    <param name="Name" value="SetChartTrendLine: Операция">
+    <param name="Local" value="Operations/Visualizators/Chart/SetChartTrendLine.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="SetDecisionTreeParameterAttributes">
+    <param name="Name" value="SetDecisionTreeParameterAttributes: Операция">
+    <param name="Local" value="Operations/DecisionTree/SetDecisionTreeParameterAttributes.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GetDecisionTreeAttributes">
+    <param name="Name" value="GetDecisionTreeAttributes: Операция">
+    <param name="Local" value="Operations/DecisionTree/GetDecisionTreeAttributes.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="SetDecisionTreeAttributes">
+    <param name="Name" value="SetDecisionTreeAttributes">
+    <param name="Local" value="Operations/DecisionTree/SetDecisionTreeAttributes.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ExportDecisionTree">
+    <param name="Name" value="ExportDecisionTree: Операция">
+    <param name="Local" value="Operations/DecisionTree/ExportDecisionTree.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="OpenDecisionTree">
+    <param name="Name" value="OpenDecisionTree: Операция">
+    <param name="Local" value="Operations/DecisionTree/OpenDecisionTree.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="CloseDecisionTree">
+    <param name="Name" value="CloseDecisionTree: Операция">
+    <param name="Local" value="Operations/DecisionTree/CloseDecisionTree.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="AddDecisionTreeBlock">
+    <param name="Name" value="AddDecisionTreeBlock: Операция">
+    <param name="Local" value="Operations/DecisionTree/AddDecisionTreeBlock.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="SetDecisionTreeBlockAttributes">
+    <param name="Name" value="SetDecisionTreeBlockAttributes: Операция">
+    <param name="Local" value="Operations/DecisionTree/SetDecisionTreeBlockAttributes.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="RemoveDecisionTreeObjects">
+    <param name="Name" value="RemoveDecisionTreeObjects: Операция">
+    <param name="Local" value="Operations/DecisionTree/RemoveDecisionTreeObjects.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="AddDecisionTreeModificationSession">
+    <param name="Name" value="AddDecisionTreeModificationSession: Операция">
+    <param name="Local" value="Operations/DecisionTree/AddDecisionTreeModificationSession.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="CommitDecisionTreeModificationSession">
+    <param name="Name" value="CommitDecisionTreeModificationSession: Операция">
+    <param name="Local" value="Operations/DecisionTree/CommitDecisionTreeModificationSession.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="RemoveDecisionTreeModificationSession">
+    <param name="Name" value="RemoveDecisionTreeModificationSession: Операция">
+    <param name="Local" value="Operations/DecisionTree/RemoveDecisionTreeModificationSession.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="SetDecisionTreeBlockPosition">
+    <param name="Name" value="SetDecisionTreeBlockPosition">
+    <param name="Local" value="Operations/DecisionTree/SetDecisionTreeBlockPosition.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GetDm">
+    <param name="Name" value="GetDm: Операция">
+    <param name="Local" value="Operations/ModelingContainer/GetDm.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GetDmDataSource">
+    <param name="Name" value="GetDmDataSource: Операция">
+    <param name="Local" value="Operations/ModelingContainer/GetDmDataSource.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="SetDecisionTreeLinkPoints">
+    <param name="Name" value="SetDecisionTreeLinkPoints">
+    <param name="Local" value="Operations/DecisionTree/SetDecisionTreeLinkPoints.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="SaveDecisionTree">
+    <param name="Name" value="SaveDecisionTree: Операция">
+    <param name="Local" value="Operations/DecisionTree/SaveDecisionTree.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GetDecisionTreeParameters">
+    <param name="Name" value="GetDecisionTreeParameters: Операция">
+    <param name="Local" value="Operations/DecisionTree/GetDecisionTreeParameters.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GetDecisionTreeParameter">
+    <param name="Name" value="GetDecisionTreeParameter: Операция">
+    <param name="Local" value="Operations/DecisionTree/GetDecisionTreeParameter.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="MoveDecisionTreeParameter">
+    <param name="Name" value="MoveDecisionTreeParameter: Операция">
+    <param name="Local" value="Operations/DecisionTree/MoveDecisionTreeParameter.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GetDecisionTreeMetrics">
+    <param name="Name" value="GetDecisionTreeMetrics: Операция">
+    <param name="Local" value="Operations/DecisionTree/GetDecisionTreeMetrics.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GetDecisionTreeMetric">
+    <param name="Name" value="GetDecisionTreeMetric: Операция">
+    <param name="Local" value="Operations/DecisionTree/GetDecisionTreeMetric.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="SetDecisionTreeMetricAttributes">
+    <param name="Name" value="SetDecisionTreeMetricAttributes: Операция">
+    <param name="Local" value="Operations/DecisionTree/SetDecisionTreeMetricAttributes.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="RemoveDecisionTreeParameter">
+    <param name="Name" value="RemoveDecisionTreeParameter: Операция">
+    <param name="Local" value="Operations/DecisionTree/RemoveDecisionTreeParameter.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="AddDecisionTreeParameterElement">
+    <param name="Name" value="AddDecisionTreeParameterElement: Операция">
+    <param name="Local" value="Operations/DecisionTree/AddDecisionTreeParameterElement.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="EditDecisionTreeParameterElement">
+    <param name="Name" value="EditDecisionTreeParameterElement: Операция">
+    <param name="Local" value="Operations/DecisionTree/EditDecisionTreeParameterElement.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="RemoveDecisionTreeParameterElement">
+    <param name="Name" value="RemoveDecisionTreeParameterElement: Операция">
+    <param name="Local" value="Operations/DecisionTree/RemoveDecisionTreeParameterElement.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="MoveDecisionTreeParameterElement">
+    <param name="Name" value="MoveDecisionTreeParameterElement: Операция">
+    <param name="Local" value="Operations/DecisionTree/MoveDecisionTreeParameterElement.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="RemoveDecisionTreeMetric">
+    <param name="Name" value="RemoveDecisionTreeMetric: Операция">
+    <param name="Local" value="Operations/DecisionTree/RemoveDecisionTreeMetric.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="RemoveDecisionTreeMetrics">
+    <param name="Name" value="RemoveDecisionTreeMetrics: Операция">
+    <param name="Local" value="Operations/DecisionTree/RemoveDecisionTreeMetrics.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="AddDecisionTreeMetric">
+    <param name="Name" value="AddDecisionTreeMetric: Операция">
+    <param name="Local" value="Operations/DecisionTree/AddDecisionTreeMetric.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ComObjectsProfilerClean">
+    <param name="Name" value="ComObjectsProfilerClean: Операция">
+    <param name="Local" value="Operations/DevEnv/ComObjectsProfilerClean.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ComObjectsProfilerFinish">
+    <param name="Name" value="ComObjectsProfilerFinish: Операция">
+    <param name="Local" value="Operations/DevEnv/ComObjectsProfilerFinish.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GetPrxMetaSheetPageSettings">
+    <param name="Name" value="GetPrxMetaSheetPageSettings: Операция">
+    <param name="Local" value="Operations/RegularReport/GetPrxMetaSheetPageSettings.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="SetMbCheckSum">
+    <param name="Name" value="SetMbCheckSum: Операция">
+    <param name="Local" value="Operations/Repository/SetMbCheckSum.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="SetPrxMetaSheetPageSettings">
+    <param name="Name" value="SetPrxMetaSheetPageSettings: Операция">
+    <param name="Local" value="Operations/RegularReport/SetPrxMetaSheetPageSettings.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="SetRdsDatabase">
+    <param name="Name" value="SetRdsDatabase: Операция">
+    <param name="Local" value="Operations/Rds/SetRdsDatabase.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="SetRepoParams">
+    <param name="Name" value="SetRepoParams: Операция">
+    <param name="Local" value="Operations/Repository/SetRepoParams.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="TabObjectsDelete">
+    <param name="Name" value="TabObjectsDelete: Операция">
+    <param name="Local" value="Operations/Visualizators/TabObjectsDelete.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="DebugModule">
+    <param name="Name" value="DebugModule: Операция">
+    <param name="Local" value="Operations/DevEnv/DebugModule.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GetDebugState">
+    <param name="Name" value="GetDebugState: Операция">
+    <param name="Local" value="Operations/DevEnv/GetDebugState.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="SetDecisionTreeModuleMappingInputParameterLinkAttributes">
+    <param name="Name" value="SetDecisionTreeModuleMappingInputParameterLinkAttributes: Операция">
+    <param name="Local" value="Operations/DecisionTree/SetDecisionTreeModuleMappingInputParameterLinkAttributes.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="RemoveDecisionTreeModuleMappingInputParameterLink">
+    <param name="Name" value="RemoveDecisionTreeModuleMappingInputParameterLink: Операция">
+    <param name="Local" value="Operations/DecisionTree/RemoveDecisionTreeModuleMappingInputParameterLink.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GetSharedFunctions">
+    <param name="Name" value="GetSharedFunctions: Операция">
+    <param name="Local" value="Operations/Repository/GetSharedFunctions.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GetTabStaticFormulas">
+    <param name="Name" value="GetTabStaticFormulas: Операция">
+    <param name="Local" value="Operations/Repository/GetTabStaticFormulas.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GetPrxMetaJsPlugin">
+    <param name="Name" value="GetPrxMetaJsPlugin: Операция">
+    <param name="Local" value="Operations/RegularReport/GetPrxMetaJsPlugin.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="SetPrxMetaJsPlugin">
+    <param name="Name" value="SetPrxMetaJsPlugin: Операция">
+    <param name="Local" value="Operations/RegularReport/SetPrxMetaJsPlugin.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="SetPivotDimensionSettingsExMetaData">
+    <param name="Name" value="SetPivotDimensionSettingsExMetaData: Операция">
+    <param name="Local" value="Operations/RegularReport/SetPivotDimensionSettingsExMetaData.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GetPivotDimensionSettingsExMetaData">
+    <param name="Name" value="GetPivotDimensionSettingsExMetaData: Операция">
+    <param name="Local" value="Operations/RegularReport/GetPivotDimensionSettingsExMetaData.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GetDTreeCalcState">
+    <param name="Name" value="GetDTreeCalcState: Операция">
+    <param name="Local" value="Operations/DecisionTree/GetDTreeCalcState.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="SetDTreeInteractiveParams">
+    <param name="Name" value="SetDTreeInteractiveParams: Операция">
+    <param name="Local" value="Operations/DecisionTree/SetDTreeInteractiveParams.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="StopDTreeCalc">
+    <param name="Name" value="StopDTreeCalc: Операция">
+    <param name="Local" value="Operations/DecisionTree/StopDTreeCalc.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ResumeDTreeCalc">
+    <param name="Name" value="ResumeDTreeCalc: Операция">
+    <param name="Local" value="Operations/DecisionTree/ResumeDTreeCalc.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="BreakDTreeCalc">
+    <param name="Name" value="BreakDTreeCalc: Операция">
+    <param name="Local" value="Operations/DecisionTree/BreakDTreeCalc.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GetDTreeCalcResults">
+    <param name="Name" value="GetDTreeCalcResults: Операция">
+    <param name="Local" value="Operations/DecisionTree/GetDTreeCalcResults.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GetDTreeCalcPathInfo">
+    <param name="Name" value="GetDTreeCalcPathInfo: Операция">
+    <param name="Local" value="Operations/DecisionTree/GetDTreeCalcPathInfo.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="RunDTreeDeferredModule">
+    <param name="Name" value="RunDTreeDeferredModule: Операция">
+    <param name="Local" value="Operations/DecisionTree/RunDTreeDeferredModule.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GetExpanderInfo">
+    <param name="Name" value="GetExpanderInfo: Операция">
+    <param name="Local" value="Operations/DevEnv/GetExpanderInfo.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GetFormulaErrorOptions">
+    <param name="Name" value="GetFormulaErrorOptions: Операция">
+    <param name="Local" value="Operations/RegularReport/GetFormulaErrorOptions.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="SetFormulaErrorOptions">
+    <param name="Name" value="SetFormulaErrorOptions: Операция">
+    <param name="Local" value="Operations/RegularReport/SetFormulaErrorOptions.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ResetSkippedErrors">
+    <param name="Name" value="ResetSkippedErrors: Операция">
+    <param name="Local" value="Operations/RegularReport/ResetSkippedErrors.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GetPythonModule">
+    <param name="Name" value="GetPythonModule: Операция">
+    <param name="Local" value="Operations/DevEnv/GetPythonModule.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="SetPythonModule">
+    <param name="Name" value="SetPythonModule: Операция">
+    <param name="Local" value="Operations/DevEnv/SetPythonModule.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GetCustomClassInspectorInfo">
+    <param name="Name" value="GetCustomClassInspectorInfo: Операция">
+    <param name="Local" value="Operations/DevEnv/GetCustomClassInspectorInfo.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="FindInCustomClassInspector">
+    <param name="Name" value="FindInCustomClassInspector: Операция">
+    <param name="Local" value="Operations/DevEnv/FindInCustomClassInspector.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="PrxMetaSheetAutoFilter">
+    <param name="Name" value="PrxMetaSheetAutoFilter: Операция">
+    <param name="Local" value="Operations/RegularReport/PrxMetaSheetAutoFilter.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GetClassInspectorInfo">
+    <param name="Name" value="GetClassInspectorInfo: Операция">
+    <param name="Local" value="Operations/DevEnv/GetClassInspectorInfo.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="TabSheetPageBreaks">
+    <param name="Name" value="TabSheetPageBreaks: Операция">
+    <param name="Local" value="Operations/Visualizators/TabSheetPageBreaks.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GetForeLocalVariableList">
+    <param name="Name" value="GetForeLocalVariableList: Операция">
+    <param name="Local" value="Operations/DevEnv/GetForeLocalVariableList.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="AddTabTableStyle">
+    <param name="Name" value="AddTabTableStyle: Операция">
+    <param name="Local" value="Operations/Visualizators/Table/AddTabTableStyle.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GetTabTableStyle">
+    <param name="Name" value="GetTabTableStyle: Операция">
+    <param name="Local" value="Operations/Visualizators/Table/GetTabTableStyle.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="SetTabTableStyle">
+    <param name="Name" value="SetTabTableStyle: Операция">
+    <param name="Local" value="Operations/Visualizators/Table/SetTabTableStyle.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GetTabSheetDisplayPaper">
+    <param name="Name" value="GetTabSheetDisplayPaper: Операция">
+    <param name="Local" value="Operations/Visualizators/Table/GetTabSheetDisplayPaper.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="SetTabSheetDisplayPaper">
+    <param name="Name" value="SetTabSheetDisplayPaper: Операция">
+    <param name="Local" value="Operations/Visualizators/Table/SetTabSheetDisplayPaper.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="FindInClassInspector">
+    <param name="Name" value="FindInClassInspector: Операция">
+    <param name="Local" value="Operations/DevEnv/FindInClassInspector.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="OpenBpmProcess">
+    <param name="Name" value="OpenBpmProcess: Операция">
+    <param name="Local" value="Operations/BPM/OpenBpmProcess.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GetTabObjectSettings">
+    <param name="Name" value="GetTabObjectSettings: Операция">
+    <param name="Local" value="Operations/Visualizators/Table/GetTabObjectSettings.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ResizeTabObjects">
+    <param name="Name" value="ResizeTabObjects: Операция">
+    <param name="Local" value="Operations/Visualizators/Table/ResizeTabObjects.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="DrillCheck">
+    <param name="Name" value="DrillCheck: Операция">
+    <param name="Local" value="Operations/RegularReport/DrillCheck.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="DrillAction">
+    <param name="Name" value="DrillAction: Операция">
+    <param name="Local" value="Operations/RegularReport/DrillAction.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GetTabRangeComment">
+    <param name="Name" value="GetTabRangeComment: Операция">
+    <param name="Local" value="Operations/Visualizators/Table/GetTabRangeComment.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="SetTabRangeComment">
+    <param name="Name" value="SetTabRangeComment: Операция">
+    <param name="Local" value="Operations/Visualizators/Table/SetTabRangeComment.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="DelTabRangeComment">
+    <param name="Name" value="DelTabRangeComment: Операция">
+    <param name="Local" value="Operations/Visualizators/Table/DelTabRangeComment.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="TabParseFormula">
+    <param name="Name" value="TabParseFormula: Операция">
+    <param name="Local" value="Operations/Visualizators/Table/TabParseFormula.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GetStackFrameList">
+    <param name="Name" value="GetStackFrameList: Операция">
+    <param name="Local" value="Operations/DevEnv/GetStackFrameList.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="EvaluateCollectionExpressions">
+    <param name="Name" value="EvaluateCollectionExpressions: Операция">
+    <param name="Local" value="Operations/DevEnv/EvaluateCollectionExpressions.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="SetCollectionExpressionValue">
+    <param name="Name" value="SetCollectionExpressionValue: Операция">
+    <param name="Local" value="Operations/DevEnv/SetCollectionExpressionValue.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GetChartAxisLevelLines">
+    <param name="Name" value="GetChartAxisLevelLines: Операция">
+    <param name="Local" value="Operations/Visualizators/Chart/GetChartAxisLevelLines.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="RemoveChartAxisLevelLine">
+    <param name="Name" value="RemoveChartAxisLevelLine: Операция">
+    <param name="Local" value="Operations/Visualizators/Chart/RemoveChartAxisLevelLine.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GetChartAxisLevelLine">
+    <param name="Name" value="GetChartAxisLevelLine: Операция">
+    <param name="Local" value="Operations/Visualizators/Chart/GetChartAxisLevelLine.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="SetChartAxisLevelLine">
+    <param name="Name" value="SetChartAxisLevelLine: Операция">
+    <param name="Local" value="Operations/Visualizators/Chart/SetChartAxisLevelLine.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="AddChartAxisLevelLine">
+    <param name="Name" value="AddChartAxisLevelLine: Операция">
+    <param name="Local" value="Operations/Visualizators/Chart/AddChartAxisLevelLine.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="EvaluateExpressions">
+    <param name="Name" value="EvaluateExpressions: Операция">
+    <param name="Local" value="Operations/DevEnv/EvaluateExpressions.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GetRuntimeObjectList">
+    <param name="Name" value="GetRuntimeObjectList: Операция">
+    <param name="Local" value="Operations/DevEnv/GetRuntimeObjectList.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="SetExpressionValue">
+    <param name="Name" value="SetExpressionValue: Операция">
+    <param name="Local" value="Operations/DevEnv/SetExpressionValue.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GetDataAreaGridDimRanges">
+    <param name="Name" value="GetDataAreaGridDimRanges: Операция">
+    <param name="Local" value="Operations/RegularReport/GetDataAreaGridDimRanges.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="SetEaxGridHeaderProperties">
+    <param name="Name" value="SetEaxGridHeaderProperties: Операция">
+    <param name="Local" value="Operations/RegularReport/SetEaxGridHeaderProperties.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GetEaxGridHeaderProperties">
+    <param name="Name" value="GetEaxGridHeaderProperties: Операция">
+    <param name="Local" value="Operations/RegularReport/GetEaxGridHeaderProperties.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="SetEaxGridHeaderSettings">
+    <param name="Name" value="SetEaxGridHeaderSettings: Операция">
+    <param name="Local" value="Operations/RegularReport/SetEaxGridHeaderSettings.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GetEaxGridHeaderSettings">
+    <param name="Name" value="GetEaxGridHeaderSettings: Операция">
+    <param name="Local" value="Operations/RegularReport/GetEaxGridHeaderSettings.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GetDecisionTreeTermParameter">
+    <param name="Name" value="GetDecisionTreeTermParameter: Операция">
+    <param name="Local" value="Operations/DecisionTree/GetDecisionTreeTermParameter.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="OpenWebForm">
+    <param name="Name" value="OpenWebForm: Операция">
+    <param name="Local" value="Operations/DevEnv/OpenWebForm.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="FormatForeLines">
+    <param name="Name" value="FormatForeLines: Операция">
+    <param name="Local" value="Operations/DevEnv/FormatForeLines.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GetNumberFormatValues">
+    <param name="Name" value="GetNumberFormatValues: Операция">
+    <param name="Local" value="Operations/Visualizators/Table/GetNumberFormatValues.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="OpenStyleSheet">
+    <param name="Name" value="OpenStyleSheet">
+    <param name="Local" value="Operations/StyleSheet/OpenStyleSheet.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="SetStyleSheetItem">
+    <param name="Name" value="SetStyleSheetItem: Операция">
+    <param name="Local" value="Operations/StyleSheet/SetStyleSheetItem.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GetStyleSheetItem">
+    <param name="Name" value="GetStyleSheetItem: Операция">
+    <param name="Local" value="Operations/StyleSheet/GetStyleSheetItem.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GetStyleSheet">
+    <param name="Name" value="GetStyleSheet: Операция">
+    <param name="Local" value="Operations/StyleSheet/GetStyleSheet.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="DeleteStyleSheetItem">
+    <param name="Name" value="DeleteStyleSheetItem: Операция">
+    <param name="Local" value="Operations/StyleSheet/DeleteStyleSheetItem.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="CreateStyleSheetItem">
+    <param name="Name" value="CreateStyleSheetItem: Операция">
+    <param name="Local" value="Operations/StyleSheet/CreateStyleSheetItem.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="CopyStyleSheet">
+    <param name="Name" value="CopyStyleSheet: Операция">
+    <param name="Local" value="Operations/StyleSheet/CopyStyleSheet.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="CloneStyleSheetItem">
+    <param name="Name" value="CloneStyleSheetItem: Операция">
+    <param name="Local" value="Operations/StyleSheet/CloneStyleSheetItem.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GetPivotEvaluatorTotalsMetaData">
+    <param name="Name" value="GetPivotEvaluatorTotalsMetaData: Операция">
+    <param name="Local" value="Operations/RegularReport/GetPivotEvaluatorTotalsMetaData.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="SetPivotEvaluatorTotalsMetaData">
+    <param name="Name" value="SetPivotEvaluatorTotalsMetaData: Операция">
+    <param name="Local" value="Operations/RegularReport/SetPivotEvaluatorTotalsMetaData.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="CloseSeg">
+    <param name="Name" value="CloseSeg: Операция">
+    <param name="Local" value="Operations/Cube/CloseSeg.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="CloseSegCont">
+    <param name="Name" value="CloseSegCont: Операция">
+    <param name="Local" value="Operations/Cube/CloseSegCont.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="SetSegCont">
+    <param name="Name" value="SetSegCont: Операция">
+    <param name="Local" value="Operations/Cube/SetSegCont.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="SetSeg">
+    <param name="Name" value="SetSeg: Операция">
+    <param name="Local" value="Operations/Cube/SetSeg.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="OpenSegCont">
+    <param name="Name" value="OpenSegCont: Операция">
+    <param name="Local" value="Operations/Cube/OpenSegCont.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="OpenSeg">
+    <param name="Name" value="OpenSeg: Операция">
+    <param name="Local" value="Operations/Cube/OpenSeg.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GetSegCont">
+    <param name="Name" value="GetSegCont: Операция">
+    <param name="Local" value="Operations/Cube/GetSegCont.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GetSeg">
+    <param name="Name" value="GetSeg: Операция">
+    <param name="Local" value="Operations/Cube/GetSeg.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="TabValidateFormulaArgument">
+    <param name="Name" value="TabValidateFormulaArgument: Операция">
+    <param name="Local" value="Operations/Visualizators/Table/TabValidateFormulaArgument.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GetPrxStyleSheet">
+    <param name="Name" value="GetPrxStyleSheet: Операция">
+    <param name="Local" value="Operations/RegularReport/TableStyle/GetPrxStyleSheet.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ResetPrxStyleSheet">
+    <param name="Name" value="ResetPrxStyleSheet: Операция">
+    <param name="Local" value="Operations/RegularReport/TableStyle/ResetPrxStyleSheet.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="SetPrxStyleSheet">
+    <param name="Name" value="SetPrxStyleSheet: Операция">
+    <param name="Local" value="Operations/RegularReport/TableStyle/SetPrxStyleSheet.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GetControlInfo">
+    <param name="Name" value="GetControlInfo: Операция">
+    <param name="Local" value="Operations/Repository/GetControlInfo.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="PrxMetaRefreshDataSources">
+    <param name="Name" value="PrxMetaRefreshDataSources: Операция">
+    <param name="Local" value="Operations/RegularReport/PrxMetaRefreshDataSources.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GetEaxPivotJson">
+    <param name="Name" value="GetEaxPivotJson: Операция">
+    <param name="Local" value="Operations/ExpressReport/GetEaxPivotJson.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GetBpmWorkspace">
+    <param name="Name" value="GetBpmWorkspace: Операция">
+    <param name="Local" value="Operations/BPM/GetBpmWorkspace.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="SaveBpmProcess">
+    <param name="Name" value="SaveBpmProcess: Операция">
+    <param name="Local" value="Operations/BPM/SaveBpmProcess.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GetBpmStep">
+    <param name="Name" value="GetBpmStep: Операция">
+    <param name="Local" value="Operations/BPM/GetBpmStep.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="SetBpmProcessSettings">
+    <param name="Name" value="SetBpmProcessSettings: Операция">
+    <param name="Local" value="Operations/BPM/SetBpmProcessSettings.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="StartBpmProcess">
+    <param name="Name" value="StartBpmProcess: Операция">
+    <param name="Local" value="Operations/BPM/StartBpmProcess.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="AddTabNamedRegion">
+    <param name="Name" value="AddTabNamedRegion: Операция">
+    <param name="Local" value="Operations/RegularReport/AddTabNamedRegion.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ChangeTabNamedRegion">
+    <param name="Name" value="ChangeTabNamedRegion: Операция">
+    <param name="Local" value="Operations/RegularReport/ChangeTabNamedRegion.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="DeleteTabNamedRegion">
+    <param name="Name" value="DeleteTabNamedRegion: Операция">
+    <param name="Local" value="Operations/RegularReport/DeleteTabNamedRegion.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GetPrxAllNamedRegions">
+    <param name="Name" value="GetPrxAllNamedRegions: Операция">
+    <param name="Local" value="Operations/RegularReport/GetPrxAllNamedRegions.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GetSeriesGroupTree">
+    <param name="Name" value="GetSeriesGroupTree: Операция">
+    <param name="Local" value="Operations/RegularReport/GetSeriesGroupTree.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="MoveSeriesGroupTreeElem">
+    <param name="Name" value="MoveSeriesGroupTreeElem: Операция">
+    <param name="Local" value="Operations/RegularReport/MoveSeriesGroupTreeElem.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="SeriesGroupFastFormat">
+    <param name="Name" value="SeriesGroupFastFormat: Операция">
+    <param name="Local" value="Operations/RegularReport/SeriesGroupFastFormat.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="PrxMetaUserButtonsUpdate">
+    <param name="Name" value="PrxMetaUserButtonsUpdate">
+    <param name="Local" value="Operations/RegularReport/PrxMetaUserButtonsUpdate.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="SetBpmStep">
+    <param name="Name" value="SetBpmStep: Операция">
+    <param name="Local" value="Operations/BPM/SetBpmStep.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GetBpmProcessSettings">
+    <param name="Name" value="GetBpmProcessSettings: Операция">
+    <param name="Local" value="Operations/BPM/GetBpmProcessSettings.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GetPythonIntelliSenseInfo">
+    <param name="Name" value="GetPythonIntelliSenseInfo: Операция">
+    <param name="Local" value="Operations/DevEnv/GetPythonIntelliSenseInfo.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GetPythonIntelliSenseTooltip">
+    <param name="Name" value="GetPythonIntelliSenseTooltip: Операция">
+    <param name="Local" value="Operations/DevEnv/GetPythonIntelliSenseTooltip.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GetLocales">
+    <param name="Name" value="GetLocales: Операция">
+    <param name="Local" value="Operations/Repository/GetLocales.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GetBpmProcessStartInfo">
+    <param name="Name" value="GetBpmProcessStartInfo: Операция">
+    <param name="Local" value="Operations/BPM/GetBpmProcessStartInfo.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GetTabTableStylePreview">
+    <param name="Name" value="GetTabTableStylePreview: Операция">
+    <param name="Local" value="Operations/Visualizators/Table/GetTabTableStylePreview.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GetBpmProcAdministration">
+    <param name="Name" value="GetBpmProcAdministration: Операция">
+    <param name="Local" value="Operations/BPM/GetBpmProcAdministration.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="SetBpmProcAdministration">
+    <param name="Name" value="SetBpmProcAdministration: Операция">
+    <param name="Local" value="Operations/BPM/SetBpmProcAdministration.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GetChartPointsLabel">
+    <param name="Name" value="GetChartPointsLabel: Операция">
+    <param name="Local" value="Operations/Visualizators/Chart/GetChartPointsLabel.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="SetChartPointsSelected">
+    <param name="Name" value="SetChartPointsSelected: Операция">
+    <param name="Local" value="Operations/Visualizators/Chart/SetChartPointsSelected.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="SetChartPointsLabel">
+    <param name="Name" value="SetChartPointsLabel: Операция">
+    <param name="Local" value="Operations/Visualizators/Chart/SetChartPointsLabel.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GetChartPointsSelected">
+    <param name="Name" value="GetChartPointsSelected: Операция">
+    <param name="Local" value="Operations/Visualizators/Chart/GetChartPointsSelected.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ChartClearPointsSelected">
+    <param name="Name" value="ChartClearPointsSelected: Операция">
+    <param name="Local" value="Operations/Visualizators/Chart/ChartClearPointsSelected.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GetChartPointsBackground">
+    <param name="Name" value="GetChartPointsBackground: Операция">
+    <param name="Local" value="Operations/Visualizators/Chart/GetChartPointsBackground.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="SetChartPointsBackground">
+    <param name="Name" value="SetChartPointsBackground: Операция">
+    <param name="Local" value="Operations/Visualizators/Chart/SetChartPointsBackground.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="RemoveTabTableStyle">
+    <param name="Name" value="RemoveTabTableStyle: Операция">
+    <param name="Local" value="Operations/Visualizators/Table/RemoveTabTableStyle.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="CopyTabTableStyleToRange">
+    <param name="Name" value="CopyTabTableStyleToRange: Операция">
+    <param name="Local" value="Operations/Visualizators/Table/CopyTabTableStyleToRange.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="RemoveTabTableStyleByName">
+    <param name="Name" value="RemoveTabTableStyleByName: Операция">
+    <param name="Local" value="Operations/Visualizators/Table/RemoveTabTableStyleByName.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ChangeTabTableStyleByName">
+    <param name="Name" value="ChangeTabTableStyleByName: Операция">
+    <param name="Local" value="Operations/Visualizators/Table/ChangeTabTableStyleByName.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="OpenDba">
+    <param name="Name" value="OpenDba: Операция">
+    <param name="Local" value="Operations/DBA/OpenDba.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="CloseDba">
+    <param name="Name" value="CloseDba: Операция">
+    <param name="Local" value="Operations/DBA/CloseDba.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="SaveDba">
+    <param name="Name" value="SaveDba: Операция">
+    <param name="Local" value="Operations/DBA/SaveDba.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="SetDba">
+    <param name="Name" value="SetDba: Операция">
+    <param name="Local" value="Operations/DBA/SetDba.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GetDba">
+    <param name="Name" value="GetDba: Операция">
+    <param name="Local" value="Operations/DBA/GetDba.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="OpenMbLicense">
+    <param name="Name" value="OpenMbLicense: Операция">
+    <param name="Local" value="Operations/Repository/OpenMbLicense.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="CloseMbLicense">
+    <param name="Name" value="CloseMbLicense: Операция">
+    <param name="Local" value="Operations/Repository/CloseMbLicense.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GetTabPredefinedStyles">
+    <param name="Name" value="GetTabPredefinedStyles: Операция">
+    <param name="Local" value="Operations/Visualizators/Table/GetTabPredefinedStyles.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GetEaxFormulaDescriptions">
+    <param name="Name" value="GetEaxFormulaDescriptions: Операция">
+    <param name="Local" value="Operations/RegularReport/GetEaxFormulaDescriptions.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GetEaxTermDescriptions">
+    <param name="Name" value="GetEaxTermDescriptions: Операция">
+    <param name="Local" value="Operations/RegularReport/GetEaxTermDescriptions.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GetEaxFormulaDescriptionUsedAttrs">
+    <param name="Name" value="GetEaxFormulaDescriptionUsedAttrs: Операция">
+    <param name="Local" value="Operations/RegularReport/GetEaxFormulaDescriptionUsedAttrs.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="SetEaxFormulaDescriptionUsedAttrs">
+    <param name="Name" value="SetEaxFormulaDescriptionUsedAttrs: Операция">
+    <param name="Local" value="Operations/RegularReport/SetEaxFormulaDescriptionUsedAttrs.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="SetEaxUsedAttributesIdMap">
+    <param name="Name" value="SetEaxUsedAttributesIdMap: Операция">
+    <param name="Local" value="Operations/RegularReport/SetEaxUsedAttributesIdMap.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GetWebFormInfo">
+    <param name="Name" value="GetWebFormInfo: Операция">
+    <param name="Local" value="Operations/DevEnv/GetWebFormInfo.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="SaveWebForm">
+    <param name="Name" value="SaveWebForm: Операция">
+    <param name="Local" value="Operations/DevEnv/SaveWebForm.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="InsertPrxShape">
+    <param name="Name" value="InsertPrxShape: Операция">
+    <param name="Local" value="Operations/RegularReport/InsertPrxShape.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="SetPrxShape">
+    <param name="Name" value="SetPrxShape: Операция">
+    <param name="Local" value="Operations/RegularReport/SetPrxShape.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GetPrxShape">
+    <param name="Name" value="GetPrxShape: Операция">
+    <param name="Local" value="Operations/RegularReport/GetPrxShape.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GetSubprocessGroupFilter">
+    <param name="Name" value="GetSubprocessGroupFilter: Операция">
+    <param name="Local" value="Operations/BPM/GetSubprocessGroupFilter.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="SetSubprocessGroupFilter">
+    <param name="Name" value="SetSubprocessGroupFilter: Операция">
+    <param name="Local" value="Operations/BPM/SetSubprocessGroupFilter.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="PrxMetaToolbarReset">
+    <param name="Name" value="PrxMetaToolbarReset: Операция">
+    <param name="Local" value="Operations/RegularReport/PrxMetaToolbarReset.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GetBpmSegmentsForSteps">
+    <param name="Name" value="GetBpmSegmentsForSteps: Операция">
+    <param name="Local" value="Operations/BPM/GetBpmSegmentsForSteps.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="SetBpmSegmentsInfo">
+    <param name="Name" value="SetBpmSegmentsInfo: Операция">
+    <param name="Local" value="Operations/BPM/SetBpmSegmentsInfo.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GetBpmSegmentInfo">
+    <param name="Name" value="GetBpmSegmentInfo: Операция">
+    <param name="Local" value="Operations/BPM/GetBpmSegmentInfo.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GetTopobase">
+    <param name="Name" value="GetTopobase: Операция">
+    <param name="Local" value="Operations/Visualizators/Map/GetTopobase.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GetSystemInfo">
+    <param name="Name" value="GetSystemInfo: Операция">
+    <param name="Local" value="Operations/Repository/GetSystemInfo.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="SetBreakpointList">
+    <param name="Name" value="SetBreakpointList: Операция">
+    <param name="Local" value="Operations/DevEnv/SetBreakpointList.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="RemoveBreakpoint">
+    <param name="Name" value="RemoveBreakpoint: Операция">
+    <param name="Local" value="Operations/DevEnv/RemoveBreakpoint.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="RemoveAllBreakpoints">
+    <param name="Name" value="RemoveAllBreakpoints: Операция">
+    <param name="Local" value="Operations/DevEnv/RemoveAllBreakpoints.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GetCurrentBreakLine">
+    <param name="Name" value="GetCurrentBreakLine: Операция">
+    <param name="Local" value="Operations/DevEnv/GetCurrentBreakLine.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="SetActiveReport">
+    <param name="Name" value="SetActiveReport: Операция">
+    <param name="Local" value="Operations/RegularReport/SetActiveReport.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GetOAuthSettings">
+    <param name="Name" value="GetOAuthSettings: Операция">
+    <param name="Local" value="Operations/Repository/GetOAuthSettings.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="CreateOAuthState">
+    <param name="Name" value="CreateOAuthState: Операция">
+    <param name="Local" value="Operations/Repository/CreateOAuthState.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GetActiveProcesses">
+    <param name="Name" value="GetActiveProcesses: Операция">
+    <param name="Local" value="Operations/BPM/GetActiveProcesses.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GetProcessInstances">
+    <param name="Name" value="GetProcessInstances: Операция">
+    <param name="Local" value="Operations/BPM/GetProcessInstances.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GetBpmMonitoringWorkspace">
+    <param name="Name" value="GetBpmMonitoringWorkspace: Операция">
+    <param name="Local" value="Operations/BPM/GetBpmMonitoringWorkspace.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="OpenMonitoringWS">
+    <param name="Name" value="OpenMonitoringWS: Операция">
+    <param name="Local" value="Operations/BPM/OpenMonitoringWS.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GetBpmStepOperations">
+    <param name="Name" value="GetBpmStepOperations: Операция">
+    <param name="Local" value="Operations/BPM/GetBpmStepOperations.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="SetTabObjectSettings">
+    <param name="Name" value="SetTabObjectSettings: Операция">
+    <param name="Local" value="Operations/Visualizators/Table/SetTabObjectSettings.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="SetDecisionTreeModuleMappingParameterLinkAttributes">
+    <param name="Name" value="SetDecisionTreeModuleMappingParameterLinkAttributes: Операция">
+    <param name="Local" value="Operations/DecisionTree/SetDecisionTreeModuleMappingParameterLinkAttributes.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="SetCustomExtender">
+    <param name="Name" value="SetCustomExtender: Операция">
+    <param name="Local" value="Operations/Repository/SetCustomExtender.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="OpenCustomExtender">
+    <param name="Name" value="OpenCustomExtender: Операция">
+    <param name="Local" value="Operations/Repository/OpenCustomExtender.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GetBpmCondition">
+    <param name="Name" value="GetBpmCondition: Операция">
+    <param name="Local" value="Operations/BPM/GetBpmCondition.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="SetBpmCondition">
+    <param name="Name" value="SetBpmCondition: Операция">
+    <param name="Local" value="Operations/BPM/SetBpmCondition.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GetDataAreaGridAttachments">
+    <param name="Name" value="GetDataAreaGridAttachments: Операция">
+    <param name="Local" value="Operations/RegularReport/GetDataAreaGridAttachments.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="SetDataAreaGridAttachments">
+    <param name="Name" value="SetDataAreaGridAttachments: Операция">
+    <param name="Local" value="Operations/RegularReport/SetDataAreaGridAttachments.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GetBinFont">
+    <param name="Name" value="GetBinFont: Операция">
+    <param name="Local" value="Additional/GetBinFont.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GetDashboardMeta">
+    <param name="Name" value="GetDashboardMeta: Операция">
+    <param name="Local" value="Operations/Dashboard/GetDashboardMeta.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="OpenDashboard">
+    <param name="Name" value="OpenDashboard: Операция">
+    <param name="Local" value="Operations/Dashboard/OpenDashboard.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="CloseDashboard">
+    <param name="Name" value="CloseDashboard: Операция">
+    <param name="Local" value="Operations/Dashboard/CloseDashboard.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="SetDashboardMeta">
+    <param name="Name" value="SetDashboardMeta: Операция">
+    <param name="Local" value="Operations/Dashboard/SetDashboardMeta.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="DashboardSourcesAdd">
+    <param name="Name" value="DashboardSourcesAdd: Операция">
+    <param name="Local" value="Operations/Dashboard/DashboardSourcesAdd.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="DashboardVisualizerCopy">
+    <param name="Name" value="DashboardVisualizerCopy: Операция">
+    <param name="Local" value="Operations/Dashboard/DashboardVisualizerCopy.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="DashboardVisualizerExport">
+    <param name="Name" value="DashboardVisualizerExport: Операция">
+    <param name="Local" value="Operations/Dashboard/DashboardVisualizerExport.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="DashboardVisualizersAdd">
+    <param name="Name" value="DashboardVisualizersAdd: Операция">
+    <param name="Local" value="Operations/Dashboard/DashboardVisualizersAdd.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="DashboardVisualizersDelete">
+    <param name="Name" value="DashboardVisualizersDelete: Операция">
+    <param name="Local" value="Operations/Dashboard/DashboardVisualizersDelete.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GetDashboardVisualizers">
+    <param name="Name" value="GetDashboardVisualizers: Операция">
+    <param name="Local" value="Operations/Dashboard/GetDashboardVisualizers.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="SetDashboardVisualizers">
+    <param name="Name" value="SetDashboardVisualizers: Операция">
+    <param name="Local" value="Operations/Dashboard/SetDashboardVisualizers.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="DashboardSourcesRemove">
+    <param name="Name" value="DashboardSourcesRemove: Операция">
+    <param name="Local" value="Operations/Dashboard/DashboardSourcesRemove.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="OpenSemanticLayer">
+    <param name="Name" value="OpenSemanticLayer: Операция">
+    <param name="Local" value="Operations/SemanticLayer/OpenSemanticLayer.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="SetSemanticLayerMeta">
+    <param name="Name" value="SetSemanticLayerMeta: Операция">
+    <param name="Local" value="Operations/SemanticLayer/SetSemanticLayerMeta.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="CloseSemanticLayer">
+    <param name="Name" value="CloseSemanticLayer: Операция">
+    <param name="Local" value="Operations/SemanticLayer/CloseSemanticLayer.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GetSemanticLayerMeta">
+    <param name="Name" value="GetSemanticLayerMeta: Операция">
+    <param name="Local" value="Operations/SemanticLayer/GetSemanticLayerMeta.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="SemanticLayerCheckPattern">
+    <param name="Name" value="SemanticLayerCheckPattern: Операция">
+    <param name="Local" value="Operations/SemanticLayer/SemanticLayerCheckPattern.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="SemanticLayerDeletePattern">
+    <param name="Name" value="SemanticLayerDeletePattern: Операция">
+    <param name="Local" value="Operations/SemanticLayer/SemanticLayerDeletePattern.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="SemanticLayerGetPatterns">
+    <param name="Name" value="SemanticLayerGetPatterns: Операция">
+    <param name="Local" value="Operations/SemanticLayer/SemanticLayerGetPatterns.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="SemanticLayerSetNamePattern">
+    <param name="Name" value="SemanticLayerSetNamePattern: Операция">
+    <param name="Local" value="Operations/SemanticLayer/SemanticLayerSetNamePattern.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="SemanticLayerSetPattern">
+    <param name="Name" value="SemanticLayerSetPattern: Операция">
+    <param name="Local" value="Operations/SemanticLayer/SemanticLayerSetPattern.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GetSemanticLayerSources">
+    <param name="Name" value="GetSemanticLayerSources: Операция">
+    <param name="Local" value="Operations/SemanticLayer/GetSemanticLayerSources.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="SetSemanticLayerSources">
+    <param name="Name" value="SetSemanticLayerSources: Операция">
+    <param name="Local" value="Operations/SemanticLayer/SetSemanticLayerSources.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="SemanticLayerSourcesAdd">
+    <param name="Name" value="SemanticLayerSourcesAdd: Операция">
+    <param name="Local" value="Operations/SemanticLayer/SemanticLayerSourcesAdd.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="SemanticLayerSourcesDelete">
+    <param name="Name" value="SemanticLayerSourcesDelete: Операция">
+    <param name="Local" value="Operations/SemanticLayer/SemanticLayerSourcesDelete.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="DashboardFormulaEditorApply">
+    <param name="Name" value="DashboardFormulaEditorApply: Операция">
+    <param name="Local" value="Operations/Dashboard/DashboardFormulaEditorApply.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="DashboardFormulaEditorDelete">
+    <param name="Name" value="DashboardFormulaEditorDelete: Операция">
+    <param name="Local" value="Operations/Dashboard/DashboardFormulaEditorDelete.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="DashboardFormulaEditorEdit">
+    <param name="Name" value="DashboardFormulaEditorEdit: Операция">
+    <param name="Local" value="Operations/Dashboard/DashboardFormulaEditorEdit.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="DashboardFormulaEditorRollback">
+    <param name="Name" value="DashboardFormulaEditorRollback: Операция">
+    <param name="Local" value="Operations/Dashboard/DashboardFormulaEditorRollback.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="SemanticLayerSourceAddQuery">
+    <param name="Name" value="SemanticLayerSourceAddQuery: Операция">
+    <param name="Local" value="Operations/SemanticLayer/SemanticLayerSourceAddQuery.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ImportXlsx">
+    <param name="Name" value="ImportXlsx: Операция">
+    <param name="Local" value="Operations/RegularReport/ImportXlsx.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ExecuteBpmOperation">
+    <param name="Name" value="ExecuteBpmOperation: Операция">
+    <param name="Local" value="Operations/BPM/ExecuteBpmOperation.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="UpdateDataAreaExternalTransformations">
+    <param name="Name" value="UpdateDataAreaExternalTransformations: Операция">
+    <param name="Local" value="Operations/RegularReport/UpdateDataAreaExternalTransformations.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GetBpmProcessInstanceJournal">
+    <param name="Name" value="GetBpmProcessInstanceJournal: Операция">
+    <param name="Local" value="Operations/BPM/GetBpmProcessInstanceJournal.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="CustomRequestHandler">
+    <param name="Name" value="CustomRequestHandler: Операция">
+    <param name="Local" value="Additional/CustomRequestHandler.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Гостевой вход">
+    <param name="Name" value="Использование гостевого подключения">
+    <param name="Local" value="Intro/UseGuestConnection.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="SetDataAreaVirtualSources">
+    <param name="Name" value="SetDataAreaVirtualSources: Операция">
+    <param name="Local" value="Operations/RegularReport/SetDataAreaVirtualSources.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GetSubprocessInstancesList">
+    <param name="Name" value="GetSubprocessInstancesList: Операция">
+    <param name="Local" value="Operations/BPM/GetSubprocessInstancesList.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="SetDataAreaCustomDim">
+    <param name="Name" value="SetDataAreaCustomDim: Операция">
+    <param name="Local" value="Operations/RegularReport/SetDataAreaCustomDim.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ApplyDataAreaHierarchiesChanges">
+    <param name="Name" value="ApplyDataAreaHierarchiesChanges: Операция">
+    <param name="Local" value="Operations/RegularReport/ApplyDataAreaHierarchiesChanges.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="CancelDataAreaHierarchiesChanges">
+    <param name="Name" value="CancelDataAreaHierarchiesChanges: Операция">
+    <param name="Local" value="Operations/RegularReport/CancelDataAreaHierarchiesChanges.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ClearDataAreaHierarchy">
+    <param name="Name" value="ClearDataAreaHierarchy: Операция">
+    <param name="Local" value="Operations/RegularReport/ClearDataAreaHierarchy.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GetDataAreaSlice">
+    <param name="Name" value="GetDataAreaSlice: Операция">
+    <param name="Local" value="Operations/RegularReport/GetDataAreaSlice.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="SetDataAreaSlice">
+    <param name="Name" value="SetDataAreaSlice: Операция">
+    <param name="Local" value="Operations/RegularReport/SetDataAreaSlice.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="CanRestoreOlapState">
+    <param name="Name" value="CanRestoreOlapState: Операция">
+    <param name="Local" value="Operations/ExpressReport/CanRestoreOlapState.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="RestoreOlapState">
+    <param name="Name" value="RestoreOlapState: Операция">
+    <param name="Local" value="Operations/ExpressReport/RestoreOlapState.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GetWebForm">
+    <param name="Name" value="GetWebForm: Операция">
+    <param name="Local" value="Operations/DevEnv/GetWebForm.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GetSessions">
+    <param name="Name" value="GetSessions: Операция">
+    <param name="Local" value="Operations/Repository/GetSessions.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ExportMbSubjects">
+    <param name="Name" value="ExportMbSubjects: Операция">
+    <param name="Local" value="Operations/Repository/ExportMbSubjects.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="CreateCustomOb">
+    <param name="Name" value="CreateCustomOb: Операция">
+    <param name="Local" value="Operations/Repository/CreateCustomOb.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="HandleCustomObOper">
+    <param name="Name" value="HandleCustomObOper: Операция">
+    <param name="Local" value="Operations/Repository/HandleCustomObOper.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="CreateRdsElement">
+    <param name="Name" value="CreateRdsElement: Операция">
+    <param name="Local" value="Operations/Rds/CreateRdsElement.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="CloseRdsElement">
+    <param name="Name" value="CloseRdsElement: Операция">
+    <param name="Local" value="Operations/Rds/CloseRdsElement.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="SetRdsElement">
+    <param name="Name" value="SetRdsElement: Операция">
+    <param name="Local" value="Operations/Rds/SetRdsElement.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="AddBpmElement">
+    <param name="Name" value="AddBpmElement: Операция">
+    <param name="Local" value="Operations/BPM/AddBpmElement.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="DeleteBpmElement">
+    <param name="Name" value="DeleteBpmElement: Операция">
+    <param name="Local" value="Operations/BPM/DeleteBpmElement.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="MoveBpmElement">
+    <param name="Name" value="MoveBpmElement: Операция">
+    <param name="Local" value="Operations/BPM/MoveBpmElement.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GetStartEventSettings">
+    <param name="Name" value="GetStartEventSettings: Операция">
+    <param name="Local" value="Operations/BPM/GetStartEventSettings.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="SetStartEventSettings">
+    <param name="Name" value="SetStartEventSettings: Операция">
+    <param name="Local" value="Operations/BPM/SetStartEventSettings.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="SetBpmStage">
+    <param name="Name" value="SetBpmStage: Операция">
+    <param name="Local" value="Operations/BPM/SetBpmStage.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ChangeGatewayType">
+    <param name="Name" value="ChangeGatewayType: Операция">
+    <param name="Local" value="Operations/BPM/ChangeGatewayType.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GetCustomExtender">
+    <param name="Name" value="GetCustomExtender: Операция">
+    <param name="Local" value="Operations/Repository/GetCustomExtender.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GetDecisionTreeModuleMappingInfo">
+    <param name="Name" value="GetDecisionTreeModuleMappingInfo: Операция">
+    <param name="Local" value="Operations/DecisionTree/GetDecisionTreeModuleMappingInfo.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GetDashboardSlides">
+    <param name="Name" value="GetDashboardSlides: Операция">
+    <param name="Local" value="Operations/Dashboard/GetDashboardSlides.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="SetDashboardSlides">
+    <param name="Name" value="SetDashboardSlides: Операция">
+    <param name="Local" value="Operations/Dashboard/SetDashboardSlides.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="DashboardSlidesAdd">
+    <param name="Name" value="DashboardSlidesAdd: Операция">
+    <param name="Local" value="Operations/Dashboard/DashboardSlidesAdd.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="DashboardSlidesDelete">
+    <param name="Name" value="DashboardSlidesDelete: Операция">
+    <param name="Local" value="Operations/Dashboard/DashboardSlidesDelete.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="DashboardSlidesMove">
+    <param name="Name" value="DashboardSlidesMove: Операция">
+    <param name="Local" value="Operations/Dashboard/DashboardSlidesMove.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="CalculateFormula">
+    <param name="Name" value="CalculateFormula: Операция">
+    <param name="Local" value="Operations/Visualizators/Table/CalculateFormula.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="TabPaintFormat">
+    <param name="Name" value="TabPaintFormat: Операция">
+    <param name="Local" value="Operations/Visualizators/Table/TabPaintFormat.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="CopyBpmElements">
+    <param name="Name" value="CopyBpmElements: Операция">
+    <param name="Local" value="Operations/BPM/CopyBpmElements.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="PasteBpmElements">
+    <param name="Name" value="PasteBpmElements: Операция">
+    <param name="Local" value="Operations/BPM/PasteBpmElements.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GetExecGroupUsers">
+    <param name="Name" value="GetExecGroupUsers: Операция">
+    <param name="Local" value="Operations/BPM/GetExecGroupUsers.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="UndoRedoStartGroup">
+    <param name="Name" value="UndoRedoStartGroup: Операция">
+    <param name="Local" value="Operations/RegularReport/UndoRedoStartGroup.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="UndoRedoEndGroup">
+    <param name="Name" value="UndoRedoEndGroup: Операция">
+    <param name="Local" value="Operations/RegularReport/UndoRedoEndGroup.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="DashboardExpressionFieldsAdd">
+    <param name="Name" value="DashboardExpressionFieldsAdd: Операция">
+    <param name="Local" value="Operations/Dashboard/DashboardExpressionFieldsAdd.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="DashboardExpressionFieldsDelete">
+    <param name="Name" value="DashboardExpressionFieldsDelete: Операция">
+    <param name="Local" value="Operations/Dashboard/DashboardExpressionFieldsDelete.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GetDashboardExpressionFields">
+    <param name="Name" value="GetDashboardExpressionFields">
+    <param name="Local" value="Operations/Dashboard/GetDashboardExpressionFields.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GetDashboardExpressionField">
+    <param name="Name" value="GetDashboardExpressionField: Операция">
+    <param name="Local" value="Operations/Dashboard/GetDashboardExpressionField.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="DashboardRelationshipsAdd">
+    <param name="Name" value="DashboardRelationshipsAdd: Операция">
+    <param name="Local" value="Operations/Dashboard/DashboardRelationshipsAdd.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="DashboardRelationshipsDelete">
+    <param name="Name" value="DashboardRelationshipsDelete: Операция">
+    <param name="Local" value="Operations/Dashboard/DashboardRelationshipsDelete.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="SetDashboardRelationship">
+    <param name="Name" value="SetDashboardRelationship: Операция">
+    <param name="Local" value="Operations/Dashboard/SetDashboardRelationship.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GetDashboardRelationship">
+    <param name="Name" value="GetDashboardRelationship: Операция">
+    <param name="Local" value="Operations/Dashboard/GetDashboardRelationship.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GetDashboardRelationships">
+    <param name="Name" value="GetDashboardRelationships: Операция">
+    <param name="Local" value="Operations/Dashboard/GetDashboardRelationships.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="DashboardApplyRelations">
+    <param name="Name" value="DashboardApplyRelations: Операция">
+    <param name="Local" value="Operations/Dashboard/DashboardApplyRelations.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="DashboardCancelRelations">
+    <param name="Name" value="DashboardCancelRelations: Операция">
+    <param name="Local" value="Operations/Dashboard/DashboardCancelRelations.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="DashboardCalcFactApply">
+    <param name="Name" value="DashboardCalcFactApply: Операция">
+    <param name="Local" value="Operations/Dashboard/DashboardCalcFactApply.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GetCompoundDictionarySource">
+    <param name="Name" value="GetCompoundDictionarySource: Операция">
+    <param name="Local" value="Operations/Rds/GetCompoundDictionarySource.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="CloseCompoundDictionarySource">
+    <param name="Name" value="CloseCompoundDictionarySource: Операция">
+    <param name="Local" value="Operations/Rds/CloseCompoundDictionarySource.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="SaveCompoundDictionarySource">
+    <param name="Name" value="SaveCompoundDictionarySource: Операция">
+    <param name="Local" value="Operations/Rds/SaveCompoundDictionarySource.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="OpenCompoundDictionarySource">
+    <param name="Name" value="OpenCompoundDictionarySource: Операция">
+    <param name="Local" value="Operations/Rds/OpenCompoundDictionarySource.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="SetCompoundDictionarySource">
+    <param name="Name" value="SetCompoundDictionarySource: Операция">
+    <param name="Local" value="Operations/Rds/SetCompoundDictionarySource.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="CreateCompoundDictionarySource">
+    <param name="Name" value="CreateCompoundDictionarySource: Операция">
+    <param name="Local" value="Operations/Rds/CreateCompoundDictionarySource.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="CopyRdsElements">
+    <param name="Name" value="CopyRdsElements: Операция">
+    <param name="Local" value="Operations/Rds/CopyRdsElements.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GetBpmUserTasks">
+    <param name="Name" value="GetBpmUserTasks: Операция">
+    <param name="Local" value="Operations/BPM/GetBpmUserTasks.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="PrxMetaSheetUserCommentsCRUD">
+    <param name="Name" value="PrxMetaSheetUserCommentsCRUD: Операция">
+    <param name="Local" value="Operations/RegularReport/PrxMetaSheetUserCommentsCRUD.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GetPivotDimElementTotal">
+    <param name="Name" value="GetPivotDimElementTotal: Операция">
+    <param name="Local" value="Operations/RegularReport/GetPivotDimElementTotal.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="CheckExcludeGridElem">
+    <param name="Name" value="CheckExcludeGridElem: Операция">
+    <param name="Local" value="Operations/RegularReport/CheckExcludeGridElem.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="DashboardVisualizerResetFilterSelection">
+    <param name="Name" value="DashboardVisualizerResetFilterSelection: Операция">
+    <param name="Local" value="Operations/Dashboard/DashboardVisualizerResetFilterSelection.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="DashboardSlideResetFilterSelection">
+    <param name="Name" value="DashboardSlideResetFilterSelection: Операция">
+    <param name="Local" value="Operations/Dashboard/DashboardSlideResetFilterSelection.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GetExtServiceSettings">
+    <param name="Name" value="GetExtServiceSettings: Операция">
+    <param name="Local" value="Operations/Repository/GetExtServiceSettings.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="PrxMetaRejectDataChanges">
+    <param name="Name" value="PrxMetaRejectDataChanges: Операция">
+    <param name="Local" value="Operations/RegularReport/PrxMetaRejectDataChanges.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="DebugWebForm">
+    <param name="Name" value="DebugWebForm: Операция">
+    <param name="Local" value="Operations/DevEnv/DebugWebForm.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="AddToMbUpdate">
+    <param name="Name" value="AddToMbUpdate: Операция">
+    <param name="Local" value="Operations/Repository/AddToMbUpdate.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GetPrxMetaBpmActiveSteps">
+    <param name="Name" value="GetPrxMetaBpmActiveSteps: Операция">
+    <param name="Local" value="Operations/RegularReport/GetPrxMetaBpmActiveSteps.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ApprovePrxMetaBpmActiveSteps">
+    <param name="Name" value="ApprovePrxMetaBpmActiveSteps: Операция">
+    <param name="Local" value="Operations/RegularReport/ApprovePrxMetaBpmActiveSteps.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="RollbackPrxMetaBpmActiveSteps">
+    <param name="Name" value="RollbackPrxMetaBpmActiveSteps: Операция">
+    <param name="Local" value="Operations/RegularReport/RollbackPrxMetaBpmActiveSteps.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GetTabProtection">
+    <param name="Name" value="GetTabProtection: Операция">
+    <param name="Local" value="Operations/RegularReport/GetTabProtection.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="SetTabProtection">
+    <param name="Name" value="SetTabProtection: Операция">
+    <param name="Local" value="Operations/RegularReport/SetTabProtection.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GetMbUpdateRdsElements">
+    <param name="Name" value="GetMbUpdateRdsElements: Операция">
+    <param name="Local" value="Operations/Rds/GetMbUpdateRdsElements.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="SetMbUpdateRdsElements">
+    <param name="Name" value="SetMbUpdateRdsElements: Операция">
+    <param name="Local" value="Operations/Rds/SetMbUpdateRdsElements.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="SubjectsSearch">
+    <param name="Name" value="SubjectsSearch: Операция">
+    <param name="Local" value="Operations/Repository/SubjectsSearch.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GetPrxMetaChangePoints">
+    <param name="Name" value="GetPrxMetaChangePoints: Операция">
+    <param name="Local" value="Operations/RegularReport/GetPrxMetaChangePoints.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ForeExecAtomic">
+    <param name="Name" value="ForeExecAtomic: Операция">
+    <param name="Local" value="Operations/Repository/ForeExecAtomic.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GetMaintenanceMode">
+    <param name="Name" value="GetMaintenanceMode: Операция">
+    <param name="Local" value="Operations/Repository/GetMaintenanceMode.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="SetMaintenanceMode">
+    <param name="Name" value="SetMaintenanceMode: Операция">
+    <param name="Local" value="Operations/Repository/SetMaintenanceMode.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GetDashboardGxPageSettings">
+    <param name="Name" value="GetDashboardGxPageSettings: Операция">
+    <param name="Local" value="Operations/Dashboard/GetDashboardGxPageSettings.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="SetDashboardGxPageSettings">
+    <param name="Name" value="SetDashboardGxPageSettings: Операция">
+    <param name="Local" value="Operations/Dashboard/SetDashboardGxPageSettings.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GetLinkActiveProcess">
+    <param name="Name" value="GetLinkActiveProcess: Операция">
+    <param name="Local" value="Operations/BPM/GetLinkActiveProcess.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GetOAuthToken">
+    <param name="Name" value="GetOAuthToken: Операция">
+    <param name="Local" value="Operations/Repository/GetOAuthToken.htm">
+  </object>
+</ul>
+</html>

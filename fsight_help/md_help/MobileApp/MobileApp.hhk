@@ -1,0 +1,48 @@
+<html>
+<!-- Sitemap 1.0 -->
+<object type="text/site properties">
+  <param name="SiteType" value="index">
+</object>
+<ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Работа с навигатором объектов">
+    <param name="Name" value="Работа с навигатором объектов">
+    <param name="Local" value="Navigator/Navigator.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Просмотр аналитических панелей">
+    <param name="Name" value="Просмотр аналитических панелей">
+    <param name="Local" value="Navigator/Dashboards.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Просмотр отчётов для печати">
+    <param name="Name" value="Просмотр отчётов для печати">
+    <param name="Local" value="Navigator/Report.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Начало работы с мобильным приложением">
+    <param name="Name" value="Начало работы с мобильным приложением">
+    <param name="Local" value="Get_started/Get_started_mobile.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Просмотр демо-примеров">
+    <param name="Name" value="Просмотр демо-примеров">
+    <param name="Local" value="Get_started/Demo_examples.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Подключение источников данных на сервере мобильной платформы">
+    <param name="Name" value="Подключение источников данных на сервере мобильной платформы">
+    <param name="Local" value="Get_started/Mobile_Platform_Server.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Мобильное приложение">
+    <param name="Name" value="Мобильное приложение">
+    <param name="Local" value="Mobile_app.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Рекомендации по построению отчётов и аналитических панелей">
+    <param name="Name" value="Рекомендации по построению отчётов и аналитических панелей">
+    <param name="Local" value="Get_started/Recommendations.htm">
+  </object>
+</ul>
+</html>

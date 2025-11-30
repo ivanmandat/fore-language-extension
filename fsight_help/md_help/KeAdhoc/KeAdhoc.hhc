@@ -1,0 +1,1283 @@
+<html>
+<!-- Sitemap 1.0 -->
+<object type="text/site properties">
+  <param name="SiteType" value="toc">
+  <param name="Image Width" value="16">
+  <param name="Window Styles" value="0x800027">
+  <param name="ExWindow Styles" value="0x100">
+</object>
+<ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Adhoc">
+    <param name="Local" value="KeAdHoc_Title.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Введение в сборку Adhoc">
+      <param name="Local" value="Intro.htm">
+      <param name="ImageNumber" value="11">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Интерфейсы сборки Adhoc">
+      <param name="Local" value="Interface/KeAdHoc_Interface.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IAdhocBinaryData">
+        <param name="Local" value="Interface/IAdhocBinaryData/IAdhocBinaryData.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdhocBinaryData.Add">
+          <param name="Local" value="Interface/IAdhocBinaryData/IAdhocBinaryData.Add.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdhocBinaryData.Clear">
+          <param name="Local" value="Interface/IAdhocBinaryData/IAdhocBinaryData.Clear.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdhocBinaryData.Count">
+          <param name="Local" value="Interface/IAdhocBinaryData/IAdhocBinaryData.Count.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdhocBinaryData.FindById">
+          <param name="Local" value="Interface/IAdhocBinaryData/IAdhocBinaryData.FindById.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdhocBinaryData.Item">
+          <param name="Local" value="Interface/IAdhocBinaryData/IAdhocBinaryData.Item.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdhocBinaryData.Remove">
+          <param name="Local" value="Interface/IAdhocBinaryData/IAdhocBinaryData.Remove.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdhocBinaryData.RemoveById">
+          <param name="Local" value="Interface/IAdhocBinaryData/IAdhocBinaryData.RemoveById.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdhocBinaryData.Report">
+          <param name="Local" value="Interface/IAdhocBinaryData/IAdhocBinaryData.Report.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IAdhocBinaryItem">
+        <param name="Local" value="Interface/IAdhocBinaryItem/IAdhocBinaryItem.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdhocBinaryItem.ReadFromStream">
+          <param name="Local" value="Interface/IAdhocBinaryItem/IAdhocBinaryItem.ReadFromStream.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdhocBinaryItem.Type">
+          <param name="Local" value="Interface/IAdhocBinaryItem/IAdhocBinaryItem.Type.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdhocBinaryItem.WriteToStream">
+          <param name="Local" value="Interface/IAdhocBinaryItem/IAdhocBinaryItem.WriteToStream.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IAdhocBulkSelection">
+        <param name="Local" value="Interface/IAdhocBulkSelection/IAdhocBulkSelection.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdhocBulkSelection.Dimension">
+          <param name="Local" value="Interface/IAdhocBulkSelection/IAdhocBulkSelection.Dimension.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdhocBulkSelection.Selection">
+          <param name="Local" value="Interface/IAdhocBulkSelection/IAdhocBulkSelection.Selection.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IAdhocBulkSelectionSet">
+        <param name="Local" value="Interface/IAdhocBulkSelectionSet/IAdhocBulkSelectionSet.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdhocBulkSelectionSet.Add">
+          <param name="Local" value="Interface/IAdhocBulkSelectionSet/IAdhocBulkSelectionSet.Add.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdhocBulkSelectionSet.Clear">
+          <param name="Local" value="Interface/IAdhocBulkSelectionSet/IAdhocBulkSelectionSet.Clear.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdhocBulkSelectionSet.Count">
+          <param name="Local" value="Interface/IAdhocBulkSelectionSet/IAdhocBulkSelectionSet.Count.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdhocBulkSelectionSet.Item">
+          <param name="Local" value="Interface/IAdhocBulkSelectionSet/IAdhocBulkSelectionSet.Item.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdhocBulkSelectionSet.Remove">
+          <param name="Local" value="Interface/IAdhocBulkSelectionSet/IAdhocBulkSelectionSet.Remove.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IAdhocBulkSettings">
+        <param name="Local" value="Interface/IAdhocBulkSettings/IAdhocBulkSettings.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdhocBulkSettings.Report">
+          <param name="Local" value="Interface/IAdhocBulkSettings/IAdhocBulkSettings.Report.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdhocBulkSettings.SelectionSet">
+          <param name="Local" value="Interface/IAdhocBulkSettings/IAdhocBulkSettings.SelectionSet.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IAdhocDataSourceObject">
+        <param name="Local" value="Interface/IAdhocDataSourceObject/IAdhocDataSourceObject.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdhocDataSourceObject.AcceptDataSelection">
+          <param name="Local" value="Interface/IAdhocDataSourceObject/IAdhocDataSourceObject.AcceptDataSelection.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdhocDataSourceObject.DataSourceObjects">
+          <param name="Local" value="Interface/IAdhocDataSourceObject/IAdhocDataSourceObject.DataSourceObjects.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdhocDataSourceObject.Dimensions">
+          <param name="Local" value="Interface/IAdhocDataSourceObject/IAdhocDataSourceObject.Dimensions.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdhocDataSourceObject.GetSourceObject">
+          <param name="Local" value="Interface/IAdhocDataSourceObject/IAdhocDataSourceObject.GetSourceObject.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdhocDataSourceObject.Id">
+          <param name="Local" value="Interface/IAdhocDataSourceObject/IAdhocDataSourceObject.Id.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdhocDataSourceObject.ParamValues">
+          <param name="Local" value="Interface/IAdhocDataSourceObject/IAdhocDataSourceObject.ParamValues.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdhocDataSourceObject.SlideKey">
+          <param name="Local" value="Interface/IAdhocDataSourceObject/IAdhocDataSourceObject.SlideKey.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdhocDataSourceObject.SourceObjectDescriptor">
+          <param name="Local" value="Interface/IAdhocDataSourceObject/IAdhocDataSourceObject.SourceObjectDescriptor.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdhocDataSourceObject.TrackAreaSelection">
+          <param name="Local" value="Interface/IAdhocDataSourceObject/IAdhocDataSourceObject.TrackAreaSelection.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IAdhocDataSourceObjects">
+        <param name="Local" value="Interface/IAdhocDataSourceObjects/IAdhocDataSourceObjects.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdhocDataSourceObjects.Add">
+          <param name="Local" value="Interface/IAdhocDataSourceObjects/IAdhocDataSourceObjects.Add.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdhocDataSourceObjects.AddNew">
+          <param name="Local" value="Interface/IAdhocDataSourceObjects/IAdhocDataSourceObjects.AddNew.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdhocDataSourceObjects.AutoSyncNewSource">
+          <param name="Local" value="Interface/IAdhocDataSourceObjects/IAdhocDataSourceObjects.AutoSyncNewSource.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdhocDataSourceObjects.AutoUpdateSources">
+          <param name="Local" value="Interface/IAdhocDataSourceObjects/IAdhocDataSourceObjects.AutoUpdateSources.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdhocDataSourceObjects.Clear">
+          <param name="Local" value="Interface/IAdhocDataSourceObjects/IAdhocDataSourceObjects.Clear.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdhocDataSourceObjects.Count">
+          <param name="Local" value="Interface/IAdhocDataSourceObjects/IAdhocDataSourceObjects.Count.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdhocDataSourceObjects.FindById">
+          <param name="Local" value="Interface/IAdhocDataSourceObjects/IAdhocDataSourceObjects.FindById.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdhocDataSourceObjects.IsLinked">
+          <param name="Local" value="Interface/IAdhocDataSourceObjects/IAdhocDataSourceObjects.IsLinked.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdhocDataSourceObjects.Item">
+          <param name="Local" value="Interface/IAdhocDataSourceObjects/IAdhocDataSourceObjects.Item.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdhocDataSourceObjects.Remove">
+          <param name="Local" value="Interface/IAdhocDataSourceObjects/IAdhocDataSourceObjects.Remove.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdhocDataSourceObjects.RemoveById">
+          <param name="Local" value="Interface/IAdhocDataSourceObjects/IAdhocDataSourceObjects.RemoveById.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdhocDataSourceObjects.Report">
+          <param name="Local" value="Interface/IAdhocDataSourceObjects/IAdhocDataSourceObjects.Report.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IAdhocDimsSynchronization">
+        <param name="Local" value="Interface/IAdhocDimsSynchronization/IAdhocDimsSynchronization.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdhocDimsSynchronization.Add">
+          <param name="Local" value="Interface/IAdhocDimsSynchronization/IAdhocDimsSynchronization.Add.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdhocDimsSynchronization.Clear">
+          <param name="Local" value="Interface/IAdhocDimsSynchronization/IAdhocDimsSynchronization.Clear.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdhocDimsSynchronization.Count">
+          <param name="Local" value="Interface/IAdhocDimsSynchronization/IAdhocDimsSynchronization.Count.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdhocDimsSynchronization.FindById">
+          <param name="Local" value="Interface/IAdhocDimsSynchronization/IAdhocDimsSynchronization.FindById.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdhocDimsSynchronization.FindByKey">
+          <param name="Local" value="Interface/IAdhocDimsSynchronization/IAdhocDimsSynchronization.FindByKey.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdhocDimsSynchronization.Item">
+          <param name="Local" value="Interface/IAdhocDimsSynchronization/IAdhocDimsSynchronization.Item.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdhocDimsSynchronization.Remove">
+          <param name="Local" value="Interface/IAdhocDimsSynchronization/IAdhocDimsSynchronization.Remove.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdhocDimsSynchronization.RemoveById">
+          <param name="Local" value="Interface/IAdhocDimsSynchronization/IAdhocDimsSynchronization.RemoveById.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdhocDimsSynchronization.RemoveByKey">
+          <param name="Local" value="Interface/IAdhocDimsSynchronization/IAdhocDimsSynchronization.RemoveByKey.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IAdhocDimSyncIndex">
+        <param name="Local" value="Interface/IAdhocDimSyncIndex/IAdhocDimSyncIndex.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdhocDimSyncIndex.ControlledBy">
+          <param name="Local" value="Interface/IAdhocDimSyncIndex/IAdhocDimSyncIndex.ControlledBy.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdhocDimSyncIndex.Dimensions">
+          <param name="Local" value="Interface/IAdhocDimSyncIndex/IAdhocDimSyncIndex.Dimensions.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdhocDimSyncIndex.GeneralDimSyncItem">
+          <param name="Local" value="Interface/IAdhocDimSyncIndex/IAdhocDimSyncIndex.GeneralDimSyncItem.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdhocDimSyncIndex.Selection">
+          <param name="Local" value="Interface/IAdhocDimSyncIndex/IAdhocDimSyncIndex.Selection.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdhocDimSyncIndex.SelectionProperty">
+          <param name="Local" value="Interface/IAdhocDimSyncIndex/IAdhocDimSyncIndex.SelectionProperty.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IAdhocDimSyncItem">
+        <param name="Local" value="Interface/IAdhocDimSyncItem/IAdhocDimSyncItem.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdhocDimSyncItem.Dimension">
+          <param name="Local" value="Interface/IAdhocDimSyncItem/IAdhocDimSyncItem.Dimension.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdhocDimSyncItem.Direction">
+          <param name="Local" value="Interface/IAdhocDimSyncItem/IAdhocDimSyncItem.Direction.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdhocDimSyncItem.IsGeneral">
+          <param name="Local" value="Interface/IAdhocDimSyncItem/IAdhocDimSyncItem.IsGeneral.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdhocDimSyncItem.SyncAttribute">
+          <param name="Local" value="Interface/IAdhocDimSyncItem/IAdhocDimSyncItem.SyncAttribute.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdhocDimSyncItem.SyncIndex">
+          <param name="Local" value="Interface/IAdhocDimSyncItem/IAdhocDimSyncItem.SyncIndex.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IAdhocDsoDimension">
+        <param name="Local" value="Interface/IAdhocDsoDimension/IAdhocDsoDimension.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdhocDsoDimension.DataSource">
+          <param name="Local" value="Interface/IAdhocDsoDimension/IAdhocDsoDimension.DataSource.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdhocDsoDimension.Dimension">
+          <param name="Local" value="Interface/IAdhocDsoDimension/IAdhocDsoDimension.Dimension.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdhocDsoDimension.Selection">
+          <param name="Local" value="Interface/IAdhocDsoDimension/IAdhocDsoDimension.Selection.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdhocDsoDimension.SelectionProperty">
+          <param name="Local" value="Interface/IAdhocDsoDimension/IAdhocDsoDimension.SelectionProperty.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdhocDsoDimension.Type">
+          <param name="Local" value="Interface/IAdhocDsoDimension/IAdhocDsoDimension.Type.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IAdhocDsoDimensions">
+        <param name="Local" value="Interface/IAdhocDsoDimensions/IAdhocDsoDimensions.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdhocDsoDimensions.AddCopy">
+          <param name="Local" value="Interface/IAdhocDsoDimensions/IAdhocDsoDimensions.AddCopy.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdhocDsoDimensions.Count">
+          <param name="Local" value="Interface/IAdhocDsoDimensions/IAdhocDsoDimensions.Count.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdhocDsoDimensions.FindById">
+          <param name="Local" value="Interface/IAdhocDsoDimensions/IAdhocDsoDimensions.FindById.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdhocDsoDimensions.FindByKey">
+          <param name="Local" value="Interface/IAdhocDsoDimensions/IAdhocDsoDimensions.FindByKey.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdhocDsoDimensions.Item">
+          <param name="Local" value="Interface/IAdhocDsoDimensions/IAdhocDsoDimensions.Item.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdhocDsoDimensions.Remove">
+          <param name="Local" value="Interface/IAdhocDsoDimensions/IAdhocDsoDimensions.Remove.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdhocDsoDimensions.RemoveById">
+          <param name="Local" value="Interface/IAdhocDsoDimensions/IAdhocDsoDimensions.RemoveById.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdhocDsoDimensions.RemoveByKey">
+          <param name="Local" value="Interface/IAdhocDsoDimensions/IAdhocDsoDimensions.RemoveByKey.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IAdhocPageSettings">
+        <param name="Local" value="Interface/IAdhocPageSettings/IAdhocPageSettings.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IAdhocParamSynchronization">
+        <param name="Local" value="Interface/IAdhocParamSynchronization/IAdhocParamSynchronization.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdhocParamSynchronization.Add">
+          <param name="Local" value="Interface/IAdhocParamSynchronization/IAdhocParamSynchronization.Add.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdhocParamSynchronization.Count">
+          <param name="Local" value="Interface/IAdhocParamSynchronization/IAdhocParamSynchronization.Count.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdhocParamSynchronization.FindById">
+          <param name="Local" value="Interface/IAdhocParamSynchronization/IAdhocParamSynchronization.FindById.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdhocParamSynchronization.FindByKey">
+          <param name="Local" value="Interface/IAdhocParamSynchronization/IAdhocParamSynchronization.FindByKey.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdhocParamSynchronization.Item">
+          <param name="Local" value="Interface/IAdhocParamSynchronization/IAdhocParamSynchronization.Item.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdhocParamSynchronization.Remove">
+          <param name="Local" value="Interface/IAdhocParamSynchronization/IAdhocParamSynchronization.Remove.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdhocParamSynchronization.RemoveById">
+          <param name="Local" value="Interface/IAdhocParamSynchronization/IAdhocParamSynchronization.RemoveById.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdhocParamSynchronization.RemoveByKey">
+          <param name="Local" value="Interface/IAdhocParamSynchronization/IAdhocParamSynchronization.RemoveByKey.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IAdhocParamSyncIndex">
+        <param name="Local" value="Interface/IAdhocParamSyncIndex/IAdhocParamSyncIndex.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdhocParamSyncIndex.Apply">
+          <param name="Local" value="Interface/IAdhocParamSyncIndex/IAdhocParamSyncIndex.Apply.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdhocParamSyncIndex.AutoUpdate">
+          <param name="Local" value="Interface/IAdhocParamSyncIndex/IAdhocParamSyncIndex.AutoUpdate.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdhocParamSyncIndex.Params">
+          <param name="Local" value="Interface/IAdhocParamSyncIndex/IAdhocParamSyncIndex.Params.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdhocParamSyncIndex.Value">
+          <param name="Local" value="Interface/IAdhocParamSyncIndex/IAdhocParamSyncIndex.Value.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IAdhocParamSyncItem">
+        <param name="Local" value="Interface/IAdhocParamSyncItem/IAdhocParamSyncItem.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdhocParamSyncItem.ParamId">
+          <param name="Local" value="Interface/IAdhocParamSyncItem/IAdhocParamSyncItem.ParamId.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdhocParamSyncItem.Source">
+          <param name="Local" value="Interface/IAdhocParamSyncItem/IAdhocParamSyncItem.Source.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdhocParamSyncItem.SyncIndex">
+          <param name="Local" value="Interface/IAdhocParamSyncItem/IAdhocParamSyncItem.SyncIndex.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdhocParamSyncItem.Value">
+          <param name="Local" value="Interface/IAdhocParamSyncItem/IAdhocParamSyncItem.Value.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IAdhocReport">
+        <param name="Local" value="Interface/IAdhocReport/IAdhocReport.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdhocReport.ActiveSlide">
+          <param name="Local" value="Interface/IAdhocReport/IAdhocReport.ActiveSlide.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdhocReport.AddDataSourceLinkedObject">
+          <param name="Local" value="Interface/IAdhocReport/IAdhocReport.AddDataSourceLinkedObject.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdhocReport.AddDataSourceObject">
+          <param name="Local" value="Interface/IAdhocReport/IAdhocReport.AddDataSourceObject.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdhocReport.AddNewDataSourceObject">
+          <param name="Local" value="Interface/IAdhocReport/IAdhocReport.AddNewDataSourceObject.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdhocReport.AllowEditData">
+          <param name="Local" value="Interface/IAdhocReport/IAdhocReport.AllowEditData.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdhocReport.AutoUpdateSources">
+          <param name="Local" value="Interface/IAdhocReport/IAdhocReport.AutoUpdateSources.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdhocReport.BinaryData">
+          <param name="Local" value="Interface/IAdhocReport/IAdhocReport.BinaryData.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdhocReport.BulkSettings">
+          <param name="Local" value="Interface/IAdhocReport/IAdhocReport.BulkSettings.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdhocReport.CalcOnChangedData">
+          <param name="Local" value="Interface/IAdhocReport/IAdhocReport.CalcOnChangedData.htm">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdhocReport.CopyDataSourceObject">
+          <param name="Local" value="Interface/IAdhocReport/IAdhocReport.CopyDataSourceObject.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdhocReport.CopyDataSourceObjectEx">
+          <param name="Local" value="Interface/IAdhocReport/IAdhocReport.CopyDataSourceObjectEx.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdhocReport.CopyFrom">
+          <param name="Local" value="Interface/IAdhocReport/IAdhocReport.CopyFrom.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdhocReport.DataSourceLinkedObjects">
+          <param name="Local" value="Interface/IAdhocReport/IAdhocReport.DataSourceLinkedObjects.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdhocReport.DataSourceObjects">
+          <param name="Local" value="Interface/IAdhocReport/IAdhocReport.DataSourceObjects.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdhocReport.DocumentMode">
+          <param name="Local" value="Interface/IAdhocReport/IAdhocReport.DocumentMode.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdhocReport.Id">
+          <param name="Local" value="Interface/IAdhocReport/IAdhocReport.Id.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdhocReport.InnerStyleSheet">
+          <param name="Local" value="Interface/IAdhocReport/IAdhocReport.InnerStyleSheet.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdhocReport.IsDataChanged">
+          <param name="Local" value="Interface/IAdhocReport/IAdhocReport.IsDataChanged.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdhocReport.IsDirty">
+          <param name="Local" value="Interface/IAdhocReport/IAdhocReport.IsDirty.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdhocReport.LoadFromFile">
+          <param name="Local" value="Interface/IAdhocReport/IAdhocReport.LoadFromFile.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdhocReport.LoadFromStream">
+          <param name="Local" value="Interface/IAdhocReport/IAdhocReport.LoadFromStream.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdhocReport.LoadFromXML">
+          <param name="Local" value="Interface/IAdhocReport/IAdhocReport.LoadFromXML.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdhocReport.MetabaseObject">
+          <param name="Local" value="Interface/IAdhocReport/IAdhocReport.MetabaseObject.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdhocReport.PageSettings">
+          <param name="Local" value="Interface/IAdhocReport/IAdhocReport.PageSettings.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdhocReport.Refresh">
+          <param name="Local" value="Interface/IAdhocReport/IAdhocReport.Refresh.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdhocReport.RefreshDataSources">
+          <param name="Local" value="Interface/IAdhocReport/IAdhocReport.RefreshDataSources.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdhocReport.Resources">
+          <param name="Local" value="Interface/IAdhocReport/IAdhocReport.Resources.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdhocReport.SaveData">
+          <param name="Local" value="Interface/IAdhocReport/IAdhocReport.SaveData.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdhocReport.SaveToCombinedXML">
+          <param name="Local" value="Interface/IAdhocReport/IAdhocReport.SaveToCombinedXML.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdhocReport.SaveToFile">
+          <param name="Local" value="Interface/IAdhocReport/IAdhocReport.SaveToFile.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdhocReport.SaveToStream">
+          <param name="Local" value="Interface/IAdhocReport/IAdhocReport.SaveToStream.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdhocReport.SaveToXML">
+          <param name="Local" value="Interface/IAdhocReport/IAdhocReport.SaveToXML.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdhocReport.Slides">
+          <param name="Local" value="Interface/IAdhocReport/IAdhocReport.Slides.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdhocReport.StyleSheet">
+          <param name="Local" value="Interface/IAdhocReport/IAdhocReport.StyleSheet.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdhocReport.SupportMultyLanguage">
+          <param name="Local" value="Interface/IAdhocReport/IAdhocReport.SupportMultyLanguage.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdhocReport.Synchronization">
+          <param name="Local" value="Interface/IAdhocReport/IAdhocReport.Synchronization.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdhocReport.UndoRedo">
+          <param name="Local" value="Interface/IAdhocReport/IAdhocReport.UndoRedo.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdhocReport.UpdateSettings">
+          <param name="Local" value="Interface/IAdhocReport/IAdhocReport.UpdateSettings.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IAdhocReportExporter">
+        <param name="Local" value="Interface/IAdhocReportExporter/IAdhocReportExporter.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdhocReportExporter.AdhocReport">
+          <param name="Local" value="Interface/IAdhocReportExporter/IAdhocReportExporter.AdhocReport.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdhocReportExporter.BulkSettings">
+          <param name="Local" value="Interface/IAdhocReportExporter/IAdhocReportExporter.BulkSettings.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdhocReportExporter.EmfType">
+          <param name="Local" value="Interface/IAdhocReportExporter/IAdhocReportExporter.EmfType.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdhocReportExporter.ExportFootnotes">
+          <param name="Local" value="Interface/IAdhocReportExporter/IAdhocReportExporter.ExportFootnotes.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdhocReportExporter.ExportObjectAsBitmap">
+          <param name="Local" value="Interface/IAdhocReportExporter/IAdhocReportExporter.ExportObjectAsBitmap.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdhocReportExporter.FinishBatchCommand">
+          <param name="Local" value="Interface/IAdhocReportExporter/IAdhocReportExporter.FinishBatchCommand.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdhocReportExporter.Sources">
+          <param name="Local" value="Interface/IAdhocReportExporter/IAdhocReportExporter.Sources.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdhocReportExporter.StartBatchCommand">
+          <param name="Local" value="Interface/IAdhocReportExporter/IAdhocReportExporter.StartBatchCommand.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IAdhocReportExportSource">
+        <param name="Local" value="Interface/IAdhocReportExportSource/IAdhocReportExportSource.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdhocReportExportSource.DataSource">
+          <param name="Local" value="Interface/IAdhocReportExportSource/IAdhocReportExportSource.DataSource.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdhocReportExportSource.TitleSettings">
+          <param name="Local" value="Interface/IAdhocReportExportSource/IAdhocReportExportSource.TitleSettings.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IAdhocReportExportSources">
+        <param name="Local" value="Interface/IAdhocReportExportSources/IAdhocReportExportSources.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdhocReportExportSources.Add">
+          <param name="Local" value="Interface/IAdhocReportExportSources/IAdhocReportExportSources.Add.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdhocReportExportSources.Clear">
+          <param name="Local" value="Interface/IAdhocReportExportSources/IAdhocReportExportSources.Clear.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdhocReportExportSources.Count">
+          <param name="Local" value="Interface/IAdhocReportExportSources/IAdhocReportExportSources.Count.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdhocReportExportSources.FindBySource">
+          <param name="Local" value="Interface/IAdhocReportExportSources/IAdhocReportExportSources.FindBySource.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdhocReportExportSources.Item">
+          <param name="Local" value="Interface/IAdhocReportExportSources/IAdhocReportExportSources.Item.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdhocReportExportSources.Remove">
+          <param name="Local" value="Interface/IAdhocReportExportSources/IAdhocReportExportSources.Remove.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IAdhocReportExportSourceTitle">
+        <param name="Local" value="Interface/IAdhocReportExportSourceTitle/IAdhocReportExportSourceTitle.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdhocReportExportSourceTitle.Color">
+          <param name="Local" value="Interface/IAdhocReportExportSourceTitle/IAdhocReportExportSourceTitle.Color.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdhocReportExportSourceTitle.Font">
+          <param name="Local" value="Interface/IAdhocReportExportSourceTitle/IAdhocReportExportSourceTitle.Font.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdhocReportExportSourceTitle.HorizontalAlignment">
+          <param name="Local" value="Interface/IAdhocReportExportSourceTitle/IAdhocReportExportSourceTitle.HorizontalAlignment.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdhocReportExportSourceTitle.Text">
+          <param name="Local" value="Interface/IAdhocReportExportSourceTitle/IAdhocReportExportSourceTitle.Text.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IAdhocSlide">
+        <param name="Local" value="Interface/IAdhocSlide/IAdhocSlide.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdhocSlide.DataSourceLinkedObjects">
+          <param name="Local" value="Interface/IAdhocSlide/IAdhocSlide.DataSourceLinkedObjects.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdhocSlide.DataSourceObjects">
+          <param name="Local" value="Interface/IAdhocSlide/IAdhocSlide.DataSourceObjects.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdhocSlide.Duplicate">
+          <param name="Local" value="Interface/IAdhocSlide/IAdhocSlide.Duplicate.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdhocSlide.Index">
+          <param name="Local" value="Interface/IAdhocSlide/IAdhocSlide.Index.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdhocSlide.LoadLayoutFromXML">
+          <param name="Local" value="Interface/IAdhocSlide/IAdhocSlide.LoadLayoutFromXML.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdhocSlide.Miniature">
+          <param name="Local" value="Interface/IAdhocSlide/IAdhocSlide.Miniature.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdhocSlide.SaveLayoutToXML">
+          <param name="Local" value="Interface/IAdhocSlide/IAdhocSlide.SaveLayoutToXML.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdhocSlide.Slides">
+          <param name="Local" value="Interface/IAdhocSlide/IAdhocSlide.Slides.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdhocSlide.ViewModeImages">
+          <param name="Local" value="Interface/IAdhocSlide/IAdhocSlide.ViewModeImages.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdhocSlide.Visible">
+          <param name="Local" value="Interface/IAdhocSlide/IAdhocSlide.Visible.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IAdhocSlides">
+        <param name="Local" value="Interface/IAdhocSlides/IAdhocSlides.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdhocSlides.Add">
+          <param name="Local" value="Interface/IAdhocSlides/IAdhocSlides.Add.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdhocSlides.Clear">
+          <param name="Local" value="Interface/IAdhocSlides/IAdhocSlides.Clear.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdhocSlides.Count">
+          <param name="Local" value="Interface/IAdhocSlides/IAdhocSlides.Count.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdhocSlides.FindById">
+          <param name="Local" value="Interface/IAdhocSlides/IAdhocSlides.FindById.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdhocSlides.FindByKey">
+          <param name="Local" value="Interface/IAdhocSlides/IAdhocSlides.FindByKey.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdhocSlides.IndexOf">
+          <param name="Local" value="Interface/IAdhocSlides/IAdhocSlides.IndexOf.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdhocSlides.Insert">
+          <param name="Local" value="Interface/IAdhocSlides/IAdhocSlides.Insert.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdhocSlides.InsertAfter">
+          <param name="Local" value="Interface/IAdhocSlides/IAdhocSlides.InsertAfter.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdhocSlides.Item">
+          <param name="Local" value="Interface/IAdhocSlides/IAdhocSlides.Item.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdhocSlides.Move">
+          <param name="Local" value="Interface/IAdhocSlides/IAdhocSlides.Move.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdhocSlides.Remove">
+          <param name="Local" value="Interface/IAdhocSlides/IAdhocSlides.Remove.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdhocSlides.RemoveByKey">
+          <param name="Local" value="Interface/IAdhocSlides/IAdhocSlides.RemoveByKey.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdhocSlides.Report">
+          <param name="Local" value="Interface/IAdhocSlides/IAdhocSlides.Report.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IAdhocSyncDimensions">
+        <param name="Local" value="Interface/IAdhocSyncDimensions/IAdhocSyncDimensions.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdhocSyncDimensions.Add">
+          <param name="Local" value="Interface/IAdhocSyncDimensions/IAdhocSyncDimensions.Add.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdhocSyncDimensions.Clear">
+          <param name="Local" value="Interface/IAdhocSyncDimensions/IAdhocSyncDimensions.Clear.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdhocSyncDimensions.Count">
+          <param name="Local" value="Interface/IAdhocSyncDimensions/IAdhocSyncDimensions.Count.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdhocSyncDimensions.FindByDimension">
+          <param name="Local" value="Interface/IAdhocSyncDimensions/IAdhocSyncDimensions.FindByDimension.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdhocSyncDimensions.FindById">
+          <param name="Local" value="Interface/IAdhocSyncDimensions/IAdhocSyncDimensions.FindById.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdhocSyncDimensions.FindByKey">
+          <param name="Local" value="Interface/IAdhocSyncDimensions/IAdhocSyncDimensions.FindByKey.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdhocSyncDimensions.Item">
+          <param name="Local" value="Interface/IAdhocSyncDimensions/IAdhocSyncDimensions.Item.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdhocSyncDimensions.Remove">
+          <param name="Local" value="Interface/IAdhocSyncDimensions/IAdhocSyncDimensions.Remove.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdhocSyncDimensions.RemoveById">
+          <param name="Local" value="Interface/IAdhocSyncDimensions/IAdhocSyncDimensions.RemoveById.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdhocSyncDimensions.RemoveByKey">
+          <param name="Local" value="Interface/IAdhocSyncDimensions/IAdhocSyncDimensions.RemoveByKey.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IAdhocSynchronization">
+        <param name="Local" value="Interface/IAdhocSynchronization/IAdhocSynchronization.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdhocSynchronization.Dimensions">
+          <param name="Local" value="Interface/IAdhocSynchronization/IAdhocSynchronization.Dimensions.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdhocSynchronization.Params">
+          <param name="Local" value="Interface/IAdhocSynchronization/IAdhocSynchronization.Params.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IAdhocSyncParams">
+        <param name="Local" value="Interface/IAdhocSyncParams/IAdhocSyncParams.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdhocSyncParams.Add">
+          <param name="Local" value="Interface/IAdhocSyncParams/IAdhocSyncParams.Add.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdhocSyncParams.Count">
+          <param name="Local" value="Interface/IAdhocSyncParams/IAdhocSyncParams.Count.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdhocSyncParams.FindById">
+          <param name="Local" value="Interface/IAdhocSyncParams/IAdhocSyncParams.FindById.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdhocSyncParams.FindByKey">
+          <param name="Local" value="Interface/IAdhocSyncParams/IAdhocSyncParams.FindByKey.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdhocSyncParams.Item">
+          <param name="Local" value="Interface/IAdhocSyncParams/IAdhocSyncParams.Item.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdhocSyncParams.Remove">
+          <param name="Local" value="Interface/IAdhocSyncParams/IAdhocSyncParams.Remove.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdhocSyncParams.RemoveById">
+          <param name="Local" value="Interface/IAdhocSyncParams/IAdhocSyncParams.RemoveById.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdhocSyncParams.RemoveByKey">
+          <param name="Local" value="Interface/IAdhocSyncParams/IAdhocSyncParams.RemoveByKey.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IAdhocUserMaster">
+        <param name="Local" value="Interface/IAdhocUserMaster/IAdhocUserMaster.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdhocUserMaster.View">
+          <param name="Local" value="Interface/IAdhocUserMaster/IAdhocUserMaster.View.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IAdhocUserView">
+        <param name="Local" value="Interface/IAdhocUserView/IAdhocUserView.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdhocUserView.LoadSettings">
+          <param name="Local" value="Interface/IAdhocUserView/IAdhocUserView.LoadSettings.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdhocUserView.SaveSettings">
+          <param name="Local" value="Interface/IAdhocUserView/IAdhocUserView.SaveSettings.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdhocUserView.Source">
+          <param name="Local" value="Interface/IAdhocUserView/IAdhocUserView.Source.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdhocUserView.SupportedSource">
+          <param name="Local" value="Interface/IAdhocUserView/IAdhocUserView.SupportedSource.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IDashboardDocumentViewerBox">
+        <param name="Local" value="Interface/IDashboardDocumentViewerBox/IDashboardDocumentViewerBox.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IDashboardDocumentViewerBox.Dashboard">
+          <param name="Local" value="Interface/IDashboardDocumentViewerBox/IDashboardDocumentViewerBox.Dashboard.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IUiDashboard">
+        <param name="Local" value="Interface/IUiDashboard/IUiDashboard.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IUiDashboard.Report">
+          <param name="Local" value="Interface/IUiDashboard/IUiDashboard.Report.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Перечисления сборки Adhoc">
+      <param name="Local" value="Enums/KeAdHoc_Enums.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="AdhocBinaryType">
+        <param name="Local" value="Enums/AdhocBinaryType.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="AdhocChatHistoryActionType">
+        <param name="Local" value="Enums/AdhocChatHistoryActionType.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="AdhocChatUserShareType">
+        <param name="Local" value="Enums/AdhocChatUserShareType.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="AdhocChatUserState">
+        <param name="Local" value="Enums/AdhocChatUserState.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="AdhocDimensionType">
+        <param name="Local" value="Enums/AdhocDimensionType.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="AdhocDimSyncItemDirection">
+        <param name="Local" value="Enums/AdhocDimSyncItemDirection.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="AdhocDocumentModeType">
+        <param name="Local" value="Enums/AdhocDocumentModeType.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="AdhocHorizontalAlignment">
+        <param name="Local" value="Enums/AdhocHorizontalAlignment.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Классы сборки Adhoc">
+      <param name="Local" value="Class/KeAdHoc_Class.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="AdhocBulkSettings">
+        <param name="Local" value="Class/AdhocBulkSettings/AdhocBulkSettings.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="AdhocDataSources">
+        <param name="Local" value="Class/AdhocDataSources/AdhocDataSources.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="AdhocReportExporter">
+        <param name="Local" value="Class/AdhocReportExporter/AdhocReportExporter.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="AdhocTheme">
+        <param name="Local" value="Class/AdhocTheme/AdhocTheme.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="AdhocUserMasterForm">
+        <param name="Local" value="Class/AdhocUserMasterForm/AdhocUserMasterForm.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="AdhocUserViewForm">
+        <param name="Local" value="Class/AdhocUserViewForm/AdhocUserViewForm.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="DashboardDocumentViewerBox">
+        <param name="Local" value="Class/DashboardDocumentViewerBox/DashboardDocumentViewerBox.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="UiDashboard">
+        <param name="Local" value="Class/UiDashboard/UiDashboard.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      </ul>
+    </ul>
+</ul>
+</html>

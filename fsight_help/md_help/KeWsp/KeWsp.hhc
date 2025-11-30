@@ -1,0 +1,415 @@
+<html>
+<!-- Sitemap 1.0 -->
+<object type="text/site properties">
+  <param name="SiteType" value="toc">
+  <param name="Image Width" value="16">
+  <param name="Window Styles" value="0x800027">
+  <param name="ExWindow Styles" value="0x100">
+</object>
+<ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Workspace">
+    <param name="Local" value="KeWsp_Title.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Введение в сборку Workspace">
+      <param name="Local" value="KeWsp_Introduction.htm">
+      <param name="ImageNumber" value="11">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Интерфейсы сборки Workspace">
+      <param name="Local" value="Interface/Workspace_Interface.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IAttachCPEventArgs">
+        <param name="Local" value="Interface/IAttachCPEventArgs/IAttachCPEventArgs.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAttachCPEventArgs.CPIndexToAttach">
+          <param name="Local" value="Interface/IAttachCPEventArgs/IAttachCPEventArgs.CPIndexToAttach.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAttachCPEventArgs.ShapeToAttach">
+          <param name="Local" value="Interface/IAttachCPEventArgs/IAttachCPEventArgs.ShapeToAttach.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IMoveCPEventArgs">
+        <param name="Local" value="Interface/IMoveCPEventArgs/IMoveCPEventArgs.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMoveCPEventArgs.Cancel">
+          <param name="Local" value="Interface/IMoveCPEventArgs/IMoveCPEventArgs.Cancel.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMoveCPEventArgs.CPIndex">
+          <param name="Local" value="Interface/IMoveCPEventArgs/IMoveCPEventArgs.CPIndex.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMoveCPEventArgs.Shape">
+          <param name="Local" value="Interface/IMoveCPEventArgs/IMoveCPEventArgs.Shape.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IShapeChangedEventArgs">
+        <param name="Local" value="Interface/IShapeChangedEventArgs/IShapeChangedEventArgs.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IShapeChangedEventArgs.Shape">
+          <param name="Local" value="Interface/IShapeChangedEventArgs/IShapeChangedEventArgs.Shape.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IShapeChangedEventArgs.ShapeOperation">
+          <param name="Local" value="Interface/IShapeChangedEventArgs/IShapeChangedEventArgs.ShapeOperation.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IUiWorkspace">
+        <param name="Local" value="Interface/IUiWorkspace/IUiWorkspace.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IUiWorkspace.WxWorkspace">
+          <param name="Local" value="Interface/IUiWorkspace/IUiWorkspace.WxWorkspace.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IUiWorkspaceBaseEventArgs">
+        <param name="Local" value="Interface/IUiWorkspaceBaseEventArgs/IUiWorkspaceBaseEventArgs.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IUiWorkspaceBaseEventArgs.UiWs">
+          <param name="Local" value="Interface/IUiWorkspaceBaseEventArgs/IUiWorkspaceBaseEventArgs.UiWs.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IUiWorkspaceCancelEventArgs">
+        <param name="Local" value="Interface/IUiWorkspaceCancelEventArgs/IUiWorkspaceCancelEventArgs.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IUiWorkspaceCancelEventArgs.Cancel">
+          <param name="Local" value="Interface/IUiWorkspaceCancelEventArgs/IUiWorkspaceCancelEventArgs.Cancel.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IUiWorkspaceEventArgs">
+        <param name="Local" value="Interface/IUiWorkspaceEventArgs/IUiWorkspaceEventArgs.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IUiWorkspaceEventArgs.Workspace">
+          <param name="Local" value="Interface/IUiWorkspaceEventArgs/IUiWorkspaceEventArgs.Workspace.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IUiWorkspaceObject">
+        <param name="Local" value="Interface/IUiWorkspaceObject/IUiWorkspaceObject.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IUiWorkspaceObject.Workspace">
+          <param name="Local" value="Interface/IUiWorkspaceObject/IUiWorkspaceObject.Workspace.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IWorkspace">
+        <param name="Local" value="Interface/IWorkspace/IWorkspace.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWorkspace.Assemblies">
+          <param name="Local" value="Interface/IWorkspace/IWorkspace.Assemblies.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWorkspace.Data">
+          <param name="Local" value="Interface/IWorkspace/IWorkspace.Data.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWorkspace.Metabase">
+          <param name="Local" value="Interface/IWorkspace/IWorkspace.Metabase.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IWorkspaceBox">
+        <param name="Local" value="Interface/IWorkspaceBox/IWorkspaceBox.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWorkspaceBox.ActiveTool">
+          <param name="Local" value="Interface/IWorkspaceBox/IWorkspaceBox.ActiveTool.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWorkspaceBox.BorderStyle">
+          <param name="Local" value="Interface/IWorkspaceBox/IWorkspaceBox.BorderStyle.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWorkspaceBox.ConvertPtToView">
+          <param name="Local" value="Interface/IWorkspaceBox/IWorkspaceBox.ConvertPtToView.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWorkspaceBox.DefaultHandlers">
+          <param name="Local" value="Interface/IWorkspaceBox/IWorkspaceBox.DefaultHandlers.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWorkspaceBox.DefaultMenu">
+          <param name="Local" value="Interface/IWorkspaceBox/IWorkspaceBox.DefaultMenu.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWorkspaceBox.DisplayConnectionPoints">
+          <param name="Local" value="Interface/IWorkspaceBox/IWorkspaceBox.DisplayConnectionPoints.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWorkspaceBox.DisplayFocusFrame">
+          <param name="Local" value="Interface/IWorkspaceBox/IWorkspaceBox.DisplayFocusFrame.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWorkspaceBox.DisplayGrid">
+          <param name="Local" value="Interface/IWorkspaceBox/IWorkspaceBox.DisplayGrid.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWorkspaceBox.DisplayIntersections">
+          <param name="Local" value="Interface/IWorkspaceBox/IWorkspaceBox.DisplayIntersections.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWorkspaceBox.DisplayScrollBars">
+          <param name="Local" value="Interface/IWorkspaceBox/IWorkspaceBox.DisplayScrollBars.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWorkspaceBox.DisplaySelections">
+          <param name="Local" value="Interface/IWorkspaceBox/IWorkspaceBox.DisplaySelections.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWorkspaceBox.GetShapeByPt">
+          <param name="Local" value="Interface/IWorkspaceBox/IWorkspaceBox.GetShapeByPt.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWorkspaceBox.Source">
+          <param name="Local" value="Interface/IWorkspaceBox/IWorkspaceBox.Source.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWorkspaceBox.View">
+          <param name="Local" value="Interface/IWorkspaceBox/IWorkspaceBox.View.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IWorkspaceSource">
+        <param name="Local" value="Interface/IWorkspaceSource/IWorkspaceSource.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IWxAssemblies">
+        <param name="Local" value="Interface/IWxAssemblies/IWxAssemblies.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxAssemblies.Add">
+          <param name="Local" value="Interface/IWxAssemblies/IWxAssemblies.Add.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxAssemblies.Clear">
+          <param name="Local" value="Interface/IWxAssemblies/IWxAssemblies.Clear.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxAssemblies.Count">
+          <param name="Local" value="Interface/IWxAssemblies/IWxAssemblies.Count.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxAssemblies.Edit">
+          <param name="Local" value="Interface/IWxAssemblies/IWxAssemblies.Edit.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxAssemblies.EventsAssembly">
+          <param name="Local" value="Interface/IWxAssemblies/IWxAssemblies.EventsAssembly.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxAssemblies.EventsClass">
+          <param name="Local" value="Interface/IWxAssemblies/IWxAssemblies.EventsClass.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxAssemblies.Item">
+          <param name="Local" value="Interface/IWxAssemblies/IWxAssemblies.Item.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxAssemblies.Remove">
+          <param name="Local" value="Interface/IWxAssemblies/IWxAssemblies.Remove.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxAssemblies.Revert">
+          <param name="Local" value="Interface/IWxAssemblies/IWxAssemblies.Revert.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxAssemblies.Save">
+          <param name="Local" value="Interface/IWxAssemblies/IWxAssemblies.Save.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxAssemblies.Workspace">
+          <param name="Local" value="Interface/IWxAssemblies/IWxAssemblies.Workspace.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IWxMetabaseObject">
+        <param name="Local" value="Interface/IWxMetabaseObject/IWxMetabaseObject.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxMetabaseObject.MetabaseObject">
+          <param name="Local" value="Interface/IWxMetabaseObject/IWxMetabaseObject.MetabaseObject.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxMetabaseObject.NextMetabaseObjects">
+          <param name="Local" value="Interface/IWxMetabaseObject/IWxMetabaseObject.NextMetabaseObjects.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxMetabaseObject.NextMetabaseObjectsCount">
+          <param name="Local" value="Interface/IWxMetabaseObject/IWxMetabaseObject.NextMetabaseObjectsCount.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxMetabaseObject.PreviousMetabaseObjects">
+          <param name="Local" value="Interface/IWxMetabaseObject/IWxMetabaseObject.PreviousMetabaseObjects.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxMetabaseObject.PreviousMetabaseObjectsCount">
+          <param name="Local" value="Interface/IWxMetabaseObject/IWxMetabaseObject.PreviousMetabaseObjectsCount.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxMetabaseObject.ShowDependencies">
+          <param name="Local" value="Interface/IWxMetabaseObject/IWxMetabaseObject.ShowDependencies.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxMetabaseObject.ShowDependents">
+          <param name="Local" value="Interface/IWxMetabaseObject/IWxMetabaseObject.ShowDependents.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Классы сборки Workspace">
+      <param name="Local" value="Class/Workspace_Class.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="AttachCPEventArgs">
+        <param name="Local" value="Class/AttachCPEventArgs/AttachCPEventArgs.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="AttachCPEventArgs.CreateArgs">
+          <param name="Local" value="Class/AttachCPEventArgs/AttachCPEventArgs.CreateArgs.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="MoveCPEventArgs">
+        <param name="Local" value="Class/MoveCPEventArgs/MoveCPEventArgs.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MoveCPEventArgs.Create">
+          <param name="Local" value="Class/MoveCPEventArgs/MoveCPEventArgs.Create.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="ShapeChangedEventArgs">
+        <param name="Local" value="Class/ShapeChangedEventArgs/ShapeChangedEventArgs.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ShapeChangedEventArgs.CreateArgs">
+          <param name="Local" value="Class/ShapeChangedEventArgs/ShapeChangedEventArgs.CreateArgs.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="UiWorkspace">
+        <param name="Local" value="Class/UiWorkspace/UiWorkspace.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="UiWorkspaceObject">
+        <param name="Local" value="Class/UiWorkspaceObject/UiWorkspaceObject.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="WorkspaceBox">
+        <param name="Local" value="Class/WorkspaceBox/WorkspaceBox.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="WorkspaceBox.OnAfterMoveCP">
+          <param name="Local" value="Class/WorkspaceBox/WorkspaceBox.OnAfterMoveCP.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="WorkspaceBox.OnBeforeMoveCP">
+          <param name="Local" value="Class/WorkspaceBox/WorkspaceBox.OnBeforeMoveCP.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="WorkspaceBox.OnSelectionChanged">
+          <param name="Local" value="Class/WorkspaceBox/WorkspaceBox.OnSelectionChanged.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="WorkspaceBox.OnShapeChanged">
+          <param name="Local" value="Class/WorkspaceBox/WorkspaceBox.OnShapeChanged.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      </ul>
+    </ul>
+</ul>
+</html>

@@ -1,0 +1,3239 @@
+<html>
+<!-- Sitemap 1.0 -->
+<object type="text/site properties">
+  <param name="SiteType" value="toc">
+  <param name="Image Width" value="16">
+  <param name="Window Styles" value="0x800027">
+  <param name="ExWindow Styles" value="0x100">
+</object>
+<ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Visualizators">
+    <param name="Local" value="KeVisualizators_Title.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Введение в сборку Visualizators">
+      <param name="Local" value="Intro/KeVisualizators_Introduction.htm">
+      <param name="ImageNumber" value="11">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Требования">
+      <param name="Local" value="KeVisualizators_Requirements.htm">
+      <param name="ImageNumber" value="11">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Интерфейсы сборки Visualizators">
+      <param name="Local" value="Interface/KeVisualizators_Interface.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IVZAlphaChannelEffect">
+        <param name="Local" value="Interface/IVZAlphaChannelEffect/IVZAlphaChannelEffect.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZAlphaChannelEffect.Alpha">
+          <param name="Local" value="Interface/IVZAlphaChannelEffect/IVZAlphaChannelEffect.Alpha.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IVZBarsArray">
+        <param name="Local" value="Interface/IVZBarsArray/IVZBarsArray.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZBarsArray.Add">
+          <param name="Local" value="Interface/IVZBarsArray/IVZBarsArray.Add.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZBarsArray.Clear">
+          <param name="Local" value="Interface/IVZBarsArray/IVZBarsArray.Clear.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZBarsArray.Count">
+          <param name="Local" value="Interface/IVZBarsArray/IVZBarsArray.Count.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZBarsArray.InsertAt">
+          <param name="Local" value="Interface/IVZBarsArray/IVZBarsArray.InsertAt.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZBarsArray.Item">
+          <param name="Local" value="Interface/IVZBarsArray/IVZBarsArray.Item.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZBarsArray.Remove">
+          <param name="Local" value="Interface/IVZBarsArray/IVZBarsArray.Remove.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IVZBaseDataSourceMapping">
+        <param name="Local" value="Interface/IVZBaseDataSourceMapping/IVZBaseDataSourceMapping.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZBaseDataSourceMapping.Index">
+          <param name="Local" value="Interface/IVZBaseDataSourceMapping/IVZBaseDataSourceMapping.Index.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZBaseDataSourceMapping.Setup">
+          <param name="Local" value="Interface/IVZBaseDataSourceMapping/IVZBaseDataSourceMapping.Setup.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IVZBaseDataVisualizer">
+        <param name="Local" value="Interface/IVZBaseDataVisualizer/IVZBaseDataVisualizer.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZBaseDataVisualizer.Background">
+          <param name="Local" value="Interface/IVZBaseDataVisualizer/IVZBaseDataVisualizer.Background.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZBaseDataVisualizer.Draw">
+          <param name="Local" value="Interface/IVZBaseDataVisualizer/IVZBaseDataVisualizer.Draw.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZBaseDataVisualizer.EnableAnimating">
+          <param name="Local" value="Interface/IVZBaseDataVisualizer/IVZBaseDataVisualizer.EnableAnimating.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZBaseDataVisualizer.Formatter">
+          <param name="Local" value="Interface/IVZBaseDataVisualizer/IVZBaseDataVisualizer.Formatter.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZBaseDataVisualizer.GetBitmap">
+          <param name="Local" value="Interface/IVZBaseDataVisualizer/IVZBaseDataVisualizer.GetBitmap.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZBaseDataVisualizer.IsDirty">
+          <param name="Local" value="Interface/IVZBaseDataVisualizer/IVZBaseDataVisualizer.IsDirty.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZBaseDataVisualizer.IsPrintMode">
+          <param name="Local" value="Interface/IVZBaseDataVisualizer/IVZBaseDataVisualizer.IsPrintMode.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZBaseDataVisualizer.UndoRedo">
+          <param name="Local" value="Interface/IVZBaseDataVisualizer/IVZBaseDataVisualizer.UndoRedo.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IVZBaseFormatter">
+        <param name="Local" value="Interface/IVZBaseFormatter/IVZBaseFormatter.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZBaseFormatter.Format">
+          <param name="Local" value="Interface/IVZBaseFormatter/IVZBaseFormatter.Format.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZBaseFormatter.FormatById">
+          <param name="Local" value="Interface/IVZBaseFormatter/IVZBaseFormatter.FormatById.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZBaseFormatter.FormatByParam">
+          <param name="Local" value="Interface/IVZBaseFormatter/IVZBaseFormatter.FormatByParam.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZBaseFormatter.FormatByParams">
+          <param name="Local" value="Interface/IVZBaseFormatter/IVZBaseFormatter.FormatByParams.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZBaseFormatter.NumberFormatter">
+          <param name="Local" value="Interface/IVZBaseFormatter/IVZBaseFormatter.NumberFormatter.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IVZBorderEffect">
+        <param name="Local" value="Interface/IVZBorderEffect/IVZBorderEffect.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZBorderEffect.BorderPen">
+          <param name="Local" value="Interface/IVZBorderEffect/IVZBorderEffect.BorderPen.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IVZBreadcrumb">
+        <param name="Local" value="Interface/IVZBreadcrumb/IVZBreadcrumb.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZBreadcrumb.ItemsStyle">
+          <param name="Local" value="Interface/IVZBreadcrumb/IVZBreadcrumb.ItemsStyle.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IVZBrushEffect">
+        <param name="Local" value="Interface/IVZBrushEffect/IVZBrushEffect.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZBrushEffect.BackgroundBrush">
+          <param name="Local" value="Interface/IVZBrushEffect/IVZBrushEffect.BackgroundBrush.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IVZBubbleChart">
+        <param name="Local" value="Interface/IVZBubbleChart/IVZBubbleChart.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZBubbleChart.AxisX">
+          <param name="Local" value="Interface/IVZBubbleChart/IVZBubbleChart.AxisX.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZBubbleChart.AxisY">
+          <param name="Local" value="Interface/IVZBubbleChart/IVZBubbleChart.AxisY.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZBubbleChart.ChartArea">
+          <param name="Local" value="Interface/IVZBubbleChart/IVZBubbleChart.ChartArea.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZBubbleChart.Series">
+          <param name="Local" value="Interface/IVZBubbleChart/IVZBubbleChart.Series.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZBubbleChart.ShowBubbleHistory">
+          <param name="Local" value="Interface/IVZBubbleChart/IVZBubbleChart.ShowBubbleHistory.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZBubbleChart.ShowBubbleHistoryLabels">
+          <param name="Local" value="Interface/IVZBubbleChart/IVzBubbleChart.ShowBubbleHistoryLabels.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZBubbleChart.ShowHistoryMode">
+          <param name="Local" value="Interface/IVZBubbleChart/IVZBubbleChart.ShowHistoryMode.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZBubbleChart.ShowHistoryPreviousStepsOnly">
+          <param name="Local" value="Interface/IVZBubbleChart/IVZBubbleChart.ShowHistoryPreviousStepsOnly.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZBubbleChart.TrendLine">
+          <param name="Local" value="Interface/IVZBubbleChart/IVZBubbleChart.TrendLine.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZBubbleChart.UseZoomOnWheel">
+          <param name="Local" value="Interface/IVZBubbleChart/IVZBubbleChart.UseZoomOnWheel.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IVZBubbleChartTrendLine">
+        <param name="Local" value="Interface/IVZBubbleChartTrendLine/IVZBubbleChartTrendLine.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZBubbleChartTrendLine.Name">
+          <param name="Local" value="Interface/IVZBubbleChartTrendLine/IVZBubbleChartTrendLine.Name.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZBubbleChartTrendLine.Pen">
+          <param name="Local" value="Interface/IVZBubbleChartTrendLine/IVZBubbleChartTrendLine.Pen.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZBubbleChartTrendLine.ShowInLegend">
+          <param name="Local" value="Interface/IVZBubbleChartTrendLine/IVZBubbleChartTrendLine.ShowInLegend.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZBubbleChartTrendLine.Type">
+          <param name="Local" value="Interface/IVZBubbleChartTrendLine/IVZBubbleChartTrendLine.Type.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZBubbleChartTrendLine.Visible">
+          <param name="Local" value="Interface/IVZBubbleChartTrendLine/IVZBubbleChartTrendLine.Visible.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IVZBubblesArray">
+        <param name="Local" value="Interface/IVZBubblesArray/IVZBubblesArray.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZBubblesArray.Add">
+          <param name="Local" value="Interface/IVZBubblesArray/IVZBubblesArray.Add.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZBubblesArray.Clear">
+          <param name="Local" value="Interface/IVZBubblesArray/IVZBubblesArray.Clear.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZBubblesArray.Count">
+          <param name="Local" value="Interface/IVZBubblesArray/IVZBubblesArray.Count.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZBubblesArray.InsertAt">
+          <param name="Local" value="Interface/IVZBubblesArray/IVZBubblesArray.InsertAt.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZBubblesArray.Item">
+          <param name="Local" value="Interface/IVZBubblesArray/IVZBubblesArray.Item.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZBubblesArray.Remove">
+          <param name="Local" value="Interface/IVZBubblesArray/IVZBubblesArray.Remove.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IVZBubbleTree">
+        <param name="Local" value="Interface/IVZBubbleTree/IVZBubbleTree.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZBubbleTree.Alignment">
+          <param name="Local" value="Interface/IVZBubbleTree/IVZBubbleTree.Alignment.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZBubbleTree.AnimationTime">
+          <param name="Local" value="Interface/IVZBubbleTree/IVZBubbleTree.AnimationTime.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZBubbleTree.Captions">
+          <param name="Local" value="Interface/IVZBubbleTree/IVZBubbleTree.Captions.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZBubbleTree.ColorVisual">
+          <param name="Local" value="Interface/IVZBubbleTree/IVZBubbleTree.ColorVisual.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZBubbleTree.InnerLabelsStyle">
+          <param name="Local" value="Interface/IVZBubbleTree/IVZBubbleTree.InnerLabelsStyle.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZBubbleTree.ItemsToolTipStyle">
+          <param name="Local" value="Interface/IVZBubbleTree/IVZBubbleTree.ItemsToolTipStyle.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZBubbleTree.LabelAutoColor">
+          <param name="Local" value="Interface/IVZBubbleTree/IVZBubbleTree.LabelAutoColor.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZBubbleTree.OrbitsPen">
+          <param name="Local" value="Interface/IVZBubbleTree/IVZBubbleTree.OrbitsPen.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZBubbleTree.OuterLabelsStyle">
+          <param name="Local" value="Interface/IVZBubbleTree/IVZBubbleTree.OuterLabelsStyle.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZBubbleTree.Palette">
+          <param name="Local" value="Interface/IVZBubbleTree/IVZBubbleTree.Palette.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZBubbleTree.SizeVisual">
+          <param name="Local" value="Interface/IVZBubbleTree/IVZBubbleTree.SizeVisual.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZBubbleTree.TextVisual">
+          <param name="Local" value="Interface/IVZBubbleTree/IVZBubbleTree.TextVisual.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZBubbleTree.UseItemColorForToolTipBorder">
+          <param name="Local" value="Interface/IVZBubbleTree/IVZBubbleTree.UseItemColorForToolTipBorder.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IVZBubbleTreeItem">
+        <param name="Local" value="Interface/IVZBubbleTreeItem/IVZBubbleTreeItem.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IVZChartArea">
+        <param name="Local" value="Interface/IVZChartArea/IVZChartArea.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZChartArea.Brush">
+          <param name="Local" value="Interface/IVZChartArea/IVZChartArea.Brush.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZChartArea.Pen">
+          <param name="Local" value="Interface/IVZChartArea/IVZChartArea.Pen.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IVZChartAxis">
+        <param name="Local" value="Interface/IVZChartAxis/IVZChartAxis.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZChartAxis.AutoMax">
+          <param name="Local" value="Interface/IVZChartAxis/IVZChartAxis.AutoMax.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZChartAxis.AutoMin">
+          <param name="Local" value="Interface/IVZChartAxis/IVZChartAxis.AutoMin.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZChartAxis.Caption">
+          <param name="Local" value="Interface/IVZChartAxis/IVZChartAxis.Caption.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZChartAxis.DisplayUnit">
+          <param name="Local" value="Interface/IVZChartAxis/IVZChartAxis.DisplayUnit.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZChartAxis.LabelStyle">
+          <param name="Local" value="Interface/IVZChartAxis/IVZChartAxis.LabelStyle.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZChartAxis.Max">
+          <param name="Local" value="Interface/IVZChartAxis/IVZChartAxis.Max.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZChartAxis.Min">
+          <param name="Local" value="Interface/IVZChartAxis/IVZChartAxis.Min.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZChartAxis.Pen">
+          <param name="Local" value="Interface/IVZChartAxis/IVZChartAxis.Pen.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZChartAxis.PrimaryGrid">
+          <param name="Local" value="Interface/IVZChartAxis/IVZChartAxis.PrimaryGrid.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZChartAxis.SecondaryGrid">
+          <param name="Local" value="Interface/IVZChartAxis/IVZChartAxis.SecondaryGrid.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZChartAxis.ShowLabels">
+          <param name="Local" value="Interface/IVZChartAxis/IVZChartAxis.ShowLabels.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZChartAxis.TicksPen">
+          <param name="Local" value="Interface/IVZChartAxis/IVZChartAxis.TicksPen.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IVZChartGrid">
+        <param name="Local" value="Interface/IVZChartGrid/IVZChartGrid.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZChartGrid.AutoLineCount">
+          <param name="Local" value="Interface/IVZChartGrid/IVZChartGrid.AutoLineCount.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZChartGrid.LineCount">
+          <param name="Local" value="Interface/IVZChartGrid/IVZChartGrid.LineCount.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZChartGrid.Pen">
+          <param name="Local" value="Interface/IVZChartGrid/IVZChartGrid.Pen.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZChartGrid.Visible">
+          <param name="Local" value="Interface/IVZChartGrid/IVZChartGrid.Visible.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IVZChartObject">
+        <param name="Local" value="Interface/IVZChartObject/IVZChartObject.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IVZChartSerie">
+        <param name="Local" value="Interface/IVZChartSerie/IVZChartSerie.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZChartSerie.Id">
+          <param name="Local" value="Interface/IVZChartSerie/IVZChartSerie.Id.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZChartSerie.Selected">
+          <param name="Local" value="Interface/IVZChartSerie/IVZChartSerie.Selected.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZChartSerie.Title">
+          <param name="Local" value="Interface/IVZChartSerie/IVZChartSerie.Title.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IVZChartSeries">
+        <param name="Local" value="Interface/IVZChartSeries/IVZChartSeries.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZChartSeries.BubbleChart">
+          <param name="Local" value="Interface/IVZChartSeries/IVZChartSeries.BubbleChart.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZChartSeries.Count">
+          <param name="Local" value="Interface/IVZChartSeries/IVZChartSeries.Count.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZChartSeries.Item">
+          <param name="Local" value="Interface/IVZChartSeries/IVZChartSeries.Item.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZChartSeries.ItemById">
+          <param name="Local" value="Interface/IVZChartSeries/IVZChartSeries.ItemById.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IVZColorLegendBase">
+        <param name="Local" value="Interface/IVZColorLegendBase/IVZColorLegendBase.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZColorLegendBase.AutoColumnsCount">
+          <param name="Local" value="Interface/IVZColorLegendBase/IVZColorLegendBase.AutoColumnsCount.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZColorLegendBase.BetweenFormat">
+          <param name="Local" value="Interface/IVZColorLegendBase/IVZColorLegendBase.BetweenFormat.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZColorLegendBase.DoHighlight">
+          <param name="Local" value="Interface/IVZColorLegendBase/IVZColorLegendBase.DoHighlight.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZColorLegendBase.GreaterFormat">
+          <param name="Local" value="Interface/IVZColorLegendBase/IVZColorLegendBase.GreaterFormat.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZColorLegendBase.HighlightBrush">
+          <param name="Local" value="Interface/IVZColorLegendBase/IVZColorLegendBase.HighlightBrush.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZColorLegendBase.HoverMode">
+          <param name="Local" value="Interface/IVZColorLegendBase/IVZColorLegendBase.HoverMode.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZColorLegendBase.InactiveBrush">
+          <param name="Local" value="Interface/IVZColorLegendBase/IVZColorLegendBase.InactiveBrush.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZColorLegendBase.Items">
+          <param name="Local" value="Interface/IVZColorLegendBase/IVZColorLegendBase.Items.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZColorLegendBase.LessFormat">
+          <param name="Local" value="Interface/IVZColorLegendBase/IVZColorLegendBase.LessFormat.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZColorLegendBase.NoDataPosition">
+          <param name="Local" value="Interface/IVZColorLegendBase/IVZColorLegendBase.NoDataPosition.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZColorLegendBase.NoDataText">
+          <param name="Local" value="Interface/IVZColorLegendBase/IVZColorLegendBase.NoDataText.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZColorLegendBase.NoDataVisible">
+          <param name="Local" value="Interface/IVZColorLegendBase/IVZColorLegendBase.NoDataVisible.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZColorLegendBase.Scale">
+          <param name="Local" value="Interface/IVZColorLegendBase/IVZColorLegendBase.Scale.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZColorLegendBase.SetupLegendItems">
+          <param name="Local" value="Interface/IVZColorLegendBase/IVZColorLegendBase.SetupLegendItems.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IVZColorVisual">
+        <param name="Local" value="Interface/IVZColorVisual/IVZColorVisual.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZColorVisual.ColorMapping">
+          <param name="Local" value="Interface/IVZColorVisual/IVZColorVisual.ColorMapping.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IVZControlStyle">
+        <param name="Local" value="Interface/IVZControlStyle/IVZControlStyle.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZControlStyle.Background">
+          <param name="Local" value="Interface/IVZControlStyle/IVZControlStyle.Background.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZControlStyle.BorderPen">
+          <param name="Local" value="Interface/IVZControlStyle/IVZControlStyle.BorderPen.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZControlStyle.BorderRadius">
+          <param name="Local" value="Interface/IVZControlStyle/IVZControlStyle.BorderRadius.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZControlStyle.Font">
+          <param name="Local" value="Interface/IVZControlStyle/IVZControlStyle.Font.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZControlStyle.FontColor">
+          <param name="Local" value="Interface/IVZControlStyle/IVZControlStyle.FontColor.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZControlStyle.FontShadowColor">
+          <param name="Local" value="Interface/IVZControlStyle/IVZControlStyle.FontShadowColor.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZControlStyle.Margin">
+          <param name="Local" value="Interface/IVZControlStyle/IVZControlStyle.Margin.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZControlStyle.Padding">
+          <param name="Local" value="Interface/IVZControlStyle/IVZControlStyle.Padding.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZControlStyle.GetBackground">
+          <param name="Local" value="Interface/IVZControlStyle/IVZControlStyle.GetBackground.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZControlStyle.GetBorderPen">
+          <param name="Local" value="Interface/IVZControlStyle/IVZControlStyle.GetBorderPen.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZControlStyle.SetBackground">
+          <param name="Local" value="Interface/IVZControlStyle/IVZControlStyle.SetBackground.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZControlStyle.SetBorderPen">
+          <param name="Local" value="Interface/IVZControlStyle/IVZControlStyle.SetBorderPen.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IVZDataAdapter">
+        <param name="Local" value="Interface/IVZDataAdapter/IVZDataAdapter.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZDataAdapter.GetData">
+          <param name="Local" value="Interface/IVZDataAdapter/IVZDataAdapter.GetData.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IVZDataArray">
+        <param name="Local" value="Interface/IVZDataArray/IVZDataArray.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZDataArray.Add">
+          <param name="Local" value="Interface/IVZDataArray/IVZDataArray.Add.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZDataArray.Clear">
+          <param name="Local" value="Interface/IVZDataArray/IVZDataArray.Clear.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZDataArray.Count">
+          <param name="Local" value="Interface/IVZDataArray/IVZDataArray.Count.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZDataArray.InsertAt">
+          <param name="Local" value="Interface/IVZDataArray/IVZDataArray.InsertAt.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZDataArray.Item">
+          <param name="Local" value="Interface/IVZDataArray/IVZDataArray.Item.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZDataArray.Remove">
+          <param name="Local" value="Interface/IVZDataArray/IVZDataArray.Remove.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IVZDataCoordinateAdapter">
+        <param name="Local" value="Interface/IVZDataCoordinateAdapter/IVZDataCoordinateAdapter.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZDataCoordinateAdapter.IncludeZero">
+          <param name="Local" value="Interface/IVZDataCoordinateAdapter/IVZDataCoordinateAdapter.IncludeZero.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZDataCoordinateAdapter.UseSignDivision">
+          <param name="Local" value="Interface/IVZDataCoordinateAdapter/IVZDataCoordinateAdapter.UseSignDivision.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IVZDataDictionary">
+        <param name="Local" value="Interface/IVZDataDictionary/IVZDataDictionary.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZDataDictionary.Add">
+          <param name="Local" value="Interface/IVZDataDictionary/IVZDataDictionary.Add.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZDataDictionary.AllKeys">
+          <param name="Local" value="Interface/IVZDataDictionary/IVZDataDictionary.AllKeys.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZDataDictionary.Clear">
+          <param name="Local" value="Interface/IVZDataDictionary/IVZDataDictionary.Clear.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZDataDictionary.Count">
+          <param name="Local" value="Interface/IVZDataDictionary/IVZDataDictionary.Count.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZDataDictionary.Item">
+          <param name="Local" value="Interface/IVZDataDictionary/IVZDataDictionary.Item.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZDataDictionary.Remove">
+          <param name="Local" value="Interface/IVZDataDictionary/IVZDataDictionary.Remove.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IVZDataNormalizeAdapter">
+        <param name="Local" value="Interface/IVZDataNormalizeAdapter/IVZDataNormalizeAdapter.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZDataNormalizeAdapter.InitializeFromDataSource">
+          <param name="Local" value="Interface/IVZDataNormalizeAdapter/IVZDataNormalizeAdapter.InitializeFromDataSource.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZDataNormalizeAdapter.MaxValue">
+          <param name="Local" value="Interface/IVZDataNormalizeAdapter/IVZDataNormalizeAdapter.MaxValue.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZDataNormalizeAdapter.MinCutValue">
+          <param name="Local" value="Interface/IVZDataNormalizeAdapter/IVZDataNormalizeAdapter.MinCutValue.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZDataNormalizeAdapter.MinValue">
+          <param name="Local" value="Interface/IVZDataNormalizeAdapter/IVZDataNormalizeAdapter.MinValue.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZDataNormalizeAdapter.NoDataValue">
+          <param name="Local" value="Interface/IVZDataNormalizeAdapter/IVZDataNormalizeAdapter.NoDataValue.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZDataNormalizeAdapter.NormalizeMode">
+          <param name="Local" value="Interface/IVZDataNormalizeAdapter/IVZDataNormalizeAdapter.NormalizeMode.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IVZDataScale">
+        <param name="Local" value="Interface/IVZDataScale/IVZDataScale.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZDataScale.AutoCalculable">
+          <param name="Local" value="Interface/IVZDataScale/IVZDataScale.AutoCalculable.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZDataScale.AutoSetupScaleItems">
+          <param name="Local" value="Interface/IVZDataScale/IVZDataScale.AutoSetupScaleItems.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZDataScale.ConstructScaleElements">
+          <param name="Local" value="Interface/IVZDataScale/IVZDataScale.ConstructScaleElements.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZDataScale.EnableEquality">
+          <param name="Local" value="Interface/IVZDataScale/IVZDataScale.EnableEquality.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZDataScale.First">
+          <param name="Local" value="Interface/IVZDataScale/IVZDataScale.First.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZDataScale.GetValuesPair">
+          <param name="Local" value="Interface/IVZDataScale/IVZDataScale.GetValuesPair.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZDataScale.Greater">
+          <param name="Local" value="Interface/IVZDataScale/IVZDataScale.Greater.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZDataScale.ID">
+          <param name="Local" value="Interface/IVZDataScale/IVZDataScale.ID.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZDataScale.InactiveItem">
+          <param name="Local" value="Interface/IVZDataScale/IVZDataScale.InactiveItem.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZDataScale.IntervalsCount">
+          <param name="Local" value="Interface/IVZDataScale/IVZDataScale.IntervalsCount.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZDataScale.IsInactiveItem">
+          <param name="Local" value="Interface/IVZDataScale/IVZDataScale.IsInactiveItem.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZDataScale.Item">
+          <param name="Local" value="Interface/IVZDataScale/IVZDataScale.Item.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZDataScale.ItemsCount">
+          <param name="Local" value="Interface/IVZDataScale/IVZDataScale.ItemsCount.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZDataScale.ItemValue">
+          <param name="Local" value="Interface/IVZDataScale/IVZDataScale.ItemValue.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZDataScale.Last">
+          <param name="Local" value="Interface/IVZDataScale/IVZDataScale.Last.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZDataScale.Less">
+          <param name="Local" value="Interface/IVZDataScale/IVZDataScale.Less.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZDataScale.LogarithmBase">
+          <param name="Local" value="Interface/IVZDataScale/IVZDataScale.LogarithmBase.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZDataScale.MaxValue">
+          <param name="Local" value="Interface/IVZDataScale/IVZDataScale.MaxValue.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZDataScale.MinValue">
+          <param name="Local" value="Interface/IVZDataScale/IVZDataScale.MinValue.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZDataScale.Mode">
+          <param name="Local" value="Interface/IVZDataScale/IVZDataScale.Mode.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZDataScale.NoData">
+          <param name="Local" value="Interface/IVZDataScale/IVZDataScale.NoData.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZDataScale.RoundBias">
+          <param name="Local" value="Interface/IVZDataScale/IVZDataScale.RoundBias.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZDataScale.Type">
+          <param name="Local" value="Interface/IVZDataScale/IVZDataScale.Type.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZDataScale.Value">
+          <param name="Local" value="Interface/IVZDataScale/IVZDataScale.Value.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZDataScale.ValuesCount">
+          <param name="Local" value="Interface/IVZDataScale/IVZDataScale.ValuesCount.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IVZDataSourceMapping">
+        <param name="Local" value="Interface/IVZDataSourceMapping/IVZDataSourceMapping.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZDataSourceMapping.AttributeId">
+          <param name="Local" value="Interface/IVZDataSourceMapping/IVZDataSourceMapping.AttributeId.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZDataSourceMapping.Data">
+          <param name="Local" value="Interface/IVZDataSourceMapping/IVZDataSourceMapping.Data.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZDataSourceMapping.DataSource">
+          <param name="Local" value="Interface/IVZDataSourceMapping/IVZDataSourceMapping.DataSource.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZDataSourceMapping.DataTransformer">
+          <param name="Local" value="Interface/IVZDataSourceMapping/IVZDataSourceMapping.DataTransformer.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZDataSourceMapping.MappingType">
+          <param name="Local" value="Interface/IVZDataSourceMapping/IVZDataSourceMapping.MappingType.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZDataSourceMapping.Scale">
+          <param name="Local" value="Interface/IVZDataSourceMapping/IVZDataSourceMapping.Scale.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZDataSourceMapping.Title">
+          <param name="Local" value="Interface/IVZDataSourceMapping/IVZDataSourceMapping.Title.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZDataSourceMapping.Value">
+          <param name="Local" value="Interface/IVZDataSourceMapping/IVZDataSourceMapping.Value.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IVZDataVisual">
+        <param name="Local" value="Interface/IVZDataVisual/IVZDataVisual.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZDataVisual.Index">
+          <param name="Local" value="Interface/IVZDataVisual/IVZDataVisual.Index.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IVZDataVisualizer">
+        <param name="Local" value="Interface/IVZDataVisualizer/IVZDataVisualizer.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZDataVisualizer.DataMappingToLegendAssignment">
+          <param name="Local" value="Interface/IVZDataVisualizer/IVZDataVisualizer.VisualToLegendAssignment.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZDataVisualizer.HoverActiveEffects">
+          <param name="Local" value="Interface/IVZDataVisualizer/IVZDataVisualizer.HoverActiveEffects.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZDataVisualizer.HoverInactiveEffects">
+          <param name="Local" value="Interface/IVZDataVisualizer/IVZDataVisualizer.HoverInactiveEffects.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZDataVisualizer.Index">
+          <param name="Local" value="Interface/IVZDataVisualizer/IVZDataVisualizer.Index.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZDataVisualizer.Legends">
+          <param name="Local" value="Interface/IVZDataVisualizer/IVZDataVisualizer.Legends.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZDataVisualizer.LoadFromXml">
+          <param name="Local" value="Interface/IVZDataVisualizer/IVZDataVisualizer.LoadFromXml.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZDataVisualizer.LoadStyleFromXml">
+          <param name="Local" value="Interface/IVZDataVisualizer/IVZDataVisualizer.LoadStyleFromXml.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZDataVisualizer.SaveStyleToXml">
+          <param name="Local" value="Interface/IVZDataVisualizer/IVZDataVisualizer.SaveStyleToXml.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZDataVisualizer.SaveToXml">
+          <param name="Local" value="Interface/IVZDataVisualizer/IVZDataVisualizer.SaveToXml.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZDataVisualizer.SelectActiveEffects">
+          <param name="Local" value="Interface/IVZDataVisualizer/IVZDataVisualizer.SelectActiveEffects.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZDataVisualizer.SelectInactiveEffects">
+          <param name="Local" value="Interface/IVZDataVisualizer/IVZDataVisualizer.SelectInactiveEffects.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZDataVisualizer.TimeLine">
+          <param name="Local" value="Interface/IVZDataVisualizer/IVZDataVisualizer.TimeLine.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZDataVisualizer.VisualToLegendAssignment">
+          <param name="Local" value="Interface/IVZDataVisualizer/IVZDataVisualizer.VisualToLegendAssignment.htm#642b3b9347ca42c9b00b820c00c373fa=1">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZDataVisualizer.UseSelectOnRightClick">
+          <param name="Local" value="Interface/IVZDataVisualizer/IVZDataVisualizer.UseSelectOnRightClick.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IVZDoubleArray">
+        <param name="Local" value="Interface/IVZDoubleArray/IVZDoubleArray.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZDoubleArray.Add">
+          <param name="Local" value="Interface/IVZDoubleArray/IVZDoubleArray.Add.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZDoubleArray.Clear">
+          <param name="Local" value="Interface/IVZDoubleArray/IVZDoubleArray.Clear.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZDoubleArray.Count">
+          <param name="Local" value="Interface/IVZDoubleArray/IVZDoubleArray.Count.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZDoubleArray.InsertAt">
+          <param name="Local" value="Interface/IVZDoubleArray/IVZDoubleArray.InsertAt.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZDoubleArray.Item">
+          <param name="Local" value="Interface/IVZDoubleArray/IVZDoubleArray.Item.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZDoubleArray.Remove">
+          <param name="Local" value="Interface/IVZDoubleArray/IVZDoubleArray.Remove.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IVZEffect">
+        <param name="Local" value="Interface/IVZEffect/IVZEffect.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IVZEffects">
+        <param name="Local" value="Interface/IVZEffects/IVZEffects.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZEffects.Add">
+          <param name="Local" value="Interface/IVZEffects/IVZEffects.Add.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZEffects.Clear">
+          <param name="Local" value="Interface/IVZEffects/IVZEffects.Clear.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZEffects.Count">
+          <param name="Local" value="Interface/IVZEffects/IVZEffects.Count.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZEffects.InsertAt">
+          <param name="Local" value="Interface/IVZEffects/IVZEffects.InsertAt.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZEffects.Item">
+          <param name="Local" value="Interface/IVZEffects/IVZEffects.Item.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZEffects.Remove">
+          <param name="Local" value="Interface/IVZEffects/IVZEffects.Remove.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IVZHighlightEffect">
+        <param name="Local" value="Interface/IVZHighlightEffect/IVZHighlightEffect.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZHighlightEffect.AOffset">
+          <param name="Local" value="Interface/IVZHighlightEffect/IVZHighlightEffect.AOffset.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZHighlightEffect.BOffset">
+          <param name="Local" value="Interface/IVZHighlightEffect/IVZHighlightEffect.BOffset.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZHighlightEffect.GOffset">
+          <param name="Local" value="Interface/IVZHighlightEffect/IVZHighlightEffect.GOffset.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZHighlightEffect.ROffset">
+          <param name="Local" value="Interface/IVZHighlightEffect/IVZHighlightEffect.ROffset.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IVZInteractable">
+        <param name="Local" value="Interface/IVZInteractable/IVZInteractable.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZInteractable.Hover">
+          <param name="Local" value="Interface/IVZInteractable/IVZInteractable.Hover.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZInteractable.Selection">
+          <param name="Local" value="Interface/IVZInteractable/IVZInteractable.Selection.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZInteractable.SetHover">
+          <param name="Local" value="Interface/IVZInteractable/IVZInteractable.SetHover.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IVZIntervalsLegend">
+        <param name="Local" value="Interface/IVZIntervalsLegend/IVZIntervalsLegend.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZIntervalsLegend.CellPadding">
+          <param name="Local" value="Interface/IVZIntervalsLegend/IVZIntervalsLegend.CellPadding.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZIntervalsLegend.CellSpacing">
+          <param name="Local" value="Interface/IVZIntervalsLegend/IVZIntervalsLegend.CellSpacing.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZIntervalsLegend.ColorApplying">
+          <param name="Local" value="Interface/IVZIntervalsLegend/IVZIntervalsLegend.ColorApplying.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZIntervalsLegend.ColumnsCount">
+          <param name="Local" value="Interface/IVZIntervalsLegend/IVZIntervalsLegend.ColumnsCount.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZIntervalsLegend.EqualFormat">
+          <param name="Local" value="Interface/IVZIntervalsLegend/IVZIntervalsLegend.EqualFormat.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZIntervalsLegend.HorizontalCellsAligment">
+          <param name="Local" value="Interface/IVZIntervalsLegend/IVZIntervalsLegend.HorizontalCellsAligment.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZIntervalsLegend.IncludeEquals">
+          <param name="Local" value="Interface/IVZIntervalsLegend/IVZIntervalsLegend.IncludeEquals.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZIntervalsLegend.Marker">
+          <param name="Local" value="Interface/IVZIntervalsLegend/IVZIntervalsLegend.Marker.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZIntervalsLegend.Mode">
+          <param name="Local" value="Interface/IVZIntervalsLegend/IVZIntervalsLegend.Mode.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZIntervalsLegend.TextHorizontalAlignment">
+          <param name="Local" value="Interface/IVZIntervalsLegend/IVZIntervalsLegend.TextHorizontalAlignment.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZIntervalsLegend.TextSpacing">
+          <param name="Local" value="Interface/IVZIntervalsLegend/IVZIntervalsLegend.TextSpacing.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IVZIntervalsLegendMarker">
+        <param name="Local" value="Interface/IVZIntervalsLegendMarker/IVZIntervalsLegendMarker.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZIntervalsLegendMarker.Image">
+          <param name="Local" value="Interface/IVZIntervalsLegendMarker/IVZIntervalsLegendMarker.Image.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZIntervalsLegendMarker.Marker">
+          <param name="Local" value="Interface/IVZIntervalsLegendMarker/IVZIntervalsLegendMarker.Marker.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZIntervalsLegendMarker.Mask">
+          <param name="Local" value="Interface/IVZIntervalsLegendMarker/IVZIntervalsLegendMarker.Mask.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IVZItemsNames">
+        <param name="Local" value="Interface/IVZItemsNames/IVZItemsNames.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZItemsNames.Add">
+          <param name="Local" value="Interface/IVZItemsNames/IVZItemsNames.Add.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZItemsNames.AllKeys">
+          <param name="Local" value="Interface/IVZItemsNames/IVZItemsNames.AllKeys.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZItemsNames.Clear">
+          <param name="Local" value="Interface/IVZItemsNames/IVZItemsNames.Clear.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZItemsNames.Count">
+          <param name="Local" value="Interface/IVZItemsNames/IVZItemsNames.Count.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZItemsNames.Item">
+          <param name="Local" value="Interface/IVZItemsNames/IVZItemsNames.Item.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZItemsNames.Remove">
+          <param name="Local" value="Interface/IVZItemsNames/IVZItemsNames.Remove.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IVZLabelBase">
+        <param name="Local" value="Interface/IVZLabelBase/IVZLabelBase.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZLabelBase.Text">
+          <param name="Local" value="Interface/IVZLabelBase/IVZLabelBase.Text.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IVZLabelStyle">
+        <param name="Local" value="Interface/IVZLabelStyle/IVZLabelStyle.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZLabelStyle.Alignment">
+          <param name="Local" value="Interface/IVZLabelStyle/IVZLabelStyle.Alignment.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZLabelStyle.MaskText">
+          <param name="Local" value="Interface/IVZLabelStyle/IVZLabelStyle.MaskText.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZLabelStyle.NoDataText">
+          <param name="Local" value="Interface/IVZLabelStyle/IVZLabelStyle.NoDataText.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZLabelStyle.TextWrapping">
+          <param name="Local" value="Interface/IVZLabelStyle/IVZLabelStyle.TextWrapping.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IVZLegendBase">
+        <param name="Local" value="Interface/IVZLegendBase/IVZLegendBase.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZLegendBase.DefaultFormat">
+          <param name="Local" value="Interface/IVZLegendBase/IVZLegendBase.DefaultFormat.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZLegendBase.Footer">
+          <param name="Local" value="Interface/IVZLegendBase/IVZLegendBase.Footer.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZLegendBase.FooterLine">
+          <param name="Local" value="Interface/IVZLegendBase/IVZLegendBase.FooterLine.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZLegendBase.Header">
+          <param name="Local" value="Interface/IVZLegendBase/IVZLegendBase.Header.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZLegendBase.HeaderLine">
+          <param name="Local" value="Interface/IVZLegendBase/IVZLegendBase.HeaderLine.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZLegendBase.IsDependent">
+          <param name="Local" value="Interface/IVZLegendBase/IVZLegendBase.IsDependent.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZLegendBase.IsOverlap">
+          <param name="Local" value="Interface/IVZLegendBase/IVZLegendBase.IsOverlap.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IVZLegendHeader">
+        <param name="Local" value="Interface/IVZLegendHeader/IVZLegendHeader.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IVZLegendItem">
+        <param name="Local" value="Interface/IVZLegendItem/IVZLegendItem.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZLegendItem.Color">
+          <param name="Local" value="Interface/IVZLegendItem/IVZLegendItem.Color.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZLegendItem.IsAuto">
+          <param name="Local" value="Interface/IVZLegendItem/IVZLegendItem.IsAuto.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZLegendItem.Marker">
+          <param name="Local" value="Interface/IVZLegendItem/IVZLegendItem.Marker.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZLegendItem.Text">
+          <param name="Local" value="Interface/IVZLegendItem/IVZLegendItem.Text.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IVZLegendsItems">
+        <param name="Local" value="Interface/IVZLegendItems/IVZLegendItems.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZLegendItems.Add">
+          <param name="Local" value="Interface/IVZLegendItems/IVZLegendItems.Add.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZLegendItems.Clear">
+          <param name="Local" value="Interface/IVZLegendItems/IVZLegendItems.Clear.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZLegendItems.Count">
+          <param name="Local" value="Interface/IVZLegendItems/IVZLegendItems.Count.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZLegendItems.InsertAt">
+          <param name="Local" value="Interface/IVZLegendItems/IVZLegendItems.InsertAt.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZLegendItems.Item">
+          <param name="Local" value="Interface/IVZLegendItems/IVZLegendItems.Item.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZLegendItems.Remove">
+          <param name="Local" value="Interface/IVZLegendItems/IVZLegendItems.Remove.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IVZLegends">
+        <param name="Local" value="Interface/IVZLegends/IVZLegends.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZLegends.Add">
+          <param name="Local" value="Interface/IVZLegends/IVZLegends.Add.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZLegends.Clear">
+          <param name="Local" value="Interface/IVZLegends/IVZLegends.Clear.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZLegends.Count">
+          <param name="Local" value="Interface/IVZLegends/IVZLegends.Count.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZLegends.Item">
+          <param name="Local" value="Interface/IVZLegends/IVZLegends.Item.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZLegends.Remove">
+          <param name="Local" value="Interface/IVZLegends/IVZLegends.Remove.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IVZLongArray">
+        <param name="Local" value="Interface/IVZLongArray/IVZLongArray.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZLongArray.Add">
+          <param name="Local" value="Interface/IVZLongArray/IVZLongArray.Add.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZLongArray.Clear">
+          <param name="Local" value="Interface/IVZLongArray/IVZLongArray.Clear.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZLongArray.Count">
+          <param name="Local" value="Interface/IVZLongArray/IVZLongArray.Count.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZLongArray.InsertAt">
+          <param name="Local" value="Interface/IVZLongArray/IVZLongArray.InsertAt.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZLongArray.Item">
+          <param name="Local" value="Interface/IVZLongArray/IVZLongArray.Item.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZLongArray.Remove">
+          <param name="Local" value="Interface/IVZLongArray/IVZLongArray.Remove.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IVZMapChart">
+        <param name="Local" value="Interface/IVZMapChart/IVZMapChart.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZMapChart.ArrowEffectsMode">
+          <param name="Local" value="Interface/IVZMapChart/IVZMapChart.ArrowEffectsMode.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZMapChart.Arrows">
+          <param name="Local" value="Interface/IVZMapChart/IVZMapChart.Arrows.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZMapChart.Markers">
+          <param name="Local" value="Interface/IVZMapChart/IVZMapChart.Markers.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZMapChart.TerritoryTranscript">
+          <param name="Local" value="Interface/IVZMapChart/IVZMapChart.TerritoryTranscript.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZMapChart.UnhoverTimeout">
+          <param name="Local" value="Interface/IVZMapChart/IVZMapChart.UnhoverTimeout.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZMapChart.UseZoomOnWheel">
+          <param name="Local" value="Interface/IVZMapChart/IVZMapChart.UseZoomOnWheel.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IVZMapChartArrow">
+        <param name="Local" value="Interface/IVZMapChartArrow/IVZMapChartArrow.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZMapChartArrow.ArrowId">
+          <param name="Local" value="Interface/IVZMapChartArrow/IVZMapChartArrow.ArrowId.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZMapChartArrow.ArrowStyle">
+          <param name="Local" value="Interface/IVZMapChartArrow/IVZMapChartArrow.ArrowStyle.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZMapChartArrow.EndShapeId">
+          <param name="Local" value="Interface/IVZMapChartArrow/IVZMapChartArrow.EndShapeId.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZMapChartArrow.StartShapeId">
+          <param name="Local" value="Interface/IVZMapChartArrow/IVZMapChartArrow.StartShapeId.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IVZMapChartArrows">
+        <param name="Local" value="Interface/IVZMapChartArrows/IVZMapChartArrows.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZMapChartArrows.Add">
+          <param name="Local" value="Interface/IVZMapChartArrows/IVZMapChartArrows.Add.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZMapChartArrows.Clear">
+          <param name="Local" value="Interface/IVZMapChartArrows/IVZMapChartArrows.Clear.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZMapChartArrows.Count">
+          <param name="Local" value="Interface/IVZMapChartArrows/IVZMapChartArrows.Count.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZMapChartArrows.InsertAt">
+          <param name="Local" value="Interface/IVZMapChartArrows/IVZMapChartArrows.InsertAt.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZMapChartArrows.Item">
+          <param name="Local" value="Interface/IVZMapChartArrows/IVZMapChartArrows.Item.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZMapChartArrows.Remove">
+          <param name="Local" value="Interface/IVZMapChartArrows/IVZMapChartArrows.Remove.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IVZMapChartArrowStyle">
+        <param name="Local" value="Interface/IVZMapChartArrowStyle/IVZMapChartArrowStyle.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZMapChartArrowStyle.Angle">
+          <param name="Local" value="Interface/IVZMapChartArrowStyle/IVZMapChartArrowStyle.Angle.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZMapChartArrowStyle.ArrowType">
+          <param name="Local" value="Interface/IVZMapChartArrowStyle/IVZMapChartArrowStyle.ArrowType.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZMapChartArrowStyle.ArrowVisual">
+          <param name="Local" value="Interface/IVZMapChartArrowStyle/IVZMapChartArrowStyle.ArrowVisual.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZMapChartArrowStyle.Border">
+          <param name="Local" value="Interface/IVZMapChartArrowStyle/IVZMapChartArrowStyle.Border.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZMapChartArrowStyle.IsRelativeWidth">
+          <param name="Local" value="Interface/IVZMapChartArrowStyle/IVZMapChartArrowStyle.IsRelativeWidth.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZMapChartArrowStyle.LabelStyle">
+          <param name="Local" value="Interface/IVZMapChartArrowStyle/IVZMapChartArrowStyle.LabelStyle.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZMapChartArrowStyle.PointerLength">
+          <param name="Local" value="Interface/IVZMapChartArrowStyle/IVZMapChartArrowStyle.PointerLength.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZMapChartArrowStyle.PointerWidth">
+          <param name="Local" value="Interface/IVZMapChartArrowStyle/IVZMapChartArrowStyle.PointerWidth.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZMapChartArrowStyle.TextOrientation">
+          <param name="Local" value="Interface/IVZMapChartArrowStyle/IVZMapChartArrowStyle.TextOrientation.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZMapChartArrowStyle.ToolTipStyle">
+          <param name="Local" value="Interface/IVZMapChartArrowStyle/IVZMapChartArrowStyle.ToolTipStyle.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IVZMapChartArrowVisual">
+        <param name="Local" value="Interface/IVZMapChartArrowVisual/IVZMapChartArrowVisual.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZMapChartArrowVisual.BackgroundMapping">
+          <param name="Local" value="Interface/IVZMapChartArrowVisual/IVZMapChartArrowVisual.BackGroundMapping.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZMapChartArrowVisual.BasementWidthMapping">
+          <param name="Local" value="Interface/IVZMapChartArrowVisual/IVZMapChartArrowVisual.BasementWidthMapping.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IVZMapChartBar">
+        <param name="Local" value="Interface/IVZMapChartBar/IVZMapChartBar.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZMapChartBar.Axis">
+          <param name="Local" value="Interface/IVZMapChartBar/IVZMapChartBar.Axis.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZMapChartBar.BarDistance">
+          <param name="Local" value="Interface/IVZMapChartBar/IVZMapChartBar.BarDistance.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZMapChartBar.BorderThickness">
+          <param name="Local" value="Interface/IVZMapChartBar/IVZMapChartBar.BorderThickness.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZMapChartBar.HideZeroHeight">
+          <param name="Local" value="Interface/IVZMapChartBar/IVZMapChartBar.HideZeroHeight.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZMapChartBar.IsAllPeriod">
+          <param name="Local" value="Interface/IVZMapChartBar/IVZMapChartBar.IsAllPeriod.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZMapChartBar.IsPercentage">
+          <param name="Local" value="Interface/IVZMapChartBar/IVZMapChartBar.IsPercentage.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZMapChartBar.LeastHeightPart">
+          <param name="Local" value="Interface/IVZMapChartBar/IVZMapChartBar.LeastHeightPart.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZMapChartBar.LeastWidthPart">
+          <param name="Local" value="Interface/IVZMapChartBar/IVZMapChartBar.LeastWidthPart.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZMapChartBar.MaxBarsCount">
+          <param name="Local" value="Interface/IVZMapChartBar/IVZMapChartBar.MaxBarsCount.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZMapChartBar.PercentageHeight">
+          <param name="Local" value="Interface/IVZMapChartBar/IVZMapChartBar.PercentageHeight.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IVZMapChartBarAxis">
+        <param name="Local" value="Interface/IVZMapChartBarAxis/IVZMapChartBarAxis.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZMapChartBarAxis.Pen">
+          <param name="Local" value="Interface/IVZMapChartBarAxis/IVZMapChartBarAxis.Pen.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZMapChartBarAxis.Visibility">
+          <param name="Local" value="Interface/IVZMapChartBarAxis/IVZMapChartBarAxis.Visibility.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IVZMapChartBaseObject">
+        <param name="Local" value="Interface/IVZMapChartBaseObject/IVZMapChartBaseObject.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZMapChartBaseObject.MapChart">
+          <param name="Local" value="Interface/IVZMapChartBaseObject/IVZMapChartBaseObject.MapChart.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZMapChartBaseObject.Visible">
+          <param name="Local" value="Interface/IVZMapChartBaseObject/IVZMapChartBaseObject.Visible.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IVZMapChartBubble">
+        <param name="Local" value="Interface/IVZMapChartBubble/IVZMapChartBubble.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZMapChartBubble.LeastSizeRadius">
+          <param name="Local" value="Interface/IVZMapChartBubble/IVZMapChartBubble.LeastSizeRadius.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IVZMapChartLabelStyle">
+        <param name="Local" value="Interface/IVZMapChartLabelStyle/IVZMapChartLabelStyle.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZMapChartLabelStyle.HorizontalAlignment">
+          <param name="Local" value="Interface/IVZMapChartLabelStyle/IVZMapChartLabelStyle.HorizontalAlignment.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZMapChartLabelStyle.VerticalAlignment">
+          <param name="Local" value="Interface/IVZMapChartLabelStyle/IVZMapChartLabelStyle.VerticalAlignment.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IVZMapChartLayer">
+        <param name="Local" value="Interface/IVZMapChartLayer/IVZMapChartLayer.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZMapChartLayer.Bars">
+          <param name="Local" value="Interface/IVZMapChartLayer/IVZMapChartLayer.Bars.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZMapChartLayer.Bubbles">
+          <param name="Local" value="Interface/IVZMapChartLayer/IVZMapChartLayer.Bubbles.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZMapChartLayer.LabelsStyle">
+          <param name="Local" value="Interface/IVZMapChartLayer/IVZMapChartLayer.LabelsStyle.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZMapChartLayer.Pies">
+          <param name="Local" value="Interface/IVZMapChartLayer/IVZMapChartLayer.Pies.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZMapChartLayer.PlaceVisualsOneByOne">
+          <param name="Local" value="Interface/IVZMapChartLayer/IVZMapChartLayer.PlaceVisualsOneByOne.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZMapChartLayer.VisualsOffset">
+          <param name="Local" value="Interface/IVZMapChartLayer/IVZMapChartLayer.VisualsOffset.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IVZMapChartMarker">
+        <param name="Local" value="Interface/IVZMapChartMarker/IVZMapChartMarker.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZMapChartMarker.MarkerId">
+          <param name="Local" value="Interface/IVZMapChartMarker/IVZMapChartMarker.MarkerId.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZMapChartMarker.MarkerVisual">
+          <param name="Local" value="Interface/IVZMapChartMarker/IVZMapChartMarker.MarkerVisual.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZMapChartMarker.ToolTipStyle">
+          <param name="Local" value="Interface/IVZMapChartMarker/IVZMapChartMarker.ToolTipStyle.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IVZMapChartMarkers">
+        <param name="Local" value="Interface/IVZMapChartMarkers/IVZMapChartMarkers.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZMapChartMarkers.Add">
+          <param name="Local" value="Interface/IVZMapChartMarkers/IVZMapChartMarkers.Add.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZMapChartMarkers.Clear">
+          <param name="Local" value="Interface/IVZMapChartMarkers/IVZMapChartMarkers.Clear.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZMapChartMarkers.Count">
+          <param name="Local" value="Interface/IVZMapChartMarkers/IVZMapChartMarkers.Count.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZMapChartMarkers.InsertAt">
+          <param name="Local" value="Interface/IVZMapChartMarkers/IVZMapChartMarkers.InsertAt.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZMapChartMarkers.Item">
+          <param name="Local" value="Interface/IVZMapChartMarkers/IVZMapChartMarkers.Item.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZMapChartMarkers.Remove">
+          <param name="Local" value="Interface/IVZMapChartMarkers/IVZMapChartMarkers.Remove.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IVZMapChartMarkerVisual">
+        <param name="Local" value="Interface/IVZMapChartMarkerVisual/IVZMapChartMarkerVisual.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZMapChartMarkerVisual.BackgroundMapping">
+          <param name="Local" value="Interface/IVZMapChartMarkerVisual/IVZMapChartMarkerVisual.BackgroundMapping.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZMapChartMarkerVisual.LatitudeMapping">
+          <param name="Local" value="Interface/IVZMapChartMarkerVisual/IVZMapChartMarkerVisual.LatitudeMapping.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZMapChartMarkerVisual.LongitudeMapping">
+          <param name="Local" value="Interface/IVZMapChartMarkerVisual/IVZMapChartMarkerVisual.LongitudeMapping.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IVZMapChartPie">
+        <param name="Local" value="Interface/IVZMapChartPie/IVZMapChartPie.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZMapChartPie.BorderThickness">
+          <param name="Local" value="Interface/IVZMapChartPie/IVZMapChartPie.BorderThickness.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZMapChartPie.LeastAnglePart">
+          <param name="Local" value="Interface/IVZMapChartPie/IVZMapChartPie.LeastAnglePart.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZMapChartPie.LeastRadiusPart">
+          <param name="Local" value="Interface/IVZMapChartPie/IVZMapChartPie.LeastRadiusPart.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZMapChartPie.MaxPiesCount">
+          <param name="Local" value="Interface/IVZMapChartPie/IVZMapChartPie.MaxPiesCount.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZMapChartPie.StartAngle">
+          <param name="Local" value="Interface/IVZMapChartPie/IVZMapChartPie.StartAngle.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZMapChartPie.UseInvertedAngles">
+          <param name="Local" value="Interface/IVZMapChartPie/IVZMapChartPie.UseInvertedAngles.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IVZMapChartShape">
+        <param name="Local" value="Interface/IVZMapChartShape/IVZMapChartShape.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZMapChartShape.Background">
+          <param name="Local" value="Interface/IVZMapChartShape/IVZMapChartShape.Background.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZMapChartShape.Border">
+          <param name="Local" value="Interface/IVZMapChartShape/IVZMapChartShape.Border.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZMapChartShape.IsStrokedShape">
+          <param name="Local" value="Interface/IVZMapChartShape/IVZMapChartShape.IsStrokedShape.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZMapChartShape.Name">
+          <param name="Local" value="Interface/IVZMapChartShape/IVZMapChartShape.Name.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZMapChartShape.ParentLayer">
+          <param name="Local" value="Interface/IVZMapChartShape/IVZMapChartShape.ParentLayer.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZMapChartShape.Selected">
+          <param name="Local" value="Interface/IVZMapChartShape/IVZMapChartShape.Selected.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZMapChartShape.ShapeId">
+          <param name="Local" value="Interface/IVZMapChartShape/IVZMapChartShape.ShapeId.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IVZMapChartShapes">
+        <param name="Local" value="Interface/IVZMapChartShapes/IVZMapChartShapes.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZMapChartShapes.Add">
+          <param name="Local" value="Interface/IVZMapChartShapes/IVZMapChartShapes.Add.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZMapChartShapes.AllKeys">
+          <param name="Local" value="Interface/IVZMapChartShapes/IVZMapChartShapes.AllKeys.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZMapChartShapes.Clear">
+          <param name="Local" value="Interface/IVZMapChartShapes/IVZMapChartShapes.Clear.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZMapChartShapes.Count">
+          <param name="Local" value="Interface/IVZMapChartShapes/IVZMapChartShapes.Count.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZMapChartShapes.ItemByKey">
+          <param name="Local" value="Interface/IVZMapChartShapes/IVZMapChartShapes.ItemByKey.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZMapChartShapes.RemoveByKey">
+          <param name="Local" value="Interface/IVZMapChartShapes/IVZMapChartShapes.RemoveByKey.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IVZMapChartTopobaseAttribute">
+        <param name="Local" value="Interface/IVZMapChartTopobaseAttribute/IVZMapChartTopobaseAttribute.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZMapChartTopobaseAttribute.Data">
+          <param name="Local" value="Interface/IVZMapChartTopobaseAttribute/IVZMapChartTopobaseAttribute.Data.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZMapChartTopobaseAttribute.Name">
+          <param name="Local" value="Interface/IVZMapChartTopobaseAttribute/IVZMapChartTopobaseAttribute.Name.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IVZMapChartTopobaseGeoItem">
+        <param name="Local" value="Interface/IVZMapChartTopobaseGeoItem/IVZMapChartTopobaseGeoItem.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZMapChartTopobaseGeoItem.Longitude">
+          <param name="Local" value="Interface/IVZMapChartTopobaseGeoItem/IVZMapChartTopobaseGeoItem.Longitude.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IVZMapChartTopobaseMetaInfo">
+        <param name="Local" value="Interface/IVZMapChartTopobaseMetaInfo/IVZMapChartTopobaseMetaInfo.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZMapChartTopobaseMetaInfo.GeoLeftBottom">
+          <param name="Local" value="Interface/IVZMapChartTopobaseMetaInfo/IVZMapChartTopobaseMetaInfo.GeoLeftBottom.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZMapChartTopobaseMetaInfo.GeoRightTop">
+          <param name="Local" value="Interface/IVZMapChartTopobaseMetaInfo/IVZMapChartTopobaseMetaInfo.GeoRightTop.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IVZMapChartVisualElement">
+        <param name="Local" value="Interface/IVZMapChartVisualElement/IVZMapChartVisualElement.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZMapChartVisualElement.ToolTipStyle">
+          <param name="Local" value="Interface/IVZMapChartVisualElement/IVZMapChartVisualElement.ToolTipStyle.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IVZMultiplyDataSource">
+        <param name="Local" value="Interface/IVZMultiplyDataSource/IVZMultiplyDataSource.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZMultiplyDataSource.AttributesNames">
+          <param name="Local" value="Interface/IVZMultiplyDataSource/IVZMultiplyDataSource.AttributesNames.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZMultiplyDataSource.DefaultAttributeId">
+          <param name="Local" value="Interface/IVZMultiplyDataSource/IVZMultiplyDataSource.DefaultAttributeId.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZMultiplyDataSource.GetAllLevelData">
+          <param name="Local" value="Interface/IVZMultiplyDataSource/IVZMultiplyDataSource.GetAllLevelData.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZMultiplyDataSource.GetAllLevelDataDictionary">
+          <param name="Local" value="Interface/IVZMultiplyDataSource/IVZMultiplyDataSource.GetAllLevelDataDictionary.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZMultiplyDataSource.GetAllLevelDataEx">
+          <param name="Local" value="Interface/IVZMultiplyDataSource/IVZMultiplyDataSource.GetAllLevelDataEx.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZMultiplyDataSource.GetAllObjectData">
+          <param name="Local" value="Interface/IVZMultiplyDataSource/IVZMultiplyDataSource.GetAllObjectData.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZMultiplyDataSource.GetAttributes">
+          <param name="Local" value="Interface/IVZMultiplyDataSource/IVZMultiplyDataSource.GetAttributes.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZMultiplyDataSource.GetData">
+          <param name="Local" value="Interface/IVZMultiplyDataSource/IVZMultiplyDataSource.GetData.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZMultiplyDataSource.GetDataEx">
+          <param name="Local" value="Interface/IVZMultiplyDataSource/IVZMultiplyDataSource.GetDataEx.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZMultiplyDataSource.GetMaxValue">
+          <param name="Local" value="Interface/IVZMultiplyDataSource/IVZMultiplyDataSource.GetMaxValue.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZMultiplyDataSource.GetMinValue">
+          <param name="Local" value="Interface/IVZMultiplyDataSource/IVZMultiplyDataSource.GetMinValue.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZMultiplyDataSource.GetObjects">
+          <param name="Local" value="Interface/IVZMultiplyDataSource/IVZMultiplyDataSource.GetObjects.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZMultiplyDataSource.ID">
+          <param name="Local" value="Interface/IVZMultiplyDataSource/IVZMultiplyDataSource.ID.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZMultiplyDataSource.ItemsNames">
+          <param name="Local" value="Interface/IVZMultiplyDataSource/IVZMultiplyDataSource.ItemsNames.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZMultiplyDataSource.MaxTimelineIndex">
+          <param name="Local" value="Interface/IVZMultiplyDataSource/IVZMultiplyDataSource.MaxTimelineIndex.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZMultiplyDataSource.Title">
+          <param name="Local" value="Interface/IVZMultiplyDataSource/IVZMultiplyDataSource.Title.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IVZNumberFormatter">
+        <param name="Local" value="Interface/IVZNumberFormatter/IVZNumberFormatter.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZNumberFormatter.ConvertInvariant2LocalNumberFormat">
+          <param name="Local" value="Interface/IVZNumberFormatter/IVZNumberFormatter.ConvertInvariant2LocalNumberFormat.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZNumberFormatter.LocalFormatObject">
+          <param name="Local" value="Interface/IVZNumberFormatter/IVZNumberFormatter.LocalFormatObject.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IVZNumericVisual">
+        <param name="Local" value="Interface/IVZNumericVisual/IVZNumericVisual.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZNumericVisual.NumericMapping">
+          <param name="Local" value="Interface/IVZNumericVisual/IVZNumericVisual.NumericMapping.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IVZPalette">
+        <param name="Local" value="Interface/IVZPalette/IVZPalette.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZPalette.BackgroundArray">
+          <param name="Local" value="Interface/IVZPalette/IVZPalette.BackgroundArray.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IVZPiesArray">
+        <param name="Local" value="Interface/IVZPiesArray/IVZPiesArray.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZPiesArray.Add">
+          <param name="Local" value="Interface/IVZPiesArray/IVZPiesArray.Add.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZPiesArray.Clear">
+          <param name="Local" value="Interface/IVZPiesArray/IVZPiesArray.Clear.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZPiesArray.Count">
+          <param name="Local" value="Interface/IVZPiesArray/IVZPiesArray.Count.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZPiesArray.InsertAt">
+          <param name="Local" value="Interface/IVZPiesArray/IVZPiesArray.InsertAt.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZPiesArray.Item">
+          <param name="Local" value="Interface/IVZPiesArray/IVZPiesArray.Item.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZPiesArray.Remove">
+          <param name="Local" value="Interface/IVZPiesArray/IVZPiesArray.Remove.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IVZPlacedControlBase">
+        <param name="Local" value="Interface/IVZPlacedControlBase/IVZPlacedControlBase.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZPlacedControlBase.HorizontalAlignment">
+          <param name="Local" value="Interface/IVZPlacedControlBase/IVZPlacedControlBase.HorizontalAlignment.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZPlacedControlBase.Style">
+          <param name="Local" value="Interface/IVZPlacedControlBase/IVZPlacedControlBase.Style.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZPlacedControlBase,VerticalAlignment">
+          <param name="Local" value="Interface/IVZPlacedControlBase/IVZPlacedControlBase.VerticalAlignment.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZPlacedControlBase.Visible">
+          <param name="Local" value="Interface/IVZPlacedControlBase/IVZPlacedControlBase.Visible.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IVZResourceImage">
+        <param name="Local" value="Interface/IVZResourceImage/IVZResourceImage.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZResourceImage.Bitmap">
+          <param name="Local" value="Interface/IVZResourceImage/IVZResourceImage.Bitmap.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZResourceImage.ResourceId">
+          <param name="Local" value="Interface/IVZResourceImage/IVZResourceImage.ResourceId.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IVZSizeLegend">
+        <param name="Local" value="Interface/IVZSizeLegend/IVZSizeLegend.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZSizeLegend.Marker">
+          <param name="Local" value="Interface/IVZSizeLegend/IVZSizeLegend.Marker.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZSizeLegend.MaxValue">
+          <param name="Local" value="Interface/IVZSizeLegend/IVZSizeLegend.MaxValue.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZSizeLegend.MaxValueFormat">
+          <param name="Local" value="Interface/IVZSizeLegend/IVZSizeLegend.MaxValueFormat.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZSizeLegend.MinValue">
+          <param name="Local" value="Interface/IVZSizeLegend/IVZSizeLegend.MinValue.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZSizeLegend.MinValueFormat">
+          <param name="Local" value="Interface/IVZSizeLegend/IVZSizeLegend.MinValueFormat.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZSizeLegend.TextSpacing">
+          <param name="Local" value="Interface/IVZSizeLegend/IVZSizeLegend.TextSpacing.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IVZSizeLegendMarker">
+        <param name="Local" value="Interface/IVZSizeLegendMarker/IVZSizeLegendMarker.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZSizeLegendMarker.BigImage">
+          <param name="Local" value="Interface/IVZSizeLegendMarker/IVZSizeLegendMarker.BigImage.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZSizeLegendMarker.Marker">
+          <param name="Local" value="Interface/IVZSizeLegendMarker/IVZSizeLegendMarker.Marker.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZSizeLegendMarker.SmallImage">
+          <param name="Local" value="Interface/IVZSizeLegendMarker/IVZSizeLegendMarker.SmallImage.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IVZStringArray">
+        <param name="Local" value="Interface/IVZStringArray/IVZStringArray.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZStringArray.Add">
+          <param name="Local" value="Interface/IVZStringArray/IVZStringArray.Add.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZStringArray.Clear">
+          <param name="Local" value="Interface/IVZStringArray/IVZStringArray.Clear.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZStringArray.Count">
+          <param name="Local" value="Interface/IVZStringArray/IVZStringArray.Count.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZStringArray.InsertAt">
+          <param name="Local" value="Interface/IVZStringArray/IVZStringArray.InsertAt.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZStringArray.Item">
+          <param name="Local" value="Interface/IVZStringArray/IVZStringArray.Item.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZStringArray.Remove">
+          <param name="Local" value="Interface/IVZStringArray/IVZStringArray.Remove.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IVZStringDictionary">
+        <param name="Local" value="Interface/IVZStringDictionary/IVZStringDictionary.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZStringDictionary.Add">
+          <param name="Local" value="Interface/IVZStringDictionary/IVZStringDictionary.Add.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZStringDictionary.AllKeys">
+          <param name="Local" value="Interface/IVZStringDictionary/IVZStringDictionary.AllKeys.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZStringDictionary.Clear">
+          <param name="Local" value="Interface/IVZStringDictionary/IVZStringDictionary.Clear.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZStringDictionary.Count">
+          <param name="Local" value="Interface/IVZStringDictionary/IVZStringDictionary.Count.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZStringDictionary.Item">
+          <param name="Local" value="Interface/IVZStringDictionary/IVZStringDictionary.Item.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZStringDictionary.Remove">
+          <param name="Local" value="Interface/IVZStringDictionary/IVZStringDictionary.Remove.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IVZTerritoryTranscript">
+        <param name="Local" value="Interface/IVZTerritoryTranscript/IVZTerritoryTranscript.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZTerritoryTranscript.ColumnsCount">
+          <param name="Local" value="Interface/IVZTerritoryTranscript/IVZTerritoryTranscript.ColumnsCount.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZTerritoryTranscript.HighlightBrush">
+          <param name="Local" value="Interface/IVZTerritoryTranscript/IVZTerritoryTranscript.HighlightBrush.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZTerritoryTranscript.IsOverlap">
+          <param name="Local" value="Interface/IVZTerritoryTranscript/IVZTerritoryTranscript.IsOverlap.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZTerritoryTranscript.ItemsStyle">
+          <param name="Local" value="Interface/IVZTerritoryTranscript/IVZTerritoryTranscript.ItemsStyle.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZTerritoryTranscript.MaxItemsCount">
+          <param name="Local" value="Interface/IVZTerritoryTranscript/IVZTerritoryTranscript.MaxItemsCount.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZTerritoryTranscript.ParentLayer">
+          <param name="Local" value="Interface/IVZTerritoryTranscript/IVZTerritoryTranscript.ParentLayer.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZTerritoryTranscript.SelectEvent">
+          <param name="Local" value="Interface/IVZTerritoryTranscript/IVZTerritoryTranscript.SelectEvent.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZTerritoryTranscript.SortingMode">
+          <param name="Local" value="Interface/IVZTerritoryTranscript/IVZTerritoryTranscript.SortingMode.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IVZTextVisual">
+        <param name="Local" value="Interface/IVZTextVisual/IVZTextVisual.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZTextVisual.TextMapping">
+          <param name="Local" value="Interface/IVZTextVisual/IVZTextVisual.TextMapping.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IVZTimeLine">
+        <param name="Local" value="Interface/IVZTimeLine/IVZTimeLine.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZTimeLine.CurrentIndex">
+          <param name="Local" value="Interface/IVZTimeLine/IVZTimeLine.CurrentIndex.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZTimeLine.DelayDuration">
+          <param name="Local" value="Interface/IVZTimeLine/IVZTimeLine.DelayDuration.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZTimeLine.Inverse">
+          <param name="Local" value="Interface/IVZTimeLine/IVZTimeLine.Inverse.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZTimeLine.IsOverlap">
+          <param name="Local" value="Interface/IVZTimeLine/IVZTimeLine.IsOverlap.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZTimeLine.LastIndexAsInitial">
+          <param name="Local" value="Interface/IVZTimeLine/IVZTimeLine.LastIndexAsInitial.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZTimeLine.ReturnToInitialState">
+          <param name="Local" value="Interface/IVZTimeLine/IVZTimeLine.ReturnToInitialState.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZTimeLine.StepDuration">
+          <param name="Local" value="Interface/IVZTimeLine/IVZTimeLine.StepDuration.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZTimeLine.StepsNames">
+          <param name="Local" value="Interface/IVZTimeLine/IVZTimeLine.StepsNames.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IVZToolTipStyle">
+        <param name="Local" value="Interface/IVZToolTipStyle/IVZToolTipStyle.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZToolTipStyle.HoverMode">
+          <param name="Local" value="Interface/IVZToolTipStyle/IVZToolTipStyle.HoverMode.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IVZTreeDataVisualizer">
+        <param name="Local" value="Interface/IVZTreeDataVisualizer/IVZTreeDataVisualizer.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZTreeDataVisualizer.Model">
+          <param name="Local" value="Interface/IVZTreeDataVisualizer/IVZTreeDataVisualizer.Model.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IVZTreeItem">
+        <param name="Local" value="Interface/IVZTreeItem/IVZTreeItem.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZTreeItem.GetItemById">
+          <param name="Local" value="Interface/IVZTreeItem/IVZTreeItem.GetItemById.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZTreeItem.GetNext">
+          <param name="Local" value="Interface/IVZTreeItem/IVZTreeItem.GetNext.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZTreeItem.GetPrev">
+          <param name="Local" value="Interface/IVZTreeItem/IVZTreeItem.GetPrev.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZTreeItem.ID">
+          <param name="Local" value="Interface/IVZTreeItem/IVZTreeItem.ID.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZTreeItem.Items">
+          <param name="Local" value="Interface/IVZTreeItem/IVZTreeItem.Items.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZTreeItem.Parent">
+          <param name="Local" value="Interface/IVZTreeItem/IVZTreeItem.Parent.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZTreeItem.Selected">
+          <param name="Local" value="Interface/IVZTreeItem/IVZTreeItem.Selected.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IVZTreeItems">
+        <param name="Local" value="Interface/IVZTreeItems/IVZTreeItems.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZTreeItems.Add">
+          <param name="Local" value="Interface/IVZTreeItems/IVZTreeItems.Add.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZTreeItems.Clear">
+          <param name="Local" value="Interface/IVZTreeItems/IVZTreeItems.Clear.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZTreeItems.Count">
+          <param name="Local" value="Interface/IVZTreeItems/IVZTreeItems.Count.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZTreeItems.Item">
+          <param name="Local" value="Interface/IVZTreeItems/IVZTreeItems.Item.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZTreeItems.Remove">
+          <param name="Local" value="Interface/IVZTreeItems/IVZTreeItems.Remove.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IVZTreeMap">
+        <param name="Local" value="Interface/IVZTreeMap/IVZTreeMap.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZTreeMap.AnimationTime">
+          <param name="Local" value="Interface/IVZTreeMap/IVZTreeMap.AnimationTime.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZTreeMap.Breadcrumb">
+          <param name="Local" value="Interface/IVZTreeMap/IVZTreeMap.Breadcrumb.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZTreeMap.BranchItemsToolTipStyle">
+          <param name="Local" value="Interface/IVZTreeMap/IVZTreeMap.BranchItemsToolTipStyle.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZTreeMap.BranchSpacing">
+          <param name="Local" value="Interface/IVZTreeMap/IVZTreeMap.BranchSpacing.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZTreeMap.CaptionHeight">
+          <param name="Local" value="Interface/IVZTreeMap/IVZTreeMap.CaptionHeight.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZTreeMap.Captions">
+          <param name="Local" value="Interface/IVZTreeMap/IVZTreeMap.Captions.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZTreeMap.ColorVisual">
+          <param name="Local" value="Interface/IVZTreeMap/IVZTreeMap.ColorVisual.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZTreeMap.EndHeaderStyle">
+          <param name="Local" value="Interface/IVZTreeMap/IVZTreeMap.EndHeaderStyle.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZTreeMap.HeatMap">
+          <param name="Local" value="Interface/IVZTreeMap/IVZTreeMap.HeatMap.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZTreeMap.HeightVisual">
+          <param name="Local" value="Interface/IVZTreeMap/IVZTreeMap.HeightVisual.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZTreeMap.HierarchyDepth">
+          <param name="Local" value="Interface/IVZTreeMap/IVZTreeMap.HierarchyDepth.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZTreeMap.ItemsToolTipStyle">
+          <param name="Local" value="Interface/IVZTreeMap/IVZTreeMap.ItemsToolTipStyle.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZTreeMap.LabelAutoColor">
+          <param name="Local" value="Interface/IVZTreeMap/IVZTreeMap.LabelAutoColor.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZTreeMap.LabelsStyle">
+          <param name="Local" value="Interface/IVZTreeMap/IVZTreeMap.LabelsStyle.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZTreeMap.LeafBorderWidth">
+          <param name="Local" value="Interface/IVZTreeMap/IVZTreeMap.LeafBorderWidth.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZTreeMap.MaxFontSize">
+          <param name="Local" value="Interface/IVZTreeMap/IVZTreeMap.MaxFontSize.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZTreeMap.MinFontSize">
+          <param name="Local" value="Interface/IVZTreeMap/IVZTreeMap.MinFontSize.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZTreeMap.Palette">
+          <param name="Local" value="Interface/IVZTreeMap/IVZTreeMap.Palette.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZTreeMap.RenderMode">
+          <param name="Local" value="Interface/IVZTreeMap/IVZTreeMap.RenderMode.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZTreeMap.ShowBranches">
+          <param name="Local" value="Interface/IVZTreeMap/IVZTreeMap.ShowBranches.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZTreeMap.SelectionBorderPen">
+          <param name="Local" value="Interface/IVZTreeMap/IVZTreeMap.SelectionBorderPen.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZTreeMap.SizeVisual">
+          <param name="Local" value="Interface/IVZTreeMap/IVZTreeMap.SizeVisual.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZTreeMap.StartHeaderStyle">
+          <param name="Local" value="Interface/IVZTreeMap/IVZTreeMap.StartHeaderStyle.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZTreeMap.TextVisual">
+          <param name="Local" value="Interface/IVZTreeMap/IVZTreeMap.TextVisual.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZTreeMap.UseItemColorForToolTipBorder">
+          <param name="Local" value="Interface/IVZTreeMap/IVZTreeMap.UseItemColorForToolTipBorder.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZTreeMap.UseSelectOnClick">
+          <param name="Local" value="Interface/IVZTreeMap/IVZTreeMap.UseSelectOnClick.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZTreeMap.View3D">
+          <param name="Local" value="Interface/IVZTreeMap/IVZTreeMap.View3D.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IVZTreeMapItem">
+        <param name="Local" value="Interface/IVZTreeMapItem/IVZTreeMapItem.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IVZTreeModel">
+        <param name="Local" value="Interface/IVZTreeModel/IVZTreeModel.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZTreeModel.ActiveItem">
+          <param name="Local" value="Interface/IVZTreeModel/IVZTreeModel.ActiveItem.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZTreeModel.GetItemByID">
+          <param name="Local" value="Interface/IVZTreeModel/IVZTreeModel.GetItemByID.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZTreeModel.RootItem">
+          <param name="Local" value="Interface/IVZTreeModel/IVZTreeModel.RootItem.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVZTreeModel.SetActiveItem">
+          <param name="Local" value="Interface/IVZTreeModel/IVZTreeModel.SetActiveItem.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Перечисления сборки Visualizators">
+      <param name="Local" value="Enums/KeVisualizators_Enums.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="BubbleChartTrendLineType">
+        <param name="Local" value="Enums/BubbleChartTrendLineType.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="LegendColorApplying">
+        <param name="Local" value="Enums/LegendColorApplying.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="LegendItemsHorizontalAlignment">
+        <param name="Local" value="Enums/LegendItemsHorizontalAlignment.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="MapChartArrowEffectsMode">
+        <param name="Local" value="Enums/MapChartArrowEffectsMode.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="MapChartArrowTextOrientation">
+        <param name="Local" value="Enums/MapChartArrowTextOrientation.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="MapChartArrowType">
+        <param name="Local" value="Enums/MapChartArrowType.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="MapChartBarAxisVisibility">
+        <param name="Local" value="Enums/MapChartBarAxisVisibility.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="VisualizatorBubbleTreeAlignment">
+        <param name="Local" value="Enums/VisualizatorBubbleTreeAlignment.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="VisualizatorBubbleTreeRenderMode">
+        <param name="Local" value="Enums/VisualizatorBubbleTreeRenderMode.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="VisualizatorControlState">
+        <param name="Local" value="Enums/VisualizatorControlState.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="VisualizatorDataAdapterMode">
+        <param name="Local" value="Enums/VisualizatorDataAdapterMode.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="VisualizatorDataMappingType">
+        <param name="Local" value="Enums/VisualizatorDataMappingType.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="VisualizatorHistoryModeEnum">
+        <param name="Local" value="Enums/VisualizatorHistoryModeEnum.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="VisualizatorHorizontalAlignment">
+        <param name="Local" value="Enums/VisualizatorHorizontalAlignment.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="VisualizatorHoverMode">
+        <param name="Local" value="Enums/VisualizatorHoverMode.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="VisualizatorLegendMode">
+        <param name="Local" value="Enums/VisualizatorLegendMode.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="VisualizatorNoDataPosition">
+        <param name="Local" value="Enums/VisualizatorNoDataPosition.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="VisualizatorScaleMode">
+        <param name="Local" value="Enums/VisualizatorScaleMode.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="VisualizatorScaleType">
+        <param name="Local" value="Enums/VisualizatorScaleType.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="VisualizatorSizeMarkerShape">
+        <param name="Local" value="Enums/VisualizatorSizeMarkerShape.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="VisualizatorSortingMode">
+        <param name="Local" value="Enums/VisualizatorSortingMode.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="VisualizatorTerritoryTranscriptSelectEvent">
+        <param name="Local" value="Enums/VisualizatorTerritoryTranscriptSelectEvent.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="VisualizatorTextWrapping">
+        <param name="Local" value="Enums/VisualizatorTextWrapping.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="VisualizatorTreeMapRenderMode">
+        <param name="Local" value="Enums/VisualizatorTreeMapRenderMode.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="VisualizatorUnitKind">
+        <param name="Local" value="Enums/VisualizatorUnitKind.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="VisualizatorVerticalAlignment">
+        <param name="Local" value="Enums/VisualizatorVerticalAlignment.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="VisualizerLabelHorizontalAlignment">
+        <param name="Local" value="Enums/VisualizerLabelHorizontalAlignment.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="VisualizerLabelVerticalAlignment">
+        <param name="Local" value="Enums/VisualizerLabelVerticalAlignment.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="VisualizersResourceId">
+        <param name="Local" value="Enums/VisualizersResourceId.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="VisualizerUpdateOptions">
+        <param name="Local" value="Enums/VisualizerUpdateOptions.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Классы сборки Visualizators">
+      <param name="Local" value="Class/KeVisualizators_Class.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="VZBreadcrumb">
+        <param name="Local" value="Class/VZBreadcrumb/VZBreadcrumb.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="VZBubbleChartTrendLine">
+        <param name="Local" value="Class/VZBubbleChartTrendLine/VZBubbleChartTrendLine.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="VZColorVisual">
+        <param name="Local" value="Class/VZColorVisual/VZColorVisual.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="VZControlStyle">
+        <param name="Local" value="Class/VZControlStyle/VZControlStyle.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="VZDataArray">
+        <param name="Local" value="Class/VZDataArray/VZDataArray.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="VZDataScale">
+        <param name="Local" value="Class/VZDataScale/VZDataScale.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="VZDataSourceMapping">
+        <param name="Local" value="Class/VZDataSourceMapping/VZDataSourceMapping.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="VZBubbleTree">
+        <param name="Local" value="Class/VZBubbleTree/VZBubbleTree.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="VZBubbleTreeItem">
+        <param name="Local" value="Class/VZBubbleTreeItem/VZBubbleTreeItem.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="VZDataDictionary">
+        <param name="Local" value="Class/VZDataDictionary/VZDataDictionary.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="VZDataNormalizeAdapter">
+        <param name="Local" value="Class/VZDataNormalizeAdapter/VZDataNormalizeAdapter.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="VZDoubleArray">
+        <param name="Local" value="Class/VZDoubleArray/VZDoubleArray.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="VZDataCoordinateAdapter">
+        <param name="Local" value="Class/VZDataCoordinateAdapter/VZDataCoordinateAdapter.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="VZHighlightEffect">
+        <param name="Local" value="Class/VZHighlightEffect/VZHighlightEffect.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="VZIntervalsLegend">
+        <param name="Local" value="Class/VZIntervalsLegend/VZIntervalsLegend.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="VZIntervalsLegendMarker">
+        <param name="Local" value="Class/VZIntervalsLegendMarker/VZIntervalsLegendMarker.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="VZItemsNames">
+        <param name="Local" value="Class/VZItemsNames/VZItemsNames.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="VZLabelBase">
+        <param name="Local" value="Class/VZLabelBase/VZLabelBase.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="VZLabelStyle">
+        <param name="Local" value="Class/VZLabelStyle/VZLabelStyle.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="VZLegendHeader">
+        <param name="Local" value="Class/VZLegendHeader/VZLegendHeader.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="VZLegendItem">
+        <param name="Local" value="Class/VZLegendItem/VZLegendItem.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="VZLegendItems">
+        <param name="Local" value="Class/VZLegendItems/VZLegendItems.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="VZLegends">
+        <param name="Local" value="Class/VZLegends/VZLegends.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="VZLongArray">
+        <param name="Local" value="Class/VZLongArray/VZLongArray.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="VZMapChartArrow">
+        <param name="Local" value="Class/VZMapChartArrow/VZMapChartArrow.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="VZMapChartArrows">
+        <param name="Local" value="Class/VZMapChartArrows/VZMapChartArrows.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="VZMapChartArrowStyle">
+        <param name="Local" value="Class/VZMapChartArrowStyle/VZMapChartArrowStyle.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="VZMapChartBar">
+        <param name="Local" value="Class/VZMapChartBar/VZMapChartBar.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="VZMapChartBarAxis">
+        <param name="Local" value="Class/VZMapChartBarAxis/VZMapChartBarAxis.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="VZMapChartLabelStyle">
+        <param name="Local" value="Class/VZMapChartLabelStyle/VZMapChartLabelStyle.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="VZMapChartLayer">
+        <param name="Local" value="Class/VZMapChartLayer/VZMapChartLayer.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="VZMapChartMarker">
+        <param name="Local" value="Class/VZMapChartMarker/VZMapChartMarker.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="VZMapChartMarkers">
+        <param name="Local" value="Class/VZMapChartMarkers/VZMapChartMarkers.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="VZMapChartMarkerVisual">
+        <param name="Local" value="Class/VZMapChartMarkerVisual/VZMapChartMarkerVisual.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="VZMapChartPie">
+        <param name="Local" value="Class/VZMapChartPie/VZMapChartPie.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="VZMapChartTopobaseGeoItem">
+        <param name="Local" value="Class/VZMapChartTopobaseGeoItem/VZMapChartTopobaseGeoItem.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="VZMultiplyDataSource">
+        <param name="Local" value="Class/VZMultiplyDataSource/VZMultiplyDataSource.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="VZNumericVisual">
+        <param name="Local" value="Class/VZNumericVisual/VZNumericVisual.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="VZPalette">
+        <param name="Local" value="Class/VZPalette/VZPalette.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="VZResourceImage">
+        <param name="Local" value="Class/VZResourceImage/VZResourceImage.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="VZSizeLegend">
+        <param name="Local" value="Class/VZSizeLegend/VZSizeLegend.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="VZStringArray">
+        <param name="Local" value="Class/VZStringArray/VZStringArray.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="VZTextVisual">
+        <param name="Local" value="Class/VZTextVisual/VZTextVisual.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="VZTimeLine">
+        <param name="Local" value="Class/VZTimeLine/VZTimeLine.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="VZToolTipStyle">
+        <param name="Local" value="Class/VZToolTipStyle/VZToolTipStyle.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="VZTreeMap">
+        <param name="Local" value="Class/VZTreeMap/VZTreeMap.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="VZTreeMapItem">
+        <param name="Local" value="Class/VZTreeMapItem/VZTreeMapItem.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="VZTreeModel">
+        <param name="Local" value="Class/VZTreeModel/VZTreeModel.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      </ul>
+    </ul>
+</ul>
+</html>

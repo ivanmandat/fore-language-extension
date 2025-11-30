@@ -1,0 +1,321 @@
+<html>
+<!-- Sitemap 1.0 -->
+<object type="text/site properties">
+  <param name="SiteType" value="toc">
+  <param name="Image Width" value="16">
+  <param name="Window Styles" value="0x800027">
+  <param name="ExWindow Styles" value="0x100">
+</object>
+<ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="NN">
+    <param name="Local" value="KeNN_TitlePage.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Введение в сборку NN">
+      <param name="Local" value="KeNN_Intro.htm">
+      <param name="ImageNumber" value="11">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Интерфейсы сборки NN">
+      <param name="Local" value="Interface/KeNN_Interface.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="INeuralNetwork">
+        <param name="Local" value="Interface/INeuralNetwork/INeuralNetwork.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="INeuralNetwork.ApplyConvexCombinationFactor">
+          <param name="Local" value="Interface/INeuralNetwork/INeuralNetwork.ApplyConvexCombinationFactor.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="INeuralNetwork.CreateNetwork">
+          <param name="Local" value="Interface/INeuralNetwork/INeuralNetwork.CreateNetwork.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="INeuralNetwork.CreateNetworkEx">
+          <param name="Local" value="Interface/INeuralNetwork/INeuralNetwork.CreateNetworkEx.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="INeuralNetwork.GetOutputWidth">
+          <param name="Local" value="Interface/INeuralNetwork/INeuralNetwork.GetOutputWidth.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="INeuralNetwork.GetOutputValues">
+          <param name="Local" value="Interface/INeuralNetwork/INeuralNetwork.GetOutputValues.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="INeuralNetwork.DeleteNetwork">
+          <param name="Local" value="Interface/INeuralNetwork/INeuralNetwork.DeleteNetwork.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="INeuralNetwork.DeltasMinimumReachedBP">
+          <param name="Local" value="Interface/INeuralNetwork/INeuralNetwork.DeltasMinimumReachedBP.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="INeuralNetwork.ExportSynapses">
+          <param name="Local" value="Interface/INeuralNetwork/INeuralNetwork.ExportSynapses.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="INeuralNetwork.GetClosestNeuron">
+          <param name="Local" value="Interface/INeuralNetwork/INeuralNetwork.GetClosestNeuron.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="INeuralNetwork.GetError">
+          <param name="Local" value="Interface/INeuralNetwork/INeuralNetwork.GetError.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="INeuralNetwork.GetInputValues">
+          <param name="Local" value="Interface/INeuralNetwork/INeuralNetwork.GetInputValues.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="INeuralNetwork.GetLearnRadius">
+          <param name="Local" value="Interface/INeuralNetwork/INeuralNetwork.GetLearnRadius.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="INeuralNetwork.GetLearnRate">
+          <param name="Local" value="Interface/INeuralNetwork/INeuralNetwork.GetLearnRate.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="INeuralNetwork.GetMaximumWeightDelta">
+          <param name="Local" value="Interface/INeuralNetwork/INeuralNetwork.GetMaximumWeightDelta.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="INeuralNetwork.GetNumberOfInputs">
+          <param name="Local" value="Interface/INeuralNetwork/INeuralNetwork.GetNumberOfInputs.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="INeuralNetwork.GetNumberOfLayers">
+          <param name="Local" value="Interface/INeuralNetwork/INeuralNetwork.GetNumberOfLayers.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="INeuralNetwork.GetNumberOfOutputs">
+          <param name="Local" value="Interface/INeuralNetwork/INeuralNetwork.GetNumberOfOutputs.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="INeuralNetwork.GetRowWidth">
+          <param name="Local" value="Interface/INeuralNetwork/INeuralNetwork.GetRowWidth.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="INeuralNetwork.GetRowWidthEx">
+          <param name="Local" value="Interface/INeuralNetwork/INeuralNetwork.GetRowWidthEx.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="INeuralNetwork.GetSynapse">
+          <param name="Local" value="Interface/INeuralNetwork/INeuralNetwork.GetSynapse.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="INeuralNetwork.GetUseVectorScalar">
+          <param name="Local" value="Interface/INeuralNetwork/INeuralNetwork.GetUseVectorScalar.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="INeuralNetwork.ImportSynapses">
+          <param name="Local" value="Interface/INeuralNetwork/INeuralNetwork.ImportSynapses.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="INeuralNetwork.InitSynapses">
+          <param name="Local" value="Interface/INeuralNetwork/INeuralNetwork.InitSynapses.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="INeuralNetwork.InitSynapsesConvex">
+          <param name="Local" value="Interface/INeuralNetwork/INeuralNetwork.InitSynapsesConvex.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="INeuralNetwork.InitSynapsesConvexEx">
+          <param name="Local" value="Interface/INeuralNetwork/INeuralNetwork.InitSynapsesConvexEx.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="INeuralNetwork.LearnBack">
+          <param name="Local" value="Interface/INeuralNetwork/INeuralNetwork.LearnBack.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="INeuralNetwork.LearnSOFM">
+          <param name="Local" value="Interface/INeuralNetwork/INeuralNetwork.LearnSOFM.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="INeuralNetwork.NormalizeInputValues">
+          <param name="Local" value="Interface/INeuralNetwork/INeuralNetwork.NormalizeInputValues.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="INeuralNetwork.NormalizeInputValuesEx">
+          <param name="Local" value="Interface/INeuralNetwork/INeuralNetwork.NormalizeInputValuesEx.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="INeuralNetwork.NormalizeSynapses">
+          <param name="Local" value="Interface/INeuralNetwork/INeuralNetwork.NormalizeSynapses.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="INeuralNetwork.NormalizeSynapsesEx">
+          <param name="Local" value="Interface/INeuralNetwork/INeuralNetwork.NormalizeSynapsesEx.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="INeuralNetwork.PropagateBP">
+          <param name="Local" value="Interface/INeuralNetwork/INeuralNetwork.PropagateBP.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="INeuralNetwork.PropagateSOFM">
+          <param name="Local" value="Interface/INeuralNetwork/INeuralNetwork.PropagateSOFM.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="INeuralNetwork.SetInputValues">
+          <param name="Local" value="Interface/INeuralNetwork/INeuralNetwork.SetInputValues.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="INeuralNetwork.SetInputValuesConvex">
+          <param name="Local" value="Interface/INeuralNetwork/INeuralNetwork.SetInputValuesConvex.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="INeuralNetwork.SetInputValuesConvexEx">
+          <param name="Local" value="Interface/INeuralNetwork/INeuralNetwork.SetInputValuesConvexEx.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="INeuralNetwork.SetLearnRadius">
+          <param name="Local" value="Interface/INeuralNetwork/INeuralNetwork.SetLearnRadius.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="INeuralNetwork.SetLearnRadiusEx">
+          <param name="Local" value="Interface/INeuralNetwork/INeuralNetwork.SetLearnRadiusEx.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="INeuralNetwork.SetLearnRate">
+          <param name="Local" value="Interface/INeuralNetwork/INeuralNetwork.SetLearnRate.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="INeuralNetwork.SetLearnRateEx">
+          <param name="Local" value="Interface/INeuralNetwork/INeuralNetwork.SetLearnRateEx.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="INeuralNetwork.SetMju">
+          <param name="Local" value="Interface/INeuralNetwork/INeuralNetwork.SetMju.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="INeuralNetwork.SetMjuEx">
+          <param name="Local" value="Interface/INeuralNetwork/INeuralNetwork.SetMjuEx.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="INeuralNetwork.SetNju">
+          <param name="Local" value="Interface/INeuralNetwork/INeuralNetwork.SetNju.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="INeuralNetwork.SetNjuEx">
+          <param name="Local" value="Interface/INeuralNetwork/INeuralNetwork.SetNjuEx.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="INeuralNetwork.SetOutputWidth">
+          <param name="Local" value="Interface/INeuralNetwork/INeuralNetwork.SetOutputWidth.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="INeuralNetwork.SetRowWidth">
+          <param name="Local" value="Interface/INeuralNetwork/INeuralNetwork.SetRowWidth.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="INeuralNetwork.SetRowWidthEx">
+          <param name="Local" value="Interface/INeuralNetwork/INeuralNetwork.SetRowWidthEx.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="INeuralNetwork.SetSigmoidAlpha">
+          <param name="Local" value="Interface/INeuralNetwork/INeuralNetwork.SetSigmoidAlpha.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="INeuralNetwork.SetSigmoidFuncs">
+          <param name="Local" value="Interface/INeuralNetwork/INeuralNetwork.SetSigmoidFuncs.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="INeuralNetwork.SetSigmoidFuncsEx">
+          <param name="Local" value="Interface/INeuralNetwork/INeuralNetwork.SetSigmoidFuncsEx.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="INeuralNetwork.SetSynapse">
+          <param name="Local" value="Interface/INeuralNetwork/INeuralNetwork.SetSynapse.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="INeuralNetwork.SetUseVectorScalar">
+          <param name="Local" value="Interface/INeuralNetwork/INeuralNetwork.SetUseVectorScalar.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="INeuralNetwork.SetUseVectorScalarEx">
+          <param name="Local" value="Interface/INeuralNetwork/INeuralNetwork.SetUseVectorScalarEx.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Классы сборки NN">
+      <param name="Local" value="Class/KeNN_Class.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="NeuralNetwork">
+        <param name="Local" value="Class/NeuralNetwork/NeuralNetwork.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Примеры">
+      <param name="Local" value="Samples/KeNN_Samples.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Создание самоорганизующейся сети Кохонена">
+        <param name="Local" value="Samples/KeNN_Expl_SOFM.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      </ul>
+    </ul>
+</ul>
+</html>

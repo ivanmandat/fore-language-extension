@@ -1,0 +1,948 @@
+<html>
+<!-- Sitemap 1.0 -->
+<object type="text/site properties">
+  <param name="SiteType" value="toc">
+  <param name="Image Width" value="16">
+  <param name="Window Styles" value="0x800027">
+  <param name="ExWindow Styles" value="0x100">
+</object>
+<ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ABAC">
+    <param name="Local" value="Intro/KeABAC_TitlePage.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Введение в сборку ABAC">
+      <param name="Local" value="Intro/KeABAC_Introduction.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Общие принципы программирования с использованием сборки ABAC">
+        <param name="Local" value="Intro/KeABAC_Programming.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Добавление атрибутов субъекту">
+          <param name="Local" value="Intro/Add_AttrSubject.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Добавление атрибутов объекту">
+          <param name="Local" value="Intro/Add_AttrObject.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Формирование структуры атрибутного доступа">
+          <param name="Local" value="Intro/Structure_AttrAccess.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Определение прав доступа субъекта к объекту">
+          <param name="Local" value="Intro/Definition_Access_Permissions.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Иерархия сборки ABAC">
+        <param name="Local" value="Intro/KeABAC_Hierarchy.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Работа с атрибутами субъектов и объектов">
+          <param name="Local" value="Intro/Working_with_Attributes.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Формирование структуры атрибутного доступа">
+          <param name="Local" value="Intro/Hierarchy_Structure_AttrAccess.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Определение прав доступа субъекта к объекту">
+          <param name="Local" value="Intro/Hierarchy_Definition_Access_Permissions.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Интерфейсы сборки ABAC">
+      <param name="Local" value="Interface/KeABAC_Interface.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IABACAttribute">
+        <param name="Local" value="Interface/IABACAttribute/IABACAttribute.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IABACAttribute.Attributes">
+          <param name="Local" value="Interface/IABACAttribute/IABACAttribute.Attributes.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IABACAttribute.DataType">
+          <param name="Local" value="Interface/IABACAttribute/IABACAttribute.DataType.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IABACAttribute.DefaultValue">
+          <param name="Local" value="Interface/IABACAttribute/IABACAttribute.DefaultValue.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IABACAttribute.Description">
+          <param name="Local" value="Interface/IABACAttribute/IABACAttribute.Description.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IABACAttribute.Id">
+          <param name="Local" value="Interface/IABACAttribute/IABACAttribute.Id.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IABACAttribute.Key">
+          <param name="Local" value="Interface/IABACAttribute/IABACAttribute.Key.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IABACAttribute.Name">
+          <param name="Local" value="Interface/IABACAttribute/IABACAttribute.Name.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IABACAttribute.Predefined">
+          <param name="Local" value="Interface/IABACAttribute/IABACAttribute.Predefined.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IABACAttribute.UIEditorBinding">
+          <param name="Local" value="Interface/IABACAttribute/IABACAttribute.UIEditorBinding.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IABACAttributeInstance">
+        <param name="Local" value="Interface/IABACAttributeInstance/IABACAttributeInstance.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IABACAttributeInstance.Attribute">
+          <param name="Local" value="Interface/IABACAttributeInstance/IABACAttributeInstance.Attribute.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IABACAttributeInstance.DataType">
+          <param name="Local" value="Interface/IABACAttributeInstance/IABACAttributeInstance.DataType.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IABACAttributeInstance.Id">
+          <param name="Local" value="Interface/IABACAttributeInstance/IABACAttributeInstance.Id.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IABACAttributeInstance.IsArray">
+          <param name="Local" value="Interface/IABACAttributeInstance/IABACAttributeInstance.IsArray.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IABACAttributeInstance.Key">
+          <param name="Local" value="Interface/IABACAttributeInstance/IABACAttributeInstance.Key.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IABACAttributeInstance.Name">
+          <param name="Local" value="Interface/IABACAttributeInstance/IABACAttributeInstance.Name.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IABACAttributeInstance.Value">
+          <param name="Local" value="Interface/IABACAttributeInstance/IABACAttributeInstance.Value.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IABACAttributeInstances">
+        <param name="Local" value="Interface/IABACAttributeInstances/IABACAttributeInstances.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IABACAttributeInstances.Count">
+          <param name="Local" value="Interface/IABACAttributeInstances/IABACAttributeInstances.Count.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IABACAttributeInstances.FindById">
+          <param name="Local" value="Interface/IABACAttributeInstances/IABACAttributeInstances.FindById.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IABACAttributeInstances.FindByKey">
+          <param name="Local" value="Interface/IABACAttributeInstances/IABACAttributeInstances.FindByKey.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IABACAttributeInstances.Item">
+          <param name="Local" value="Interface/IABACAttributeInstances/IABACAttributeInstances.Item.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IABACAttributes">
+        <param name="Local" value="Interface/IABACAttributes/IABACAttributes.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IABACAttributes.Add">
+          <param name="Local" value="Interface/IABACAttributes/IABACAttributes.Add.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IABACAttributes.Clear">
+          <param name="Local" value="Interface/IABACAttributes/IABACAttributes.Clear.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IABACAttributes.Count">
+          <param name="Local" value="Interface/IABACAttributes/IABACAttributes.Count.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IABACAttributes.FindById">
+          <param name="Local" value="Interface/IABACAttributes/IABACAttributes.FindById.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IABACAttributes.FindByKey">
+          <param name="Local" value="Interface/IABACAttributes/IABACAttributes.FindByKey.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IABACAttributes.Item">
+          <param name="Local" value="Interface/IABACAttributes/IABACAttributes.Item.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IABACAttributes.Remove">
+          <param name="Local" value="Interface/IABACAttributes/IABACAttributes.Remove.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IABACAttributes.RemoveById">
+          <param name="Local" value="Interface/IABACAttributes/IABACAttributes.RemoveById.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IABACAttributes.RemoveByKey">
+          <param name="Local" value="Interface/IABACAttributes/IABACAttributes.RemoveByKey.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IABACEngine">
+        <param name="Local" value="Interface/IABACEngine/IABACEngine.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IABACEngine.Evaluate">
+          <param name="Local" value="Interface/IABACEngine/IABACEngine.Evaluate.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IABACEngine.SetCallback">
+          <param name="Local" value="Interface/IABACEngine/IABACEngine.SetCallback.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IABACEngine.SetEnvironment">
+          <param name="Local" value="Interface/IABACEngine/IABACEngine.SetEnvironment.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IABACEngine.SetOperations">
+          <param name="Local" value="Interface/IABACEngine/IABACEngine.SetOperations.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IABACEngine.SetParams">
+          <param name="Local" value="Interface/IABACEngine/IABACEngine.SetParams.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IABACEngine.SetPolicy">
+          <param name="Local" value="Interface/IABACEngine/IABACEngine.SetPolicy.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IABACEvaluateCallback">
+        <param name="Local" value="Interface/IABACEvaluateCallback/IABACEvaluateCallback.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IABACEvaluateCallback.AttrValue">
+          <param name="Local" value="Interface/IABACEvaluateCallback/IABACEvaluateCallback.AttrValue.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IABACEvaluatedObject">
+        <param name="Local" value="Interface/IABACEvaluatedObject/IABACEvaluatedObject.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IABACEvaluatedObject.GuidStr">
+          <param name="Local" value="Interface/IABACEvaluatedObject/IABACEvaluatedObject.GuidStr.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IABACEvaluatedObject.Parent">
+          <param name="Local" value="Interface/IABACEvaluatedObject/IABACEvaluatedObject.Parent.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IABACPolicies">
+        <param name="Local" value="Interface/IABACPolicies/IABACPolicies.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IABACPolicies.Add">
+          <param name="Local" value="Interface/IABACPolicies/IABACPolicies.Add.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IABACPolicies.AddCopy">
+          <param name="Local" value="Interface/IABACPolicies/IABACPolicies.AddCopy.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IABACPolicies.Clear">
+          <param name="Local" value="Interface/IABACPolicies/IABACPolicies.Clear.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IABACPolicies.Count">
+          <param name="Local" value="Interface/IABACPolicies/IABACPolicies.Count.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IABACPolicies.FindById">
+          <param name="Local" value="Interface/IABACPolicies/IABACPolicies.FindById.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IABACPolicies.FindByKey">
+          <param name="Local" value="Interface/IABACPolicies/IABACPolicies.FindByKey.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IABACPolicies.IndexOf">
+          <param name="Local" value="Interface/IABACPolicies/IABACPolicies.IndexOf.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IABACPolicies.Item">
+          <param name="Local" value="Interface/IABACPolicies/IABACPolicies.Item.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IABACPolicies.Move">
+          <param name="Local" value="Interface/IABACPolicies/IABACPolicies.Move.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IABACPolicies.MoveById">
+          <param name="Local" value="Interface/IABACPolicies/IABACPolicies.MoveById.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IABACPolicies.MoveByKey">
+          <param name="Local" value="Interface/IABACPolicies/IABACPolicies.MoveByKey.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IABACPolicies.Remove">
+          <param name="Local" value="Interface/IABACPolicies/IABACPolicies.Remove.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IABACPolicies.RemoveById">
+          <param name="Local" value="Interface/IABACPolicies/IABACPolicies.RemoveById.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IABACPolicies.RemoveByKey">
+          <param name="Local" value="Interface/IABACPolicies/IABACPolicies.RemoveByKey.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IABACPolicies.Swap">
+          <param name="Local" value="Interface/IABACPolicies/IABACPolicies.Swap.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IABACPolicies.SwapById">
+          <param name="Local" value="Interface/IABACPolicies/IABACPolicies.SwapById.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IABACPolicies.SwapByKey">
+          <param name="Local" value="Interface/IABACPolicies/IABACPolicies.SwapByKey.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IABACPolicy">
+        <param name="Local" value="Interface/IABACPolicy/IABACPolicy.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IABACPolicy.Active">
+          <param name="Local" value="Interface/IABACPolicy/IABACPolicy.Active.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IABACPolicy.CombineAlgorithm">
+          <param name="Local" value="Interface/IABACPolicy/IABACPolicy.CombineAlgorithm.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IABACPolicy.Description">
+          <param name="Local" value="Interface/IABACPolicy/IABACPolicy.Description.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IABACPolicy.Id">
+          <param name="Local" value="Interface/IABACPolicy/IABACPolicy.Id.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IABACPolicy.Key">
+          <param name="Local" value="Interface/IABACPolicy/IABACPolicy.Key.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IABACPolicy.Name">
+          <param name="Local" value="Interface/IABACPolicy/IABACPolicy.Name.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IABACPolicy.Rules">
+          <param name="Local" value="Interface/IABACPolicy/IABACPolicy.Rules.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IABACPolicy.Target">
+          <param name="Local" value="Interface/IABACPolicy/IABACPolicy.Target.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IABACPolicySet">
+        <param name="Local" value="Interface/IABACPolicySet/IABACPolicySet.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IABACPolicySet.Active">
+          <param name="Local" value="Interface/IABACPolicySet/IABACPolicySet.Active.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IABACPolicySet.CombineAlgorithm">
+          <param name="Local" value="Interface/IABACPolicySet/IABACPolicySet.CombineAlgorithm.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IABACPolicySet.Description">
+          <param name="Local" value="Interface/IABACPolicySet/IABACPolicySet.Description.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IABACPolicySet.Id">
+          <param name="Local" value="Interface/IABACPolicySet/IABACPolicySet.Id.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IABACPolicySet.Key">
+          <param name="Local" value="Interface/IABACPolicySet/IABACPolicySet.Key.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IABACPolicySet.Name">
+          <param name="Local" value="Interface/IABACPolicySet/IABACPolicySet.Name.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IABACPolicySet.Policies">
+          <param name="Local" value="Interface/IABACPolicySet/IABACPolicySet.Policies.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IABACPolicySet.PolicySets">
+          <param name="Local" value="Interface/IABACPolicySet/IABACPolicySet.PolicySets.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IABACPolicySet.Target">
+          <param name="Local" value="Interface/IABACPolicySet/IABACPolicySet.Target.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IABACPolicySets">
+        <param name="Local" value="Interface/IABACPolicySets/IABACPolicySets.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IABACPolicySets.Add">
+          <param name="Local" value="Interface/IABACPolicySets/IABACPolicySets.Add.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IABACPolicySets.AddCopy">
+          <param name="Local" value="Interface/IABACPolicySets/IABACPolicySets.AddCopy.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IABACPolicySets.Clear">
+          <param name="Local" value="Interface/IABACPolicySets/IABACPolicySets.Clear.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IABACPolicySets.Count">
+          <param name="Local" value="Interface/IABACPolicySets/IABACPolicySets.Count.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IABACPolicySets.FindById">
+          <param name="Local" value="Interface/IABACPolicySets/IABACPolicySets.FindById.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IABACPolicySets.FindByKey">
+          <param name="Local" value="Interface/IABACPolicySets/IABACPolicySets.FindByKey.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IABACPolicySets.IndexOf">
+          <param name="Local" value="Interface/IABACPolicySets/IABACPolicySets.IndexOf.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IABACPolicySets.Item">
+          <param name="Local" value="Interface/IABACPolicySets/IABACPolicySets.Item.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IABACPolicySets.Move">
+          <param name="Local" value="Interface/IABACPolicySets/IABACPolicySets.Move.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IABACPolicySets.MoveById">
+          <param name="Local" value="Interface/IABACPolicySets/IABACPolicySets.MoveById.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IABACPolicySets.MoveByKey">
+          <param name="Local" value="Interface/IABACPolicySets/IABACPolicySets.MoveByKey.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IABACPolicySets.Remove">
+          <param name="Local" value="Interface/IABACPolicySets/IABACPolicySets.Remove.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IABACPolicySets.RemoveById">
+          <param name="Local" value="Interface/IABACPolicySets/IABACPolicySets.RemoveById.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IABACPolicySets.RemoveByKey">
+          <param name="Local" value="Interface/IABACPolicySets/IABACPolicySets.RemoveByKey.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IABACPolicySets.Swap">
+          <param name="Local" value="Interface/IABACPolicySets/IABACPolicySets.Swap.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IABACPolicySets.SwapById">
+          <param name="Local" value="Interface/IABACPolicySets/IABACPolicySets.SwapById.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IABACPolicySets.SwapByKey">
+          <param name="Local" value="Interface/IABACPolicySets/IABACPolicySets.SwapByKey.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IABACRootPolicyObject">
+        <param name="Local" value="Interface/IABACRootPolicyObject/IABACRootPolicyObject.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IABACRootPolicyObject.CombineAlgorithm">
+          <param name="Local" value="Interface/IABACRootPolicyObject/IABACRootPolicyObject.CombineAlgorithm.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IABACRootPolicyObject.FindByGuidStr">
+          <param name="Local" value="Interface/IABACRootPolicyObject/IABACRootPolicyObject.FindByGuidStr.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IABACRootPolicyObject.Load">
+          <param name="Local" value="Interface/IABACRootPolicyObject/IABACRootPolicyObject.Load.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IABACRootPolicyObject.Metabase">
+          <param name="Local" value="Interface/IABACRootPolicyObject/IABACRootPolicyObject.Metabase.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IABACRootPolicyObject.Policies">
+          <param name="Local" value="Interface/IABACRootPolicyObject/IABACRootPolicyObject.Policies.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IABACRootPolicyObject.Save">
+          <param name="Local" value="Interface/IABACRootPolicyObject/IABACRootPolicyObject.Save.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IABACRule">
+        <param name="Local" value="Interface/IABACRule/IABACRule.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IABACRule.Active">
+          <param name="Local" value="Interface/IABACRule/IABACRule.Active.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IABACRule.Condition">
+          <param name="Local" value="Interface/IABACRule/IABACRule.Condition.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IABACRule.Description">
+          <param name="Local" value="Interface/IABACRule/IABACRule.Description.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IABACRule.Effect">
+          <param name="Local" value="Interface/IABACRule/IABACRule.Effect.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IABACRule.Id">
+          <param name="Local" value="Interface/IABACRule/IABACRule.Id.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IABACRule.Key">
+          <param name="Local" value="Interface/IABACRule/IABACRule.Key.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IABACRule.Name">
+          <param name="Local" value="Interface/IABACRule/IABACRule.Name.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IABACRule.Target">
+          <param name="Local" value="Interface/IABACRule/IABACRule.Target.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IABACRules">
+        <param name="Local" value="Interface/IABACRules/IABACRules.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IABACRules.Add">
+          <param name="Local" value="Interface/IABACRules/IABACRules.Add.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IABACRules.AddCopy">
+          <param name="Local" value="Interface/IABACRules/IABACRules.AddCopy.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IABACRules.Clear">
+          <param name="Local" value="Interface/IABACRules/IABACRules.Clear.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IABACRules.Count">
+          <param name="Local" value="Interface/IABACRules/IABACRules.Count.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IABACRules.FindById">
+          <param name="Local" value="Interface/IABACRules/IABACRules.FindById.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IABACRules.FindByKey">
+          <param name="Local" value="Interface/IABACRules/IABACRules.FindByKey.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IABACRules.IndexOf">
+          <param name="Local" value="Interface/IABACRules/IABACRules.IndexOf.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IABACRules.Item">
+          <param name="Local" value="Interface/IABACRules/IABACRules.Item.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IABACRules.Move">
+          <param name="Local" value="Interface/IABACRules/IABACRules.Move.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IABACRules.MoveById">
+          <param name="Local" value="Interface/IABACRules/IABACRules.MoveById.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IABACRules.MoveByKey">
+          <param name="Local" value="Interface/IABACRules/IABACRules.MoveByKey.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IABACRules.Remove">
+          <param name="Local" value="Interface/IABACRules/IABACRules.Remove.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IABACRules.RemoveById">
+          <param name="Local" value="Interface/IABACRules/IABACRules.RemoveById.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IABACRules.RemoveByKey">
+          <param name="Local" value="Interface/IABACRules/IABACRules.RemoveByKey.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IABACRules.Swap">
+          <param name="Local" value="Interface/IABACRules/IABACRules.Swap.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IABACRules.SwapById">
+          <param name="Local" value="Interface/IABACRules/IABACRules.SwapById.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IABACRules.SwapByKey">
+          <param name="Local" value="Interface/IABACRules/IABACRules.SwapByKey.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IABACTarget">
+        <param name="Local" value="Interface/IABACTarget/IABACTarget.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IABACTarget.AttributeId">
+          <param name="Local" value="Interface/IABACTarget/IABACTarget.AttributeId.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IABACTarget.AttributeValue">
+          <param name="Local" value="Interface/IABACTarget/IABACTarget.AttributeValue.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IABACTarget.Operation">
+          <param name="Local" value="Interface/IABACTarget/IABACTarget.Operation.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IABACTarget.SecondAttrId">
+          <param name="Local" value="Interface/IABACTarget/IABACTarget.SecondAttrId.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IABACUtils">
+        <param name="Local" value="Interface/IABACUtils/IABACUtils.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IABACUtils.Count">
+          <param name="Local" value="Interface/IABACUtils/IABACUtils.Count.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IABACUtils.FindAttr">
+          <param name="Local" value="Interface/IABACUtils/IABACUtils.FindAttr.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IABACUtils.Interseca">
+          <param name="Local" value="Interface/IABACUtils/IABACUtils.Interseca.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IABACUtils.Intersecc">
+          <param name="Local" value="Interface/IABACUtils/IABACUtils.Intersecc.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IABACUtils.Is_Empty">
+          <param name="Local" value="Interface/IABACUtils/IABACUtils.Is_Empty.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IMetabaseSecurityClassAttributes">
+        <param name="Local" value="Interface/IMetabaseSecurityClassAttributes/IMetabaseSecurityClassAttributes.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMetabaseSecurityClassAttributes.Attributes">
+          <param name="Local" value="Interface/IMetabaseSecurityClassAttributes/IMetabaseSecurityClassAttributes.Attributes.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMetabaseSecurityClassAttributes.ClassId">
+          <param name="Local" value="Interface/IMetabaseSecurityClassAttributes/IMetabaseSecurityClassAttributes.ClassId.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IMetabaseSecurityClassesAttributes">
+        <param name="Local" value="Interface/IMetabaseSecurityClassesAttributes/IMetabaseSecurityClassesAttributes.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMetabaseSecurityClassesAttributes.Add">
+          <param name="Local" value="Interface/IMetabaseSecurityClassesAttributes/IMetabaseSecurityClassesAttributes.Add.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMetabaseSecurityClassesAttributes.Clear">
+          <param name="Local" value="Interface/IMetabaseSecurityClassesAttributes/IMetabaseSecurityClassesAttributes.Clear.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMetabaseSecurityClassesAttributes.Count">
+          <param name="Local" value="Interface/IMetabaseSecurityClassesAttributes/IMetabaseSecurityClassesAttributes.Count.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMetabaseSecurityClassesAttributes.FindByClass">
+          <param name="Local" value="Interface/IMetabaseSecurityClassesAttributes/IMetabaseSecurityClassesAttributes.FindByClass.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMetabaseSecurityClassesAttributes.Item">
+          <param name="Local" value="Interface/IMetabaseSecurityClassesAttributes/IMetabaseSecurityClassesAttributes.Item.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMetabaseSecurityClassesAttributes.Remove">
+          <param name="Local" value="Interface/IMetabaseSecurityClassesAttributes/IMetabaseSecurityClassesAttributes.Remove.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMetabaseSecurityClassesAttributes.RemoveByClass">
+          <param name="Local" value="Interface/IMetabaseSecurityClassesAttributes/IMetabaseSecurityClassesAttributes.RemoveByClass.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IMetabaseSecurityObjectsAttributes">
+        <param name="Local" value="Interface/IMetabaseSecurityObjectsAttributes/IMetabaseSecurityObjectsAttributes.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMetabaseSecurityObjectsAttributes.Classes">
+          <param name="Local" value="Interface/IMetabaseSecurityObjectsAttributes/IMetabaseSecurityObjectsAttributes.Classes.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMetabaseSecurityObjectsAttributes.Global">
+          <param name="Local" value="Interface/IMetabaseSecurityObjectsAttributes/IMetabaseSecurityObjectsAttributes.Global.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Перечисления сборки ABAC">
+      <param name="Local" value="Enums/KeABAC_Enums.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="ABACCombineAlgorithm">
+        <param name="Local" value="Enums/ABACCombineAlgorithm.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="ABACEvaluateResult">
+        <param name="Local" value="Enums/ABACEvaluateResult.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="ABACRuleEffect">
+        <param name="Local" value="Enums/ABACRuleEffect.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="ABACTargetOperation">
+        <param name="Local" value="Enums/ABACTargetOperation.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Классы сборки ABAC">
+      <param name="Local" value="Class/KeABAC_Classes.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="ABACEngine">
+        <param name="Local" value="Class/ABACEngine/ABACEngine.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="ABACRootPolicyObject">
+        <param name="Local" value="Class/ABACRootPolicyObject/ABACRootPolicyObject.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="ABACUtils">
+        <param name="Local" value="Class/ABACUtils/ABACUtils.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Примеры">
+      <param name="Local" value="Examples/KeABAC_Example.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Права доступа на элементы справочника НСИ">
+        <param name="Local" value="Examples/AttrAccess_Dictionary.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      </ul>
+    </ul>
+</ul>
+</html>

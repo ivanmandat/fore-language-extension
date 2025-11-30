@@ -1,0 +1,554 @@
+<html>
+<!-- Sitemap 1.0 -->
+<object type="text/site properties">
+  <param name="FrameName" value="_self">
+  <param name="SiteType" value="toc">
+  <param name="Image Width" value="16">
+  <param name="Window Styles" value="0x800027">
+  <param name="ExWindow Styles" value="0x100">
+</object>
+<ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Администрирование и контроль доступа">
+    <param name="Local" value="Admin_Title.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Начало работы с менеджером безопасности">
+      <param name="Local" value="01_RunSecManager/Admin_Organizational_Starting.htm">
+      <param name="ImageNumber" value="11">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Настройка политики безопасности системы">
+      <param name="Local" value="01_RunSecManager/Admin_Intro.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Выбор методов разграничения доступа и их настройка">
+        <param name="Local" value="04_SecurityPolicy/Admin_SecPolicy.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Настройка дискреционного метода">
+          <param name="Local" value="04_SecurityPolicy/Admin_PermSep_D.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Настройка мандатного метода">
+          <param name="Local" value="04_SecurityPolicy/Admin_PermSep_M.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Добавление категорий и уровней безопасности">
+            <param name="Local" value="04_SecurityPolicy/Admin_MandatAccess.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Настройка параметров уровня безопасности">
+            <param name="Local" value="03_Admin/Admin_MandatAccessParam.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Добавление штампа маркировки">
+            <param name="Local" value="04_SecurityPolicy/Editor_of_Politicy/Admin_MandatAccess_Marking.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Настройка метода разграничения доступа по уровням">
+          <param name="Local" value="04_SecurityPolicy/Security_levels.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Добавление уровней безопасности">
+            <param name="Local" value="04_SecurityPolicy/Security_levels_section.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Настройка параметров уровня безопасности">
+            <param name="Local" value="03_Admin/Admin_MandatAccessParam.htm#642b3b9347ca42c9b00b820c00c373fa=1">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Добавление штампа маркировки">
+            <param name="Local" value="04_SecurityPolicy/Editor_of_Politicy/Admin_MandatAccess_Marking.htm#642b3b9347ca42c9b00b820c00c373fa=1">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Настройка атрибутного метода">
+          <param name="Local" value="04_SecurityPolicy/Admin_ABAC.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Добавление правил и политик проверки доступа">
+            <param name="Local" value="04_SecurityPolicy/Admin_AttributeAccess.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Создание пользовательских атрибутов">
+            <param name="Local" value="04_SecurityPolicy/Creating_attributes.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Цель проверки контроля доступа">
+            <param name="Local" value="04_SecurityPolicy/Target.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Создание дополнительного условия проверки доступа">
+            <param name="Local" value="04_SecurityPolicy/Creating_conditions.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Общие настройки политики">
+          <param name="Local" value="04_SecurityPolicy/Editor_of_Politicy/Security_EditorPoliticy_General.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Разделение ролей администраторов">
+            <param name="Local" value="04_SecurityPolicy/Editor_of_Politicy/Security_EditorPoliticy_Adm.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Настройки по умолчанию">
+            <param name="Local" value="04_SecurityPolicy/Editor_of_Politicy/Security_EditorPoliticy_General.htm#repo_autorun_obj642b3b9347ca42c9b00b820c00c373fa=1">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Пороговые значения объема протокола доступа">
+            <param name="Local" value="04_SecurityPolicy/Editor_of_Politicy/Security_EditorPoliticy_General.htm#threshold_values642b3b9347ca42c9b00b820c00c373fa=2">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Формат идентификаторов">
+            <param name="Local" value="04_SecurityPolicy/Editor_of_Politicy/Security_EditorPoliticy_General.htm#identifier_format642b3b9347ca42c9b00b820c00c373fa=3">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Разрешённые форматы документов в репозитории">
+            <param name="Local" value="04_SecurityPolicy/Editor_of_Politicy/Security_EditorPoliticy_General.htm#limitation642b3b9347ca42c9b00b820c00c373fa=4">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Контроль версий объектов при обновлении">
+            <param name="Local" value="04_SecurityPolicy/Editor_of_Politicy/Security_EditorPoliticy_General.htm#version_control642b3b9347ca42c9b00b820c00c373fa=5">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Экспорт политики безопасности и прав доступа">
+            <param name="Local" value="04_SecurityPolicy/PolicyExport.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Настройка проверки паролей пользователей">
+          <param name="Local" value="04_SecurityPolicy/Editor_of_Politicy/Security_EditorPoliticy_General_Parole.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Дополнительные настройки контроля доступа">
+          <param name="Local" value="03_Admin/Access_control_settings.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Настройка доступа рабочих станций и принтеров">
+          <param name="Local" value="03_Admin/Workstation_and_printer_access.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Создание учетных записей пользователей и работа с ними">
+        <param name="Local" value="03_Admin/Users/Admin_Users.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Создание и редактирование учетной записи пользователя">
+          <param name="Local" value="03_Admin/Users/Admin_UserCreate.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Параметры общих свойств">
+            <param name="Local" value="03_Admin/Users/Admin_UserProp_Common.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Определение членства в группах">
+            <param name="Local" value="03_Admin/Users/Admin_UserProp_Groups.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Настройка мандатного доступа">
+            <param name="Local" value="03_Admin/Users/Admin_UserProp_MC.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Выбор уровня безопасности">
+            <param name="Local" value="03_Admin/Users/Admin_UserProp_SecLevels.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Управление доступом пользователя">
+            <param name="Local" value="03_Admin/Users/Admin_UserProp_Time.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Добавление значений атрибутам пользователя">
+            <param name="Local" value="03_Admin/Users/Admin_UserProp_Attributes.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Настройка доступа к принтерам">
+            <param name="Local" value="03_Admin/Users/Admin_UserProp_Printer.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Редактирование служебного пользователя">
+          <param name="Local" value="03_Admin/Users/Admin_Service_User.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Подключение доменного пользователя">
+          <param name="Local" value="03_Admin/Users/Admin_UserCreate_Domain.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Механизм работы со службами каталогов">
+            <param name="Local" value="03_Admin/communication_with_ad.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Смена пароля пользователя">
+          <param name="Local" value="03_Admin/Users/Admin_User_EditPass.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Работа с личными папками пользователей">
+          <param name="Local" value="03_Admin/Users/Admin_UserFolder.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Создание пользовательских атрибутов">
+          <param name="Local" value="04_SecurityPolicy/Creating_attributes.htm#642b3b9347ca42c9b00b820c00c373fa=1">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Обновление прав пользователя">
+          <param name="Local" value="03_Admin/Users/Admin_User_Update.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Поиск пользователя">
+          <param name="Local" value="03_Admin/Users/User_search.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Удаление пользователя">
+          <param name="Local" value="03_Admin/Users/Admin_UserDel.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Просмотр подключенных пользователей">
+          <param name="Local" value="03_Admin/Users/Admin_ConnectedUsers.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Просмотр объектов пользователя и группы">
+          <param name="Local" value="03_Admin/Users/Admin_UserObjects.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Выбор пользователей и групп">
+          <param name="Local" value="03_Admin/Admin_UsersGroups.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Выбор рабочих станций">
+          <param name="Local" value="04_SecurityPolicy/Security_chooseWKS.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Создание групп пользователей и работа с ними">
+        <param name="Local" value="03_Admin/Groups/Admin_Groups.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Создание и редактирование группы пользователей">
+          <param name="Local" value="03_Admin/Groups/Admin_GroupsCreate.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Параметры общих свойств">
+            <param name="Local" value="03_Admin/Groups/Admin_GroupProp_Common.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Добавление членов группы пользователей">
+            <param name="Local" value="03_Admin/Groups/Group_Members.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Добавление значений атрибутам группы пользователей">
+            <param name="Local" value="03_Admin/Groups/Admin_GroupProp_Attributes.htm.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Подключение доменной группы">
+          <param name="Local" value="03_Admin/Groups/Admin_GroupsCreateDomain.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Механизм работы со службами каталогов">
+            <param name="Local" value="03_Admin/communication_with_ad.htm#642b3b9347ca42c9b00b820c00c373fa=1">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Создание пользовательских атрибутов">
+          <param name="Local" value="04_SecurityPolicy/Creating_attributes.htm#642b3b9347ca42c9b00b820c00c373fa=2">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Обновление прав группы пользователей">
+          <param name="Local" value="03_Admin/Groups/Groups_Update.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Поиск группы пользователей">
+          <param name="Local" value="03_Admin/Groups/Users_Group_Search.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Удаление группы пользователей">
+          <param name="Local" value="03_Admin/Groups/Admin_GroupsDel.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Просмотр объектов пользователя и группы">
+          <param name="Local" value="03_Admin/Users/Admin_UserObjects.htm#642b3b9347ca42c9b00b820c00c373fa=1">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Выбор пользователей и групп">
+          <param name="Local" value="03_Admin/Admin_UsersGroups.htm#642b3b9347ca42c9b00b820c00c373fa=1">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Распределение привилегий">
+        <param name="Local" value="04_SecurityPolicy/Admin_Priv.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Настройка прав доступа к объектам">
+        <param name="Local" value="02_ComonFunction/Admin_SecManager_CommonFunction.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Параметры управления доступом">
+          <param name="Local" value="03_Admin/Admin_AdminObjects.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Настройка параметров при дискреционном контроле">
+            <param name="Local" value="03_Admin/Admin_AdminObjects_Discretionary.htm">
+          </object>
+          <ul>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Дополнительные параметры безопасности">
+              <param name="Local" value="03_Admin/Admin_AdminObjects_Extra.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Права доступа к данным базы данных временных рядов">
+              <param name="Local" value="03_Admin/DataAccess/Admin_Data_Access_Right.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            </ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Настройка параметров при мандатном доступе">
+            <param name="Local" value="03_Admin/Admin_AdminObjects_Mandate.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Настройка параметров уровней безопасности">
+            <param name="Local" value="03_Admin/Admin_AdminObjects_Discretionary_seclevels.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Настройка аудита">
+            <param name="Local" value="03_Admin/Admin_AdminObjects_Audit.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Просмотр эффективных прав">
+            <param name="Local" value="03_Admin/Admin_AdminObjects_Effective.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Настройка меток безопасности">
+            <param name="Local" value="03_Admin/Admin_AdminObjects_Marks.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Настройка прав доступа на связанные объекты">
+            <param name="Local" value="03_Admin/Admin_AdminObjects_DiscretionaryUseObject.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Просмотр прав доступа">
+          <param name="Local" value="02_ComonFunction/Admin_Access_Permissions.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Права доступа на элементы справочников НСИ">
+          <param name="Local" value="03_Admin/Admin_ElementAccess.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Настройка аудита действий пользователя">
+        <param name="Local" value="04_SecurityPolicy/Admin_Object_Classes.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Классы объектов">
+          <param name="Local" value="04_SecurityPolicy/Object_classes.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Выбор операций аудита и истории">
+          <param name="Local" value="04_SecurityPolicy/Admin_PermSep_AuditPermission.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Создание пользовательских атрибутов">
+          <param name="Local" value="04_SecurityPolicy/Creating_attributes.htm#642b3b9347ca42c9b00b820c00c373fa=3">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Добавление атрибутов отдельным типам объектов">
+          <param name="Local" value="04_SecurityPolicy/Admin_PermSep_Attributes.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Настройка отображения списка">
+        <param name="Local" value="03_Admin/Admin_AdminObjects_AuditTuning.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Отслеживание нарушений защиты системы">
+      <param name="Local" value="06_MonitoringViolations/Monitoring_system.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Протокол доступа">
+        <param name="Local" value="05_AccessProtocol/Admin_AccessProtocol.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Загрузка протокола доступа">
+          <param name="Local" value="05_AccessProtocol/Admin_AcessProtocol_ViewSaved.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Настройка протокола доступа">
+          <param name="Local" value="05_AccessProtocol/Admin_AccessProtocol_Sets.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Вид отображения протокола доступа">
+          <param name="Local" value="05_AccessProtocol/Admin_AccessProtocol_View.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Поиск в протоколе доступа">
+          <param name="Local" value="05_AccessProtocol/Admin_AccessProtocol_Search.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Фильтрация протокола доступа">
+          <param name="Local" value="05_AccessProtocol/Admin_AccessProtocol_Filter_Apply.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Фильтры протокола доступа">
+            <param name="Local" value="05_AccessProtocol/Admin_AccessProtocol_Filter_All.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Свойства фильтра протокола доступа">
+            <param name="Local" value="05_AccessProtocol/Admin_AccessProtocol_Filter.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Редактирование условия фильтрации">
+            <param name="Local" value="05_AccessProtocol/Admin_AccessProtocol_FilterEdit.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Информация о событии">
+          <param name="Local" value="05_AccessProtocol/Admin_EventData.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Протоколируемые операции">
+            <param name="Local" value="05_AccessProtocol/Admin_AccessProtocol_EvetsType.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Сохранение протокола доступа в файл">
+          <param name="Local" value="05_AccessProtocol/Admin_AccessProtocol_Save.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Протоколирование операций в файл">
+          <param name="Local" value="05_AccessProtocol/Logging_operations.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Предварительный просмотр и печать">
+          <param name="Local" value="05_AccessProtocol/Admin_AccessProtocolPrint.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Очистка протокола доступа">
+          <param name="Local" value="05_AccessProtocol/Admin_AccessProtoclo_Clean.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Мониторинг нарушений защиты">
+        <param name="Local" value="06_MonitoringViolations/Admin_MonitoringViolations.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Сервисное обслуживание репозитория">
+      <param name="Local" value="04_SecurityPolicy/Admin_Service.htm">
+      <param name="ImageNumber" value="11">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Контроль целостности продукта и метаданных">
+      <param name="Local" value="04_SecurityPolicy/Integrity_control.htm">
+      <param name="ImageNumber" value="11">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Руководство по комплексу средств защиты">
+      <param name="Local" value="SecurityFacilities/SecurityFacilities.htm">
+      <param name="ImageNumber" value="11">
+      <param name="x-condition" value="Public">
+    </object>
+    </ul>
+</ul>
+</html>

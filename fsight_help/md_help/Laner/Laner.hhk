@@ -1,0 +1,2928 @@
+<html>
+<!-- Sitemap 1.0 -->
+<object type="text/site properties">
+  <param name="SiteType" value="index">
+</object>
+<ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Сборка Laner">
+    <param name="Name" value="Сборка Laner">
+    <param name="Local" value="Laner_Title.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Примеры">
+      <param name="Name" value="Примеры: Сборка Laner">
+      <param name="Local" value="Samples/Laner_Samples.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Интерфейсы сборки Laner">
+      <param name="Name" value="Интерфейсы сборки Laner">
+      <param name="Local" value="Interface/Laner_Interface.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Перечисления сборки Laner">
+      <param name="Name" value="Перечисления сборки Laner">
+      <param name="Local" value="Enums/Laner_Enums.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Классы сборки Laner">
+      <param name="Name" value="Классы сборки Laner">
+      <param name="Local" value="Class/Laner_Class.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Введение в сборку Laner">
+      <param name="Name" value="Введение: Сборка Laner">
+      <param name="Local" value="Laner.htm">
+    </object>
+    </ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Настройка отображаемых атрибутов">
+    <param name="Name" value="Настройка отображаемых атрибутов и всплывающей подсказки">
+    <param name="Local" value="Samples/Visible_attributes.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Настройка и применение правила валидации">
+    <param name="Name" value="Настройка и применение валидации">
+    <param name="Local" value="Samples/Validation_rule.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Настройка заголовка рабочей книги">
+    <param name="Name" value="Настройка заголовка листа рабочей книги">
+    <param name="Local" value="Samples/Setup_title.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Настройка набора отображаемых рядов">
+    <param name="Name" value="Изменение типа диаграммы и настройка набора отображаемых рядов">
+    <param name="Local" value="Samples/Edit_Chart.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Изменение типа диаграммы">
+    <param name="Name" value="Изменение типа диаграммы и настройка набора отображаемых рядов">
+    <param name="Local" value="Samples/Edit_Chart.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Порядок календаря">
+    <param name="Name" value="Изменение границ периода отображения данных и порядка календаря">
+    <param name="Local" value="Samples/Change_calendar_period.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Изменение порядка календаря">
+    <param name="Name" value="Изменение границ периода отображения данных и порядка календаря">
+    <param name="Local" value="Samples/Change_calendar_period.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Изменение периода отображения данных">
+    <param name="Name" value="Изменение границ периода отображения данных и порядка календаря">
+    <param name="Local" value="Samples/Change_calendar_period.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Создание правила валидации">
+    <param name="Name" value="Создание правила валидации">
+    <param name="Local" value="Samples/Apply_validation_rule.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerSerie.ReadOnly">
+    <param name="Name" value="ILanerSerie.ReadOnly">
+    <param name="Local" value="Interface/ILanerSerie/ILanerSerie.ReadOnly.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IdentByFact">
+    <param name="Name" value="ILaner.IdentByFact">
+    <param name="Local" value="Interface/ILaner/ILaner.IdentByFact.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILaner.IdentByFact">
+    <param name="Name" value="ILaner.IdentByFact">
+    <param name="Local" value="Interface/ILaner/ILaner.IdentByFact.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ParamId">
+    <param name="Name" value="ILanerMetaAttributeValue.ParamId">
+    <param name="Local" value="Interface/ILanerMetaAttributeValue/ILanerMetaAttributeValue.ParamId.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerMetaAttributeValue.ParamId">
+    <param name="Name" value="ILanerMetaAttributeValue.ParamId">
+    <param name="Local" value="Interface/ILanerMetaAttributeValue/ILanerMetaAttributeValue.ParamId.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Refresh">
+    <param name="Name" value="ILaner.Refresh">
+    <param name="Local" value="Interface/ILaner/ILaner.Refresh.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILaner.Refresh">
+    <param name="Name" value="ILaner.Refresh">
+    <param name="Local" value="Interface/ILaner/ILaner.Refresh.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILaner.EndDateParamId">
+    <param name="Name" value="ILaner.EndDateParamId">
+    <param name="Local" value="Interface/ILaner/ILaner.EndDateParamId.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILaner.StartDateParamId">
+    <param name="Name" value="ILaner.StartDateParamId">
+    <param name="Local" value="Interface/ILaner/ILaner.StartDateParamId.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IdentificationEndDateParamId">
+    <param name="Name" value="ILanerTransformPeriod.IdentificationEndDateParamId">
+    <param name="Local" value="Interface/ILanerTransformPeriod/ILanerTransformPeriod.IdentificationEndDateParamId.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerTransformPeriod.IdentificationEndDateParamId">
+    <param name="Name" value="ILanerTransformPeriod.IdentificationEndDateParamId">
+    <param name="Local" value="Interface/ILanerTransformPeriod/ILanerTransformPeriod.IdentificationEndDateParamId.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Настройка и применение валидации">
+    <param name="Name" value="Настройка и применение валидации">
+    <param name="Local" value="Samples/Validation_rule.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerTransformPeriod.EndDateParamId">
+    <param name="Name" value="ILanerTransformPeriod.EndDateParamId">
+    <param name="Local" value="Interface/ILanerTransformPeriod/ILanerTransformPeriod.EndDateParamId.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Синхронизация рядов рабочей книги">
+    <param name="Name" value="Синхронизация рядов рабочей книги">
+    <param name="Local" value="Samples/Laner_Samples_1_LanerContext.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerTransformPeriod.StartDateParamId">
+    <param name="Name" value="ILanerTransformPeriod.StartDateParamId">
+    <param name="Local" value="Interface/ILanerTransformPeriod/ILanerTransformPeriod.StartDateParamId.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="UserName">
+    <param name="Name" value="ILanerSerie.UserName">
+    <param name="Local" value="Interface/ILanerSerie/ILanerSerie.UserName.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerSerie.UserName">
+    <param name="Name" value="ILanerSerie.UserName">
+    <param name="Local" value="Interface/ILanerSerie/ILanerSerie.UserName.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILaner.ValidationExecKey">
+    <param name="Name" value="ILaner.ValidationExecKey">
+    <param name="Local" value="Interface/ILaner/ILaner.ValidationExecKey.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ValidationExecKey">
+    <param name="Name" value="ILaner.ValidationExecKey">
+    <param name="Local" value="Interface/ILaner/ILaner.ValidationExecKey.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="CustomTitle">
+    <param name="Name" value="ILanerColumn.CustomTitle">
+    <param name="Local" value="Interface/ILanerColumn/ILanerColumn.CustomTitle.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerColumn.CustomTitle">
+    <param name="Name" value="ILanerColumn.CustomTitle">
+    <param name="Local" value="Interface/ILanerColumn/ILanerColumn.CustomTitle.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="CellName">
+    <param name="Name" value="ILanerTable.CellName">
+    <param name="Local" value="Interface/ILanerTable/ILanerTable.CellName.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerTable.CellName">
+    <param name="Name" value="ILanerTable.CellName">
+    <param name="Local" value="Interface/ILanerTable/ILanerTable.CellName.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ObservationAttributeInValue">
+    <param name="Name" value="ILanerSerie.ObservationAttributeInValue">
+    <param name="Local" value="Interface/ILanerSerie/ILanerSerie.ObservationAttributeInValue.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerSerie.ObservationAttributeInValue">
+    <param name="Name" value="ILanerSerie.ObservationAttributeInValue">
+    <param name="Local" value="Interface/ILanerSerie/ILanerSerie.ObservationAttributeInValue.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Header">
+    <param name="Name" value="ILanerNameColumn.Header">
+    <param name="Local" value="Interface/ILanerNameColumn/ILanerNameColumn.Header.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerNameColumn.Header">
+    <param name="Name" value="ILanerNameColumn.Header">
+    <param name="Local" value="Interface/ILanerNameColumn/ILanerNameColumn.Header.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerNameColumn">
+    <param name="Name" value="ILanerNameColumn">
+    <param name="Local" value="Interface/ILanerNameColumn/ILanerNameColumn.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="DimensionLevel">
+    <param name="Name" value="ILanerTopHeader.DimensionLevel">
+    <param name="Local" value="Interface/ILanerTopHeader/ILanerTopHeader.DimensionLevel.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerTopHeader.DimensionLevel">
+    <param name="Name" value="ILanerTopHeader.DimensionLevel">
+    <param name="Local" value="Interface/ILanerTopHeader/ILanerTopHeader.DimensionLevel.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerSerie.CalendarDim">
+    <param name="Name" value="ILanerSerie.CalendarDim">
+    <param name="Local" value="Interface/ILanerSerie/ILanerSerie.CalendarDim.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="SortColumnDirection">
+    <param name="Name" value="ILanerSorterHeader.SortColumnDirection">
+    <param name="Local" value="Interface/ILanerSorterHeader/ILanerSorterHeader.SortColumnDirection.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerSorterHeader.SortColumnDirection">
+    <param name="Name" value="ILanerSorterHeader.SortColumnDirection">
+    <param name="Local" value="Interface/ILanerSorterHeader/ILanerSorterHeader.SortColumnDirection.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerSorterHeader.Clear">
+    <param name="Name" value="ILanerSorterHeader.Clear">
+    <param name="Local" value="Interface/ILanerSorterHeader/ILanerSorterHeader.Clear.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerSorterHeader">
+    <param name="Name" value="ILanerSorterHeader">
+    <param name="Local" value="Interface/ILanerSorterHeader/ILanerSorterHeader.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="HeadersSort">
+    <param name="Name" value="ILanerSorter.HeadersSort">
+    <param name="Local" value="Interface/ILanerSorter/ILanerSorter.HeadersSort.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerSorter.HeadersSort">
+    <param name="Name" value="ILanerSorter.HeadersSort">
+    <param name="Local" value="Interface/ILanerSorter/ILanerSorter.HeadersSort.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Sorter">
+    <param name="Name" value="ILaner.Sorter">
+    <param name="Local" value="Interface/ILaner/ILaner.Sorter.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILaner.Sorter">
+    <param name="Name" value="ILaner.Sorter">
+    <param name="Local" value="Interface/ILaner/ILaner.Sorter.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="SeriesDataSort">
+    <param name="Name" value="ILanerSorter.SeriesDataSort">
+    <param name="Local" value="Interface/ILanerSorter/ILanerSorter.SeriesDataSort.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerSorter.SeriesDataSort">
+    <param name="Name" value="ILanerSorter.SeriesDataSort">
+    <param name="Local" value="Interface/ILanerSorter/ILanerSorter.SeriesDataSort.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerSorter">
+    <param name="Name" value="ILanerSorter">
+    <param name="Local" value="Interface/ILanerSorter/ILanerSorter.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerSorterData.Clear">
+    <param name="Name" value="ILanerSorterData.Clear">
+    <param name="Local" value="Interface/ILanerSorterData/ILanerSorterData.Clear.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="SortDirection">
+    <param name="Name" value="ILanerSorterData.SortDirection">
+    <param name="Local" value="Interface/ILanerSorterData/ILanerSorterData.SortDirection.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerSorterData.SortDirection">
+    <param name="Name" value="ILanerSorterData.SortDirection">
+    <param name="Local" value="Interface/ILanerSorterData/ILanerSorterData.SortDirection.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="CalendarElement">
+    <param name="Name" value="ILanerSorterData.CalendarElement">
+    <param name="Local" value="Interface/ILanerSorterData/ILanerSorterData.CalendarElement.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerSorterData.CalendarElement">
+    <param name="Name" value="ILanerSorterData.CalendarElement">
+    <param name="Local" value="Interface/ILanerSorterData/ILanerSorterData.CalendarElement.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerSorterData.Count">
+    <param name="Name" value="ILanerSorterData.Count">
+    <param name="Local" value="Interface/ILanerSorterData/ILanerSorterData.Count.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerSorterData">
+    <param name="Name" value="ILanerSorterData">
+    <param name="Local" value="Interface/ILanerSorterData/ILanerSorterData.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="LnSortDirection">
+    <param name="Name" value="LnSortDirection">
+    <param name="Local" value="Enums/LnSortDirection.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="EndOffset">
+    <param name="Name" value="ILanerTransformPeriod.EndOffset">
+    <param name="Local" value="Interface/ILanerTransformPeriod/ILanerTransformPeriod.EndOffset.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerTransformPeriod.EndOffset">
+    <param name="Name" value="ILanerTransformPeriod.EndOffset">
+    <param name="Local" value="Interface/ILanerTransformPeriod/ILanerTransformPeriod.EndOffset.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IdentificationEndOffset">
+    <param name="Name" value="ILanerTransformPeriod.IdentificationEndOffset">
+    <param name="Local" value="Interface/ILanerTransformPeriod/ILanerTransformPeriod.IdentificationEndOffset.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerTransformPeriod.IdentificationEndOffset">
+    <param name="Name" value="ILanerTransformPeriod.IdentificationEndOffset">
+    <param name="Local" value="Interface/ILanerTransformPeriod/ILanerTransformPeriod.IdentificationEndOffset.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="StartOffset">
+    <param name="Name" value="ILanerTransformPeriod.StartOffset">
+    <param name="Local" value="Interface/ILanerTransformPeriod/ILanerTransformPeriod.StartOffset.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerTransformPeriod.StartOffset">
+    <param name="Name" value="ILanerTransformPeriod.StartOffset">
+    <param name="Local" value="Interface/ILanerTransformPeriod/ILanerTransformPeriod.StartOffset.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="AutoPeriod">
+    <param name="Name" value="ILanerTransformPeriod.AutoPeriod">
+    <param name="Local" value="Interface/ILanerTransformPeriod/ILanerTransformPeriod.AutoPeriod.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerTransformPeriod.AutoPeriod">
+    <param name="Name" value="ILanerTransformPeriod.AutoPeriod">
+    <param name="Local" value="Interface/ILanerTransformPeriod/ILanerTransformPeriod.AutoPeriod.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IdentificationEndDate">
+    <param name="Name" value="ILanerTransformPeriod.IdentificationEndDate">
+    <param name="Local" value="Interface/ILanerTransformPeriod/ILanerTransformPeriod.IdentificationEndDate.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerTransformPeriod.IdentificationEndDate">
+    <param name="Name" value="ILanerTransformPeriod.IdentificationEndDate">
+    <param name="Local" value="Interface/ILanerTransformPeriod/ILanerTransformPeriod.IdentificationEndDate.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="CreateCopy">
+    <param name="Name" value="ILanerContext.CreateCopy">
+    <param name="Local" value="Interface/ILanerContext/ILanerContext.CreateCopy.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerContext.CreateCopy">
+    <param name="Name" value="ILanerContext.CreateCopy">
+    <param name="Local" value="Interface/ILanerContext/ILanerContext.CreateCopy.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerContext.LoadFromStream">
+    <param name="Name" value="ILanerContext.LoadFromStream">
+    <param name="Local" value="Interface/ILanerContext/ILanerContext.LoadFromStream.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerContext.SaveToStream">
+    <param name="Name" value="ILanerContext.SaveToStream">
+    <param name="Local" value="Interface/ILanerContext/ILanerContext.SaveToStream.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="FindSerieByStubKey">
+    <param name="Name" value="ILanerContext.FindSerieByStubKey">
+    <param name="Local" value="Interface/ILanerContext/ILanerContext.FindSerieByStubKey.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerContext.FindSerieByStubKey">
+    <param name="Name" value="ILanerContext.FindSerieByStubKey">
+    <param name="Local" value="Interface/ILanerContext/ILanerContext.FindSerieByStubKey.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="EndLoad">
+    <param name="Name" value="ILanerContext.EndLoad">
+    <param name="Local" value="Interface/ILanerContext/ILanerContext.EndLoad.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerContext.EndLoad">
+    <param name="Name" value="ILanerContext.EndLoad">
+    <param name="Local" value="Interface/ILanerContext/ILanerContext.EndLoad.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="BeginLoad">
+    <param name="Name" value="ILanerContext.BeginLoad">
+    <param name="Local" value="Interface/ILanerContext/ILanerContext.BeginLoad.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerContext.BeginLoad">
+    <param name="Name" value="ILanerContext.BeginLoad">
+    <param name="Local" value="Interface/ILanerContext/ILanerContext.BeginLoad.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="DataLoadEndDate">
+    <param name="Name" value="ILanerContext.DataLoadEndDate">
+    <param name="Local" value="Interface/ILanerContext/ILanerContext.DataLoadEndDate.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerContext.DataLoadEndDate">
+    <param name="Name" value="ILanerContext.DataLoadEndDate">
+    <param name="Local" value="Interface/ILanerContext/ILanerContext.DataLoadEndDate.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="DataLoadStartDate">
+    <param name="Name" value="ILanerContext.DataLoadStartDate">
+    <param name="Local" value="Interface/ILanerContext/ILanerContext.DataLoadStartDate.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerContext.DataLoadStartDate">
+    <param name="Name" value="ILanerContext.DataLoadStartDate">
+    <param name="Local" value="Interface/ILanerContext/ILanerContext.DataLoadStartDate.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IsInContext">
+    <param name="Name" value="ILaner.IsInContext">
+    <param name="Local" value="Interface/ILaner/ILaner.IsInContext.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILaner.IsInContext">
+    <param name="Name" value="ILaner.IsInContext">
+    <param name="Local" value="Interface/ILaner/ILaner.IsInContext.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILaner.Dependents">
+    <param name="Name" value="ILaner.Dependents">
+    <param name="Local" value="Interface/ILaner/ILaner.Dependents.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILaner.Dependencies">
+    <param name="Name" value="ILaner.Dependencies">
+    <param name="Local" value="Interface/ILaner/ILaner.Dependencies.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ReleaseCellValue">
+    <param name="Name" value="ILanerTable.ReleaseCellValue">
+    <param name="Local" value="Interface/ILanerTable/ILanerTable.ReleaseCellValue.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerTable.ReleaseCellValue">
+    <param name="Name" value="ILanerTable.ReleaseCellValue">
+    <param name="Local" value="Interface/ILanerTable/ILanerTable.ReleaseCellValue.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerScenarioColumn">
+    <param name="Name" value="ILanerScenarioColumn">
+    <param name="Local" value="Interface/ILanerScenarioColumn/ILanerScenarioColumn.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ScenarioKey">
+    <param name="Name" value="ILanerCalculateSerie.ScenarioKey">
+    <param name="Local" value="Interface/ILanerCalculateSerie/ILanerCalculateSerie.ScenarioKey.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerCalculateSerie.ScenarioKey">
+    <param name="Name" value="ILanerCalculateSerie.ScenarioKey">
+    <param name="Local" value="Interface/ILanerCalculateSerie/ILanerCalculateSerie.ScenarioKey.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ReleaseValues">
+    <param name="Name" value="ILanerCalculateSerie.ReleaseValues">
+    <param name="Local" value="Interface/ILanerCalculateSerie/ILanerCalculateSerie.ReleaseValues.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerCalculateSerie.ReleaseValues">
+    <param name="Name" value="ILanerCalculateSerie.ReleaseValues">
+    <param name="Local" value="Interface/ILanerCalculateSerie/ILanerCalculateSerie.ReleaseValues.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerContext.RefreshData">
+    <param name="Name" value="ILanerContext.RefreshData">
+    <param name="Local" value="Interface/ILanerContext/ILanerContext.RefreshData.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="FactorIndex">
+    <param name="Name" value="ILanerDerivedSerie.FactorIndex">
+    <param name="Local" value="Interface/ILanerDerivedSerie/ILanerDerivedSerie.FactorIndex.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerDerivedSerie.FactorIndex">
+    <param name="Name" value="ILanerDerivedSerie.FactorIndex">
+    <param name="Local" value="Interface/ILanerDerivedSerie/ILanerDerivedSerie.FactorIndex.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="TabStyle">
+    <param name="Name" value="ILanerCellStyle.TabStyle">
+    <param name="Local" value="Interface/ILanerCellStyle/ILanerCellStyle.TabStyle.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerCellStyle.TabStyle">
+    <param name="Name" value="ILanerCellStyle.TabStyle">
+    <param name="Local" value="Interface/ILanerCellStyle/ILanerCellStyle.TabStyle.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Filter">
+    <param name="Name" value="ILaner.Filter">
+    <param name="Local" value="Interface/ILaner/ILaner.Filter.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILaner.Filter">
+    <param name="Name" value="ILaner.Filter">
+    <param name="Local" value="Interface/ILaner/ILaner.Filter.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="SuppressEmptyArea">
+    <param name="Name" value="ILanerFilter.SuppressEmptyArea">
+    <param name="Local" value="Interface/ILanerFilter/ILanerFilter.SuppressEmptyArea.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerFilter.SuppressEmptyArea">
+    <param name="Name" value="ILanerFilter.SuppressEmptyArea">
+    <param name="Local" value="Interface/ILanerFilter/ILanerFilter.SuppressEmptyArea.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerFilter.SuppressEmpty">
+    <param name="Name" value="ILanerFilter.SuppressEmpty">
+    <param name="Local" value="Interface/ILanerFilter/ILanerFilter.SuppressEmpty.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerFilter">
+    <param name="Name" value="ILanerFilter">
+    <param name="Local" value="Interface/ILanerFilter/ILanerFilter.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="LnSuppressEmptyArea">
+    <param name="Name" value="LnSuppressEmptyArea">
+    <param name="Local" value="Enums/LnSuppressEmptyArea.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="HasDiscrepancies">
+    <param name="Name" value="ILanerCalculateSerie.HasDiscrepancies">
+    <param name="Local" value="Interface/ILanerCalculateSerie/ILanerCalculateSerie.HasDiscrepancies.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerCalculateSerie.HasDiscrepancies">
+    <param name="Name" value="ILanerCalculateSerie.HasDiscrepancies">
+    <param name="Local" value="Interface/ILanerCalculateSerie/ILanerCalculateSerie.HasDiscrepancies.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerCalculateSerie.DisplayDataAs">
+    <param name="Name" value="ILanerCalculateSerie.DisplayDataAs">
+    <param name="Local" value="Interface/ILanerCalculateSerie/ILanerCalculateSerie.DisplayDataAs.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="CreateTemporaryTransform">
+    <param name="Name" value="ILanerCalculateSerie.CreateTemporaryTransform">
+    <param name="Local" value="Interface/ILanerCalculateSerie/ILanerCalculateSerie.CreateTemporaryTransform.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerCalculateSerie.CreateTemporaryTransform">
+    <param name="Name" value="ILanerCalculateSerie.CreateTemporaryTransform">
+    <param name="Local" value="Interface/ILanerCalculateSerie/ILanerCalculateSerie.CreateTemporaryTransform.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ShowFullNamesInHints">
+    <param name="Name" value="ILanerAttributeColumns.ShowFullNamesInHints">
+    <param name="Local" value="Interface/ILanerAttributeColumns/ILanerAttributeColumns.ShowFullNamesInHints.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerAttributeColumns.ShowFullNamesInHints">
+    <param name="Name" value="ILanerAttributeColumns.ShowFullNamesInHints">
+    <param name="Local" value="Interface/ILanerAttributeColumns/ILanerAttributeColumns.ShowFullNamesInHints.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ElementFullName">
+    <param name="Name" value="ILanerLeftHeader.ElementFullName">
+    <param name="Local" value="Interface/ILanerLeftHeader/ILanerLeftHeader.ElementFullName.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerLeftHeader.ElementFullName">
+    <param name="Name" value="ILanerLeftHeader.ElementFullName">
+    <param name="Local" value="Interface/ILanerLeftHeader/ILanerLeftHeader.ElementFullName.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="HaveUnsavedData">
+    <param name="Name" value="ILanerSeries.HaveUnsavedData">
+    <param name="Local" value="Interface/ILanerSeries/ILanerSeries.HaveUnsavedData.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerSeries.HaveUnsavedData">
+    <param name="Name" value="ILanerSeries.HaveUnsavedData">
+    <param name="Local" value="Interface/ILanerSeries/ILanerSeries.HaveUnsavedData.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILaner.EndDate">
+    <param name="Name" value="ILaner.EndDate">
+    <param name="Local" value="Interface/ILaner/ILaner.EndDate.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILaner.StartDate">
+    <param name="Name" value="ILaner.StartDate">
+    <param name="Local" value="Interface/ILaner/ILaner.StartDate.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Экспорт рабочей книги в различные форматы">
+    <param name="Name" value="Экспорт рабочей книги в различные форматы">
+    <param name="Local" value="Samples/Workbook_Export.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILaner.DisplayDataAs">
+    <param name="Name" value="ILaner.DisplayDataAs">
+    <param name="Local" value="Interface/ILaner/ILaner.DisplayDataAs.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="LnDataDisplayType">
+    <param name="Name" value="LnDataDisplayType">
+    <param name="Local" value="Enums/LnDataDisplayType.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ApplyFormulaOnce">
+    <param name="Name" value="ILanerCalculateSerie.ApplyFormulaOnce">
+    <param name="Local" value="Interface/ILanerCalculateSerie/ILanerCalculateSerie.ApplyFormulaOnce.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerCalculateSerie.ApplyFormulaOnce">
+    <param name="Name" value="ILanerCalculateSerie.ApplyFormulaOnce">
+    <param name="Local" value="Interface/ILanerCalculateSerie/ILanerCalculateSerie.ApplyFormulaOnce.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerCalculateSerie.TransformPeriod">
+    <param name="Name" value="ILanerCalculateSerie.TransformPeriod">
+    <param name="Local" value="Interface/ILanerCalculateSerie/ILanerCalculateSerie.TransformPeriod.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="PeriodSet">
+    <param name="Name" value="ILanerTransformPeriod.PeriodSet">
+    <param name="Local" value="Interface/ILanerTransformPeriod/ILanerTransformPeriod.PeriodSet.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerTransformPeriod.PeriodSet">
+    <param name="Name" value="ILanerTransformPeriod.PeriodSet">
+    <param name="Local" value="Interface/ILanerTransformPeriod/ILanerTransformPeriod.PeriodSet.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerTransformPeriod.EndDate">
+    <param name="Name" value="ILanerTransformPeriod.EndDate">
+    <param name="Local" value="Interface/ILanerTransformPeriod/ILanerTransformPeriod.EndDate.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Severity">
+    <param name="Name" value="IValidationFilterSettings.Severity">
+    <param name="Local" value="Interface/IValidationFilterSettings/IValidationFilterSettings.Severity.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerTransformPeriod.ForecastStartDate">
+    <param name="Name" value="ILanerTransformPeriod.ForecastStartDate">
+    <param name="Local" value="Interface/ILanerTransformPeriod/ILanerTransformPeriod.ForecastStartDate.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="CreateMetaAttributeValues">
+    <param name="Name" value="ILanerSeries.CreateMetaAttributeValues">
+    <param name="Local" value="Interface/ILanerSeries/ILanerSeries.CreateMetaAttributeValues.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerTransformPeriod.StartDate">
+    <param name="Name" value="ILanerTransformPeriod.StartDate">
+    <param name="Local" value="Interface/ILanerTransformPeriod/ILanerTransformPeriod.StartDate.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerTransformPeriod">
+    <param name="Name" value="ILanerTransformPeriod">
+    <param name="Local" value="Interface/ILanerTransformPeriod/ILanerTransformPeriod.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="LnTransformPeriodSet">
+    <param name="Name" value="LnTransformPeriodSet">
+    <param name="Local" value="Enums/LnTransformPeriodSet.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="PermanentData">
+    <param name="Name" value="ILaner.PermanentData">
+    <param name="Local" value="Interface/ILaner/ILaner.PermanentData.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILaner.PermanentData">
+    <param name="Name" value="ILaner.PermanentData">
+    <param name="Local" value="Interface/ILaner/ILaner.PermanentData.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="CheckAttributesCompliance">
+    <param name="Name" value="ILaner.CheckAttributesCompliance">
+    <param name="Local" value="Interface/ILaner/ILaner.CheckAttributesCompliance.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILaner.CheckAttributesCompliance">
+    <param name="Name" value="ILaner.CheckAttributesCompliance">
+    <param name="Local" value="Interface/ILaner/ILaner.CheckAttributesCompliance.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="RefreshAttributesStructure">
+    <param name="Name" value="ILaner.RefreshAttributesStructure">
+    <param name="Local" value="Interface/ILaner/ILaner.RefreshAttributesStructure.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILaner.RefreshAttributesStructure">
+    <param name="Name" value="ILaner.RefreshAttributesStructure">
+    <param name="Local" value="Interface/ILaner/ILaner.RefreshAttributesStructure.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="FlushCache">
+    <param name="Name" value="ILaner.FlushCache">
+    <param name="Local" value="Interface/ILaner/ILaner.FlushCache.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="MetaAttributeEx">
+    <param name="Name" value="ILanerAttributeColumn.MetaAttributeEx">
+    <param name="Local" value="Interface/ILanerAttributeColumn/ILanerAttributeColumn.MetaAttributeEx.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerAttributeColumn.MetaAttributeEx">
+    <param name="Name" value="ILanerAttributeColumn.MetaAttributeEx">
+    <param name="Local" value="Interface/ILanerAttributeColumn/ILanerAttributeColumn.MetaAttributeEx.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Hint">
+    <param name="Name" value="ILanerSerie.Hint">
+    <param name="Local" value="Interface/ILanerSerie/ILanerSerie.Hint.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerSerie.Hint">
+    <param name="Name" value="ILanerSerie.Hint">
+    <param name="Local" value="Interface/ILanerSerie/ILanerSerie.Hint.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Text">
+    <param name="Name" value="ILanerDatabaseColumn.Text">
+    <param name="Local" value="Interface/ILanerDatabaseColumn/ILanerDatabaseColumn.Text.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerDatabaseColumn.Text">
+    <param name="Name" value="ILanerDatabaseColumn.Text">
+    <param name="Local" value="Interface/ILanerDatabaseColumn/ILanerDatabaseColumn.Text.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerDatabaseColumn">
+    <param name="Name" value="ILanerDatabaseColumn">
+    <param name="Local" value="Interface/ILanerDatabaseColumn/ILanerDatabaseColumn.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="LnDatabaseColumnText">
+    <param name="Name" value="LnDatabaseColumnText">
+    <param name="Local" value="Enums/LnDatabaseColumnText.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="UsedRubricators">
+    <param name="Name" value="ILaner.UsedRubricators">
+    <param name="Local" value="Interface/ILaner/ILaner.UsedRubricators.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILaner.UsedRubricators">
+    <param name="Name" value="ILaner.UsedRubricators">
+    <param name="Local" value="Interface/ILaner/ILaner.UsedRubricators.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILaner.CalendarSelection">
+    <param name="Name" value="ILaner.CalendarSelection">
+    <param name="Local" value="Interface/ILaner/ILaner.CalendarSelection.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerCalculateSerie.CreateDerivedSeries">
+    <param name="Name" value="ILanerCalculateSerie.CreateDerivedSeries">
+    <param name="Local" value="Interface/ILanerCalculateSerie/ILanerCalculateSerie.CreateDerivedSeries.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="CanAddChildren">
+    <param name="Name" value="ILanerGroupSerie.CanAddChildren">
+    <param name="Local" value="Interface/ILanerGroupSerie/ILanerGroupSerie.CanAddChildren.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerGroupSerie.CanAddChildren">
+    <param name="Name" value="ILanerGroupSerie.CanAddChildren">
+    <param name="Local" value="Interface/ILanerGroupSerie/ILanerGroupSerie.CanAddChildren.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="DisplayParams">
+    <param name="Name" value="ILanerSerie.DisplayParams">
+    <param name="Local" value="Interface/ILanerSerie/ILanerSerie.DisplayParams.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerSerie.DisplayParams">
+    <param name="Name" value="ILanerSerie.DisplayParams">
+    <param name="Local" value="Interface/ILanerSerie/ILanerSerie.DisplayParams.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerSerieDisplayParams.SetDefault">
+    <param name="Name" value="ILanerSerieDisplayParams.SetDefault">
+    <param name="Local" value="Interface/ILanerSerieDisplayParams/ILanerSerieDisplayParams.SetDefault.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="PreviousInversionLag">
+    <param name="Name" value="ILanerSerieDisplayParams.PreviousInversionLag">
+    <param name="Local" value="Interface/ILanerSerieDisplayParams/ILanerSerieDisplayParams.PreviousInversionLag.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerSerieDisplayParams.PreviousInversionLag">
+    <param name="Name" value="ILanerSerieDisplayParams.PreviousInversionLag">
+    <param name="Local" value="Interface/ILanerSerieDisplayParams/ILanerSerieDisplayParams.PreviousInversionLag.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="InversionLag">
+    <param name="Name" value="ILanerSerieDisplayParams.InversionLag">
+    <param name="Local" value="Interface/ILanerSerieDisplayParams/ILanerSerieDisplayParams.InversionLag.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerSerieDisplayParams.InversionLag">
+    <param name="Name" value="ILanerSerieDisplayParams.InversionLag">
+    <param name="Local" value="Interface/ILanerSerieDisplayParams/ILanerSerieDisplayParams.InversionLag.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Inversion">
+    <param name="Name" value="ILanerSerieDisplayParams.Inversion">
+    <param name="Local" value="Interface/ILanerSerieDisplayParams/ILanerSerieDisplayParams.Inversion.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerSerieDisplayParams.Inversion">
+    <param name="Name" value="ILanerSerieDisplayParams.Inversion">
+    <param name="Local" value="Interface/ILanerSerieDisplayParams/ILanerSerieDisplayParams.Inversion.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerSerieDisplayParams">
+    <param name="Name" value="ILanerSerieDisplayParams">
+    <param name="Local" value="Interface/ILanerSerieDisplayParams/ILanerSerieDisplayParams.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerInversionColumn">
+    <param name="Name" value="ILanerInversionColumn">
+    <param name="Local" value="Interface/ILanerInversionColumn/ILanerInversionColumn.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="AddByType">
+    <param name="Name" value="ILanerAttributeColumns.AddByType">
+    <param name="Local" value="Interface/ILanerAttributeColumns/ILanerAttributeColumns.AddByType.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerAttributeColumns.AddByType">
+    <param name="Name" value="ILanerAttributeColumns.AddByType">
+    <param name="Local" value="Interface/ILanerAttributeColumns/ILanerAttributeColumns.AddByType.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Column">
+    <param name="Name" value="ILanerAttributeColumns.Column">
+    <param name="Local" value="Interface/ILanerAttributeColumns/ILanerAttributeColumns.Column.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerAttributeColumns.Column">
+    <param name="Name" value="ILanerAttributeColumns.Column">
+    <param name="Local" value="Interface/ILanerAttributeColumns/ILanerAttributeColumns.Column.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerColumn.ReadOnly">
+    <param name="Name" value="ILanerColumn.ReadOnly">
+    <param name="Local" value="Interface/ILanerColumn/ILanerColumn.ReadOnly.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerTable.PrefixValues">
+    <param name="Name" value="ILanerTable.PrefixValues">
+    <param name="Local" value="Interface/ILanerTable/ILanerTable.PrefixValues.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerColumn.Type">
+    <param name="Name" value="ILanerColumn.Type">
+    <param name="Local" value="Interface/ILanerColumn/ILanerColumn.Type.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="LnColumnType">
+    <param name="Name" value="LnColumnType">
+    <param name="Local" value="Enums/LnColumnType.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerColumn">
+    <param name="Name" value="ILanerColumn">
+    <param name="Local" value="Interface/ILanerColumn/ILanerColumn.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="LanerContext">
+    <param name="Name" value="LanerContext">
+    <param name="Local" value="Class/LanerContext/LanerContext.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IsRegistered">
+    <param name="Name" value="ILanerContext.IsRegistered">
+    <param name="Local" value="Interface/ILanerContext/ILanerContext.IsRegistered.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerContext.IsRegistered">
+    <param name="Name" value="ILanerContext.IsRegistered">
+    <param name="Local" value="Interface/ILanerContext/ILanerContext.IsRegistered.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Unregister">
+    <param name="Name" value="ILanerContext.Unregister">
+    <param name="Local" value="Interface/ILanerContext/ILanerContext.Unregister.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerContext.Unregister">
+    <param name="Name" value="ILanerContext.Unregister">
+    <param name="Local" value="Interface/ILanerContext/ILanerContext.Unregister.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Register">
+    <param name="Name" value="ILanerContext.Register">
+    <param name="Local" value="Interface/ILanerContext/ILanerContext.Register.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerContext.Register">
+    <param name="Name" value="ILanerContext.Register">
+    <param name="Local" value="Interface/ILanerContext/ILanerContext.Register.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerContext">
+    <param name="Name" value="ILanerContext">
+    <param name="Local" value="Interface/ILanerContext/ILanerContext.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IndexOfDerivedType">
+    <param name="Name" value="ILanerCalculateSerie.IndexOfDerivedType">
+    <param name="Local" value="Interface/ILanerCalculateSerie/ILanerCalculateSerie.IndexOfDerivedType.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerCalculateSerie.IndexOfDerivedType">
+    <param name="Name" value="ILanerCalculateSerie.IndexOfDerivedType">
+    <param name="Local" value="Interface/ILanerCalculateSerie/ILanerCalculateSerie.IndexOfDerivedType.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="DerivedType">
+    <param name="Name" value="ILanerDerivedSerie.DerivedType">
+    <param name="Local" value="Interface/ILanerDerivedSerie/ILanerDerivedSerie.DerivedType.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerDerivedSerie.DerivedType">
+    <param name="Name" value="ILanerDerivedSerie.DerivedType">
+    <param name="Local" value="Interface/ILanerDerivedSerie/ILanerDerivedSerie.DerivedType.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="LnDerivedSerieType">
+    <param name="Name" value="LnDerivedSerieType">
+    <param name="Local" value="Enums/LnDerivedSerieType.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="DataRights">
+    <param name="Name" value="ILanerTable.DataRights">
+    <param name="Local" value="Interface/ILanerTable/ILanerTable.DataRights.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerTable.DataRights">
+    <param name="Name" value="ILanerTable.DataRights">
+    <param name="Local" value="Interface/ILanerTable/ILanerTable.DataRights.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Paste">
+    <param name="Name" value="ILanerSeries.Paste">
+    <param name="Local" value="Interface/ILanerSeries/ILanerSeries.Paste.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerSeries.Paste">
+    <param name="Name" value="ILanerSeries.Paste">
+    <param name="Local" value="Interface/ILanerSeries/ILanerSeries.Paste.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Copy">
+    <param name="Name" value="ILanerSeries.Copy">
+    <param name="Local" value="Interface/ILanerSeries/ILanerSeries.Copy.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerSeries.Copy">
+    <param name="Name" value="ILanerSeries.Copy">
+    <param name="Local" value="Interface/ILanerSeries/ILanerSeries.Copy.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="CreateSet">
+    <param name="Name" value="ILanerSeries.CreateSet">
+    <param name="Local" value="Interface/ILanerSeries/ILanerSeries.CreateSet.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerSeries.CreateSet">
+    <param name="Name" value="ILanerSeries.CreateSet">
+    <param name="Local" value="Interface/ILanerSeries/ILanerSeries.CreateSet.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILaner.TransformationHistory">
+    <param name="Name" value="ILaner.TransformationHistory">
+    <param name="Local" value="Interface/ILaner/ILaner.TransformationHistory.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerSeriesSet.LoadFromStream">
+    <param name="Name" value="ILanerSeriesSet.LoadFromStream">
+    <param name="Local" value="Interface/ILanerSeriesSet/ILanerSeriesSet.LoadFromStream.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Настройка отображаемых атрибутов и всплывающей подсказки">
+    <param name="Name" value="Настройка отображаемых атрибутов и всплывающей подсказки">
+    <param name="Local" value="Samples/Visible_attributes.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerSeriesSet.SaveToStream">
+    <param name="Name" value="ILanerSeriesSet.SaveToStream">
+    <param name="Local" value="Interface/ILanerSeriesSet/ILanerSeriesSet.SaveToStream.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerSeriesSet.Clear">
+    <param name="Name" value="ILanerSeriesSet.Clear">
+    <param name="Local" value="Interface/ILanerSeriesSet/ILanerSeriesSet.Clear.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerSeriesSet.Remove">
+    <param name="Name" value="ILanerSeriesSet.Remove">
+    <param name="Local" value="Interface/ILanerSeriesSet/ILanerSeriesSet.Remove.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerSeriesSet.Add">
+    <param name="Name" value="ILanerSeriesSet.Add">
+    <param name="Local" value="Interface/ILanerSeriesSet/ILanerSeriesSet.Add.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerSeriesSet">
+    <param name="Name" value="ILanerSeriesSet">
+    <param name="Local" value="Interface/ILanerSeriesSet/ILanerSeriesSet.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="DimensionDate">
+    <param name="Name" value="ILanerTopHeader.DimensionDate">
+    <param name="Local" value="Interface/ILanerTopHeader/ILanerTopHeader.DimensionDate.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerTopHeader.DimensionDate">
+    <param name="Name" value="ILanerTopHeader.DimensionDate">
+    <param name="Local" value="Interface/ILanerTopHeader/ILanerTopHeader.DimensionDate.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="AddCalculateSerieAsSource">
+    <param name="Name" value="ILanerSeries.AddCalculateSerieAsSource">
+    <param name="Local" value="Interface/ILanerSeries/ILanerSeries.AddCalculateSerieAsSource.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerSeries.AddCalculateSerieAsSource">
+    <param name="Name" value="ILanerSeries.AddCalculateSerieAsSource">
+    <param name="Local" value="Interface/ILanerSeries/ILanerSeries.AddCalculateSerieAsSource.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerCalculateSerie.RevisionKey">
+    <param name="Name" value="ILanerCalculateSerie.RevisionKey">
+    <param name="Local" value="Interface/ILanerCalculateSerie/ILanerCalculateSerie.RevisionKey.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="UseTransform">
+    <param name="Name" value="ILanerCalculateSerie.UseTransform">
+    <param name="Local" value="Interface/ILanerCalculateSerie/ILanerCalculateSerie.UseTransform.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerCalculateSerie.UseTransform">
+    <param name="Name" value="ILanerCalculateSerie.UseTransform">
+    <param name="Local" value="Interface/ILanerCalculateSerie/ILanerCalculateSerie.UseTransform.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="SourceStub">
+    <param name="Name" value="ILanerCalculateSerie.SourceStub">
+    <param name="Local" value="Interface/ILanerCalculateSerie/ILanerCalculateSerie.SourceStub.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerCalculateSerie.SourceStub">
+    <param name="Name" value="ILanerCalculateSerie.SourceStub">
+    <param name="Local" value="Interface/ILanerCalculateSerie/ILanerCalculateSerie.SourceStub.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerCalculateSerie.Source">
+    <param name="Name" value="ILanerCalculateSerie.Source">
+    <param name="Local" value="Interface/ILanerCalculateSerie/ILanerCalculateSerie.Source.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerSerie.Laner">
+    <param name="Name" value="ILanerSerie.Laner">
+    <param name="Local" value="Interface/ILanerSerie/ILanerSerie.Laner.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ObservationValue">
+    <param name="Name" value="ILanerSerie.ObservationValue">
+    <param name="Local" value="Interface/ILanerSerie/ILanerSerie.ObservationValue.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerSerie.ObservationValue">
+    <param name="Name" value="ILanerSerie.ObservationValue">
+    <param name="Local" value="Interface/ILanerSerie/ILanerSerie.ObservationValue.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="RemoveGroupedByKey">
+    <param name="Name" value="ILanerSeries.RemoveGroupedByKey">
+    <param name="Local" value="Interface/ILanerSeries/ILanerSeries.RemoveGroupedByKey.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerSeries.RemoveGroupedByKey">
+    <param name="Name" value="ILanerSeries.RemoveGroupedByKey">
+    <param name="Local" value="Interface/ILanerSeries/ILanerSeries.RemoveGroupedByKey.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="AddEmptyGroup">
+    <param name="Name" value="ILanerSeries.AddEmptyGroup">
+    <param name="Local" value="Interface/ILanerSeries/ILanerSeries.AddEmptyGroup.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerSeries.AddEmptyGroup">
+    <param name="Name" value="ILanerSeries.AddEmptyGroup">
+    <param name="Local" value="Interface/ILanerSeries/ILanerSeries.AddEmptyGroup.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Parent">
+    <param name="Name" value="ILanerSerie.Parent">
+    <param name="Local" value="Interface/ILanerSerie/ILanerSerie.Parent.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerSerie.Parent">
+    <param name="Name" value="ILanerSerie.Parent">
+    <param name="Local" value="Interface/ILanerSerie/ILanerSerie.Parent.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="MoveToParent">
+    <param name="Name" value="ILanerSerie.MoveToParent">
+    <param name="Local" value="Interface/ILanerSerie/ILanerSerie.MoveToParent.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerSerie.MoveToParent">
+    <param name="Name" value="ILanerSerie.MoveToParent">
+    <param name="Local" value="Interface/ILanerSerie/ILanerSerie.MoveToParent.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="CellType">
+    <param name="Name" value="ILanerTable.CellType">
+    <param name="Local" value="Interface/ILanerTable/ILanerTable.CellType.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerTable.CellType">
+    <param name="Name" value="ILanerTable.CellType">
+    <param name="Local" value="Interface/ILanerTable/ILanerTable.CellType.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IValidationFilterSettings.CellStyle">
+    <param name="Name" value="IValidationFilterSettings.CellStyle">
+    <param name="Local" value="Interface/IValidationFilterSettings/IValidationFilterSettings.CellStyle.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IsEditing">
+    <param name="Name" value="ILanerTable.IsEditing">
+    <param name="Local" value="Interface/ILanerTable/ILanerTable.IsEditing.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILaner.CellStyle">
+    <param name="Name" value="ILaner.CellStyle">
+    <param name="Local" value="Interface/ILaner/ILaner.CellStyle.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Assign">
+    <param name="Name" value="ILanerCellStyle.Assign">
+    <param name="Local" value="Interface/ILanerCellStyle/ILanerCellStyle.Assign.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerCellStyle.Assign">
+    <param name="Name" value="ILanerCellStyle.Assign">
+    <param name="Local" value="Interface/ILanerCellStyle/ILanerCellStyle.Assign.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Создание и настройка вычисляемого ряда">
+    <param name="Name" value="Создание и настройка вычисляемого ряда">
+    <param name="Local" value="Samples/Calculated_series.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerCellStyle.SetDefault">
+    <param name="Name" value="ILanerCellStyle.SetDefault">
+    <param name="Local" value="Interface/ILanerCellStyle/ILanerCellStyle.SetDefault.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerCellStyle">
+    <param name="Name" value="ILanerCellStyle">
+    <param name="Local" value="Interface/ILanerCellStyle/ILanerCellStyle.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="LnCellType">
+    <param name="Name" value="LnCellType">
+    <param name="Local" value="Enums/LnCellType.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="SelectedUnit">
+    <param name="Name" value="ILanerSerie.SelectedUnit">
+    <param name="Local" value="Interface/ILanerSerie/ILanerSerie.SelectedUnit.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerSerie.SelectedUnit">
+    <param name="Name" value="ILanerSerie.SelectedUnit">
+    <param name="Local" value="Interface/ILanerSerie/ILanerSerie.SelectedUnit.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerCalculateSerie.Save">
+    <param name="Name" value="ILanerCalculateSerie.Save">
+    <param name="Local" value="Interface/ILanerCalculateSerie/ILanerCalculateSerie.Save.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="AddCalculateSerieAsLocal">
+    <param name="Name" value="ILanerSeries.AddCalculateSerieAsLocal">
+    <param name="Local" value="Interface/ILanerSeries/ILanerSeries.AddCalculateSerieAsLocal.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerSeries.AddCalculateSerieAsLocal">
+    <param name="Name" value="ILanerSeries.AddCalculateSerieAsLocal">
+    <param name="Local" value="Interface/ILanerSeries/ILanerSeries.AddCalculateSerieAsLocal.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="LnSerieFactorSearchResult">
+    <param name="Name" value="LnSerieFactorSearchResult">
+    <param name="Local" value="Enums/LnSerieFactorSearchResult.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="SearchFactor">
+    <param name="Name" value="ILanerSerie.SearchFactor">
+    <param name="Local" value="Interface/ILanerSerie/ILanerSerie.SearchFactor.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerSerie.SearchFactor">
+    <param name="Name" value="ILanerSerie.SearchFactor">
+    <param name="Local" value="Interface/ILanerSerie/ILanerSerie.SearchFactor.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerSerie.IsChanged">
+    <param name="Name" value="ILanerSerie.IsChanged">
+    <param name="Local" value="Interface/ILanerSerie/ILanerSerie.IsChanged.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="StrictlyDefined">
+    <param name="Name" value="ILanerSerie.StrictlyDefined">
+    <param name="Local" value="Interface/ILanerSerie/ILanerSerie.StrictlyDefined.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerSerie.StrictlyDefined">
+    <param name="Name" value="ILanerSerie.StrictlyDefined">
+    <param name="Local" value="Interface/ILanerSerie/ILanerSerie.StrictlyDefined.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="LnChangeType">
+    <param name="Name" value="LnChangeType">
+    <param name="Local" value="Enums/LnChangeType.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ObservationAttributeInComment">
+    <param name="Name" value="ILaner.ObservationAttributeInComment">
+    <param name="Local" value="Interface/ILaner/ILaner.ObservationAttributeInComment.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILaner.ObservationAttributeInComment">
+    <param name="Name" value="ILaner.ObservationAttributeInComment">
+    <param name="Local" value="Interface/ILaner/ILaner.ObservationAttributeInComment.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerHeader.ReadOnly">
+    <param name="Name" value="ILanerHeader.ReadOnly">
+    <param name="Local" value="Interface/ILanerHeader/ILanerHeader.ReadOnly.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerAttributeColumns.Remove">
+    <param name="Name" value="ILanerAttributeColumns.Remove">
+    <param name="Local" value="Interface/ILanerAttributeColumns/ILanerAttributeColumns.Remove.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Move">
+    <param name="Name" value="ILanerAttributeColumns.Move">
+    <param name="Local" value="Interface/ILanerAttributeColumns/ILanerAttributeColumns.Move.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerAttributeColumns.Move">
+    <param name="Name" value="ILanerAttributeColumns.Move">
+    <param name="Local" value="Interface/ILanerAttributeColumns/ILanerAttributeColumns.Move.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerAttributeColumns.Count">
+    <param name="Name" value="ILanerAttributeColumns.Count">
+    <param name="Local" value="Interface/ILanerAttributeColumns/ILanerAttributeColumns.Count.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerAttributeColumns.Clear">
+    <param name="Name" value="ILanerAttributeColumns.Clear">
+    <param name="Local" value="Interface/ILanerAttributeColumns/ILanerAttributeColumns.Clear.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerAttributeColumns">
+    <param name="Name" value="ILanerAttributeColumns">
+    <param name="Local" value="Interface/ILanerAttributeColumns/ILanerAttributeColumns.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Введение">
+    <param name="Name" value="Введение: Сборка Laner">
+    <param name="Local" value="Laner.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerCellAttribute">
+    <param name="Name" value="ILanerCellAttribute">
+    <param name="Local" value="Interface/ILanerCellAttribute/ILanerCellAttribute.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerAttributeColumn.NamingFormat">
+    <param name="Name" value="ILanerAttributeColumn.NamingFormat">
+    <param name="Local" value="Interface/ILanerAttributeColumn/ILanerAttributeColumn.NamingFormat.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="MetaAttribute">
+    <param name="Name" value="ILanerAttributeColumn.MetaAttribute">
+    <param name="Local" value="Interface/ILanerAttributeColumn/ILanerAttributeColumn.MetaAttribute.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerAttributeColumn.MetaAttribute">
+    <param name="Name" value="ILanerAttributeColumn.MetaAttribute">
+    <param name="Local" value="Interface/ILanerAttributeColumn/ILanerAttributeColumn.MetaAttribute.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerAttributeColumn">
+    <param name="Name" value="ILanerAttributeColumn">
+    <param name="Local" value="Interface/ILanerAttributeColumn/ILanerAttributeColumn.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="AttributeColumns">
+    <param name="Name" value="ILaner.AttributeColumns">
+    <param name="Local" value="Interface/ILaner/ILaner.AttributeColumns.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILaner.AttributeColumns">
+    <param name="Name" value="ILaner.AttributeColumns">
+    <param name="Local" value="Interface/ILaner/ILaner.AttributeColumns.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ValidationSeverity">
+    <param name="Name" value="ValidationSeverity">
+    <param name="Local" value="Enums/ValidationSeverity.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="LnSerieKind">
+    <param name="Name" value="LnSerieKind">
+    <param name="Local" value="Enums/LnSerieKind.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="LnSaveOptions">
+    <param name="Name" value="LnSaveOptions">
+    <param name="Local" value="Enums/LnSaveOptions.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Create">
+    <param name="Name" value="LanerFactory.Create">
+    <param name="Local" value="Class/LanerFactory/LanerFactory.Create.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="LanerFactory.Create">
+    <param name="Name" value="LanerFactory.Create">
+    <param name="Local" value="Class/LanerFactory/LanerFactory.Create.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="LanerFactory">
+    <param name="Name" value="LanerFactory">
+    <param name="Local" value="Class/LanerFactory/LanerFactory.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IValidationFilterSettings.Severity">
+    <param name="Name" value="IValidationFilterSettings.Severity">
+    <param name="Local" value="Interface/IValidationFilterSettings/IValidationFilterSettings.Severity.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Изменение границ периода отображения данных и порядка календаря">
+    <param name="Name" value="Изменение границ периода отображения данных и порядка календаря">
+    <param name="Local" value="Samples/Change_calendar_period.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Настройка перечня рассчитываемых статистик">
+    <param name="Name" value="Настройка перечня рассчитываемых статистик">
+    <param name="Local" value="Samples/Statistics.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Visible">
+    <param name="Name" value="ILanerSerie.Visible">
+    <param name="Local" value="Interface/ILanerSerie/ILanerSerie.Visible.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IValidationFilterSettings">
+    <param name="Name" value="IValidationFilterSettings">
+    <param name="Local" value="Interface/IValidationFilterSettings/IValidationFilterSettings.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Settings">
+    <param name="Name" value="IValidationFilterModel.Settings">
+    <param name="Local" value="Interface/IValidationFilterModel/IValidationFilterModel.Settings.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IValidationFilterModel.Settings">
+    <param name="Name" value="IValidationFilterModel.Settings">
+    <param name="Local" value="Interface/IValidationFilterModel/IValidationFilterModel.Settings.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IValidationFilterModel">
+    <param name="Name" value="IValidationFilterModel">
+    <param name="Local" value="Interface/IValidationFilterModel/IValidationFilterModel.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="DimensionElement">
+    <param name="Name" value="ILanerTopHeader.DimensionElement">
+    <param name="Local" value="Interface/ILanerTopHeader/ILanerTopHeader.DimensionElement.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerTopHeader.DimensionElement">
+    <param name="Name" value="ILanerTopHeader.DimensionElement">
+    <param name="Local" value="Interface/ILanerTopHeader/ILanerTopHeader.DimensionElement.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerTopHeader">
+    <param name="Name" value="ILanerTopHeader">
+    <param name="Local" value="Interface/ILanerTopHeader/ILanerTopHeader.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILaner.Update">
+    <param name="Name" value="ILaner.Update">
+    <param name="Local" value="Interface/ILaner/ILaner.Update.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="TopHeader">
+    <param name="Name" value="ILanerTable.TopHeader">
+    <param name="Local" value="Interface/ILanerTable/ILanerTable.TopHeader.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerTable.TopHeader">
+    <param name="Name" value="ILanerTable.TopHeader">
+    <param name="Local" value="Interface/ILanerTable/ILanerTable.TopHeader.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerTable.RowCount">
+    <param name="Name" value="ILanerTable.RowCount">
+    <param name="Local" value="Interface/ILanerTable/ILanerTable.RowCount.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Post">
+    <param name="Name" value="ILanerTable.Post">
+    <param name="Local" value="Interface/ILanerTable/ILanerTable.Post.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerTable.Post">
+    <param name="Name" value="ILanerTable.Post">
+    <param name="Local" value="Interface/ILanerTable/ILanerTable.Post.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="LeftHeader">
+    <param name="Name" value="ILanerTable.LeftHeader">
+    <param name="Local" value="Interface/ILanerTable/ILanerTable.LeftHeader.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerTable.LeftHeader">
+    <param name="Name" value="ILanerTable.LeftHeader">
+    <param name="Local" value="Interface/ILanerTable/ILanerTable.LeftHeader.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IsVirtualCell">
+    <param name="Name" value="ILanerTable.IsVirtualCell">
+    <param name="Local" value="Interface/ILanerTable/ILanerTable.IsVirtualCell.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerTable.IsVirtualCell">
+    <param name="Name" value="ILanerTable.IsVirtualCell">
+    <param name="Local" value="Interface/ILanerTable/ILanerTable.IsVirtualCell.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IsEvaluatedCell">
+    <param name="Name" value="ILanerTable.IsEvaluatedCell">
+    <param name="Local" value="Interface/ILanerTable/ILanerTable.IsEvaluatedCell.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerTable.IsEvaluatedCell">
+    <param name="Name" value="ILanerTable.IsEvaluatedCell">
+    <param name="Local" value="Interface/ILanerTable/ILanerTable.IsEvaluatedCell.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerTable.IsEditing">
+    <param name="Name" value="ILanerTable.IsEditing">
+    <param name="Local" value="Interface/ILanerTable/ILanerTable.IsEditing.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IsEditableCell">
+    <param name="Name" value="ILanerTable.IsEditableCell">
+    <param name="Local" value="Interface/ILanerTable/ILanerTable.IsEditableCell.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerTable.IsEditableCell">
+    <param name="Name" value="ILanerTable.IsEditableCell">
+    <param name="Local" value="Interface/ILanerTable/ILanerTable.IsEditableCell.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IsChangedCell">
+    <param name="Name" value="ILanerTable.IsChangedCell">
+    <param name="Local" value="Interface/ILanerTable/ILanerTable.IsChangedCell.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerTable.IsChangedCell">
+    <param name="Name" value="ILanerTable.IsChangedCell">
+    <param name="Local" value="Interface/ILanerTable/ILanerTable.IsChangedCell.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerSerie.Visible">
+    <param name="Name" value="ILanerSerie.Visible">
+    <param name="Local" value="Interface/ILanerSerie/ILanerSerie.Visible.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerTable.IsChanged">
+    <param name="Name" value="ILanerTable.IsChanged">
+    <param name="Local" value="Interface/ILanerTable/ILanerTable.IsChanged.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="FilterStartYear">
+    <param name="Name" value="ILanerTable.FilterStartYear">
+    <param name="Local" value="Interface/ILanerTable/ILanerTable.FilterStartYear.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerTable.FilterStartYear">
+    <param name="Name" value="ILanerTable.FilterStartYear">
+    <param name="Local" value="Interface/ILanerTable/ILanerTable.FilterStartYear.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="FilterEndYear">
+    <param name="Name" value="ILanerTable.FilterEndYear">
+    <param name="Local" value="Interface/ILanerTable/ILanerTable.FilterEndYear.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerTable.FilterEndYear">
+    <param name="Name" value="ILanerTable.FilterEndYear">
+    <param name="Local" value="Interface/ILanerTable/ILanerTable.FilterEndYear.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Edit">
+    <param name="Name" value="ILanerTable.Edit">
+    <param name="Local" value="Interface/ILanerTable/ILanerTable.Edit.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerTable.Edit">
+    <param name="Name" value="ILanerTable.Edit">
+    <param name="Local" value="Interface/ILanerTable/ILanerTable.Edit.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ColumnCount">
+    <param name="Name" value="ILanerTable.ColumnCount">
+    <param name="Local" value="Interface/ILanerTable/ILanerTable.ColumnCount.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerTable.ColumnCount">
+    <param name="Name" value="ILanerTable.ColumnCount">
+    <param name="Local" value="Interface/ILanerTable/ILanerTable.ColumnCount.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="CellRevisionDimension">
+    <param name="Name" value="ILanerTable.CellRevisionDimension">
+    <param name="Local" value="Interface/ILanerTable/ILanerTable.CellRevisionDimension.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerTable.CellRevisionDimension">
+    <param name="Name" value="ILanerTable.CellRevisionDimension">
+    <param name="Local" value="Interface/ILanerTable/ILanerTable.CellRevisionDimension.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="CellRevision">
+    <param name="Name" value="ILanerTable.CellRevision">
+    <param name="Local" value="Interface/ILanerTable/ILanerTable.CellRevision.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerTable.CellRevision">
+    <param name="Name" value="ILanerTable.CellRevision">
+    <param name="Local" value="Interface/ILanerTable/ILanerTable.CellRevision.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Cell">
+    <param name="Name" value="ILanerTable.Cell">
+    <param name="Local" value="Interface/ILanerTable/ILanerTable.Cell.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerTable.Cell">
+    <param name="Name" value="ILanerTable.Cell">
+    <param name="Local" value="Interface/ILanerTable/ILanerTable.Cell.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerTable">
+    <param name="Name" value="ILanerTable">
+    <param name="Local" value="Interface/ILanerTable/ILanerTable.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="RowCount">
+    <param name="Name" value="ILanerTable.RowCount">
+    <param name="Local" value="Interface/ILanerTable/ILanerTable.RowCount.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILaner.FlushCache">
+    <param name="Name" value="ILaner.FlushCache">
+    <param name="Local" value="Interface/ILaner/ILaner.FlushCache.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Изменение типа диаграммы и настройка набора отображаемых рядов">
+    <param name="Name" value="Изменение типа диаграммы и настройка набора отображаемых рядов">
+    <param name="Local" value="Samples/Edit_Chart.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerSeries.RemoveByKey">
+    <param name="Name" value="ILanerSeries.RemoveByKey">
+    <param name="Local" value="Interface/ILanerSeries/ILanerSeries.RemoveByKey.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerSeries.Remove">
+    <param name="Name" value="ILanerSeries.Remove">
+    <param name="Local" value="Interface/ILanerSeries/ILanerSeries.Remove.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerSeries.MoveTo">
+    <param name="Name" value="ILanerSeries.MoveTo">
+    <param name="Local" value="Interface/ILanerSeries/ILanerSeries.MoveTo.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerSeries.MoveByKey">
+    <param name="Name" value="ILanerSeries.MoveByKey">
+    <param name="Local" value="Interface/ILanerSeries/ILanerSeries.MoveByKey.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerSeries.CreateMetaAttributeValues">
+    <param name="Name" value="ILanerSeries.CreateMetaAttributeValues">
+    <param name="Local" value="Interface/ILanerSeries/ILanerSeries.CreateMetaAttributeValues.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerSeries.Clear">
+    <param name="Name" value="ILanerSeries.Clear">
+    <param name="Local" value="Interface/ILanerSeries/ILanerSeries.Clear.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="AddGroupSerie">
+    <param name="Name" value="ILanerSeries.AddGroupSerie">
+    <param name="Local" value="Interface/ILanerSeries/ILanerSeries.AddGroupSerie.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerSeries.AddGroupSerie">
+    <param name="Name" value="ILanerSeries.AddGroupSerie">
+    <param name="Local" value="Interface/ILanerSeries/ILanerSeries.AddGroupSerie.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="AddCalculateSerie">
+    <param name="Name" value="ILanerSeries.AddCalculateSerie">
+    <param name="Local" value="Interface/ILanerSeries/ILanerSeries.AddCalculateSerie.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerSeries.AddCalculateSerie">
+    <param name="Name" value="ILanerSeries.AddCalculateSerie">
+    <param name="Local" value="Interface/ILanerSeries/ILanerSeries.AddCalculateSerie.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerSeries">
+    <param name="Name" value="ILanerSeries">
+    <param name="Local" value="Interface/ILanerSeries/ILanerSeries.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerSerieList.Item">
+    <param name="Name" value="ILanerSerieList.Item">
+    <param name="Local" value="Interface/ILanerSerieList/ILanerSerieList.Item.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerSerieList.FindByKey">
+    <param name="Name" value="ILanerSerieList.FindByKey">
+    <param name="Local" value="Interface/ILanerSerieList/ILanerSerieList.FindByKey.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerSerieList.FindById">
+    <param name="Name" value="ILanerSerieList.FindById">
+    <param name="Local" value="Interface/ILanerSerieList/ILanerSerieList.FindById.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerSerieList.Count">
+    <param name="Name" value="ILanerSerieList.Count">
+    <param name="Local" value="Interface/ILanerSerieList/ILanerSerieList.Count.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerSerieList">
+    <param name="Name" value="ILanerSerieList">
+    <param name="Local" value="Interface/ILanerSerieList/ILanerSerieList.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Stub">
+    <param name="Name" value="ILanerSerie.Stub">
+    <param name="Local" value="Interface/ILanerSerie/ILanerSerie.Stub.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerSerie.Stub">
+    <param name="Name" value="ILanerSerie.Stub">
+    <param name="Local" value="Interface/ILanerSerie/ILanerSerie.Stub.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="MetaAttributeValueList">
+    <param name="Name" value="ILanerSerie.MetaAttributeValueList">
+    <param name="Local" value="Interface/ILanerSerie/ILanerSerie.MetaAttributeValueList.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerSerie.MetaAttributeValueList">
+    <param name="Name" value="ILanerSerie.MetaAttributeValueList">
+    <param name="Local" value="Interface/ILanerSerie/ILanerSerie.MetaAttributeValueList.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Level">
+    <param name="Name" value="ILanerSerie.Level">
+    <param name="Local" value="Interface/ILanerSerie/ILanerSerie.Level.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerSerie.Level">
+    <param name="Name" value="ILanerSerie.Level">
+    <param name="Local" value="Interface/ILanerSerie/ILanerSerie.Level.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Kind">
+    <param name="Name" value="ILanerSerie.Kind">
+    <param name="Local" value="Interface/ILanerSerie/ILanerSerie.Kind.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerSerie.Kind">
+    <param name="Name" value="ILanerSerie.Kind">
+    <param name="Local" value="Interface/ILanerSerie/ILanerSerie.Kind.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Создание рабочей книги с несколькими листами и добавление в нее данных">
+    <param name="Name" value="Создание рабочей книги с несколькими листами и добавление в нее данных">
+    <param name="Local" value="Samples/Create_Workbook.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerSerie.Dependents">
+    <param name="Name" value="ILanerSerie.Dependents">
+    <param name="Local" value="Interface/ILanerSerie/ILanerSerie.Dependents.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="TransformPeriod">
+    <param name="Name" value="ILanerCalculateSerie.TransformPeriod">
+    <param name="Local" value="Interface/ILanerCalculateSerie/ILanerCalculateSerie.TransformPeriod.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerSerie.Dependencies">
+    <param name="Name" value="ILanerSerie.Dependencies">
+    <param name="Local" value="Interface/ILanerSerie/ILanerSerie.Dependencies.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerSerie">
+    <param name="Name" value="ILanerSerie">
+    <param name="Local" value="Interface/ILanerSerie/ILanerSerie.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerMetaAttributeValues.RemoveByKey">
+    <param name="Name" value="ILanerMetaAttributeValues.RemoveByKey">
+    <param name="Local" value="Interface/ILanerMetaAttributeValues/ILanerMetaAttributeValues.RemoveByKey.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerMetaAttributeValues.Remove">
+    <param name="Name" value="ILanerMetaAttributeValues.Remove">
+    <param name="Local" value="Interface/ILanerMetaAttributeValues/ILanerMetaAttributeValues.Remove.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerMetaAttributeValues.Clear">
+    <param name="Name" value="ILanerMetaAttributeValues.Clear">
+    <param name="Local" value="Interface/ILanerMetaAttributeValues/ILanerMetaAttributeValues.Clear.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerMetaAttributeValues.Add">
+    <param name="Name" value="ILanerMetaAttributeValues.Add">
+    <param name="Local" value="Interface/ILanerMetaAttributeValues/ILanerMetaAttributeValues.Add.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerMetaAttributeValues">
+    <param name="Name" value="ILanerMetaAttributeValues">
+    <param name="Local" value="Interface/ILanerMetaAttributeValues/ILanerMetaAttributeValues.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerMetaAttributeValueList.Item">
+    <param name="Name" value="ILanerMetaAttributeValueList.Item">
+    <param name="Local" value="Interface/ILanerMetaAttributeValueList/ILanerMetaAttributeValueList.Item.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerMetaAttributeValueList.FindByKey">
+    <param name="Name" value="ILanerMetaAttributeValueList.FindByKey">
+    <param name="Local" value="Interface/ILanerMetaAttributeValueList/ILanerMetaAttributeValueList.FindByKey.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerMetaAttributeValueList.FindById">
+    <param name="Name" value="ILanerMetaAttributeValueList.FindById">
+    <param name="Local" value="Interface/ILanerMetaAttributeValueList/ILanerMetaAttributeValueList.FindById.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerMetaAttributeValueList.Count">
+    <param name="Name" value="ILanerMetaAttributeValueList.Count">
+    <param name="Local" value="Interface/ILanerMetaAttributeValueList/ILanerMetaAttributeValueList.Count.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerMetaAttributeValueList">
+    <param name="Name" value="ILanerMetaAttributeValueList">
+    <param name="Local" value="Interface/ILanerMetaAttributeValueList/ILanerMetaAttributeValueList.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Value">
+    <param name="Name" value="ILanerMetaAttributeValue.Value">
+    <param name="Local" value="Interface/ILanerMetaAttributeValue/ILanerMetaAttributeValue.Value.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerMetaAttributeValue.Value">
+    <param name="Name" value="ILanerMetaAttributeValue.Value">
+    <param name="Local" value="Interface/ILanerMetaAttributeValue/ILanerMetaAttributeValue.Value.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerMetaAttributeValue">
+    <param name="Name" value="ILanerMetaAttributeValue">
+    <param name="Local" value="Interface/ILanerMetaAttributeValue/ILanerMetaAttributeValue.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Serie">
+    <param name="Name" value="ILanerLeftHeader.Serie">
+    <param name="Local" value="Interface/ILanerLeftHeader/ILanerLeftHeader.Serie.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerLeftHeader.Serie">
+    <param name="Name" value="ILanerLeftHeader.Serie">
+    <param name="Local" value="Interface/ILanerLeftHeader/ILanerLeftHeader.Serie.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerLeftHeader">
+    <param name="Name" value="ILanerLeftHeader">
+    <param name="Local" value="Interface/ILanerLeftHeader/ILanerLeftHeader.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="SlotName">
+    <param name="Name" value="ILanerHeader.SlotName">
+    <param name="Local" value="Interface/ILanerHeader/ILanerHeader.SlotName.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerHeader.SlotName">
+    <param name="Name" value="ILanerHeader.SlotName">
+    <param name="Local" value="Interface/ILanerHeader/ILanerHeader.SlotName.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="SlotCount">
+    <param name="Name" value="ILanerHeader.SlotCount">
+    <param name="Local" value="Interface/ILanerHeader/ILanerHeader.SlotCount.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerHeader.SlotCount">
+    <param name="Name" value="ILanerHeader.SlotCount">
+    <param name="Local" value="Interface/ILanerHeader/ILanerHeader.SlotCount.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ElementValue">
+    <param name="Name" value="ILanerHeader.ElementValue">
+    <param name="Local" value="Interface/ILanerHeader/ILanerHeader.ElementValue.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerHeader.ElementValue">
+    <param name="Name" value="ILanerHeader.ElementValue">
+    <param name="Local" value="Interface/ILanerHeader/ILanerHeader.ElementValue.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ElementName">
+    <param name="Name" value="ILanerHeader.ElementName">
+    <param name="Local" value="Interface/ILanerHeader/ILanerHeader.ElementName.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerHeader.ElementName">
+    <param name="Name" value="ILanerHeader.ElementName">
+    <param name="Local" value="Interface/ILanerHeader/ILanerHeader.ElementName.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ElementCount">
+    <param name="Name" value="ILanerHeader.ElementCount">
+    <param name="Local" value="Interface/ILanerHeader/ILanerHeader.ElementCount.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerHeader.ElementCount">
+    <param name="Name" value="ILanerHeader.ElementCount">
+    <param name="Local" value="Interface/ILanerHeader/ILanerHeader.ElementCount.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerHeader">
+    <param name="Name" value="ILanerHeader">
+    <param name="Local" value="Interface/ILanerHeader/ILanerHeader.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Expanded">
+    <param name="Name" value="ILanerGroupSerie.Expanded">
+    <param name="Local" value="Interface/ILanerGroupSerie/ILanerGroupSerie.Expanded.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerGroupSerie.Expanded">
+    <param name="Name" value="ILanerGroupSerie.Expanded">
+    <param name="Local" value="Interface/ILanerGroupSerie/ILanerGroupSerie.Expanded.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Children">
+    <param name="Name" value="ILanerGroupSerie.Children">
+    <param name="Local" value="Interface/ILanerGroupSerie/ILanerGroupSerie.Children.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerGroupSerie.Children">
+    <param name="Name" value="ILanerGroupSerie.Children">
+    <param name="Local" value="Interface/ILanerGroupSerie/ILanerGroupSerie.Children.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerGroupSerie">
+    <param name="Name" value="ILanerGroupSerie">
+    <param name="Local" value="Interface/ILanerGroupSerie/ILanerGroupSerie.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerDerivedSerie.CreateFactor">
+    <param name="Name" value="ILanerDerivedSerie.CreateFactor">
+    <param name="Local" value="Interface/ILanerDerivedSerie/ILanerDerivedSerie.CreateFactor.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerDerivedSerie">
+    <param name="Name" value="ILanerDerivedSerie">
+    <param name="Local" value="Interface/ILanerDerivedSerie/ILanerDerivedSerie.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerCalculateSerie.Transform">
+    <param name="Name" value="ILanerCalculateSerie.Transform">
+    <param name="Local" value="Interface/ILanerCalculateSerie/ILanerCalculateSerie.Transform.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerCalculateSerie.SaveModel">
+    <param name="Name" value="ILanerCalculateSerie.SaveModel">
+    <param name="Local" value="Interface/ILanerCalculateSerie/ILanerCalculateSerie.SaveModel.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerCalculateSerie.Model">
+    <param name="Name" value="ILanerCalculateSerie.Model">
+    <param name="Local" value="Interface/ILanerCalculateSerie/ILanerCalculateSerie.Model.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerCalculateSerie.Error">
+    <param name="Name" value="ILanerCalculateSerie.Error">
+    <param name="Local" value="Interface/ILanerCalculateSerie/ILanerCalculateSerie.Error.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Настройка заголовка листа рабочей книги">
+    <param name="Name" value="Настройка заголовка листа рабочей книги">
+    <param name="Local" value="Samples/Setup_title.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerCalculateSerie.CreateFactor">
+    <param name="Name" value="ILanerCalculateSerie.CreateFactor">
+    <param name="Local" value="Interface/ILanerCalculateSerie/ILanerCalculateSerie.CreateFactor.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Calculate">
+    <param name="Name" value="ILanerCalculateSerie.Calculate">
+    <param name="Local" value="Interface/ILanerCalculateSerie/ILanerCalculateSerie.Calculate.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerCalculateSerie.Calculate">
+    <param name="Name" value="ILanerCalculateSerie.Calculate">
+    <param name="Local" value="Interface/ILanerCalculateSerie/ILanerCalculateSerie.Calculate.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerCalculateSerie">
+    <param name="Name" value="ILanerCalculateSerie">
+    <param name="Local" value="Interface/ILanerCalculateSerie/ILanerCalculateSerie.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="MoveByKey">
+    <param name="Name" value="ILanerSeries.MoveByKey">
+    <param name="Local" value="Interface/ILanerSeries/ILanerSeries.MoveByKey.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Открытие рабочей книги, изменение данных, сохранение изменений">
+    <param name="Name" value="Открытие рабочей книги, изменение данных, сохранение изменений">
+    <param name="Local" value="Samples/Open_and_edit_workbook.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Примеры использования сборки Laner">
+    <param name="Name" value="Примеры">
+    <param name="Local" value="Samples/Laner_Samples.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerCalculateSerie.RefreshData">
+    <param name="Name" value="ILanerCalculateSerie.RefreshData">
+    <param name="Local" value="Interface/ILanerCalculateSerie/ILanerCalculateSerie.RefreshData.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Интерфейсы сборки Laner">
+    <param name="Name" value="Интерфейсы сборки Laner">
+    <param name="Local" value="Interface/Laner_Interface.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerAttributes.RemoveByKey">
+    <param name="Name" value="ILanerAttributes.RemoveByKey">
+    <param name="Local" value="Interface/ILanerAttributes/ILanerAttributes.RemoveByKey.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Классы сборки Laner">
+    <param name="Name" value="Классы сборки Laner">
+    <param name="Local" value="Class/Laner_Class.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerAttributes.Remove">
+    <param name="Name" value="ILanerAttributes.Remove">
+    <param name="Local" value="Interface/ILanerAttributes/ILanerAttributes.Remove.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Перечисления сборки Laner">
+    <param name="Name" value="Перечисления сборки Laner">
+    <param name="Local" value="Enums/Laner_Enums.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerAttributes.MoveTo">
+    <param name="Name" value="ILanerAttributes.MoveTo">
+    <param name="Local" value="Interface/ILanerAttributes/ILanerAttributes.MoveTo.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILaner">
+    <param name="Name" value="ILaner">
+    <param name="Local" value="Interface/ILaner/ILaner.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerAttributes.Item">
+    <param name="Name" value="ILanerAttributes.Item">
+    <param name="Local" value="Interface/ILanerAttributes/ILanerAttributes.Item.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="FindIndexByKey">
+    <param name="Name" value="ILanerAttributes.FindIndexByKey">
+    <param name="Local" value="Interface/ILanerAttributes/ILanerAttributes.FindIndexByKey.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerAttributes.FindIndexByKey">
+    <param name="Name" value="ILanerAttributes.FindIndexByKey">
+    <param name="Local" value="Interface/ILanerAttributes/ILanerAttributes.FindIndexByKey.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerAttributes.FindByKey">
+    <param name="Name" value="ILanerAttributes.FindByKey">
+    <param name="Local" value="Interface/ILanerAttributes/ILanerAttributes.FindByKey.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerAttributes.FindById">
+    <param name="Name" value="ILanerAttributes.FindById">
+    <param name="Local" value="Interface/ILanerAttributes/ILanerAttributes.FindById.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILaner.AutoRecalc">
+    <param name="Name" value="ILaner.AutoRecalc">
+    <param name="Local" value="Interface/ILaner/ILaner.AutoRecalc.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerAttributes.Count">
+    <param name="Name" value="ILanerAttributes.Count">
+    <param name="Local" value="Interface/ILanerAttributes/ILanerAttributes.Count.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="AutoRecalc">
+    <param name="Name" value="ILaner.AutoRecalc">
+    <param name="Local" value="Interface/ILaner/ILaner.AutoRecalc.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerAttributes.Clear">
+    <param name="Name" value="ILanerAttributes.Clear">
+    <param name="Local" value="Interface/ILanerAttributes/ILanerAttributes.Clear.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILaner.BeginUpdate">
+    <param name="Name" value="ILaner.BeginUpdate">
+    <param name="Local" value="Interface/ILaner/ILaner.BeginUpdate.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerAttributes.Add">
+    <param name="Name" value="ILanerAttributes.Add">
+    <param name="Local" value="Interface/ILanerAttributes/ILanerAttributes.Add.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerAttributes">
+    <param name="Name" value="ILanerAttributes">
+    <param name="Local" value="Interface/ILanerAttributes/ILanerAttributes.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="TransformationHistory">
+    <param name="Name" value="ILaner.TransformationHistory">
+    <param name="Local" value="Interface/ILaner/ILaner.TransformationHistory.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="BeginUpdate">
+    <param name="Name" value="ILaner.BeginUpdate">
+    <param name="Local" value="Interface/ILaner/ILaner.BeginUpdate.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ScenarioDimension">
+    <param name="Name" value="ILanerSerie.ScenarioDimension">
+    <param name="Local" value="Interface/ILanerSerie/ILanerSerie.ScenarioDimension.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Series">
+    <param name="Name" value="ILaner.Series">
+    <param name="Local" value="Interface/ILaner/ILaner.Series.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILaner.Series">
+    <param name="Name" value="ILaner.Series">
+    <param name="Local" value="Interface/ILaner/ILaner.Series.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="SaveProblem">
+    <param name="Name" value="ILaner.SaveProblem">
+    <param name="Local" value="Interface/ILaner/ILaner.SaveProblem.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILaner.SaveProblem">
+    <param name="Name" value="ILaner.SaveProblem">
+    <param name="Local" value="Interface/ILaner/ILaner.SaveProblem.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="SaveChangesToModels">
+    <param name="Name" value="ILaner.SaveChangesToModels">
+    <param name="Local" value="Interface/ILaner/ILaner.SaveChangesToModels.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILaner.SaveChangesToModels">
+    <param name="Name" value="ILaner.SaveChangesToModels">
+    <param name="Local" value="Interface/ILaner/ILaner.SaveChangesToModels.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="SaveChangedSeries">
+    <param name="Name" value="ILaner.SaveChangedSeries">
+    <param name="Local" value="Interface/ILaner/ILaner.SaveChangedSeries.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILaner.SaveChangedSeries">
+    <param name="Name" value="ILaner.SaveChangedSeries">
+    <param name="Local" value="Interface/ILaner/ILaner.SaveChangedSeries.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="RubricatorInstance">
+    <param name="Name" value="ILaner.RubricatorInstance">
+    <param name="Local" value="Interface/ILaner/ILaner.RubricatorInstance.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILaner.RubricatorInstance">
+    <param name="Name" value="ILaner.RubricatorInstance">
+    <param name="Local" value="Interface/ILaner/ILaner.RubricatorInstance.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ReverseOrder">
+    <param name="Name" value="ILaner.ReverseOrder">
+    <param name="Local" value="Interface/ILaner/ILaner.ReverseOrder.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILaner.ReverseOrder">
+    <param name="Name" value="ILaner.ReverseOrder">
+    <param name="Local" value="Interface/ILaner/ILaner.ReverseOrder.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Execute">
+    <param name="Name" value="ILaner.Execute">
+    <param name="Local" value="Interface/ILaner/ILaner.Execute.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILaner.Execute">
+    <param name="Name" value="ILaner.Execute">
+    <param name="Local" value="Interface/ILaner/ILaner.Execute.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="EndUpdate">
+    <param name="Name" value="ILaner.EndUpdate">
+    <param name="Local" value="Interface/ILaner/ILaner.EndUpdate.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILaner.EndUpdate">
+    <param name="Name" value="ILaner.EndUpdate">
+    <param name="Local" value="Interface/ILaner/ILaner.EndUpdate.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="CurrentRevision">
+    <param name="Name" value="ILaner.CurrentRevision">
+    <param name="Local" value="Interface/ILaner/ILaner.CurrentRevision.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILaner.CurrentRevision">
+    <param name="Name" value="ILaner.CurrentRevision">
+    <param name="Local" value="Interface/ILaner/ILaner.CurrentRevision.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILaner.CalendarDim">
+    <param name="Name" value="ILaner.CalendarDim">
+    <param name="Local" value="Interface/ILaner/ILaner.CalendarDim.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Экспорт рабочей книги">
+    <param name="Name" value="Экспорт рабочей книги в различные форматы">
+    <param name="Local" value="Samples/Workbook_Export.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="LnOptionState">
+    <param name="Name" value="LnOptionState">
+    <param name="Local" value="Enums/LnOptionState.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Hidden">
+    <param name="Name" value="ILanerSerie.Hidden">
+    <param name="Local" value="Interface/ILanerSerie/ILanerSerie.Hidden.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerSerie.Hidden">
+    <param name="Name" value="ILanerSerie.Hidden">
+    <param name="Local" value="Interface/ILanerSerie/ILanerSerie.Hidden.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILaner.CreateDerivedSeries">
+    <param name="Name" value="ILaner.CreateDerivedSeries">
+    <param name="Local" value="Interface/ILaner/ILaner.CreateDerivedSeries.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="CalendarSelection">
+    <param name="Name" value="ILaner.CalendarSelection">
+    <param name="Local" value="Interface/ILaner/ILaner.CalendarSelection.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Фильтрация данных в рабочей книге">
+    <param name="Name" value="Фильтрация данных в рабочей книге">
+    <param name="Local" value="Samples/Filter_data.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerSerie.ScenarioDimension">
+    <param name="Name" value="ILanerSerie.ScenarioDimension">
+    <param name="Local" value="Interface/ILanerSerie/ILanerSerie.ScenarioDimension.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="RemoveSeries">
+    <param name="Name" value="ILanerSeries.RemoveSeries">
+    <param name="Local" value="Interface/ILanerSeries/ILanerSeries.RemoveSeries.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerSeries.RemoveSeries">
+    <param name="Name" value="ILanerSeries.RemoveSeries">
+    <param name="Local" value="Interface/ILanerSeries/ILanerSeries.RemoveSeries.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerTable.SeriesList">
+    <param name="Name" value="ILanerTable.SeriesList">
+    <param name="Local" value="Interface/ILanerTable/ILanerTable.SeriesList.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="UserFormat">
+    <param name="Name" value="ILanerCalculateSerie.UserFormat">
+    <param name="Local" value="Interface/ILanerCalculateSerie/ILanerCalculateSerie.UserFormat.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerCellAttributes.Count">
+    <param name="Name" value="ILanerCellAttributes.Count">
+    <param name="Local" value="Interface/ILanerCellAttributes/ILanerCellAttributes.Count.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ValueSuffixAttributes">
+    <param name="Name" value="ILaner.ValueSuffixAttributes">
+    <param name="Local" value="Interface/ILaner/ILaner.ValueSuffixAttributes.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILaner.ValueSuffixAttributes">
+    <param name="Name" value="ILaner.ValueSuffixAttributes">
+    <param name="Local" value="Interface/ILaner/ILaner.ValueSuffixAttributes.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="CommentValues">
+    <param name="Name" value="ILanerTable.CommentValues">
+    <param name="Local" value="Interface/ILanerTable/ILanerTable.CommentValues.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerTable.CommentValues">
+    <param name="Name" value="ILanerTable.CommentValues">
+    <param name="Local" value="Interface/ILanerTable/ILanerTable.CommentValues.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerCellAttribute.NamingFormat">
+    <param name="Name" value="ILanerCellAttribute.NamingFormat">
+    <param name="Local" value="Interface/ILanerCellAttribute/ILanerCellAttribute.NamingFormat.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerCellAttributes.Add">
+    <param name="Name" value="ILanerCellAttributes.Add">
+    <param name="Local" value="Interface/ILanerCellAttributes/ILanerCellAttributes.Add.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ValuePrefixAttributes">
+    <param name="Name" value="ILaner.ValuePrefixAttributes">
+    <param name="Local" value="Interface/ILaner/ILaner.ValuePrefixAttributes.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILaner.ValuePrefixAttributes">
+    <param name="Name" value="ILaner.ValuePrefixAttributes">
+    <param name="Local" value="Interface/ILaner/ILaner.ValuePrefixAttributes.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerCellAttribute.Type">
+    <param name="Name" value="ILanerCellAttribute.Type">
+    <param name="Local" value="Interface/ILanerCellAttribute/ILanerCellAttribute.Type.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerCellAttributes.Remove">
+    <param name="Name" value="ILanerCellAttributes.Remove">
+    <param name="Local" value="Interface/ILanerCellAttributes/ILanerCellAttributes.Remove.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="CommentAttributes">
+    <param name="Name" value="ILaner.CommentAttributes">
+    <param name="Local" value="Interface/ILaner/ILaner.CommentAttributes.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILaner.CommentAttributes">
+    <param name="Name" value="ILaner.CommentAttributes">
+    <param name="Local" value="Interface/ILaner/ILaner.CommentAttributes.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerCellAttributes">
+    <param name="Name" value="ILanerCellAttributes">
+    <param name="Local" value="Interface/ILanerCellAttributes/ILanerCellAttributes.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerCellAttributes.Clear">
+    <param name="Name" value="ILanerCellAttributes.Clear">
+    <param name="Local" value="Interface/ILanerCellAttributes/ILanerCellAttributes.Clear.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="SuffixValues">
+    <param name="Name" value="ILanerTable.SuffixValues">
+    <param name="Local" value="Interface/ILanerTable/ILanerTable.SuffixValues.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerTable.SuffixValues">
+    <param name="Name" value="ILanerTable.SuffixValues">
+    <param name="Local" value="Interface/ILanerTable/ILanerTable.SuffixValues.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="LnAttributeType">
+    <param name="Name" value="LnAttributeType">
+    <param name="Local" value="Enums/LnAttributeType.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerCellAttributes.Item">
+    <param name="Name" value="ILanerCellAttributes.Item">
+    <param name="Local" value="Interface/ILanerCellAttributes/ILanerCellAttributes.Item.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerCellAttributes.MoveTo">
+    <param name="Name" value="ILanerCellAttributes.MoveTo">
+    <param name="Local" value="Interface/ILanerCellAttributes/ILanerCellAttributes.MoveTo.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="PrefixValues">
+    <param name="Name" value="ILanerTable.PrefixValues">
+    <param name="Local" value="Interface/ILanerTable/ILanerTable.PrefixValues.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerCalculateSerie.UserFormat">
+    <param name="Name" value="ILanerCalculateSerie.UserFormat">
+    <param name="Local" value="Interface/ILanerCalculateSerie/ILanerCalculateSerie.UserFormat.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerContext.AllowExternalStubs">
+    <param name="Name" value="ILanerContext.AllowExternalStubs">
+    <param name="Local" value="Interface/ILanerContext/ILanerContext.AllowExternalStubs.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="AllowSynchronization">
+    <param name="Name" value="ILanerContext.AllowSynchronization">
+    <param name="Local" value="Interface/ILanerContext/ILanerContext.AllowSynchronization.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerContext.AllowSynchronization">
+    <param name="Name" value="ILanerContext.AllowSynchronization">
+    <param name="Local" value="Interface/ILanerContext/ILanerContext.AllowSynchronization.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="AllowSmartHighlighting">
+    <param name="Name" value="ILanerContext.AllowSmartHighlighting">
+    <param name="Local" value="Interface/ILanerContext/ILanerContext.AllowSmartHighlighting.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerContext.AllowSmartHighlighting">
+    <param name="Name" value="ILanerContext.AllowSmartHighlighting">
+    <param name="Local" value="Interface/ILanerContext/ILanerContext.AllowSmartHighlighting.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="AllowExternalStubs">
+    <param name="Name" value="ILanerContext.AllowExternalStubs">
+    <param name="Local" value="Interface/ILanerContext/ILanerContext.AllowExternalStubs.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Создание рабочей книги">
+    <param name="Name" value="Создание рабочей книги с несколькими листами и добавление в нее данных">
+    <param name="Local" value="Samples/Create_Workbook.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="MetabaseObject">
+    <param name="Name" value="IVirtualMetaObject.MetabaseObject">
+    <param name="Local" value="Interface/IVirtualMetaObject/IVirtualMetaObject.MetabaseObject.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IVirtualMetaObject.MetabaseObject">
+    <param name="Name" value="IVirtualMetaObject.MetabaseObject">
+    <param name="Local" value="Interface/IVirtualMetaObject/IVirtualMetaObject.MetabaseObject.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Description">
+    <param name="Name" value="IVirtualMetaObject.Description">
+    <param name="Local" value="Interface/IVirtualMetaObject/IVirtualMetaObject.Description.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IVirtualMetaObject.Description">
+    <param name="Name" value="IVirtualMetaObject.Description">
+    <param name="Local" value="Interface/IVirtualMetaObject/IVirtualMetaObject.Description.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IVirtualMetaObject">
+    <param name="Name" value="IVirtualMetaObject">
+    <param name="Local" value="Interface/IVirtualMetaObject/IVirtualMetaObject.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Настройка вычисляемого ряда">
+    <param name="Name" value="Создание и настройка вычисляемого ряда">
+    <param name="Local" value="Samples/Calculated_series.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerTransformPeriod.OutputEndOffset">
+    <param name="Name" value="ILanerTransformPeriod.OutputEndOffset">
+    <param name="Local" value="Interface/ILanerTransformPeriod/ILanerTransformPeriod.OutputEndOffset.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="OutputStartOffset">
+    <param name="Name" value="ILanerTransformPeriod.OutputStartOffset">
+    <param name="Local" value="Interface/ILanerTransformPeriod/ILanerTransformPeriod.OutputStartOffset.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerTransformPeriod.OutputStartOffset">
+    <param name="Name" value="ILanerTransformPeriod.OutputStartOffset">
+    <param name="Local" value="Interface/ILanerTransformPeriod/ILanerTransformPeriod.OutputStartOffset.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="OutputStartDate">
+    <param name="Name" value="ILanerTransformPeriod.OutputStartDate">
+    <param name="Local" value="Interface/ILanerTransformPeriod/ILanerTransformPeriod.OutputStartDate.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerTransformPeriod.OutputStartDate">
+    <param name="Name" value="ILanerTransformPeriod.OutputStartDate">
+    <param name="Local" value="Interface/ILanerTransformPeriod/ILanerTransformPeriod.OutputStartDate.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="OutputAutoPeriod">
+    <param name="Name" value="ILanerTransformPeriod.OutputAutoPeriod">
+    <param name="Local" value="Interface/ILanerTransformPeriod/ILanerTransformPeriod.OutputAutoPeriod.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerTransformPeriod.OutputAutoPeriod">
+    <param name="Name" value="ILanerTransformPeriod.OutputAutoPeriod">
+    <param name="Local" value="Interface/ILanerTransformPeriod/ILanerTransformPeriod.OutputAutoPeriod.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="OutputEndDate">
+    <param name="Name" value="ILanerTransformPeriod.OutputEndDate">
+    <param name="Local" value="Interface/ILanerTransformPeriod/ILanerTransformPeriod.OutputEndDate.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerTransformPeriod.OutputEndDate">
+    <param name="Name" value="ILanerTransformPeriod.OutputEndDate">
+    <param name="Local" value="Interface/ILanerTransformPeriod/ILanerTransformPeriod.OutputEndDate.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="OutputEndOffset">
+    <param name="Name" value="ILanerTransformPeriod.OutputEndOffset">
+    <param name="Local" value="Interface/ILanerTransformPeriod/ILanerTransformPeriod.OutputEndOffset.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Создание вычисляемого ряда">
+    <param name="Name" value="Создание и настройка вычисляемого ряда">
+    <param name="Local" value="Samples/Calculated_series.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerTransformPeriod.AllowForecastBeforeIdent">
+    <param name="Name" value="ILanerTransformPeriod.AllowForecastBeforeIdent">
+    <param name="Local" value="Interface/ILanerTransformPeriod/ILanerTransformPeriod.AllowForecastBeforeIdent.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ForecastStartDateOffset">
+    <param name="Name" value="ILanerTransformPeriod.ForecastStartDateOffset">
+    <param name="Local" value="Interface/ILanerTransformPeriod/ILanerTransformPeriod.ForecastStartDateOffset.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerTransformPeriod.ForecastStartDateOffset">
+    <param name="Name" value="ILanerTransformPeriod.ForecastStartDateOffset">
+    <param name="Local" value="Interface/ILanerTransformPeriod/ILanerTransformPeriod.ForecastStartDateOffset.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ForecastStartDateParamID">
+    <param name="Name" value="ILanerTransformPeriod.ForecastStartDateParamID">
+    <param name="Local" value="Interface/ILanerTransformPeriod/ILanerTransformPeriod.ForecastStartDateParamID.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerTransformPeriod.ForecastStartDateParamID">
+    <param name="Name" value="ILanerTransformPeriod.ForecastStartDateParamID">
+    <param name="Local" value="Interface/ILanerTransformPeriod/ILanerTransformPeriod.ForecastStartDateParamID.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IsUsingForecastStart">
+    <param name="Name" value="ILanerTransformPeriod.IsUsingForecastStart">
+    <param name="Local" value="Interface/ILanerTransformPeriod/ILanerTransformPeriod.IsUsingForecastStart.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerTransformPeriod.IsUsingForecastStart">
+    <param name="Name" value="ILanerTransformPeriod.IsUsingForecastStart">
+    <param name="Local" value="Interface/ILanerTransformPeriod/ILanerTransformPeriod.IsUsingForecastStart.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="AllowForecastBeforeIdent">
+    <param name="Name" value="ILanerTransformPeriod.AllowForecastBeforeIdent">
+    <param name="Local" value="Interface/ILanerTransformPeriod/ILanerTransformPeriod.AllowForecastBeforeIdent.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Объединение рядов в группу">
+    <param name="Name" value="Объединение рядов в группу">
+    <param name="Local" value="Samples/Group_series.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Статистики">
+    <param name="Name" value="Настройка перечня рассчитываемых статистик">
+    <param name="Local" value="Samples/Statistics.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="LoadFromStream">
+    <param name="Name" value="ILanerSeriesSet.LoadFromStream">
+    <param name="Local" value="Interface/ILanerSeriesSet/ILanerSeriesSet.LoadFromStream.htm">
+    <param name="Name" value="ILanerContext.LoadFromStream">
+    <param name="Local" value="Interface/ILanerContext/ILanerContext.LoadFromStream.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="NamingFormat">
+    <param name="Name" value="ILanerAttributeColumn.NamingFormat">
+    <param name="Local" value="Interface/ILanerAttributeColumn/ILanerAttributeColumn.NamingFormat.htm">
+    <param name="Name" value="ILanerCellAttribute.NamingFormat">
+    <param name="Local" value="Interface/ILanerCellAttribute/ILanerCellAttribute.NamingFormat.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="SaveToStream">
+    <param name="Name" value="ILanerSeriesSet.SaveToStream">
+    <param name="Local" value="Interface/ILanerSeriesSet/ILanerSeriesSet.SaveToStream.htm">
+    <param name="Name" value="ILanerContext.SaveToStream">
+    <param name="Local" value="Interface/ILanerContext/ILanerContext.SaveToStream.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="CreateDerivedSeries">
+    <param name="Name" value="ILanerCalculateSerie.CreateDerivedSeries">
+    <param name="Local" value="Interface/ILanerCalculateSerie/ILanerCalculateSerie.CreateDerivedSeries.htm">
+    <param name="Name" value="ILaner.CreateDerivedSeries">
+    <param name="Local" value="Interface/ILaner/ILaner.CreateDerivedSeries.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="CellStyle">
+    <param name="Name" value="ILaner.CellStyle">
+    <param name="Local" value="Interface/ILaner/ILaner.CellStyle.htm">
+    <param name="Name" value="IValidationFilterSettings.CellStyle">
+    <param name="Local" value="Interface/IValidationFilterSettings/IValidationFilterSettings.CellStyle.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="SetDefault">
+    <param name="Name" value="ILanerCellStyle.SetDefault">
+    <param name="Local" value="Interface/ILanerCellStyle/ILanerCellStyle.SetDefault.htm">
+    <param name="Name" value="ILanerSerieDisplayParams.SetDefault">
+    <param name="Local" value="Interface/ILanerSerieDisplayParams/ILanerSerieDisplayParams.SetDefault.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="RefreshData">
+    <param name="Name" value="ILanerCalculateSerie.RefreshData">
+    <param name="Local" value="Interface/ILanerCalculateSerie/ILanerCalculateSerie.RefreshData.htm">
+    <param name="Name" value="ILanerContext.RefreshData">
+    <param name="Local" value="Interface/ILanerContext/ILanerContext.RefreshData.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Error">
+    <param name="Name" value="ILanerCalculateSerie.Error">
+    <param name="Local" value="Interface/ILanerCalculateSerie/ILanerCalculateSerie.Error.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Model">
+    <param name="Name" value="ILanerCalculateSerie.Model">
+    <param name="Local" value="Interface/ILanerCalculateSerie/ILanerCalculateSerie.Model.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Update">
+    <param name="Name" value="ILaner.Update">
+    <param name="Local" value="Interface/ILaner/ILaner.Update.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="SaveModel">
+    <param name="Name" value="ILanerCalculateSerie.SaveModel">
+    <param name="Local" value="Interface/ILanerCalculateSerie/ILanerCalculateSerie.SaveModel.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="CreateFactor">
+    <param name="Name" value="ILanerCalculateSerie.CreateFactor">
+    <param name="Local" value="Interface/ILanerCalculateSerie/ILanerCalculateSerie.CreateFactor.htm">
+    <param name="Name" value="ILanerDerivedSerie.CreateFactor">
+    <param name="Local" value="Interface/ILanerDerivedSerie/ILanerDerivedSerie.CreateFactor.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Dependencies">
+    <param name="Name" value="ILanerSerie.Dependencies">
+    <param name="Local" value="Interface/ILanerSerie/ILanerSerie.Dependencies.htm">
+    <param name="Name" value="ILaner.Dependencies">
+    <param name="Local" value="Interface/ILaner/ILaner.Dependencies.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Dependents">
+    <param name="Name" value="ILanerSerie.Dependents">
+    <param name="Local" value="Interface/ILanerSerie/ILanerSerie.Dependents.htm">
+    <param name="Name" value="ILaner.Dependents">
+    <param name="Local" value="Interface/ILaner/ILaner.Dependents.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="RevisionKey">
+    <param name="Name" value="ILanerCalculateSerie.RevisionKey">
+    <param name="Local" value="Interface/ILanerCalculateSerie/ILanerCalculateSerie.RevisionKey.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Save">
+    <param name="Name" value="ILanerCalculateSerie.Save">
+    <param name="Local" value="Interface/ILanerCalculateSerie/ILanerCalculateSerie.Save.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="EndDate">
+    <param name="Name" value="ILanerTransformPeriod.EndDate">
+    <param name="Local" value="Interface/ILanerTransformPeriod/ILanerTransformPeriod.EndDate.htm">
+    <param name="Name" value="ILaner.EndDate">
+    <param name="Local" value="Interface/ILaner/ILaner.EndDate.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="DisplayDataAs">
+    <param name="Name" value="ILaner.DisplayDataAs">
+    <param name="Local" value="Interface/ILaner/ILaner.DisplayDataAs.htm">
+    <param name="Name" value="ILanerCalculateSerie.DisplayDataAs">
+    <param name="Local" value="Interface/ILanerCalculateSerie/ILanerCalculateSerie.DisplayDataAs.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="StartDateParamId">
+    <param name="Name" value="ILanerTransformPeriod.StartDateParamId">
+    <param name="Local" value="Interface/ILanerTransformPeriod/ILanerTransformPeriod.StartDateParamId.htm">
+    <param name="Name" value="ILaner.StartDateParamId">
+    <param name="Local" value="Interface/ILaner/ILaner.StartDateParamId.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="SuppressEmpty">
+    <param name="Name" value="ILanerFilter.SuppressEmpty">
+    <param name="Local" value="Interface/ILanerFilter/ILanerFilter.SuppressEmpty.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Transform">
+    <param name="Name" value="ILanerCalculateSerie.Transform">
+    <param name="Local" value="Interface/ILanerCalculateSerie/ILanerCalculateSerie.Transform.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="CalendarDim">
+    <param name="Name" value="ILaner.CalendarDim">
+    <param name="Local" value="Interface/ILaner/ILaner.CalendarDim.htm">
+    <param name="Name" value="ILanerSerie.CalendarDim">
+    <param name="Local" value="Interface/ILanerSerie/ILanerSerie.CalendarDim.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IsChanged">
+    <param name="Name" value="ILanerTable.IsChanged">
+    <param name="Local" value="Interface/ILanerTable/ILanerTable.IsChanged.htm">
+    <param name="Name" value="ILanerSerie.IsChanged">
+    <param name="Local" value="Interface/ILanerSerie/ILanerSerie.IsChanged.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Source">
+    <param name="Name" value="ILanerCalculateSerie.Source">
+    <param name="Local" value="Interface/ILanerCalculateSerie/ILanerCalculateSerie.Source.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Type">
+    <param name="Name" value="ILanerColumn.Type">
+    <param name="Local" value="Interface/ILanerColumn/ILanerColumn.Type.htm">
+    <param name="Name" value="ILanerCellAttribute.Type">
+    <param name="Local" value="Interface/ILanerCellAttribute/ILanerCellAttribute.Type.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ForecastStartDate">
+    <param name="Name" value="ILanerTransformPeriod.ForecastStartDate">
+    <param name="Local" value="Interface/ILanerTransformPeriod/ILanerTransformPeriod.ForecastStartDate.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="EndDateParamId">
+    <param name="Name" value="ILanerTransformPeriod.EndDateParamId">
+    <param name="Local" value="Interface/ILanerTransformPeriod/ILanerTransformPeriod.EndDateParamId.htm">
+    <param name="Name" value="ILaner.EndDateParamId">
+    <param name="Local" value="Interface/ILaner/ILaner.EndDateParamId.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="StartDate">
+    <param name="Name" value="ILanerTransformPeriod.StartDate">
+    <param name="Local" value="Interface/ILanerTransformPeriod/ILanerTransformPeriod.StartDate.htm">
+    <param name="Name" value="ILaner.StartDate">
+    <param name="Local" value="Interface/ILaner/ILaner.StartDate.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="SeriesList">
+    <param name="Name" value="ILanerTable.SeriesList">
+    <param name="Local" value="Interface/ILanerTable/ILanerTable.SeriesList.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="FindByKey">
+    <param name="Name" value="ILanerAttributes.FindByKey">
+    <param name="Local" value="Interface/ILanerAttributes/ILanerAttributes.FindByKey.htm">
+    <param name="Name" value="ILanerMetaAttributeValueList.FindByKey">
+    <param name="Local" value="Interface/ILanerMetaAttributeValueList/ILanerMetaAttributeValueList.FindByKey.htm">
+    <param name="Name" value="ILanerSerieList.FindByKey">
+    <param name="Local" value="Interface/ILanerSerieList/ILanerSerieList.FindByKey.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="MoveTo">
+    <param name="Name" value="ILanerAttributes.MoveTo">
+    <param name="Local" value="Interface/ILanerAttributes/ILanerAttributes.MoveTo.htm">
+    <param name="Name" value="ILanerSeries.MoveTo">
+    <param name="Local" value="Interface/ILanerSeries/ILanerSeries.MoveTo.htm">
+    <param name="Name" value="ILanerCellAttributes.MoveTo">
+    <param name="Local" value="Interface/ILanerCellAttributes/ILanerCellAttributes.MoveTo.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="RemoveByKey">
+    <param name="Name" value="ILanerAttributes.RemoveByKey">
+    <param name="Local" value="Interface/ILanerAttributes/ILanerAttributes.RemoveByKey.htm">
+    <param name="Name" value="ILanerMetaAttributeValues.RemoveByKey">
+    <param name="Local" value="Interface/ILanerMetaAttributeValues/ILanerMetaAttributeValues.RemoveByKey.htm">
+    <param name="Name" value="ILanerSeries.RemoveByKey">
+    <param name="Local" value="Interface/ILanerSeries/ILanerSeries.RemoveByKey.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="FindById">
+    <param name="Name" value="ILanerAttributes.FindById">
+    <param name="Local" value="Interface/ILanerAttributes/ILanerAttributes.FindById.htm">
+    <param name="Name" value="ILanerMetaAttributeValueList.FindById">
+    <param name="Local" value="Interface/ILanerMetaAttributeValueList/ILanerMetaAttributeValueList.FindById.htm">
+    <param name="Name" value="ILanerSerieList.FindById">
+    <param name="Local" value="Interface/ILanerSerieList/ILanerSerieList.FindById.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ReadOnly">
+    <param name="Name" value="ILanerHeader.ReadOnly">
+    <param name="Local" value="Interface/ILanerHeader/ILanerHeader.ReadOnly.htm">
+    <param name="Name" value="ILanerColumn.ReadOnly">
+    <param name="Local" value="Interface/ILanerColumn/ILanerColumn.ReadOnly.htm">
+    <param name="Name" value="ILanerSerie.ReadOnly">
+    <param name="Local" value="Interface/ILanerSerie/ILanerSerie.ReadOnly.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Item">
+    <param name="Name" value="ILanerAttributes.Item">
+    <param name="Local" value="Interface/ILanerAttributes/ILanerAttributes.Item.htm">
+    <param name="Name" value="ILanerMetaAttributeValueList.Item">
+    <param name="Local" value="Interface/ILanerMetaAttributeValueList/ILanerMetaAttributeValueList.Item.htm">
+    <param name="Name" value="ILanerSerieList.Item">
+    <param name="Local" value="Interface/ILanerSerieList/ILanerSerieList.Item.htm">
+    <param name="Name" value="ILanerCellAttributes.Item">
+    <param name="Local" value="Interface/ILanerCellAttributes/ILanerCellAttributes.Item.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Laner">
+    <param name="Name" value="ILanerSerie.Laner">
+    <param name="Local" value="Interface/ILanerSerie/ILanerSerie.Laner.htm">
+    <param name="Name" value="Сборка Laner">
+    <param name="Local" value="Laner_Title.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Примеры">
+      <param name="Name" value="Примеры: Сборка Laner">
+      <param name="Local" value="Samples/Laner_Samples.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Интерфейсы сборки Laner">
+      <param name="Name" value="Интерфейсы сборки Laner">
+      <param name="Local" value="Interface/Laner_Interface.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Перечисления сборки Laner">
+      <param name="Name" value="Перечисления сборки Laner">
+      <param name="Local" value="Enums/Laner_Enums.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Классы сборки Laner">
+      <param name="Name" value="Классы сборки Laner">
+      <param name="Local" value="Class/Laner_Class.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Введение в сборку Laner">
+      <param name="Name" value="Введение: Сборка Laner">
+      <param name="Local" value="Laner.htm">
+    </object>
+    </ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Add">
+    <param name="Name" value="ILanerAttributes.Add">
+    <param name="Local" value="Interface/ILanerAttributes/ILanerAttributes.Add.htm">
+    <param name="Name" value="ILanerMetaAttributeValues.Add">
+    <param name="Local" value="Interface/ILanerMetaAttributeValues/ILanerMetaAttributeValues.Add.htm">
+    <param name="Name" value="ILanerSeriesSet.Add">
+    <param name="Local" value="Interface/ILanerSeriesSet/ILanerSeriesSet.Add.htm">
+    <param name="Name" value="ILanerCellAttributes.Add">
+    <param name="Local" value="Interface/ILanerCellAttributes/ILanerCellAttributes.Add.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Count">
+    <param name="Name" value="ILanerAttributes.Count">
+    <param name="Local" value="Interface/ILanerAttributes/ILanerAttributes.Count.htm">
+    <param name="Name" value="ILanerMetaAttributeValueList.Count">
+    <param name="Local" value="Interface/ILanerMetaAttributeValueList/ILanerMetaAttributeValueList.Count.htm">
+    <param name="Name" value="ILanerSerieList.Count">
+    <param name="Local" value="Interface/ILanerSerieList/ILanerSerieList.Count.htm">
+    <param name="Name" value="ILanerAttributeColumns.Count">
+    <param name="Local" value="Interface/ILanerAttributeColumns/ILanerAttributeColumns.Count.htm">
+    <param name="Name" value="ILanerSorterData.Count">
+    <param name="Local" value="Interface/ILanerSorterData/ILanerSorterData.Count.htm">
+    <param name="Name" value="ILanerCellAttributes.Count">
+    <param name="Local" value="Interface/ILanerCellAttributes/ILanerCellAttributes.Count.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Remove">
+    <param name="Name" value="ILanerAttributes.Remove">
+    <param name="Local" value="Interface/ILanerAttributes/ILanerAttributes.Remove.htm">
+    <param name="Name" value="ILanerMetaAttributeValues.Remove">
+    <param name="Local" value="Interface/ILanerMetaAttributeValues/ILanerMetaAttributeValues.Remove.htm">
+    <param name="Name" value="ILanerSeries.Remove">
+    <param name="Local" value="Interface/ILanerSeries/ILanerSeries.Remove.htm">
+    <param name="Name" value="ILanerAttributeColumns.Remove">
+    <param name="Local" value="Interface/ILanerAttributeColumns/ILanerAttributeColumns.Remove.htm">
+    <param name="Name" value="ILanerSeriesSet.Remove">
+    <param name="Local" value="Interface/ILanerSeriesSet/ILanerSeriesSet.Remove.htm">
+    <param name="Name" value="ILanerCellAttributes.Remove">
+    <param name="Local" value="Interface/ILanerCellAttributes/ILanerCellAttributes.Remove.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Clear">
+    <param name="Name" value="ILanerAttributes.Clear">
+    <param name="Local" value="Interface/ILanerAttributes/ILanerAttributes.Clear.htm">
+    <param name="Name" value="ILanerMetaAttributeValues.Clear">
+    <param name="Local" value="Interface/ILanerMetaAttributeValues/ILanerMetaAttributeValues.Clear.htm">
+    <param name="Name" value="ILanerSeries.Clear">
+    <param name="Local" value="Interface/ILanerSeries/ILanerSeries.Clear.htm">
+    <param name="Name" value="ILanerAttributeColumns.Clear">
+    <param name="Local" value="Interface/ILanerAttributeColumns/ILanerAttributeColumns.Clear.htm">
+    <param name="Name" value="ILanerSeriesSet.Clear">
+    <param name="Local" value="Interface/ILanerSeriesSet/ILanerSeriesSet.Clear.htm">
+    <param name="Name" value="ILanerSorterData.Clear">
+    <param name="Local" value="Interface/ILanerSorterData/ILanerSorterData.Clear.htm">
+    <param name="Name" value="ILanerSorterHeader.Clear">
+    <param name="Local" value="Interface/ILanerSorterHeader/ILanerSorterHeader.Clear.htm">
+    <param name="Name" value="ILanerCellAttributes.Clear">
+    <param name="Local" value="Interface/ILanerCellAttributes/ILanerCellAttributes.Clear.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILaner.ValueFootnoteAttributes">
+    <param name="Name" value="ILaner.ValueFootnoteAttributes">
+    <param name="Local" value="Interface/ILaner/ILaner.ValueFootnoteAttributes.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ValueFootnoteAttributes">
+    <param name="Name" value="ILaner.ValueFootnoteAttributes">
+    <param name="Local" value="Interface/ILaner/ILaner.ValueFootnoteAttributes.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILaner.SerieFootnoteAttributes">
+    <param name="Name" value="ILaner.SerieFootnoteAttributes">
+    <param name="Local" value="Interface/ILaner/ILaner.SerieFootnoteAttributes.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="SerieFootnoteAttributes">
+    <param name="Name" value="ILaner.SerieFootnoteAttributes">
+    <param name="Local" value="Interface/ILaner/ILaner.SerieFootnoteAttributes.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerTable.FootnoteValues">
+    <param name="Name" value="ILanerTable.FootnoteValues">
+    <param name="Local" value="Interface/ILanerTable/ILanerTable.FootnoteValues.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="FootnoteValues">
+    <param name="Name" value="ILanerTable.FootnoteValues">
+    <param name="Local" value="Interface/ILanerTable/ILanerTable.FootnoteValues.htm">
+    <param name="Name" value="ILanerLeftHeader.FootnoteValues">
+    <param name="Local" value="Interface/ILanerLeftHeader/ILanerLeftHeader.FootnoteValues.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILanerLeftHeader.FootnoteValues">
+    <param name="Name" value="ILanerLeftHeader.FootnoteValues">
+    <param name="Local" value="Interface/ILanerLeftHeader/ILanerLeftHeader.FootnoteValues.htm">
+  </object>
+</ul>
+</html>

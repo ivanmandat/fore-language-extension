@@ -1,0 +1,295 @@
+<html>
+<!-- Sitemap 1.0 -->
+<object type="text/site properties">
+  <param name="SiteType" value="toc">
+  <param name="Image Width" value="16">
+  <param name="Window Styles" value="0x800027">
+  <param name="ExWindow Styles" value="0x100">
+</object>
+<ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Начало работы с инструментом «Информационная панель»">
+    <param name="Local" value="InformationPanel/Starting.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Построение информационной панели">
+      <param name="Local" value="InformationPanel/Building/Create_Informatuion_Panel.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Добавление визуализаторов и работа с ними">
+        <param name="Local" value="InformationPanel/Building/Visualizers/visualizers.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Выбор и настройка источника данных визуализатора">
+          <param name="Local" value="InformationPanel/Building/Source.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Настройка визуализации данных">
+          <param name="Local" value="InformationPanel/Building/Visualizers/Visualization/visualization_setting.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Настройка визуализатора «Таблица»">
+          <param name="Local" value="InformationPanel/Building/Visualizers/Table/Table.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Выделение элементов таблицы">
+            <param name="Local" value="InformationPanel/Building/Visualizers/Table/Select_Areas.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Настройка таблицы и её элементов">
+            <param name="Local" value="InformationPanel/Building/Visualizers/Table/Table_Formatting.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Настройка размещения">
+            <param name="Local" value="InformationPanel/Building/Visualizers/Table/Layout.htm">
+          </object>
+          <ul>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Расчёт итоговых значений">
+              <param name="Local" value="InformationPanel/Building/Visualizers/Table/totals.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Объединение измерений и поджатие элементов измерений">
+              <param name="Local" value="InformationPanel/Building/Visualizers/Table/Merging_Dim.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Настройка нумерации">
+              <param name="Local" value="InformationPanel/Building/Visualizers/Table/Numbering.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            </ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Анализ данных в таблице">
+            <param name="Local" value="InformationPanel/Building/Visualizers/Table/Data_Analysis.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Оформление элементов таблицы">
+            <param name="Local" value="InformationPanel/Building/Visualizers/Table/TableElemants_Format.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Настройка визуализатора «Диаграмма»">
+          <param name="Local" value="InformationPanel/Building/Visualizers/Visualization/visualizer_types.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Общие настройки">
+            <param name="Local" value="InformationPanel/Building/Visualizers/Visualization/General_Settings.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Ряды данных">
+            <param name="Local" value="InformationPanel/Building/Visualizers/Visualization/Data_Series.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Легенда">
+            <param name="Local" value="InformationPanel/Building/Visualizers/Visualization/Legend.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Оси диаграммы">
+            <param name="Local" value="InformationPanel/Building/Visualizers/Visualization/Axes.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Подписи данных">
+            <param name="Local" value="InformationPanel/Building/Visualizers/Visualization/Data_Labels.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Линии уровня">
+            <param name="Local" value="InformationPanel/Building/Visualizers/Visualization/Level_Lines.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Коридоры диаграммы">
+            <param name="Local" value="InformationPanel/Building/Visualizers/Visualization/Corridors.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Всплывающие подсказки">
+            <param name="Local" value="InformationPanel/Building/Visualizers/Visualization/Tooltips.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Перекрытия и зазоры">
+            <param name="Local" value="InformationPanel/Building/Visualizers/Visualization/Overlap_and_gap.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Область построения">
+            <param name="Local" value="InformationPanel/Building/Visualizers/Visualization/Construction_Area.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Настройка визуализатора «Индикатор»">
+          <param name="Local" value="InformationPanel/Building/Visualizers/Visualization/Indicator.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Настройка визуализатора «Карта»">
+          <param name="Local" value="InformationPanel/Building/Visualizers/Visualization/Map.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Настройка визуализатора «Текст»">
+          <param name="Local" value="InformationPanel/Building/Visualizers/Visualization/Text.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Настройка визуализатора «Изображение»">
+          <param name="Local" value="InformationPanel/Building/Visualizers/Visualization/Image.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Добавление слайдов и работа с ними">
+        <param name="Local" value="InformationPanel/Building/Frames/frames.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Синхронизация визуализаторов на слайде">
+          <param name="Local" value="InformationPanel/Building/Frames/visualizers_synchronization.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Настройка вычисляемых фактов">
+        <param name="Local" value="InformationPanel/Building/calculated_facts.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Редактор выражения">
+          <param name="Local" value="InformationPanel/Building/ExpressionEditor.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Отметка элементов измерения">
+        <param name="Local" value="InformationPanel/Building/Selecting_Dimension_Elements.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Создание копии информационной панели">
+        <param name="Local" value="InformationPanel/Building/Save.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Работа с готовой информационной панелью">
+      <param name="Local" value="InformationPanel/Work/Work_with_information_bar.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Просмотр готовой информационной панели">
+        <param name="Local" value="InformationPanel/Building/Preview.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Экспорт визуализаторов и слайдов">
+        <param name="Local" value="InformationPanel/Work/export.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Печать визуализаторов и слайдов">
+        <param name="Local" value="InformationPanel/Work/print.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Колонтитулы на странице:">
+          <param name="Local" value="InformationPanel/Work/Print/Footers_params.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Общие параметры страницы">
+          <param name="Local" value="InformationPanel/Work/Print/Common_ParamsPage.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Поля на странице">
+          <param name="Local" value="InformationPanel/Work/Print/Fields_OnPage.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Публикация объектов">
+        <param name="Local" value="Project/Publishing.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      </ul>
+    </ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Создание модели данных">
+    <param name="Local" value="DataModel/create_data_model.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Построение модели данных">
+      <param name="Local" value="DataModel/Building_Data_Model.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Установка и настройка ClickHouse">
+        <param name="Local" value="DataModel/ClickHouse.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Добавление источников">
+        <param name="Local" value="DataModel/DataSources/add_data_sources.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Создание SQL-запросов">
+          <param name="Local" value="DataModel/DataSources/create_sql.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Настройка режимов работы с данными">
+        <param name="Local" value="DataModel/data_modes.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Добавление объектов и связей между ними">
+        <param name="Local" value="DataModel/Objects/add_objects.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Таблица предварительного просмотра">
+        <param name="Local" value="DataModel/Preview/preview_table.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Задание выражений">
+          <param name="Local" value="DataModel/Preview/expressions.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Настройка рабочей области">
+      <param name="Local" value="DataModel/data_model_workspace_features.htm">
+      <param name="ImageNumber" value="11">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Создание копии модели данных">
+      <param name="Local" value="DataModel/Save.htm">
+      <param name="ImageNumber" value="11">
+    </object>
+    </ul>
+</ul>
+</html>

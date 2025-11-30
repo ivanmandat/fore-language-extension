@@ -1,0 +1,26 @@
+﻿# Constructor
+
+## РЎС‚СЂР°РЅРёС†С‹
+
+- [Выбор используемых классов объектов: Компонент, настольное приложение](Component/Adding_user_class.md)
+- [Объединение функциональности в компоненты: Компонент, настольное приложение](Component/Basic_properties_of_component.md)
+- [Редактирование зависимостей: Компонент, настольное приложение](Component/Configure_dependencies.md)
+- [Перемещение объектов в компонент: Компонент, настольное приложение](Component/Filling_component.md)
+- [Формирование и установка обновлений: Компонент, настольное приложение](Component/Formation_installation_updates_components.md)
+- [Модуль формирования пакета](Component/Package_generation_module.md)
+- [Настройка публичных объектов: Компонент, настольное приложение](Component/Setting_public_objects.md)
+- [Настройка общих параметров: Бизнес-приложение, настольное приложение](Desktop/Common_parameters.md)
+- [Редактирование зависимостей: Бизнес-приложение, настольное приложение](Desktop/Edit_Dependencies.md)
+- [Формирование и установка обновлений: Бизнес-приложение, настольное приложение](Desktop/Formation_Installation_Updates.md)
+- [Построение бизнес-приложения в настольном приложении](Desktop/General_Principles.md)
+- [Настройка разметки и оформления: Бизнес-приложение, настольное приложение](Desktop/Layout_and_design.md)
+- [Настройка структуры меню: Бизнес-приложение, настольное приложение](Desktop/Setting_web_application_structure.md)
+- [Начало работы с расширением «Конструктор бизнес-приложений»](Intro/Component_interface.md)
+- [Визуальное конструирование бизнес-приложений](Intro/Designer_business_applications.md)
+- [Создание внутренней структуры: Бизнес-приложение](Web/Create_Internal_Structure_Business_Application.md)
+- [Построение бизнес-приложения в веб-приложении](Web/General_Principles_Web.md)
+- [Настройка разметки и оформления: Бизнес-приложение, веб-приложение](Web/Layout_and_design_web.md)
+- [Выбор стартового объекта и обработчика событий: Бизнес-приложение, веб-приложение](Web/Select_Starting_Object_and_Event_Handler.md)
+- [Настройка базовых свойств: Бизнес-приложение, веб-приложение](Web/Setting_Business_Application.md)
+- [Настройка структуры навигации: Бизнес-приложение, веб-приложение](Web/Setting_Navigation_Structure.md)
+- [Работа с готовым бизнес-приложением](Work/Work_business_application.md)

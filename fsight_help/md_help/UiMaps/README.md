@@ -1,0 +1,28 @@
+﻿# UiMaps
+
+## РЎС‚СЂР°РЅРёС†С‹
+
+- [Требования для отображения стрелок](Common/Arrows_requirements.md)
+- [Требования для детализации территорий](Common/DrillDown_requirements.md)
+- [Приступая к работе](Common/GettingStarted.md)
+- [Требования для отображения контуров территорий](Common/Loop_requirements.md)
+- [Требования для отображения маркеров геолокации](Common/Markers_requirements.md)
+- [Настройка измерений для работы с картой](Common/Metrics.md)
+- [Основные требования для работы с картой](Common/Requirements.md)
+- [Требования к наличию топоосновы](Common/Topobase.md)
+- [Требования для отображения версионной карты](Common/Version_requirements.md)
+- [Дополнительные возможности карты](Configure/Advanced_Features.md)
+- [Настройка параметров и заливки стрелок](Configure/Arrow_Setup.md)
+- [Отображение стрелок](Configure/Arrows.md)
+- [Настройка заливки карты](Configure/Color.md)
+- [Отображение маркеров геолокации](Configure/coordinate_marker.md)
+- [Настройка общих параметров диаграмм](Configure/Diagram_Setup.md)
+- [Отображение диаграмм](Configure/Diagrams.md)
+- [Настройка стиля карты](Configure/Map_style.md)
+- [Отображение версионной карты](Configure/map_version.md)
+- [Настройка карты](Configure/MapConfigure.md)
+- [Настройка объема карты](Configure/Panel_Height.md)
+- [Отображение контуров территорий](Configure/terr_contour.md)
+- [Настройка всплывающих подсказок карты](Configure/Tooltips.md)
+- [Настройка легенды](Legend/SetupLegend.md)
+- [Карта](Map.md)

@@ -1,0 +1,924 @@
+<html>
+<!-- Sitemap 1.0 -->
+<object type="text/site properties">
+  <param name="SiteType" value="index">
+</object>
+<ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Процесс">
+    <param name="Name" value="Начало работы с расширением «Управление бизнес-процессами» в настольном приложении">
+    <param name="Local" value="Desktop/Starting/Starting.htm">
+    <param name="Name" value="Начало работы с расширением «Управление бизнес-процессами» в веб-приложении">
+    <param name="Local" value="Web/Starting/Starting.htm">
+    <param name="Name" value="Настройка стартового события по времени: Настольное приложение">
+    <param name="Local" value="Desktop/Process/Setting_up_Events.htm">
+    <param name="Name" value="Настройка стартового события по времени: Веб-приложение">
+    <param name="Local" value="Web/Process/Setting_up_Events.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Построение процесса">
+      <param name="Name" value="Построение процесса: Веб-приложение">
+      <param name="Local" value="Web/Process/Create_process_screenshot.htm">
+      <param name="Name" value="Построение процесса: Настольное приложение">
+      <param name="Local" value="Desktop/Process/Create_process_screenshot.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Мониторинг процесса">
+      <param name="Name" value="Мониторинг процесса: Веб-приложение">
+      <param name="Local" value="Web/Starting/Monitoring_process_execution.htm">
+      <param name="Name" value="Мониторинг процесса: Настольное приложение">
+      <param name="Local" value="Desktop/Starting/Monitoring_process_execution.htm">
+    </object>
+    </ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Мониторинг">
+    <param name="Name" value="Мониторинг процесса: Веб-приложение">
+    <param name="Local" value="Web/Starting/Monitoring_process_execution.htm">
+    <param name="Name" value="Мониторинг процесса: Настольное приложение">
+    <param name="Local" value="Desktop/Starting/Monitoring_process_execution.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Администрирование бизнес-процессов">
+    <param name="Name" value="Администрирование бизнес-процессов: Веб-приложение">
+    <param name="Local" value="Web/Process/Setting_and_administrating_process_parameters.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Планировщик">
+      <param name="Name" value="Настройка планировщика для бизнес-процессов: Веб-приложение">
+      <param name="Local" value="Web/Process/Setting_planner.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Параметры отправки e-mail">
+      <param name="Name" value="Настройка параметров отправки e-mail оповещений: Веб-приложение">
+      <param name="Local" value="Web/Process/Parameters_setting.htm">
+    </object>
+    </ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Настройка параметров и администрирование бизнес-процессов">
+    <param name="Name" value="Настройка параметров и администрирование бизнес-процессов: Настольное приложение">
+    <param name="Local" value="Desktop/Process/Setting_and_administrating_process_parameters.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Параметры">
+      <param name="Name" value="Настройка параметров бизнес-процессов: Настольное приложение">
+      <param name="Local" value="Desktop/Process/Parameters_setting.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Планировщик">
+      <param name="Name" value="Настройка планировщика для бизнес-процессов: Настольное приложение">
+      <param name="Local" value="Desktop/Process/Setting_planner.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Отладка">
+      <param name="Name" value="Настройка отладки бизнес-процессов">
+      <param name="Local" value="Desktop/Process/Setting_debug.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Служебные задачи">
+      <param name="Name" value="Создание служебных задач для бизнес-процессов">
+      <param name="Local" value="Desktop/Process/Creating_service_tasks.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Администрирование">
+      <param name="Name" value="Администрирование бизнес-процессов: Настольное приложение">
+      <param name="Local" value="Desktop/Process/Administrating.htm">
+    </object>
+    </ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Параметры отправки">
+    <param name="Name" value="Настройка параметров бизнес-процессов: Настольное приложение">
+    <param name="Local" value="Desktop/Process/Parameters_setting.htm#sent">
+    <param name="Name" value="Настройка параметров отправки e-mail оповещений: Веб-приложение">
+    <param name="Local" value="Web/Process/Parameters_setting.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Планировщик">
+    <param name="Name" value="Настройка планировщика для бизнес-процессов: Веб-приложение">
+    <param name="Local" value="Web/Process/Setting_planner.htm">
+    <param name="Name" value="Настройка планировщика для бизнес-процессов: Настольное приложение">
+    <param name="Local" value="Desktop/Process/Setting_planner.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Администрирование">
+    <param name="Name" value="Администрирование бизнес-процессов: Настольное приложение">
+    <param name="Local" value="Desktop/Process/Administrating.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Отладка">
+    <param name="Name" value="Настройка отладки бизнес-процессов">
+    <param name="Local" value="Desktop/Process/Setting_debug.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Параметры">
+    <param name="Name" value="Настройка параметров: Процесс, веб-приложение">
+    <param name="Local" value="Web/Process/Params_control.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Служебные задачи">
+    <param name="Name" value="Создание служебных задач для бизнес-процессов">
+    <param name="Local" value="Desktop/Process/Creating_service_tasks.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Клиентское исполнение">
+    <param name="Name" value="Настройка планировщика для бизнес-процессов: Настольное приложение">
+    <param name="Local" value="Desktop/Process/Setting_planner.htm#client">
+    <param name="Name" value="Настройка планировщика для бизнес-процессов: Веб-приложение">
+    <param name="Local" value="Web/Process/Setting_planner.htm#client">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Серверное исполнение">
+    <param name="Name" value="Настройка планировщика для бизнес-процессов: Настольное приложение">
+    <param name="Local" value="Desktop/Process/Setting_planner.htm#server">
+    <param name="Name" value="Настройка планировщика для бизнес-процессов: Веб-приложение">
+    <param name="Local" value="Web/Process/Setting_planner.htm#server">
+    <param name="Name" value="Настройка серверного исполнения процессов: Веб-приложение">
+    <param name="Local" value="Web/Process/Setting_Server_Process_Execution.htm">
+    <param name="Name" value="Настройка серверного исполнения процессов: Настольное приложения">
+    <param name="Local" value="Desktop/Process/Setting_Server_Process_Execution.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="SMTP-сервер">
+    <param name="Name" value="Настройка параметров бизнес-процессов: Настольное приложение">
+    <param name="Local" value="Desktop/Process/Parameters_setting.htm#sent">
+    <param name="Name" value="Настройка параметров отправки e-mail оповещений: Веб-приложение">
+    <param name="Local" value="Web/Process/Parameters_setting.htm#settings">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Порт">
+    <param name="Name" value="Настройка параметров отправки e-mail оповещений: Веб-приложение">
+    <param name="Local" value="Web/Process/Parameters_setting.htm#settings">
+    <param name="Name" value="Настройка параметров бизнес-процессов: Настольное приложение">
+    <param name="Local" value="Desktop/Process/Parameters_setting.htm#sent">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Протокол аутентификации">
+    <param name="Name" value="Настройка параметров отправки e-mail оповещений: Веб-приложение">
+    <param name="Local" value="Web/Process/Parameters_setting.htm#settings">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Ролевая модель">
+    <param name="Name" value="Настройка ролевой модели: Веб-приложение">
+    <param name="Local" value="Web/Facility_Agreement/Role_model.htm">
+    <param name="Name" value="Настройка ролевой модели: Настольное приложение">
+    <param name="Local" value="Desktop/Facility_Agreement/Role_model.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Администратор">
+    <param name="Name" value="Настройка ролевой модели: Веб-приложение">
+    <param name="Local" value="Web/Facility_Agreement/Role_model.htm#admin">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Ответственный за процесс">
+    <param name="Name" value="Настройка ролевой модели: Веб-приложение">
+    <param name="Local" value="Web/Facility_Agreement/Role_model.htm#curator">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Ответственный за выполнение шага">
+    <param name="Name" value="Настройка ролевой модели: Веб-приложение">
+    <param name="Local" value="Web/Facility_Agreement/Role_model.htm#user">
+    <param name="Name" value="Назначение ответственного на шаг процесса">
+    <param name="Local" value="Web/MonitoringProcess/user_on_task.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Сегмент данных">
+    <param name="Name" value="Создание объектов полномочий">
+    <param name="Local" value="Desktop/Facility_Agreement/Create_Authorization_Object.htm#segments">
+    <param name="Name" value="Управление сегментами данных: Веб-приложение">
+    <param name="Local" value="Web/Facility_Agreement/Setting_Segments.htm">
+    <param name="Name" value="Настройка базовых свойств: Процесс, веб-приложение">
+    <param name="Local" value="Web/Process/Basic_properties.htm#control_mode">
+    <param name="Name" value="Создание шага «Ввод данных»: Веб-приложение">
+    <param name="Local" value="Web/Process/StepsProcess/Data_Entry.htm#base_settings">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Автоматические сегменты">
+    <param name="Name" value="Управление сегментами данных: Веб-приложение">
+    <param name="Local" value="Web/Facility_Agreement/Setting_Segments.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Объект полномочий">
+    <param name="Name" value="Создание объектов полномочий">
+    <param name="Local" value="Desktop/Facility_Agreement/Create_Authorization_Object.htm">
+    <param name="Name" value="Пример создания и использования объектов полномочий">
+    <param name="Local" value="Desktop/Facility_Agreement/Authorization_object_Example.htm">
+    <param name="Name" value="Настройка базовых свойств: Процесс, веб-приложение">
+    <param name="Local" value="Web/Process/Basic_properties.htm#control_mode">
+    <param name="Name" value="Создание шага «Ввод данных»: Настольное приложение">
+    <param name="Local" value="Desktop/Process/StepsProcess/Data_Entry.htm#base_settings">
+    <param name="Name" value="Создание шага «Ввод данных»: Веб-приложение">
+    <param name="Local" value="Web/Process/StepsProcess/Data_Entry.htm#base_settings">
+    <param name="Name" value="Настройка объектов полномочий процесса: Настольное приложение">
+    <param name="Local" value="Desktop/Facility_Agreement/Configuring_the_Authorization_Object.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Настройка объектов полномочий процесса">
+    <param name="Name" value="Настройка объектов полномочий процесса: Настольное приложение">
+    <param name="Local" value="Desktop/Facility_Agreement/Configuring_the_Authorization_Object.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Базовые свойства">
+    <param name="Name" value="Настройка базовых свойств: Процесс, веб-приложение">
+    <param name="Local" value="Web/Process/Basic_properties.htm">
+    <param name="Name" value="Настройка базовых свойств: Процесс, настольное приложение">
+    <param name="Local" value="Desktop/Process/Basic_properties.htm">
+    <param name="Name" value="Создание шагов этапа: Настольное приложение">
+    <param name="Local" value="Desktop/Process/StepsProcess/CreateStepsProcess.htm#steps_process_firs_page">
+    <param name="Name" value="Создание шагов этапа: Веб-приложение">
+    <param name="Local" value="Web/Process/StepsProcess/CreateStepsProcess.htm#steps_process_firs_page">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="События">
+    <param name="Name" value="Настройка событий: Процесс, веб-приложение">
+    <param name="Local" value="Web/Process/Events.htm">
+    <param name="Name" value="Настройка событий: Процесс, настольное приложение">
+    <param name="Local" value="Desktop/Process/Events.htm">
+    <param name="Name" value="Создание шага «Ввод данных»: Настольное приложение">
+    <param name="Local" value="Desktop/Process/StepsProcess/Data_Entry.htm#events">
+    <param name="Name" value="Создание шага «Ввод данных»: Веб-приложение">
+    <param name="Local" value="Web/Process/StepsProcess/Data_Entry.htm#events">
+    <param name="Name" value="Создание шага «Вызов Fore-метода»: Веб-приложение">
+    <param name="Local" value="Web/Process/StepsProcess/Fore.htm#events">
+    <param name="Name" value="Создание шага «Вызов подпроцесса»: Веб-приложение">
+    <param name="Local" value="Web/Process/StepsProcess/Subprocess.htm#events">
+    <param name="Name" value="Создание шага «Задача ETL»: Веб-приложение">
+    <param name="Local" value="Web/Process/StepsProcess/ETL.htm#events">
+    <param name="Name" value="Создание шага «Расчёт»: Веб-приложение">
+    <param name="Local" value="Web/Process/StepsProcess/Calculation.htm#events">
+    <param name="Name" value="Создание шага «Ручное действие»: Веб-приложение">
+    <param name="Local" value="Web/Process/StepsProcess/Manual_Task.htm#events">
+    <param name="Name" value="Создание шага «Согласование»: Веб-приложение">
+    <param name="Local" value="Web/Process/StepsProcess/Agreement.htm#events">
+    <param name="Name" value="Создание шага «Задача ETL»: Настольное приложение">
+    <param name="Local" value="Desktop/Process/StepsProcess/ETL.htm#parameters">
+    <param name="Name" value="Создание шага «Отправка e-mail оповещения»: Настольное приложение">
+    <param name="Local" value="Desktop/Process/StepsProcess/E-mail.htm#parameters">
+    <param name="Name" value="Создание шага «Расчёт»: Настольное приложение">
+    <param name="Local" value="Desktop/Process/StepsProcess/Calculation.htm#parameters">
+    <param name="Name" value="Создание шага «Согласование»: Настольное приложение">
+    <param name="Local" value="Desktop/Process/StepsProcess/Agreement.htm#parameters">
+    <param name="Name" value="Настройка стартового события по времени: Настольное приложение">
+    <param name="Local" value="Desktop/Process/Setting_up_Events.htm">
+    <param name="Name" value="Настройка стартового события по времени: Веб-приложение">
+    <param name="Local" value="Web/Process/Setting_up_Events.htm">
+    <param name="Name" value="Настройка промежуточных событий по времени: Веб-приложение">
+    <param name="Local" value="Web/Process/Setting_up_Timer_Intermediate_Events.htm">
+    <param name="Name" value="Настройка промежуточных событий по времени: Настольное приложение">
+    <param name="Local" value="Desktop/Process/Setting_up_Timer_Intermediate_Events.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Настройки и параметры процесса">
+    <param name="Name" value="Настройка параметров процесса: Настольное приложение">
+    <param name="Local" value="Desktop/Process/Setting_Process_Parameters.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Базовые свойства">
+      <param name="Name" value="Настройка базовых свойств: Процесс, настольное приложение">
+      <param name="Local" value="Desktop/Process/Basic_properties.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Управление параметрами">
+      <param name="Name" value="Управление параметрами: Процесс, настольное приложение">
+      <param name="Local" value="Desktop/Process/Params_control.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="События">
+      <param name="Name" value="Настройка событий: Процесс, настольное приложение">
+      <param name="Local" value="Desktop/Process/Events.htm">
+    </object>
+    </ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Управление параметрами">
+    <param name="Name" value="Управление параметрами: Процесс, настольное приложение">
+    <param name="Local" value="Desktop/Process/Params_control.htm">
+    <param name="Name" value="Создание шага «Ввод данных»: Настольное приложение">
+    <param name="Local" value="Desktop/Process/StepsProcess/Data_Entry.htm#parameters">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Ответственный">
+    <param name="Name" value="Настройка базовых свойств: Процесс, веб-приложение">
+    <param name="Local" value="Web/Process/Basic_properties.htm#role_of_the_curator">
+    <param name="Name" value="Создание шагов этапа: Веб-приложение">
+    <param name="Local" value="Web/Process/StepsProcess/CreateStepsProcess.htm#owner">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Администраторы имеют полный доступ к процессу">
+    <param name="Name" value="Настройка базовых свойств: Процесс, настольное приложение">
+    <param name="Local" value="Desktop/Process/Basic_properties.htm#role_of_admin">
+    <param name="Name" value="Настройка базовых свойств: Процесс, веб-приложение">
+    <param name="Local" value="Web/Process/Basic_properties.htm#role_of_admin">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Параметры процесса">
+    <param name="Name" value="Настройка параметров: Процесс, веб-приложение">
+    <param name="Local" value="Web/Process/Params_control.htm">
+    <param name="Name" value="Управление параметрами: Процесс, настольное приложение">
+    <param name="Local" value="Desktop/Process/Params_control.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Выполнение Fore-метода">
+    <param name="Name" value="Настройка событий: Процесс, настольное приложение">
+    <param name="Local" value="Desktop/Process/Events.htm">
+    <param name="Name" value="Создание шага «Ввод данных»: Настольное приложение">
+    <param name="Local" value="Desktop/Process/StepsProcess/Data_Entry.htm#events">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Сообщение">
+    <param name="Name" value="Настройка событий: Процесс, веб-приложение">
+    <param name="Local" value="Web/Process/Events.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Отправка e-mail">
+    <param name="Name" value="Настройка событий: Процесс, настольное приложение">
+    <param name="Local" value="Desktop/Process/Events.htm">
+    <param name="Name" value="Создание шага «Отправка e-mail оповещения»: Веб-приложение">
+    <param name="Local" value="Web/Process/StepsProcess/E-mail.htm">
+    <param name="Name" value="Создание шага «Отправка e-mail оповещения»: Настольное приложение">
+    <param name="Local" value="Desktop/Process/StepsProcess/E-mail.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Этап процесса">
+    <param name="Name" value="Создание этапов процесса: Настольное приложение">
+    <param name="Local" value="Desktop/Process/Create_Stage.htm">
+    <param name="Name" value="Создание этапов процесса: Веб-приложение">
+    <param name="Local" value="Web/Process/Create_Stage.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Предшественник">
+    <param name="Name" value="Создание этапов процесса: Настольное приложение">
+    <param name="Local" value="Desktop/Process/Create_Stage.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Способ исполнения шага">
+    <param name="Name" value="Создание шагов этапа: Веб-приложение">
+    <param name="Local" value="Web/Process/StepsProcess/CreateStepsProcess.htm#method_of_execution">
+    <param name="Name" value="Создание шагов этапа: Настольное приложение">
+    <param name="Local" value="Desktop/Process/StepsProcess/CreateStepsProcess.htm#method_of_execution">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Исключить из выполнения">
+    <param name="Name" value="Создание шагов этапа: Веб-приложени">
+    <param name="Local" value="Web/Process/StepsProcess/CreateStepsProcess.htm#steps_process_firs_page">
+    <param name="Name" value="Настройка промежуточных событий по времени: Веб-приложение">
+    <param name="Local" value="Web/Process/Setting_up_Timer_Intermediate_Events.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Форма ввода">
+    <param name="Name" value="Создание шага «Ввод данных»: Настольное приложение">
+    <param name="Local" value="Desktop/Process/StepsProcess/Data_Entry.htm#base_settings">
+    <param name="Name" value="Создание шага «Ввод данных»: Веб-приложение">
+    <param name="Local" value="Web/Process/StepsProcess/Data_Entry.htm#base_settings">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Шаг">
+    <param name="Name" value="Создание шагов этапа: Веб-приложение">
+    <param name="Local" value="Web/Process/StepsProcess/CreateStepsProcess.htm">
+    <param name="Name" value="Создание шагов этапа: Настольное приложение">
+    <param name="Local" value="Desktop/Process/StepsProcess/CreateStepsProcess.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Расчёт">
+      <param name="Name" value="Создание шага «Расчёт»: Веб-приложение">
+      <param name="Local" value="Web/Process/StepsProcess/Calculation.htm">
+      <param name="Name" value="Создание шага «Расчёт»: Настольное приложение">
+      <param name="Local" value="Desktop/Process/StepsProcess/Calculation.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Ввод данных">
+      <param name="Name" value="Создание шага «Ввод данных»: Настольное приложение">
+      <param name="Local" value="Desktop/Process/StepsProcess/Data_Entry.htm">
+      <param name="Name" value="Создание шага «Ввод данных»: Веб-приложение">
+      <param name="Local" value="Web/Process/StepsProcess/Data_Entry.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Вызов Fore-метода">
+      <param name="Name" value="Создание шага «Вызов Fore-метода»: Веб-приложение">
+      <param name="Local" value="Web/Process/StepsProcess/Fore.htm">
+      <param name="Name" value="Создание шага «Вызов Fore-метода»: Настольное приложение">
+      <param name="Local" value="Desktop/Process/StepsProcess/Fore.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Вызов подпроцесса">
+      <param name="Name" value="Настройка условий вызова подпроцессов: Настольное приложение">
+      <param name="Local" value="Desktop/Process/StepsProcess/Setting_up_Subprocess_Call_Conditions.htm">
+      <param name="Name" value="Создание шага «Вызов подпроцесса»: Веб-приложение">
+      <param name="Local" value="Web/Process/StepsProcess/Subprocess.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Задача ETL">
+      <param name="Name" value="Создание шага «Задача ETL»: Веб-приложение">
+      <param name="Local" value="Web/Process/StepsProcess/ETL.htm">
+      <param name="Name" value="Создание шага «Задача ETL»: Настольное приложение">
+      <param name="Local" value="Desktop/Process/StepsProcess/ETL.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Отправка e-mail">
+      <param name="Name" value="Создание шага «Отправка e-mail оповещения»: Настольное приложение">
+      <param name="Local" value="Desktop/Process/StepsProcess/E-mail.htm">
+      <param name="Name" value="Создание шага «Отправка e-mail оповещения»: Веб-приложение">
+      <param name="Local" value="Web/Process/StepsProcess/E-mail.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Ручное действие">
+      <param name="Name" value="Создание шага «Ручное действие»: Настольное приложение">
+      <param name="Local" value="Desktop/Process/StepsProcess/Manual_Task.htm">
+      <param name="Name" value="Создание шага «Ручное действие»: Веб-приложение">
+      <param name="Local" value="Web/Process/StepsProcess/Manual_Task.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Согласование">
+      <param name="Name" value="Создание шага «Согласование»: Веб-приложение">
+      <param name="Local" value="Web/Process/StepsProcess/Agreement.htm">
+      <param name="Name" value="Создание шага «Согласование»: Настольное приложение">
+      <param name="Local" value="Desktop/Process/StepsProcess/Agreement.htm">
+    </object>
+    </ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Связь">
+    <param name="Name" value="Создание шага «Ввод данных»: Настольное приложение">
+    <param name="Local" value="Desktop/Process/StepsProcess/Data_Entry.htm#events">
+    <param name="Name" value="Создание шага «Вызов Fore-метода»: Настольное приложение">
+    <param name="Local" value="Desktop/Process/StepsProcess/Fore.htm#events">
+    <param name="Name" value="Создание шага «Вызов подпроцесса»: Настольное приложение">
+    <param name="Local" value="Desktop/Process/StepsProcess/Subprocess.htm#events">
+    <param name="Name" value="Создание шага «Задача ETL»: Настольное приложение">
+    <param name="Local" value="Desktop/Process/StepsProcess/ETL.htm#events">
+    <param name="Name" value="Создание шага «Отправка e-mail оповещения»: Настольное приложение">
+    <param name="Local" value="Desktop/Process/StepsProcess/E-mail.htm#events">
+    <param name="Name" value="Создание шага «Расчёт»: Настольное приложение">
+    <param name="Local" value="Desktop/Process/StepsProcess/Calculation.htm#events">
+    <param name="Name" value="Создание шага «Ручное действие»: Настольное приложение">
+    <param name="Local" value="Desktop/Process/StepsProcess/Manual_Task.htm#events">
+    <param name="Name" value="Создание шага «Согласование»: Настольное приложение">
+    <param name="Local" value="Desktop/Process/StepsProcess/Agreement.htm#events">
+    <param name="Name" value="Создание шага «Ввод данных»: Веб-приложение">
+    <param name="Local" value="Web/Process/StepsProcess/Data_Entry.htm#events">
+    <param name="Name" value="Создание шага «Вызов Fore-метода»: Веб-приложение">
+    <param name="Local" value="Web/Process/StepsProcess/Fore.htm#events">
+    <param name="Name" value="Создание шага «Вызов подпроцесса»: Веб-приложение">
+    <param name="Local" value="Web/Process/StepsProcess/Subprocess.htm#events">
+    <param name="Name" value="Создание шага «Задача ETL»: Веб-приложение">
+    <param name="Local" value="Web/Process/StepsProcess/ETL.htm#events">
+    <param name="Name" value="Создание шага «Расчёт»: Веб-приложение">
+    <param name="Local" value="Web/Process/StepsProcess/Calculation.htm#events">
+    <param name="Name" value="Создание шага «Ручное действие»: Веб-приложение">
+    <param name="Local" value="Web/Process/StepsProcess/Manual_Task.htm#events">
+    <param name="Name" value="Создание шага «Согласование»: Веб-приложение">
+    <param name="Local" value="Web/Process/StepsProcess/Agreement.htm#events">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Симуляция">
+    <param name="Name" value="Симуляция выполнения шагов процесса">
+    <param name="Local" value="Desktop/Process/BPM_Simulation_Process.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Ввод данных">
+    <param name="Name" value="Создание шага «Ввод данных»: Настольное приложение">
+    <param name="Local" value="Desktop/Process/StepsProcess/Data_Entry.htm">
+    <param name="Name" value="Создание шага «Ввод данных»: Веб-приложение">
+    <param name="Local" value="Web/Process/StepsProcess/Data_Entry.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Вызов Fore-метода">
+    <param name="Name" value="Создание шага «Вызов Fore-метода»: Настольное приложение">
+    <param name="Local" value="Desktop/Process/StepsProcess/Fore.htm">
+    <param name="Name" value="Создание шага «Вызов Fore-метода»: Веб-приложение">
+    <param name="Local" value="Web/Process/StepsProcess/Fore.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Вызов подпроцесса">
+    <param name="Name" value="Создание шага «Вызов подпроцесса»: Настольное приложение">
+    <param name="Local" value="Desktop/Process/StepsProcess/Subprocess.htm">
+    <param name="Name" value="Создание шага «Вызов подпроцесса»: Веб-приложение">
+    <param name="Local" value="Web/Process/StepsProcess/Subprocess.htm">
+    <param name="Name" value="Выполнение шагов подпроцесса: Настольное приложение">
+    <param name="Local" value="Desktop/MonitoringProcess/Executing_Subprocess.htm">
+    <param name="Name" value="Выполнение шагов подпроцесса: Веб-приложение">
+    <param name="Local" value="Web/MonitoringProcess/Executing_Subprocess.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Задача ETL">
+    <param name="Name" value="Создание шага «Задача ETL»: Настольное приложение">
+    <param name="Local" value="Desktop/Process/StepsProcess/ETL.htm">
+    <param name="Name" value="Создание шага «Задача ETL»: Веб-приложение">
+    <param name="Local" value="Web/Process/StepsProcess/ETL.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Расчёт">
+    <param name="Name" value="Создание шага «Расчёт»: Настольное приложение">
+    <param name="Local" value="Desktop/Process/StepsProcess/Calculation.htm">
+    <param name="Name" value="Создание шага «Расчёт»: Веб-приложение">
+    <param name="Local" value="Web/Process/StepsProcess/Calculation.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Ручное действие">
+    <param name="Name" value="Создание шага «Ручное действие»: Настольное приложение">
+    <param name="Local" value="Desktop/Process/StepsProcess/Manual_Task.htm">
+    <param name="Name" value="Создание шага «Ручное действие»: Веб-приложение">
+    <param name="Local" value="Web/Process/StepsProcess/Manual_Task.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Согласование">
+    <param name="Name" value="Создание шага «Согласование»: Настольное приложение">
+    <param name="Local" value="Desktop/Process/StepsProcess/Agreement.htm">
+    <param name="Name" value="Создание шага «Согласование»: Веб-приложение">
+    <param name="Local" value="Web/Process/StepsProcess/Agreement.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Динамический">
+    <param name="Name" value="Создание шага «Ввод данных»: Веб-приложение">
+    <param name="Local" value="Web/Process/StepsProcess/Data_Entry.htm#base_settings">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Срок выполнения шага">
+    <param name="Name" value="Создание шага «Ввод данных»: Настольное приложение">
+    <param name="Local" value="Desktop/Process/StepsProcess/Data_Entry.htm#base_settings">
+    <param name="Name" value="Создание шагов этапа: Веб-приложение">
+    <param name="Local" value="Web/Process/StepsProcess/CreateStepsProcess.htm#steps_process_firs_page">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Масштаб">
+    <param name="Name" value="Настройки рабочей области: Процесс, настольное приложение">
+    <param name="Local" value="Desktop/Process/workspace_features.htm">
+    <param name="Name" value="Настройка рабочей области: Процесс, веб-приложение">
+    <param name="Local" value="Web/Process/workspace_features.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Запуск процесса">
+    <param name="Name" value="Запуск процесса: Веб-приложение">
+    <param name="Local" value="Web/Process/Start_Process.htm">
+    <param name="Name" value="Запуск процесса: Настольное приложение">
+    <param name="Local" value="Desktop/Process/Start_Process.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Срок выполнения процесса">
+    <param name="Name" value="Запуск процесса: Веб-приложение">
+    <param name="Local" value="Web/Process/Start_Process.htm">
+    <param name="Name" value="Запуск процесса: Настольное приложение">
+    <param name="Local" value="Desktop/Process/Start_Process.htm">
+    <param name="Name" value="Управление экземплярами процесса: Веб-приложение">
+    <param name="Local" value="Web/MonitoringProcess/process_instance_management.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Выполнить проверку подпроцесса">
+    <param name="Name" value="Запуск процесса: Веб-приложение">
+    <param name="Local" value="Web/Process/Start_Process.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Параметры запуска">
+    <param name="Name" value="Запуск процесса: Веб-приложение">
+    <param name="Local" value="Web/Process/Start_Process.htm">
+    <param name="Name" value="Запуск процесса: Настольное приложение">
+    <param name="Local" value="Desktop/Process/Start_Process.htm">
+    <param name="Name" value="Настройка стартового события по времени: Веб-приложение">
+    <param name="Local" value="Web/Process/Setting_up_Events.htm">
+    <param name="Name" value="Выполнение шагов подпроцесса: Настольное приложение">
+    <param name="Local" value="Desktop/MonitoringProcess/Executing_Subprocess.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Разбивка экземпляров по параметру">
+    <param name="Name" value="Запуск процесса: Веб-приложение">
+    <param name="Local" value="Web/Process/Start_Process.htm">
+    <param name="Name" value="Выполнение шагов подпроцесса: Веб-приложение">
+    <param name="Local" value="Web/MonitoringProcess/Executing_Subprocess.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Выполнять полную проверку перед запуском">
+    <param name="Name" value="Запуск процесса: Настольное приложение">
+    <param name="Local" value="Desktop/Process/Start_Process.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Промежуточное событие">
+    <param name="Name" value="Настройка промежуточных событий по времени: Настольное приложение">
+    <param name="Local" value="Desktop/Process/Setting_up_Timer_Intermediate_Events.htm">
+    <param name="Name" value="Настройка промежуточных событий по времени: Веб-приложение">
+    <param name="Local" value="Web/Process/Setting_up_Timer_Intermediate_Events.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Интервал">
+    <param name="Name" value="Настройка промежуточных событий по времени: Настольное приложение">
+    <param name="Local" value="Desktop/Process/Setting_up_Timer_Intermediate_Events.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Настройка фильтрации вызова подпроцесса">
+    <param name="Name" value="Настройка условий вызова подпроцессов: Настольное приложение">
+    <param name="Local" value="Desktop/Process/StepsProcess/Setting_up_Subprocess_Call_Conditions.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Настройки">
+    <param name="Name" value="Создание шага «Ввод данных»: Настольное приложение">
+    <param name="Local" value="Desktop/Process/StepsProcess/Data_Entry.htm#base_settings">
+    <param name="Name" value="Создание шага «Вызов Fore-метода»: Настольное приложение">
+    <param name="Local" value="Desktop/Process/StepsProcess/Fore.htm#base_settings">
+    <param name="Name" value="Создание шага «Вызов подпроцесса»: Настольное приложение">
+    <param name="Local" value="Desktop/Process/StepsProcess/Subprocess.htm#base_settings">
+    <param name="Name" value="Создание шага «Задача ETL»: Настольное приложение">
+    <param name="Local" value="Desktop/Process/StepsProcess/ETL.htm#base_settings">
+    <param name="Name" value="Создание шага «Отправка e-mail оповещения»: Настольное приложение">
+    <param name="Local" value="Desktop/Process/StepsProcess/E-mail.htm#base_settings">
+    <param name="Name" value="Создание шага «Расчёт»: Настольное приложение">
+    <param name="Local" value="Desktop/Process/StepsProcess/Calculation.htm#base_settings">
+    <param name="Name" value="Создание шага «Ручное действие»: Настольное приложение">
+    <param name="Local" value="Desktop/Process/StepsProcess/Manual_Task.htm#base_settings">
+    <param name="Name" value="Создание шага «Согласование»: Настольное приложение">
+    <param name="Local" value="Desktop/Process/StepsProcess/Agreement.htm#base_settings">
+    <param name="Name" value="Создание шага «Ввод данных»: Веб-приложение">
+    <param name="Local" value="Web/Process/StepsProcess/Data_Entry.htm#base_settings">
+    <param name="Name" value="Создание шага «Вызов Fore-метода»: Веб-приложение">
+    <param name="Local" value="Web/Process/StepsProcess/Fore.htm#base_settings">
+    <param name="Name" value="Создание шага «Задача ETL»: Веб-приложение">
+    <param name="Local" value="Web/Process/StepsProcess/ETL.htm#base_settings">
+    <param name="Name" value="Создание шага «Расчёт»: Веб-приложение">
+    <param name="Local" value="Web/Process/StepsProcess/Calculation.htm#base_settings">
+    <param name="Name" value="Создание шага «Ручное действие»: Веб-приложение">
+    <param name="Local" value="Web/Process/StepsProcess/Manual_Task.htm#base_settings">
+    <param name="Name" value="Создание шага «Согласование»: Веб-приложение">
+    <param name="Local" value="Web/Process/StepsProcess/Agreement.htm#base_settings">
+    <param name="Name" value="Создание шага «Вызов подпроцесса»: Веб-приложение">
+    <param name="Local" value="Web/Process/StepsProcess/Subprocess.htm#base_settings">
+    <param name="Name" value="Настройка стартового события по времени: Веб-приложение">
+    <param name="Local" value="Web/Process/Setting_up_Events.htm">
+    <param name="Name" value="Настройка параметров процесса: Веб-приложение">
+    <param name="Local" value="Web/Process/Setting_Process_Parameters.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Базовые свойства">
+      <param name="Name" value="Настройка базовых свойств: Процесс, веб-приложение">
+      <param name="Local" value="Web/Process/Basic_properties.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="События">
+      <param name="Name" value="Настройка событий: Процесс, веб-приложение">
+      <param name="Local" value="Web/Process/Events.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Параметры">
+      <param name="Name" value="Настройка параметров: Процесс, веб-приложение">
+      <param name="Local" value="Web/Process/Params_control.htm">
+    </object>
+    </ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Условие">
+    <param name="Name" value="Настройка условий вызова подпроцессов: Настольное приложение">
+    <param name="Local" value="Desktop/Process/StepsProcess/Setting_up_Subprocess_Call_Conditions.htm">
+    <param name="Name" value="Настройка условий вызова подпроцессов: Веб-приложение">
+    <param name="Local" value="Web/Process/StepsProcess/Setting_up_Subprocess_Call_Conditions.htm">
+    <param name="Name" value="Настройка условий выполнения шагов этапа: Процесс, веб-приложение">
+    <param name="Local" value="Web/Process/Setting_up_steps_conditions.htm">
+    <param name="Name" value="Настройка условий выполнения шагов этапа: Процесс, настольное приложение">
+    <param name="Local" value="Desktop/Process/Setting_up_steps_conditions.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Настройки фильтрации вызова подпроцесса">
+    <param name="Name" value="Настройка условий вызова подпроцессов: Веб-приложение">
+    <param name="Local" value="Web/Process/StepsProcess/Setting_up_Subprocess_Call_Conditions.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Шлюз">
+    <param name="Name" value="Настройка условий выполнения шагов этапа: Процесс, веб-приложение">
+    <param name="Local" value="Web/Process/Setting_up_steps_conditions.htm">
+    <param name="Name" value="Настройка условий выполнения шагов этапа: Процесс, настольное приложение">
+    <param name="Local" value="Desktop/Process/Setting_up_steps_conditions.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Исключающий шлюз">
+    <param name="Name" value="Настройка условий выполнения шагов этапа: Процесс, веб-приложение">
+    <param name="Local" value="Web/Process/Setting_up_steps_conditions.htm">
+    <param name="Name" value="Настройка условий выполнения шагов этапа: Процесс, настольное приложение">
+    <param name="Local" value="Desktop/Process/Setting_up_steps_conditions.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Параллельный шлюз">
+    <param name="Name" value="Настройка условий выполнения шагов этапа: Процесс, веб-приложение">
+    <param name="Local" value="Web/Process/Setting_up_steps_conditions.htm">
+    <param name="Name" value="Настройка условий выполнения шагов этапа: Процесс, настольное приложение">
+    <param name="Local" value="Desktop/Process/Setting_up_steps_conditions.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Включающий шлюз">
+    <param name="Name" value="Настройка условий выполнения шагов этапа: Процесс, веб-приложение">
+    <param name="Local" value="Web/Process/Setting_up_steps_conditions.htm">
+    <param name="Name" value="Настройка условий выполнения шагов этапа: Процесс, настольное приложение">
+    <param name="Local" value="Desktop/Process/Setting_up_steps_conditions.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Без шлюза">
+    <param name="Name" value="Настройка условий выполнения шагов этапа: Процесс, настольное приложение">
+    <param name="Local" value="Desktop/Process/Setting_up_steps_conditions.htm">
+    <param name="Name" value="Настройка условий выполнения шагов этапа: Процесс, веб-приложение">
+    <param name="Local" value="Web/Process/Setting_up_steps_conditions.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Группа шагов">
+    <param name="Name" value="Настройка условий выполнения шагов этапа: Процесс, настольное приложение">
+    <param name="Local" value="Desktop/Process/Setting_up_steps_conditions.htm">
+    <param name="Name" value="Настройка условий выполнения шагов этапа: Процесс, веб-приложение">
+    <param name="Local" value="Web/Process/Setting_up_steps_conditions.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Стартовое событие">
+    <param name="Name" value="Настройка стартового события по времени: Настольное приложение">
+    <param name="Local" value="Desktop/Process/Setting_up_Events.htm">
+    <param name="Name" value="Настройка стартового события по времени: Веб-приложение">
+    <param name="Local" value="Web/Process/Setting_up_Events.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Настройки стартового события">
+    <param name="Name" value="Настройка стартового события по времени: Настольное приложение">
+    <param name="Local" value="Desktop/Process/Setting_up_Events.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Отклонение шага">
+    <param name="Name" value="Отклонение шага процесса: Настольное приложение">
+    <param name="Local" value="Desktop/MonitoringProcess/Reject_step.htm">
+    <param name="Name" value="Отклонение шага процесса: Веб-приложение">
+    <param name="Local" value="Web/MonitoringProcess/Reject_step.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Выборочное отклонение подпроцессов">
+    <param name="Name" value="Отклонение шага процесса: Настольное приложение">
+    <param name="Local" value="Desktop/MonitoringProcess/Reject_step.htm">
+    <param name="Name" value="Отклонение шага процесса: Веб-приложение">
+    <param name="Local" value="Web/MonitoringProcess/Reject_step.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Автообновление">
+    <param name="Name" value="Обновление мониторинга процесса: Веб-приложение">
+    <param name="Local" value="Web/MonitoringProcess/process_update.htm">
+    <param name="Name" value="Журнал исполнения бизнес-процессов: Веб-приложение">
+    <param name="Local" value="Web/MonitoringProcess/Log_Stages_Steps_Pprocess.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Период автообновления">
+    <param name="Name" value="Обновление мониторинга процесса: Веб-приложение">
+    <param name="Local" value="Web/MonitoringProcess/process_update.htm">
+    <param name="Name" value="Журнал исполнения бизнес-процессов: Веб-приложение">
+    <param name="Local" value="Web/MonitoringProcess/Log_Stages_Steps_Pprocess.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Перезапуск">
+    <param name="Name" value="Управление экземплярами процесса: Веб-приложение">
+    <param name="Local" value="Web/MonitoringProcess/process_instance_management.htm">
+    <param name="Name" value="Перезапуск экземпляров подпроцесса: Веб-приложение">
+    <param name="Local" value="Web/MonitoringProcess/Restarting_subprocess_instances.htm">
+    <param name="Name" value="Перезапуск экземпляров подпроцесса: Настольное приложение">
+    <param name="Local" value="Desktop/MonitoringProcess/Restarting_subprocess_instances.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Остановка экземпляров процесса">
+    <param name="Name" value="Управление экземплярами процесса: Веб-приложение">
+    <param name="Local" value="Web/MonitoringProcess/process_instance_management.htm#stop">
+    <param name="Name" value="Управление экземплярами процесса: Веб-приложение">
+    <param name="Local" value="Web/MonitoringProcess/process_instance_management.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Поиск">
+    <param name="Name" value="Управление экземплярами процесса: Веб-приложение">
+    <param name="Local" value="Web/MonitoringProcess/process_instance_management.htm#search">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Фильтрация">
+    <param name="Name" value="Управление экземплярами процесса: Веб-приложение">
+    <param name="Local" value="Web/MonitoringProcess/process_instance_management.htm#filter">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Открыть связанный объект">
+    <param name="Name" value="Выполнение шагов процесса в ручном режиме: Настольное приложение">
+    <param name="Local" value="Desktop/MonitoringProcess/Manual_mode.htm">
+    <param name="Name" value="Выполнение шагов процесса в ручном режиме: Веб-приложение">
+    <param name="Local" value="Web/MonitoringProcess/Manual_mode.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Завершение шага">
+    <param name="Name" value="Выполнение шагов процесса в ручном режиме: Веб-приложение">
+    <param name="Local" value="Web/MonitoringProcess/Manual_mode.htm">
+    <param name="Name" value="Выполнение шагов процесса в ручном режиме: Настольное приложение">
+    <param name="Local" value="Desktop/MonitoringProcess/Manual_mode.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Журнал">
+    <param name="Name" value="Журнал выполнения этапов/шагов процесса: Настольное приложение">
+    <param name="Local" value="Desktop/MonitoringProcess/Log_Stages_Steps_Pprocess.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Журнал исполнения бизнес-процессов">
+    <param name="Name" value="Журнал исполнения бизнес-процессов: Веб-приложение">
+    <param name="Local" value="Web/MonitoringProcess/Log_Stages_Steps_Pprocess.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Запуск подпроцессов">
+    <param name="Name" value="Выполнение шагов подпроцесса: Настольное приложение">
+    <param name="Local" value="Desktop/MonitoringProcess/Executing_Subprocess.htm">
+    <param name="Name" value="Выполнение шагов подпроцесса: Веб-приложение">
+    <param name="Local" value="Web/MonitoringProcess/Executing_Subprocess.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Выполнение шага">
+    <param name="Name" value="Выполнение шагов подпроцесса: Настольное приложение">
+    <param name="Local" value="Desktop/MonitoringProcess/Executing_Subprocess.htm">
+    <param name="Name" value="Выполнение шагов процесса в автоматическом режиме: Настольное приложение">
+    <param name="Local" value="Desktop/MonitoringProcess/Auto_mode.htm">
+    <param name="Name" value="Выполнение шагов процесса в ручном режиме: Настольное приложение">
+    <param name="Local" value="Desktop/MonitoringProcess/Manual_mode.htm">
+    <param name="Name" value="Выполнение шагов подпроцесса: Веб-приложение">
+    <param name="Local" value="Web/MonitoringProcess/Executing_Subprocess.htm">
+    <param name="Name" value="Выполнение шагов процесса в автоматическом режиме: Веб-приложение">
+    <param name="Local" value="Web/MonitoringProcess/Auto_mode.htm">
+    <param name="Name" value="Выполнение шагов процесса в ручном режиме: Веб-приложение">
+    <param name="Local" value="Web/MonitoringProcess/Manual_mode.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Включение шага">
+    <param name="Name" value="Редактирование процесса: Настольное приложение">
+    <param name="Local" value="Desktop/Process/BPM_Edit_Process.htm#step_on_off">
+    <param name="Name" value="Редактирование процесса: Веб-приложение">
+    <param name="Local" value="Web/Process/BPM_Edit_Process.htm#step_on_off">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Просмотр свойств процесса">
+    <param name="Name" value="Редактирование процесса: Настольное приложение">
+    <param name="Local" value="Desktop/Process/BPM_Edit_Process.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Ключевые возможности">
+    <param name="Name" value="Моделирование бизнес-процессов">
+    <param name="Local" value="Modeling_of_business_processes.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Редактирование процесса">
+    <param name="Name" value="Редактирование процесса: Веб-приложение">
+    <param name="Local" value="Web/Process/BPM_Edit_Process.htm">
+    <param name="Name" value="Редактирование процесса: Настольное приложение">
+    <param name="Local" value="Desktop/Process/BPM_Edit_Process.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Отключение шага">
+    <param name="Name" value="Редактирование процесса: Веб-приложение">
+    <param name="Local" value="Web/Process/BPM_Edit_Process.htm#step_on_off">
+    <param name="Name" value="Редактирование процесса: Настольное приложение">
+    <param name="Local" value="Desktop/Process/BPM_Edit_Process.htm#step_on_off">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Очистка мониторинга">
+    <param name="Name" value="Очистка мониторинга процессов: Веб-приложение">
+    <param name="Local" value="Web/Process/Clear_Monitoring.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Рабочая область">
+    <param name="Name" value="Настройка рабочей области: Процесс, веб-приложение">
+    <param name="Local" value="Web/Process/workspace_features.htm">
+    <param name="Name" value="Настройки рабочей области: Процесс, настольное приложение">
+    <param name="Local" value="Desktop/Process/workspace_features.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Подсветка данных">
+    <param name="Name" value="Настройка отображения подсветки данных в форме ввода при выполнении шага">
+    <param name="Local" value="Web/Facility_Agreement/highlight_data.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Обновление">
+    <param name="Name" value="Журнал исполнения бизнес-процессов: Веб-приложение">
+    <param name="Local" value="Web/MonitoringProcess/Log_Stages_Steps_Pprocess.htm">
+    <param name="Name" value="Обновление мониторинга процесса: Веб-приложение">
+    <param name="Local" value="Web/MonitoringProcess/process_update.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Настройки сегментов">
+    <param name="Name" value="Управление сегментами данных: Веб-приложение">
+    <param name="Local" value="Web/Facility_Agreement/Setting_Segments.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Статические права доступа">
+    <param name="Name" value="Настройка ролевой модели: Веб-приложение">
+    <param name="Local" value="Web/Facility_Agreement/Role_model.htm">
+    <param name="Name" value="Настройка ролевой модели: Настольное приложение">
+    <param name="Local" value="Desktop/Facility_Agreement/Role_model.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Динамические права доступа">
+    <param name="Name" value="Настройка ролевой модели: Веб-приложение">
+    <param name="Local" value="Web/Facility_Agreement/Role_model.htm">
+    <param name="Name" value="Настройка ролевой модели: Настольное приложение">
+    <param name="Local" value="Desktop/Facility_Agreement/Role_model.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Права доступа">
+    <param name="Name" value="Настройка ролевой модели: Веб-приложение">
+    <param name="Local" value="Web/Facility_Agreement/Role_model.htm">
+    <param name="Name" value="Настройка ролевой модели: Настольное приложение">
+    <param name="Local" value="Desktop/Facility_Agreement/Role_model.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Статус">
+    <param name="Name" value="Мониторинг процесса: Веб-приложение">
+    <param name="Local" value="Web/Starting/Monitoring_process_execution.htm#status">
+    <param name="Name" value="Мониторинг процесса: Настольное приложение">
+    <param name="Local" value="Desktop/Starting/Monitoring_process_execution.htm#status">
+  </object>
+</ul>
+</html>

@@ -1,0 +1,38 @@
+﻿# NavigationItem.updateScrolls
+
+NavigationItem.updateScrolls
+-
+
+
+# NavigationItem.updateScrolls
+
+
+## Синтаксис
+
+
+updateScrolls();
+
+
+## Описание
+
+
+Метод updateScrolls обновляет
+ полосы прокрутки вкладки.
+
+
+## Пример
+
+
+Пример использования метода приведен в описании метода [NavigationItem.showScrolls](NavigationItem.showScrolls.htm).
+
+
+См. также:
+
+
+[NavigationItem](NavigationItem.htm)
+
+
+		Справочная
+		 система на версию 10.9
+		 от 18/08/2025,
+		 © ООО «ФОРСАЙТ»,

@@ -1,0 +1,43 @@
+<html>
+<!-- Sitemap 1.0 -->
+<object type="text/site properties">
+  <param name="SiteType" value="index">
+</object>
+<ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Интегрированная доменная авторизация">
+    <param name="Name" value="Интегрированная доменная авторизация при использовании Service Reference">
+    <param name="Local" value="integrated_domain_login.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Поиск неудалённых объектов">
+    <param name="Name" value="Поиск неудалённых объектов">
+    <param name="Local" value="SearchingForUndisposed.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Как правильно использовать метод dispose">
+    <param name="Name" value="Как правильно использовать метод dispose">
+    <param name="Local" value="Using_dispose.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Избавляемся от замыканий">
+    <param name="Name" value="Избавляемся от замыканий">
+    <param name="Local" value="avoid_closures.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="База знаний разработчиков веб-приложений">
+    <param name="Name" value="База знаний разработчиков веб-приложений">
+    <param name="Local" value="Web_Developers_KnowledgeBase.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Защита от XSS при использовании DHTML-компонентов">
+    <param name="Name" value="Защита от XSS при использовании DHTML-компонентов">
+    <param name="Local" value="XSS_protection.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Предупреждения (Warnings) при сборке проекта">
+    <param name="Name" value="Предупреждения (Warnings) при сборке проекта">
+    <param name="Local" value="Warnings.htm">
+  </object>
+</ul>
+</html>

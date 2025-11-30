@@ -1,0 +1,797 @@
+<html>
+<!-- Sitemap 1.0 -->
+<object type="text/site properties">
+  <param name="SiteType" value="index">
+</object>
+<ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Сборка Host">
+    <param name="Name" value="Сборка Host">
+    <param name="Local" value="KeHost_Title.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Интерфейсы сборки Host">
+      <param name="Name" value="Интерфейсы сборки Host">
+      <param name="Local" value="Interface/KeHost_Interface.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Классы сборки Host">
+      <param name="Name" value="Классы сборки Host">
+      <param name="Local" value="Class/KeHost_Class.htm">
+    </object>
+    </ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Host">
+    <param name="Name" value="Сборка Host">
+    <param name="Local" value="KeHost_Title.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Интерфейсы сборки Host">
+      <param name="Name" value="Интерфейсы сборки Host">
+      <param name="Local" value="Interface/KeHost_Interface.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Классы сборки Host">
+      <param name="Name" value="Классы сборки Host">
+      <param name="Local" value="Class/KeHost_Class.htm">
+    </object>
+    </ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Интерфейсы сборки Host">
+    <param name="Name" value="Интерфейсы сборки Host">
+    <param name="Local" value="Interface/KeHost_Interface.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Классы сборки Host">
+    <param name="Name" value="Классы сборки Host">
+    <param name="Local" value="Class/KeHost_Class.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILicense">
+    <param name="Name" value="ILicense">
+    <param name="Local" value="Interface/ILicense/ILicense.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILicense.FeatureName">
+    <param name="Name" value="ILicense.FeatureName">
+    <param name="Local" value="Interface/ILicense/ILicense.FeatureName.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="FeatureName">
+    <param name="Name" value="ILicense.FeatureName">
+    <param name="Local" value="Interface/ILicense/ILicense.FeatureName.htm">
+    <param name="Name" value="ILicenseCommuterInfo.FeatureName">
+    <param name="Local" value="Interface/ILicenseCommuterInfo/ILicenseCommuterInfo.FeatureName.htm">
+    <param name="Name" value="ILicenseFeatureInfo.FeatureName">
+    <param name="Local" value="Interface/ILicenseFeatureInfo/ILicenseFeatureInfo.FeatureName.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILicense.IsCommuter">
+    <param name="Name" value="ILicense.IsCommuter">
+    <param name="Local" value="Interface/ILicense/ILicense.IsCommuter.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IsCommuter">
+    <param name="Name" value="ILicense.IsCommuter">
+    <param name="Local" value="Interface/ILicense/ILicense.IsCommuter.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILicense.ServerName">
+    <param name="Name" value="ILicense.ServerName">
+    <param name="Local" value="Interface/ILicense/ILicense.ServerName.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ServerName">
+    <param name="Name" value="ILicense.ServerName">
+    <param name="Local" value="Interface/ILicense/ILicense.ServerName.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILicense.LicenseRelease">
+    <param name="Name" value="ILicense.LicenseRelease">
+    <param name="Local" value="Interface/ILicense/ILicense.LicenseRelease.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="LicenseRelease">
+    <param name="Name" value="ILicense.LicenseRelease">
+    <param name="Local" value="Interface/ILicense/ILicense.LicenseRelease.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILicense.LicenseUpdate">
+    <param name="Name" value="ILicense.LicenseUpdate">
+    <param name="Local" value="Interface/ILicense/ILicense.LicenseUpdate.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="LicenseUpdate">
+    <param name="Name" value="ILicense.LicenseUpdate">
+    <param name="Local" value="Interface/ILicense/ILicense.LicenseUpdate.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILicenseCommuterInfo">
+    <param name="Name" value="ILicenseCommuterInfo">
+    <param name="Local" value="Interface/ILicenseCommuterInfo/ILicenseCommuterInfo.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILicenseCommuterInfo.ExpireDate">
+    <param name="Name" value="ILicenseCommuterInfo.ExpireDate">
+    <param name="Local" value="Interface/ILicenseCommuterInfo/ILicenseCommuterInfo.ExpireDate.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ExpireDate">
+    <param name="Name" value="ILicenseCommuterInfo.ExpireDate">
+    <param name="Local" value="Interface/ILicenseCommuterInfo/ILicenseCommuterInfo.ExpireDate.htm">
+    <param name="Name" value="ILicenseFeatureInfo.ExpireDate">
+    <param name="Local" value="Interface/ILicenseFeatureInfo/ILicenseFeatureInfo.ExpireDate.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILicenseCommuterInfo.FeatureName">
+    <param name="Name" value="ILicenseCommuterInfo.FeatureName">
+    <param name="Local" value="Interface/ILicenseCommuterInfo/ILicenseCommuterInfo.FeatureName.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILicenseCommuterInfo.IssuingServer">
+    <param name="Name" value="ILicenseCommuterInfo.IssuingServer">
+    <param name="Local" value="Interface/ILicenseCommuterInfo/ILicenseCommuterInfo.IssuingServer.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IssuingServer">
+    <param name="Name" value="ILicenseCommuterInfo.IssuingServer">
+    <param name="Local" value="Interface/ILicenseCommuterInfo/ILicenseCommuterInfo.IssuingServer.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILicenseCommuterInfo.StartDate">
+    <param name="Name" value="ILicenseCommuterInfo.StartDate">
+    <param name="Local" value="Interface/ILicenseCommuterInfo/ILicenseCommuterInfo.StartDate.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="StartDate">
+    <param name="Name" value="ILicenseCommuterInfo.StartDate">
+    <param name="Local" value="Interface/ILicenseCommuterInfo/ILicenseCommuterInfo.StartDate.htm">
+    <param name="Name" value="ILicenseFeatureInfo.StartDate">
+    <param name="Local" value="Interface/ILicenseFeatureInfo/ILicenseFeatureInfo.StartDate.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILicenseFeatureInfo">
+    <param name="Name" value="ILicenseFeatureInfo">
+    <param name="Local" value="Interface/ILicenseFeatureInfo/ILicenseFeatureInfo.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILicenseFeatureInfo.CommuterAllowed">
+    <param name="Name" value="ILicenseFeatureInfo.CommuterAllowed">
+    <param name="Local" value="Interface/ILicenseFeatureInfo/ILicenseFeatureInfo.CommuterAllowed.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="CommuterAllowed">
+    <param name="Name" value="ILicenseFeatureInfo.CommuterAllowed">
+    <param name="Local" value="Interface/ILicenseFeatureInfo/ILicenseFeatureInfo.CommuterAllowed.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILicenseFeatureInfo.DaysLeft">
+    <param name="Name" value="ILicenseFeatureInfo.DaysLeft">
+    <param name="Local" value="Interface/ILicenseFeatureInfo/ILicenseFeatureInfo.DaysLeft.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="DaysLeft">
+    <param name="Name" value="ILicenseFeatureInfo.DaysLeft">
+    <param name="Local" value="Interface/ILicenseFeatureInfo/ILicenseFeatureInfo.DaysLeft.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILicenseFeatureInfo.ExpireDate">
+    <param name="Name" value="ILicenseFeatureInfo.ExpireDate">
+    <param name="Local" value="Interface/ILicenseFeatureInfo/ILicenseFeatureInfo.ExpireDate.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILicenseFeatureInfo.FeatureName">
+    <param name="Name" value="ILicenseFeatureInfo.FeatureName">
+    <param name="Local" value="Interface/ILicenseFeatureInfo/ILicenseFeatureInfo.FeatureName.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILicenseFeatureInfo.LicenseMode">
+    <param name="Name" value="ILicenseFeatureInfo.LicenseMode">
+    <param name="Local" value="Interface/ILicenseFeatureInfo/ILicenseFeatureInfo.LicenseMode.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="LicenseMode">
+    <param name="Name" value="ILicenseFeatureInfo.LicenseMode">
+    <param name="Local" value="Interface/ILicenseFeatureInfo/ILicenseFeatureInfo.LicenseMode.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILicenseFeatureInfo.LicenseType">
+    <param name="Name" value="ILicenseFeatureInfo.LicenseType">
+    <param name="Local" value="Interface/ILicenseFeatureInfo/ILicenseFeatureInfo.LicenseType.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="LicenseType">
+    <param name="Name" value="ILicenseFeatureInfo.LicenseType">
+    <param name="Local" value="Interface/ILicenseFeatureInfo/ILicenseFeatureInfo.LicenseType.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILicenseFeatureInfo.LockType">
+    <param name="Name" value="ILicenseFeatureInfo.LockType">
+    <param name="Local" value="Interface/ILicenseFeatureInfo/ILicenseFeatureInfo.LockType.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILicenseFeatureInfo.StartDate">
+    <param name="Name" value="ILicenseFeatureInfo.StartDate">
+    <param name="Local" value="Interface/ILicenseFeatureInfo/ILicenseFeatureInfo.StartDate.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILicenseFeatureInfo.TrialDaysCount">
+    <param name="Name" value="ILicenseFeatureInfo.TrialDaysCount">
+    <param name="Local" value="Interface/ILicenseFeatureInfo/ILicenseFeatureInfo.TrialDaysCount.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="TrialDaysCount">
+    <param name="Name" value="ILicenseFeatureInfo.TrialDaysCount">
+    <param name="Local" value="Interface/ILicenseFeatureInfo/ILicenseFeatureInfo.TrialDaysCount.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILicenseManager">
+    <param name="Name" value="ILicenseManager">
+    <param name="Local" value="Interface/ILicenseManager/ILicenseManager.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILicenseManager.AddFeature">
+    <param name="Name" value="ILicenseManager.AddFeature">
+    <param name="Local" value="Interface/ILicenseManager/ILicenseManager.AddFeature.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="AddFeature">
+    <param name="Name" value="ILicenseManager.AddFeature">
+    <param name="Local" value="Interface/ILicenseManager/ILicenseManager.AddFeature.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILicenseManager.CheckinCommuterLicense">
+    <param name="Name" value="ILicenseManager.CheckinCommuterLicense">
+    <param name="Local" value="Interface/ILicenseManager/ILicenseManager.CheckinCommuterLicense.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="CheckinCommuterLicense">
+    <param name="Name" value="ILicenseManager.CheckinCommuterLicense">
+    <param name="Local" value="Interface/ILicenseManager/ILicenseManager.CheckinCommuterLicense.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILicenseManager.CheckoutCommuterLicense">
+    <param name="Name" value="ILicenseManager.CheckoutCommuterLicense">
+    <param name="Local" value="Interface/ILicenseManager/ILicenseManager.CheckoutCommuterLicense.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="CheckoutCommuterLicense">
+    <param name="Name" value="ILicenseManager.CheckoutCommuterLicense">
+    <param name="Local" value="Interface/ILicenseManager/ILicenseManager.CheckoutCommuterLicense.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILicenseManager.DeleteFeature">
+    <param name="Name" value="ILicenseManager.DeleteFeature">
+    <param name="Local" value="Interface/ILicenseManager/ILicenseManager.DeleteFeature.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="DeleteFeature">
+    <param name="Name" value="ILicenseManager.DeleteFeature">
+    <param name="Local" value="Interface/ILicenseManager/ILicenseManager.DeleteFeature.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILicenseManager.GetAllFeatures">
+    <param name="Name" value="ILicenseManager.GetAllFeatures">
+    <param name="Local" value="Interface/ILicenseManager/ILicenseManager.GetAllFeatures.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GetAllFeatures">
+    <param name="Name" value="ILicenseManager.GetAllFeatures">
+    <param name="Local" value="Interface/ILicenseManager/ILicenseManager.GetAllFeatures.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILicenseManager.IsCheckedOut">
+    <param name="Name" value="ILicenseManager.IsCheckedOut">
+    <param name="Local" value="Interface/ILicenseManager/ILicenseManager.IsCheckedOut.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IsCheckedOut">
+    <param name="Name" value="ILicenseManager.IsCheckedOut">
+    <param name="Local" value="Interface/ILicenseManager/ILicenseManager.IsCheckedOut.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILicenseManager.IsStandalone">
+    <param name="Name" value="ILicenseManager.IsStandalone">
+    <param name="Local" value="Interface/ILicenseManager/ILicenseManager.IsStandalone.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IsStandalone">
+    <param name="Name" value="ILicenseManager.IsStandalone">
+    <param name="Local" value="Interface/ILicenseManager/ILicenseManager.IsStandalone.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILicenseManager.Server">
+    <param name="Name" value="ILicenseManager.Server">
+    <param name="Local" value="Interface/ILicenseManager/ILicenseManager.Server.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Server">
+    <param name="Name" value="ILicenseManager.Server">
+    <param name="Local" value="Interface/ILicenseManager/ILicenseManager.Server.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IShellExecuteInfo">
+    <param name="Name" value="IShellExecuteInfo">
+    <param name="Local" value="Interface/IShellExecuteInfo/IShellExecuteInfo.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IShellExecuteInfo.Directory">
+    <param name="Name" value="IShellExecuteInfo.Directory">
+    <param name="Local" value="Interface/IShellExecuteInfo/IShellExecuteInfo.Directory.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Directory">
+    <param name="Name" value="IShellExecuteInfo.Directory">
+    <param name="Local" value="Interface/IShellExecuteInfo/IShellExecuteInfo.Directory.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IShellExecuteInfo.File">
+    <param name="Name" value="IShellExecuteInfo.File">
+    <param name="Local" value="Interface/IShellExecuteInfo/IShellExecuteInfo.File.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="File">
+    <param name="Name" value="IShellExecuteInfo.File">
+    <param name="Local" value="Interface/IShellExecuteInfo/IShellExecuteInfo.File.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IShellExecuteInfo.Parameters">
+    <param name="Name" value="IShellExecuteInfo.Parameters">
+    <param name="Local" value="Interface/IShellExecuteInfo/IShellExecuteInfo.Parameters.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Parameters">
+    <param name="Name" value="IShellExecuteInfo.Parameters">
+    <param name="Local" value="Interface/IShellExecuteInfo/IShellExecuteInfo.Parameters.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IShellExecuteInfo.WaitTimeout">
+    <param name="Name" value="IShellExecuteInfo.WaitTimeout">
+    <param name="Local" value="Interface/IShellExecuteInfo/IShellExecuteInfo.WaitTimeout.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="WaitTimeout">
+    <param name="Name" value="IShellExecuteInfo.WaitTimeout">
+    <param name="Local" value="Interface/IShellExecuteInfo/IShellExecuteInfo.WaitTimeout.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IShellExecuteInfo.WaitToTerminate">
+    <param name="Name" value="IShellExecuteInfo.WaitToTerminate">
+    <param name="Local" value="Interface/IShellExecuteInfo/IShellExecuteInfo.WaitToTerminate.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="WaitToTerminate">
+    <param name="Name" value="IShellExecuteInfo.WaitToTerminate">
+    <param name="Local" value="Interface/IShellExecuteInfo/IShellExecuteInfo.WaitToTerminate.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IProcess">
+    <param name="Name" value="IProcess">
+    <param name="Local" value="Interface/IProcess/IProcess.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IProcess.ExitCode">
+    <param name="Name" value="IProcess.ExitCode">
+    <param name="Local" value="Interface/IProcess/IProcess.ExitCode.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ExitCode">
+    <param name="Name" value="IProcess.ExitCode">
+    <param name="Local" value="Interface/IProcess/IProcess.ExitCode.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IProcess.HasExited">
+    <param name="Name" value="IProcess.HasExited">
+    <param name="Local" value="Interface/IProcess/IProcess.HasExited.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="HasExited">
+    <param name="Name" value="IProcess.HasExited">
+    <param name="Local" value="Interface/IProcess/IProcess.HasExited.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IProcess.Kill">
+    <param name="Name" value="IProcess.Kill">
+    <param name="Local" value="Interface/IProcess/IProcess.Kill.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Kill">
+    <param name="Name" value="IProcess.Kill">
+    <param name="Local" value="Interface/IProcess/IProcess.Kill.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IProcess.Start">
+    <param name="Name" value="IProcess.Start">
+    <param name="Local" value="Interface/IProcess/IProcess.Start.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Start">
+    <param name="Name" value="IProcess.Start">
+    <param name="Local" value="Interface/IProcess/IProcess.Start.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILicenseManager.CommuterInfo">
+    <param name="Name" value="ILicenseManager.CommuterInfo">
+    <param name="Local" value="Interface/ILicenseManager/ILicenseManager.CommuterInfo.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="CommuterInfo">
+    <param name="Name" value="ILicenseManager.CommuterInfo">
+    <param name="Local" value="Interface/ILicenseManager/ILicenseManager.CommuterInfo.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILicenseManager.FeatureInfo">
+    <param name="Name" value="ILicenseManager.FeatureInfo">
+    <param name="Local" value="Interface/ILicenseManager/ILicenseManager.FeatureInfo.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="FeatureInfo">
+    <param name="Name" value="ILicenseManager.FeatureInfo">
+    <param name="Local" value="Interface/ILicenseManager/ILicenseManager.FeatureInfo.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILicenseManager.RequestLicense">
+    <param name="Name" value="ILicenseManager.RequestLicense">
+    <param name="Local" value="Interface/ILicenseManager/ILicenseManager.RequestLicense.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="RequestLicense">
+    <param name="Name" value="ILicenseManager.RequestLicense">
+    <param name="Local" value="Interface/ILicenseManager/ILicenseManager.RequestLicense.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILicenseManager.FeatureDescription">
+    <param name="Name" value="ILicenseManager.FeatureDescription">
+    <param name="Local" value="Interface/ILicenseManager/ILicenseManager.FeatureDescription.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="FeatureDescription">
+    <param name="Name" value="ILicenseManager.FeatureDescription">
+    <param name="Local" value="Interface/ILicenseManager/ILicenseManager.FeatureDescription.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILicenseRequestSettings">
+    <param name="Name" value="ILicenseRequestSettings">
+    <param name="Local" value="Interface/ILicenseRequestSettings/ILicenseRequestSettings.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILicenseRequestSettings.FeatureType">
+    <param name="Name" value="ILicenseRequestSettings.FeatureType">
+    <param name="Local" value="Interface/ILicenseRequestSettings/ILicenseRequestSettings.FeatureType.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="FeatureType">
+    <param name="Name" value="ILicenseRequestSettings.FeatureType">
+    <param name="Local" value="Interface/ILicenseRequestSettings/ILicenseRequestSettings.FeatureType.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILicenseFeatureInfo.Description">
+    <param name="Name" value="ILicenseFeatureInfo.Description">
+    <param name="Local" value="Interface/ILicenseFeatureInfo/ILicenseFeatureInfo.Description.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Description">
+    <param name="Name" value="ILicenseFeatureInfo.Description">
+    <param name="Local" value="Interface/ILicenseFeatureInfo/ILicenseFeatureInfo.Description.htm">
+    <param name="Name" value="IApplicationVersion.Description">
+    <param name="Local" value="Interface/IApplicationVersion/IApplicationVersion.Description.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILicenseFeatureInfo.NoExpiration">
+    <param name="Name" value="ILicenseFeatureInfo.NoExpiration">
+    <param name="Local" value="Interface/ILicenseFeatureInfo/ILicenseFeatureInfo.NoExpiration.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="NoExpiration">
+    <param name="Name" value="ILicenseFeatureInfo.NoExpiration">
+    <param name="Local" value="Interface/ILicenseFeatureInfo/ILicenseFeatureInfo.NoExpiration.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="LicenseManager">
+    <param name="Name" value="LicenseManager">
+    <param name="Local" value="Class/LicenseManager/LicenseManager.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="LicenseRequestSettings">
+    <param name="Name" value="LicenseRequestSettings">
+    <param name="Local" value="Class/LicenseRequestSettings/LicenseRequestSettings.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ShellExecuteInfo">
+    <param name="Name" value="ShellExecuteInfo">
+    <param name="Local" value="Class/ShellExecuteInfo/ShellExecuteInfo.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IShellProcess">
+    <param name="Name" value="IShellProcess">
+    <param name="Local" value="Interface/IShellProcess/IShellProcess.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IShellProcess.Error">
+    <param name="Name" value="IShellProcess.Error">
+    <param name="Local" value="Interface/IShellProcess/IShellProcess.Error.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Error">
+    <param name="Name" value="IShellProcess.Error">
+    <param name="Local" value="Interface/IShellProcess/IShellProcess.Error.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IShellProcess.Output">
+    <param name="Name" value="IShellProcess.Output">
+    <param name="Local" value="Interface/IShellProcess/IShellProcess.Output.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Output">
+    <param name="Name" value="IShellProcess.Output">
+    <param name="Local" value="Interface/IShellProcess/IShellProcess.Output.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ShellProcess">
+    <param name="Name" value="ShellProcess">
+    <param name="Local" value="Class/ShellProcess/ShellProcess.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="LockType">
+    <param name="Name" value="ILicenseFeatureInfo.LockType">
+    <param name="Local" value="Interface/ILicenseFeatureInfo/ILicenseFeatureInfo.LockType.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ILicenseFeatureInfo.LicenseIds">
+    <param name="Name" value="ILicenseFeatureInfo.LicenseIds">
+    <param name="Local" value="Interface/ILicenseFeatureInfo/ILicenseFeatureInfo.LicenseIds.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="LicenseIds">
+    <param name="Name" value="ILicenseFeatureInfo.LicenseIds">
+    <param name="Local" value="Interface/ILicenseFeatureInfo/ILicenseFeatureInfo.LicenseIds.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IApplicationVersion">
+    <param name="Name" value="IApplicationVersion">
+    <param name="Local" value="Interface/IApplicationVersion/IApplicationVersion.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Build">
+    <param name="Name" value="IApplicationVersion.Build">
+    <param name="Local" value="Interface/IApplicationVersion/IApplicationVersion.Build.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IApplicationVersion.Build">
+    <param name="Name" value="IApplicationVersion.Build">
+    <param name="Local" value="Interface/IApplicationVersion/IApplicationVersion.Build.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IApplicationVersion.Debug">
+    <param name="Name" value="IApplicationVersion.Debug">
+    <param name="Local" value="Interface/IApplicationVersion/IApplicationVersion.Debug.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Debug">
+    <param name="Name" value="IApplicationVersion.Debug">
+    <param name="Local" value="Interface/IApplicationVersion/IApplicationVersion.Debug.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IApplicationVersion.Description">
+    <param name="Name" value="IApplicationVersion.Description">
+    <param name="Local" value="Interface/IApplicationVersion/IApplicationVersion.Description.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IApplicationVersion.IsRelease">
+    <param name="Name" value="IApplicationVersion.IsRelease">
+    <param name="Local" value="Interface/IApplicationVersion/IApplicationVersion.IsRelease.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IsRelease">
+    <param name="Name" value="IApplicationVersion.IsRelease">
+    <param name="Local" value="Interface/IApplicationVersion/IApplicationVersion.IsRelease.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IApplicationVersion.Major">
+    <param name="Name" value="IApplicationVersion.Major">
+    <param name="Local" value="Interface/IApplicationVersion/IApplicationVersion.Major.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Major">
+    <param name="Name" value="IApplicationVersion.Major">
+    <param name="Local" value="Interface/IApplicationVersion/IApplicationVersion.Major.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IApplicationVersion.MaxReleaseBuild">
+    <param name="Name" value="IApplicationVersion.MaxReleaseBuild">
+    <param name="Local" value="Interface/IApplicationVersion/IApplicationVersion.MaxReleaseBuild.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="MaxReleaseBuild">
+    <param name="Name" value="IApplicationVersion.MaxReleaseBuild">
+    <param name="Local" value="Interface/IApplicationVersion/IApplicationVersion.MaxReleaseBuild.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IApplicationVersion.Minor">
+    <param name="Name" value="IApplicationVersion.Minor">
+    <param name="Local" value="Interface/IApplicationVersion/IApplicationVersion.Minor.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Minor">
+    <param name="Name" value="IApplicationVersion.Minor">
+    <param name="Local" value="Interface/IApplicationVersion/IApplicationVersion.Minor.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IApplicationVersion.MinReleaseBuild">
+    <param name="Name" value="IApplicationVersion.MinReleaseBuild">
+    <param name="Local" value="Interface/IApplicationVersion/IApplicationVersion.MinReleaseBuild.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="MinReleaseBuild">
+    <param name="Name" value="IApplicationVersion.MinReleaseBuild">
+    <param name="Local" value="Interface/IApplicationVersion/IApplicationVersion.MinReleaseBuild.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IApplicationVersion.PrivateBuild">
+    <param name="Name" value="IApplicationVersion.PrivateBuild">
+    <param name="Local" value="Interface/IApplicationVersion/IApplicationVersion.PrivateBuild.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="PrivateBuild">
+    <param name="Name" value="IApplicationVersion.PrivateBuild">
+    <param name="Local" value="Interface/IApplicationVersion/IApplicationVersion.PrivateBuild.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IApplicationVersion.QFE">
+    <param name="Name" value="IApplicationVersion.QFE">
+    <param name="Local" value="Interface/IApplicationVersion/IApplicationVersion.QFE.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="QFE">
+    <param name="Name" value="IApplicationVersion.QFE">
+    <param name="Local" value="Interface/IApplicationVersion/IApplicationVersion.QFE.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IApplicationVersion.ShortDescription">
+    <param name="Name" value="IApplicationVersion.ShortDescription">
+    <param name="Local" value="Interface/IApplicationVersion/IApplicationVersion.ShortDescription.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ShortDescription">
+    <param name="Name" value="IApplicationVersion.ShortDescription">
+    <param name="Local" value="Interface/IApplicationVersion/IApplicationVersion.ShortDescription.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IApplicationVersion.VersionDescription">
+    <param name="Name" value="IApplicationVersion.VersionDescription">
+    <param name="Local" value="Interface/IApplicationVersion/IApplicationVersion.VersionDescription.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="VersionDescription">
+    <param name="Name" value="IApplicationVersion.VersionDescription">
+    <param name="Local" value="Interface/IApplicationVersion/IApplicationVersion.VersionDescription.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IMemoryStatus.AvailablePageFile">
+    <param name="Name" value="IMemoryStatus.AvailablePageFile">
+    <param name="Local" value="Interface/IMemoryStatus/IMemoryStatus.AvailablePageFile.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="AvailablePageFile">
+    <param name="Name" value="IMemoryStatus.AvailablePageFile">
+    <param name="Local" value="Interface/IMemoryStatus/IMemoryStatus.AvailablePageFile.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IMemoryStatus.AvailablePhysicalMemory">
+    <param name="Name" value="IMemoryStatus.AvailablePhysicalMemory">
+    <param name="Local" value="Interface/IMemoryStatus/IMemoryStatus.AvailablePhysicalMemory.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="AvailablePhysicalMemory">
+    <param name="Name" value="IMemoryStatus.AvailablePhysicalMemory">
+    <param name="Local" value="Interface/IMemoryStatus/IMemoryStatus.AvailablePhysicalMemory.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IMemoryStatus.AvailableVirtualMemory">
+    <param name="Name" value="IMemoryStatus.AvailableVirtualMemory">
+    <param name="Local" value="Interface/IMemoryStatus/IMemoryStatus.AvailableVirtualMemory.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="AvailableVirtualMemory">
+    <param name="Name" value="IMemoryStatus.AvailableVirtualMemory">
+    <param name="Local" value="Interface/IMemoryStatus/IMemoryStatus.AvailableVirtualMemory.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IMemoryStatus.MemoryLoad">
+    <param name="Name" value="IMemoryStatus.MemoryLoad">
+    <param name="Local" value="Interface/IMemoryStatus/IMemoryStatus.MemoryLoad.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="MemoryLoad">
+    <param name="Name" value="IMemoryStatus.MemoryLoad">
+    <param name="Local" value="Interface/IMemoryStatus/IMemoryStatus.MemoryLoad.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IMemoryStatus.TotalPageFile">
+    <param name="Name" value="IMemoryStatus.TotalPageFile">
+    <param name="Local" value="Interface/IMemoryStatus/IMemoryStatus.TotalPageFile.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="TotalPageFile">
+    <param name="Name" value="IMemoryStatus.TotalPageFile">
+    <param name="Local" value="Interface/IMemoryStatus/IMemoryStatus.TotalPageFile.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IMemoryStatus.TotalPhysicalMemory">
+    <param name="Name" value="IMemoryStatus.TotalPhysicalMemory">
+    <param name="Local" value="Interface/IMemoryStatus/IMemoryStatus.TotalPhysicalMemory.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="TotalPhysicalMemory">
+    <param name="Name" value="IMemoryStatus.TotalPhysicalMemory">
+    <param name="Local" value="Interface/IMemoryStatus/IMemoryStatus.TotalPhysicalMemory.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IMemoryStatus.TotalVirtualMemory">
+    <param name="Name" value="IMemoryStatus.TotalVirtualMemory">
+    <param name="Local" value="Interface/IMemoryStatus/IMemoryStatus.TotalVirtualMemory.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="TotalVirtualMemory">
+    <param name="Name" value="IMemoryStatus.TotalVirtualMemory">
+    <param name="Local" value="Interface/IMemoryStatus/IMemoryStatus.TotalVirtualMemory.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Application">
+    <param name="Name" value="Application">
+    <param name="Local" value="Class/Application/Application.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ApplicationVersion">
+    <param name="Name" value="ApplicationVersion">
+    <param name="Local" value="Class/ApplicationVersion/ApplicationVersion.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IApplication.RegistryPath">
+    <param name="Name" value="IApplication.RegistryPath">
+    <param name="Local" value="Interface/IApplication/IApplication.RegistryPath.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="RegistryPath">
+    <param name="Name" value="IApplication.RegistryPath">
+    <param name="Local" value="Interface/IApplication/IApplication.RegistryPath.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IApplication.GetMemoryStatus">
+    <param name="Name" value="IApplication.GetMemoryStatus">
+    <param name="Local" value="Interface/IApplication/IApplication.GetMemoryStatus.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GetMemoryStatus">
+    <param name="Name" value="IApplication.GetMemoryStatus">
+    <param name="Local" value="Interface/IApplication/IApplication.GetMemoryStatus.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IApplication">
+    <param name="Name" value="IApplication">
+    <param name="Local" value="Interface/IApplication/iapplication.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IApplicationClass">
+    <param name="Name" value="IApplicationClass">
+    <param name="Local" value="Interface/IApplicationClass/IApplicationClass.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IApplicationClass.Instance">
+    <param name="Name" value="IApplicationClass.Instance">
+    <param name="Local" value="Interface/IApplicationClass/IApplicationClass.Instance.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Instance">
+    <param name="Name" value="IApplicationClass.Instance">
+    <param name="Local" value="Interface/IApplicationClass/IApplicationClass.Instance.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IMemoryStatus">
+    <param name="Name" value="IMemoryStatus">
+    <param name="Local" value="Interface/IMemoryStatus/IMemoryStatus.htm">
+  </object>
+</ul>
+</html>

@@ -1,0 +1,221 @@
+<html>
+<!-- Sitemap 1.0 -->
+<object type="text/site properties">
+  <param name="SiteType" value="toc">
+  <param name="Image Width" value="16">
+  <param name="Window Styles" value="0x800027">
+  <param name="ExWindow Styles" value="0x100">
+</object>
+<ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Registry">
+    <param name="Local" value="ModRegistry_Title.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Интерфейсы сборки Registry">
+      <param name="Local" value="Interface/Registry_Interface.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IRegistryClass">
+        <param name="Local" value="Interface/IRegistryClass/IRegistryClass.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IRegistryClass.ClassesRoot">
+          <param name="Local" value="Interface/IRegistryClass/IRegistryClass.ClassesRoot.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IRegistryClass.CurrentConfig">
+          <param name="Local" value="Interface/IRegistryClass/IRegistryClass.CurrentConfig.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IRegistryClass.CurrentUser">
+          <param name="Local" value="Interface/IRegistryClass/IRegistryClass.CurrentUser.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IRegistryClass.LocalMachine">
+          <param name="Local" value="Interface/IRegistryClass/IRegistryClass.LocalMachine.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IRegistryClass.Users">
+          <param name="Local" value="Interface/IRegistryClass/IRegistryClass.Users.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IRegistryKey">
+        <param name="Local" value="Interface/IRegistryKey/IRegistryKey.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IRegistryKey.CreateSubKey">
+          <param name="Local" value="Interface/IRegistryKey/IRegistryKey.CreateSubKey.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IRegistryKey.DeleteSubKey">
+          <param name="Local" value="Interface/IRegistryKey/IRegistryKey.DeleteSubKey.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IRegistryKey.DeleteValue">
+          <param name="Local" value="Interface/IRegistryKey/IRegistryKey.DeleteValue.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IRegistryKey.Flush">
+          <param name="Local" value="Interface/IRegistryKey/IRegistryKey.Flush.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IRegistryKey.GetSubKeyNames">
+          <param name="Local" value="Interface/IRegistryKey/IRegistryKey.GetSubKeyNames.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IRegistryKey.GetValueNames">
+          <param name="Local" value="Interface/IRegistryKey/IRegistryKey.GetValueNames.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IRegistryKey.Name">
+          <param name="Local" value="Interface/IRegistryKey/IRegistryKey.Name.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IRegistryKey.OpenSubKey">
+          <param name="Local" value="Interface/IRegistryKey/IRegistryKey.OpenSubKey.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IRegistryKey.ReadBoolean">
+          <param name="Local" value="Interface/IRegistryKey/IRegistryKey.ReadBoolean.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IRegistryKey.ReadBooleanDef">
+          <param name="Local" value="Interface/IRegistryKey/IRegistryKey.ReadBooleanDef.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IRegistryKey.ReadDateTime">
+          <param name="Local" value="Interface/IRegistryKey/IRegistryKey.ReadDateTime.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IRegistryKey.ReadDateTimeDef">
+          <param name="Local" value="Interface/IRegistryKey/IRegistryKey.ReadDateTimeDef.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IRegistryKey.ReadDouble">
+          <param name="Local" value="Interface/IRegistryKey/IRegistryKey.ReadDouble.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IRegistryKey.ReadDoubleDef">
+          <param name="Local" value="Interface/IRegistryKey/IRegistryKey.ReadDoubleDef.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IRegistryKey.ReadInteger">
+          <param name="Local" value="Interface/IRegistryKey/IRegistryKey.ReadInteger.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IRegistryKey.ReadIntegerDef">
+          <param name="Local" value="Interface/IRegistryKey/IRegistryKey.ReadIntegerDef.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IRegistryKey.ReadString">
+          <param name="Local" value="Interface/IRegistryKey/IRegistryKey.ReadString.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IRegistryKey.ReadStringDef">
+          <param name="Local" value="Interface/IRegistryKey/IRegistryKey.ReadStringDef.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IRegistryKey.ReadVariant">
+          <param name="Local" value="Interface/IRegistryKey/IRegistryKey.ReadVariant.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IRegistryKey.ReadVariantDef">
+          <param name="Local" value="Interface/IRegistryKey/IRegistryKey.ReadVariantDef.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IRegistryKey.SubKeyCount">
+          <param name="Local" value="Interface/IRegistryKey/IRegistryKey.SubKeyCount.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IRegistryKey.SubKeyExists">
+          <param name="Local" value="Interface/IRegistryKey/IRegistryKey.SubKeyExists.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IRegistryKey.ValueCount">
+          <param name="Local" value="Interface/IRegistryKey/IRegistryKey.ValueCount.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IRegistryKey.ValueExists">
+          <param name="Local" value="Interface/IRegistryKey/IRegistryKey.ValueExists.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IRegistryKey.WriteBoolean">
+          <param name="Local" value="Interface/IRegistryKey/IRegistryKey.WriteBoolean.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IRegistryKey.WriteDateTime">
+          <param name="Local" value="Interface/IRegistryKey/IRegistryKey.WriteDateTime.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IRegistryKey.WriteDouble">
+          <param name="Local" value="Interface/IRegistryKey/IRegistryKey.WriteDouble.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IRegistryKey.WriteInteger">
+          <param name="Local" value="Interface/IRegistryKey/IRegistryKey.WriteInteger.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IRegistryKey.WriteString">
+          <param name="Local" value="Interface/IRegistryKey/IRegistryKey.WriteString.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IRegistryKey.WriteVariant">
+          <param name="Local" value="Interface/IRegistryKey/IRegistryKey.WriteVariant.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Классы сборки Registry">
+      <param name="Local" value="Class/Registry_Class.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="RegistryClass">
+        <param name="Local" value="Class/RegistryClass/RegistryClass.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      </ul>
+    </ul>
+</ul>
+</html>

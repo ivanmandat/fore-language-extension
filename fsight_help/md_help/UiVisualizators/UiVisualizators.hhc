@@ -1,0 +1,114 @@
+<html>
+<!-- Sitemap 1.0 -->
+<object type="text/site properties">
+  <param name="SiteType" value="toc">
+  <param name="Image Width" value="16">
+  <param name="Window Styles" value="0x800007">
+  <param name="ExWindow Styles" value="0x100">
+</object>
+<ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Пузырьковая диаграмма">
+    <param name="Local" value="BubbleChart/BubbleChart.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Настройка легенды цвета и размера">
+      <param name="Local" value="BubbleChart/Legend.htm">
+      <param name="ImageNumber" value="11">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Настройка области построения пузырьковой диаграммы">
+      <param name="Local" value="BubbleChart/BubbleChart_area_settings.htm">
+      <param name="ImageNumber" value="11">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Настройка осей пузырьковой диаграммы">
+      <param name="Local" value="BubbleChart/Axis.htm">
+      <param name="ImageNumber" value="11">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Настройка линии тренда">
+      <param name="Local" value="BubbleChart/TrendLine.htm">
+      <param name="ImageNumber" value="11">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Настройка всплывающих подсказок">
+      <param name="Local" value="BubbleChart/Tooltip.htm">
+      <param name="ImageNumber" value="11">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Настройка шкалы размера">
+      <param name="Local" value="BubbleChart/UiAdhoc_Panel_size.htm">
+      <param name="ImageNumber" value="11">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Настройка цветовой шкалы">
+      <param name="Local" value="BubbleChart/UiAdhoc_Panel_ColorInd.htm">
+      <param name="ImageNumber" value="11">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Настройка следов пузырьков">
+      <param name="Local" value="BubbleChart/Bubbles_time_scale_panel.htm">
+      <param name="ImageNumber" value="11">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Настройка стиля пузырьковой диаграммы">
+      <param name="Local" value="BubbleChart/BubbleChart_Style.htm">
+      <param name="ImageNumber" value="11">
+    </object>
+    </ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Пузырьковое дерево">
+    <param name="Local" value="BubbleTree/BubbleTree.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Настройка легенды цвета и размера">
+      <param name="Local" value="BubbleTree/Legend.htm">
+      <param name="ImageNumber" value="11">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Настройка всплывающих подсказок">
+      <param name="Local" value="BubbleChart/Tooltip.htm#642b3b9347ca42c9b00b820c00c373fa=1">
+      <param name="ImageNumber" value="11">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Настройка шкалы размера">
+      <param name="Local" value="BubbleTree/Size.htm">
+      <param name="ImageNumber" value="11">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Настройка цветовой шкалы">
+      <param name="Local" value="BubbleChart/UiAdhoc_Panel_ColorInd.htm#642b3b9347ca42c9b00b820c00c373fa=1">
+      <param name="ImageNumber" value="11">
+    </object>
+    </ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Плоское дерево">
+    <param name="Local" value="TreeMap/TreeMap.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Настройка легенды цвета и размера">
+      <param name="Local" value="BubbleTree/Legend.htm#642b3b9347ca42c9b00b820c00c373fa=1">
+      <param name="ImageNumber" value="11">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Настройка всплывающих подсказок">
+      <param name="Local" value="BubbleChart/Tooltip.htm#642b3b9347ca42c9b00b820c00c373fa=2">
+      <param name="ImageNumber" value="11">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Настройка шкалы размера">
+      <param name="Local" value="BubbleTree/Size.htm#642b3b9347ca42c9b00b820c00c373fa=1">
+      <param name="ImageNumber" value="11">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Настройка цветовой шкалы">
+      <param name="Local" value="BubbleChart/UiAdhoc_Panel_ColorInd.htm#642b3b9347ca42c9b00b820c00c373fa=2">
+      <param name="ImageNumber" value="11">
+    </object>
+    </ul>
+</ul>
+</html>

@@ -1,0 +1,357 @@
+<html>
+<!-- Sitemap 1.0 -->
+<object type="text/site properties">
+  <param name="SiteType" value="index">
+</object>
+<ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Контейнер запланированных задач">
+    <param name="Name" value="Начало работы с инструментом «Планировщик задач»">
+    <param name="Local" value="Getting_Started.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Параметры электронной почты">
+    <param name="Name" value="Параметры электронной почты">
+    <param name="Local" value="3_Work_Tasks/UiAppSrv_Work_Tasks_CreateTask_Rezult_Params.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Ошибки выполнения">
+    <param name="Name" value="Ошибки выполнения">
+    <param name="Local" value="3_Work_Tasks/UiAppSrv_WorkTasks_Errors.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Сохранить настройки для планировщика задач">
+    <param name="Name" value="Автоматическое создание конфигурационного файла">
+    <param name="Local" value="1_Work_AppSrv/UiAppSrv_Work_AppSrv_createXML.htm">
+    <param name="Name" value="Запуск задач на выполнение">
+    <param name="Local" value="1_Work_AppSrv/UiAppSrv_Work_Run.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Scheduler.xml">
+    <param name="Name" value="Автоматическое создание конфигурационного файла">
+    <param name="Local" value="1_Work_AppSrv/UiAppSrv_Work_AppSrv_createXML.htm">
+    <param name="Name" value="Создание конфигурационного файла">
+    <param name="Local" value="1_Work_AppSrv/UiAppSrv_Work_AppSrvXml.htm">
+    <param name="Name" value="Расширение конфигурационного файла вручную">
+    <param name="Local" value="1_Work_AppSrv/configure_file_manual_extend.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Запуск планировщика задач">
+    <param name="Name" value="Запуск планировщика задач с заданными параметрами">
+    <param name="Local" value="3_Work_Tasks/UiAppSrv_Run_Parametrs.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Планировщик задач">
+    <param name="Name" value="Начало работы с инструментом «Планировщик задач»">
+    <param name="Local" value="Getting_Started.htm">
+    <param name="Name" value="Просмотр параметров планировщика задач">
+    <param name="Local" value="1_Work_AppSrv/UiAppSrv_Work_AppSrv_Parameters.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Параметры запуска">
+    <param name="Name" value="Запуск задач на выполнение">
+    <param name="Local" value="1_Work_AppSrv/UiAppSrv_Work_Run.htm">
+    <param name="Name" value="Автоматическое создание конфигурационного файла">
+    <param name="Local" value="1_Work_AppSrv/UiAppSrv_Work_AppSrv_createXML.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Авторизация в БД">
+    <param name="Name" value="Авторизация">
+    <param name="Local" value="1_Work_AppSrv/UiAppSrv_Work_AppSrv.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Создание задачи">
+    <param name="Name" value="Создание запланированных задач">
+    <param name="Local" value="3_Work_Tasks/Work_Task.htm">
+    <param name="Name" value="Создание задач">
+    <param name="Local" value="2_Work_interface/Operations_with_tasks.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Задача">
+    <param name="Name" value="Создание запланированных задач">
+    <param name="Local" value="3_Work_Tasks/Work_Task.htm">
+    <param name="Name" value="Определение наименования и идентификатора задачи">
+    <param name="Local" value="3_Work_Tasks/UiAppSrv_Work_Tasks_CreateTask_Task.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Вычисление регламентного отчёта">
+    <param name="Name" value="Создание задач">
+    <param name="Local" value="2_Work_interface/Operations_with_tasks.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Расчёт вычисляемого куба">
+    <param name="Name" value="Создание задач">
+    <param name="Local" value="2_Work_interface/Operations_with_tasks.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Выполнение модуля">
+    <param name="Name" value="Создание задач">
+    <param name="Local" value="2_Work_interface/Operations_with_tasks.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Выполнение задачи ETL">
+    <param name="Name" value="Создание задач">
+    <param name="Local" value="2_Work_interface/Operations_with_tasks.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Расчёт задачи моделирования">
+    <param name="Name" value="Создание задач">
+    <param name="Local" value="2_Work_interface/Operations_with_tasks.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Многомерный расчёт на сервере БД">
+    <param name="Name" value="Создание задач">
+    <param name="Local" value="2_Work_interface/Operations_with_tasks.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Обновление кеша">
+    <param name="Name" value="Создание задач">
+    <param name="Local" value="2_Work_interface/Operations_with_tasks.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Свойства задачи">
+    <param name="Name" value="Создание задач: Контейнер запланированных задач#properties">
+    <param name="Local" value="2_Work_interface/Operations_with_tasks.htm#properties">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Редактирование задачи">
+    <param name="Name" value="Создание задач: Контейнер запланированных задач#settingstask">
+    <param name="Local" value="2_Work_interface/Operations_with_tasks.htm#settingstask">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Удаление задачи">
+    <param name="Name" value="Создание задач: Контейнер запланированных задач#deltask">
+    <param name="Local" value="2_Work_interface/Operations_with_tasks.htm#deltask">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Мастер настройки задачи">
+    <param name="Name" value="Создание задач">
+    <param name="Local" value="2_Work_interface/Operations_with_tasks.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Общие">
+      <param name="Name" value="Определение наименования и идентификатора задачи">
+      <param name="Local" value="3_Work_Tasks/UiAppSrv_Work_Tasks_CreateTask_Task.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Задача">
+      <param name="Name" value="Определение наименования и идентификатора задачи">
+      <param name="Local" value="3_Work_Tasks/UiAppSrv_Work_Tasks_CreateTask_Task.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Расписание">
+      <param name="Name" value="Задание периодичности выполнения задачи">
+      <param name="Local" value="3_Work_Tasks/UiAppSrv_Work_Tasks_CreateTask_TimeTable.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Условие">
+      <param name="Name" value="Задание условия выполнения задачи">
+      <param name="Local" value="3_Work_Tasks/Conditions.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Параметры">
+      <param name="Name" value="Настройка объекта задачи">
+      <param name="Local" value="3_Work_Tasks/UiAppSrv_Work_Tasks_CreateTask_Parameters.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Отметка">
+      <param name="Name" value="Настройка обновления кеша объекта">
+      <param name="Local" value="3_Work_Tasks/Update_the_cache_object.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Результат">
+      <param name="Name" value="Настройка обработки результата выполнения задачи">
+      <param name="Local" value="3_Work_Tasks/UiAppSrv_Work_Tasks_CreateTask_Rezult.htm">
+    </object>
+    </ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Ключевые возможности">
+    <param name="Name" value="Планирование задач и выполнение их по расписанию">
+    <param name="Local" value="UiAppSrv_purpose.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Общие">
+    <param name="Name" value="Определение наименования и идентификатора задачи">
+    <param name="Local" value="3_Work_Tasks/UiAppSrv_Work_Tasks_CreateTask_Task.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Расписание">
+    <param name="Name" value="Задание периодичности выполнения задачи">
+    <param name="Local" value="3_Work_Tasks/UiAppSrv_Work_Tasks_CreateTask_TimeTable.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Условие">
+    <param name="Name" value="Задание условия выполнения задачи">
+    <param name="Local" value="3_Work_Tasks/Conditions.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Параметры">
+    <param name="Name" value="Настройка объекта задачи">
+    <param name="Local" value="3_Work_Tasks/UiAppSrv_Work_Tasks_CreateTask_Parameters.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Данные">
+      <param name="Name" value="Настройка обновления поискового индекса#data">
+      <param name="Local" value="3_Work_Tasks/Updating_the_search_index_task.htm#data">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Метаданные">
+      <param name="Name" value="Настройка обновления поискового индекса#metadata">
+      <param name="Local" value="3_Work_Tasks/Updating_the_search_index_task.htm#metadata">
+    </object>
+    </ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Результат">
+    <param name="Name" value="Настройка обработки результата выполнения задачи">
+    <param name="Local" value="3_Work_Tasks/UiAppSrv_Work_Tasks_CreateTask_Rezult.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Отметка">
+    <param name="Name" value="Настройка обновления кеша объекта">
+    <param name="Local" value="3_Work_Tasks/Update_the_cache_object.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Данные">
+    <param name="Name" value="Настройка обновления поискового индекса#data">
+    <param name="Local" value="3_Work_Tasks/Updating_the_search_index_task.htm#data">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Метаданные">
+    <param name="Name" value="Настройка обновления поискового индекса#metadata">
+    <param name="Local" value="3_Work_Tasks/Updating_the_search_index_task.htm#metadata">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Выполняемый модуль">
+    <param name="Name" value="Настройка выполнения модуля">
+    <param name="Local" value="3_Work_Tasks/NET_assembly_execution.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Запуск задачи на выполнение">
+    <param name="Name" value="Запуск задач на выполнение">
+    <param name="Local" value="1_Work_AppSrv/UiAppSrv_Work_Run.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Особенности">
+      <param name="Name" value="Особенности распределения потоков задач">
+      <param name="Local" value="1_Work_AppSrv/UiAppSrv_Work_AppSrvXml_Flow.htm">
+    </object>
+    </ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Служба планировщика задач">
+    <param name="Name" value="Создание службы для запуска планировщика задач">
+    <param name="Local" value="1_Work_AppSrv/UiAppSrv_Work_AppSrv_Service.htm">
+    <param name="Name" value="Остановка запущенных задач и закрытие планировщика">
+    <param name="Local" value="3_Work_Tasks/Stop_Runnig_Tasks.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="scheduler.service">
+    <param name="Name" value="Создание службы для запуска планировщика задач">
+    <param name="Local" value="1_Work_AppSrv/UiAppSrv_Work_AppSrv_Service.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Состояние задачи">
+    <param name="Name" value="Просмотр состояния задач">
+    <param name="Local" value="3_Work_Tasks/view_task_state.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Тип задачи">
+    <param name="Name" value="Создание задач">
+    <param name="Local" value="2_Work_interface/Operations_with_tasks.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Выполнение задачи ETL">
+      <param name="Name" value="Создание задач">
+      <param name="Local" value="2_Work_interface/Operations_with_tasks.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Выполнение модуля">
+      <param name="Name" value="Создание задач">
+      <param name="Local" value="2_Work_interface/Operations_with_tasks.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Вычисление регламентного отчёта">
+      <param name="Name" value="Создание задач">
+      <param name="Local" value="2_Work_interface/Operations_with_tasks.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Многомерный расчёт на сервере БД">
+      <param name="Name" value="Создание задач">
+      <param name="Local" value="2_Work_interface/Operations_with_tasks.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Обновление кеша">
+      <param name="Name" value="Создание задач">
+      <param name="Local" value="2_Work_interface/Operations_with_tasks.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Обновление поискового индекса">
+      <param name="Name" value="Создание задач">
+      <param name="Local" value="2_Work_interface/Operations_with_tasks.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Расчёт вычисляемого куба">
+      <param name="Name" value="Создание задач">
+      <param name="Local" value="2_Work_interface/Operations_with_tasks.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Расчёт задачи моделирования">
+      <param name="Name" value="Создание задач">
+      <param name="Local" value="2_Work_interface/Operations_with_tasks.htm">
+    </object>
+    </ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Закрытие планировщика задач">
+    <param name="Name" value="Остановка запущенных задач и закрытие планировщика">
+    <param name="Local" value="3_Work_Tasks/Stop_Runnig_Tasks.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Вопросы и ответы">
+    <param name="Name" value="Вопросы и ответы">
+    <param name="Local" value="AppSrv_FAQ.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Уведомить по электронной почте">
+    <param name="Name" value="Настройка обработки результата выполнения задачи#email">
+    <param name="Local" value="3_Work_Tasks/UiAppSrv_Work_Tasks_CreateTask_Rezult.htm#email">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Обновление поискового индекса">
+    <param name="Name" value="Создание задач: Контейнер запланированных задач">
+    <param name="Local" value="2_Work_interface/Operations_with_tasks.htm">
+    <param name="Name" value="Настройка обновления поискового индекса: Настольное приложение">
+    <param name="Local" value="3_Work_Tasks/Updating_the_search_index_task.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Обновление кеша объекта">
+    <param name="Name" value="Настройка обновления кеша объекта: Настольное приложение">
+    <param name="Local" value="3_Work_Tasks/Update_the_cache_object.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Scheduler">
+    <param name="Name" value="Запуск планировщика задач с заданными параметрами">
+    <param name="Local" value="3_Work_Tasks/UiAppSrv_Run_Parametrs.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Настройки планировщика задач">
+    <param name="Name" value="Создание конфигурационного файла: Планировщик задач">
+    <param name="Local" value="1_Work_AppSrv/UiAppSrv_Work_AppSrvXml.htm">
+    <param name="Name" value="Автоматическое создание конфигурационного файла: Планировщик задач">
+    <param name="Local" value="1_Work_AppSrv/UiAppSrv_Work_AppSrv_createXML.htm">
+    <param name="Name" value="Расширение конфигурационного файла вручную: Планировщик задач">
+    <param name="Local" value="1_Work_AppSrv/configure_file_manual_extend.htm">
+    <param name="Name" value="Запуск планировщика задач с заданными параметрами">
+    <param name="Local" value="3_Work_Tasks/UiAppSrv_Run_Parametrs.htm">
+    <param name="Name" value="Обновление настроек планировщика задач">
+    <param name="Local" value="3_Work_Tasks/Update_config_AppSrv.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Остановка планировщика задач">
+    <param name="Name" value="Остановка запущенных задач и закрытие планировщика">
+    <param name="Local" value="3_Work_Tasks/Stop_Runnig_Tasks.htm">
+  </object>
+</ul>
+</html>

@@ -1,0 +1,229 @@
+<html>
+<!-- Sitemap 1.0 -->
+<object type="text/site properties">
+  <param name="SiteType" value="index">
+</object>
+<ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Ключевые возможности">
+    <param name="Name" value="Визуальное конструирование бизнес-приложений">
+    <param name="Local" value="Intro/Designer_business_applications.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Бизнес-приложение">
+    <param name="Name" value="Начало работы с расширением «Конструктор бизнес-приложений»">
+    <param name="Local" value="Intro/Component_interface.htm">
+    <param name="Name" value="Построение бизнес-приложения в веб-приложении">
+    <param name="Local" value="Web/General_Principles_Web.htm">
+    <param name="Name" value="Построение бизнес-приложения в настольном приложении">
+    <param name="Local" value="Desktop/General_Principles.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Базовые настройки">
+      <param name="Name" value="Настройка базовых свойств: Бизнес-приложение, веб-приложение">
+      <param name="Local" value="Web/Setting_Business_Application.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Разметка и оформление">
+      <param name="Name" value="Настройка разметки и оформления: Бизнес-приложение, веб-приложение">
+      <param name="Local" value="Web/Layout_and_design_web.htm">
+      <param name="Name" value="Настройка разметки и оформления: Бизнес-приложение, настольное приложение">
+      <param name="Local" value="Desktop/Layout_and_design.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Структура навигации">
+      <param name="Name" value="Настройка структуры навигации: Бизнес-приложение, веб-приложение">
+      <param name="Local" value="Web/Setting_Navigation_Structure.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Дополнительные настройки">
+      <param name="Name" value="Выбор стартового объекта и обработчика событий: Бизнес-приложение, веб-приложение">
+      <param name="Local" value="Web/Select_Starting_Object_and_Event_Handler.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Общие параметры">
+      <param name="Name" value="Настройка общих параметров: Бизнес-приложение, настольное приложение">
+      <param name="Local" value="Desktop/Common_parameters.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Структура меню">
+      <param name="Name" value="Настройка структуры меню: Бизнес-приложение, настольное приложение">
+      <param name="Local" value="Desktop/Setting_web_application_structure.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Редактирование зависимостей">
+      <param name="Name" value="Редактирование зависимостей: Бизнес-приложение, настольное приложение">
+      <param name="Local" value="Desktop/Edit_Dependencies.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Обновление">
+      <param name="Name" value="Формирование и установка обновлений: Бизнес-приложение, настольное приложение">
+      <param name="Local" value="Desktop/Formation_Installation_Updates.htm#forming-updates">
+    </object>
+    </ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Компонент">
+    <param name="Name" value="Начало работы с расширением «Конструктор бизнес-приложений»">
+    <param name="Local" value="Intro/Component_interface.htm#component">
+    <param name="Name" value="Объединение функциональности в компоненты: Компонент, настольное приложение">
+    <param name="Local" value="Component/Basic_properties_of_component.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Перемещение объектов">
+      <param name="Name" value="Перемещение объектов в компонент: Компонент, настольное приложение">
+      <param name="Local" value="Component/Filling_component.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Редактирование зависимостей">
+      <param name="Name" value="Редактирование зависимостей: Компонент, настольное приложение">
+      <param name="Local" value="Component/Configure_dependencies.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Публичные объекты">
+      <param name="Name" value="Настройка публичных объектов: Компонент, настольное приложение">
+      <param name="Local" value="Component/Setting_public_objects.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Классы компонента">
+      <param name="Name" value="Выбор используемых классов объектов: Компонент, настольное приложение">
+      <param name="Local" value="Component/Adding_user_class.htm">
+    </object>
+    </ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Конструктор бизнес-приложений">
+    <param name="Name" value="Начало работы с расширением «Конструктор бизнес-приложений»">
+    <param name="Local" value="Intro/Component_interface.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Построение бизнес-приложения в настольном приложении">
+      <param name="Name" value="Построение бизнес-приложения в настольном приложении">
+      <param name="Local" value="Desktop/General_Principles.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Построение бизнес-приложения в веб-приложении">
+      <param name="Name" value="Построение бизнес-приложения в веб-приложении">
+      <param name="Local" value="Web/General_Principles_Web.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Работа с готовым бизнес-приложением">
+      <param name="Name" value="Работа с готовым бизнес-приложением">
+      <param name="Local" value="Work/Work_business_application.htm">
+    </object>
+    </ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Базовые настройки">
+    <param name="Name" value="Настройка базовых свойств: Бизнес-приложение, веб-приложение">
+    <param name="Local" value="Web/Setting_Business_Application.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Внутренняя структура БП">
+    <param name="Name" value="Создание внутренней структуры: Бизнес-приложение">
+    <param name="Local" value="Web/Create_Internal_Structure_Business_Application.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Структура меню">
+    <param name="Name" value="Создание внутренней структуры: Бизнес-приложение">
+    <param name="Local" value="Web/Create_Internal_Structure_Business_Application.htm">
+    <param name="Name" value="Настройка структуры меню: Бизнес-приложение, настольное приложение">
+    <param name="Local" value="Desktop/Setting_web_application_structure.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Перемещение объектов">
+    <param name="Name" value="Создание внутренней структуры: Бизнес-приложение">
+    <param name="Local" value="Web/Create_Internal_Structure_Business_Application.htm">
+    <param name="Name" value="Перемещение объектов в компонент: Компонент, настольное приложение">
+    <param name="Local" value="Component/Filling_component.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Разметка и оформление">
+    <param name="Name" value="Настройка разметки и оформления: Бизнес-приложение, веб-приложение">
+    <param name="Local" value="Web/Layout_and_design_web.htm">
+    <param name="Name" value="Настройка разметки и оформления: Бизнес-приложение, настольное приложение">
+    <param name="Local" value="Desktop/Layout_and_design.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Структура навигации">
+    <param name="Name" value="Настройка структуры навигации: Бизнес-приложение, веб-приложение">
+    <param name="Local" value="Web/Setting_Navigation_Structure.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Дополнительные настройки">
+    <param name="Name" value="Выбор стартового объекта и обработчика событий: Бизнес-приложение, веб-приложение">
+    <param name="Local" value="Web/Select_Starting_Object_and_Event_Handler.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Общие параметры">
+    <param name="Name" value="Настройка общих параметров: Бизнес-приложение, настольное приложение">
+    <param name="Local" value="Desktop/Common_parameters.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Установка расширений платформы">
+    <param name="Name" value="Формирование и установка обновлений: Бизнес-приложение, настольное приложение">
+    <param name="Local" value="Desktop/Formation_Installation_Updates.htm#install_updates_mng">
+    <param name="Name" value="Формирование и установка обновлений: Компонент, настольное приложение">
+    <param name="Local" value="Component/Formation_installation_updates_components.htm#install_component_mng">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Редактирование зависимостей">
+    <param name="Name" value="Редактирование зависимостей: Бизнес-приложение, настольное приложение">
+    <param name="Local" value="Desktop/Edit_Dependencies.htm">
+    <param name="Name" value="Редактирование зависимостей: Компонент, настольное приложение">
+    <param name="Local" value="Component/Configure_dependencies.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Обновление">
+    <param name="Name" value="Формирование и установка обновлений: Бизнес-приложение, настольное приложение">
+    <param name="Local" value="Desktop/Formation_Installation_Updates.htm#forming-updates">
+    <param name="Name" value="Формирование и установка обновлений: Компонент, настольное приложение">
+    <param name="Local" value="Component/Formation_installation_updates_components.htm#forming_updates_components">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Менеджер репозитория">
+    <param name="See Also" value="Менеджер репозитория">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Установка расширений платформы">
+      <param name="Name" value="Формирование и установка обновлений: Бизнес-приложение, настольное приложение">
+      <param name="Local" value="Desktop/Formation_Installation_Updates.htm#install_updates_mng">
+      <param name="Name" value="Формирование и установка обновлений: Компонент, настольное приложение">
+      <param name="Local" value="Component/Formation_installation_updates_components.htm#install_component_mng">
+    </object>
+    </ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Установка обновления">
+    <param name="Name" value="Формирование и установка обновлений: Бизнес-приложение, настольное приложение">
+    <param name="Local" value="Desktop/Formation_Installation_Updates.htm#install_updates">
+    <param name="Name" value="Формирование и установка обновлений: Компонент, настольное приложение">
+    <param name="Local" value="Component/Formation_installation_updates_components.htm#install_updates_components">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Модуль формирования пакета">
+    <param name="Name" value="Модуль формирования пакета">
+    <param name="Local" value="Component/Package_generation_module.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="О программе">
+    <param name="Name" value="Работа с готовым бизнес-приложением">
+    <param name="Local" value="Work/Work_business_application.htm#about_program">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Смена пароля">
+    <param name="Name" value="Работа с готовым бизнес-приложением">
+    <param name="Local" value="Work/Work_business_application.htm#change_password">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Публичные объекты">
+    <param name="Name" value="Настройка публичных объектов: Компонент, настольное приложение">
+    <param name="Local" value="Component/Setting_public_objects.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Классы компонента">
+    <param name="Name" value="Выбор используемых классов объектов: Компонент, настольное приложение">
+    <param name="Local" value="Component/Adding_user_class.htm">
+  </object>
+</ul>
+</html>

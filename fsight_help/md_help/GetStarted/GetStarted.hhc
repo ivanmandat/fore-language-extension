@@ -1,0 +1,138 @@
+<html>
+<!-- Sitemap 1.0 -->
+<object type="text/site properties">
+  <param name="SiteType" value="toc">
+  <param name="Image Width" value="16">
+  <param name="Window Styles" value="0x800007">
+  <param name="ExWindow Styles" value="0x100">
+</object>
+<ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Назначение и основные возможности продукта «Форсайт. Аналитическая платформа»">
+    <param name="Local" value="Intro/PurposeMainFeatures.htm">
+    <param name="ImageNumber" value="11">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Веб-приложение и настольное приложение">
+    <param name="Local" value="Desktop_and_web_application.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Начало работы с веб-приложением и настольным приложением">
+      <param name="Local" value="GetStarted/Get_Started.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Репозиторий и объекты репозитория">
+        <param name="Local" value="GetStarted/Repository.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Описание интерфейса навигатора">
+        <param name="Local" value="Interface/Interface_Navigator.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Выбор языка интерфейса и справочной системы">
+        <param name="Local" value="Interface/Intro_Language.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Описание интерфейса инструментов">
+        <param name="Local" value="Interface/Interface_Description.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Работа с окнами">
+        <param name="Local" value="Interface/Main_Window.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      </ul>
+  </ul>
+  <object type="text/sitemap">
+    <param name="Name" value="UiNavObj.chm::/UiNavObj.hhc">
+    <param name="Merge" value="UiNavObj.chm::/UiNavObj.hhc" value2="../uinavobj">
+  </object>
+  <ul>
+  </ul>
+  <object type="text/sitemap">
+    <param name="Name" value="DataAnalysis.chm::/DataAnalysis.hhc">
+    <param name="Merge" value="DataAnalysis.chm::/DataAnalysis.hhc" value2="../dataanalysis">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Расширенная аналитика">
+      <param name="Local" value="AdvancedAnalytics/AdvancedAnalytics.htm">
+    </object>
+    <ul>
+    </ul>
+    <object type="text/sitemap">
+      <param name="Name" value="DataMining.chm::/DataMining.hhc">
+      <param name="Merge" value="DataMining.chm::/DataMining.hhc" value2="../datamining">
+    </object>
+    <ul>
+    </ul>
+    <object type="text/sitemap">
+      <param name="Name" value="UiModelling.chm::/UiModelling.hhc">
+      <param name="Merge" value="UiModelling.chm::/UiModelling.hhc" value2="../uimodelling">
+    </object>
+    <ul>
+    </ul>
+    <object type="text/sitemap">
+      <param name="Name" value="DecisionTree.chm::/DecisionTree.hhc">
+      <param name="Merge" value="DecisionTree.chm::/DecisionTree.hhc" value2="../decisiontree">
+      <param name="x-condition" value="Public">
+    </object>
+    <ul>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Управление процессами и задачами">
+      <param name="Local" value="GetStarted/Managing_processes_and_tasks.htm">
+    </object>
+    <ul>
+    </ul>
+    <object type="text/sitemap">
+      <param name="Name" value="BPM.chm::/BPM.hhc">
+      <param name="Merge" value="BPM.chm::/BPM.hhc" value2="../bpm">
+    </object>
+    <ul>
+    </ul>
+    <object type="text/sitemap">
+      <param name="Name" value="uiappsrv.chm::/uiappsrv.hhc">
+      <param name="Merge" value="uiappsrv.chm::/uiappsrv.hhc" value2="../uiappsrv">
+    </object>
+    <ul>
+      </ul>
+  </ul>
+  <object type="text/sitemap">
+    <param name="Name" value="Constructor.chm::/Constructor.hhc">
+    <param name="Merge" value="Constructor.chm::/Constructor.hhc" value2="../constructor">
+  </object>
+  <ul>
+  </ul>
+  <object type="text/sitemap">
+    <param name="Name" value="Admin.chm::/Admin.hhc">
+    <param name="Merge" value="Admin.chm::/Admin.hhc" value2="../admin">
+  </object>
+  <ul>
+  </ul>
+  <object type="text/sitemap">
+    <param name="Name" value="UpdManager.chm::/UpdManager.hhc">
+    <param name="Merge" value="UpdManager.chm::/UpdManager.hhc" value2="../updmanager">
+  </object>
+  <ul>
+  </ul>
+  <object type="text/sitemap">
+    <param name="Name" value="Developer.chm::/Developer.hhc">
+    <param name="Merge" value="Developer.chm::/Developer.hhc" value2="../developer">
+  </object>
+  <ul>
+  </ul>
+  <object type="text/sitemap">
+    <param name="Name" value="UiNav.chm::/UiNav.hhc">
+    <param name="Merge" value="UiNav.chm::/UiNav.hhc" value2="../uinav">
+  </object>
+  <ul>
+    </ul>
+</ul>
+</html>

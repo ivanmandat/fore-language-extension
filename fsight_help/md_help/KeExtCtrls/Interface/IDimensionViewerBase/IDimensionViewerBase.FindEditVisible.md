@@ -1,0 +1,42 @@
+﻿# IDimensionViewerBase.FindEditVisible
+
+IDimensionViewerBase.FindEditVisible
+-
+
+
+# IDimensionViewerBase.FindEditVisible
+
+
+## Синтаксис
+
+
+FindEditVisible: Boolean;
+
+
+## Описание
+
+
+Свойство FindEditVisible определяет
+ признак отображения строки поиска при развернутом раскрывающемся списке
+ компонента.
+
+
+## Комментарии
+
+
+По умолчанию свойству установлено значение False,
+ при этом строка поиска не отображается. Если свойству установить значение
+ True, то при разворачивании раскрывающегося
+ списка компонента, внизу будет отображаться строка поиска.
+
+
+См. также:
+
+
+[IDimensionViewerBase](IDimensionViewerBase.htm)
+
+
+		Справочная
+		 система на версию 10.9
+		 от 18/08/2025,
+		 © ООО «ФОРСАЙТ»,

@@ -1,0 +1,1044 @@
+<html>
+<!-- Sitemap 1.0 -->
+<object type="text/site properties">
+  <param name="SiteType" value="index">
+</object>
+<ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Ключевые возможности">
+    <param name="Name" value="Автоматизация методик и алгоритмов">
+    <param name="Local" value="Purpose.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Алгоритм расчёта показателей">
+    <param name="Name" value="Начало работы с расширением «Алгоритмы расчёта» в веб-приложении">
+    <param name="Local" value="Web/Work/Beginning_of_work.htm">
+    <param name="Name" value="Настройки алгоритма расчёта: Алгоритм расчёта показателей, веб-приложение">
+    <param name="Local" value="Web/Work/Set_up_calculation_parameters.htm">
+    <param name="Name" value="Начало работы с расширением «Алгоритмы расчёта» в настольном приложении">
+    <param name="Local" value="Desktop/Work/Beginning_of_work.htm">
+    <param name="Name" value="Добавление и настройка параметров: Алгоритм расчёта показателей, настольное приложение">
+    <param name="Local" value="Desktop/Work/Set_up_calculation_parameters.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Базовые настройки">
+      <param name="Name" value="Базовые настройки: Алгоритм расчёта показателей, веб-приложение">
+      <param name="Local" value="Web/Work/base_settings.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Параметры">
+      <param name="Name" value="Добавление параметров: Алгоритм расчёта показателей, веб-приложение">
+      <param name="Local" value="Web/Work/Parameters_of_the_calculation_algorithm.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Управление параметрами">
+      <param name="Name" value="Задание связей параметров: Алгоритм расчёта показателей, веб-приложение">
+      <param name="Local" value="Web/Work/Manage_settings.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Управление параметрами кубов">
+      <param name="Name" value="Задание связей с параметрами кубов: Алгоритм расчёта показателей, веб-приложение">
+      <param name="Local" value="Web/Work/Manage_cubes_settings.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Управление периодом расчёта">
+      <param name="Name" value="Управление периодом расчёта: Алгоритм расчёта показателей, веб-приложение">
+      <param name="Local" value="Web/Work/Calculation_period_management.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Управление параметрами объектов репозитория">
+      <param name="Name" value="Задание связей с параметрами объектов репозитория: Алгоритм расчёта показателей, веб-приложение">
+      <param name="Local" value="Web/Work/Manage_objects_settings.htm">
+    </object>
+    </ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Алгоритмы расчёта">
+    <param name="Name" value="Начало работы с расширением «Алгоритмы расчёта» в веб-приложении">
+    <param name="Local" value="Web/Work/Beginning_of_work.htm">
+    <param name="Name" value="Начало работы с расширением «Алгоритмы расчёта» в настольном приложении">
+    <param name="Local" value="Desktop/Work/Beginning_of_work.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Построение алгоритма расчёта">
+      <param name="Name" value="Построение алгоритма расчёта: Веб-приложение">
+      <param name="Local" value="Web/Work/Construction_of_the_calculation_algorithm.htm">
+      <param name="Name" value="Построение алгоритма расчёта: Настольное приложение">
+      <param name="Local" value="Desktop/Work/Construction_of_the_calculation_algorithm.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Работа с готовым алгоритмом расчёта">
+      <param name="Name" value="Работа с готовым алгоритмом расчёта: Веб-приложение">
+      <param name="Local" value="Web/Work/Work.htm">
+      <param name="Name" value="Работа с готовым алгоритмом расчёта: Настольное приложение">
+      <param name="Local" value="Desktop/Work/Work.htm">
+    </object>
+    </ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Блок расчёта">
+    <param name="Name" value="Вставка и настройка блоков расчёта: Веб-приложение">
+    <param name="Local" value="Web/Calculation_block/Calculation_unit.htm">
+    <param name="Name" value="Вставка и настройка блоков расчёта: Настольное приложение">
+    <param name="Local" value="Desktop/Calculation_block/Calculation_unit.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Базовые настройки">
+      <param name="Name" value="Настройка базовых свойств: Блок расчёта, веб-приложение">
+      <param name="Local" value="Web/Calculation_block/Basic_Properties.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Параметры">
+      <param name="Name" value="Добавление параметров: Блок расчёта, веб-приложение">
+      <param name="Local" value="Web/Calculation_block/Parameters.htm">
+      <param name="Name" value="Добавление параметров: Блок расчёта, настольное приложение">
+      <param name="Local" value="Desktop/Calculation_block/Parameters.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Приёмник">
+      <param name="Name" value="Выбор и настройка приёмника данных: Блок расчёта, веб-приложение">
+      <param name="Local" value="Web/Calculation_block/Master_calculation_block_page_consumer.htm">
+      <param name="Name" value="Выбор и настройка приёмника данных: Блок расчёта, настольное приложение">
+      <param name="Local" value="Desktop/Calculation_block/Master_calculation_block_page_consumer.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Источники">
+      <param name="Name" value="Выбор и настройка источников данных: Блок расчёта, веб-приложение">
+      <param name="Local" value="Web/Calculation_block/Page_Sources.htm">
+      <param name="Name" value="Выбор и настройка источников данных: Блок расчёта, настольное приложение">
+      <param name="Local" value="Desktop/Calculation_block/Page_Sources.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Фильтрация по данным">
+      <param name="Name" value="Настройка фильтрации по данным: Блок расчёта, веб-приложение">
+      <param name="Local" value="Web/Calculation_block/FilteringByData.htm">
+      <param name="Name" value="Настройка фильтрации по данным: Блок расчёта, настольное приложение">
+      <param name="Local" value="Desktop/Calculation_block/FilteringByData.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Базовые свойства">
+      <param name="Name" value="Настройка базовых свойств: Блок расчёта, настольное приложение">
+      <param name="Local" value="Desktop/Calculation_block/Basic_Properties.htm">
+    </object>
+    </ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Базовые настройки">
+    <param name="Name" value="Настройка базовых свойств: Блок расчёта, веб-приложение">
+    <param name="Local" value="Web/Calculation_block/Basic_Properties.htm">
+    <param name="Name" value="Настройка базовых свойств: Блок агрегации, веб-приложение">
+    <param name="Local" value="Web/Aggregation_block/Basic_Properties_Aggr.htm">
+    <param name="Name" value="Настройка базовых свойств: Блок функции, веб-приложение">
+    <param name="Local" value="Web/Function_Block/Basic_Properties_Func.htm">
+    <param name="Name" value="Настройка базовых свойств: Блок линейной оптимизации, веб-приложение">
+    <param name="Local" value="Web/Linear_optimization_block/Basic_Properties_LinOpt.htm">
+    <param name="Name" value="Базовые настройки: Алгоритм расчёта показателей, веб-приложение">
+    <param name="Local" value="Web/Work/base_settings.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Параметры">
+    <param name="Name" value="Добавление параметров: Блок расчёта, веб-приложение">
+    <param name="Local" value="Web/Calculation_block/Parameters.htm">
+    <param name="Name" value="Добавление параметров: Блок агрегации, веб-приложение">
+    <param name="Local" value="Web/Aggregation_block/ParametersArrg.htm">
+    <param name="Name" value="Добавление параметров: Блок функции, веб-приложение">
+    <param name="Local" value="Web/Function_Block/ParametersFunc.htm">
+    <param name="Name" value="Добавление параметров: Блок линейной оптимизации, веб-приложение">
+    <param name="Local" value="Web/Linear_optimization_block/Parameters_LinOpt.htm">
+    <param name="Name" value="Добавление параметров: Алгоритм расчёта показателей, веб-приложение">
+    <param name="Local" value="Web/Work/Parameters_of_the_calculation_algorithm.htm">
+    <param name="Name" value="Добавление параметров: Блок расчёта, настольное приложение">
+    <param name="Local" value="Desktop/Calculation_block/Parameters.htm">
+    <param name="Name" value="Добавление параметров: Блок агрегации, настольное приложение">
+    <param name="Local" value="Desktop/Aggregation_block/ParametersArrg.htm">
+    <param name="Name" value="Добавление параметров: Блок функции, настольное приложение">
+    <param name="Local" value="Desktop/Function_Block/ParametersFunc.htm">
+    <param name="Name" value="Добавление параметров: Блок линейной оптимизации, настольное приложение">
+    <param name="Local" value="Desktop/Linear_optimization_block/Parameters_LinOpt.htm">
+    <param name="Name" value="Добавление параметров: Алгоритм расчёта показателей, настольное приложение">
+    <param name="Local" value="Desktop/Work/Parameters_of_the_calculation_algorithm.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Приёмник">
+    <param name="Name" value="Выбор и настройка приёмника данных: Блок расчёта, веб-приложение">
+    <param name="Local" value="Web/Calculation_block/Master_calculation_block_page_consumer.htm">
+    <param name="Name" value="Выбор и настройка приёмника данных: Блок агрегации, веб-приложение">
+    <param name="Local" value="Web/Aggregation_block/Aggregation_block_Receiver.htm">
+    <param name="Name" value="Выбор и настройка приёмника данных: Блок расчёта, настольное приложение">
+    <param name="Local" value="Desktop/Calculation_block/Master_calculation_block_page_consumer.htm">
+    <param name="Name" value="Выбор и настройка приёмника данных: Блок агрегации, настольное приложение">
+    <param name="Local" value="Desktop/Aggregation_block/Aggregation_block_Receiver.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Источники">
+    <param name="Name" value="Выбор и настройка источников данных: Блок расчёта, веб-приложение">
+    <param name="Local" value="Web/Calculation_block/Page_Sources.htm">
+    <param name="Name" value="Выбор и настройка источников данных: Блок расчёта, настольное приложение">
+    <param name="Local" value="Desktop/Calculation_block/Page_Sources.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Фильтрация по данным">
+    <param name="Name" value="Настройка фильтрации по данным: Блок расчёта, веб-приложение">
+    <param name="Local" value="Web/Calculation_block/FilteringByData.htm">
+    <param name="Name" value="Примеры фильтрации по данным: Блок расчёта">
+    <param name="Local" value="Web/Calculation_block/Examples_Filtering_Data.htm">
+    <param name="Name" value="Настройка фильтрации по данным: Блок расчёта, настольное приложение">
+    <param name="Local" value="Desktop/Calculation_block/FilteringByData.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Формула расчёта">
+    <param name="Name" value="Настройка формул расчёта: Алгоритм расчёта показателей, веб-приложение">
+    <param name="Local" value="Web/Calculation_block/Formula.htm">
+    <param name="Name" value="Создание формулы расчёта: Алгоритм расчёта показателей, веб-приложение">
+    <param name="Local" value="Web/Calculation_block/Formula_Creation.htm">
+    <param name="Name" value="Формирование формулы расчёта: Алгоритм расчёта показателей, веб-приложение">
+    <param name="Local" value="Web/Calculation_block/Calculation_Formula_Generation.htm">
+    <param name="Name" value="Настройка формул расчёта: Алгоритм расчёта показателей, настольное приложение">
+    <param name="Local" value="Desktop/Calculation_block/Formula.htm">
+    <param name="Name" value="Создание формулы расчёта: Алгоритм расчёта показателей, настольное приложение">
+    <param name="Local" value="Desktop/Calculation_block/Formula_Creation.htm">
+    <param name="Name" value="Формирование формулы расчёта: Алгоритм расчёта показателей, настольное приложение">
+    <param name="Local" value="Desktop/Calculation_block/Calculation_Formula_Generation.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Редактор формул">
+    <param name="Name" value="Настройка формул расчёта: Алгоритм расчёта показателей, веб-приложение">
+    <param name="Local" value="Web/Calculation_block/Formula.htm">
+    <param name="Name" value="Настройка формул расчёта: Алгоритм расчёта показателей, настольное приложение">
+    <param name="Local" value="Desktop/Calculation_block/Formula.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Расширенный фильтр">
+      <param name="Name" value="Формирование формулы расчёта: Алгоритм расчёта показателей, веб-приложение">
+      <param name="Local" value="Web/Calculation_block/Calculation_Formula_Generation.htm#aggrsetup">
+      <param name="Name" value="Формирование формулы расчёта: Алгоритм расчёта показателей, настольное приложение">
+      <param name="Local" value="Desktop/Calculation_block/Calculation_Formula_Generation.htm#aggrsetup">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Операнды">
+      <param name="Name" value="Формирование формулы расчёта: Алгоритм расчёта показателей, веб-приложение">
+      <param name="Local" value="Web/Calculation_block/Calculation_Formula_Generation.htm">
+      <param name="Name" value="Формирование формулы расчёта: Алгоритм расчёта показателей, настольное приложение">
+      <param name="Local" value="Desktop/Calculation_block/Calculation_Formula_Generation.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Добавить формулу">
+      <param name="Name" value="Создание формулы расчёта: Алгоритм расчёта показателей, веб-приложение">
+      <param name="Local" value="Web/Calculation_block/Formula_Creation.htm">
+      <param name="Name" value="Создание формулы расчёта: Алгоритм расчёта показателей, настольное приложение">
+      <param name="Local" value="Desktop/Calculation_block/Formula_Creation.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Свойства формулы">
+      <param name="Name" value="Создание формулы расчёта: Алгоритм расчёта показателей, настольное приложение">
+      <param name="Local" value="Desktop/Calculation_block/Formula_Creation.htm#note">
+      <param name="Name" value="Создание формулы расчёта: Алгоритм расчёта показателей, веб-приложение">
+      <param name="Local" value="Web/Calculation_block/Formula_Creation.htm#note">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Выходная переменная">
+      <param name="Name" value="Выбор рассчитываемого элемента и календарной динамики расчёта: Алгоритм расчёта показателей, веб-приложение">
+      <param name="Local" value="Web/Calculation_block/Calculated_Element_Select.htm">
+      <param name="Name" value="Выбор рассчитываемого элемента и календарной динамики расчёта: Алгоритм расчёта показателей, настольное приложение">
+      <param name="Local" value="Desktop/Calculation_block/Calculated_Element_Select.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Функции">
+      <param name="Name" value="Формирование формулы расчёта: Алгоритм расчёта показателей, веб-приложение">
+      <param name="Local" value="Web/Calculation_block/Calculation_Formula_Generation.htm">
+      <param name="Name" value="Формирование формулы расчёта: Алгоритм расчёта показателей, настольное приложение">
+      <param name="Local" value="Desktop/Calculation_block/Calculation_Formula_Generation.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Дополнительные настройки динамики формулы">
+      <param name="Name" value="Настройка дополнительных параметров расчёта и сохранения данных: Алгоритм расчёта показателей, веб-приложение">
+      <param name="Local" value="Web/Calculation_block/Additional_Calculation_and_Data_Saving_Parameters.htm">
+      <param name="Name" value="Настройка дополнительных параметров расчёта и сохранения данных: Алгоритм расчёта показателей, настольное приложение">
+      <param name="Local" value="Desktop/Calculation_block/Additional_Calculation_and_Data_Saving_Parameters.htm">
+    </object>
+    </ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Шаг динамики">
+    <param name="Name" value="Выбор рассчитываемого элемента и календарной динамики расчёта: Алгоритм расчёта показателей, веб-приложение">
+    <param name="Local" value="Web/Calculation_block/Calculated_Element_Select.htm">
+    <param name="Name" value="Выбор рассчитываемого элемента и календарной динамики расчёта: Алгоритм расчёта показателей, настольное приложение">
+    <param name="Local" value="Desktop/Calculation_block/Calculated_Element_Select.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Расширенный фильтр">
+    <param name="Name" value="Формирование формулы расчёта: Алгоритм расчёта показателей, веб-приложение">
+    <param name="Local" value="Web/Calculation_block/Calculation_Formula_Generation.htm#aggrsetup">
+    <param name="Name" value="Формирование формулы расчёта: Алгоритм расчёта показателей, настольное приложение">
+    <param name="Local" value="Desktop/Calculation_block/Calculation_Formula_Generation.htm#aggrsetup">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Дополнительные настройки динамики формулы">
+    <param name="Name" value="Настройка дополнительных параметров расчёта и сохранения данных: Алгоритм расчёта показателей, веб-приложение">
+    <param name="Local" value="Web/Calculation_block/Additional_Calculation_and_Data_Saving_Parameters.htm">
+    <param name="Name" value="Настройка дополнительных параметров расчёта и сохранения данных: Алгоритм расчёта показателей, настольное приложение">
+    <param name="Local" value="Desktop/Calculation_block/Additional_Calculation_and_Data_Saving_Parameters.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Задать период расчёта">
+    <param name="Name" value="Настройка дополнительных параметров расчёта и сохранения данных: Алгоритм расчёта показателей, веб-приложение">
+    <param name="Local" value="Web/Calculation_block/Additional_Calculation_and_Data_Saving_Parameters.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Сохранять нули">
+    <param name="Name" value="Настройка дополнительных параметров расчёта и сохранения данных: Алгоритм расчёта показателей, веб-приложение">
+    <param name="Local" value="Web/Calculation_block/Additional_Calculation_and_Data_Saving_Parameters.htm">
+    <param name="Name" value="Настройка дополнительных параметров расчёта и сохранения данных: Алгоритм расчёта показателей, настольное приложение">
+    <param name="Local" value="Desktop/Calculation_block/Additional_Calculation_and_Data_Saving_Parameters.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Заменять пустые значения операндов нулями">
+    <param name="Name" value="Настройка дополнительных параметров расчёта и сохранения данных: Алгоритм расчёта показателей, веб-приложение">
+    <param name="Local" value="Web/Calculation_block/Additional_Calculation_and_Data_Saving_Parameters.htm">
+    <param name="Name" value="Настройка дополнительных параметров расчёта и сохранения данных: Алгоритм расчёта показателей, настольное приложение">
+    <param name="Local" value="Desktop/Calculation_block/Additional_Calculation_and_Data_Saving_Parameters.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Поточечный расчёт">
+    <param name="Name" value="Настройка дополнительных параметров расчёта и сохранения данных: Алгоритм расчёта показателей, веб-приложение">
+    <param name="Local" value="Web/Calculation_block/Additional_Calculation_and_Data_Saving_Parameters.htm">
+    <param name="Name" value="Расчёт алгоритма: Веб-приложение">
+    <param name="Local" value="Web/Work/Perform_calculations.htm">
+    <param name="Name" value="Отладка расчёта алгоритма: Веб-приложение">
+    <param name="Local" value="Web/Work/Debug.htm">
+    <param name="Name" value="Настройка дополнительных параметров расчёта и сохранения данных: Алгоритм расчёта показателей, настольное приложение">
+    <param name="Local" value="Desktop/Calculation_block/Additional_Calculation_and_Data_Saving_Parameters.htm">
+    <param name="Name" value="Отладка расчёта алгоритма: Настольное приложение">
+    <param name="Local" value="Desktop/Work/Debug.htm">
+    <param name="Name" value="Расчёт алгоритма: Настольное приложение">
+    <param name="Local" value="Desktop/Work/Perform_calculations.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Задать период сохранения результатов расчёта">
+    <param name="Name" value="Настройка дополнительных параметров расчёта и сохранения данных: Алгоритм расчёта показателей, веб-приложение">
+    <param name="Local" value="Web/Calculation_block/Additional_Calculation_and_Data_Saving_Parameters.htm">
+    <param name="Name" value="Настройка дополнительных параметров расчёта и сохранения данных: Алгоритм расчёта показателей, настольное приложение">
+    <param name="Local" value="Desktop/Calculation_block/Additional_Calculation_and_Data_Saving_Parameters.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Задать несколько периодов расчёта">
+    <param name="Name" value="Настройка дополнительных параметров расчёта и сохранения данных: Алгоритм расчёта показателей, веб-приложение">
+    <param name="Local" value="Web/Calculation_block/Additional_Calculation_and_Data_Saving_Parameters.htm">
+    <param name="Name" value="Настройка дополнительных параметров расчёта и сохранения данных: Алгоритм расчёта показателей, настольное приложение">
+    <param name="Local" value="Desktop/Calculation_block/Additional_Calculation_and_Data_Saving_Parameters.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Блок агрегации">
+    <param name="Name" value="Вставка и настройка блоков агрегации: Веб-приложение">
+    <param name="Local" value="Web/Aggregation_block/Aggregation_block.htm">
+    <param name="Name" value="Вставка и настройка блоков агрегации: Настольное приложение">
+    <param name="Local" value="Desktop/Aggregation_block/Aggregation_block.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Базовые настройки">
+      <param name="Name" value="Настройка базовых свойств: Блок агрегации, веб-приложение">
+      <param name="Local" value="Web/Aggregation_block/Basic_Properties_Aggr.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Параметры">
+      <param name="Name" value="Добавление параметров: Блок агрегации, веб-приложение">
+      <param name="Local" value="Web/Aggregation_block/ParametersArrg.htm">
+      <param name="Name" value="Добавление параметров: Блок агрегации, настольное приложение">
+      <param name="Local" value="Desktop/Aggregation_block/ParametersArrg.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Приёмник">
+      <param name="Name" value="Выбор и настройка приёмника данных: Блок агрегации, веб-приложение">
+      <param name="Local" value="Web/Aggregation_block/Aggregation_block_Receiver.htm">
+      <param name="Name" value="Выбор и настройка приёмника данных: Блок агрегации, настольное приложение">
+      <param name="Local" value="Desktop/Aggregation_block/Aggregation_block_Receiver.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Агрегация">
+      <param name="Name" value="Настройка агрегации: Блок агрегации, веб-приложение">
+      <param name="Local" value="Web/Aggregation_block/Aggregation_block_aggregation.htm">
+      <param name="Name" value="Настройка агрегации: Блок агрегации, настольное приложение">
+      <param name="Local" value="Desktop/Aggregation_block/Aggregation_block_aggregation.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Базовые свойства">
+      <param name="Name" value="Настройка базовых свойств: Блок агрегации, настольное приложение">
+      <param name="Local" value="Desktop/Aggregation_block/Basic_Properties_Aggr.htm">
+    </object>
+    </ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Настройка фильтрации">
+    <param name="Name" value="Выбор и настройка приёмника данных: Блок расчёта, веб-приложение">
+    <param name="Local" value="Web/Calculation_block/Master_calculation_block_page_consumer.htm#filter">
+    <param name="Name" value="Выбор и настройка приёмника данных: Блок агрегации, веб-приложение">
+    <param name="Local" value="Web/Aggregation_block/Aggregation_block_Receiver.htm#filter">
+    <param name="Name" value="Настройка целевой функции: Блок линейной оптимизации, веб-приложение">
+    <param name="Local" value="Web/Linear_optimization_block/TargetFunction_LinOpt.htm#filter">
+    <param name="Name" value="Выбор и настройка приёмника данных: Блок расчёта, настольное приложение">
+    <param name="Local" value="Desktop/Calculation_block/Master_calculation_block_page_consumer.htm#filter">
+    <param name="Name" value="Настройка фильтрации по данным: Блок расчёта, настольное приложение">
+    <param name="Local" value="Desktop/Calculation_block/FilteringByData.htm#filtering">
+    <param name="Name" value="Выбор и настройка приёмника данных: Блок агрегации, настольное приложение">
+    <param name="Local" value="Desktop/Aggregation_block/Aggregation_block_Receiver.htm#filter">
+    <param name="Name" value="Настройка фильтрации по данным: Блок расчёта, веб-приложение">
+    <param name="Local" value="Web/Calculation_block/FilteringByData.htm#filtering">
+    <param name="Name" value="Настройка целевой функции: Блок линейной оптимизации, настольное приложение">
+    <param name="Local" value="Desktop/Linear_optimization_block/TargetFunction_LinOpt.htm#filter">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Настройка связей атрибутов">
+    <param name="Name" value="Выбор и настройка приёмника данных: Блок расчёта, веб-приложение">
+    <param name="Local" value="Web/Calculation_block/Master_calculation_block_page_consumer.htm#filter_attributes">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Настройка связей">
+    <param name="Name" value="Выбор и настройка источников данных: Блок расчёта, веб-приложение">
+    <param name="Local" value="Web/Calculation_block/Page_Sources.htm#link">
+    <param name="Name" value="Выбор и настройка источников данных: Блок расчёта, настольное приложение">
+    <param name="Local" value="Desktop/Calculation_block/Page_Sources.htm#link">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Агрегация">
+    <param name="Name" value="Настройка агрегации: Блок агрегации, веб-приложение">
+    <param name="Local" value="Web/Aggregation_block/Aggregation_block_aggregation.htm">
+    <param name="Name" value="Настройка агрегации: Блок агрегации, настольное приложение">
+    <param name="Local" value="Desktop/Aggregation_block/Aggregation_block_aggregation.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Настройка альтернативной иерархии">
+    <param name="Name" value="Настройка агрегации: Блок агрегации, веб-приложение">
+    <param name="Local" value="Web/Aggregation_block/Aggregation_block_aggregation.htm">
+    <param name="Name" value="Настройка агрегации: Блок агрегации, настольное приложение">
+    <param name="Local" value="Desktop/Aggregation_block/Aggregation_block_aggregation.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Основной механизм агрегации">
+    <param name="Name" value="Настройка агрегации: Блок агрегации, веб-приложение">
+    <param name="Local" value="Web/Aggregation_block/Aggregation_block_aggregation.htm#aggrmethod">
+    <param name="Name" value="Настройка агрегации: Блок агрегации, настольное приложение">
+    <param name="Local" value="Desktop/Aggregation_block/Aggregation_block_aggregation.htm#aggrmethod">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Блок функции">
+    <param name="Name" value="Вставка и настройка блоков функций: Веб-приложение">
+    <param name="Local" value="Web/Function_Block/Function_Block.htm">
+    <param name="Name" value="Вставка и настройка блоков функций: Настольное приложение">
+    <param name="Local" value="Desktop/Function_Block/Function_Block.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Базовые настройки">
+      <param name="Name" value="Настройка базовых свойств: Блок функции, веб-приложение">
+      <param name="Local" value="Web/Function_Block/Basic_Properties_Func.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Параметры">
+      <param name="Name" value="Добавление параметров: Блок функции, веб-приложение">
+      <param name="Local" value="Web/Function_Block/ParametersFunc.htm">
+      <param name="Name" value="Добавление параметров: Блок функции, настольное приложение">
+      <param name="Local" value="Desktop/Function_Block/ParametersFunc.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Настройка функции">
+      <param name="Name" value="Выбор пользовательской функции: Блок функции, веб-приложение">
+      <param name="Local" value="Web/Function_Block/Function_Block_Wizard.htm">
+      <param name="Name" value="Выбор пользовательской функции: Блок функции, настольное приложение">
+      <param name="Local" value="Desktop/Function_Block/Function_Block_Wizard.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Базовые свойства">
+      <param name="Name" value="Настройка базовых свойств: Блок функции, настольное приложение">
+      <param name="Local" value="Desktop/Function_Block/Basic_Properties_Func.htm">
+    </object>
+    </ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Настройка функции">
+    <param name="Name" value="Выбор пользовательской функции: Блок функции, веб-приложение">
+    <param name="Local" value="Web/Function_Block/Function_Block_Wizard.htm">
+    <param name="Name" value="Выбор пользовательской функции: Блок функции, настольное приложение">
+    <param name="Local" value="Desktop/Function_Block/Function_Block_Wizard.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Блок линейной оптимизации">
+    <param name="Name" value="Вставка и настройка блоков линейной оптимизации: Веб-приложение">
+    <param name="Local" value="Web/Linear_optimization_block/Linear_optimization_block.htm">
+    <param name="Name" value="Вставка и настройка блоков линейной оптимизации: Настольное приложение">
+    <param name="Local" value="Desktop/Linear_optimization_block/Linear_optimization_block.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Базовые настройки">
+      <param name="Name" value="Настройка базовых свойств: Блок линейной оптимизации, веб-приложение">
+      <param name="Local" value="Web/Linear_optimization_block/Basic_Properties_LinOpt.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Параметры">
+      <param name="Name" value="Добавление параметров: Блок линейной оптимизации, веб-приложение">
+      <param name="Local" value="Web/Linear_optimization_block/Parameters_LinOpt.htm">
+      <param name="Name" value="Добавление параметров: Блок линейной оптимизации, настольное приложение">
+      <param name="Local" value="Desktop/Linear_optimization_block/Parameters_LinOpt.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Целевая функция">
+      <param name="Name" value="Настройка целевой функции: Блок линейной оптимизации, веб-приложение">
+      <param name="Local" value="Web/Linear_optimization_block/TargetFunction_LinOpt.htm">
+      <param name="Name" value="Просмотр целевой функции: Блок линейной оптимизации, веб-приложение">
+      <param name="Local" value="Web/Linear_optimization_block/ViewTagretFunction_LinOpt.htm">
+      <param name="Name" value="Настройка целевой функции: Блок линейной оптимизации, настольное приложение">
+      <param name="Local" value="Desktop/Linear_optimization_block/TargetFunction_LinOpt.htm">
+      <param name="Name" value="Просмотр целевой функции: Блок линейной оптимизации, настольное приложение">
+      <param name="Local" value="Desktop/Linear_optimization_block/ViewTagretFunction_LinOpt.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Ограничения на переменные">
+      <param name="Name" value="Настройка простых ограничений управляющих переменных: Блок линейной оптимизации, веб-приложение">
+      <param name="Local" value="Web/Linear_optimization_block/VariablesRestriction_LinOpt.htm">
+      <param name="Name" value="Настройка простых ограничений управляющих переменных: Блок линейной оптимизации, настольное приложение">
+      <param name="Local" value="Desktop/Linear_optimization_block/VariablesRestriction_LinOpt.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Базовые свойства">
+      <param name="Name" value="Настройка базовых свойств: Блок линейной оптимизации, настольное приложение">
+      <param name="Local" value="Desktop/Linear_optimization_block/Basic_Properties_LinOpt.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Дополнительные настройки">
+      <param name="Name" value="Выбор базы данных, модуля расчёта: Блок линейной оптимизации, настольное приложение">
+      <param name="Local" value="Desktop/Linear_optimization_block/DataBase_LinOpt.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Коэффициенты целевой функции">
+      <param name="Name" value="Формирование коэффициентов целевой функции: Блок линейной оптимизации, настольное приложение">
+      <param name="Local" value="Desktop/Linear_optimization_block/TargetFunctionCoefficients_LinOpt.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Переменные">
+      <param name="Name" value="Ввод начальных значений управляющих переменных: Блок линейной оптимизации, настольное приложение">
+      <param name="Local" value="Desktop/Linear_optimization_block/Variables_LinOpt.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Ограничения на выражения">
+      <param name="Name" value="Настройка сложных ограничений управляющих переменных: Блок линейной оптимизации, настольное приложение">
+      <param name="Local" value="Desktop/Linear_optimization_block/ExpressionsRestriction_LinOpt.htm">
+    </object>
+    </ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Целевая функция">
+    <param name="Name" value="Настройка целевой функции: Блок линейной оптимизации, веб-приложение">
+    <param name="Local" value="Web/Linear_optimization_block/TargetFunction_LinOpt.htm">
+    <param name="Name" value="Просмотр целевой функции: Блок линейной оптимизации, веб-приложение">
+    <param name="Local" value="Web/Linear_optimization_block/ViewTagretFunction_LinOpt.htm">
+    <param name="Name" value="Настройка целевой функции: Блок линейной оптимизации, настольное приложение">
+    <param name="Local" value="Desktop/Linear_optimization_block/TargetFunction_LinOpt.htm">
+    <param name="Name" value="Просмотр целевой функции: Блок линейной оптимизации, настольное приложение">
+    <param name="Local" value="Desktop/Linear_optimization_block/ViewTagretFunction_LinOpt.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Ограничения на переменные">
+    <param name="Name" value="Настройка простых ограничений управляющих переменных: Блок линейной оптимизации, веб-приложение">
+    <param name="Local" value="Web/Linear_optimization_block/VariablesRestriction_LinOpt.htm">
+    <param name="Name" value="Настройка простых ограничений управляющих переменных: Блок линейной оптимизации, настольное приложение">
+    <param name="Local" value="Desktop/Linear_optimization_block/VariablesRestriction_LinOpt.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Внешний вид целевой функции">
+    <param name="Name" value="Просмотр целевой функции: Блок линейной оптимизации, веб-приложение">
+    <param name="Local" value="Web/Linear_optimization_block/ViewTagretFunction_LinOpt.htm">
+    <param name="Name" value="Просмотр целевой функции: Блок линейной оптимизации, настольное приложение">
+    <param name="Local" value="Desktop/Linear_optimization_block/ViewTagretFunction_LinOpt.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Блок контроля">
+    <param name="Name" value="Вставка и настройка блоков контроля: Веб-приложение">
+    <param name="Local" value="Web/Control_Block/Control_Block.htm">
+    <param name="Name" value="Вставка и настройка блоков контроля: Настольное приложение">
+    <param name="Local" value="Desktop/Control_Block/Control_Block.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Оформление данных">
+      <param name="Name" value="Настройка оформления данных, не прошедших контроль: Блок контроля, веб-приложение">
+      <param name="Local" value="Web/Control_Block/Style_ControlBlock.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Базовые настройки">
+      <param name="Name" value="Настройка базовых свойств: Блок расчёта, веб-приложение">
+      <param name="Local" value="Web/Calculation_block/Basic_Properties.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Параметры">
+      <param name="Name" value="Добавление параметров: Блок расчёта, веб-приложение">
+      <param name="Local" value="Web/Calculation_block/Parameters.htm">
+      <param name="Name" value="Добавление параметров: Блок расчёта, настольное приложение">
+      <param name="Local" value="Desktop/Calculation_block/Parameters.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Приёмник">
+      <param name="Name" value="Выбор и настройка приёмника данных: Блок расчёта, веб-приложение">
+      <param name="Local" value="Web/Calculation_block/Master_calculation_block_page_consumer.htm">
+      <param name="Name" value="Выбор и настройка приёмника данных: Блок расчёта, настольное приложение">
+      <param name="Local" value="Desktop/Calculation_block/Master_calculation_block_page_consumer.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Источники">
+      <param name="Name" value="Выбор и настройка источников данных: Блок расчёта, веб-приложение">
+      <param name="Local" value="Web/Calculation_block/Page_Sources.htm">
+      <param name="Name" value="Выбор и настройка источников данных: Блок расчёта, настольное приложение">
+      <param name="Local" value="Desktop/Calculation_block/Page_Sources.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Фильтрация по данным">
+      <param name="Name" value="Настройка фильтрации по данным: Блок расчёта, веб-приложение">
+      <param name="Local" value="Web/Calculation_block/FilteringByData.htm">
+      <param name="Name" value="Настройка фильтрации по данным: Блок расчёта, настольное приложение">
+      <param name="Local" value="Desktop/Calculation_block/FilteringByData.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Стили">
+      <param name="Name" value="Настройка оформления данных, не прошедших контроль: Блок контроля, настольное приложение">
+      <param name="Local" value="Desktop/Control_Block/Style_ControlBlock.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Базовые свойства">
+      <param name="Name" value="Настройка базовых свойств: Блок расчёта, настольное приложение">
+      <param name="Local" value="Desktop/Calculation_block/Basic_Properties.htm">
+    </object>
+    </ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Оформление данных">
+    <param name="Name" value="Настройка оформления данных, не прошедших контроль: Блок контроля, веб-приложение">
+    <param name="Local" value="Web/Control_Block/Style_ControlBlock.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Добавить блок">
+    <param name="Name" value="Вставка готовых алгоритмов расчёта и блоков: Алгоритм расчёта показателей, веб-приложение">
+    <param name="Local" value="Web/Work/AddAlgorithm.htm">
+    <param name="Name" value="Вставка готовых алгоритмов расчёта и блоков: Алгоритм расчёта показателей, настольное приложение">
+    <param name="Local" value="Desktop/Work/AddAlgorithm.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Объект расчёта">
+    <param name="Name" value="Вставка готовых алгоритмов расчёта и блоков: Алгоритм расчёта показателей, веб-приложение">
+    <param name="Local" value="Web/Work/AddAlgorithm.htm">
+    <param name="Name" value="Вставка готовых алгоритмов расчёта и блоков: Алгоритм расчёта показателей, настольное приложение">
+    <param name="Local" value="Desktop/Work/AddAlgorithm.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Добавить алгоритм расчёта">
+    <param name="Name" value="Вставка готовых алгоритмов расчёта и блоков: Алгоритм расчёта показателей, веб-приложение">
+    <param name="Local" value="Web/Work/AddAlgorithm.htm">
+    <param name="Name" value="Вставка готовых алгоритмов расчёта и блоков: Алгоритм расчёта показателей, настольное приложение">
+    <param name="Local" value="Desktop/Work/AddAlgorithm.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Управление параметрами">
+    <param name="Name" value="Задание связей параметров: Алгоритм расчёта показателей, веб-приложение">
+    <param name="Local" value="Web/Work/Manage_settings.htm">
+    <param name="Name" value="Задание связей параметров: Алгоритм расчёта показателей, настольное приложение">
+    <param name="Local" value="Desktop/Work/Manage_settings.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Связь параметров расчёта">
+    <param name="Name" value="Задание связей параметров: Алгоритм расчёта показателей, веб-приложение">
+    <param name="Local" value="Web/Work/Manage_settings.htm">
+    <param name="Name" value="Задание связей с параметрами кубов: Алгоритм расчёта показателей, веб-приложение">
+    <param name="Local" value="Web/Work/Manage_cubes_settings.htm">
+    <param name="Name" value="Задание связей с параметрами объектов репозитория: Алгоритм расчёта показателей, веб-приложение">
+    <param name="Local" value="Web/Work/Manage_objects_settings.htm">
+    <param name="Name" value="Задание связей параметров: Алгоритм расчёта показателей, настольное приложение">
+    <param name="Local" value="Desktop/Work/Manage_settings.htm">
+    <param name="Name" value="Задание связей с параметрами объектов репозитория: Алгоритм расчёта показателей, настольное приложение">
+    <param name="Local" value="Desktop/Work/Manage_objects_settings.htm">
+    <param name="Name" value="Задание связей с параметрами кубов: Алгоритм расчёта показателей, настольное приложение">
+    <param name="Local" value="Desktop/Work/Manage_cubes_settings.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Управление параметрами кубов">
+    <param name="Name" value="Задание связей с параметрами кубов: Алгоритм расчёта показателей, веб-приложение">
+    <param name="Local" value="Web/Work/Manage_cubes_settings.htm">
+    <param name="Name" value="Задание связей с параметрами кубов: Алгоритм расчёта показателей, настольное приложение">
+    <param name="Local" value="Desktop/Work/Manage_cubes_settings.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Управление периодом расчёта">
+    <param name="Name" value="Управление периодом расчёта: Алгоритм расчёта показателей, веб-приложение">
+    <param name="Local" value="Web/Work/Calculation_period_management.htm">
+    <param name="Name" value="Управление периодом расчёта: Алгоритм расчёта показателей, настольное приложение">
+    <param name="Local" value="Desktop/Work/Calculation_period_management.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Управление параметрами объектов репозитория">
+    <param name="Name" value="Задание связей с параметрами объектов репозитория: Алгоритм расчёта показателей, веб-приложение">
+    <param name="Local" value="Web/Work/Manage_objects_settings.htm">
+    <param name="Name" value="Задание связей с параметрами объектов репозитория: Алгоритм расчёта показателей, настольное приложение">
+    <param name="Local" value="Desktop/Work/Manage_objects_settings.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Ветвление">
+    <param name="Name" value="Настройка условий выполнения расчёта алгоритма: Веб-приложение">
+    <param name="Local" value="Web/Work/CalculationConditions.htm">
+    <param name="Name" value="Настройка условий выполнения расчёта алгоритма: Настольное приложение">
+    <param name="Local" value="Desktop/Work/CalculationConditions.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Исключить из расчёта">
+    <param name="Name" value="Настройка порядка расчёта алгоритма: Веб-приложение">
+    <param name="Local" value="Web/Work/CalculationOrder.htm">
+    <param name="Name" value="Настройка порядка расчёта алгоритма: Настольное приложение">
+    <param name="Local" value="Desktop/Work/CalculationOrder.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Дерево расчёта">
+    <param name="Name" value="Настройка порядка расчёта алгоритма: Веб-приложение">
+    <param name="Local" value="Web/Work/CalculationOrder.htm">
+    <param name="Name" value="Настройка условий выполнения расчёта алгоритма: Веб-приложение">
+    <param name="Local" value="Web/Work/CalculationConditions.htm">
+    <param name="Name" value="Настройка условий выполнения расчёта алгоритма: Настольное приложение">
+    <param name="Local" value="Desktop/Work/CalculationConditions.htm">
+    <param name="Name" value="Настройка порядка расчёта алгоритма: Настольное приложение">
+    <param name="Local" value="Desktop/Work/CalculationOrder.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Настройки выполнения расчёта">
+    <param name="Name" value="Отладка расчёта алгоритма: Веб-приложение">
+    <param name="Local" value="Web/Work/Debug.htm">
+    <param name="Name" value="Расчёт алгоритма: Веб-приложение">
+    <param name="Local" value="Web/Work/Perform_calculations.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Настройки цикла">
+    <param name="Name" value="Отладка расчёта алгоритма: Веб-приложение">
+    <param name="Local" value="Web/Work/Debug.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Рассчитать">
+    <param name="Name" value="Отладка расчёта алгоритма: Веб-приложение">
+    <param name="Local" value="Web/Work/Debug.htm">
+    <param name="Name" value="Расчёт алгоритма: Веб-приложение">
+    <param name="Local" value="Web/Work/Perform_calculations.htm">
+    <param name="Name" value="Отладка расчёта алгоритма: Настольное приложение">
+    <param name="Local" value="Desktop/Work/Debug.htm">
+    <param name="Name" value="Расчёт алгоритма: Настольное приложение">
+    <param name="Local" value="Desktop/Work/Perform_calculations.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Результаты расчёта алгоритма">
+    <param name="Name" value="Отладка расчёта алгоритма: Веб-приложение">
+    <param name="Local" value="Web/Work/Debug.htm#message">
+    <param name="Name" value="Расчёт алгоритма: Веб-приложение">
+    <param name="Local" value="Web/Work/Perform_calculations.htm#message">
+    <param name="Name" value="Расчёт алгоритма: Настольное приложение">
+    <param name="Local" value="Desktop/Work/Perform_calculations.htm">
+    <param name="Name" value="Отладка расчёта алгоритма: Настольное приложение">
+    <param name="Local" value="Desktop/Work/Debug.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Объект репозитория">
+    <param name="Name" value="Вставка объектов репозитория: Алгоритм расчёта показателей, веб-приложение">
+    <param name="Local" value="Web/Work/AddRepoObject.htm">
+    <param name="Name" value="Вставка объектов репозитория: Алгоритм расчёта показателей, настольное приложение">
+    <param name="Local" value="Desktop/Work/AddRepoObject.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Управление элементами">
+    <param name="Name" value="Управление элементами алгоритма расчёта: Веб-приложение">
+    <param name="Local" value="Web/Work/Management_of_Elements.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Поиск элемента">
+    <param name="Name" value="Управление элементами алгоритма расчёта: Веб-приложение">
+    <param name="Local" value="Web/Work/Management_of_Elements.htm#search">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Рабочая область">
+    <param name="Name" value="Управление элементами алгоритма расчёта: Веб-приложение">
+    <param name="Local" value="Web/Work/Management_of_Elements.htm">
+    <param name="Name" value="Настройка оформления алгоритма расчёта: Веб-приложение">
+    <param name="Local" value="Web/Work/AlgorithmDecor.htm">
+    <param name="Name" value="Настройка рабочей области: Алгоритм расчёта показателей, веб-приложение">
+    <param name="Local" value="Web/Work/Workspace_Setup.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Масштаб">
+    <param name="Name" value="Настройка рабочей области: Алгоритм расчёта показателей, веб-приложение">
+    <param name="Local" value="Web/Work/Workspace_Setup.htm#zoom">
+    <param name="Name" value="Масштабирование рабочей области: Алгоритм расчёта показателей, настольное приложение">
+    <param name="Local" value="Desktop/Work/Scale.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Настройки рабочей области">
+    <param name="Name" value="Настройка оформления алгоритма расчёта: Веб-приложение">
+    <param name="Local" value="Web/Work/AlgorithmDecor.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Линия">
+    <param name="Name" value="Настройка оформления алгоритма расчёта: Веб-приложение">
+    <param name="Local" value="Web/Work/AlgorithmDecor.htm#insert_objects">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Фигура">
+    <param name="Name" value="Настройка оформления алгоритма расчёта: Веб-приложение">
+    <param name="Local" value="Web/Work/AlgorithmDecor.htm#insert_objects">
+    <param name="Name" value="Оформление алгоритма расчёта: Настольное приложение">
+    <param name="Local" value="Desktop/Work/AlgorithmDecor.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Выноска">
+    <param name="Name" value="Настройка оформления алгоритма расчёта: Веб-приложение">
+    <param name="Local" value="Web/Work/AlgorithmDecor.htm#insert_objects">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Текст">
+    <param name="Name" value="Настройка оформления алгоритма расчёта: Веб-приложение">
+    <param name="Local" value="Web/Work/AlgorithmDecor.htm#insert_objects">
+    <param name="Name" value="Оформление алгоритма расчёта: Настольное приложение">
+    <param name="Local" value="Desktop/Work/AlgorithmDecor.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Изображение">
+    <param name="Name" value="Настройка оформления алгоритма расчёта: Веб-приложение">
+    <param name="Local" value="Web/Work/AlgorithmDecor.htm#insert_objects">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Настройки изображения">
+    <param name="Name" value="Настройка оформления алгоритма расчёта: Веб-приложение">
+    <param name="Local" value="Web/Work/AlgorithmDecor.htm#insert_image">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Запуск расчёта алгоритма">
+    <param name="Name" value="Расчёт алгоритма: Веб-приложение">
+    <param name="Local" value="Web/Work/Perform_calculations.htm">
+    <param name="Name" value="Отладка расчёта алгоритма: Веб-приложение">
+    <param name="Local" value="Web/Work/Debug.htm">
+    <param name="Name" value="Отладка расчёта алгоритма: Настольное приложение">
+    <param name="Local" value="Desktop/Work/Debug.htm">
+    <param name="Name" value="Расчёт алгоритма: Настольное приложение">
+    <param name="Local" value="Desktop/Work/Perform_calculations.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Запуск расчёта отдельных блоков">
+    <param name="Name" value="Расчёт алгоритма: Веб-приложение">
+    <param name="Local" value="Web/Work/Perform_calculations.htm">
+    <param name="Name" value="Отладка расчёта алгоритма: Веб-приложение">
+    <param name="Local" value="Web/Work/Debug.htm">
+    <param name="Name" value="Отладка расчёта алгоритма: Настольное приложение">
+    <param name="Local" value="Desktop/Work/Debug.htm">
+    <param name="Name" value="Расчёт алгоритма: Настольное приложение">
+    <param name="Local" value="Desktop/Work/Perform_calculations.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Открыть приёмник в отчёте">
+    <param name="Name" value="Просмотр рассчитанных данных: Алгоритм расчёта показателей, веб-приложение">
+    <param name="Local" value="Web/Work/DataView.htm">
+    <param name="Name" value="Просмотр рассчитанных данных: Алгоритм расчёта показателей, настольное приложение">
+    <param name="Local" value="Desktop/Work/DataView.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Вопросы и ответы">
+    <param name="Name" value="Вопросы и ответы: Алгоритм расчёта показателей">
+    <param name="Local" value="FAQ/FAQ_CalculationAlgorithm.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Gurobi">
+    <param name="Name" value="Как использовать модуль расчёта Gurobi?">
+    <param name="Local" value="FAQ/Connect_Gurobi.htm">
+    <param name="Name" value="Выбор базы данных, модуля расчёта: Блок линейной оптимизации, настольное приложение">
+    <param name="Local" value="Desktop/Linear_optimization_block/DataBase_LinOpt.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Многопоточный расчёт">
+    <param name="Name" value="Как выполнять многопоточный расчёт?">
+    <param name="Local" value="FAQ/MultiThreadedCalculation.htm">
+    <param name="Name" value="Отладка расчёта алгоритма: Веб-приложение">
+    <param name="Local" value="Web/Work/Debug.htm">
+    <param name="Name" value="Расчёт алгоритма: Веб-приложение">
+    <param name="Local" value="Web/Work/Perform_calculations.htm">
+    <param name="Name" value="Выбор и настройка приёмника данных: Блок расчёта, веб-приложение">
+    <param name="Local" value="Web/Calculation_block/Master_calculation_block_page_consumer.htm">
+    <param name="Name" value="Выбор и настройка приёмника данных: Блок расчёта, настольное приложение">
+    <param name="Local" value="Desktop/Calculation_block/Master_calculation_block_page_consumer.htm">
+    <param name="Name" value="Отладка расчёта алгоритма: Настольное приложение">
+    <param name="Local" value="Desktop/Work/Debug.htm">
+    <param name="Name" value="Расчёт алгоритма: Настольное приложение">
+    <param name="Local" value="Desktop/Work/Perform_calculations.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Ускорение расчёта алгоритма">
+    <param name="Name" value="Как ускорить расчёт алгоритма?">
+    <param name="Local" value="FAQ/Acceleration_of_Algorithm_Calculation.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Базовые свойства">
+    <param name="Name" value="Настройка базовых свойств: Блок расчёта, настольное приложение">
+    <param name="Local" value="Desktop/Calculation_block/Basic_Properties.htm">
+    <param name="Name" value="Настройка базовых свойств: Блок агрегации, настольное приложение">
+    <param name="Local" value="Desktop/Aggregation_block/Basic_Properties_Aggr.htm">
+    <param name="Name" value="Настройка базовых свойств: Блок функции, настольное приложение">
+    <param name="Local" value="Desktop/Function_Block/Basic_Properties_Func.htm">
+    <param name="Name" value="Настройка базовых свойств: Блок линейной оптимизации, настольное приложение">
+    <param name="Local" value="Desktop/Linear_optimization_block/Basic_Properties_LinOpt.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Свойства параметра объекта">
+    <param name="Name" value="Добавление параметров: Блок расчёта, настольное приложение">
+    <param name="Local" value="Desktop/Calculation_block/Parameters.htm">
+    <param name="Name" value="Добавление параметров: Блок агрегации, настольное приложение">
+    <param name="Local" value="Desktop/Aggregation_block/ParametersArrg.htm">
+    <param name="Name" value="Добавление параметров: Блок функции, настольное приложение">
+    <param name="Local" value="Desktop/Function_Block/ParametersFunc.htm">
+    <param name="Name" value="Добавление параметров: Блок линейной оптимизации, настольное приложение">
+    <param name="Local" value="Desktop/Linear_optimization_block/Parameters_LinOpt.htm">
+    <param name="Name" value="Добавление параметров: Алгоритм расчёта показателей, настольное приложение">
+    <param name="Local" value="Desktop/Work/Parameters_of_the_calculation_algorithm.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Удаление связи">
+    <param name="Name" value="Выбор и настройка источников данных: Блок расчёта, настольное приложение">
+    <param name="Local" value="Desktop/Calculation_block/Page_Sources.htm#unlink">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Привязка значения фильтр-куба">
+    <param name="Name" value="Настройка фильтрации по данным: Блок расчёта, настольное приложение">
+    <param name="Local" value="Desktop/Calculation_block/FilteringByData.htm#filter_cube">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Использовать период расчёта алгоритма">
+    <param name="Name" value="Настройка дополнительных параметров расчёта и сохранения данных: Алгоритм расчёта показателей, настольное приложение">
+    <param name="Local" value="Desktop/Calculation_block/Additional_Calculation_and_Data_Saving_Parameters.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Учитывать период расчёта алгоритма">
+    <param name="Name" value="Настройка дополнительных параметров расчёта и сохранения данных: Алгоритм расчёта показателей, настольное приложение">
+    <param name="Local" value="Desktop/Calculation_block/Additional_Calculation_and_Data_Saving_Parameters.htm">
+    <param name="Name" value="Настройка дополнительных параметров расчёта и сохранения данных: Алгоритм расчёта показателей, веб-приложение">
+    <param name="Local" value="Web/Calculation_block/Additional_Calculation_and_Data_Saving_Parameters.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Привязка значений">
+    <param name="Name" value="Настройка фильтрации по данным: Блок расчёта, веб-приложение">
+    <param name="Local" value="Web/Calculation_block/FilteringByData.htm#filter_cube">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Lpsolve">
+    <param name="Name" value="Выбор базы данных, модуля расчёта: Блок линейной оптимизации, настольное приложение">
+    <param name="Local" value="Desktop/Linear_optimization_block/DataBase_LinOpt.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Коэффициенты целевой функции">
+    <param name="Name" value="Формирование коэффициентов целевой функции: Блок линейной оптимизации, настольное приложение">
+    <param name="Local" value="Desktop/Linear_optimization_block/TargetFunctionCoefficients_LinOpt.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Переменные">
+    <param name="Name" value="Ввод начальных значений управляющих переменных: Блок линейной оптимизации, настольное приложение">
+    <param name="Local" value="Desktop/Linear_optimization_block/Variables_LinOpt.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Ограничения на выражения">
+    <param name="Name" value="Настройка сложных ограничений управляющих переменных: Блок линейной оптимизации, настольное приложение">
+    <param name="Local" value="Desktop/Linear_optimization_block/ExpressionsRestriction_LinOpt.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Стили">
+    <param name="Name" value="Настройка оформления данных, не прошедших контроль: Блок контроля, настольное приложение">
+    <param name="Local" value="Desktop/Control_Block/Style_ControlBlock.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Параметры алгоритма расчёта">
+    <param name="Name" value="Добавление и настройка параметров: Алгоритм расчёта показателей, настольное приложение">
+    <param name="Local" value="Desktop/Work/Set_up_calculation_parameters.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Параметры">
+      <param name="Name" value="Добавление параметров: Алгоритм расчёта показателей, настольное приложение">
+      <param name="Local" value="Desktop/Work/Parameters_of_the_calculation_algorithm.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Управление параметрами">
+      <param name="Name" value="Задание связей параметров: Алгоритм расчёта показателей, настольное приложение">
+      <param name="Local" value="Desktop/Work/Manage_settings.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Управление периодом расчёта">
+      <param name="Name" value="Управление периодом расчёта: Алгоритм расчёта показателей, настольное приложение">
+      <param name="Local" value="Desktop/Work/Calculation_period_management.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Управление параметрами объектов репозитория">
+      <param name="Name" value="Задание связей с параметрами объектов репозитория: Алгоритм расчёта показателей, настольное приложение">
+      <param name="Local" value="Desktop/Work/Manage_objects_settings.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Управление параметрами кубов">
+      <param name="Name" value="Задание связей с параметрами кубов: Алгоритм расчёта показателей, настольное приложение">
+      <param name="Local" value="Desktop/Work/Manage_cubes_settings.htm">
+    </object>
+    </ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Настройка выполнения расчёта">
+    <param name="Name" value="Отладка расчёта алгоритма: Настольное приложение">
+    <param name="Local" value="Desktop/Work/Debug.htm">
+    <param name="Name" value="Расчёт алгоритма: Настольное приложение">
+    <param name="Local" value="Desktop/Work/Perform_calculations.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Рисунок">
+    <param name="Name" value="Оформление алгоритма расчёта: Настольное приложение">
+    <param name="Local" value="Desktop/Work/AlgorithmDecor.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Ошибки расчёта">
+    <param name="Name" value="Расчёт алгоритма: Настольное приложение">
+    <param name="Local" value="Desktop/Work/Perform_calculations.htm">
+    <param name="Name" value="Отладка расчёта алгоритма: Настольное приложение">
+    <param name="Local" value="Desktop/Work/Debug.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Печать">
+    <param name="Name" value="Печать алгоритма расчёта: Настольное приложение">
+    <param name="Local" value="Desktop/Work/Print.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Предварительный просмотр">
+    <param name="Name" value="Печать алгоритма расчёта: Настольное приложение">
+    <param name="Local" value="Desktop/Work/Print.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Остановка расчёта алгоритма">
+    <param name="Name" value="Как запретить остановку расчёта алгоритма?">
+    <param name="Local" value="FAQ/AlgorithmMultuThread.htm">
+    <param name="Name" value="Расчёт алгоритма: Настольное приложение">
+    <param name="Local" value="Desktop/Work/Perform_calculations.htm">
+    <param name="Name" value="Отладка расчёта алгоритма: Настольное приложение">
+    <param name="Local" value="Desktop/Work/Debug.htm">
+    <param name="Name" value="Расчёт алгоритма: Веб-приложение">
+    <param name="Local" value="Web/Work/Perform_calculations.htm">
+    <param name="Name" value="Отладка расчёта алгоритма: Веб-приложение">
+    <param name="Local" value="Web/Work/Debug.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Расчёт алгоритма">
+    <param name="Name" value="Расчёт алгоритма: Веб-приложение">
+    <param name="Local" value="Web/Work/Perform_calculations.htm">
+    <param name="Name" value="Отладка расчёта алгоритма: Веб-приложение">
+    <param name="Local" value="Web/Work/Debug.htm">
+    <param name="Name" value="Отладка расчёта алгоритма: Настольное приложение">
+    <param name="Local" value="Desktop/Work/Debug.htm">
+    <param name="Name" value="Расчёт алгоритма: Настольное приложение">
+    <param name="Local" value="Desktop/Work/Perform_calculations.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Расчёт отдельных блоков">
+    <param name="Name" value="Расчёт алгоритма: Веб-приложение">
+    <param name="Local" value="Web/Work/Perform_calculations.htm">
+    <param name="Name" value="Отладка расчёта алгоритма: Веб-приложение">
+    <param name="Local" value="Web/Work/Debug.htm">
+    <param name="Name" value="Отладка расчёта алгоритма: Настольное приложение">
+    <param name="Local" value="Desktop/Work/Debug.htm">
+    <param name="Name" value="Расчёт алгоритма: Настольное приложение">
+    <param name="Local" value="Desktop/Work/Perform_calculations.htm">
+  </object>
+</ul>
+</html>

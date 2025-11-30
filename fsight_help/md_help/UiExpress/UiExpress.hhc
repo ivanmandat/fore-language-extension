@@ -1,0 +1,208 @@
+<html>
+<!-- Sitemap 1.0 -->
+<object type="text/site properties">
+  <param name="SiteType" value="toc">
+  <param name="Image Width" value="16">
+  <param name="Window Styles" value="0x800027">
+  <param name="ExWindow Styles" value="0x100">
+</object>
+<ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Оперативный просмотр и анализ данных (OLAP)">
+    <param name="Local" value="purpose/UiExpress_Purpose.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Начало работы с инструментом «Аналитические запросы (OLAP)»">
+      <param name="Local" value="purpose/UiExpress_Organizational_Starting.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Построение экспресс-отчёта">
+      <param name="Local" value="purpose/UiExpress_Purpose_Starting.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Вставка листов экспресс-отчёта">
+        <param name="Local" value="Setup_express_report/Sheets.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Управление параметрами листа">
+          <param name="Local" value="Express/Data_sources_parameters.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Выбор источника данных">
+        <param name="Local" value="purpose/UiExpress_Tree_Multivariate_Object.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Создание отчёта по нескольким источникам">
+          <param name="Local" value="ChangeNote/UiExpress_Tabl_ChangeNote_PrivDim.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Настройка структуры источника данных">
+          <param name="Local" value="purpose/DS_structure.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Управление параметрами источника данных">
+          <param name="Local" value="purpose/DataSourceParam.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Поиск источников данных">
+          <param name="Local" value="purpose/Search.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+    </ul>
+    <object type="text/sitemap">
+      <param name="Name" value="UiSelection.chm::/UiSelection.hhc">
+      <param name="Merge" value="UiSelection.chm::/UiSelection.hhc" value2="../uiselection">
+      <param name="ImageNumber" value="11">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Выбор визуализатора для отображения данных">
+        <param name="Local" value="Setup_express_report/UiExpress_control.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Выбор данных для построения визуализации">
+          <param name="Local" value="purpose/UiDiagrams_Express_selection.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Настройка заголовка как интерактивного элемента управления">
+        <param name="Local" value="Setup_express_report/UiExpress_Purpose_Toolbar_Title.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Работа с готовым экспресс-отчётом">
+      <param name="Local" value="Setup_express_report/Working_with_express_report.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Обновление данных экспресс-отчёта">
+        <param name="Local" value="Express/Update_data.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Работа с данными в таблице">
+        <param name="Local" value="Express/Data.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Отмена/повтор операции над объектами экспресс-отчёта">
+        <param name="Local" value="Setup_express_report/Undo_Redo.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Экспорт экспресс-отчёта">
+        <param name="Local" value="Express/UiExpress_Express_Export.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Пакетный экспорт экспресс-отчёта">
+          <param name="Local" value="Express/UiReport_PackExp.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Предварительный просмотр и печать экспресс-отчёта">
+        <param name="Local" value="Express/UiExpress_Express_Print.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Параметры страницы">
+          <param name="Local" value="Express/ParamPage/UiExpress_Express_ParamPage.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Страница">
+            <param name="Local" value="Express/ParamPage/UiExpress_Express_ParamPage_1.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Поля">
+            <param name="Local" value="Express/ParamPage/UiExpress_Express_ParamPage_2.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Колонтитулы">
+            <param name="Local" value="Express/ParamPage/UiExpress_Express_ParamPage3.htm">
+          </object>
+          <ul>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Работа с колонтитулами">
+              <param name="Local" value="Express/ParamPage/UiExpress_HeaderFooter.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Вывод отметки по измерениям в колонтитул">
+              <param name="Local" value="Express/ParamPage/UiExpress_Express_ParamPage3_Slice.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            </ul>
+          </ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Печать объектов">
+          <param name="Local" value="Express/ParamPage/UiExpress_Express_ParamPage4.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Пакетная печать экспресс-отчёта">
+          <param name="Local" value="Express/UiExpress_Express_Select.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Сохранение изменённых данных">
+        <param name="Local" value="Express/UiExpress_Express_Save.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Создание копии экспресс-отчёта">
+        <param name="Local" value="Express/UiExpress_Express_Save.htm#save_copy642b3b9347ca42c9b00b820c00c373fa=1">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Публикация в социальных сетях и обсуждение экспресс-отчёта">
+        <param name="Local" value="Setup_express_report/Publish.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Вопросы и ответы">
+      <param name="Local" value="FAQ/FAQ.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Как настроить карту в экспресс-отчёте?">
+        <param name="Local" value="FAQ/How_to_configure_a_map_in_the_express_report.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Как ограничить права доступа для измерений и элементов измерений источника данных экспресс-отчёта?">
+        <param name="Local" value="FAQ/Dimension_access_permissions.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Как ограничить чрезмерно большую отметку элементов измерения?">
+        <param name="Local" value="FAQ/SelectionLimit.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Как при печати нескольких страниц на каждой вывести повторяющуюся информацию?">
+        <param name="Local" value="FAQ/MultiPage_Printing.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      </ul>
+    </ul>
+</ul>
+</html>

@@ -1,0 +1,43 @@
+﻿# ICubeMetaExporterBinding.ValueDataTypeSize
+
+ICubeMetaExporterBinding.ValueDataTypeSize
+-
+
+
+# ICubeMetaExporterBinding.ValueDataTypeSize
+
+
+## Синтаксис
+
+
+ValueDataTypeSize: Integer;
+
+
+## Описание
+
+
+Свойство ValueDataTypeSize определяет общую длину значения показателя.
+
+
+## Комментарии
+
+
+Данное свойство актуально при экспорте данных в новые таблицы, расположенные на сервере СУБД. Размеры имеющихся значений атрибутов не должны превышать значение, указанное в данном свойстве.
+
+
+## Пример
+
+
+Пример использования данного свойства приведен в описании свойства [DataTypeSize](ICubeMetaExporterBinding.DataTypeSize.htm).
+
+
+См. также:
+
+
+[ICubeMetaExporterBinding](ICubeMetaExporterBinding.htm)
+
+
+		Справочная
+		 система на версию 10.9
+		 от 18/08/2025,
+		 © ООО «ФОРСАЙТ»,

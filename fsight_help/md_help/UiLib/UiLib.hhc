@@ -1,0 +1,1382 @@
+<html>
+<!-- Sitemap 1.0 -->
+<object type="text/site properties">
+  <param name="SiteType" value="toc">
+  <param name="Image Width" value="16">
+  <param name="Window Styles" value="0x800027">
+  <param name="ExWindow Styles" value="0x100">
+</object>
+<ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Ui">
+    <param name="Local" value="UiLib_Title.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Интерфейсы сборки Ui">
+      <param name="Local" value="Interface/Ui_Intefrace.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IApplicationGlobals">
+        <param name="Local" value="Interface/IApplicationGlobals/IApplicationGlobals.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IApplicationGlobals.Add">
+          <param name="Local" value="Interface/IApplicationGlobals/IApplicationGlobals.Add.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IApplicationGlobals.Clear">
+          <param name="Local" value="Interface/IApplicationGlobals/IApplicationGlobals.Clear.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IApplicationGlobals.Count">
+          <param name="Local" value="Interface/IApplicationGlobals/IApplicationGlobals.Count.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IApplicationGlobals.Item">
+          <param name="Local" value="Interface/IApplicationGlobals/IApplicationGlobals.Item.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IApplicationGlobals.Name">
+          <param name="Local" value="Interface/IApplicationGlobals/IApplicationGlobals.Name.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IApplicationGlobals.Remove">
+          <param name="Local" value="Interface/IApplicationGlobals/IApplicationGlobals.Remove.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IApplicationGlobals.RemoveAt">
+          <param name="Local" value="Interface/IApplicationGlobals/IApplicationGlobals.RemoveAt.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IApplicationWindows">
+        <param name="Local" value="Interface/IApplicationWindows/IApplicationWindows.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IApplicationWindows.ForegroundWindow">
+          <param name="Local" value="Interface/IApplicationWindows/IApplicationWindows.ForegroundWindow.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IOperatingSystemVersion">
+        <param name="Local" value="Interface/IOperatingSystemVersion/IOperatingSystemVersion.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IOperatingSystemVersion.CSDVersion">
+          <param name="Local" value="Interface/IOperatingSystemVersion/IOperatingSystemVersion.CSDVersion.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IOperatingSystemVersion.FullName">
+          <param name="Local" value="Interface/IOperatingSystemVersion/IOperatingSystemVersion.FullName.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IOperatingSystemVersion.MajorVersion">
+          <param name="Local" value="Interface/IOperatingSystemVersion/IOperatingSystemVersion.MajorVersion.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IOperatingSystemVersion.MinorVersion">
+          <param name="Local" value="Interface/IOperatingSystemVersion/IOperatingSystemVersion.MinorVersion.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IOperatingSystemVersion.Name">
+          <param name="Local" value="Interface/IOperatingSystemVersion/IOperatingSystemVersion.Name.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IOperatingSystemVersion.PlatformId">
+          <param name="Local" value="Interface/IOperatingSystemVersion/IOperatingSystemVersion.PlatformId.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IUiCommandAction">
+        <param name="Local" value="Interface/IUiCommandAction/IUiCommandAction.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IUiCommandAction.Enabled">
+          <param name="Local" value="Interface/IUiCommandAction/IUiCommandAction.Enabled.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IUiCommandAction.Name">
+          <param name="Local" value="Interface/IUiCommandAction/IUiCommandAction.Name.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IUiCommandAction.Visible">
+          <param name="Local" value="Interface/IUiCommandAction/IUiCommandAction.Visible.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IUiCommandActionCustomize">
+        <param name="Local" value="Interface/IUiCommandActionCustomize/IUiCommandActionCustomize.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IUiCommandActionCustomize.Add">
+          <param name="Local" value="Interface/IUiCommandActionCustomize/IUiCommandActionCustomize.Add.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IUiCommandActionCustomize.Clear">
+          <param name="Local" value="Interface/IUiCommandActionCustomize/IUiCommandActionCustomize.Clear.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IUiCommandActionCustomize.Count">
+          <param name="Local" value="Interface/IUiCommandActionCustomize/IUiCommandActionCustomize.Count.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IUiCommandActionCustomize.Find">
+          <param name="Local" value="Interface/IUiCommandActionCustomize/IUiCommandActionCustomize.Find.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IUiCommandActionCustomize.Item">
+          <param name="Local" value="Interface/IUiCommandActionCustomize/IUiCommandActionCustomize.Item.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IUiCommandActionCustomize.Remove">
+          <param name="Local" value="Interface/IUiCommandActionCustomize/IUiCommandActionCustomize.Remove.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IUiCommandActionCustomize.RemoveByName">
+          <param name="Local" value="Interface/IUiCommandActionCustomize/IUiCommandActionCustomize.RemoveByName.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IUiCommandExecutionContext">
+        <param name="Local" value="Interface/IUiCommandExecutionContext/IUiCommandExecutionContext.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IUiCommandExecutionContext.CommandActionCustomize">
+          <param name="Local" value="Interface/IUiCommandExecutionContext/IUiCommandExecutionContext.CommandActionCustomize.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IUiCommandExecutionContext.Data">
+          <param name="Local" value="Interface/IUiCommandExecutionContext/IUiCommandExecutionContext.Data.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IUiCommandExecutionContext.ExecutionMode">
+          <param name="Local" value="Interface/IUiCommandExecutionContext/IUiCommandExecutionContext.ExecutionMode.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IUiCommandExecutionContext.Modal">
+          <param name="Local" value="Interface/IUiCommandExecutionContext/IUiCommandExecutionContext.Modal.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IUiCommandExecutionContext.ParentWindow">
+          <param name="Local" value="Interface/IUiCommandExecutionContext/IUiCommandExecutionContext.ParentWindow.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IUiCommandExecutionContext.Silent">
+          <param name="Local" value="Interface/IUiCommandExecutionContext/IUiCommandExecutionContext.Silent.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IUiCommandTarget">
+        <param name="Local" value="Interface/IUiCommandTarget/IUiCommandTarget.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IUiCommandTarget.CreateExecutionContext">
+          <param name="Local" value="Interface/IUiCommandTarget/IUiCommandTarget.CreateExecutionContext.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IUiCommandTarget.Execute">
+          <param name="Local" value="Interface/IUiCommandTarget/IUiCommandTarget.Execute.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Общие команды">
+            <param name="Local" value="Interface/IUiCommandTarget/IUiCommandTarget.Execute.htm#total642b3b9347ca42c9b00b820c00c373fa=1">
+          </object>
+          <ul>
+            <li><object type="text/sitemap">
+              <param name="Name" value="CalcCube.EditFormulas">
+              <param name="Local" value="Interface/IUiCommandTarget/Command/CalcCube.EditFormulas.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="CalcCube.Execute">
+              <param name="Local" value="Interface/IUiCommandTarget/Command/CalcCube.Execute.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Cube.CreateReport">
+              <param name="Local" value="Interface/IUiCommandTarget/Command/Cube.CreateReport.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Cube.SaveToFile">
+              <param name="Local" value="Interface/IUiCommandTarget/Command/Cube.SaveToFile.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Object.Access">
+              <param name="Local" value="Interface/IUiCommandTarget/Command/Object.Access.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Object.Edit">
+              <param name="Local" value="Interface/IUiCommandTarget/Command/Object.Edit.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Object.EditShortcut">
+              <param name="Local" value="Interface/IUiCommandTarget/Command/Object.EditShortcut.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Object.History">
+              <param name="Local" value="Interface/IUiCommandTarget/Command/Object.History.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Object.Open">
+              <param name="Local" value="Interface/IUiCommandTarget/Command/Object.Open.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Problem.Run">
+              <param name="Local" value="Interface/IUiCommandTarget/Command/Problem.Run.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Query.QueryBuilder">
+              <param name="Local" value="Interface/IUiCommandTarget/Command/Query.QueryBuilder.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            </ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Плагин Adm">
+            <param name="Local" value="Interface/IUiCommandTarget/IUiCommandTarget.Execute.htm#adm642b3b9347ca42c9b00b820c00c373fa=2">
+          </object>
+          <ul>
+            <li><object type="text/sitemap">
+              <param name="Name" value="ChangePassword">
+              <param name="Local" value="Interface/IUiCommandTarget/Command/Command_ChangePassword.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="OpenNavigator">
+              <param name="Local" value="Interface/IUiCommandTarget/Command/Command_OpenNavigator_Adm.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="ShowHoursPolicy">
+              <param name="Local" value="Interface/IUiCommandTarget/Command/ShowHoursPolicy.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="ShowUserProp">
+              <param name="Local" value="Interface/IUiCommandTarget/Command/ShowUserProp.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="UpdateUsers_ShowErrorsDialog">
+              <param name="Local" value="Interface/IUiCommandTarget/Command/UpdateUsers_ShowErrorsDialog.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            </ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Плагин Cubes">
+            <param name="Local" value="Interface/IUiCommandTarget/IUiCommandTarget.Execute.htm#cubes642b3b9347ca42c9b00b820c00c373fa=3">
+          </object>
+          <ul>
+            <li><object type="text/sitemap">
+              <param name="Name" value="CopyRubricator">
+              <param name="Local" value="Interface/IUiCommandTarget/Command/CopyRubricator.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="LoadCubes">
+              <param name="Local" value="Interface/IUiCommandTarget/Command/LoadCubes.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="SetupAggregations">
+              <param name="Local" value="Interface/IUiCommandTarget/Command/SetupAggregations.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            </ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Плагин Db">
+            <param name="Local" value="Interface/IUiCommandTarget/IUiCommandTarget.Execute.htm#db642b3b9347ca42c9b00b820c00c373fa=4">
+          </object>
+          <ul>
+            <li><object type="text/sitemap">
+              <param name="Name" value="FieldEditor">
+              <param name="Local" value="Interface/IUiCommandTarget/Command/Command_FieldEditor.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="LinkTables">
+              <param name="Local" value="Interface/IUiCommandTarget/Command/DB_LinkTables.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            </ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Плагин DevEnv">
+            <param name="Local" value="Interface/IUiCommandTarget/IUiCommandTarget.Execute.htm#devenv642b3b9347ca42c9b00b820c00c373fa=5">
+          </object>
+          <ul>
+            <li><object type="text/sitemap">
+              <param name="Name" value="DebugObject">
+              <param name="Local" value="Interface/IUiCommandTarget/Command/DebugObject.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            </ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Плагин Dim">
+            <param name="Local" value="Interface/IUiCommandTarget/IUiCommandTarget.Execute.htm#dim642b3b9347ca42c9b00b820c00c373fa=6">
+          </object>
+          <ul>
+            <li><object type="text/sitemap">
+              <param name="Name" value="ElementGroupsDialog">
+              <param name="Local" value="Interface/IUiCommandTarget/Command/ElementGroupsDialog.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="HierarchiesDialog">
+              <param name="Local" value="Interface/IUiCommandTarget/Command/HierarchiesDialog.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="OpenDimension">
+              <param name="Local" value="Interface/IUiCommandTarget/Command/Command_OpenDimension.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="SelectionSchemasDialog">
+              <param name="Local" value="Interface/IUiCommandTarget/Command/SelectionSchemasDialog.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            </ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Плагин Etl">
+            <param name="Local" value="Interface/IUiCommandTarget/IUiCommandTarget.Execute.htm#etl642b3b9347ca42c9b00b820c00c373fa=7">
+          </object>
+          <ul>
+            <li><object type="text/sitemap">
+              <param name="Name" value="ShowConsumerData">
+              <param name="Local" value="Interface/IUiCommandTarget/Command/ShowConsumerData.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="ShowExecutionOrder">
+              <param name="Local" value="Interface/IUiCommandTarget/Command/ShowExecutionOrder.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="ShowProviderData">
+              <param name="Local" value="Interface/IUiCommandTarget/Command/ShowProviderData.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            </ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Плагин Express">
+            <param name="Local" value="Interface/IUiCommandTarget/IUiCommandTarget.Execute.htm#express642b3b9347ca42c9b00b820c00c373fa=8">
+          </object>
+          <ul>
+            <li><object type="text/sitemap">
+              <param name="Name" value="CalculatesSetup">
+              <param name="Local" value="Interface/IUiCommandTarget/Command/Command_CalculatesSetup.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="DimSelectionSetup">
+              <param name="Local" value="Interface/IUiCommandTarget/Command/Command_DimSelectionSetup.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="FilterSetup">
+              <param name="Local" value="Interface/IUiCommandTarget/Command/Command_FilterSetup.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="FormatConditionsSetup">
+              <param name="Local" value="Interface/IUiCommandTarget/Command/Command_FormatConditionsSetup.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="HighlightSetup">
+              <param name="Local" value="Interface/IUiCommandTarget/Command/Command_HighlightSetup.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="OpenCube">
+              <param name="Local" value="Interface/IUiCommandTarget/Command/Command_OpenCube.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="OpenFile">
+              <param name="Local" value="Interface/IUiCommandTarget/Command/OpenFile.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="OpenRubricator">
+              <param name="Local" value="Interface/IUiCommandTarget/Command/Command_OpenRubricator.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="ParetoSetup">
+              <param name="Local" value="Interface/IUiCommandTarget/Command/Command_ParetoSetup.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="PerformSearch">
+              <param name="Local" value="Interface/IUiCommandTarget/Command/PerformSearch.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="ShowBulkExportDialog">
+              <param name="Local" value="Interface/IUiCommandTarget/Command/ShowBulkExportDialog.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="ShowBulkPrintDialog">
+              <param name="Local" value="Interface/IUiCommandTarget/Command/ShowBulkPrintDialog.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="ShowCalcChaingDialog">
+              <param name="Local" value="Interface/IUiCommandTarget/Command/ShowCalcChaingDialog.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="ShowFormulaEditor">
+              <param name="Local" value="Interface/IUiCommandTarget/Command/ShowFormulaEditor.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="ShowReporter">
+              <param name="Local" value="Interface/IUiCommandTarget/Command/Command_ShowReporter.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="TableFormatSetup">
+              <param name="Local" value="Interface/IUiCommandTarget/Command/Command_TableFormatSetup.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="TableStyleSetup">
+              <param name="Local" value="Interface/IUiCommandTarget/Command/Command_TableStyleSetup.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="TitleSetup">
+              <param name="Local" value="Interface/IUiCommandTarget/Command/Command_TitleSetup.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="TotalsSetup">
+              <param name="Local" value="Interface/IUiCommandTarget/Command/Command_TotalsSetup.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            </ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Плагин FactRubricator">
+            <param name="Local" value="Interface/IUiCommandTarget/IUiCommandTarget.Execute.htm#factrubricator642b3b9347ca42c9b00b820c00c373fa=9">
+          </object>
+          <ul>
+            <li><object type="text/sitemap">
+              <param name="Name" value="ShowDataMiningDialog">
+              <param name="Local" value="Interface/IUiCommandTarget/Command/FactRubricator_ShowDataMiningDialog.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="ShowExplainValidationDialog">
+              <param name="Local" value="Interface/IUiCommandTarget/Command/FactRubricator_ShowExplainValidationDialog.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="ShowExportDialog">
+              <param name="Local" value="Interface/IUiCommandTarget/Command/FactRubricator_ShowExportDialog.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="ShowImportDialog">
+              <param name="Local" value="Interface/IUiCommandTarget/Command/FactRubricator_ShowImportDialog.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            </ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Плагин Fld">
+            <param name="Local" value="Interface/IUiCommandTarget/IUiCommandTarget.Execute.htm#fld642b3b9347ca42c9b00b820c00c373fa=10">
+          </object>
+          <ul>
+            <li><object type="text/sitemap">
+              <param name="Name" value="ShowCreateShortcut">
+              <param name="Local" value="Interface/IUiCommandTarget/Command/ShowCreateShortcut.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="ShowObjectAccess">
+              <param name="Local" value="Interface/IUiCommandTarget/Command/Command_ShowObjectAccess.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="ShowObjectProps">
+              <param name="Local" value="Interface/IUiCommandTarget/Command/Command_ShowObjectProps.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            </ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Плагин MetabaseUpdate">
+            <param name="Local" value="Interface/IUiCommandTarget/IUiCommandTarget.Execute.htm#metabaseupdate642b3b9347ca42c9b00b820c00c373fa=11">
+          </object>
+          <ul>
+            <li><object type="text/sitemap">
+              <param name="Name" value="ApplyUpdate">
+              <param name="Local" value="Interface/IUiCommandTarget/Command/MetabaseUpdate_ApplyUpdate.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="CreateUpdate">
+              <param name="Local" value="Interface/IUiCommandTarget/Command/MetabaseUpdate_CreateUpdate.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="OpenUpdate">
+              <param name="Local" value="Interface/IUiCommandTarget/Command/MetabaseUpdate_OpenUpdate.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="OpenUpdateFromRepo">
+              <param name="Local" value="Interface/IUiCommandTarget/Command/MetabaseUpdate_OpenUpdateFromRepo.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            </ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Плагин Ms">
+            <param name="Local" value="Interface/IUiCommandTarget/IUiCommandTarget.Execute.htm#ms642b3b9347ca42c9b00b820c00c373fa=12">
+          </object>
+          <ul>
+            <li><object type="text/sitemap">
+              <param name="Name" value="CopyModelSpace">
+              <param name="Local" value="Interface/IUiCommandTarget/Command/CopyModelSpace.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="EditChainEntry">
+              <param name="Local" value="Interface/IUiCommandTarget/Command/EditChainEntry.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="EditMatrixAggregationFilter">
+              <param name="Local" value="Interface/IUiCommandTarget/Command/EditMatrixAggregationFilter.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="GetCubeModelDesc">
+              <param name="Local" value="Interface/IUiCommandTarget/Command/GetCubeModelDesc.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="GetRubricatorDesc">
+              <param name="Local" value="Interface/IUiCommandTarget/Command/GetRubricatorDesc.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="ShowAdditionalAttributesDialog">
+              <param name="Local" value="Interface/IUiCommandTarget/Command/ShowAdditionalAttributesDialog.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="ShowDataMiningWizard">
+              <param name="Local" value="Interface/IUiCommandTarget/Command/ShowDataMiningWizard.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            </ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Плагин Rds">
+            <param name="Local" value="Interface/IUiCommandTarget/IUiCommandTarget.Execute.htm#rds642b3b9347ca42c9b00b820c00c373fa=13">
+          </object>
+          <ul>
+            <li><object type="text/sitemap">
+              <param name="Name" value="EditDictionary">
+              <param name="Local" value="Interface/IUiCommandTarget/Command/Command_EditDictionary.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="EditDictionaryAttribute">
+              <param name="Local" value="Interface/IUiCommandTarget/Command/EditDictionaryAttribute.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="OpenDictionary">
+              <param name="Local" value="Interface/IUiCommandTarget/Command/Command_OpenDictionary.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            </ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Плагин Report">
+            <param name="Local" value="Interface/IUiCommandTarget/IUiCommandTarget.Execute.htm#report642b3b9347ca42c9b00b820c00c373fa=14">
+          </object>
+          <ul>
+            <li><object type="text/sitemap">
+              <param name="Name" value="ChartExternLegendSetup">
+              <param name="Local" value="Interface/IUiCommandTarget/Command/ChartExternLegendSetup.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="CreateFastReport">
+              <param name="Local" value="Interface/IUiCommandTarget/Command/CreateFastReport.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="DataIslandSetup">
+              <param name="Local" value="Interface/IUiCommandTarget/Command/DataIslandSetup.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="FormatConditionsSetup">
+              <param name="Local" value="Interface/IUiCommandTarget/Command/Command_FormatConditionsSetup1.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="FormatConditionSetup">
+              <param name="Local" value="Interface/IUiCommandTarget/Command/FormatConditionSetup.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="FormulaIslandSetup">
+              <param name="Local" value="Interface/IUiCommandTarget/Command/FormulaIslandSetup.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="InsertSheetDialog">
+              <param name="Local" value="Interface/IUiCommandTarget/Command/InsertSheetDialog.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="MapLegendSetup">
+              <param name="Local" value="Interface/IUiCommandTarget/Command/MapLegendSetup.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="MapSetup">
+              <param name="Local" value="Interface/IUiCommandTarget/Command/MapSetup.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="MapTerritoryInfoSetup">
+              <param name="Local" value="Interface/IUiCommandTarget/Command/MapTerritoryInfoSetup.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="MoveCopySheet">
+              <param name="Local" value="Interface/IUiCommandTarget/Command/MoveCopySheet.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="NamedRangesSetup">
+              <param name="Local" value="Interface/IUiCommandTarget/Command/NamedRangesSetup.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="ObjectProperties">
+              <param name="Local" value="Interface/IUiCommandTarget/Command/ObjectProperties.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="PerformSearch">
+              <param name="Local" value="Interface/IUiCommandTarget/Command/PerformSearch1.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Scene3DSetup">
+              <param name="Local" value="Interface/IUiCommandTarget/Command/Scene3DSetup.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="SetupSliceDimsTable">
+              <param name="Local" value="Interface/IUiCommandTarget/Command/SetupSliceDimsTable.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="SheetProperties">
+              <param name="Local" value="Interface/IUiCommandTarget/Command/SheetProperties.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="SheetProtection">
+              <param name="Local" value="Interface/IUiCommandTarget/Command/SheetProtection.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="ShowAttachmentsDialog">
+              <param name="Local" value="Interface/IUiCommandTarget/Command/ShowAttachmentsDialog.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="ShowBulkExportDialog">
+              <param name="Local" value="Interface/IUiCommandTarget/Command/ShowBulkExportDialog1.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="ShowBulkExportDialogEx">
+              <param name="Local" value="Interface/IUiCommandTarget/Command/ShowBulkExportDialogEx.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="ShowBulkPrintDialog">
+              <param name="Local" value="Interface/IUiCommandTarget/Command/ShowBulkPrintDialog1.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="ShowBulkPrintDialogEx">
+              <param name="Local" value="Interface/IUiCommandTarget/Command/ShowBulkPrintDialogEx.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="ShowDataAdapterDialog">
+              <param name="Local" value="Interface/IUiCommandTarget/Command/ShowDataAdapterDialog.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="ShowDependenciesDialog">
+              <param name="Local" value="Interface/IUiCommandTarget/Command/ShowDependenciesDialog.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="ShowExportPropSetup">
+              <param name="Local" value="Interface/IUiCommandTarget/Command/ShowExportPropSetup.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="ShowFormulaDialog">
+              <param name="Local" value="Interface/IUiCommandTarget/Command/ShowFormulaDialog.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="ShowMapLayerSelectionDialog">
+              <param name="Local" value="Interface/IUiCommandTarget/Command/ShowMapLayerSelectionDialog.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="ShowPrxControlPropDialog">
+              <param name="Local" value="Interface/IUiCommandTarget/Command/ShowPrxControlPropDialog.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="ShowReporter">
+              <param name="Local" value="Interface/IUiCommandTarget/Command/Command_ShowReporter1.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="ShowScalePropsDialog">
+              <param name="Local" value="Interface/IUiCommandTarget/Command/ShowScalePropsDialog.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="TableStyleSetup">
+              <param name="Local" value="Interface/IUiCommandTarget/Command/Command_TableStyleSetup1.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="TableStylesSetup">
+              <param name="Local" value="Interface/IUiCommandTarget/Command/TableStylesSetup.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            </ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Плагин Std">
+            <param name="Local" value="Interface/IUiCommandTarget/IUiCommandTarget.Execute.htm#std642b3b9347ca42c9b00b820c00c373fa=15">
+          </object>
+          <ul>
+            <li><object type="text/sitemap">
+              <param name="Name" value="CreateCustomClass">
+              <param name="Local" value="Interface/IUiCommandTarget/Command/CreateCustomClass.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="EditCustomClass">
+              <param name="Local" value="Interface/IUiCommandTarget/Command/EditCustomClass.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="OpenLoginDialog">
+              <param name="Local" value="Interface/IUiCommandTarget/Command/OpenLoginDialog.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="OpenNavigator">
+              <param name="Local" value="Interface/IUiCommandTarget/Command/Command_OpenNavigator.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="SelectSecSubject">
+              <param name="Local" value="Interface/IUiCommandTarget/Command/SelectSecSubject.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="ShowFindObjects">
+              <param name="Local" value="Interface/IUiCommandTarget/Command/ShowFindObjects.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="ShowMetabaseFolder">
+              <param name="Local" value="Interface/IUiCommandTarget/Command/ShowMetabaseFolder.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="ShowMetabaseObject">
+              <param name="Local" value="Interface/IUiCommandTarget/Command/ShowMetabaseObject.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            </ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Плагин Wsp">
+            <param name="Local" value="Interface/IUiCommandTarget/IUiCommandTarget.Execute.htm#wsp642b3b9347ca42c9b00b820c00c373fa=16">
+          </object>
+          <ul>
+            <li><object type="text/sitemap">
+              <param name="Name" value="ShowStyleDialog">
+              <param name="Local" value="Interface/IUiCommandTarget/Command/Command_ShowStyleDialog.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            </ul>
+          </ul>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IUiLicenseRequestSettings">
+        <param name="Local" value="Interface/IUiLicenseRequestSettings/IUiLicenseRequestSettings.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IUiLicenseRequestSettings.ShowActivationWizard">
+          <param name="Local" value="Interface/IUiLicenseRequestSettings/IUiLicenseRequestSettings.ShowActivationWizard.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IUISecManagerNavigatorParams">
+        <param name="Local" value="Interface/IUISecManagerNavigatorParams/IUISecManagerNavigatorParams.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IUISecManagerNavigatorParams.ObjectPropertiesEnabled">
+          <param name="Local" value="Interface/IUISecManagerNavigatorParams/IUISecManagerNavigatorParams.ObjectProperiesEnabled.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IUISecManagerNavigatorParams.ObjectPropertiesReadOnly">
+          <param name="Local" value="Interface/IUISecManagerNavigatorParams/IUISecManagerNavigatorParams.ObjectPropertiesReadOnly.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IUISecManagerNavigatorParams.ObjectRightsEnabled">
+          <param name="Local" value="Interface/IUISecManagerNavigatorParams/IUISecManagerNavigatorParams.ObjectRightsEnabled.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IUISecManagerNavigatorParams.ObjectRightsReadOnly">
+          <param name="Local" value="Interface/IUISecManagerNavigatorParams/IUISecManagerNavigatorParams.ObjectRightsReadOnly.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IUiSecManagerParams">
+        <param name="Local" value="Interface/IUiSecManagerParams/IUiSecManagerParams.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IUiSecManagerParams.Active">
+          <param name="Local" value="Interface/IUiSecManagerParams/IUiSecManagerParams.Active.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IUiSecManagerParams.Classes">
+          <param name="Local" value="Interface/IUiSecManagerParams/IUiSecManagerParams.Classes.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IUiSecManagerParams.EnablePolicySave">
+          <param name="Local" value="Interface/IUiSecManagerParams/IUiSecManagerParams.EnablePolicySave.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IUiSecManagerParams.Groups">
+          <param name="Local" value="Interface/IUiSecManagerParams/IUiSecManagerParams.Groups.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IUiSecManagerParams.LogViewer">
+          <param name="Local" value="Interface/IUiSecManagerParams/IUiSecManagerParams.LogViewer.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IUiSecManagerParams.Mandatory">
+          <param name="Local" value="Interface/IUiSecManagerParams/IUiSecManagerParams.Mandatory.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IUiSecManagerParams.Metabase">
+          <param name="Local" value="Interface/IUiSecManagerParams/IUiSecManagerParams.Metabase.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IUiSecManagerParams.Navigator">
+          <param name="Local" value="Interface/IUiSecManagerParams/IUiSecManagerParams.Navigator.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IUiSecManagerParams.PolicyEditor">
+          <param name="Local" value="Interface/IUiSecManagerParams/IUiSecManagerParams.PolicyEditor.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IUiSecManagerParams.PolicySaveEnabled">
+          <param name="Local" value="Interface/IUiSecManagerParams/IUiSecManagerParams.PolicySaveEnabled.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IUiSecManagerParams.Privilege">
+          <param name="Local" value="Interface/IUiSecManagerParams/IUiSecManagerParams.Privilege.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IUiSecManagerParams.RepositoryMenuEnabled">
+          <param name="Local" value="Interface/IUiSecManagerParams/IUiSecManagerParams.RepositoryMenuEnabled.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IUiSecManagerParams.Root">
+          <param name="Local" value="Interface/IUiSecManagerParams/IUiSecManagerParams.Root.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IUiSecManagerParams.SecurityWatch">
+          <param name="Local" value="Interface/IUiSecManagerParams/IUiSecManagerParams.SecurityWatch.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IUiSecManagerParams.Service">
+          <param name="Local" value="Interface/IUiSecManagerParams/IUiSecManagerParams.Service.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IUiSecManagerParams.ServiceMenuEnabled">
+          <param name="Local" value="Interface/IUiSecManagerParams/IUiSecManagerParams.ServiceMenuEnabled.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IUiSecManagerParams.Users">
+          <param name="Local" value="Interface/IUiSecManagerParams/IUiSecManagerParams.Users.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IUISecManagerPolicyEditorParams">
+        <param name="Local" value="Interface/IUISecManagerPolicyEditorParams/IUISecManagerPolicyEditorParams.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IUISecManagerPolicyEditorParams.AccessControlReadOnly">
+          <param name="Local" value="Interface/IUISecManagerPolicyEditorParams/IUISecManagerPolicyEditorParams.AccessControlReadOnly.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IUISecManagerPolicyEditorParams.GeneralPageReadOnly">
+          <param name="Local" value="Interface/IUISecManagerPolicyEditorParams/IUISecManagerPolicyEditorParams.GeneralPageReadOnly.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IUISecManagerPolicyEditorParams.PasswordPageReadOnly">
+          <param name="Local" value="Interface/IUISecManagerPolicyEditorParams/IUISecManagerPolicyEditorParams.PasswordPageReadOnly.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IUISecManagerTabParams">
+        <param name="Local" value="Interface/IUISecManagerTabParams/IUISecManagerTabParams.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IUISecManagerTabParams.ReadOnly">
+          <param name="Local" value="Interface/IUISecManagerTabParams/IUISecManagerTabParams.ReadOnly.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IUISecManagerTabParams.Visible">
+          <param name="Local" value="Interface/IUISecManagerTabParams/IUISecManagerTabParams.Visible.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IUISecManagerUsersGroupParams">
+        <param name="Local" value="Interface/IUISecManagerUsersGroupParams/IUISecManagerUsersGroupParams.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IUISecManagerUsersGroupParams.OperationsEnabled">
+          <param name="Local" value="Interface/IUISecManagerUsersGroupParams/IUISecManagerUsersGroupParams.OperationsEnabled.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IUISecManagerUsersGroupParams.PropertiesEnabled">
+          <param name="Local" value="Interface/IUISecManagerUsersGroupParams/IUISecManagerUsersGroupParams.PropertiesEnabled.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IUISecManagerUsersGroupParams.PropertiesReadOnly">
+          <param name="Local" value="Interface/IUISecManagerUsersGroupParams/IUISecManagerUsersGroupParams.PropertiesReadOnly.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IWinApplication">
+        <param name="Local" value="Interface/IWinApplication/IWinApplication.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWinApplication.CommandActionCustomize">
+          <param name="Local" value="Interface/IWinApplication/IWinApplication.CommandActionCustomize.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWinApplication.CustomParams">
+          <param name="Local" value="Interface/IWinApplication/IWinApplication.CustomParams.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWinApplication.DisableProcessWindowsGhosting">
+          <param name="Local" value="Interface/IWinApplication/IWinApplication.DisableProcessWindowsGhosting.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWinApplication.GetObjectTarget">
+          <param name="Local" value="Interface/IWinApplication/IWinApplication.GetObjectTarget.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWinApplication.GetOperatingSystemVersion">
+          <param name="Local" value="Interface/IWinApplication/IWinApplication.GetOperatingSystemVersion.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWinApplication.GetPluginTarget">
+          <param name="Local" value="Interface/IWinApplication/IWinApplication.GetPluginTarget.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWinApplication.Globals">
+          <param name="Local" value="Interface/IWinApplication/IWinApplication.Globals.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWinApplication.LicenseManager">
+          <param name="Local" value="Interface/IWinApplication/IWinApplication.LicenseManager.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWinApplication.Params">
+          <param name="Local" value="Interface/IWinApplication/IWinApplication.Params.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWinApplication.ProcessMessages">
+          <param name="Local" value="Interface/IWinApplication/IWinApplication.ProcessMessages.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWinApplication.ProcessMouseMessages">
+          <param name="Local" value="Interface/IWinApplication/IWinApplication.ProcessMouseMessages.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWinApplication.Windows">
+          <param name="Local" value="Interface/IWinApplication/IWinApplication.Windows.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IWinApplicationClass">
+        <param name="Local" value="Interface/IWinApplicationClass/IWinApplicationClass.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWinApplicationClass.ApplicationSettings">
+          <param name="Local" value="Interface/IWinApplicationClass/IWinApplicationClass.ApplicationSettings.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWinApplicationClass.Binary">
+          <param name="Local" value="Interface/IWinApplicationClass/IWinApplicationClass.Binary.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWinApplicationClass.ConfirmationBox">
+          <param name="Local" value="Interface/IWinApplicationClass/IWinApplicationClass.ConfirmationBox.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWinApplicationClass.CursorPosition">
+          <param name="Local" value="Interface/IWinApplicationClass/IWinApplicationClass.CursorPosition.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWinApplicationClass.ErrorBox">
+          <param name="Local" value="Interface/IWinApplicationClass/IWinApplicationClass.ErrorBox.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWinApplicationClass.ExclamationBox">
+          <param name="Local" value="Interface/IWinApplicationClass/IWinApplicationClass.ExclamationBox.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWinApplicationClass.GetAsyncKeyState">
+          <param name="Local" value="Interface/IWinApplicationClass/IWinApplicationClass.GetAsyncKeyState.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWinApplicationClass.GetKeyState">
+          <param name="Local" value="Interface/IWinApplicationClass/IWinApplicationClass.GetKeyState.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWinApplicationClass.Help">
+          <param name="Local" value="Interface/IWinApplicationClass/IWinApplicationClass.Help.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWinApplicationClass.InformationBox">
+          <param name="Local" value="Interface/IWinApplicationClass/IWinApplicationClass.InformationBox.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWinApplicationClass.InputBox">
+          <param name="Local" value="Interface/IWinApplicationClass/IWinApplicationClass.InputBox.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWinApplicationClass.Instance">
+          <param name="Local" value="Interface/IWinApplicationClass/IWinApplicationClass.Instance.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWinApplicationClass.NotImplementedBox">
+          <param name="Local" value="Interface/IWinApplicationClass/IWinApplicationClass.NotImplementedBox.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWinApplicationClass.ShellExecute">
+          <param name="Local" value="Interface/IWinApplicationClass/IWinApplicationClass.ShellExecute.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWinApplicationClass.WaitCursor">
+          <param name="Local" value="Interface/IWinApplicationClass/IWinApplicationClass.WaitCursor.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWinApplicationClass.YesNoCancelBox">
+          <param name="Local" value="Interface/IWinApplicationClass/IWinApplicationClass.YesNoCancelBox.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IWinApplicationHelp">
+        <param name="Local" value="Interface/IWinApplicationHelp/IWinApplicationHelp.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWinApplicationHelp.ALinkLookup">
+          <param name="Local" value="Interface/IWinApplicationHelp/IWinApplicationHelp.ALinkLookup.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWinApplicationHelp.Context">
+          <param name="Local" value="Interface/IWinApplicationHelp/IWinApplicationHelp.Context.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWinApplicationHelp.DisplayContents">
+          <param name="Local" value="Interface/IWinApplicationHelp/IWinApplicationHelp.DisplayContents.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWinApplicationHelp.DisplayIndex">
+          <param name="Local" value="Interface/IWinApplicationHelp/IWinApplicationHelp.DisplayIndex.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWinApplicationHelp.DisplaySearch">
+          <param name="Local" value="Interface/IWinApplicationHelp/IWinApplicationHelp.DisplaySearch.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWinApplicationHelp.FileName">
+          <param name="Local" value="Interface/IWinApplicationHelp/IWinApplicationHelp.FileName.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWinApplicationHelp.KeywordLookup">
+          <param name="Local" value="Interface/IWinApplicationHelp/IWinApplicationHelp.KeywordLookup.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IWinApplicationParams">
+        <param name="Local" value="Interface/IWinApplicationParams/IWinApplicationParams.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWinApplicationParams.Count">
+          <param name="Local" value="Interface/IWinApplicationParams/IWinApplicationParams.Count.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWinApplicationParams.Item">
+          <param name="Local" value="Interface/IWinApplicationParams/IWinApplicationParams.Item.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWinApplicationParams.ParamIndex">
+          <param name="Local" value="Interface/IWinApplicationParams/IWinApplicationParams.ParamIndex.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWinApplicationParams.ParamValue">
+          <param name="Local" value="Interface/IWinApplicationParams/IWinApplicationParams.ParamValue.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IWinApplicationSettings">
+        <param name="Local" value="Interface/IWinApplicationSettings/IWinApplicationSettings.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWinApplicationSettings.TabStyles">
+          <param name="Local" value="Interface/IWinApplicationSettings/IWinApplicationSettings.TabStyles.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IWinProcess">
+        <param name="Local" value="Interface/IWinProcess/IWinProcess.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWinProcess.CloseMainWindow">
+          <param name="Local" value="Interface/IWinProcess/IWinProcess.CloseMainWindow.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IWinShellExecuteInfo">
+        <param name="Local" value="Interface/IWinShellExecuteInfo/IWinShellExecuteInfo.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWinShellExecuteInfo.ShowCommand">
+          <param name="Local" value="Interface/IWinShellExecuteInfo/IWinShellExecuteInfo.ShowCommand.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWinShellExecuteInfo.Silent">
+          <param name="Local" value="Interface/IWinShellExecuteInfo/IWinShellExecuteInfo.Silent.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWinShellExecuteInfo.Verb">
+          <param name="Local" value="Interface/IWinShellExecuteInfo/IWinShellExecuteInfo.Verb.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Перечисления сборки Ui">
+      <param name="Local" value="Enums/Ui_Enums.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="SecManagerMode">
+        <param name="Local" value="Enums/SecManagerMode.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="ShowWindowCommand">
+        <param name="Local" value="Enums/ShowWindowCommand.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="UiCommandExecutionMode">
+        <param name="Local" value="Enums/UiCommandExecutionMode.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="WindowTabStyle">
+        <param name="Local" value="Enums/WindowTabStyle.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Классы сборки Ui">
+      <param name="Local" value="Class/Ui_Class.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="UiLicenseRequestSettings">
+        <param name="Local" value="Class/UiLicenseRequestSettings/UiLicenseRequestSettings.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="WinApplication">
+        <param name="Local" value="Class/WinApplication/WinApplication.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="WinProcess">
+        <param name="Local" value="Class/WinProcess/WinProcess.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="WinShellExecuteInfo">
+        <param name="Local" value="Class/WinShellExecuteInfo/WinShellExecuteInfo.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Примеры">
+      <param name="Local" value="Samples/Example_built_Ui.htm">
+      <param name="ImageNumber" value="11">
+    </object>
+    </ul>
+</ul>
+</html>

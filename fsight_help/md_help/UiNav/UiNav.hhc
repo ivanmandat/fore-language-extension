@@ -1,0 +1,1439 @@
+<html>
+<!-- Sitemap 1.0 -->
+<object type="text/site properties">
+  <param name="SiteType" value="toc">
+  <param name="Image Width" value="16">
+  <param name="Window Styles" value="0x800027">
+  <param name="ExWindow Styles" value="0x100">
+</object>
+<ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Дополнительные справочные материалы">
+    <param name="Local" value="GUI/General_principles.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Настройка оформления объектов в настольном приложении">
+      <param name="Local" value="GUI/SetObj_Formatting.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Таблица стилей">
+        <param name="Local" value="StylesTable/StylesTablePurpose.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Начало работы с таблицей стилей">
+          <param name="Local" value="StylesTable/StylesTable.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Формирование таблицы стилей">
+          <param name="Local" value="StylesTable/StylesTable_building.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Создание и настройка стиля">
+            <param name="Local" value="StylesTable/CreateStyle.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Сохранение стиля">
+            <param name="Local" value="StylesTable/Style_save.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Загрузка стилей">
+            <param name="Local" value="StylesTable/StylesTable_Import.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Сохранение таблицы стилей">
+            <param name="Local" value="StylesTable/StylesTable_save.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Работа с готовой таблицей стилей">
+          <param name="Local" value="StylesTable/StylesTable_working.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Поиск стиля">
+            <param name="Local" value="StylesTable/StylesTable_find.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Просмотр стилей">
+            <param name="Local" value="StylesTable/stylestable_view.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Подключение таблицы стилей к отчёту">
+            <param name="Local" value="StylesTable/Connect.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Создание копии таблицы стилей">
+            <param name="Local" value="StylesTable/Copy.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Работа с диалогом форматирования">
+        <param name="Local" value="GUI/Format.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Стили">
+          <param name="Local" value="GUI/Format/UiReport_Table_Attribute_Style.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Формат числа">
+          <param name="Local" value="GUI/Format/UiReport_Table_Attribute_Format.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Шрифт">
+          <param name="Local" value="GUI/Format/UiReport_Table_Attribute_Type.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Заливка">
+          <param name="Local" value="GUI/Format/UiReport_Table_Attribute_View.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Выравнивание">
+          <param name="Local" value="GUI/Format/UiReport_Table_Attribute_Arrange.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Границы">
+          <param name="Local" value="GUI/Format/UiReport_Table_Attribute_Border.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Прочее">
+          <param name="Local" value="GUI/Format/UiReport_Table_Attribute_Others.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Форматирование по условию">
+          <param name="Local" value="GUI/Format/UiReport_Table_Attribute_Format_condition.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Общие">
+          <param name="Local" value="GUI/Format/UiEtl_Styles_General.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Гиперссылка">
+          <param name="Local" value="GUI/Format/UiReport_Table_Attribute_Hyperlink.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Пример создания гиперссылки">
+            <param name="Local" value="GUI/Format/Hyperlink_example.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Заливка и тень">
+          <param name="Local" value="GUI/Format/UiEtl_ObjProp_Fill.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Размер">
+          <param name="Local" value="GUI/Format/uietl_objprop_size.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Линии">
+          <param name="Local" value="GUI/Format/UiEtl_ObjProp_Lines.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Текстовый блок">
+          <param name="Local" value="GUI/Format/Uietl_ObjProp_Text.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Блок изображения">
+          <param name="Local" value="GUI/Format/UiEtl_ObjProp_Image.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Изображение">
+          <param name="Local" value="GUI/Format/UiWsp_Object_Format_Img.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Настройка стиля">
+        <param name="Local" value="GUI/Style_setup.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Применение стилей оформления">
+        <param name="Local" value="GUI/UiETL_Objects_Styles.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Порядок применения оформления">
+        <param name="Local" value="GUI/applystyle.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Настройка единиц измерения для размеров объектов">
+        <param name="Local" value="GUI/Format/Different_units.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Работа с буфером обмена">
+      <param name="Local" value="02_Navigator/UiNav_ObjectsOperations.htm">
+      <param name="ImageNumber" value="11">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Кеширование">
+      <param name="Local" value="02_Navigator/UiNav_Cache.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Кеширование данных по технологии In-Memory">
+        <param name="Local" value="02_Navigator/In-Memory.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Работа с глобальным кешем">
+          <param name="Local" value="02_Navigator/Cache_In_Blob.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Работа с глобальным кешем в Fore">
+          <param name="Local" value="02_Navigator/working_with_the_cache_from_the_fore.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Кеширование объектов репозитория">
+        <param name="Local" value="02_Navigator/object_caching.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Кеширование метаданных">
+        <param name="Local" value="02_Navigator/cache_settings.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Кеширование системных таблиц">
+        <param name="Local" value="02_Navigator/System_Metadata_Table_Caching.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Работа в навигаторе объектов">
+      <param name="Local" value="02_Navigator/General_Principles_of_Work.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Просмотр и редактирование свойств объекта">
+        <param name="Local" value="03_Objects/UiNav_Obj_BasicProp.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Тип объекта">
+          <param name="Local" value="03_Objects/UiNav_Obj_BasicPropGeneral.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Состоит из">
+          <param name="Local" value="03_Objects/UiNav_Obj_BasicPropConsist.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Входит в">
+          <param name="Local" value="03_Objects/UiNav_Obj_BasicPropDependants.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Наименования">
+          <param name="Local" value="03_Objects/UiNav_Obj_BasicPropNames.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Кеш">
+          <param name="Local" value="03_Objects/UiNav_Obj_BasicPropCache.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Атрибуты">
+          <param name="Local" value="03_Objects/UiNav_Obj_BasicPropAttributes.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Блокировка объектов">
+        <param name="Local" value="02_Navigator/UiNav_BlockObjects.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Поиск объектов">
+        <param name="Local" value="02_Navigator/UiNav_FindObject.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Управление отображением объектов">
+        <param name="Local" value="GUI/View.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Управление правами доступа">
+        <param name="Local" value="02_Navigator/UiNav_PrDo.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Просмотр истории изменений">
+        <param name="Local" value="02_Navigator/UiNav_ObjVer.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Открытие и сохранение объектов из инструментов продукта «Форсайт.&#160;Аналитическая платформа»">
+        <param name="Local" value="GUI/Open_save.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Предварительный просмотр и печать объекта">
+        <param name="Local" value="GUI/Object_preview.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Настройка параметров печати">
+          <param name="Local" value="GUI/Print_setup.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Смена пароля">
+        <param name="Local" value="02_Navigator/UiNav_ChangePass.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Просмотр и изменение электронных адресов пользователя">
+        <param name="Local" value="02_Navigator/UiNav_PersonalData.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Выбор типа справочной системы">
+        <param name="Local" value="02_Navigator/UiNav_RepoConfig_Help.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Изменение настроек репозитория по умолчанию">
+        <param name="Local" value="02_Navigator/Repo_Default.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Подключение к прокси-серверу">
+        <param name="Local" value="02_Navigator/CommonSettings/ProxyServer.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Настройка мультиязычности">
+      <param name="Local" value="Multilanguage/Multilanguage_setting.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Перевод наименований объектов репозитория на другие языки">
+        <param name="Local" value="03_Objects/Translate_names.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Перевод элементов аналитических панелей на другие языки">
+        <param name="Local" value="Multilanguage/Multilanguage_tuning.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Перевод справочников НСИ на другие языки">
+        <param name="Local" value="Multilanguage/UiRds_Locale.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Перевод наименований атрибутов на другие языки">
+        <param name="Local" value="Multilanguage/AttrTranslate.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Перевод в ресурсах">
+        <param name="Local" value="Multilanguage/Resources.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Добавление нового языка перевода">
+          <param name="Local" value="Multilanguage/Resources/Add_language.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Добавление ресурса">
+          <param name="Local" value="Multilanguage/Resources/Work_Resources.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Работа с готовыми ресурсами">
+          <param name="Local" value="Multilanguage/Resources/Work_with_resources.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Поиск и замена ресурса">
+          <param name="Local" value="Multilanguage/Resources/Find_Replace_Resource.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Экспорт ресурсов">
+          <param name="Local" value="Multilanguage/Resources/Export_Resource.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Импорт ресурсов">
+          <param name="Local" value="Multilanguage/Resources/Import_Resource.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Сохранение ресурсов">
+          <param name="Local" value="Multilanguage/Resources/Save_Resources.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Перевод заголовков экспресс-отчётов">
+          <param name="Local" value="Multilanguage/Title_Express.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Дополнительные возможности">
+          <param name="Local" value="Multilanguage/Resources/Advanced_Features.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Настройка и работа с интерактивными элементами продукта «Форсайт. Аналитическая платформа»">
+      <param name="Local" value="GUI/Interactive.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Настройка редактора значений">
+        <param name="Local" value="GUI/ValueEditorParameters.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Работа с комбинированными списками">
+        <param name="Local" value="GUI/combine_list.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Работа с интерактивными возможностями таблицы">
+        <param name="Local" value="GUI/Table_Work.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Выделение ячеек">
+          <param name="Local" value="GUI/Cells_Select.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Автозаполнение ячеек данными">
+          <param name="Local" value="GUI/UiExpress_Tabl_Operation_AutoFillData.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Особенности ввода и вставки значений в таблицу">
+          <param name="Local" value="GUI/Parse_string.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Особенности работы с контекстным меню в веб-приложении">
+          <param name="Local" value="GUI/ContextMenu_Features.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Создание формул и выражений">
+      <param name="Local" value="GUI/ExpressionEditor.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Вставка операндов">
+        <param name="Local" value="GUI/UFE/Operands.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Вставка операнда на основе отметки измерений">
+          <param name="Local" value="GUI/UFE/Operands.htm#selection642b3b9347ca42c9b00b820c00c373fa=1">
+          <param name="ImageNumber" value="11">
+          <param name="x-condition" value="Public,Chm">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Вставка операндов на основе временных рядов">
+          <param name="Local" value="GUI/UFE/Operands.htm#series642b3b9347ca42c9b00b820c00c373fa=2">
+          <param name="ImageNumber" value="11">
+          <param name="x-condition" value="Public,Chm">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Вставка операндов на основе метаданных">
+          <param name="Local" value="GUI/UFE/Operands.htm#metadata642b3b9347ca42c9b00b820c00c373fa=3">
+          <param name="ImageNumber" value="11">
+          <param name="x-condition" value="Public,Chm">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Вставка операнда на основе параметра источника данных">
+          <param name="Local" value="GUI/UFE/Operands.htm#params642b3b9347ca42c9b00b820c00c373fa=4">
+          <param name="ImageNumber" value="11">
+          <param name="x-condition" value="Public,Chm">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Настройка для операнда агрегации по измерению">
+          <param name="Local" value="GUI/OperandAggregation.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Настройка фильтрации по значениям атрибутов">
+            <param name="Local" value="GUI/UFE/AttributeFiltering.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Настройка календарных параметров операнда">
+          <param name="Local" value="GUI/UFE/CalendarSetup.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Редактирование операнда">
+          <param name="Local" value="GUI/UFE/EditOperand.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Просмотр формулы элемента измерения">
+          <param name="Local" value="GUI/UFE/CalculatedElement.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Вставка функций и операторов">
+        <param name="Local" value="GUI/UFE/Operators.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Вставка системных функций">
+          <param name="Local" value="GUI/UFE/Operators.htm#sysfunction642b3b9347ca42c9b00b820c00c373fa=1">
+          <param name="ImageNumber" value="11">
+          <param name="x-condition" value="Public,Chm">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Вставка пользовательских функций и методов">
+          <param name="Local" value="GUI/UFE/Operators.htm#userfunction642b3b9347ca42c9b00b820c00c373fa=2">
+          <param name="ImageNumber" value="11">
+          <param name="x-condition" value="Public,Chm">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Вставка операторов">
+          <param name="Local" value="GUI/UFE/Operators.htm#operators642b3b9347ca42c9b00b820c00c373fa=3">
+          <param name="ImageNumber" value="11">
+          <param name="x-condition" value="Public,Chm">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Функции, доступные в редакторе выражения">
+          <param name="Local" value="GUI/Expression_editor_func.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Агрегация">
+            <param name="Local" value="GUI/Function/Aggregation/Func_Aggregation.htm">
+          </object>
+          <ul>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Collapse">
+              <param name="Local" value="GUI/Function/Aggregation/Func_Aggregation_Collapse.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Interpolate">
+              <param name="Local" value="GUI/Function/Aggregation/Func_Aggregation_Interpolate.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="InterpolateP">
+              <param name="Local" value="GUI/Function/Aggregation/Func_Aggregation_InterpolateP.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            </ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Арифметические функции">
+            <param name="Local" value="GUI/Function/Arithmetic/Func_Arithmetic.htm">
+          </object>
+          <ul>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Abs">
+              <param name="Local" value="GUI/Function/Arithmetic/Func_Arithmetic_Abs.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="AbsI">
+              <param name="Local" value="GUI/Function/Arithmetic/Func_Arithmetic_AbsI.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Average">
+              <param name="Local" value="GUI/Function/Arithmetic/Func_Arithmetic_Average.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="AverageI">
+              <param name="Local" value="GUI/Function/Arithmetic/Func_Arithmetic_AverageI.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Cos">
+              <param name="Local" value="GUI/Function/Arithmetic/Func_Arithmetic_Cos.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Division">
+              <param name="Local" value="GUI/Function/Arithmetic/Func_Arithmetic_Division.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Exp">
+              <param name="Local" value="GUI/Function/Arithmetic/Func_Arithmetic_Exp.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="ExpX">
+              <param name="Local" value="GUI/Function/Arithmetic/Func_Arithmetic_ExpX.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Fact">
+              <param name="Local" value="GUI/Function/Arithmetic/Func_Arithmetic_Fact.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Floor">
+              <param name="Local" value="GUI/Function/Arithmetic/Func_Arithmetic_Floor.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="FloorI">
+              <param name="Local" value="GUI/Function/Arithmetic/Func_Arithmetic_FloorI.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Int">
+              <param name="Local" value="GUI/Function/Arithmetic/Func_Arithmetic_Int.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Ln">
+              <param name="Local" value="GUI/Function/Arithmetic/Func_Arithmetic_Ln.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Log">
+              <param name="Local" value="GUI/Function/Arithmetic/Func_Arithmetic_Log.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Log10">
+              <param name="Local" value="GUI/Function/Arithmetic/Func_Arithmetic_Log10.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Max">
+              <param name="Local" value="GUI/Function/Arithmetic/Func_Arithmetic_Max.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="MaxI">
+              <param name="Local" value="GUI/Function/Arithmetic/Func_Arithmetic_MaxI.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Mean">
+              <param name="Local" value="GUI/Function/Arithmetic/Func_Arithmetic_Mean.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Median">
+              <param name="Local" value="GUI/Function/Arithmetic/Func_Arithmetic_Median.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Min">
+              <param name="Local" value="GUI/Function/Arithmetic/Func_Arithmetic_Min.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="MinI">
+              <param name="Local" value="GUI/Function/Arithmetic/Func_Arithmetic_MinI.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Mod_">
+              <param name="Local" value="GUI/Function/Arithmetic/Func_Arithmetic_Mod_.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Mode">
+              <param name="Local" value="GUI/Function/Arithmetic/Func_Arithmetic_Mode.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Power">
+              <param name="Local" value="GUI/Function/Arithmetic/Func_Arithmetic_Power.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="PowerI">
+              <param name="Local" value="GUI/Function/Arithmetic/Func_Arithmetic_PowerI.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Rand">
+              <param name="Local" value="GUI/Function/Arithmetic/Func_Arithmetic_Rand.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="RandBetween">
+              <param name="Local" value="GUI/Function/Arithmetic/Func_Arithmetic_RandBetween.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="RandBetweenI">
+              <param name="Local" value="GUI/Function/Arithmetic/Func_Arithmetic_RandBetweenI.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Remainder">
+              <param name="Local" value="GUI/Function/Arithmetic/Func_Arithmetic_Remainder.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Round">
+              <param name="Local" value="GUI/Function/Arithmetic/Func_Arithmetic_Round.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="RoundDown">
+              <param name="Local" value="GUI/Function/Arithmetic/Func_Arithmetic_RoundDown.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="RoundUp">
+              <param name="Local" value="GUI/Function/Arithmetic/Func_Arithmetic_RoundUp.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Sin">
+              <param name="Local" value="GUI/Function/Arithmetic/Func_Arithmetic_Sin.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Sqrt">
+              <param name="Local" value="GUI/Function/Arithmetic/Func_Arithmetic_Sqrt.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="StDv">
+              <param name="Local" value="GUI/Function/Arithmetic/Func_Arithmetic_StDv.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Subtract">
+              <param name="Local" value="GUI/Function/Arithmetic/Func_Arithmetic_Subtract.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Tan">
+              <param name="Local" value="GUI/Function/Arithmetic/Func_Arithmetic_Tan.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Trunc">
+              <param name="Local" value="GUI/Function/Arithmetic/Func_Arithmetic_Trunc.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Variance">
+              <param name="Local" value="GUI/Function/Arithmetic/Func_Arithmetic_Variance.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            </ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Атрибутный доступ">
+            <param name="Local" value="GUI/Function/ABAC/Func_ABAC.htm">
+          </object>
+          <ul>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Count">
+              <param name="Local" value="GUI/Function/ABAC/Func_ABAC_Count.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="FindAttr">
+              <param name="Local" value="GUI/Function/ABAC/Func_ABAC_FindAttr.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Interseca">
+              <param name="Local" value="GUI/Function/ABAC/Func_ABAC_Interseca.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Intersecc">
+              <param name="Local" value="GUI/Function/ABAC/Func_ABAC_Intersecc.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Is_Empty">
+              <param name="Local" value="GUI/Function/ABAC/Func_ABAC_Is_Empty.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            </ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Итоги">
+            <param name="Local" value="GUI/Function/Totals/Func_Totals.htm">
+          </object>
+          <ul>
+            <li><object type="text/sitemap">
+              <param name="Name" value="SubTotal">
+              <param name="Local" value="GUI/Function/Totals/Func_Totals_SubTotal.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Total">
+              <param name="Local" value="GUI/Function/Totals/Func_Totals_Total.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            </ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Логические функции">
+            <param name="Local" value="GUI/Function/Logical/Func_Logical.htm">
+          </object>
+          <ul>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Iif">
+              <param name="Local" value="GUI/Function/Logical/Func_Logical_Iif.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Sign">
+              <param name="Local" value="GUI/Function/Logical/Func_Logical_Sign.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="SignI">
+              <param name="Local" value="GUI/Function/Logical/Func_Logical_SignI.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            </ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Методы R">
+            <param name="Local" value="GUI/Function/R_methods/Func_R_methods.htm">
+          </object>
+          <ul>
+            <li><object type="text/sitemap">
+              <param name="Name" value="ArimaR">
+              <param name="Local" value="GUI/Function/R_methods/Func_R_methods_ArimaR.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="BpfR">
+              <param name="Local" value="GUI/Function/R_methods/Func_R_methods_BpfR.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="ExpSmoothR">
+              <param name="Local" value="GUI/Function/R_methods/Func_R_methods_ExpSmoothR.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="HpfR">
+              <param name="Local" value="GUI/Function/R_methods/Func_R_methods_HpfR.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="MedianSmoothR">
+              <param name="Local" value="GUI/Function/R_methods/Func_R_methods_MedianSmoothR.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="MovAvgR">
+              <param name="Local" value="GUI/Function/R_methods/Func_R_methods_MovAvgR.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="OlsR">
+              <param name="Local" value="GUI/Function/R_methods/Func_R_methods_OlsR.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="R">
+              <param name="Local" value="GUI/Function/R_methods/Func_R_methods_R.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="TslsR">
+              <param name="Local" value="GUI/Function/R_methods/Func_R_methods_TslsR.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            </ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Преобразования">
+            <param name="Local" value="GUI/Function/Transformations/Func_Transformations.htm">
+          </object>
+          <ul>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Cumulative">
+              <param name="Local" value="GUI/Function/Transformations/Func_Transformations_Cumulative.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="CumulativeYTD">
+              <param name="Local" value="GUI/Function/Transformations/Func_Transformations_CumulativeYTD.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Diff">
+              <param name="Local" value="GUI/Function/Transformations/Func_Transformations_Diff.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="DiffX">
+              <param name="Local" value="GUI/Function/Transformations/Func_Transformations_DiffX.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="DiffY">
+              <param name="Local" value="GUI/Function/Transformations/Func_Transformations_DiffY.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="DLog">
+              <param name="Local" value="GUI/Function/Transformations/Func_Transformations_DLog.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="DLogX">
+              <param name="Local" value="GUI/Function/Transformations/Func_Transformations_DLogX.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Fill">
+              <param name="Local" value="GUI/Function/Transformations/Func_Transformations_Fill.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Lag">
+              <param name="Local" value="GUI/Function/Transformations/Func_Transformations_Lag.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Lead">
+              <param name="Local" value="GUI/Function/Transformations/Func_Transformations_Lead.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Level">
+              <param name="Local" value="GUI/Function/Transformations/Func_Transformations_Level.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Pch">
+              <param name="Local" value="GUI/Function/Transformations/Func_Transformations_Pch.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="PchA">
+              <param name="Local" value="GUI/Function/Transformations/Func_Transformations_PchA.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="PchX">
+              <param name="Local" value="GUI/Function/Transformations/Func_Transformations_PchX.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="PchY">
+              <param name="Local" value="GUI/Function/Transformations/Func_Transformations_PchY.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Ratio">
+              <param name="Local" value="GUI/Function/Transformations/Func_Transformations_Ratio.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Rebase">
+              <param name="Local" value="GUI/Function/Transformations/Func_Transformations_Rebase.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Splice">
+              <param name="Local" value="GUI/Function/Transformations/Func_Transformations_Splice.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="SpliceP">
+              <param name="Local" value="GUI/Function/Transformations/Func_Transformations_SpliceP.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Sum">
+              <param name="Local" value="GUI/Function/Transformations/Func_Transformations_Sum.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="SumI">
+              <param name="Local" value="GUI/Function/Transformations/Func_Transformations_SumI.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="SumSq">
+              <param name="Local" value="GUI/Function/Transformations/Func_Transformations_SumSq.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Truncate">
+              <param name="Local" value="GUI/Function/Transformations/Func_Transformations_Truncate.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            </ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Прогнозирование">
+            <param name="Local" value="GUI/Function/Forecasting/Func_Forecasting.htm">
+          </object>
+          <ul>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Arima">
+              <param name="Local" value="GUI/Function/Forecasting/Func_Forecasting_Arima.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="ArimaR">
+              <param name="Local" value="GUI/Function/R_methods/Func_R_methods_ArimaR.htm#642b3b9347ca42c9b00b820c00c373fa=1">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="AutoTrend">
+              <param name="Local" value="GUI/Function/Forecasting/Func_Forecasting_AutoTrend.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="DynamicLowerConfidenceLevel">
+              <param name="Local" value="GUI/Function/Forecasting/Func_Forecasting_DynamicLowerConfidenceLevel.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="DynamicUpperConfidenceLevel">
+              <param name="Local" value="GUI/Function/Forecasting/Func_Forecasting_DynamicUpperConfidenceLevel.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="ExpSmooth">
+              <param name="Local" value="GUI/Function/Forecasting/Func_Forecasting_ExpSmooth.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="ExpSmoothR">
+              <param name="Local" value="GUI/Function/R_methods/Func_R_methods_ExpSmoothR.htm#642b3b9347ca42c9b00b820c00c373fa=1">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Extrapolate">
+              <param name="Local" value="GUI/Function/Forecasting/Func_Forecasting_Extrapolate.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Fitted">
+              <param name="Local" value="GUI/Function/Forecasting/Func_Forecasting_Fitted.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Forecast">
+              <param name="Local" value="GUI/Function/Forecasting/Func_Forecasting_Forecast.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="GreyForecast">
+              <param name="Local" value="GUI/Function/Forecasting/Func_Forecasting_GreyForecast.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="LowerConfidenceLevel">
+              <param name="Local" value="GUI/Function/Forecasting/Func_Forecasting_LowerConfidenceLevel.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Residuals">
+              <param name="Local" value="GUI/Function/Forecasting/Func_Forecasting_Residuals.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="UpperConfidenceLevel">
+              <param name="Local" value="GUI/Function/Forecasting/Func_Forecasting_UpperConfidenceLevel.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            </ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Прочие функции">
+            <param name="Local" value="GUI/Function/Other/Func_Other.htm">
+          </object>
+          <ul>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Combine">
+              <param name="Local" value="GUI/Function/Other/Func_Other_Combine.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Estimate">
+              <param name="Local" value="GUI/Function/Other/Func_Other_Estimate.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="GetValueByDate">
+              <param name="Local" value="GUI/Function/Other/Func_Other_GetValueByDate.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="IsSeriesEmpty">
+              <param name="Local" value="GUI/Function/Other/Func_Other_IsSeriesEmpty.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="None">
+              <param name="Local" value="GUI/Function/Other/Func_Other_None.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Pi">
+              <param name="Local" value="GUI/Function/Other/Func_Other_Pi.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="SetPeriod">
+              <param name="Local" value="GUI/Function/Other/Func_Other_SetPeriod.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            </ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Работа с Java">
+            <param name="Local" value="GUI/Function/Java/Methods_Java.htm">
+          </object>
+          <ul>
+            <li><object type="text/sitemap">
+              <param name="Name" value="JavaInvoke_">
+              <param name="Local" value="GUI/Function/Java/Method_Java_Invoke.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="JavaInvokeModule_">
+              <param name="Local" value="GUI/Function/Java/Method_Java_Invoke_Module.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            </ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Работа с Python">
+            <param name="Local" value="GUI/Function/Python/Func_Python.htm">
+          </object>
+          <ul>
+            <li><object type="text/sitemap">
+              <param name="Name" value="PythonInvoke_">
+              <param name="Local" value="GUI/Function/Python/Func_Python_Invoke.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="PythonInvokeModule_">
+              <param name="Local" value="GUI/Function/Python/Func_Python_Invoke_Module.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            </ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Регрессия">
+            <param name="Local" value="GUI/Function/Regression/Func_Regression.htm">
+          </object>
+          <ul>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Ecm">
+              <param name="Local" value="GUI/Function/Regression/Func_Regression_Ecm.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Ols">
+              <param name="Local" value="GUI/Function/Regression/Func_Regression_Ols.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="OlsR">
+              <param name="Local" value="GUI/Function/R_methods/Func_R_methods_OlsR.htm#642b3b9347ca42c9b00b820c00c373fa=1">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Tsls">
+              <param name="Local" value="GUI/Function/Regression/Func_Other_Tsls.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="TslsR">
+              <param name="Local" value="GUI/Function/R_methods/Func_R_methods_TslsR.htm#642b3b9347ca42c9b00b820c00c373fa=1">
+            </object>
+            </ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Сглаживание">
+            <param name="Local" value="GUI/Function/Smoothing/Func_Smoothing.htm">
+          </object>
+          <ul>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Bpf">
+              <param name="Local" value="GUI/Function/Smoothing/Func_Smoothing_Bpf.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="BpfR">
+              <param name="Local" value="GUI/Function/R_methods/Func_R_methods_BpfR.htm#642b3b9347ca42c9b00b820c00c373fa=1">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Census1">
+              <param name="Local" value="GUI/Function/Smoothing/Func_Smoothing_Census1.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Hpf">
+              <param name="Local" value="GUI/Function/Smoothing/Func_Smoothing_Hpf.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="HpfP">
+              <param name="Local" value="GUI/Function/Smoothing/Func_Smoothing_HpfP.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="HpfR">
+              <param name="Local" value="GUI/Function/R_methods/Func_R_methods_HpfR.htm#642b3b9347ca42c9b00b820c00c373fa=1">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Lrxf">
+              <param name="Local" value="GUI/Function/Smoothing/Func_Smoothing_Lrxf.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="MedianSmooth">
+              <param name="Local" value="GUI/Function/Smoothing/Func_Smoothing_MedianSmooth.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="MedianSmoothR">
+              <param name="Local" value="GUI/Function/R_methods/Func_R_methods_MedianSmoothR.htm#642b3b9347ca42c9b00b820c00c373fa=1">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="MovAvg">
+              <param name="Local" value="GUI/Function/Smoothing/Func_Smoothing_MovAvg.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="MovAvgR">
+              <param name="Local" value="GUI/Function/R_methods/Func_R_methods_MovAvgR.htm#642b3b9347ca42c9b00b820c00c373fa=1">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="X11">
+              <param name="Local" value="GUI/Function/Smoothing/Func_Smoothing_X11.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            </ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Текстовые функции">
+            <param name="Local" value="GUI/Function/Text/Func_Text.htm">
+          </object>
+          <ul>
+            <li><object type="text/sitemap">
+              <param name="Name" value="ASCII">
+              <param name="Local" value="GUI/Function/Text/Func_Text_ASCII.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Chr">
+              <param name="Local" value="GUI/Function/Text/Func_Text_Chr.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Contains">
+              <param name="Local" value="GUI/Function/Text/Func_Text_Contains.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="EndsWith_">
+              <param name="Local" value="GUI/Function/Text/Func_Text_EndsWith.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Find">
+              <param name="Local" value="GUI/Function/Text/Func_Text_Find.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Left">
+              <param name="Local" value="GUI/Function/Text/Func_Text_Left.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Length_">
+              <param name="Local" value="GUI/Function/Text/Func_Text_Length.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Max_">
+              <param name="Local" value="GUI/Function/Text/Func_Text_Max_.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Mid">
+              <param name="Local" value="GUI/Function/Text/Func_Text_Mid.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Min_">
+              <param name="Local" value="GUI/Function/Text/Func_Text_Min_.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Replace">
+              <param name="Local" value="GUI/Function/Text/Func_Text_Replace.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Right">
+              <param name="Local" value="GUI/Function/Text/Func_Text_Right.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Space">
+              <param name="Local" value="GUI/Function/Text/Func_Text_Space.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="StartsWith_">
+              <param name="Local" value="GUI/Function/Text/Func_Text_StartsWith.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="ToLower">
+              <param name="Local" value="GUI/Function/Text/Func_Text_ToLower.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="ToUpper">
+              <param name="Local" value="GUI/Function/Text/Func_Text_ToUpper.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Trim">
+              <param name="Local" value="GUI/Function/Text/Func_Text_Trim.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="TrimEnd">
+              <param name="Local" value="GUI/Function/Text/Func_Text_TrimEnd.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="TrimStart">
+              <param name="Local" value="GUI/Function/Text/Func_Text_TrimStart.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            </ul>
+          </ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Подключение пользовательских функций">
+          <param name="Local" value="GUI/ExpressionEditor_UserFunc.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Подключение дополнительных модулей к «Форсайт.&#160;Аналитическая платформа»">
+          <param name="Local" value="02_Navigator/CommonSettings/Integration.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Выбор рассчитываемых данных">
+        <param name="Local" value="GUI/UFE/Filtering.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Настройка периода расчёта выражения">
+        <param name="Local" value="GUI/UFE/Period.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Настройка внешнего вида выражения">
+        <param name="Local" value="GUI/UFE/Format.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Публикация в социальных сетях">
+      <param name="Local" value="GUI/Format/Publishing.htm">
+      <param name="ImageNumber" value="11">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Управление глобальными переменными">
+      <param name="Local" value="02_Navigator/UiNav_GlobalVariables.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Параметры глобальной переменной">
+        <param name="Local" value="02_Navigator/UiNav_GlobalVariables_Edit.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Получение информации о программе">
+      <param name="Local" value="GUI/Info.htm">
+      <param name="ImageNumber" value="11">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Работа с типами данных">
+      <param name="Local" value="GUI/datatypes.htm">
+      <param name="ImageNumber" value="11">
+    </object>
+  </ul>
+  <object type="text/sitemap">
+    <param name="Name" value="UiWsp.chm::/UiWsp.hhc">
+    <param name="Merge" value="UiWsp.chm::/UiWsp.hhc" value2="../uiwsp">
+  </object>
+  <ul>
+  </ul>
+  <object type="text/sitemap">
+    <param name="Name" value="Lib.chm::/Lib.hhc">
+    <param name="Merge" value="Lib.chm::/Lib.hhc" value2="../lib">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Вопросы и ответы">
+      <param name="Local" value="FAQ/FAQ.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Какие возможности поиска есть в справочной системе продукта «Форсайт.&#160;Аналитическая платформа»?">
+        <param name="Local" value="FAQ/Search.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Какие методы в «Форсайт.&#160;Аналитическая платформа» можно рассчитать с помощью R?">
+        <param name="Local" value="FAQ/Use_of_R.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      </ul>
+    </ul>
+</ul>
+</html>

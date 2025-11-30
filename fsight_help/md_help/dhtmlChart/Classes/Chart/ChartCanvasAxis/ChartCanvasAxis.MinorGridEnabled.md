@@ -1,0 +1,70 @@
+﻿# ChartCanvasAxis.MinorGridEnabled
+
+ChartCanvasAxis.MinorGridEnabled
+-
+
+
+# ChartCanvasAxis.MinorGridEnabled
+
+
+## Синтаксис
+
+
+MinorGridEnabled: Boolean;
+
+
+## Описание
+
+
+Свойство MinorGridEnabled определяет
+ отображение промежуточных линий.
+
+
+## Комментарии
+
+
+Значение свойства устанавливается из JSON и при помощи метода setSettings, а возвращается с помощью
+ метода getSettings.
+
+
+Допустимые значения:
+
+
+	- true.
+	 Промежуточные линиии отображаются;
+
+
+	- false.
+	 Промежуточные линиии не отображаются.
+
+
+## Пример
+
+
+Для выполнения примера необходимо наличие веб-приложения с открытым
+ экземпляром экспресс-отчета, с выбранной диаграммой. Код необходимо вводить
+ в консоли:
+
+
+// Получим экземпляр диаграммы
+dView = PP.App.getModuleObject().getReportBox().getDataView();
+chart = dView.getChartView().getInstance();
+// Получим горизонтальную ось диаграммы
+axis = chart.getXAxis();
+// Получим настройки горизонтальной оси
+settings = axis.getSettings();
+// Получим значение свойства
+console.log(settings.MinorGridEnabled);
+В результате выполнения примера значение свойства было выведено в консоль.
+
+
+См. также:
+
+
+[ChartCanvasAxis](ChartCanvasAxis.htm)
+
+
+		Справочная
+		 система на версию 10.9
+		 от 18/08/2025,
+		 © ООО «ФОРСАЙТ»,

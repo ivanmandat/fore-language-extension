@@ -1,0 +1,84 @@
+<html>
+<!-- Sitemap 1.0 -->
+<object type="text/site properties">
+  <param name="SiteType" value="toc">
+  <param name="Image Width" value="16">
+  <param name="Window Styles" value="0x800027">
+  <param name="ExWindow Styles" value="0x100">
+</object>
+<ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Настройка измерений и отметка элементов">
+    <param name="Local" value="Selection/Dimension.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Выбор варианта расположения измерения в таблице">
+      <param name="Local" value="Selection/Dimension.htm#variant_of_location642b3b9347ca42c9b00b820c00c373fa=1">
+      <param name="ImageNumber" value="11">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Настройка роли измерения">
+      <param name="Local" value="Selection/Dimension_type.htm">
+      <param name="ImageNumber" value="11">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Комбинирование измерений">
+      <param name="Local" value="Selection/Dimension_combine.htm">
+      <param name="ImageNumber" value="11">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Редактирование измерений">
+      <param name="Local" value="Selection/Dimension_edit.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Редактирование списка измерения">
+        <param name="Local" value="Selection/Dimension_edit.htm#edit_list642b3b9347ca42c9b00b820c00c373fa=1">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Редактирование элемента измерения">
+        <param name="Local" value="Selection/Dimension_edit.htm#edit_dim_element642b3b9347ca42c9b00b820c00c373fa=2">
+        <param name="ImageNumber" value="11">
+      </object>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Использование частных измерений">
+      <param name="Local" value="Selection/Working_with_private_dimensions.htm">
+      <param name="ImageNumber" value="11">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Работа с элементами измерения">
+      <param name="Local" value="Selection/Selection_of_the_dimension_elements.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Наименование элементов">
+        <param name="Local" value="Selection/Element_Names.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Отметка элементов календарного измерения">
+        <param name="Local" value="Selection/Selection_of_the_CalendarDimension_elements.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Подсветка данных в элементах измерения">
+      <param name="Local" value="Selection/Dimension_lightning.htm">
+      <param name="ImageNumber" value="11">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Работа с иерархиями">
+      <param name="Local" value="Selection/Hierarchies.htm">
+      <param name="ImageNumber" value="11">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Настройка отображения измерения">
+      <param name="Local" value="Selection/Setting_view_of_the_dimension.htm">
+      <param name="ImageNumber" value="11">
+    </object>
+    </ul>
+</ul>
+</html>

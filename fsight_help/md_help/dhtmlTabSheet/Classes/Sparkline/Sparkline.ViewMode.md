@@ -1,0 +1,49 @@
+﻿# Sparkline.ViewMode
+
+Sparkline.ViewMode
+-
+
+
+# Sparkline.ViewMode
+
+
+## Синтаксис
+
+
+ViewMode: Array
+
+
+## Описание
+
+
+Свойство ViewMode определяет
+ режимы отображения спарклайна.
+
+
+## Комментарии
+
+
+Элементы массива - элементы перечисления [PP.Ui.SparklineViewMode](../../Enums/PP.Ui.SparklineViewMode.htm).
+
+
+Значение свойства устанавливается из JSON и с помощью метода setViewMode,
+ а возвращается с помощью метода getViewMode.
+
+
+## Пример
+
+
+Пример использования свойства приведен на странице «[Пример
+ создания компонента Sparkline](../../Components/Sparkline/Example_Sparkline.htm)».
+
+
+См. также:
+
+
+[Sparkline](Sparkline.htm)
+
+
+		Справочная
+		 система на версию 10.9
+		 от 18/08/2025,
+		 © ООО «ФОРСАЙТ»,

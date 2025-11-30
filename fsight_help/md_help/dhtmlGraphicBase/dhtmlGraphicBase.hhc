@@ -1,0 +1,2771 @@
+<html>
+<!-- Sitemap 1.0 -->
+<object type="text/site properties">
+  <param name="SiteType" value="toc">
+  <param name="Image Width" value="16">
+  <param name="Window Styles" value="0x800007">
+  <param name="ExWindow Styles" value="0x100">
+</object>
+<ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Работа с графическими элементами">
+    <param name="Local" value="Classes/Classes.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Компоненты">
+      <param name="Local" value="Components/Components.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Canvas">
+        <param name="Local" value="Components/Canvas/Canvas.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Пример создания компонента Canvas">
+          <param name="Local" value="Components/Canvas/Example_Canvas.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Cylinder">
+        <param name="Local" value="Components/Cylinder/Cylinder.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Пример создания компонента Cylinder">
+          <param name="Local" value="Components/Cylinder/Cylinder_Example.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Timeline">
+        <param name="Local" value="Components/Timeline/Timeline.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Пример создания компонента Timeline">
+          <param name="Local" value="Components/Timeline/Timeline_Example.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Классы">
+      <param name="Local" value="Classes/Classes.htm#642b3b9347ca42c9b00b820c00c373fa=1">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="AreaSelection">
+        <param name="Local" value="Classes/PP_Ui/AreaSelection/AreaSelection.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Конструктор AreaSelection">
+          <param name="Local" value="Classes/PP_Ui/AreaSelection/Constructor_AreaSelection.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="AreaSelection.Aspect">
+          <param name="Local" value="Classes/PP_Ui/AreaSelection/AreaSelection.Aspect.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="AreaSelection.start">
+          <param name="Local" value="Classes/PP_Ui/AreaSelection/AreaSelection.start.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="AreaSelection.CornerSize">
+          <param name="Local" value="Classes/PP_Ui/AreaSelection/AreaSelection.CornerSize.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="AreaSelection.MinSize">
+          <param name="Local" value="Classes/PP_Ui/AreaSelection/AreaSelection.MinSize.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="AreaSelection.Path">
+          <param name="Local" value="Classes/PP_Ui/AreaSelection/AreaSelection.Path.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="AreaSelection.Type">
+          <param name="Local" value="Classes/PP_Ui/AreaSelection/AreaSelection.Type.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="AreaSelection.end">
+          <param name="Local" value="Classes/PP_Ui/AreaSelection/AreaSelection.end.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="AreaSelection.MouseMove">
+          <param name="Local" value="Classes/PP_Ui/AreaSelection/AreaSelection.MouseMove.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="AxisTick">
+        <param name="Local" value="Classes/Cylinder/AxisTick/AxisTick.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Конструктор AxisTick">
+          <param name="Local" value="Classes/Cylinder/AxisTick/Constructor_AxisTick.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="AxisTick.clear">
+          <param name="Local" value="Classes/Cylinder/AxisTick/AxisTick.clear.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="AxisTick.redraw">
+          <param name="Local" value="Classes/Cylinder/AxisTick/AxisTick.redraw.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="AxisTick.setPosition">
+          <param name="Local" value="Classes/Cylinder/AxisTick/AxisTick.setPosition.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="AxisTick.setTickStyle">
+          <param name="Local" value="Classes/Cylinder/AxisTick/AxisTick.setTickStyle.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Balloon">
+        <param name="Local" value="Classes/Balloon/Balloon.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Balloon.IsTargetOut">
+          <param name="Local" value="Classes/Balloon/Balloon.getIsTargetOut.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Balloon.HoverMode">
+          <param name="Local" value="Classes/Balloon/Balloon.HoverMode.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Balloon.MinTailOffset">
+          <param name="Local" value="Classes/Balloon/Balloon.MinTailOffset.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Balloon.Offset">
+          <param name="Local" value="Classes/Balloon/Balloon.Offset.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Balloon.setPosition">
+          <param name="Local" value="Classes/Balloon/Balloon.setPosition.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Balloon.Side">
+          <param name="Local" value="Classes/Balloon/Balloon.Side.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Balloon.TailLength">
+          <param name="Local" value="Classes/Balloon/Balloon.TailLength.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Balloon.TailPosition">
+          <param name="Local" value="Classes/Balloon/Balloon.TailPosition.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Balloon.TargetX">
+          <param name="Local" value="Classes/Balloon/Balloon.TargetX.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Balloon.TargetY">
+          <param name="Local" value="Classes/Balloon/Balloon.TargetY.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Canvas">
+        <param name="Local" value="Classes/Canvas/Canvas.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Конструктор Canvas">
+          <param name="Local" value="Classes/Canvas/Constructor_Canvas.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Canvas.GlobalOpacity">
+          <param name="Local" value="Classes/Canvas/Canvas.GlobalOpacity.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Canvas.StrokeWidth">
+          <param name="Local" value="Classes/Canvas/Canvas.StrokeWidth.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Canvas.StrokeDashArray">
+          <param name="Local" value="Classes/Canvas/Canvas.StrokeDashArray.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Canvas.beginPath">
+          <param name="Local" value="Classes/Canvas/Canvas.beginPath.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Canvas.drawPoly">
+          <param name="Local" value="Classes/Canvas/Canvas.drawPoly.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Canvas.endPath">
+          <param name="Local" value="Classes/Canvas/Canvas.endPath.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Canvas.clear">
+          <param name="Local" value="Classes/Canvas/Canvas.clear.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Canvas.drawCircle">
+          <param name="Local" value="Classes/Canvas/Canvas.drawCircle.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Canvas.drawRect">
+          <param name="Local" value="Classes/Canvas/Canvas.drawRect.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Canvas.drawLine">
+          <param name="Local" value="Classes/Canvas/Canvas.drawLine.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Canvas.flush">
+          <param name="Local" value="Classes/Canvas/Canvas.flush.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Canvas.setBounds">
+          <param name="Local" value="Classes/Canvas/Canvas.setBounds.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Canvas.setFillStyle">
+          <param name="Local" value="Classes/Canvas/Canvas.setFillStyle.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Canvas.setStrokeStyle">
+          <param name="Local" value="Classes/Canvas/Canvas.setStrokeStyle.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Canvas.getContext">
+          <param name="Local" value="Classes/Canvas/Canvas.getContext.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="CanvasHTMLRenderer">
+        <param name="Local" value="Classes/CanvasHTMLRenderer/CanvasHTMLRenderer.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Конструктор CanvasHTMLRenderer">
+          <param name="Local" value="Classes/CanvasHTMLRenderer/Constructor_CanvasHTMLRenderer.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="CanvasHTMLRenderer.Height">
+          <param name="Local" value="Classes/CanvasHTMLRenderer/CanvasHTMLRenderer.Height.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="CanvasHTMLRenderer.Width">
+          <param name="Local" value="Classes/CanvasHTMLRenderer/CanvasHTMLRenderer.Width.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="CanvasHTMLRenderer.ScaleX">
+          <param name="Local" value="Classes/CanvasHTMLRenderer/CanvasHTMLRenderer.ScaleX.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="CanvasHTMLRenderer.ScaleY">
+          <param name="Local" value="Classes/CanvasHTMLRenderer/CanvasHTMLRenderer.ScaleY.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="CanvasHTMLRenderer.ImagePreloader">
+          <param name="Local" value="Classes/CanvasHTMLRenderer/CanvasHTMLRenderer.ImagePreloader.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="CanvasHTMLRenderer.RecursiveBoundsCalc">
+          <param name="Local" value="Classes/CanvasHTMLRenderer/CanvasHTMLRenderer.RecursiveBoundsCalc.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="CanvasHTMLRenderer.render">
+          <param name="Local" value="Classes/CanvasHTMLRenderer/CanvasHTMLRenderer.render.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="CanvasHTMLRenderer.setScale">
+          <param name="Local" value="Classes/CanvasHTMLRenderer/CanvasHTMLRenderer.setScale.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="CanvasHTMLRenderer.Preloaded">
+          <param name="Local" value="Classes/CanvasHTMLRenderer/CanvasHTMLRenderer.Preloaded.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="CanvasHTMLRenderer.Rendered">
+          <param name="Local" value="Classes/CanvasHTMLRenderer/CanvasHTMLRenderer.Rendered.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="CanvasHTMLRenderer.TaintTest">
+          <param name="Local" value="Classes/CanvasHTMLRenderer/CanvasHTMLRenderer.TaintTest.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="CanvasLabel">
+        <param name="Local" value="Classes/CanvasLabel/CanvasLabel.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Конструктор CanvasLabel">
+          <param name="Local" value="Classes/CanvasLabel/Constructor_CanvasLabel.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="CanvasLabel.Alignment">
+          <param name="Local" value="Classes/CanvasLabel/CanvasLabel.Alignment.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="CanvasLabel.AutoOrientation">
+          <param name="Local" value="Classes/CanvasLabel/CanvasLabel.AutoOrientation.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="CanvasLabel.Background">
+          <param name="Local" value="Classes/CanvasLabel/CanvasLabel.Background.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="CanvasLabel.CanvasContext">
+          <param name="Local" value="Classes/CanvasLabel/CanvasLabel.CanvasContext.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="CanvasLabel.Circular">
+          <param name="Local" value="Classes/CanvasLabel/CanvasLabel.Circular.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="CanvasLabel.Direction">
+          <param name="Local" value="Classes/CanvasLabel/CanvasLabel.Direction.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="CanvasLabel.Margin">
+          <param name="Local" value="Classes/CanvasLabel/CanvasLabel.Margin.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="CanvasLabel.MaskText">
+          <param name="Local" value="Classes/CanvasLabel/CanvasLabel.MaskText.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="CanvasLabel.MaxSize">
+          <param name="Local" value="Classes/CanvasLabel/CanvasLabel.MaxSize.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="CanvasLabel.MinSize">
+          <param name="Local" value="Classes/CanvasLabel/CanvasLabel.MinSize.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="CanvasLabel.NoDataText">
+          <param name="Local" value="Classes/CanvasLabel/CanvasLabel.NoDataText.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="CanvasLabel.Opacity">
+          <param name="Local" value="Classes/CanvasLabel/CanvasLabel.Opacity.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="CanvasLabel.Padding">
+          <param name="Local" value="Classes/CanvasLabel/CanvasLabel.Padding.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="CanvasLabel.Position">
+          <param name="Local" value="Classes/CanvasLabel/CanvasLabel.Position.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="CanvasLabel.ShowHandCursor">
+          <param name="Local" value="Classes/CanvasLabel/CanvasLabel.ShowHandCursor.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="CanvasLabel.Style">
+          <param name="Local" value="Classes/CanvasLabel/CanvasLabel.Style.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="CanvasLabel.TextWrapping">
+          <param name="Local" value="Classes/CanvasLabel/CanvasLabel.TextWrapping.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="CanvasLabel.Values">
+          <param name="Local" value="Classes/CanvasLabel/CanvasLabel.Values.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="CanvasLabel.Vertical">
+          <param name="Local" value="Classes/CanvasLabel/CanvasLabel.Vertical.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="CanvasLabel.draw">
+          <param name="Local" value="Classes/CanvasLabel/CanvasLabel.draw.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="CanvasLabel.getTooltipOffset">
+          <param name="Local" value="Classes/CanvasLabel/CanvasLabel.getTooltipOffset.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="CanvasLabel.setBorderColor">
+          <param name="Local" value="Classes/CanvasLabel/CanvasLabel.setBorderColor.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="CanvasLabel.setFontColor">
+          <param name="Local" value="Classes/CanvasLabel/CanvasLabel.setFontColor.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="CanvasLabel.updateContent">
+          <param name="Local" value="Classes/CanvasLabel/CanvasLabel.updateContent.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="CanvasSVGRenderer">
+        <param name="Local" value="Classes/CanvasSVGRenderer/CanvasSVGRenderer.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Конструктор CanvasSVGRenderer">
+          <param name="Local" value="Classes/CanvasSVGRenderer/Constructor_CanvasSVGRenderer.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="CanvasSVGRenderer.ImagePreloader">
+          <param name="Local" value="Classes/CanvasSVGRenderer/CanvasSVGRenderer.ImagePreloader.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="CanvasSVGRenderer.ScaleX">
+          <param name="Local" value="Classes/CanvasSVGRenderer/CanvasSVGRenderer.ScaleX.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="CanvasSVGRenderer.ScaleY">
+          <param name="Local" value="Classes/CanvasSVGRenderer/CanvasSVGRenderer.ScaleY.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="CanvasSVGRenderer.render">
+          <param name="Local" value="Classes/CanvasSVGRenderer/CanvasSVGRenderer.render.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="ConfigClass">
+        <param name="Local" value="Classes/PP_Ui/Config/PP.Ui.ConfigClass.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ConfigClass.getChart">
+          <param name="Local" value="Classes/PP_Ui/Config/PP.Ui.ConfigClass.getChart.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ConfigClass.setChart">
+          <param name="Local" value="Classes/PP_Ui/Config/PP.Ui.ConfigClass.setChart.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ConfigClass.getSourceTypes">
+          <param name="Local" value="Classes/PP_Ui/Config/PP.Ui.ConfigClass.getSourceTypes.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ConfigClass.setSourceTypes">
+          <param name="Local" value="Classes/PP_Ui/Config/PP.Ui.ConfigClass.setSourceTypes.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ConfigClass.getSupportedLanguages">
+          <param name="Local" value="Classes/PP_Ui/Config/PP.Ui.ConfigClass.getSupportedLanguages.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ConfigClass.setSupportedLanguages">
+          <param name="Local" value="Classes/PP_Ui/Config/PP.Ui.ConfigClass.setSupportedLanguages.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ConfigClass.getTabSheet">
+          <param name="Local" value="Classes/PP_Ui/Config/PP.Ui.ConfigClass.getTabSheet.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ConfigClass.setTabSheet">
+          <param name="Local" value="Classes/PP_Ui/Config/PP.Ui.ConfigClass.setTabSheet.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="CoordinateTransformer">
+        <param name="Local" value="Classes/PP/CoordinateTransformer/CoordinateTransformer.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Конструктор CoordinateTransformer">
+          <param name="Local" value="Classes/PP/CoordinateTransformer/Constructor_CoordinateTransformer.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="CoordinateTransformer.getValue">
+          <param name="Local" value="Classes/PP/CoordinateTransformer/CoordinateTransformer.getValue.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="CoordinateTransformer.IncludeZero">
+          <param name="Local" value="Classes/PP/CoordinateTransformer/CoordinateTransformer.IncludeZero.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="CoordinateTransformer.UseSignDivision">
+          <param name="Local" value="Classes/PP/CoordinateTransformer/CoordinateTransformer.UseSignDivision.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Cylinder">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Cylinder">
+          <param name="Local" value="Classes/Cylinder/Cylinder/Cylinder.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Конструктор Cylinder">
+            <param name="Local" value="Classes/Cylinder/Cylinder/Constructor_Cylinder.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Cylinder.AnimationDuration">
+            <param name="Local" value="Classes/Cylinder/Cylinder/Cylinder.AnimationDuration.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Cylinder.Axis">
+            <param name="Local" value="Classes/Cylinder/Cylinder/Cylinder.Axis.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Cylinder.CylinderHeaderStyle">
+            <param name="Local" value="Classes/Cylinder/Cylinder/Cylinder.CylinderHeaderStyle.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Cylinder.FlaskHeight">
+            <param name="Local" value="Classes/Cylinder/Cylinder/Cylinder.FlaskHeight.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Cylinder.FlaskWidth">
+            <param name="Local" value="Classes/Cylinder/Cylinder/Cylinder.FlaskWidth.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Cylinder.IsFlat">
+            <param name="Local" value="Classes/Cylinder/Cylinder/Cylinder.IsFlat.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Cylinder.IsRelativeDimensions">
+            <param name="Local" value="Classes/Cylinder/Cylinder/Cylinder.IsRelativeDimensions.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Cylinder.Orientation">
+            <param name="Local" value="Classes/Cylinder/Cylinder/Cylinder.Orientation.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Cylinder.Trends">
+            <param name="Local" value="Classes/Cylinder/Cylinder/Cylinder.Trends.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Cylinder.UseAnimation">
+            <param name="Local" value="Classes/Cylinder/Cylinder/Cylinder.UseAnimation.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Cylinder.Values">
+            <param name="Local" value="Classes/Cylinder/Cylinder/Cylinder.Values.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Cylinder.draw">
+            <param name="Local" value="Classes/Cylinder/Cylinder/Cylinder.draw.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Cylinder.Header">
+            <param name="Local" value="Classes/Cylinder/Cylinder/Cylinder.Header.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Cylinder.getSVGNode">
+            <param name="Local" value="Classes/Cylinder/Cylinder/Cylinder.getSVGNode.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Cylinder.redraw">
+            <param name="Local" value="Classes/Cylinder/Cylinder/Cylinder.redraw.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Cylinder.redrawValues">
+            <param name="Local" value="Classes/Cylinder/Cylinder/Cylinder.redrawValues.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Cylinder.Loaded">
+            <param name="Local" value="Classes/Cylinder/Cylinder/Cylinder.Loaded.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="CylinderGaugeValue">
+          <param name="Local" value="Classes/Cylinder/CylinderGaugeValue/CylinderGaugeValue.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Конструктор CylinderGaugeValue">
+            <param name="Local" value="Classes/Cylinder/CylinderGaugeValue/Constructor_CylinderGaugeValue.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="CylinderGaugeValue.Fill">
+            <param name="Local" value="Classes/Cylinder/CylinderGaugeValue/CylinderGaugeValue.Fill.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="CylinderGaugeValue.StartValue">
+            <param name="Local" value="Classes/Cylinder/CylinderGaugeValue/CylinderGaugeValue.StartValue.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="CylinderGaugeValue.checkValue">
+            <param name="Local" value="Classes/Cylinder/CylinderGaugeValue/CylinderGaugeValue.checkValue.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="CylinderGaugeValue.draw">
+            <param name="Local" value="Classes/Cylinder/CylinderGaugeValue/CylinderGaugeValue.draw.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="CylinderGaugeValue.getColumn">
+            <param name="Local" value="Classes/Cylinder/CylinderGaugeValue/CylinderGaugeValue.getColumn.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="CylinderGaugeValue.getEventNode">
+            <param name="Local" value="Classes/Cylinder/CylinderGaugeValue/CylinderGaugeValue.getEventNode.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="CylinderGaugeValue.ParentAxis">
+            <param name="Local" value="Classes/Cylinder/CylinderGaugeValue/CylinderGaugeValue.ParentAxis.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="CylinderGaugeValue.getUp">
+            <param name="Local" value="Classes/Cylinder/CylinderGaugeValue/CylinderGaugeValue.getUp.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="CylinderGaugeValue.UpFill">
+            <param name="Local" value="Classes/Cylinder/CylinderGaugeValue/CylinderGaugeValue.UpFill.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="CylinderGaugeValue.getUpGlare">
+            <param name="Local" value="Classes/Cylinder/CylinderGaugeValue/CylinderGaugeValue.getUpGlare.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="CylinderGaugeValue.redraw">
+            <param name="Local" value="Classes/Cylinder/CylinderGaugeValue/CylinderGaugeValue.redraw.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="CylinderTrend">
+          <param name="Local" value="Classes/Cylinder/CylinderTrend/CylinderTrend.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Конструктор CylinderTrend">
+            <param name="Local" value="Classes/Cylinder/CylinderTrend/Constructor_CylinderTrend.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="CylinderTrend.Color">
+            <param name="Local" value="Classes/Cylinder/CylinderTrend/CylinderTrend.Color.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="CylinderTrend.LabelStyle">
+            <param name="Local" value="Classes/Cylinder/CylinderTrend/CylinderTrend.LabelStyle.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="CylinderTrend.Length">
+            <param name="Local" value="Classes/Cylinder/CylinderTrend/CylinderTrend.Length.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="CylinderTrend.draw">
+            <param name="Local" value="Classes/Cylinder/CylinderTrend/CylinderTrend.draw.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="CylinderTrend.getLabel">
+            <param name="Local" value="Classes/Cylinder/CylinderTrend/CylinderTrend.getLabel.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="CylinderTrend.redraw">
+            <param name="Local" value="Classes/Cylinder/CylinderTrend/CylinderTrend.redraw.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="CylinderTrend.LineStyle">
+            <param name="Local" value="Classes/Cylinder/CylinderTrend/CylinderTrend.LineStyle.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="CylinderHeader">
+          <param name="Local" value="Classes/Cylinder/CylinderHeader/CylinderHeader.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Конструктор CylinderHeader">
+            <param name="Local" value="Classes/Cylinder/CylinderHeader/Constructor_CylinderHeader.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="CylinderHeader.HorizontalAlign">
+            <param name="Local" value="Classes/Cylinder/CylinderHeader/CylinderHeader.HorizontalAlign.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="CylinderHeader.Shadow">
+            <param name="Local" value="Classes/Cylinder/CylinderHeader/CylinderHeader.Shadow.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="CylinderHeader.VerticalAlign">
+            <param name="Local" value="Classes/Cylinder/CylinderHeader/CylinderHeader.VerticalAlign.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="CylinderHeader.ParentCylinder">
+            <param name="Local" value="Classes/Cylinder/CylinderHeader/CylinderHeader.ParentCylinder.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="CylinderHeader.redraw">
+            <param name="Local" value="Classes/Cylinder/CylinderHeader/CylinderHeader.redraw.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="CylinderGaugeAxis">
+          <param name="Local" value="Classes/Cylinder/CylinderGaugeAxis/CylinderGaugeAxis.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Конструктор CylinderGaugeAxis">
+            <param name="Local" value="Classes/Cylinder/CylinderGaugeAxis/Constructor_CylinderGaugeAxis.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="CylinderGaugeAxis.AxisUnits">
+            <param name="Local" value="Classes/Cylinder/CylinderGaugeAxis/CylinderGaugeAxis.AxisUnits.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="CylinderGaugeAxis.LabelStyle">
+            <param name="Local" value="Classes/Cylinder/CylinderGaugeAxis/CylinderGaugeAxis.LabelStyle.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="CylinderGaugeAxis.MajorTickStyle">
+            <param name="Local" value="Classes/Cylinder/CylinderGaugeAxis/CylinderGaugeAxis.MajorTickStyle.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="CylinderGaugeAxis.MinorTicksStep">
+            <param name="Local" value="Classes/Cylinder/CylinderGaugeAxis/CylinderGaugeAxis.MinorTicksStep.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="CylinderGaugeAxis.MinorTickStyle">
+            <param name="Local" value="Classes/Cylinder/CylinderGaugeAxis/CylinderGaugeAxis.MinorTickStyle.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="CylinderGaugeAxis.Position">
+            <param name="Local" value="Classes/Cylinder/CylinderGaugeAxis/CylinderGaugeAxis.Position.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="CylinderGaugeAxis.ShowMajorTicks">
+            <param name="Local" value="Classes/Cylinder/CylinderGaugeAxis/CylinderGaugeAxis.ShowMajorTicks.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="CylinderGaugeAxis.ShowMinorTicks">
+            <param name="Local" value="Classes/Cylinder/CylinderGaugeAxis/CylinderGaugeAxis.ShowMinorTicks.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="CylinderGaugeAxis.ShowUnitsForEachValue">
+            <param name="Local" value="Classes/Cylinder/CylinderGaugeAxis/CylinderGaugeAxis.ShowUnitsForEachValue.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="CylinderGaugeAxis.Values">
+            <param name="Local" value="Classes/Cylinder/CylinderGaugeAxis/CylinderGaugeAxis.Values.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="CylinderGaugeAxis.autoCalcLabels">
+            <param name="Local" value="Classes/Cylinder/CylinderGaugeAxis/CylinderGaugeAxis.autoCalcLabels.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="CylinderGaugeAxis.calcValuesByMode">
+            <param name="Local" value="Classes/Cylinder/CylinderGaugeAxis/CylinderGaugeAxis.calcValuesByMode.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="CylinderGaugeAxis.clear">
+            <param name="Local" value="Classes/Cylinder/CylinderGaugeAxis/CylinderGaugeAxis.clear.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="CylinderGaugeAxis.draw">
+            <param name="Local" value="Classes/Cylinder/CylinderGaugeAxis/CylinderGaugeAxis.draw.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="CylinderGaugeAxis.Labels">
+            <param name="Local" value="Classes/Cylinder/CylinderGaugeAxis/CylinderGaugeAxis.Labels.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="CylinderGaugeAxis.getLabelset">
+            <param name="Local" value="Classes/Cylinder/CylinderGaugeAxis/CylinderGaugeAxis.getLabelset.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="CylinderGaugeAxis.LabelsMode">
+            <param name="Local" value="Classes/Cylinder/CylinderGaugeAxis/CylinderGaugeAxis.LabelsMode.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="CylinderGaugeAxis.getMajorTicks">
+            <param name="Local" value="Classes/Cylinder/CylinderGaugeAxis/CylinderGaugeAxis.getMajorTicks.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="CylinderGaugeAxis.MajorTicksCount">
+            <param name="Local" value="Classes/Cylinder/CylinderGaugeAxis/CylinderGaugeAxis.getMajorTicksCount.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="CylinderGaugeAxis.Max">
+            <param name="Local" value="Classes/Cylinder/CylinderGaugeAxis/CylinderGaugeAxis.Max.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="CylinderGaugeAxis.Min">
+            <param name="Local" value="Classes/Cylinder/CylinderGaugeAxis/CylinderGaugeAxis.getMin.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="CylinderGaugeAxis.getMinorTicks">
+            <param name="Local" value="Classes/Cylinder/CylinderGaugeAxis/CylinderGaugeAxis.getMinorTicks.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="CylinderGaugeAxis.ParentCylinder">
+            <param name="Local" value="Classes/Cylinder/CylinderGaugeAxis/CylinderGaugeAxis.ParentCylinder.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="CylinderGaugeAxis.getUnit">
+            <param name="Local" value="Classes/Cylinder/CylinderGaugeAxis/CylinderGaugeAxis.getUnit.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="CylinderGaugeAxis.getValuePoint">
+            <param name="Local" value="Classes/Cylinder/CylinderGaugeAxis/CylinderGaugeAxis.getValuePoint.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="CylinderGaugeAxis.ValuesMode">
+            <param name="Local" value="Classes/Cylinder/CylinderGaugeAxis/CylinderGaugeAxis.ValuesMode.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="CylinderGaugeAxis.redraw">
+            <param name="Local" value="Classes/Cylinder/CylinderGaugeAxis/CylinderGaugeAxis.redraw.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="CylinderGaugeAxis.setValuesByMinAndMax">
+            <param name="Local" value="Classes/Cylinder/CylinderGaugeAxis/CylinderGaugeAxis.setValuesByMinAndMax.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="AxisTick">
+          <param name="Local" value="Classes/Cylinder/AxisTick/AxisTick.htm#642b3b9347ca42c9b00b820c00c373fa=1">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Конструктор AxisTick">
+            <param name="Local" value="Classes/Cylinder/AxisTick/Constructor_AxisTick.htm#642b3b9347ca42c9b00b820c00c373fa=1">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="AxisTick.clear">
+            <param name="Local" value="Classes/Cylinder/AxisTick/AxisTick.clear.htm#642b3b9347ca42c9b00b820c00c373fa=1">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="AxisTick.redraw">
+            <param name="Local" value="Classes/Cylinder/AxisTick/AxisTick.redraw.htm#642b3b9347ca42c9b00b820c00c373fa=1">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="AxisTick.setPosition">
+            <param name="Local" value="Classes/Cylinder/AxisTick/AxisTick.setPosition.htm#642b3b9347ca42c9b00b820c00c373fa=1">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="AxisTick.setTickStyle">
+            <param name="Local" value="Classes/Cylinder/AxisTick/AxisTick.setTickStyle.htm#642b3b9347ca42c9b00b820c00c373fa=1">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="CylinderGaugeAxis">
+        <param name="Local" value="Classes/Cylinder/CylinderGaugeAxis/CylinderGaugeAxis.htm#642b3b9347ca42c9b00b820c00c373fa=1">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Конструктор CylinderGaugeAxis">
+          <param name="Local" value="Classes/Cylinder/CylinderGaugeAxis/Constructor_CylinderGaugeAxis.htm#642b3b9347ca42c9b00b820c00c373fa=1">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="CylinderGaugeAxis.autoCalcLabels">
+          <param name="Local" value="Classes/Cylinder/CylinderGaugeAxis/CylinderGaugeAxis.autoCalcLabels.htm#642b3b9347ca42c9b00b820c00c373fa=1">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="CylinderGaugeAxis.AxisUnits">
+          <param name="Local" value="Classes/Cylinder/CylinderGaugeAxis/CylinderGaugeAxis.AxisUnits.htm#642b3b9347ca42c9b00b820c00c373fa=1">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="CylinderGaugeAxis.calcValuesByMode">
+          <param name="Local" value="Classes/Cylinder/CylinderGaugeAxis/CylinderGaugeAxis.calcValuesByMode.htm#642b3b9347ca42c9b00b820c00c373fa=1">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="CylinderGaugeAxis.clear">
+          <param name="Local" value="Classes/Cylinder/CylinderGaugeAxis/CylinderGaugeAxis.clear.htm#642b3b9347ca42c9b00b820c00c373fa=1">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="CylinderGaugeAxis.draw">
+          <param name="Local" value="Classes/Cylinder/CylinderGaugeAxis/CylinderGaugeAxis.draw.htm#642b3b9347ca42c9b00b820c00c373fa=1">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="CylinderGaugeAxis.getLabelset">
+          <param name="Local" value="Classes/Cylinder/CylinderGaugeAxis/CylinderGaugeAxis.getLabelset.htm#642b3b9347ca42c9b00b820c00c373fa=1">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="CylinderGaugeAxis.getMajorTicks">
+          <param name="Local" value="Classes/Cylinder/CylinderGaugeAxis/CylinderGaugeAxis.getMajorTicks.htm#642b3b9347ca42c9b00b820c00c373fa=1">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="CylinderGaugeAxis.getMinorTicks">
+          <param name="Local" value="Classes/Cylinder/CylinderGaugeAxis/CylinderGaugeAxis.getMinorTicks.htm#642b3b9347ca42c9b00b820c00c373fa=1">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="CylinderGaugeAxis.getUnit">
+          <param name="Local" value="Classes/Cylinder/CylinderGaugeAxis/CylinderGaugeAxis.getUnit.htm#642b3b9347ca42c9b00b820c00c373fa=1">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="CylinderGaugeAxis.getValuePoint">
+          <param name="Local" value="Classes/Cylinder/CylinderGaugeAxis/CylinderGaugeAxis.getValuePoint.htm#642b3b9347ca42c9b00b820c00c373fa=1">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="CylinderGaugeAxis.Labels">
+          <param name="Local" value="Classes/Cylinder/CylinderGaugeAxis/CylinderGaugeAxis.Labels.htm#642b3b9347ca42c9b00b820c00c373fa=1">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="CylinderGaugeAxis.LabelsMode">
+          <param name="Local" value="Classes/Cylinder/CylinderGaugeAxis/CylinderGaugeAxis.LabelsMode.htm#642b3b9347ca42c9b00b820c00c373fa=1">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="CylinderGaugeAxis.LabelStyle">
+          <param name="Local" value="Classes/Cylinder/CylinderGaugeAxis/CylinderGaugeAxis.LabelStyle.htm#642b3b9347ca42c9b00b820c00c373fa=1">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="CylinderGaugeAxis.MajorTicksCount">
+          <param name="Local" value="Classes/Cylinder/CylinderGaugeAxis/CylinderGaugeAxis.getMajorTicksCount.htm#642b3b9347ca42c9b00b820c00c373fa=1">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="CylinderGaugeAxis.MajorTickStyle">
+          <param name="Local" value="Classes/Cylinder/CylinderGaugeAxis/CylinderGaugeAxis.MajorTickStyle.htm#642b3b9347ca42c9b00b820c00c373fa=1">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="CylinderGaugeAxis.Max">
+          <param name="Local" value="Classes/Cylinder/CylinderGaugeAxis/CylinderGaugeAxis.Max.htm#642b3b9347ca42c9b00b820c00c373fa=1">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="CylinderGaugeAxis.Min">
+          <param name="Local" value="Classes/Cylinder/CylinderGaugeAxis/CylinderGaugeAxis.getMin.htm#642b3b9347ca42c9b00b820c00c373fa=1">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="CylinderGaugeAxis.MinorTicksStep">
+          <param name="Local" value="Classes/Cylinder/CylinderGaugeAxis/CylinderGaugeAxis.MinorTicksStep.htm#642b3b9347ca42c9b00b820c00c373fa=1">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="CylinderGaugeAxis.MinorTickStyle">
+          <param name="Local" value="Classes/Cylinder/CylinderGaugeAxis/CylinderGaugeAxis.MinorTickStyle.htm#642b3b9347ca42c9b00b820c00c373fa=1">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="CylinderGaugeAxis.ParentCylinder">
+          <param name="Local" value="Classes/Cylinder/CylinderGaugeAxis/CylinderGaugeAxis.ParentCylinder.htm#642b3b9347ca42c9b00b820c00c373fa=1">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="CylinderGaugeAxis.Position">
+          <param name="Local" value="Classes/Cylinder/CylinderGaugeAxis/CylinderGaugeAxis.Position.htm#642b3b9347ca42c9b00b820c00c373fa=1">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="CylinderGaugeAxis.redraw">
+          <param name="Local" value="Classes/Cylinder/CylinderGaugeAxis/CylinderGaugeAxis.redraw.htm#642b3b9347ca42c9b00b820c00c373fa=1">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="CylinderGaugeAxis.setValuesByMinAndMax">
+          <param name="Local" value="Classes/Cylinder/CylinderGaugeAxis/CylinderGaugeAxis.setValuesByMinAndMax.htm#642b3b9347ca42c9b00b820c00c373fa=1">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="CylinderGaugeAxis.ShowMajorTicks">
+          <param name="Local" value="Classes/Cylinder/CylinderGaugeAxis/CylinderGaugeAxis.ShowMajorTicks.htm#642b3b9347ca42c9b00b820c00c373fa=1">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="CylinderGaugeAxis.ShowMinorTicks">
+          <param name="Local" value="Classes/Cylinder/CylinderGaugeAxis/CylinderGaugeAxis.ShowMinorTicks.htm#642b3b9347ca42c9b00b820c00c373fa=1">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="CylinderGaugeAxis.ShowUnitsForEachValue">
+          <param name="Local" value="Classes/Cylinder/CylinderGaugeAxis/CylinderGaugeAxis.ShowUnitsForEachValue.htm#642b3b9347ca42c9b00b820c00c373fa=1">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="CylinderGaugeAxis.Values">
+          <param name="Local" value="Classes/Cylinder/CylinderGaugeAxis/CylinderGaugeAxis.Values.htm#642b3b9347ca42c9b00b820c00c373fa=1">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="CylinderGaugeAxis.ValuesMode">
+          <param name="Local" value="Classes/Cylinder/CylinderGaugeAxis/CylinderGaugeAxis.ValuesMode.htm#642b3b9347ca42c9b00b820c00c373fa=1">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="CylinderGaugeValue">
+        <param name="Local" value="Classes/Cylinder/CylinderGaugeValue/CylinderGaugeValue.htm#642b3b9347ca42c9b00b820c00c373fa=1">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Конструктор CylinderGaugeValue">
+          <param name="Local" value="Classes/Cylinder/CylinderGaugeValue/Constructor_CylinderGaugeValue.htm#642b3b9347ca42c9b00b820c00c373fa=1">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="CylinderGaugeValue.checkValue">
+          <param name="Local" value="Classes/Cylinder/CylinderGaugeValue/CylinderGaugeValue.checkValue.htm#642b3b9347ca42c9b00b820c00c373fa=1">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="CylinderGaugeValue.draw">
+          <param name="Local" value="Classes/Cylinder/CylinderGaugeValue/CylinderGaugeValue.draw.htm#642b3b9347ca42c9b00b820c00c373fa=1">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="CylinderGaugeValue.Fill">
+          <param name="Local" value="Classes/Cylinder/CylinderGaugeValue/CylinderGaugeValue.Fill.htm#642b3b9347ca42c9b00b820c00c373fa=1">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="CylinderGaugeValue.getColumn">
+          <param name="Local" value="Classes/Cylinder/CylinderGaugeValue/CylinderGaugeValue.getColumn.htm#642b3b9347ca42c9b00b820c00c373fa=1">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="CylinderGaugeValue.getEventNode">
+          <param name="Local" value="Classes/Cylinder/CylinderGaugeValue/CylinderGaugeValue.getEventNode.htm#642b3b9347ca42c9b00b820c00c373fa=1">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="CylinderGaugeValue.getUp">
+          <param name="Local" value="Classes/Cylinder/CylinderGaugeValue/CylinderGaugeValue.getUp.htm#642b3b9347ca42c9b00b820c00c373fa=1">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="CylinderGaugeValue.getUpGlare">
+          <param name="Local" value="Classes/Cylinder/CylinderGaugeValue/CylinderGaugeValue.getUpGlare.htm#642b3b9347ca42c9b00b820c00c373fa=1">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="CylinderGaugeValue.ParentAxis">
+          <param name="Local" value="Classes/Cylinder/CylinderGaugeValue/CylinderGaugeValue.ParentAxis.htm#642b3b9347ca42c9b00b820c00c373fa=1">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="CylinderGaugeValue.redraw">
+          <param name="Local" value="Classes/Cylinder/CylinderGaugeValue/CylinderGaugeValue.redraw.htm#642b3b9347ca42c9b00b820c00c373fa=1">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="CylinderGaugeValue.StartValue">
+          <param name="Local" value="Classes/Cylinder/CylinderGaugeValue/CylinderGaugeValue.StartValue.htm#642b3b9347ca42c9b00b820c00c373fa=1">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="CylinderGaugeValue.UpFill">
+          <param name="Local" value="Classes/Cylinder/CylinderGaugeValue/CylinderGaugeValue.UpFill.htm#642b3b9347ca42c9b00b820c00c373fa=1">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="CylinderHeader">
+        <param name="Local" value="Classes/Cylinder/CylinderHeader/CylinderHeader.htm#642b3b9347ca42c9b00b820c00c373fa=1">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Конструктор CylinderHeader">
+          <param name="Local" value="Classes/Cylinder/CylinderHeader/Constructor_CylinderHeader.htm#642b3b9347ca42c9b00b820c00c373fa=1">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="CylinderHeader.HorizontalAlign">
+          <param name="Local" value="Classes/Cylinder/CylinderHeader/CylinderHeader.HorizontalAlign.htm#642b3b9347ca42c9b00b820c00c373fa=1">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="CylinderHeader.ParentCylinder">
+          <param name="Local" value="Classes/Cylinder/CylinderHeader/CylinderHeader.ParentCylinder.htm#642b3b9347ca42c9b00b820c00c373fa=1">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="CylinderHeader.redraw">
+          <param name="Local" value="Classes/Cylinder/CylinderHeader/CylinderHeader.redraw.htm#642b3b9347ca42c9b00b820c00c373fa=1">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="CylinderHeader.Shadow">
+          <param name="Local" value="Classes/Cylinder/CylinderHeader/CylinderHeader.Shadow.htm#642b3b9347ca42c9b00b820c00c373fa=1">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="CylinderHeader.VerticalAlign">
+          <param name="Local" value="Classes/Cylinder/CylinderHeader/CylinderHeader.VerticalAlign.htm#642b3b9347ca42c9b00b820c00c373fa=1">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="CylinderTrend">
+        <param name="Local" value="Classes/Cylinder/CylinderTrend/CylinderTrend.htm#642b3b9347ca42c9b00b820c00c373fa=1">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Конструктор CylinderTrend">
+          <param name="Local" value="Classes/Cylinder/CylinderTrend/Constructor_CylinderTrend.htm#642b3b9347ca42c9b00b820c00c373fa=1">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="CylinderTrend.Color">
+          <param name="Local" value="Classes/Cylinder/CylinderTrend/CylinderTrend.Color.htm#642b3b9347ca42c9b00b820c00c373fa=1">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="CylinderTrend.draw">
+          <param name="Local" value="Classes/Cylinder/CylinderTrend/CylinderTrend.draw.htm#642b3b9347ca42c9b00b820c00c373fa=1">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="CylinderTrend.getLabel">
+          <param name="Local" value="Classes/Cylinder/CylinderTrend/CylinderTrend.getLabel.htm#642b3b9347ca42c9b00b820c00c373fa=1">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="CylinderTrend.LabelStyle">
+          <param name="Local" value="Classes/Cylinder/CylinderTrend/CylinderTrend.LabelStyle.htm#642b3b9347ca42c9b00b820c00c373fa=1">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="CylinderTrend.Length">
+          <param name="Local" value="Classes/Cylinder/CylinderTrend/CylinderTrend.Length.htm#642b3b9347ca42c9b00b820c00c373fa=1">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="CylinderTrend.LineStyle">
+          <param name="Local" value="Classes/Cylinder/CylinderTrend/CylinderTrend.LineStyle.htm#642b3b9347ca42c9b00b820c00c373fa=1">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="CylinderTrend.redraw">
+          <param name="Local" value="Classes/Cylinder/CylinderTrend/CylinderTrend.redraw.htm#642b3b9347ca42c9b00b820c00c373fa=1">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="DataMapping">
+        <param name="Local" value="Classes/PP/DataMapping/DataMapping.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Конструктор DataMapping">
+          <param name="Local" value="Classes/PP/DataMapping/Constructor_DataMapping.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="DataMapping.AutoSetup">
+          <param name="Local" value="Classes/PP/DataMapping/DataMapping.AutoSetup.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="DataMapping.DataSource">
+          <param name="Local" value="Classes/PP/DataMapping/DataMapping.DataSource.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="DataMapping.DataTransformer">
+          <param name="Local" value="Classes/PP/DataMapping/DataMapping.DataTransformer.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="DataMapping.DimAttributeId">
+          <param name="Local" value="Classes/PP/DataMapping/DataMapping.DimAttributeId.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="DataMapping.Format">
+          <param name="Local" value="Classes/PP/DataMapping/DataMapping.Format.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="DataMapping.Index">
+          <param name="Local" value="Classes/PP/DataMapping/DataMapping.Index.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="DataMapping.Scale">
+          <param name="Local" value="Classes/PP/DataMapping/DataMapping.Scale.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="DataMapping.Type">
+          <param name="Local" value="Classes/PP/DataMapping/DataMapping.Type.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="DataMapping.Value">
+          <param name="Local" value="Classes/PP/DataMapping/DataMapping.Value.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="DataMapping.getData">
+          <param name="Local" value="Classes/PP/DataMapping/DataMapping.getData.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="DataMapping.getDataSourceItem">
+          <param name="Local" value="Classes/PP/DataMapping/DataMapping.getDataSourceItem.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="DataMapping.setup">
+          <param name="Local" value="Classes/PP/DataMapping/DataMapping.setup.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="DataMapping.transformDataSourceItem">
+          <param name="Local" value="Classes/PP/DataMapping/DataMapping.transformDataSourceItem.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="DataSource">
+        <param name="Local" value="Classes/PP/DataSource/DataSource.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Конструктор DataSource">
+          <param name="Local" value="Classes/PP/DataSource/Constructor_DataSource.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="DataSource.AttributeName">
+          <param name="Local" value="Classes/PP/DataSource/DataSource.AttributeName.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="DataSource.AttributesNames">
+          <param name="Local" value="Classes/PP/DataSource/DataSource.AttributesNames.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="DataSource.Data">
+          <param name="Local" value="Classes/PP/DataSource/DataSource.Data.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="DataSource.ItemName">
+          <param name="Local" value="Classes/PP/DataSource/DataSource.ItemName.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="DataSource.ItemsNames">
+          <param name="Local" value="Classes/PP/DataSource/DataSource.ItemsNames.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="DataSource.Title">
+          <param name="Local" value="Classes/PP/DataSource/DataSource.Title.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="DataSource.DataChanged">
+          <param name="Local" value="Classes/PP/DataSource/DataSource.DataChanged.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="DataSource.add">
+          <param name="Local" value="Classes/PP/DataSource/DataSource.add.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="DataSource.clear">
+          <param name="Local" value="Classes/PP/DataSource/DataSource.clear.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="DataSource.getAttributeData">
+          <param name="Local" value="Classes/PP/DataSource/DataSource.getAttributeData.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="DataSource.loadData">
+          <param name="Local" value="Classes/PP/DataSource/DataSource.loadData.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="DataSource.getFirstNotNullData">
+          <param name="Local" value="Classes/PP/DataSource/DataSource.getFirstNotNullData.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="DataSource.getMaxIndexData">
+          <param name="Local" value="Classes/PP/DataSource/DataSource.getMaxIndexData.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="DataSource.getSeries">
+          <param name="Local" value="Classes/PP/DataSource/DataSource.getSeries.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="DataSource.getSeriesCount">
+          <param name="Local" value="Classes/PP/DataSource/DataSource.getSeriesCount.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="DataSource.getTimeAxis">
+          <param name="Local" value="Classes/PP/DataSource/DataSource.getTimeAxis.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="DataSource.hasItem">
+          <param name="Local" value="Classes/PP/DataSource/DataSource.hasItem.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="DataSource.remove">
+          <param name="Local" value="Classes/PP/DataSource/DataSource.remove.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="DataSource.isIndexLoaded">
+          <param name="Local" value="Classes/PP/DataSource/DataSource.isIndexLoaded.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="HighlightEffect">
+        <param name="Local" value="Classes/HighlightEffect/HighlightEffect.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Конструктор HighlightEffect">
+          <param name="Local" value="Classes/HighlightEffect/HighlightEffect_constructor.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="HighlightEffect.AOffset">
+          <param name="Local" value="Classes/HighlightEffect/HighlightEffect.AOffset.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="HighlightEffect.BOffset">
+          <param name="Local" value="Classes/HighlightEffect/HighlightEffect.BOffset.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="HighlightEffect.GOffset">
+          <param name="Local" value="Classes/HighlightEffect/HighlightEffect.GOffset.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="HighlightEffect.ROffset">
+          <param name="Local" value="Classes/HighlightEffect/HighlightEffect.ROffset.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="HighlightEffect.apply">
+          <param name="Local" value="Classes/HighlightEffect/HighlightEffect.apply.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IntervalsLegend">
+        <param name="Local" value="Classes/IntervalsLegend/IntervalsLegend.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Конструктор IntervalsLegend">
+          <param name="Local" value="Classes/IntervalsLegend/Constructor_IntervalsLegend.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IntervalsLegend.AllowMultipleSelection">
+          <param name="Local" value="Classes/IntervalsLegend/IntervalsLegend.AllowMultipleSelection.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IntervalsLegend.AutoColumnsCount">
+          <param name="Local" value="Classes/IntervalsLegend/IntervalsLegend.AutoColumnsCount.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IntervalsLegend.CellAutoColor">
+          <param name="Local" value="Classes/IntervalsLegend/IntervalsLegend.CellAutoColor.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IntervalsLegend.CellBorder">
+          <param name="Local" value="Classes/IntervalsLegend/IntervalsLegend.CellBorder.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IntervalsLegend.CellPadding">
+          <param name="Local" value="Classes/IntervalsLegend/IntervalsLegend.CellPadding.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IntervalsLegend.CellSpacing">
+          <param name="Local" value="Classes/IntervalsLegend/IntervalsLegend.CellSpacing.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IntervalsLegend.ColorApplying">
+          <param name="Local" value="Classes/IntervalsLegend/IntervalsLegend.ColorApplying.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IntervalsLegend.ColumnCount">
+          <param name="Local" value="Classes/IntervalsLegend/IntervalsLegend.ColumnsCount.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IntervalsLegend.CurrentPage">
+          <param name="Local" value="Classes/IntervalsLegend/IntervalsLegend.CurrentPage.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IntervalsLegend.Descending">
+          <param name="Local" value="Classes/IntervalsLegend/IntervalsLegend.Descending.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IntervalsLegend.getColumnCount">
+          <param name="Local" value="Classes/IntervalsLegend/IntervalsLegend.getColumnCount.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IntervalsLegend.getSelectedItemsIndexes">
+          <param name="Local" value="Classes/IntervalsLegend/IntervalsLegend.getSelectedItemsIndexes.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IntervalsLegend.IncludeEquals">
+          <param name="Local" value="Classes/IntervalsLegend/IntervalsLegend.IncludeEquals.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IntervalsLegend.ItemHovered">
+          <param name="Local" value="Classes/IntervalsLegend/IntervalsLegend.ItemHovered.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IntervalsLegend.Items">
+          <param name="Local" value="Classes/IntervalsLegend/IntervalsLegend.Items.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IntervalsLegend.ItemsOrder">
+          <param name="Local" value="Classes/IntervalsLegend/IntervalsLegend.ItemsOrder.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IntervalsLegend.Marker">
+          <param name="Local" value="Classes/IntervalsLegend/IntervalsLegend.Marker.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IntervalsLegend.MarkersAtRight">
+          <param name="Local" value="Classes/IntervalsLegend/IntervalsLegend.MarkersAtRight.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IntervalsLegend.MaxHeaderWidth">
+          <param name="Local" value="Classes/IntervalsLegend/IntervalsLegend.MaxHeaderWidth.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IntervalsLegend.MaxHeight">
+          <param name="Local" value="Classes/IntervalsLegend/IntervalsLegend.MaxHeight.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IntervalsLegend.MaxWidth">
+          <param name="Local" value="Classes/IntervalsLegend/IntervalsLegend.MaxWidth.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IntervalsLegend.Mode">
+          <param name="Local" value="Classes/IntervalsLegend/IntervalsLegend.Mode.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IntervalsLegend.PageMode">
+          <param name="Local" value="Classes/IntervalsLegend/IntervalsLegend.PageMode.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IntervalsLegend.Selected">
+          <param name="Local" value="Classes/IntervalsLegend/IntervalsLegend.Selected.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IntervalsLegend.Selecting">
+          <param name="Local" value="Classes/IntervalsLegend/IntervalsLegend.Selecting.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IntervalsLegend.TextHorizontalAlignment">
+          <param name="Local" value="Classes/IntervalsLegend/IntervalsLegend.TextHorizontalAlignment.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IntervalsLegend.TextSpacing">
+          <param name="Local" value="Classes/IntervalsLegend/IntervalsLegend.TextSpacing.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="LegendBase">
+        <param name="Local" value="Classes/LegendBase/LegendBase.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Конструктор LegendBase">
+          <param name="Local" value="Classes/LegendBase/Constructor_LegendBase.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="LegendBase.ContentAlignment">
+          <param name="Local" value="Classes/LegendBase/LegendBase.ContentAlignment.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="LegendBase.Footer">
+          <param name="Local" value="Classes/LegendBase/LegendBase.Footer.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="LegendBase.FooterLine">
+          <param name="Local" value="Classes/LegendBase/LegendBase.FooterLine.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="LegendBase.Format">
+          <param name="Local" value="Classes/LegendBase/LegendBase.Format.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="LegendBase.Header">
+          <param name="Local" value="Classes/LegendBase/LegendBase.Header.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="LegendBase.HeaderLine">
+          <param name="Local" value="Classes/LegendBase/LegendBase.HeaderLine.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="LegendBase.IsOuter">
+          <param name="Local" value="Classes/LegendBase/LegendBase.IsOuter.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="LegendBase.IsOverlap">
+          <param name="Local" value="Classes/LegendBase/LegendBase.IsOverlap.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="LegendBase.Scale">
+          <param name="Local" value="Classes/LegendBase/LegendBase.Scale.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="LegendBase.TextWrapping">
+          <param name="Local" value="Classes/LegendBase/LegendBase.TextWrapping.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="LegendBase.Type">
+          <param name="Local" value="Classes/LegendBase/LegendBase.Type.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="LegendBase.HeaderClicked">
+          <param name="Local" value="Classes/LegendBase/LegendBase.HeaderClicked.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="LegendBase.Visibility">
+          <param name="Local" value="Classes/LegendBase/LegendBase.Visibility.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="LegendHeader">
+        <param name="Local" value="Classes/LegendHeader/LegendHeader.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Конструктор LegendHeader">
+          <param name="Local" value="Classes/LegendHeader/Constructor_LegendHeader.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="LegendToolTip">
+        <param name="Local" value="Classes/LegendToolTip/LegendToolTip.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Конструктор LegendToolTip">
+          <param name="Local" value="Classes/LegendToolTip/Constructor_LegendToolTip.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="LegendToolTip.LTRB">
+          <param name="Local" value="Classes/LegendToolTip/LegendToolTip.LTRB.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="LegendToolTip.MaskText">
+          <param name="Local" value="Classes/LegendToolTip/LegendToolTip.MaskText.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="LegendToolTip.Padding">
+          <param name="Local" value="Classes/LegendToolTip/LegendToolTip.Padding.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="LegendToolTip.TextWrapping">
+          <param name="Local" value="Classes/LegendToolTip/LegendToolTip.TextWrapping.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="LegendToolTip.draw">
+          <param name="Local" value="Classes/LegendToolTip/LegendToolTip.draw.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="LegendToolTip.setCoords">
+          <param name="Local" value="Classes/LegendToolTip/LegendToolTip.setCoords.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="LegendToolTip.setMargin">
+          <param name="Local" value="Classes/LegendToolTip/LegendToolTip.setMargin.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="MapMaster.LegendPanel">
+        <param name="Local" value="Classes/LegendPanel/MapMaster.LegendPanel.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapMaster.LegendPanel.SettingChanged">
+          <param name="Local" value="Classes/LegendPanel/MapMaster.LegendPanel.SettingChanged.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Matrix4">
+        <param name="Local" value="Classes/PP/Matrix4/Matrix4.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Matrix4.calcNormMatrix">
+          <param name="Local" value="Classes/PP/Matrix4/Matrix4.calcNormMatrix.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Matrix4.Data">
+          <param name="Local" value="Classes/PP/Matrix4/Matrix4.Data.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Matrix4.invert">
+          <param name="Local" value="Classes/PP/Matrix4/Matrix4.invert.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Matrix4.mult">
+          <param name="Local" value="Classes/PP/Matrix4/Matrix4.mult.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Matrix4.rotate">
+          <param name="Local" value="Classes/PP/Matrix4/Matrix4.rotate.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Matrix4.scale">
+          <param name="Local" value="Classes/PP/Matrix4/Matrix4.scale.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Matrix4.setIdentity">
+          <param name="Local" value="Classes/PP/Matrix4/Matrix4.setIdentity.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Matrix4.setOrtho">
+          <param name="Local" value="Classes/PP/Matrix4/Matrix4.setOrtho.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Matrix4.setPerspective">
+          <param name="Local" value="Classes/PP/Matrix4/Matrix4.setPerspective.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Matrix4.translate">
+          <param name="Local" value="Classes/PP/Matrix4/Matrix4.translate.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Matrix4.transpose">
+          <param name="Local" value="Classes/PP/Matrix4/Matrix4.transpose.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="MiniMap">
+        <param name="Local" value="Classes/MiniMap/MiniMap.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Конструктор MiniMap">
+          <param name="Local" value="Classes/MiniMap/Constructor_MiniMap.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MiniMap.ButtonsHeight">
+          <param name="Local" value="Classes/MiniMap/MiniMap.ButtonsHeight.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MiniMap.Control">
+          <param name="Local" value="Classes/MiniMap/MiniMap.Control.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MiniMap.FrameStyle">
+          <param name="Local" value="Classes/MiniMap/MiniMap.FrameStyle.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MiniMap.KeepProportions">
+          <param name="Local" value="Classes/MiniMap/MiniMap.KeepProportions.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MiniMap.ShowButtons">
+          <param name="Local" value="Classes/MiniMap/MiniMap.ShowButtons.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MiniMap.ShowMap">
+          <param name="Local" value="Classes/MiniMap/MiniMap.ShowMap.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MiniMap.getResetButton">
+          <param name="Local" value="Classes/MiniMap/MiniMap.getResetButton.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MiniMap.getZoomInButton">
+          <param name="Local" value="Classes/MiniMap/MiniMap.getZoomInButton.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MiniMap.getZoomOutButton">
+          <param name="Local" value="Classes/MiniMap/MiniMap.getZoomOutButton.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MiniMap.getViewArea">
+          <param name="Local" value="Classes/MiniMap/MiniMap.getViewArea.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MiniMap.KeepInitialBounds">
+          <param name="Local" value="Classes/MiniMap/MiniMap.KeepInitialBounds.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Pen">
+        <param name="Local" value="Classes/Pen/Pen.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Конструктор Pen">
+          <param name="Local" value="Classes/Pen/Constructor_Pen.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Pen.applyToNode">
+          <param name="Local" value="Classes/Pen/Pen.applyToNode.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Pen.Color">
+          <param name="Local" value="Classes/Pen/Pen.Color.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Pen.Opacity">
+          <param name="Local" value="Classes/Pen/Pen.Opacity.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Pen.Style">
+          <param name="Local" value="Classes/Pen/Pen.Style.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Pen.toSVGFormat">
+          <param name="Local" value="Classes/Pen/Pen.toSVGFormat.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Pen.Width">
+          <param name="Local" value="Classes/Pen/Pen.Width.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="PlacedControlBase">
+        <param name="Local" value="Classes/PlacedControlBase/PlacedControlBase.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Конструктор PlacedControlBase">
+          <param name="Local" value="Classes/PlacedControlBase/Constructor_PlacedControlBase.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="PlacedControlBase.Background">
+          <param name="Local" value="Classes/PlacedControlBase/PlacedControlBase.Background.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="PlacedControlBase.Border">
+          <param name="Local" value="Classes/PlacedControlBase/PlacedControlBase.Border.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="PlacedControlBase.Font">
+          <param name="Local" value="Classes/PlacedControlBase/PlacedControlBase.Font.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="PlacedControlBase.HorizontalAlignment">
+          <param name="Local" value="Classes/PlacedControlBase/PlacedControlBase.HorizontalAlignment.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="PlacedControlBase.Margin">
+          <param name="Local" value="Classes/PlacedControlBase/PlacedControlBase.Margin.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="PlacedControlBase.Padding">
+          <param name="Local" value="Classes/PlacedControlBase/PlacedControlBase.Padding.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="PlacedControlBase.VerticalAlignment">
+          <param name="Local" value="Classes/PlacedControlBase/PlacedControlBase.VerticalAlignment.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="PlacedControlBase.contains">
+          <param name="Local" value="Classes/PlacedControlBase/PlacedControlBase.contains.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="PlacedControlBase.draw">
+          <param name="Local" value="Classes/PlacedControlBase/PlacedControlBase.draw.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="PlacedControlBase.getRealHeight">
+          <param name="Local" value="Classes/PlacedControlBase/PlacedControlBase.getRealHeight.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="PlacedControlBase.getRealWidth">
+          <param name="Local" value="Classes/PlacedControlBase/PlacedControlBase.getRealWidth.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Projection">
+        <param name="Local" value="Classes/PP/Projection/Projection.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Конструктор Projection">
+          <param name="Local" value="Classes/PP/Projection/Constructor_Projection.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Projection.getRay">
+          <param name="Local" value="Classes/PP/Projection/Projection.getRay.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Projection.project">
+          <param name="Local" value="Classes/PP/Projection/Projection.project.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Projection.unProject">
+          <param name="Local" value="Classes/PP/Projection/Projection.unProject.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Projection.getFrustum">
+          <param name="Local" value="Classes/PP/Projection/Projection.getFrustum.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Projection.rotate">
+          <param name="Local" value="Classes/PP/Projection/Projection.rotate.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Projection.ortho">
+          <param name="Local" value="Classes/PP/Projection/Projection.ortho.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Projection.perspective">
+          <param name="Local" value="Classes/PP/Projection/Projection.perspective.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Projection.scale">
+          <param name="Local" value="Classes/PP/Projection/Projection.scale.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Projection.translate">
+          <param name="Local" value="Classes/PP/Projection/Projection.translate.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Projection.setModelMatrix">
+          <param name="Local" value="Classes/PP/Projection/Projection.setModelMatrix.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="ScaleBase">
+        <param name="Local" value="Classes/PP/ScaleBase/ScaleBase.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Конструктор ScaleBase">
+          <param name="Local" value="Classes/PP/ScaleBase/constructor_scalebase.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ScaleBase.ActiveItems">
+          <param name="Local" value="Classes/PP/ScaleBase/ScaleBase.ActiveItems.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ScaleBase.addItem">
+          <param name="Local" value="Classes/PP/ScaleBase/ScaleBase.addItem.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ScaleBase.addValue">
+          <param name="Local" value="Classes/PP/ScaleBase/ScaleBase.addValue.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ScaleBase.AutoCalculable">
+          <param name="Local" value="Classes/PP/ScaleBase/ScaleBase.AutoCalculable.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ScaleBase.between">
+          <param name="Local" value="Classes/PP/ScaleBase/ScaleBase.between.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ScaleBase.clearItems">
+          <param name="Local" value="Classes/PP/ScaleBase/ScaleBase.clearItems.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ScaleBase.clearValues">
+          <param name="Local" value="Classes/PP/ScaleBase/ScaleBase.clearValues.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ScaleBase.constructScaleElements">
+          <param name="Local" value="Classes/PP/ScaleBase/ScaleBase.constructScaleElements.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ScaleBase.EnableEquality">
+          <param name="Local" value="Classes/PP/ScaleBase/ScaleBase.EnableEquality.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ScaleBase.equal">
+          <param name="Local" value="Classes/PP/ScaleBase/ScaleBase.equal.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ScaleBase.First">
+          <param name="Local" value="Classes/PP/ScaleBase/ScaleBase.First.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ScaleBase.getCount">
+          <param name="Local" value="Classes/PP/ScaleBase/ScaleBase.getCount.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ScaleBase.getItemsCount">
+          <param name="Local" value="Classes/PP/ScaleBase/ScaleBase.getItemsCount.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ScaleBase.getItemValue">
+          <param name="Local" value="Classes/PP/ScaleBase/ScaleBase.getItemValue.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ScaleBase.getValuesPair">
+          <param name="Local" value="Classes/PP/ScaleBase/ScaleBase.getValuesPair.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ScaleBase.greater">
+          <param name="Local" value="Classes/PP/ScaleBase/ScaleBase.greater.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ScaleBase.InactiveItem">
+          <param name="Local" value="Classes/PP/ScaleBase/ScaleBase.InactiveItem.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ScaleBase.IntervalsCount">
+          <param name="Local" value="Classes/PP/ScaleBase/ScaleBase.IntervalsCount.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ScaleBase.Item">
+          <param name="Local" value="Classes/PP/ScaleBase/ScaleBase.Item.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ScaleBase.Items">
+          <param name="Local" value="Classes/PP/ScaleBase/ScaleBase.Items.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ScaleBase.ItemsChanged">
+          <param name="Local" value="Classes/PP/ScaleBase/ScaleBase.ItemsChanged.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ScaleBase.ItemsChanging">
+          <param name="Local" value="Classes/PP/ScaleBase/ScaleBase.ItemsChanging.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ScaleBase.ItemsMode">
+          <param name="Local" value="Classes/PP/ScaleBase/ScaleBase.ItemsMode.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ScaleBase.Last">
+          <param name="Local" value="Classes/PP/ScaleBase/ScaleBase.Last.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ScaleBase.less">
+          <param name="Local" value="Classes/PP/ScaleBase/ScaleBase.less.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ScaleBase.LogarithmBase">
+          <param name="Local" value="Classes/PP/ScaleBase/ScaleBase.LogarithmBase.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ScaleBase.MaxIntervals">
+          <param name="Local" value="Classes/PP/ScaleBase/ScaleBase.MaxIntervals.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ScaleBase.MaxValue">
+          <param name="Local" value="Classes/PP/ScaleBase/ScaleBase.MaxValue.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ScaleBase.MinValue">
+          <param name="Local" value="Classes/PP/ScaleBase/ScaleBase.MinValue.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ScaleBase.Mode">
+          <param name="Local" value="Classes/PP/ScaleBase/ScaleBase.Mode.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ScaleBase.NoData">
+          <param name="Local" value="Classes/PP/ScaleBase/ScaleBase.NoData.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ScaleBase.RecalcValues">
+          <param name="Local" value="Classes/PP/ScaleBase/ScaleBase.RecalcValues.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ScaleBase.removeItemAt">
+          <param name="Local" value="Classes/PP/ScaleBase/ScaleBase.removeItemAt.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ScaleBase.removeValueAt">
+          <param name="Local" value="Classes/PP/ScaleBase/ScaleBase.removeValueAt.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ScaleBase.ResultMode">
+          <param name="Local" value="Classes/PP/ScaleBase/ScaleBase.ResultMode.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ScaleBase.RoundBias">
+          <param name="Local" value="Classes/PP/ScaleBase/ScaleBase.RoundBias.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ScaleBase.Value">
+          <param name="Local" value="Classes/PP/ScaleBase/ScaleBase.Value.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ScaleBase.Values">
+          <param name="Local" value="Classes/PP/ScaleBase/ScaleBase.Values.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="ScaleEffect">
+        <param name="Local" value="Classes/PP/ScaleEffect/ScaleEffect.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Конструктор ScaleEffect">
+          <param name="Local" value="Classes/PP/ScaleEffect/Constructor_ScaleEffect.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ScaleEffect.Scale">
+          <param name="Local" value="Classes/PP/ScaleEffect/ScaleEffect.Scale.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="SizeLegend">
+        <param name="Local" value="Classes/SizeLegend/SizeLegend.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Конструктор SizeLegend">
+          <param name="Local" value="Classes/SizeLegend/Constructor_SizeLegend.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="SizeLegend.Marker">
+          <param name="Local" value="Classes/SizeLegend/SizeLegend.Marker.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="SizeLegend.MarkerBorderThickness">
+          <param name="Local" value="Classes/SizeLegend/SizeLegend.MarkerBorderThickness.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="SizeLegend.MarkerColor">
+          <param name="Local" value="Classes/SizeLegend/SizeLegend.MarkerColor.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="SizeLegend.MarkerSpacing">
+          <param name="Local" value="Classes/SizeLegend/SizeLegend.MarkerSpacing.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="SizeLegend.MaxRadius">
+          <param name="Local" value="Classes/SizeLegend/SizeLegend.MaxRadius.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="SizeLegend.MaxValue">
+          <param name="Local" value="Classes/SizeLegend/SizeLegend.MaxValue.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="SizeLegend.MaxValueFormat">
+          <param name="Local" value="Classes/SizeLegend/SizeLegend.MaxValueFormat.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="SizeLegend.MinRadius">
+          <param name="Local" value="Classes/SizeLegend/SizeLegend.MinRadius.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="SizeLegend.MinValue">
+          <param name="Local" value="Classes/SizeLegend/SizeLegend.MinValue.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="SizeLegend.MinValueFormat">
+          <param name="Local" value="Classes/SizeLegend/SizeLegend.MinValueFormat.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="SizeLegend.TextSpacing">
+          <param name="Local" value="Classes/SizeLegend/SizeLegend.TextSpacing.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="SpectrumLegend">
+        <param name="Local" value="Classes/SpectrumLegend/SpectrumLegend.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Конструктор SpectrumLegend">
+          <param name="Local" value="Classes/SpectrumLegend/Constructor_SpectrumLegend.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="SpectrumLegend.AreMarksVisible">
+          <param name="Local" value="Classes/SpectrumLegend/SpectrumLegend.AreMarksVisible.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="SpectrumLegend.ItemBorderColor">
+          <param name="Local" value="Classes/SpectrumLegend/SpectrumLegend.ItemBorderColor.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="SpectrumLegend.ItemBorderThickness">
+          <param name="Local" value="Classes/SpectrumLegend/SpectrumLegend.ItemBorderThickness.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="SpectrumLegend.ItemFormat">
+          <param name="Local" value="Classes/SpectrumLegend/SpectrumLegend.ItemFormat.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="SpectrumLegend.MarkColor">
+          <param name="Local" value="Classes/SpectrumLegend/SpectrumLegend.MarkColor.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="SpectrumLegend.MarkSize">
+          <param name="Local" value="Classes/SpectrumLegend/SpectrumLegend.MarkSize.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="SpectrumLegend.MarkThickness">
+          <param name="Local" value="Classes/SpectrumLegend/SpectrumLegend.MarkThickness.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="SpectrumLegend.Mode">
+          <param name="Local" value="Classes/SpectrumLegend/SpectrumLegend.Mode.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="SpectrumLegend.RotateText">
+          <param name="Local" value="Classes/SpectrumLegend/SpectrumLegend.RotateText.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="SpectrumLegend.SpectrumSize">
+          <param name="Local" value="Classes/SpectrumLegend/SpectrumLegend.SpectrumSize.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="SpectrumLegend.TextPosition">
+          <param name="Local" value="Classes/SpectrumLegend/SpectrumLegend.TextPosition.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="SpectrumLegend.showToolTip">
+          <param name="Local" value="Classes/SpectrumLegend/SpectrumLegend.showToolTip.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="SpectrumLegend.Selected">
+          <param name="Local" value="Classes/SpectrumLegend/SpectrumLegend.Selected.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="SpectrumLegend.Selecting">
+          <param name="Local" value="Classes/SpectrumLegend/SpectrumLegend.Selecting.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="SpectrumLegend.TextSpacing">
+          <param name="Local" value="Classes/SpectrumLegend/SpectrumLegend.TextSpacing.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="SpectrumLegend.TextSize">
+          <param name="Local" value="Classes/SpectrumLegend/SpectrumLegend.TextSize.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Timeline">
+        <param name="Local" value="Classes/Timeline/Timeline.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Конструктор Timeline">
+          <param name="Local" value="Classes/Timeline/Constructor_Timeline.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Timeline.DelayDuration">
+          <param name="Local" value="Classes/Timeline/Timeline.DelayDuration.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Timeline.Finished">
+          <param name="Local" value="Classes/Timeline/Timeline.Finished.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Timeline.CurrentStep">
+          <param name="Local" value="Classes/Timeline/Timeline.CurrentStep.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Timeline.getIsStarted">
+          <param name="Local" value="Classes/Timeline/Timeline.getIsStarted.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Timeline.pause">
+          <param name="Local" value="Classes/Timeline/Timeline.pause.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Timeline.Paused">
+          <param name="Local" value="Classes/Timeline/Timeline.Paused.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Timeline.play">
+          <param name="Local" value="Classes/Timeline/Timeline.play.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Timeline.resume">
+          <param name="Local" value="Classes/Timeline/Timeline.resume.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Timeline.ReturnToInitialState">
+          <param name="Local" value="Classes/Timeline/Timeline.ReturnToInitialState.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Timeline.Started">
+          <param name="Local" value="Classes/Timeline/Timeline.Started.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Timeline.StepDuration">
+          <param name="Local" value="Classes/Timeline/Timeline.StepDuration.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Timeline.stop">
+          <param name="Local" value="Classes/Timeline/Timeline.stop.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Timeline.TickIndex">
+          <param name="Local" value="Classes/Timeline/Timeline.TickIndex.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Timeline.ValueChanged">
+          <param name="Local" value="Classes/Timeline/Timeline.ValueChanged.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Timeline.StepsNames">
+          <param name="Local" value="Classes/Timeline/Timeline.StepsNames.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Timeline.StepsVisibility">
+          <param name="Local" value="Classes/Timeline/Timeline.StepsVisibility.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Timeline.refresh">
+          <param name="Local" value="Classes/Timeline/Timeline.refresh.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Timeline.ValueChangedWithTimeout">
+          <param name="Local" value="Classes/Timeline/Timeline.ValueChangedWithTimeout.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Timeline.Ticks">
+          <param name="Local" value="Classes/Timeline/Timeline.Ticks.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Timeline.ScrollSpeed">
+          <param name="Local" value="Classes/Timeline/Timeline.ScrollSpeed.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Timeline.removeTick">
+          <param name="Local" value="Classes/Timeline/TimeLine.removeTick.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Timeline.Inverse">
+          <param name="Local" value="Classes/Timeline/Timeline.Inverse.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Timeline.LastIndexAsInitial">
+          <param name="Local" value="Classes/Timeline/Timeline.LastIndexAsInitial.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Timeline.addTick">
+          <param name="Local" value="Classes/Timeline/Timeline.addTick.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Timeline.beginUpdate">
+          <param name="Local" value="Classes/Timeline/Timeline.beginUpdate.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Timeline.endUpdate">
+          <param name="Local" value="Classes/Timeline/Timeline.endUpdate.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Timeline.TicksChanged">
+          <param name="Local" value="Classes/Timeline/Timeline.TicksChanged.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Timeline.TicksChanging">
+          <param name="Local" value="Classes/Timeline/Timeline.TicksChanging.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Visual">
+        <param name="Local" value="Classes/PP/Visual/Visual.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Конструктор Visual">
+          <param name="Local" value="Classes/PP/Visual/Constructor_Visual.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Visual.DataSource">
+          <param name="Local" value="Classes/PP/Visual/Visual.DataSource.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Visual.Name">
+          <param name="Local" value="Classes/PP/Visual/Visual.Name.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Visual.SetupOnStep">
+          <param name="Local" value="Classes/PP/Visual/Visual.SetupOnStep.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Visual.getMappingById">
+          <param name="Local" value="Classes/PP/Visual/Visual.getMappingById.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Visual.setIndex">
+          <param name="Local" value="Classes/PP/Visual/Visual.setIndex.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Перечисления">
+      <param name="Local" value="Classes/Classes.htm#enum642b3b9347ca42c9b00b820c00c373fa=2">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="AreaSelectionType">
+        <param name="Local" value="Enums/AreaSelectionType.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="CylinderLabelAlign">
+        <param name="Local" value="Enums/CylinderLabelAlign.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="CylinderLabelPosition">
+        <param name="Local" value="Enums/CylinderLabelPosition.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="DataChangedAction">
+        <param name="Local" value="Enums/PP.DataChangedAction.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="DataMappingType">
+        <param name="Local" value="Enums/PP.DataMappingType.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IntervalsLegendColorApplying">
+        <param name="Local" value="Enums/IntervalsLegendColorApplying.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="LegendItemsOrder">
+        <param name="Local" value="Enums/LegendItemsOrder.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="LegendMarkerShape">
+        <param name="Local" value="Enums/LegendMarkerShape.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="LegendMode">
+        <param name="Local" value="Enums/LegendMode.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="LegendPageMode">
+        <param name="Local" value="Enums/LegendPageMode.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="LegendType">
+        <param name="Local" value="Enums/LegendType.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="NoDataPosition">
+        <param name="Local" value="Enums/NoDataPosition.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="ScaleResultMode">
+        <param name="Local" value="Enums/ScaleResultMode.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="SizeLegendMarkerShape">
+        <param name="Local" value="Enums/SizeLegendMarkerShape.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="SpectrumLegendMode">
+        <param name="Local" value="Enums/SpectrumLegendMode.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="SpectrumLegendTextPosition">
+        <param name="Local" value="Enums/SpectrumLegendTextPosition.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="TextDirection">
+        <param name="Local" value="Enums/TextDirection.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      </ul>
+    </ul>
+</ul>
+</html>

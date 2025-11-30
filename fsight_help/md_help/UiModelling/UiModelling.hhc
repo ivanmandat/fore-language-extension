@@ -1,0 +1,1257 @@
+<html>
+<!-- Sitemap 1.0 -->
+<object type="text/site properties">
+  <param name="SiteType" value="toc">
+  <param name="Image Width" value="16">
+  <param name="Window Styles" value="0x800027">
+  <param name="ExWindow Styles" value="0x100">
+</object>
+<ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Моделирование и прогнозирование">
+    <param name="Local" value="UiModelling_TitlePage.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Начало работы с инструментом «Моделирование и прогнозирование»">
+      <param name="Local" value="UiModelling_Purpose.htm">
+      <param name="ImageNumber" value="11">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Моделирование в настольном приложении">
+      <param name="Local" value="1_Modelling/UiModelling_First.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Создание контейнера моделирования">
+        <param name="Local" value="2_Container_of_Modeling/2_1_Create_Cont_Modeling/UiModelling_Create_Container.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Свойства шаблона пользовательского метода">
+          <param name="Local" value="2_Container_of_Modeling/2_1_Create_Cont_Modeling/UiMd_Container_Modelling_Master_templateProperty.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Запуск моделирования и прогнозирования">
+        <param name="Local" value="1_Modelling/Start_Modelling.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Описание интерфейса моделирования и прогнозирования">
+        <param name="Local" value="2_Container_of_Modeling/2_2_Window_container/UiModelling_Window_container.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Панель объектов контейнера">
+          <param name="Local" value="2_Container_of_Modeling/2_2_Window_container/uimodelling_window_object.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Рабочая область">
+          <param name="Local" value="2_Container_of_Modeling/2_2_Window_container/uimodelling_workspace.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Панель сценариев моделирования">
+          <param name="Local" value="2_Container_of_Modeling/2_2_Window_container/Scenario_Of_Modeling.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Работа в настольном приложении">
+        <param name="Local" value="2_Container_of_Modeling/Modelling_process.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Переменная моделирования">
+          <param name="Local" value="2_Container_of_Modeling/2_3_Work_object/2_3_1_Value/uimodelling_work_object_value.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Описание">
+            <param name="Local" value="2_Container_of_Modeling/2_3_Work_object/2_3_1_Value/uimodelling_work_object_value_1.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Структура">
+            <param name="Local" value="2_Container_of_Modeling/2_3_Work_object/2_3_1_Value/UiModelling_Work_object_Value_2.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Агрегация">
+            <param name="Local" value="2_Container_of_Modeling/2_3_Work_object/2_3_1_Value/UiModelling_Work_object_Value_3.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Способ наполнения данными">
+            <param name="Local" value="2_Container_of_Modeling/2_3_Work_object/2_3_1_Value/UiModelling_Work_object_Value_4.htm">
+          </object>
+          <ul>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Вручную">
+              <param name="Local" value="2_Container_of_Modeling/2_3_Work_object/2_3_1_Value/uimodelling_work_object_value_4_3.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Из источника">
+              <param name="Local" value="2_Container_of_Modeling/2_3_Work_object/2_3_1_Value/uimodelling_work_object_value_4_1.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="По формуле">
+              <param name="Local" value="2_Container_of_Modeling/2_3_Work_object/2_3_1_Value/UiModelling_Work_object_Value_4_2.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            </ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Дополнительные параметры">
+            <param name="Local" value="2_Container_of_Modeling/2_3_Work_object/2_3_1_Value/UiModelling_Work_object_Value_5.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Описательные статистики">
+            <param name="Local" value="2_Container_of_Modeling/2_3_Work_object/2_3_5_Descriptive_Value/uimodelling_work_object_descriptive.htm">
+          </object>
+          <ul>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Набор переменных">
+              <param name="Local" value="2_Container_of_Modeling/2_3_Work_object/2_3_5_Descriptive_Value/uimodelling_work_object_des_collection.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Период расчета">
+              <param name="Local" value="2_Container_of_Modeling/2_3_Work_object/2_3_5_Descriptive_Value/uimodelling_work_object_Period.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Дополнительные параметры">
+              <param name="Local" value="2_Container_of_Modeling/2_3_Work_object/2_3_5_Descriptive_Value/uimodelling_work_object_ExtraParameters.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Набор тестов">
+              <param name="Local" value="2_Container_of_Modeling/2_3_Work_object/2_3_5_Descriptive_Value/uimodelling_work_object_des_View.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Описательные статистики">
+              <param name="Local" value="2_Container_of_Modeling/2_3_Work_object/2_3_5_Descriptive_Value/uimodelling_work_object_des_Stat.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="АКФ и ЧАКФ">
+              <param name="Local" value="2_Container_of_Modeling/2_3_Work_object/2_3_5_Descriptive_Value/uimodelling_work_object_AKF.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Тест Дики-Фуллера">
+              <param name="Local" value="2_Container_of_Modeling/2_3_Work_object/2_3_5_Descriptive_Value/uimodelling_work_object_des_Test.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Тест Гранжера">
+              <param name="Local" value="2_Container_of_Modeling/2_3_Work_object/2_3_5_Descriptive_Value/uimodelling_work_object_des_Test_Grenjer.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Корреляционная матрица">
+              <param name="Local" value="2_Container_of_Modeling/2_3_Work_object/2_3_5_Descriptive_Value/uimodelling_work_object_des_correlation.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Исходные данные">
+              <param name="Local" value="2_Container_of_Modeling/2_3_Work_object/2_3_5_Descriptive_Value/uimodelling_work_object_des_Source.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Диаграмма">
+              <param name="Local" value="2_Container_of_Modeling/2_3_Work_object/2_3_5_Descriptive_Value/uimodelling_work_object_des_Diagramm.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            </ul>
+          </ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Модель">
+          <param name="Local" value="2_Container_of_Modeling/2_3_Work_object/2_3_2_Model/UiModelling_Model.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Описание">
+            <param name="Local" value="2_Container_of_Modeling/2_3_Work_object/2_3_2_Model/Standart_Model/UiModelling_Model_1.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Периоды расчета">
+            <param name="Local" value="2_Container_of_Modeling/2_3_Work_object/2_3_2_Model/Standart_Model/UiModelling_Model_2.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Стандартная модель">
+            <param name="Local" value="2_Container_of_Modeling/2_3_Work_object/2_3_2_Model/Standart_Model/Standart_Model.htm">
+          </object>
+          <ul>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Параметры модели">
+              <param name="Local" value="2_Container_of_Modeling/2_3_Work_object/2_3_2_Model/Standart_Model/UiModelling_Panel_Param_Attr.htm">
+            </object>
+            <ul>
+              <li><object type="text/sitemap">
+                <param name="Name" value="Параметры внутренней модели">
+                <param name="Local" value="2_Container_of_Modeling/2_3_Work_object/2_3_2_Model/Standart_Model/Internal_Model.htm">
+                <param name="ImageNumber" value="11">
+              </object>
+              <li><object type="text/sitemap">
+                <param name="Name" value="Задание значений дополнительных атрибутов">
+                <param name="Local" value="2_Container_of_Modeling/2_3_Work_object/2_3_2_Model/Standart_Model/AdditionalAttributes.htm">
+                <param name="ImageNumber" value="11">
+              </object>
+              <li><object type="text/sitemap">
+                <param name="Name" value="Параметры модели, основанной на переменных">
+                <param name="Local" value="2_Container_of_Modeling/2_3_Work_object/2_3_2_Model/Standart_Model/uimodelling_model_3.htm">
+                <param name="ImageNumber" value="11">
+              </object>
+              <li><object type="text/sitemap">
+                <param name="Name" value="Использование R при расчете модели">
+                <param name="Local" value="2_Container_of_Modeling/2_3_Work_object/2_3_2_Model/Standart_Model/R_Parms.htm">
+                <param name="ImageNumber" value="11">
+              </object>
+              </ul>
+            <li><object type="text/sitemap">
+              <param name="Name" value="АКФ и ЧАКФ">
+              <param name="Local" value="2_Container_of_Modeling/2_3_Work_object/2_3_2_Model/Standart_Model/UiModelling_Model_AKF.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Спецификация">
+              <param name="Local" value="2_Container_of_Modeling/2_3_Work_object/2_3_2_Model/Specification/UiModelling_Model_Specification.htm">
+            </object>
+            <ul>
+              <li><object type="text/sitemap">
+                <param name="Name" value="Линейная регрессия (оценка МНК)">
+                <param name="Local" value="2_Container_of_Modeling/2_3_Work_object/2_3_2_Model/Specification/8_Linear_regression/uimodelling_model_specification_linaer_reg.htm">
+              </object>
+              <ul>
+                <li><object type="text/sitemap">
+                  <param name="Name" value="Редактирование лаговой переменной">
+                  <param name="Local" value="2_Container_of_Modeling/2_3_Work_object/2_3_2_Model/Specification/8_Linear_regression/UiModelling_model_specification_linaer_reg_lag.htm">
+                  <param name="ImageNumber" value="11">
+                </object>
+                <li><object type="text/sitemap">
+                  <param name="Name" value="Автоподбор факторов">
+                  <param name="Local" value="2_Container_of_Modeling/2_3_Work_object/2_3_2_Model/Specification/8_Linear_regression/uimodelling_model_specification_LinReg_Auto.htm">
+                  <param name="ImageNumber" value="11">
+                </object>
+                </ul>
+              <li><object type="text/sitemap">
+                <param name="Name" value="Линейная регрессия (оценка методом инструментальных переменных)">
+                <param name="Local" value="2_Container_of_Modeling/2_3_Work_object/2_3_2_Model/Specification/8_Linear_regression/uimodelling_model_specification_linaer_reg2.htm">
+                <param name="ImageNumber" value="11">
+              </object>
+              <li><object type="text/sitemap">
+                <param name="Name" value="Модель бинарного выбора (оценка методом максимального правдоподобия)">
+                <param name="Local" value="2_Container_of_Modeling/2_3_Work_object/2_3_2_Model/Specification/Binary_regression/UiModelling_Spec_Binary_regression.htm">
+                <param name="ImageNumber" value="11">
+              </object>
+              <li><object type="text/sitemap">
+                <param name="Name" value="Нелинейная регрессия (оценка нелинейным МНК)">
+                <param name="Local" value="2_Container_of_Modeling/2_3_Work_object/2_3_2_Model/Specification/7_Nonlinear_regression/7_nonlinear_regression.htm">
+                <param name="ImageNumber" value="11">
+              </object>
+              <li><object type="text/sitemap">
+                <param name="Name" value="Тренд с подбором функциональной зависимости">
+                <param name="Local" value="2_Container_of_Modeling/2_3_Work_object/2_3_2_Model/Specification/9_Universal_graph/9_universal_graph.htm">
+                <param name="ImageNumber" value="11">
+              </object>
+              <li><object type="text/sitemap">
+                <param name="Name" value="Медианное сглаживание">
+                <param name="Local" value="2_Container_of_Modeling/2_3_Work_object/2_3_2_Model/Specification/6_Median_smoothing/6_median_smoothing.htm">
+                <param name="ImageNumber" value="11">
+              </object>
+              <li><object type="text/sitemap">
+                <param name="Name" value="Скользящее сглаживание">
+                <param name="Local" value="2_Container_of_Modeling/2_3_Work_object/2_3_2_Model/Specification/2_Slitherring_smoothing/2_Slitherring_smoothing.htm">
+                <param name="ImageNumber" value="11">
+              </object>
+              <li><object type="text/sitemap">
+                <param name="Name" value="Грей-метод">
+                <param name="Local" value="2_Container_of_Modeling/2_3_Work_object/2_3_2_Model/Specification/UiModelling_Specification_GrayForecast.htm">
+                <param name="ImageNumber" value="11">
+              </object>
+              <li><object type="text/sitemap">
+                <param name="Name" value="Фильтр Ходрика-Прескотта">
+                <param name="Local" value="2_Container_of_Modeling/2_3_Work_object/2_3_2_Model/Specification/10_Filter_Hodrika_Preskotta/10_filter_hordrika_preskotta.htm">
+                <param name="ImageNumber" value="11">
+              </object>
+              <li><object type="text/sitemap">
+                <param name="Name" value="LRX-фильтр">
+                <param name="Local" value="2_Container_of_Modeling/2_3_Work_object/2_3_2_Model/Specification/UiModelling_Specification_LRX.htm">
+                <param name="ImageNumber" value="11">
+              </object>
+              <li><object type="text/sitemap">
+                <param name="Name" value="Фильтр Бакстера-Кинга">
+                <param name="Local" value="2_Container_of_Modeling/2_3_Work_object/2_3_2_Model/Specification/UiModelling_Specification_BaxterKingFilter.htm">
+                <param name="ImageNumber" value="11">
+              </object>
+              <li><object type="text/sitemap">
+                <param name="Name" value="Экспоненциальное сглаживание">
+                <param name="Local" value="2_Container_of_Modeling/2_3_Work_object/2_3_2_Model/Specification/5_Exponential_smoothing/uimodelling_model_specification_exponential.htm">
+              </object>
+              <ul>
+                <li><object type="text/sitemap">
+                  <param name="Name" value="Параметры автоматического расчёта">
+                  <param name="Local" value="2_Container_of_Modeling/2_3_Work_object/2_3_2_Model/Specification/5_Exponential_smoothing/uimodelling_model_specification_exponential_param.htm">
+                  <param name="ImageNumber" value="11">
+                </object>
+                </ul>
+              <li><object type="text/sitemap">
+                <param name="Name" value="X11">
+                <param name="Local" value="2_Container_of_Modeling/2_3_Work_object/2_3_2_Model/Specification/UiModelling_Specification_Census2.htm">
+                <param name="ImageNumber" value="11">
+              </object>
+              <li><object type="text/sitemap">
+                <param name="Name" value="ARIMA">
+                <param name="Local" value="2_Container_of_Modeling/2_3_Work_object/2_3_2_Model/Specification/1_Arima/uimodelling_model_specification_arima.htm">
+                <param name="ImageNumber" value="11">
+              </object>
+              <li><object type="text/sitemap">
+                <param name="Name" value="Модель коррекции ошибок">
+                <param name="Local" value="2_Container_of_Modeling/2_3_Work_object/2_3_2_Model/Specification/UiModelling_Specification_Error_control.htm">
+                <param name="ImageNumber" value="11">
+              </object>
+              <li><object type="text/sitemap">
+                <param name="Name" value="Агрегация">
+                <param name="Local" value="2_Container_of_Modeling/2_3_Work_object/2_3_2_Model/Specification/aggregation/aggregation.htm">
+                <param name="ImageNumber" value="11">
+              </object>
+              <li><object type="text/sitemap">
+                <param name="Name" value="Агрегация для модели на атрибутах">
+              </object>
+              <ul>
+                <li><object type="text/sitemap">
+                  <param name="Name" value="Агрегация (базовая)">
+                  <param name="Local" value="2_Container_of_Modeling/2_3_Work_object/2_3_2_Model/Specification/aggregation/UiModelling_Aggregation_Attr.htm">
+                  <param name="ImageNumber" value="11">
+                </object>
+                <li><object type="text/sitemap">
+                  <param name="Name" value="Агрегация (расширенная)">
+                  <param name="Local" value="2_Container_of_Modeling/2_3_Work_object/2_3_2_Model/Specification/aggregation/UiModelling_Aggregation_Attr_CrossDim.htm">
+                  <param name="ImageNumber" value="11">
+                </object>
+                </ul>
+              <li><object type="text/sitemap">
+                <param name="Name" value="Методы накопления">
+                <param name="Local" value="2_Container_of_Modeling/2_3_Work_object/2_3_2_Model/Specification/UiModelling_Specification_Cumulative.htm">
+                <param name="ImageNumber" value="11">
+              </object>
+              <li><object type="text/sitemap">
+                <param name="Name" value="Коллапс (векторный расчет)">
+                <param name="Local" value="2_Container_of_Modeling/2_3_Work_object/2_3_2_Model/Specification/UiModelling_Specification_Collaps.htm">
+                <param name="ImageNumber" value="11">
+              </object>
+              <li><object type="text/sitemap">
+                <param name="Name" value="Коллапс (поточечный расчет)">
+                <param name="Local" value="2_Container_of_Modeling/2_3_Work_object/2_3_2_Model/Specification/UiModelling_Specification_Collaps_point.htm">
+                <param name="ImageNumber" value="11">
+              </object>
+              <li><object type="text/sitemap">
+                <param name="Name" value="Заполнение пропусков">
+                <param name="Local" value="2_Container_of_Modeling/2_3_Work_object/2_3_2_Model/Specification/UiModelling_Specification_Working_Lost.htm">
+                <param name="ImageNumber" value="11">
+              </object>
+              <li><object type="text/sitemap">
+                <param name="Name" value="Интерполяция">
+                <param name="Local" value="2_Container_of_Modeling/2_3_Work_object/2_3_2_Model/Specification/UiModelling_Specification_Interpolation.htm">
+                <param name="ImageNumber" value="11">
+              </object>
+              <li><object type="text/sitemap">
+                <param name="Name" value="Детерминированное уравнение">
+                <param name="Local" value="2_Container_of_Modeling/2_3_Work_object/2_3_2_Model/Specification/4_Deterministic_equation/uimodelling_model_specification_deter.htm">
+                <param name="ImageNumber" value="11">
+              </object>
+              <li><object type="text/sitemap">
+                <param name="Name" value="R">
+                <param name="Local" value="2_Container_of_Modeling/2_3_Work_object/2_3_2_Model/Specification/R.htm">
+                <param name="ImageNumber" value="11">
+              </object>
+              <li><object type="text/sitemap">
+                <param name="Name" value="Пользовательские методы">
+                <param name="Local" value="2_Container_of_Modeling/2_3_Work_object/2_3_2_Model/Specification/UiModelling_SpecificationUserMethod.htm">
+                <param name="ImageNumber" value="11">
+              </object>
+              <li><object type="text/sitemap">
+                <param name="Name" value="Редактирование переменной">
+                <param name="Local" value="2_Container_of_Modeling/2_3_Work_object/2_3_2_Model/Specification/UiModelling_Atributes_fix.htm">
+                <param name="ImageNumber" value="11">
+              </object>
+              <li><object type="text/sitemap">
+                <param name="Name" value="Временные и фиктивные переменные">
+                <param name="Local" value="2_Container_of_Modeling/2_3_Work_object/2_3_2_Model/Specification/UiModelling_TempVar.htm">
+                <param name="ImageNumber" value="11">
+              </object>
+              <li><object type="text/sitemap">
+                <param name="Name" value="Изменение размерности">
+                <param name="Local" value="2_Container_of_Modeling/2_3_Work_object/UiModelling_ChangeDimension.htm">
+                <param name="ImageNumber" value="11">
+              </object>
+              </ul>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Идентифицированное уравнение">
+              <param name="Local" value="2_Container_of_Modeling/2_3_Work_object/2_3_2_Model/Standart_Model/identified_equation.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Статистические характеристики">
+              <param name="Local" value="2_Container_of_Modeling/2_3_Work_object/2_3_2_Model/Standart_Model/statistical_features.htm">
+            </object>
+            <ul>
+              <li><object type="text/sitemap">
+                <param name="Name" value="Настройка перечня характеристик">
+                <param name="Local" value="2_Container_of_Modeling/2_3_Work_object/2_3_2_Model/Standart_Model/statistical_features_tuning.htm">
+                <param name="ImageNumber" value="11">
+              </object>
+              </ul>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Просмотр результатов">
+              <param name="Local" value="2_Container_of_Modeling/2_3_Work_object/2_3_2_Model/Standart_Model/uimodelling_model_view.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Дополнительные параметры">
+              <param name="Local" value="2_Container_of_Modeling/2_3_Work_object/2_3_2_Model/Standart_Model/UiModelling_Model_Extra.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Графики и диаграммы">
+              <param name="Local" value="2_Container_of_Modeling/2_3_Work_object/2_3_2_Model/Standart_Model/UiModelling_Model_Fact.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Ряды (числовые значения)">
+              <param name="Local" value="2_Container_of_Modeling/2_3_Work_object/2_3_2_Model/Standart_Model/UiModelling_Model_Serie.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Матрица весов">
+              <param name="Local" value="2_Container_of_Modeling/2_3_Work_object/2_3_2_Model/Standart_Model/UiModelling_Bpf_Weight_Matrix.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Ошибки">
+              <param name="Local" value="2_Container_of_Modeling/2_3_Work_object/2_3_2_Model/Standart_Model/UiModelling_Model_Error.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Предупреждения">
+              <param name="Local" value="2_Container_of_Modeling/2_3_Work_object/2_3_2_Model/Standart_Model/UiModelling_Model_Warning.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Факторы">
+              <param name="Local" value="2_Container_of_Modeling/2_3_Work_object/2_3_2_Model/Standart_Model/uimodelling_model_Factor.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Корреляция факторов">
+              <param name="Local" value="2_Container_of_Modeling/2_3_Work_object/2_3_2_Model/Standart_Model/uimodelling_model_correlation.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Обобщенные результаты модели">
+              <param name="Local" value="2_Container_of_Modeling/2_3_Work_object/2_3_2_Model/Standart_Model/UiModelling_Model_CommonResult.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Начальные значения">
+              <param name="Local" value="2_Container_of_Modeling/2_3_Work_object/2_3_2_Model/Standart_Model/UiModelling_Init_Vals.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Качество модели">
+              <param name="Local" value="2_Container_of_Modeling/2_3_Work_object/2_3_2_Model/Standart_Model/UiModelling_Model_Quality.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Диагностические тесты">
+              <param name="Local" value="2_Container_of_Modeling/2_3_Work_object/2_3_2_Model/DiagnosticTest/UiModelling_DiagnosticTest.htm">
+            </object>
+            <ul>
+              <li><object type="text/sitemap">
+                <param name="Name" value="Критерий пропущенных переменных">
+                <param name="Local" value="2_Container_of_Modeling/2_3_Work_object/2_3_2_Model/DiagnosticTest/UiModelling_DiagnTest_OmittedVariables.htm">
+                <param name="ImageNumber" value="11">
+              </object>
+              <li><object type="text/sitemap">
+                <param name="Name" value="Критерий избыточных переменных">
+                <param name="Local" value="2_Container_of_Modeling/2_3_Work_object/2_3_2_Model/DiagnosticTest/UiModelling_DiagnTest_RedundantVariables.htm">
+                <param name="ImageNumber" value="11">
+              </object>
+              <li><object type="text/sitemap">
+                <param name="Name" value="Критерий Годфрея автокорреляции остатков">
+                <param name="Local" value="2_Container_of_Modeling/2_3_Work_object/2_3_2_Model/DiagnosticTest/UiModelling_DiagnTest_SerialCorellationLM.htm">
+                <param name="ImageNumber" value="11">
+              </object>
+              <li><object type="text/sitemap">
+                <param name="Name" value="Тест Уайта на гетероскедастичность">
+                <param name="Local" value="2_Container_of_Modeling/2_3_Work_object/2_3_2_Model/DiagnosticTest/UiModelling_DiagnTest_WhiteHeteroskedasticity.htm">
+                <param name="ImageNumber" value="11">
+              </object>
+              <li><object type="text/sitemap">
+                <param name="Name" value="Критерий функциональной формы">
+                <param name="Local" value="2_Container_of_Modeling/2_3_Work_object/2_3_2_Model/DiagnosticTest/UiModelling_DiagnTest_RamseyResset.htm">
+                <param name="ImageNumber" value="11">
+              </object>
+              <li><object type="text/sitemap">
+                <param name="Name" value="Тест на устойчивость Чоу">
+                <param name="Local" value="2_Container_of_Modeling/2_3_Work_object/2_3_2_Model/DiagnosticTest/UiModelling_DiagnTest_Chow.htm">
+                <param name="ImageNumber" value="11">
+              </object>
+              </ul>
+            </ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Система нелинейных уравнений">
+            <param name="Local" value="2_Container_of_Modeling/2_3_Work_object/2_3_2_Model/equations_set_Model/UiModelling_eq_set_Model_20.htm">
+          </object>
+          <ul>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Параметры">
+              <param name="Local" value="2_Container_of_Modeling/2_3_Work_object/2_3_2_Model/equations_set_Model/Eq_set_20/UiModelling_Eq_set_20_Param.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Искомые переменные">
+              <param name="Local" value="2_Container_of_Modeling/2_3_Work_object/2_3_2_Model/equations_set_Model/equations_set_Model_sourceEnv.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Начальные значения и точность решения">
+              <param name="Local" value="2_Container_of_Modeling/2_3_Work_object/2_3_2_Model/equations_set_Model/Eq_set_20/UiModelling_Eq_set_20_InitVal.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Идентификация уравнений системы">
+              <param name="Local" value="2_Container_of_Modeling/2_3_Work_object/2_3_2_Model/equations_set_Model/Eq_set_20/UiModelling_Eq_set_20_Ident.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Спецификация">
+              <param name="Local" value="2_Container_of_Modeling/2_3_Work_object/2_3_2_Model/equations_set_Model/Eq_set_20/UiModelling_Eq_set_20_Specification.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            </ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Модель «Межотраслевой баланс»">
+            <param name="Local" value="2_Container_of_Modeling/2_3_Work_object/2_3_2_Model/interindustry_balance/interindustry_balance.htm">
+          </object>
+          <ul>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Параметры">
+              <param name="Local" value="2_Container_of_Modeling/2_3_Work_object/2_3_2_Model/interindustry_balance/interindustry_balance_parameter_2.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Спецификация">
+              <param name="Local" value="2_Container_of_Modeling/2_3_Work_object/2_3_2_Model/interindustry_balance/interindustry_balance_specialisation.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            </ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Векторная модель коррекции ошибок (ECM)">
+            <param name="Local" value="2_Container_of_Modeling/2_3_Work_object/2_3_2_Model/error_control/error_control.htm">
+          </object>
+          <ul>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Параметры">
+              <param name="Local" value="2_Container_of_Modeling/2_3_Work_object/2_3_2_Model/error_control/error_control_Parameter.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Просмотр результатов">
+              <param name="Local" value="2_Container_of_Modeling/2_3_Work_object/2_3_2_Model/error_control/error_control_veiw_result.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Тест Йохансена">
+              <param name="Local" value="2_Container_of_Modeling/2_3_Work_object/2_3_2_Model/error_control/error_control_Test_Yohansena.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            </ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Модель на панельных данных">
+            <param name="Local" value="2_Container_of_Modeling/2_3_Work_object/2_3_2_Model/PooledModel/UiModelling_PooledModel_Main.htm">
+          </object>
+          <ul>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Параметры">
+              <param name="Local" value="2_Container_of_Modeling/2_3_Work_object/2_3_2_Model/PooledModel/UiModelling_Pooled_Param.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Регрессия на панельных данных">
+            </object>
+            <ul>
+              <li><object type="text/sitemap">
+                <param name="Name" value="Спецификация">
+                <param name="Local" value="2_Container_of_Modeling/2_3_Work_object/2_3_2_Model/PooledModel/UiModelling_Pooled_Specification.htm">
+                <param name="ImageNumber" value="11">
+              </object>
+              <li><object type="text/sitemap">
+                <param name="Name" value="Корреляция факторов">
+                <param name="Local" value="2_Container_of_Modeling/2_3_Work_object/2_3_2_Model/PooledModel/UiModelling_Pooled_Correlation.htm">
+                <param name="ImageNumber" value="11">
+              </object>
+              <li><object type="text/sitemap">
+                <param name="Name" value="Эффекты">
+                <param name="Local" value="2_Container_of_Modeling/2_3_Work_object/2_3_2_Model/PooledModel/UiModelling_Pooled_Effects.htm">
+                <param name="ImageNumber" value="11">
+              </object>
+              </ul>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Бинарная регрессия на панельных данных">
+            </object>
+            <ul>
+              <li><object type="text/sitemap">
+                <param name="Name" value="Спецификация">
+                <param name="Local" value="2_Container_of_Modeling/2_3_Work_object/2_3_2_Model/PooledModel/UiModelling_Pooled_Specification_binary.htm">
+                <param name="ImageNumber" value="11">
+              </object>
+              </ul>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Графики и диаграммы">
+              <param name="Local" value="2_Container_of_Modeling/2_3_Work_object/2_3_2_Model/PooledModel/UiModelling_Pooled_Diagr_common.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Числовые значения рядов и объясняющих переменных">
+              <param name="Local" value="2_Container_of_Modeling/2_3_Work_object/2_3_2_Model/PooledModel/UiModelling_Pooled_Value.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            </ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Модель Value-At-Risk">
+            <param name="Local" value="2_Container_of_Modeling/2_3_Work_object/2_3_2_Model/Value-At-Risk/UiModelling_ValueAtRisk_Main.htm">
+          </object>
+          <ul>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Спецификация">
+              <param name="Local" value="2_Container_of_Modeling/2_3_Work_object/2_3_2_Model/Value-At-Risk/UiModelling_ValueAtRisk_Specification.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Параметры">
+              <param name="Local" value="2_Container_of_Modeling/2_3_Work_object/2_3_2_Model/Value-At-Risk/UiModelling_VaR_Param.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Результаты бэктестинга">
+              <param name="Local" value="2_Container_of_Modeling/2_3_Work_object/2_3_2_Model/Value-At-Risk/UiModelling_VaR_Backtesting.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Графики">
+              <param name="Local" value="2_Container_of_Modeling/2_3_Work_object/2_3_2_Model/Value-At-Risk/UiModelling_VaR_Charts.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            </ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Модель матричной агрегации">
+            <param name="Local" value="2_Container_of_Modeling/2_3_Work_object/2_3_2_Model/MatrixAggregation/MatrixAggregation.htm">
+          </object>
+          <ul>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Параметры">
+              <param name="Local" value="2_Container_of_Modeling/2_3_Work_object/2_3_2_Model/MatrixAggregation/MatrixAggregationParams.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            </ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Преобразования над переменными или факторами">
+            <param name="Local" value="2_Container_of_Modeling/2_3_Work_object/UiModelling_work_Changes.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Работа с факторами (входными переменными)">
+            <param name="Local" value="2_Container_of_Modeling/2_3_Work_object/2_3_2_Model/Standart_Model/UiModelling_Model_Factor_work.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Экспорт модели">
+            <param name="Local" value="2_Container_of_Modeling/2_3_Work_object/2_3_2_Model/Model_export.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Метод главных компонент">
+            <param name="Local" value="2_Container_of_Modeling/2_3_Work_object/2_3_7_MethPrinComp/uimodelling_work_object_MethPrinComp.htm">
+          </object>
+          <ul>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Параметры">
+              <param name="Local" value="2_Container_of_Modeling/2_3_Work_object/2_3_7_MethPrinComp/UiModelling_WorkObject_MethPrinComp.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Коэффициенты стандартизации">
+              <param name="Local" value="2_Container_of_Modeling/2_3_Work_object/2_3_7_MethPrinComp/UiModelling_WorkObject_MethPrinComp_StandFac.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Графики и диаграммы">
+              <param name="Local" value="2_Container_of_Modeling/2_3_Work_object/2_3_7_MethPrinComp/UiModelling_WorkObject_MethPrinComp_Chart.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Собственные векторы">
+              <param name="Local" value="2_Container_of_Modeling/2_3_Work_object/2_3_7_MethPrinComp/UiModelling_WorkObject_MethPrinComp_OwnVector.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Веса главных компонент">
+              <param name="Local" value="2_Container_of_Modeling/2_3_Work_object/2_3_7_MethPrinComp/UiModelling_WorkObject_MethPrinComp_WeightComp.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="График главных компонент">
+              <param name="Local" value="2_Container_of_Modeling/2_3_Work_object/2_3_7_MethPrinComp/UiModelling_WorkObject_MethPrinComp_ChartPrinComp.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Значения главных компонент">
+              <param name="Local" value="2_Container_of_Modeling/2_3_Work_object/2_3_7_MethPrinComp/UiModelling_WorkObject_MethPrinComp_ValPrinComp.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Факторы">
+              <param name="Local" value="2_Container_of_Modeling/2_3_Work_object/2_3_7_MethPrinComp/UiModelling_WorkObject_MethPrinComp_Factors.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            </ul>
+          </ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Метамодель">
+          <param name="Local" value="2_Container_of_Modeling/2_3_Work_object/2_3_3_MetaModel/uimodelling_metamodel.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Параметры">
+            <param name="Local" value="2_Container_of_Modeling/2_3_Work_object/2_3_3_MetaModel/Metamodel_params.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Цепочка расчета">
+            <param name="Local" value="2_Container_of_Modeling/2_3_Work_object/2_3_3_MetaModel/uimodelling_metamodel_2.htm">
+          </object>
+          <ul>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Настройка многомерного цикла">
+              <param name="Local" value="2_Container_of_Modeling/2_3_Work_object/2_3_3_MetaModel/MultiDimIterator.htm">
+            </object>
+            <ul>
+              <li><object type="text/sitemap">
+                <param name="Name" value="Настройка измерений многомерного цикла">
+                <param name="Local" value="2_Container_of_Modeling/2_3_Work_object/2_3_3_MetaModel/AdvDimFilter.htm">
+                <param name="ImageNumber" value="11">
+              </object>
+              <li><object type="text/sitemap">
+                <param name="Name" value="Настройка фильтрации по связям атрибутов">
+                <param name="Local" value="2_Container_of_Modeling/2_3_Work_object/2_3_3_MetaModel/AttrLinksDimFilter.htm">
+                <param name="ImageNumber" value="11">
+              </object>
+              </ul>
+            </ul>
+          </ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Задача моделирования">
+          <param name="Local" value="2_Container_of_Modeling/2_3_Work_object/2_3_4_Problem/uimodelling_problem.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Тип задачи">
+            <param name="Local" value="2_Container_of_Modeling/2_3_Work_object/2_3_4_Problem/uimodelling_problem_2.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Периоды">
+            <param name="Local" value="2_Container_of_Modeling/2_3_Work_object/2_3_4_Problem/uimodelling_problem_5.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Сценарии">
+            <param name="Local" value="2_Container_of_Modeling/2_3_Work_object/2_3_4_Problem/uimodelling_problem_3.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Пользовательский алгоритм">
+            <param name="Local" value="2_Container_of_Modeling/2_3_Work_object/2_3_4_Problem/CustomAlgorithm.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Целевая функция">
+            <param name="Local" value="2_Container_of_Modeling/2_3_Work_object/2_3_4_Problem/UiModelling_Problem_CriterionFunction.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Переменные">
+            <param name="Local" value="2_Container_of_Modeling/2_3_Work_object/2_3_4_Problem/Environments/UiModelling_Problem_Variables.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Начальные значения управляющих переменных">
+            <param name="Local" value="2_Container_of_Modeling/2_3_Work_object/2_3_4_Problem/UiModelling_problem_InitApproximation.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Ограничения">
+            <param name="Local" value="2_Container_of_Modeling/2_3_Work_object/2_3_4_Problem/UiModelling_Problem_Limitation.htm">
+          </object>
+          <ul>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Ограничения задачи оптимального управления">
+              <param name="Local" value="2_Container_of_Modeling/2_3_Work_object/2_3_4_Problem/Environments/OptimalControl_Restriction.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Ограничения целевой задачи">
+              <param name="Local" value="2_Container_of_Modeling/2_3_Work_object/2_3_4_Problem/Environments/TargetTask_Restriction.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            </ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Получение отчетов по переменным">
+            <param name="Local" value="2_Container_of_Modeling/2_3_Work_object/2_3_4_Problem/uimodelling_problem_4.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Расчет задачи">
+            <param name="Local" value="2_Container_of_Modeling/2_3_Work_object/2_3_4_Problem/uimodelling_problem_run.htm">
+          </object>
+          <ul>
+            <li><object type="text/sitemap">
+              <param name="Name" value="История расчета">
+              <param name="Local" value="2_Container_of_Modeling/2_3_Work_object/2_3_6_History/uimodelling_work_object_History.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Сохранение результата расчета задачи в базу данных временных рядов">
+              <param name="Local" value="2_Container_of_Modeling/2_3_Work_object/2_3_4_Problem/Save_problem_result.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            </ul>
+          </ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Пример создания цепочки расчета">
+          <param name="Local" value="Example/UiModelling_Example.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Создание переменных">
+            <param name="Local" value="Example/UiModelling_Expl_1_Vars_Create.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Создание моделей">
+            <param name="Local" value="Example/UiModelling_Expl_2_Vars_Model.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Создание метамодели">
+            <param name="Local" value="Example/UiModelling_Expl_3_MetaModel.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Создание задачи моделирования и сценария расчета">
+            <param name="Local" value="Example/UiModelling_Expl_4_Problem.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        </ul>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Моделирование в веб-приложении">
+      <param name="Local" value="Web/WebApplication.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Запуск моделирования и прогнозирования">
+        <param name="Local" value="Web/Launching.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Описание интерфейса моделирования и прогнозирования">
+        <param name="Local" value="Web/UiModellind_w_MainWnd.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Рабочая область">
+          <param name="Local" value="Web/UiModelling_w_WorkingArea.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Область представления данных">
+            <param name="Local" value="Web/UiModeling_w_ViewArea.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Дерево рядов">
+            <param name="Local" value="Web/SeriesTree_web.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Панель результатов">
+            <param name="Local" value="Web/UiModelling_w_ResultPanel.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Настройка параметров моделирования и прогнозирования">
+        <param name="Local" value="Web/Work/Modelling_setup.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Работа в веб-приложении">
+        <param name="Local" value="Web/Work/UiModelling_w_work.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Работа с моделью">
+          <param name="Local" value="Web/Work/Web_Model_Work.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Настройка порядка расчёта уравнений в модели">
+            <param name="Local" value="Web/Work/Calculation_Order.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Иерархическое структурирование модели">
+            <param name="Local" value="Web/Work/Hierarchical_structuring_model.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Работа с переменными">
+          <param name="Local" value="Web/Work/UiModelling_w_Varable.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Просмотр параметров переменной">
+            <param name="Local" value="Web/Work/Varables/Var_params.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Расчёт описательных статистик переменных">
+            <param name="Local" value="Web/Work/Varables/Var_DescrStat.htm">
+          </object>
+          <ul>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Расширенный тест Дики-Фуллера">
+              <param name="Local" value="Web/Work/Varables/Dickey-Fuller_test.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Тест Гранжера">
+              <param name="Local" value="Web/Work/Varables/Granger_test.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Тест Йохансена">
+              <param name="Local" value="Web/Work/Varables/Johansen_test.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            </ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Выполнение дополнительных операций с переменными">
+            <param name="Local" value="Web/Work/Varables/Var_Fast_Transform.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Работа с уравнениями">
+          <param name="Local" value="Web/Work/Web_Equation_Work.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Создание уравнения">
+            <param name="Local" value="Web/Work/Varables/Create_Equation.htm">
+          </object>
+          <ul>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Быстрое создание уравнения">
+              <param name="Local" value="Web/Work/Quickly_create_equations.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Расширенное создание уравнения">
+              <param name="Local" value="Web/Work/Advanced_creation_equation.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            </ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Настройка параметров уравнения">
+            <param name="Local" value="Web/Work/Configure_equation_parameters.htm">
+          </object>
+          <ul>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Линейная регрессия">
+              <param name="Local" value="Web/SidePanel/Models/UiModelling_w_eq_LinearRegr.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Нелинейная регрессия">
+              <param name="Local" value="Web/SidePanel/Models/UiModelling_w_eq_NonLinearRegr.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Тренд">
+              <param name="Local" value="Web/SidePanel/Models/UiModelling_w_eq_CurveEst.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Фильтр Ходрика-Прескотта">
+              <param name="Local" value="Web/SidePanel/Models/UiModelling_w_eq_Hpf.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Фильтр Бакстера-Кинга">
+              <param name="Local" value="Web/SidePanel/Models/UiModelling_w_eq_Bpf.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Экспоненциальное сглаживание">
+              <param name="Local" value="Web/SidePanel/Models/UiModelling_w_eq_ExpSmooth.htm">
+            </object>
+            <ul>
+              <li><object type="text/sitemap">
+                <param name="Name" value="Настройка автоподбора значений параметров">
+                <param name="Local" value="Web/SidePanel/Autofit_Parameters.htm">
+                <param name="ImageNumber" value="11">
+              </object>
+              </ul>
+            <li><object type="text/sitemap">
+              <param name="Name" value="X11">
+              <param name="Local" value="Web/SidePanel/Models/w_eq_X11.htm">
+            </object>
+            <ul>
+              <li><object type="text/sitemap">
+                <param name="Name" value="Настройка параметров скользящего среднего">
+                <param name="Local" value="Web/SidePanel/Models/X11_MA.htm">
+                <param name="ImageNumber" value="11">
+              </object>
+              <li><object type="text/sitemap">
+                <param name="Name" value="Задание весовых коэффициентов">
+                <param name="Local" value="Web/SidePanel/Models/X11_Weights.htm">
+                <param name="ImageNumber" value="11">
+              </object>
+              </ul>
+            <li><object type="text/sitemap">
+              <param name="Name" value="ARIMA">
+              <param name="Local" value="Web/SidePanel/Models/UiModelling_w_eq_ARIMA.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Модель коррекции ошибок">
+              <param name="Local" value="Web/SidePanel/Models/w_eq_ECM.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Детерминированное уравнение">
+              <param name="Local" value="Web/SidePanel/Models/UiModelling_w_eq_Determ.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Интерполяция">
+              <param name="Local" value="Web/SidePanel/Models/w_eq_Interpolation.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Коллапс">
+              <param name="Local" value="Web/SidePanel/Models/w_eq_Collapse.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Пользовательский код">
+              <param name="Local" value="Web/SidePanel/Models/User_code.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            </ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Настройка периодов расчёта">
+            <param name="Local" value="Web/SidePanel/UiModelling_w_pp_CalcPeriod.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Обработка пропусков">
+            <param name="Local" value="Web/SidePanel/UiModelling_w_pp_MissingData.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Настройка преобразования моделируемой переменной">
+            <param name="Local" value="Web/SidePanel/UiModelling_w_pp_Transformations.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Настройка параметров авторегрессии и скользящего среднего">
+            <param name="Local" value="Web/SidePanel/UiModelling_w_pp_ARMA.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Просмотр результатов расчёта уравнения">
+          </object>
+          <ul>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Спецификация">
+              <param name="Local" value="Web/ResultsPanel/UiModelling_w_rp_specification.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Графики">
+              <param name="Local" value="Web/ResultsPanel/UiModelling_w_rp_chart.htm">
+            </object>
+            <ul>
+              <li><object type="text/sitemap">
+                <param name="Name" value="Особенности отображения данных на графике">
+                <param name="Local" value="Web/ResultsPanel/Charts_specificity.htm">
+                <param name="ImageNumber" value="11">
+              </object>
+              </ul>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Таблица">
+              <param name="Local" value="Web/ResultsPanel/UiModelling_w_rp_table.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Факторы">
+              <param name="Local" value="Web/ResultsPanel/w_rp_factors.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Статистические характеристики">
+              <param name="Local" value="Web/ResultsPanel/UiModelling_w_rp_Statstics.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Матрица корреляции">
+              <param name="Local" value="Web/ResultsPanel/UiModelling_w_rp_Correlation.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Характеристические корни AR и MA процессов">
+              <param name="Local" value="Web/ResultsPanel/w_rp_root_AR_MA.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Матрица весов">
+              <param name="Local" value="Web/ResultsPanel/UiModelling_w_rp_Weight_Matrix.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="АКФ и ЧАКФ">
+              <param name="Local" value="Web/ResultsPanel/UiModelling_w_rp_Acf_pacf.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Ошибки">
+              <param name="Local" value="Web/ResultsPanel/UiModelling_w_rp_Errors.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            </ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Выполнение диагностических тестов">
+            <param name="Local" value="Web/ResultsPanel/w_rp_diagnostics_tst.htm">
+          </object>
+          <ul>
+            <li><object type="text/sitemap">
+              <param name="Name" value="RESET-тест Рамсея">
+              <param name="Local" value="Web/Work/Diagnostics_tst/RESET_tst.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Тест Бреуша-Годфри (LM-тест)">
+              <param name="Local" value="Web/Work/Diagnostics_tst/LM_tst.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Тест Уайта">
+              <param name="Local" value="Web/Work/Diagnostics_tst/White_tst.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            </ul>
+          </ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Работа с системой уравнений">
+          <param name="Local" value="Web/Work/Equation_system.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Работа с целевой функцией">
+          <param name="Local" value="Web/Work/OptimalControl/CriterionFunct.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Настройка выражения целевой функции">
+            <param name="Local" value="Web/Work/OptimalControl/Optimal_control_funct.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Настройка параметров расчета и наименования целевой функции">
+            <param name="Local" value="Web/Work/OptimalControl/OptimalControl_Primary.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Настройка ограничения и траектории целевой функции">
+            <param name="Local" value="Web/Work/OptimalControl/OptimalControl_setup.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Работа с управляющими переменными">
+            <param name="Local" value="Web/Work/OptimalControl/OptimalControl_vars.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Настройка ограничений">
+            <param name="Local" value="Web/Work/OptimalControl/Restriction_setup.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Расчет целевой функции">
+            <param name="Local" value="Web/Work/OptimalControl/OptimalControl_calc.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Работа со сценариями моделирования">
+          <param name="Local" value="Web/Work/UiModelling_w_Scenario.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Работа с моделированием и прогнозированием в режиме просмотра">
+          <param name="Local" value="Web/Work/View_mode.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Вопросы и ответы">
+      <param name="Local" value="FAQ/FAQ.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Как настроить интеграцию с R?">
+        <param name="Local" value="FAQ/R_Integration.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Как настроить задержку расчета модели?">
+        <param name="Local" value="FAQ/Delays.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Как просмотреть отладочную информацию при расчётах?">
+        <param name="Local" value="FAQ/logging_of_the_calculation.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      </ul>
+    </ul>
+</ul>
+</html>

@@ -1,0 +1,1586 @@
+<html>
+<!-- Sitemap 1.0 -->
+<object type="text/site properties">
+  <param name="SiteType" value="toc">
+  <param name="Image Width" value="16">
+  <param name="Window Styles" value="0x800027">
+  <param name="ExWindow Styles" value="0x100">
+</object>
+<ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Andy">
+    <param name="Local" value="Andy_Title.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Введение в сборку Andy">
+      <param name="Local" value="AndyIntroduction.htm">
+      <param name="ImageNumber" value="11">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Интерфейсы сборки Andy">
+      <param name="Local" value="Interface/interface_built_Andy.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IWxArrow">
+        <param name="Local" value="Interface/IWxArrow/IWxArrow.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxArrow.FirstPoint">
+          <param name="Local" value="Interface/IWxArrow/IWxArrow.FirstPoint.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxArrow.HeightOffset">
+          <param name="Local" value="Interface/IWxArrow/IWxArrow.HeightOffset.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxArrow.LastPoint">
+          <param name="Local" value="Interface/IWxArrow/IWxArrow.LastPoint.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxArrow.WidthOffset">
+          <param name="Local" value="Interface/IWxArrow/IWxArrow.WidthOffset.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IWxBaloon">
+        <param name="Local" value="Interface/IWxBaloon/IWxBaloon.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IWxBoxArrow">
+        <param name="Local" value="Interface/IWxBoxArrow/IWxBoxArrow.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxBoxArrow.ArrowHeightOffset">
+          <param name="Local" value="Interface/IWxBoxArrow/IWxBoxArrow.ArrowHeightOffset.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxBoxArrow.ArrowWidthOffset">
+          <param name="Local" value="Interface/IWxBoxArrow/IWxBoxArrow.ArrowWidthOffset.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxBoxArrow.BoxHeightOffset">
+          <param name="Local" value="Interface/IWxBoxArrow/IWxBoxArrow.BoxHeightOffset.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxBoxArrow.BoxWidthOffset">
+          <param name="Local" value="Interface/IWxBoxArrow/IWxBoxArrow.BoxWidthOffset.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IWxConnector">
+        <param name="Local" value="Interface/IWxConnector/IWxConnector.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxConnector.FirstPointAutoCpSelect">
+          <param name="Local" value="Interface/IWxConnector/IWxConnector.FirstPointAutoCpSelect.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxConnector.LastPointAutoCpSelect">
+          <param name="Local" value="Interface/IWxConnector/IWxConnector.LastPointAutoCpSelect.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IWxContainer">
+        <param name="Local" value="Interface/IWxContainer/IWxContainer.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxContainer.ChildShapes">
+          <param name="Local" value="Interface/IWxContainer/IWxContainer.ChildShapes.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IWxCurveLink">
+        <param name="Local" value="Interface/IWxCurveLink/IWxCurveLink.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IWxDoubleArrow">
+        <param name="Local" value="Interface/IWxDoubleArrow/IWxDoubleArrow.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxDoubleArrow.FirstPoint">
+          <param name="Local" value="Interface/IWxDoubleArrow/IWxDoubleArrow.FirstPoint.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxDoubleArrow.HeightOffset">
+          <param name="Local" value="Interface/IWxDoubleArrow/IWxDoubleArrow.HeightOffset.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxDoubleArrow.LastPoint">
+          <param name="Local" value="Interface/IWxDoubleArrow/IWxDoubleArrow.LastPoint.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxDoubleArrow.WidthOffset">
+          <param name="Local" value="Interface/IWxDoubleArrow/IWxDoubleArrow.WidthOffset.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IWxDoubleBoxArrow">
+        <param name="Local" value="Interface/IWxDoubleBoxArrow/IWxDoubleBoxArrow.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxDoubleBoxArrow.ArrowHeightOffset">
+          <param name="Local" value="Interface/IWxDoubleBoxArrow/IWxDoubleBoxArrow.ArrowHeightOffset.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxDoubleBoxArrow.ArrowWidthOffset">
+          <param name="Local" value="Interface/IWxDoubleBoxArrow/IWxDoubleBoxArrow.ArrowWidthOffset.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxDoubleBoxArrow.BoxHeightOffset">
+          <param name="Local" value="Interface/IWxDoubleBoxArrow/IWxDoubleBoxArrow.BoxHeightOffset.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxDoubleBoxArrow.BoxWidthOffset">
+          <param name="Local" value="Interface/IWxDoubleBoxArrow/IWxDoubleBoxArrow.BoxWidthOffset.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IWxEllipse">
+        <param name="Local" value="Interface/IWxEllipse/IWxEllipse.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IWxEllipseBaloon">
+        <param name="Local" value="Interface/IWxEllipseBaloon/IWxEllipseBaloon.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IWxGroup">
+        <param name="Local" value="Interface/IWxGroup/IWxGroup.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxGroup.AllowObjectSelection">
+          <param name="Local" value="Interface/IWxGroup/IWxGroup.AllowObjectSelection.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxGroup.Ungroup">
+          <param name="Local" value="Interface/IWxGroup/IWxGroup.Ungroup.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IWxLink">
+        <param name="Local" value="Interface/IWxLink/IWxLink.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxLink.FirstPoint">
+          <param name="Local" value="Interface/IWxLink/IWxLink.FirstPoint.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxLink.InsertPoint">
+          <param name="Local" value="Interface/IWxLink/IWxLink.InsertPoint.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxLink.LastPoint">
+          <param name="Local" value="Interface/IWxLink/IWxLink.LastPoint.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxLink.PointCount">
+          <param name="Local" value="Interface/IWxLink/IWxLink.PointCount.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxLink.Points">
+          <param name="Local" value="Interface/IWxLink/IWxLink.Points.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxLink.RemovePoint">
+          <param name="Local" value="Interface/IWxLink/IWxLink.RemovePoint.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IWxLinkedBaloon">
+        <param name="Local" value="Interface/IWxLinkedBaloon/IWxLinkedBaloon.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxLinkedBaloon.PointCount">
+          <param name="Local" value="Interface/IWxLinkedBaloon/IWxLinkedBaloon.PointCount.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxLinkedBaloon.Points">
+          <param name="Local" value="Interface/IWxLinkedBaloon/IWxLinkedBaloon.Points.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxLinkedBaloon.ShowLine">
+          <param name="Local" value="Interface/IWxLinkedBaloon/IWxLinkedBaloon.ShowLine.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IWxObject">
+        <param name="Local" value="Interface/IWxObject/IWxObject.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxObject.BeginUpdate">
+          <param name="Local" value="Interface/IWxObject/IWxObject.BeginUpdate.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxObject.Delete">
+          <param name="Local" value="Interface/IWxObject/IWxObject.Delete.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxObject.EndUpdate">
+          <param name="Local" value="Interface/IWxObject/IWxObject.EndUpdate.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxObject.Protection">
+          <param name="Local" value="Interface/IWxObject/IWxObject.Protection.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IWxPageSettings">
+        <param name="Local" value="Interface/IWxPageSettings/IWxPageSettings.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxPageSettings.FitToPages">
+          <param name="Local" value="Interface/IWxPageSettings/IWxPageSettings.FitToPages.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxPageSettings.PageHeight">
+          <param name="Local" value="Interface/IWxPageSettings/IWxPageSettings.PageHeight.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxPageSettings.PageWidth">
+          <param name="Local" value="Interface/IWxPageSettings/IWxPageSettings.PageWidth.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxPageSettings.Scale">
+          <param name="Local" value="Interface/IWxPageSettings/IWxPageSettings.Scale.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IWxRectangle">
+        <param name="Local" value="Interface/IWxRectangle/IWxRectangle.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IWxRectangleBaloon">
+        <param name="Local" value="Interface/IWxRectangleBaloon/IWxRectangleBaloon.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IWxRegulargon">
+        <param name="Local" value="Interface/IWxRegulargon/IWxRegulargon.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxRegulargon.NumberOfSides">
+          <param name="Local" value="Interface/IWxRegulargon/IWxRegulargon.NumberOfSides.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IWxRoundedRectangle">
+        <param name="Local" value="Interface/IWxRoundedRectangle/IWxRoundedRectangle.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxRoundedRectangle.RoundingOffset">
+          <param name="Local" value="Interface/IWxRoundedRectangle/IWxRoundedRectangle.RoundingOffset.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IWxSelectedShapes">
+        <param name="Local" value="Interface/IWxSelectedShapes/IWxSelectedShapes.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxSelectedShapes.Add">
+          <param name="Local" value="Interface/IWxSelectedShapes/IWxSelectedShapes.Add.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxSelectedShapes.Align">
+          <param name="Local" value="Interface/IWxSelectedShapes/IWxSelectedShapes.Align.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxSelectedShapes.Clear">
+          <param name="Local" value="Interface/IWxSelectedShapes/IWxSelectedShapes.Clear.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxSelectedShapes.Delete">
+          <param name="Local" value="Interface/IWxSelectedShapes/IWxSelectedShapes.Delete.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxSelectedShapes.Remove">
+          <param name="Local" value="Interface/IWxSelectedShapes/IWxSelectedShapes.Remove.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxSelectedShapes.Size">
+          <param name="Local" value="Interface/IWxSelectedShapes/IWxSelectedShapes.Size.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IWxRoundedRectangleBaloon">
+        <param name="Local" value="Interface/IWxRoundedRectangleBaloon/IWxRoundedRectangleBaloon.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxRoundedRectangleBaloon.RoundingFactor">
+          <param name="Local" value="Interface/IWxRoundedRectangleBaloon/IWxRoundedRectangleBaloon.RoundingFactor.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IWxSelectionStyle">
+        <param name="Local" value="Interface/IWxSelectionStyle/IWxSelectionStyle.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxSelectionStyle.ActivePointColor">
+          <param name="Local" value="Interface/IWxSelectionStyle/IWxSelectionStyle.ActivePointColor.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxSelectionStyle.ActiveRotationPointColor">
+          <param name="Local" value="Interface/IWxSelectionStyle/IWxSelectionStyle.ActiveRotationPointColor.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxSelectionStyle.ActiveSelectAndMovePointColor">
+          <param name="Local" value="Interface/IWxSelectionStyle/IWxSelectionStyle.ActiveSelectAndMovePointColor.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxSelectionStyle.ConnectionPointColor">
+          <param name="Local" value="Interface/IWxSelectionStyle/IWxSelectionStyle.ConnectionPointColor.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxSelectionStyle.FrameColor">
+          <param name="Local" value="Interface/IWxSelectionStyle/IWxSelectionStyle.FrameColor.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxSelectionStyle.FrameVisible">
+          <param name="Local" value="Interface/IWxSelectionStyle/IWxSelectionStyle.FrameVisible.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxSelectionStyle.GroupFrameColor">
+          <param name="Local" value="Interface/IWxSelectionStyle/IWxSelectionStyle.GroupFrameColor.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxSelectionStyle.GroupFrameVisible">
+          <param name="Local" value="Interface/IWxSelectionStyle/IWxSelectionStyle.GroupFrameVisible.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxSelectionStyle.RotationPointVisible">
+          <param name="Local" value="Interface/IWxSelectionStyle/IWxSelectionStyle.RotationPointVisible.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxSelectionStyle.RoundedRectanglePointColor">
+          <param name="Local" value="Interface/IWxSelectionStyle/IWxSelectionStyle.RoundedRectanglePointColor.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxSelectionStyle.SelectedPointColor">
+          <param name="Local" value="Interface/IWxSelectionStyle/IWxSelectionStyle.SelectedPointColor.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxSelectionStyle.SelectedRotationPointColor">
+          <param name="Local" value="Interface/IWxSelectionStyle/IWxSelectionStyle.SelectedRotationPointColor.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxSelectionStyle.SelectionPointSize">
+          <param name="Local" value="Interface/IWxSelectionStyle/IWxSelectionStyle.SelectionPointSize.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxSelectionStyle.SelectionPointStyle">
+          <param name="Local" value="Interface/IWxSelectionStyle/IWxSelectionStyle.SelectionPointStyle.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IWxShape">
+        <param name="Local" value="Interface/IWxShape/IWxShape.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxShape.AddConnectionPoint">
+          <param name="Local" value="Interface/IWxShape/IWxShape.AddConnectionPoint.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxShape.AllowedInteractions">
+          <param name="Local" value="Interface/IWxShape/IWxShape.AllowedInteractions.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxShape.Angle">
+          <param name="Local" value="Interface/IWxShape/IWxShape.Angle.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxShape.BringToFront">
+          <param name="Local" value="Interface/IWxShape/IWxShape.BringToFront.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxShape.ConnectedCPs">
+          <param name="Local" value="Interface/IWxShape/IWxShape.ConnectedCPs.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxShape.ConnectedCpShapesCount">
+          <param name="Local" value="Interface/IWxShape/IWxShape.ConnectedCpShapesCount.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxShape.ConnectedShapes">
+          <param name="Local" value="Interface/IWxShape/IWxShape.ConnectedShapes.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxShape.ConnectionPoints">
+          <param name="Local" value="Interface/IWxShape/IWxShape.ConnectionPoints.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxShape.ConnectionPointsCount">
+          <param name="Local" value="Interface/IWxShape/IWxShape.ConnectionPointsCount.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxShape.CreateExtension">
+          <param name="Local" value="Interface/IWxShape/IWxShape.CreateExtension.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxShape.Cursor">
+          <param name="Local" value="Interface/IWxShape/IWxShape.Cursor.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxShape.Extension">
+          <param name="Local" value="Interface/IWxShape/IWxShape.Extension.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxShape.FormattedText">
+          <param name="Local" value="Interface/IWxShape/IWxShape.FormattedText.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxShape.GroupBehaviour">
+          <param name="Local" value="Interface/IWxShape/IWxShape.GroupBehaviour.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxShape.Id">
+          <param name="Local" value="Interface/IWxShape/IWxShape.Id.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxShape.LocalPinPositionCoeff">
+          <param name="Local" value="Interface/IWxShape/IWxShape.LocalPinPositionCoeff.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxShape.MoveConnectionPoint">
+          <param name="Local" value="Interface/IWxShape/IWxShape.MoveConnectionPoint.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxShape.Parent">
+          <param name="Local" value="Interface/IWxShape/IWxShape.Parent.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxShape.Picture">
+          <param name="Local" value="Interface/IWxShape/IWxShape.Picture.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxShape.PinPosition">
+          <param name="Local" value="Interface/IWxShape/IWxShape.PinPosition.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxShape.RemoveConnectionPoint">
+          <param name="Local" value="Interface/IWxShape/IWxShape.RemoveConnectionPoint.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxShape.SelectionStyle">
+          <param name="Local" value="Interface/IWxShape/IWxShape.SelectionStyle.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxShape.SendToBack">
+          <param name="Local" value="Interface/IWxShape/IWxShape.SendToBack.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxShape.Size">
+          <param name="Local" value="Interface/IWxShape/IWxShape.Size.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxShape.Style">
+          <param name="Local" value="Interface/IWxShape/IWxShape.Style.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxShape.Tag">
+          <param name="Local" value="Interface/IWxShape/IWxShape.Tag.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxShape.Text">
+          <param name="Local" value="Interface/IWxShape/IWxShape.Text.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxShape.TextHorzOffset">
+          <param name="Local" value="Interface/IWxShape/IWxShape.TextHorzOffset.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxShape.TextVertOffset">
+          <param name="Local" value="Interface/IWxShape/IWxShape.TextVertOffset.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxShape.TransparentColor">
+          <param name="Local" value="Interface/IWxShape/IWxShape.TransparentColor.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxShape.Type">
+          <param name="Local" value="Interface/IWxShape/IWxShape.Type.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxShape.Workspace">
+          <param name="Local" value="Interface/IWxShape/IWxShape.Workspace.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IWxShapeExtension">
+        <param name="Local" value="Interface/IWxShapeExtension/IWxShapeExtension.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IWxShapes">
+        <param name="Local" value="Interface/IWxShapes/IWxShapes.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxShapes.ClearAll">
+          <param name="Local" value="Interface/IWxShapes/IWxShapes.ClearAll.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxShapes.Count">
+          <param name="Local" value="Interface/IWxShapes/IWxShapes.Count.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxShapes.FindById">
+          <param name="Local" value="Interface/IWxShapes/IWxShapes.FindById.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxShapes.Item">
+          <param name="Local" value="Interface/IWxShapes/IWxShapes.Item.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxShapes.RemoveById">
+          <param name="Local" value="Interface/IWxShapes/IWxShapes.RemoveById.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IWxSmoothBaloon">
+        <param name="Local" value="Interface/IWxSmoothBaloon/IWxSmoothBaloon.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxSmoothBaloon.RelativePointPosition">
+          <param name="Local" value="Interface/IWxSmoothBaloon/IWxSmoothBaloon.RelativePointPosition.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IWxStraightLink">
+        <param name="Local" value="Interface/IWxStraightLink/IWxStraightLink.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IWxStyle">
+        <param name="Local" value="Interface/IWxStyle/IWxStyle.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxStyle.AdjustMode">
+          <param name="Local" value="Interface/IWxStyle/IWxStyle.AdjustMode.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxStyle.Assign">
+          <param name="Local" value="Interface/IWxStyle/IWxStyle.Assign.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxStyle.BackgroundBrushBackColor">
+          <param name="Local" value="Interface/IWxStyle/IWxStyle.BackgroundBrushBackColor.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxStyle.BackgroundBrushBackTransparent">
+          <param name="Local" value="Interface/IWxStyle/IWxStyle.BackgroundBrushBackTransparent.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxStyle.BackgroundBrushForeColor">
+          <param name="Local" value="Interface/IWxStyle/IWxStyle.BackgroundBrushForeColor.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxStyle.BackgroundBrushForeTransparent">
+          <param name="Local" value="Interface/IWxStyle/IWxStyle.BackgroundBrushForeTransparent.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxStyle.BackgroundBrushPattern">
+          <param name="Local" value="Interface/IWxStyle/IWxStyle.BackgroundBrushPattern.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxStyle.Id">
+          <param name="Local" value="Interface/IWxStyle/IWxStyle.Id.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxStyle.IsPrivate">
+          <param name="Local" value="Interface/IWxStyle/IWxStyle.IsPrivate.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxStyle.LinePenBeginWxCap">
+          <param name="Local" value="Interface/IWxStyle/IWxStyle.LinePenBeginWxCap.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxStyle.LinePenCapSize">
+          <param name="Local" value="Interface/IWxStyle/IWxStyle.LinePenCapSize.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxStyle.LinePenColor">
+          <param name="Local" value="Interface/IWxStyle/IWxStyle.LinePenColor.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxStyle.LinePenDashPattern">
+          <param name="Local" value="Interface/IWxStyle/IWxStyle.LinePenDashPattern.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxStyle.LinePenEndWxCap">
+          <param name="Local" value="Interface/IWxStyle/IWxStyle.LinePenEndWxCap.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxStyle.LinePenTransparent">
+          <param name="Local" value="Interface/IWxStyle/IWxStyle.LinePenTransparent.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxStyle.LinePenWidth">
+          <param name="Local" value="Interface/IWxStyle/IWxStyle.LinePenWidth.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxStyle.LinePenWxDashStyle">
+          <param name="Local" value="Interface/IWxStyle/IWxStyle.LinePenWxDashStyle.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxStyle.PictureAlignmentHorizontal">
+          <param name="Local" value="Interface/IWxStyle/IWxStyle.PictureAlignmentHorizontal.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxStyle.PictureAlignmentVertical">
+          <param name="Local" value="Interface/IWxStyle/IWxStyle.PictureAlignmentVertical.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxStyle.PictureAutoSize">
+          <param name="Local" value="Interface/IWxStyle/IWxStyle.PictureAutoSize.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxStyle.PictureMarginBottom">
+          <param name="Local" value="Interface/IWxStyle/IWxStyle.PictureMarginBottom.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxStyle.PictureMarginLeft">
+          <param name="Local" value="Interface/IWxStyle/IWxStyle.PictureMarginLeft.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxStyle.PictureMarginRight">
+          <param name="Local" value="Interface/IWxStyle/IWxStyle.PictureMarginRight.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxStyle.PictureMarginTop">
+          <param name="Local" value="Interface/IWxStyle/IWxStyle.PictureMarginTop.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxStyle.PictureProportional">
+          <param name="Local" value="Interface/IWxStyle/IWxStyle.PictureProportional.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxStyle.PictureStretch">
+          <param name="Local" value="Interface/IWxStyle/IWxStyle.PictureStretch.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxStyle.PictureTransparent">
+          <param name="Local" value="Interface/IWxStyle/IWxStyle.PictureTransparent.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxStyle.ShadowBrushBackColor">
+          <param name="Local" value="Interface/IWxStyle/IWxStyle.ShadowBrushBackColor.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxStyle.ShadowBrushBackTransparent">
+          <param name="Local" value="Interface/IWxStyle/IWxStyle.ShadowBrushBackTransparent.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxStyle.ShadowBrushForeColor">
+          <param name="Local" value="Interface/IWxStyle/IWxStyle.ShadowBrushForeColor.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxStyle.ShadowBrushForeTransparent">
+          <param name="Local" value="Interface/IWxStyle/IWxStyle.ShadowBrushForeTransparent.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxStyle.ShadowBrushPattern">
+          <param name="Local" value="Interface/IWxStyle/IWxStyle.ShadowBrushPattern.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxStyle.TextAlignmentHorizontal">
+          <param name="Local" value="Interface/IWxStyle/IWxStyle.TextAlignmentHorizontal.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxStyle.TextAlignmentVertical">
+          <param name="Local" value="Interface/IWxStyle/IWxStyle.TextAlignmentVertical.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxStyle.TextBackBrushColor">
+          <param name="Local" value="Interface/IWxStyle/IWxStyle.TextBackBrushColor.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxStyle.TextBackBrushTransparent">
+          <param name="Local" value="Interface/IWxStyle/IWxStyle.TextBackBrushTransparent.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxStyle.TextFontBrushColor">
+          <param name="Local" value="Interface/IWxStyle/IWxStyle.TextFontBrushColor.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxStyle.TextFontBrushTransparent">
+          <param name="Local" value="Interface/IWxStyle/IWxStyle.TextFontBrushTransparent.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxStyle.TextFontFamilyName">
+          <param name="Local" value="Interface/IWxStyle/IWxStyle.TextFontFamilyName.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxStyle.TextFontSize">
+          <param name="Local" value="Interface/IWxStyle/IWxStyle.TextFontSize.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxStyle.TextFontStyleBold">
+          <param name="Local" value="Interface/IWxStyle/IWxStyle.TextFontStyleBold.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxStyle.TextFontStyleItalic">
+          <param name="Local" value="Interface/IWxStyle/IWxStyle.TextFontStyleItalic.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxStyle.TextFontStyleStrikeout">
+          <param name="Local" value="Interface/IWxStyle/IWxStyle.TextFontStyleStrikeout.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxStyle.TextFontStyleUnderline">
+          <param name="Local" value="Interface/IWxStyle/IWxStyle.TextFontStyleUnderline.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxStyle.TextMarginBottom">
+          <param name="Local" value="Interface/IWxStyle/IWxStyle.TextMarginBottom.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxStyle.TextMarginLeft">
+          <param name="Local" value="Interface/IWxStyle/IWxStyle.TextMarginLeft.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxStyle.TextMarginRight">
+          <param name="Local" value="Interface/IWxStyle/IWxStyle.TextMarginRight.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxStyle.TextMarginTop">
+          <param name="Local" value="Interface/IWxStyle/IWxStyle.TextMarginTop.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxStyle.TextPosition">
+          <param name="Local" value="Interface/IWxStyle/IWxStyle.TextPosition.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxStyle.WordWrap">
+          <param name="Local" value="Interface/IWxStyle/IWxStyle.WordWrap.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxStyle.Workspace">
+          <param name="Local" value="Interface/IWxStyle/IWxStyle.Workspace.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IWxStyles">
+        <param name="Local" value="Interface/IWxStyles/IWxStyles.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxStyles.Count">
+          <param name="Local" value="Interface/IWxStyles/IWxStyles.Count.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxStyles.FindById">
+          <param name="Local" value="Interface/IWxStyles/IWxStyles.FindById.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxStyles.Item">
+          <param name="Local" value="Interface/IWxStyles/IWxStyles.Item.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IWxTableShape">
+        <param name="Local" value="Interface/IWxTableShape/IWxTableShape.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxTableShape.AddColumnWithFixedWidth">
+          <param name="Local" value="Interface/IWxTableShape/IWxTableShape.AddColumnWithFixedWidth.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxTableShape.AddRowWithFixedHeight">
+          <param name="Local" value="Interface/IWxTableShape/IWxTableShape.AddRowWithFixedHeight.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxTableShape.AdjustSize">
+          <param name="Local" value="Interface/IWxTableShape/IWxTableShape.AdjustSize.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxTableShape.TabSheet">
+          <param name="Local" value="Interface/IWxTableShape/IWxTableShape.TabSheet.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IWxView">
+        <param name="Local" value="Interface/IWxView/IWxView.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxView.ActiveShape">
+          <param name="Local" value="Interface/IWxView/IWxView.ActiveShape.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxView.ActiveTool">
+          <param name="Local" value="Interface/IWxView/IWxView.ActiveTool.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxView.ArrangeShape">
+          <param name="Local" value="Interface/IWxView/IWxView.ArrangeShape.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxView.AutoScaleAndScroll">
+          <param name="Local" value="Interface/IWxView/IWxView.AutoScaleAndScroll.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxView.AutoScroll">
+          <param name="Local" value="Interface/IWxView/IWxView.AutoScroll.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxView.BackgroundColor">
+          <param name="Local" value="Interface/IWxView/IWxView.BackgroundColor.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxView.ConvertPtToView">
+          <param name="Local" value="Interface/IWxView/IWxView.ConvertPtToView.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxView.CopySelectedShapes">
+          <param name="Local" value="Interface/IWxView/IWxView.CopySelectedShapes.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxView.CutSelectedShapes">
+          <param name="Local" value="Interface/IWxView/IWxView.CutSelectedShapes.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxView.DeleteSelectedShapes">
+          <param name="Local" value="Interface/IWxView/IWxView.DeleteSelectedShapes.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxView.DisplayConnectionPoints">
+          <param name="Local" value="Interface/IWxView/IWxView.DisplayConnectionPoints.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxView.DisplayFocusFrame">
+          <param name="Local" value="Interface/IWxView/IWxView.DisplayFocusFrame.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxView.DisplayGrid">
+          <param name="Local" value="Interface/IWxView/IWxView.DisplayGrid.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxView.DisplayIntersections">
+          <param name="Local" value="Interface/IWxView/IWxView.DisplayIntersections.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxView.DisplayScrollBars">
+          <param name="Local" value="Interface/IWxView/IWxView.DisplayScrollBars.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxView.DisplaySelections">
+          <param name="Local" value="Interface/IWxView/IWxView.DisplaySelections.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxView.DrawOnGraphics">
+          <param name="Local" value="Interface/IWxView/IWxView.DrawOnGraphics.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxView.ExplorerMode">
+          <param name="Local" value="Interface/IWxView/IWxView.ExplorerMode.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxView.Fixed">
+          <param name="Local" value="Interface/IWxView/IWxView.Fixed.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxView.FocusedShape">
+          <param name="Local" value="Interface/IWxView/IWxView.FocusedShape.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxView.GetShapeByPt">
+          <param name="Local" value="Interface/IWxView/IWxView.GetShapeByPt.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxView.GlueConnector">
+          <param name="Local" value="Interface/IWxView/IWxView.GlueConnector.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxView.GroupSelectedShapes">
+          <param name="Local" value="Interface/IWxView/IWxView.GroupSelectedShapes.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxView.Id">
+          <param name="Local" value="Interface/IWxView/IWxView.Id.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxView.Offset">
+          <param name="Local" value="Interface/IWxView/IWxView.Offset.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxView.Paste">
+          <param name="Local" value="Interface/IWxView/IWxView.Paste.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxView.Scale">
+          <param name="Local" value="Interface/IWxView/IWxView.Scale.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxView.ScrollToShape">
+          <param name="Local" value="Interface/IWxView/IWxView.ScrollToShape.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxView.SelectAllShapes">
+          <param name="Local" value="Interface/IWxView/IWxView.SelectAllShapes.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxView.SelectedShapes">
+          <param name="Local" value="Interface/IWxView/IWxView.SelectedShapes.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxView.SelectionStyle">
+          <param name="Local" value="Interface/IWxView/IWxView.SelectionStyle.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxView.SetBackgroundImage">
+          <param name="Local" value="Interface/IWxView/IWxView.SetBackgroundImage.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxView.Size">
+          <param name="Local" value="Interface/IWxView/IWxView.Size.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxView.UngroupSelectedShapes">
+          <param name="Local" value="Interface/IWxView/IWxView.UngroupSelectedShapes.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxView.ViewToWorkspace">
+          <param name="Local" value="Interface/IWxView/IWxView.ViewToWorkspace.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxView.Workspace">
+          <param name="Local" value="Interface/IWxView/IWxView.Workspace.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxView.WorkspaceToView">
+          <param name="Local" value="Interface/IWxView/IWxView.WorkspaceToView.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IWxViewExporter">
+        <param name="Local" value="Interface/IWxViewExporter/IWxViewExporter.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxViewExporter.ExportToFile">
+          <param name="Local" value="Interface/IWxViewExporter/IWxViewExporter.ExportToFile.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxViewExporter.FullLengthTitle">
+          <param name="Local" value="Interface/IWxViewExporter/IWxViewExporter.FullLengthTitle.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxViewExporter.GetBitmap">
+          <param name="Local" value="Interface/IWxViewExporter/IWxViewExporter.GetBitmap.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxViewExporter.Label">
+          <param name="Local" value="Interface/IWxViewExporter/IWxViewExporter.Label.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxViewExporter.PixelHeight">
+          <param name="Local" value="Interface/IWxViewExporter/IWxViewExporter.PixelHeight.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxViewExporter.PixelWidth">
+          <param name="Local" value="Interface/IWxViewExporter/IWxViewExporter.PixelWidth.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxViewExporter.WxView">
+          <param name="Local" value="Interface/IWxViewExporter/IWxViewExporter.WxView.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IWxViews">
+        <param name="Local" value="Interface/IWxViews/IWxViews.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxViews.Count">
+          <param name="Local" value="Interface/IWxViews/IWxViews.Count.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxViews.Item">
+          <param name="Local" value="Interface/IWxViews/IWxViews.Item.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IWxWorkspace">
+        <param name="Local" value="Interface/IWxWorkspace/IWxWorkspace.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxWorkspace.AutoLinkShapes">
+          <param name="Local" value="Interface/IWxWorkspace/IWxWorkspace.AutoLinkShapes.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxWorkspace.CreateArrow">
+          <param name="Local" value="Interface/IWxWorkspace/IWxWorkspace.CreateArrow.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxWorkspace.CreateBoxArrow">
+          <param name="Local" value="Interface/IWxWorkspace/IWxWorkspace.CreateBoxArrow.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxWorkspace.CreateCurveLink">
+          <param name="Local" value="Interface/IWxWorkspace/IWxWorkspace.CreateCurveLink.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxWorkspace.CreateDoubleArrow">
+          <param name="Local" value="Interface/IWxWorkspace/IWxWorkspace.CreateDoubleArrow.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxWorkspace.CreateDoubleBoxArrow">
+          <param name="Local" value="Interface/IWxWorkspace/IWxWorkspace.CreateDoubleBoxArrow.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxWorkspace.CreateEllipse">
+          <param name="Local" value="Interface/IWxWorkspace/IWxWorkspace.CreateEllipse.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxWorkspace.CreateEllipseBaloon">
+          <param name="Local" value="Interface/IWxWorkspace/IWxWorkspace.CreateEllipseBaloon.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxWorkspace.CreateLink">
+          <param name="Local" value="Interface/IWxWorkspace/IWxWorkspace.CreateLink.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxWorkspace.CreateLinkedBaloon">
+          <param name="Local" value="Interface/IWxWorkspace/IWxWorkspace.CreateLinkedBaloon.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxWorkspace.CreateRectangle">
+          <param name="Local" value="Interface/IWxWorkspace/IWxWorkspace.CreateRectangle.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxWorkspace.CreateRectangleBaloon">
+          <param name="Local" value="Interface/IWxWorkspace/IWxWorkspace.CreateRectangleBaloon.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxWorkspace.CreateRegulargon">
+          <param name="Local" value="Interface/IWxWorkspace/IWxWorkspace.CreateRegulargon.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxWorkspace.CreateRoundedRectangle">
+          <param name="Local" value="Interface/IWxWorkspace/IWxWorkspace.CreateRoundedRectangle.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxWorkspace.CreateRoundedRectangleBaloon">
+          <param name="Local" value="Interface/IWxWorkspace/IWxWorkspace.CreateRoundedRectangleBaloon.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxWorkspace.CreateStraightLink">
+          <param name="Local" value="Interface/IWxWorkspace/IWxWorkspace.CreateStraightLink.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxWorkspace.CreateStyle">
+          <param name="Local" value="Interface/IWxWorkspace/IWxWorkspace.CreateStyle.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxWorkspace.CreateTableShape">
+          <param name="Local" value="Interface/IWxWorkspace/IWxWorkspace.CreateTableShape.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxWorkspace.CreateView">
+          <param name="Local" value="Interface/IWxWorkspace/IWxWorkspace.CreateView.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxWorkspace.DefaultStyle">
+          <param name="Local" value="Interface/IWxWorkspace/IWxWorkspace.DefaultStyle.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxWorkspace.DeglueConnectionPoints">
+          <param name="Local" value="Interface/IWxWorkspace/IWxWorkspace.DeglueConnectionPoints.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxWorkspace.DeglueShapes">
+          <param name="Local" value="Interface/IWxWorkspace/IWxWorkspace.DeglueShapes.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxWorkspace.GlueConnectionPoints">
+          <param name="Local" value="Interface/IWxWorkspace/IWxWorkspace.GlueConnectionPoints.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxWorkspace.LoadFromFile">
+          <param name="Local" value="Interface/IWxWorkspace/IWxWorkspace.LoadFromFile.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxWorkspace.LoadFromXml">
+          <param name="Local" value="Interface/IWxWorkspace/IWxWorkspace.LoadFromXml.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxWorkspace.Modified">
+          <param name="Local" value="Interface/IWxWorkspace/IWxWorkspace.Modified.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxWorkspace.Name">
+          <param name="Local" value="Interface/IWxWorkspace/IWxWorkspace.Name.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxWorkspace.PageSettings">
+          <param name="Local" value="Interface/IWxWorkspace/IWxWorkspace.PageSettings.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxWorkspace.Redo">
+          <param name="Local" value="Interface/IWxWorkspace/IWxWorkspace.Redo.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxWorkspace.RedoNumSteps">
+          <param name="Local" value="Interface/IWxWorkspace/IWxWorkspace.RedoNumSteps.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxWorkspace.Replace">
+          <param name="Local" value="Interface/IWxWorkspace/IWxWorkspace.Replace.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxWorkspace.RepositoryObjectType">
+          <param name="Local" value="Interface/IWxWorkspace/iwxworkspace.repositoryobjecttype.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxWorkspace.SaveToFile">
+          <param name="Local" value="Interface/IWxWorkspace/IWxWorkspace.SaveToFile.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxWorkspace.SaveToXml">
+          <param name="Local" value="Interface/IWxWorkspace/IWxWorkspace.SaveToXml.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxWorkspace.Shapes">
+          <param name="Local" value="Interface/IWxWorkspace/iwxworkspace.shapes.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxWorkspace.Size">
+          <param name="Local" value="Interface/IWxWorkspace/IWxWorkspace.Size.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxWorkspace.StickyShapes">
+          <param name="Local" value="Interface/IWxWorkspace/IWxWorkspace.StickyShapes.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxWorkspace.Styles">
+          <param name="Local" value="Interface/IWxWorkspace/IWxWorkspace.Styles.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxWorkspace.Undo">
+          <param name="Local" value="Interface/IWxWorkspace/IWxWorkspace.Undo.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxWorkspace.UndoEnabled">
+          <param name="Local" value="Interface/IWxWorkspace/IWxWorkspace.UndoEnabled.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxWorkspace.UndoNumSteps">
+          <param name="Local" value="Interface/IWxWorkspace/IWxWorkspace.UndoNumSteps.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IWxWorkspace.Views">
+          <param name="Local" value="Interface/IWxWorkspace/IWxWorkspace.Views.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Перечисления сборки Andy">
+      <param name="Local" value="Enums/Enums_built_Andy.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="GxAlignment">
+        <param name="Local" value="Enums/GxAlignment.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="GxBrushPattern">
+        <param name="Local" value="Enums/GxBrushPattern.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="WxAllowedInteractions">
+        <param name="Local" value="Enums/WxAllowedInteractions.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="WxAdjustMode">
+        <param name="Local" value="Enums/WxAdjustMode.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="WxCursor">
+        <param name="Local" value="Enums/WxCursor.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="WxDashStyle">
+        <param name="Local" value="Enums/WxDashStyle.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="WxDrawType">
+        <param name="Local" value="Enums/WxDrawType.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="WxFigureType">
+        <param name="Local" value="Enums/wxfiguretype.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="WxGroupBehaviour">
+        <param name="Local" value="Enums/WxGroupBehaviour.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="WxLineCap">
+        <param name="Local" value="Enums/WxLineCap.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="WxObjectProperty">
+        <param name="Local" value="Enums/WxObjectProperty.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="WxSelectionPointStyle">
+        <param name="Local" value="Enums/WxSelectionPointStyle.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="WxShapeOperation">
+        <param name="Local" value="Enums/WxShapeOperation.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="WxShapesAlignment">
+        <param name="Local" value="Enums/WxShapesAlignment.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="WxShapesSizing">
+        <param name="Local" value="Enums/WxShapesSizing.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="WxShapeType">
+        <param name="Local" value="Enums/WxShapeType.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="WxTextPosition">
+        <param name="Local" value="Enums/WxTextPosition.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="WxTool">
+        <param name="Local" value="Enums/WxTool.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="WxWordWrap">
+        <param name="Local" value="Enums/WxWordWrap.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Классы сборки Andy">
+      <param name="Local" value="Class/Class_built_Andy.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="WxViewExporter">
+        <param name="Local" value="Class/WxViewExporter/WxViewExporter.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="WxWorkspace">
+        <param name="Local" value="Class/WxWorkspace/WxWorkspace.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Примеры">
+      <param name="Local" value="Samples/Example_built_Andy.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Сохранение изменений рабочего пространства">
+        <param name="Local" value="Samples/AndyExample3.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Создание объектов, их стилей и связи между ними">
+        <param name="Local" value="Samples/AndyExample1.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Размещение объекта репозитория на рабочем пространстве">
+        <param name="Local" value="Samples/AndyExample2.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      </ul>
+    </ul>
+</ul>
+</html>

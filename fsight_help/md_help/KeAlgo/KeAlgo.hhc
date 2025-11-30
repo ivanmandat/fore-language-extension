@@ -1,0 +1,1562 @@
+<html>
+<!-- Sitemap 1.0 -->
+<object type="text/site properties">
+  <param name="SiteType" value="toc">
+  <param name="Image Width" value="16">
+  <param name="Window Styles" value="0x800027">
+  <param name="ExWindow Styles" value="0x100">
+</object>
+<ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Algo">
+    <param name="Local" value="Intro/KeAlgo_TitlePage.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Введение в сборку Algo">
+      <param name="Local" value="Intro/KeAlgo_Introduction.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Общие принципы программирования с использованием сборки Algo">
+        <param name="Local" value="Intro/KeAlgo_Programming.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Иерархия сборки Algo">
+        <param name="Local" value="Intro/KeAlgo_Hierarchy.htm">
+        <param name="x-condition" value="Public,Chm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Работа с алгоритмом расчёта">
+          <param name="Local" value="Intro/KeAlgo_Hierarchy.htm#algorithm642b3b9347ca42c9b00b820c00c373fa=1">
+          <param name="ImageNumber" value="11">
+          <param name="x-condition" value="Public,Chm">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Работа с объектами алгоритма расчёта">
+          <param name="Local" value="Intro/KeAlgo_Hierarchy.htm#objects642b3b9347ca42c9b00b820c00c373fa=2">
+          <param name="ImageNumber" value="11">
+          <param name="x-condition" value="Public,Chm">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Настройка параметров алгоритма расчёта">
+          <param name="Local" value="Intro/KeAlgo_Hierarchy.htm#parameter642b3b9347ca42c9b00b820c00c373fa=3">
+          <param name="ImageNumber" value="11">
+          <param name="x-condition" value="Public,Chm">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Отладка расчёта алгоритма">
+          <param name="Local" value="Intro/KeAlgo_Hierarchy.htm#debug642b3b9347ca42c9b00b820c00c373fa=4">
+          <param name="ImageNumber" value="11">
+          <param name="x-condition" value="Public,Chm">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Расчёт алгоритма">
+          <param name="Local" value="Intro/KeAlgo_Hierarchy.htm#executor642b3b9347ca42c9b00b820c00c373fa=5">
+          <param name="ImageNumber" value="11">
+          <param name="x-condition" value="Public,Chm">
+        </object>
+        </ul>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Интерфейсы сборки Algo">
+      <param name="Local" value="Interface/KeAlgo_Interface.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IAlgoBranchCondFindFormulaResult">
+        <param name="Local" value="Interface/IAlgoBranchCondFindFormulaResult/IAlgoBranchCondFindFormulaResult.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAlgoBranchCondFindFormulaResult.Branch">
+          <param name="Local" value="Interface/IAlgoBranchCondFindFormulaResult/IAlgoBranchCondFindFormulaResult.Branch.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAlgoBranchCondFindFormulaResult.BranchCase">
+          <param name="Local" value="Interface/IAlgoBranchCondFindFormulaResult/IAlgoBranchCondFindFormulaResult.BranchCase.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAlgoBranchCondFindFormulaResult.BranchCondition">
+          <param name="Local" value="Interface/IAlgoBranchCondFindFormulaResult/IAlgoBranchCondFindFormulaResult.BranchCondition.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IAlgoCalcBlockFindFormulaResult">
+        <param name="Local" value="Interface/IAlgoCalcBlockFindFormulaResult/IAlgoCalcBlockFindFormulaResult.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAlgoCalcBlockFindFormulaResult.CalcObject">
+          <param name="Local" value="Interface/IAlgoCalcBlockFindFormulaResult/IAlgoCalcBlockFindFormulaResult.CalcObject.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAlgoCalcBlockFindFormulaResult.ChainModel">
+          <param name="Local" value="Interface/IAlgoCalcBlockFindFormulaResult/IAlgoCalcBlockFindFormulaResult.ChainModel.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAlgoCalcBlockFindFormulaResult.FormulaKey">
+          <param name="Local" value="Interface/IAlgoCalcBlockFindFormulaResult/IAlgoCalcBlockFindFormulaResult.FormulaKey.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IAlgoFindFormulaResult">
+        <param name="Local" value="Interface/IAlgoFindFormulaResult/IAlgoFindFormulaResult.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IAlgoFindFormulaResults">
+        <param name="Local" value="Interface/IAlgoFindFormulaResults/IAlgoFindFormulaResults.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAlgoFindFormulaResults.AddBlock">
+          <param name="Local" value="Interface/IAlgoFindFormulaResults/IAlgoFindFormulaResults.AddBlock.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAlgoFindFormulaResults.AddBranch">
+          <param name="Local" value="Interface/IAlgoFindFormulaResults/IAlgoFindFormulaResults.AddBranch.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAlgoFindFormulaResults.Count">
+          <param name="Local" value="Interface/IAlgoFindFormulaResults/IAlgoFindFormulaResults.Count.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAlgoFindFormulaResults.Item">
+          <param name="Local" value="Interface/IAlgoFindFormulaResults/IAlgoFindFormulaResults.Item.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IAlgoObjectParamControl">
+        <param name="Local" value="Interface/IAlgoObjectParamControl/IAlgoObjectParamControl.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAlgoObjectParamControl.AlgParam">
+          <param name="Local" value="Interface/IAlgoObjectParamControl/IAlgoObjectParamControl.AlgParam.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAlgoObjectParamControl.ObjectParam">
+          <param name="Local" value="Interface/IAlgoObjectParamControl/IAlgoObjectParamControl.ObjectParam.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAlgoObjectParamControl.SelectedDimAttr">
+          <param name="Local" value="Interface/IAlgoObjectParamControl/IAlgoObjectParamControl.SelectedDimAttr.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IAlgoObjectParamsControl">
+        <param name="Local" value="Interface/IAlgoObjectParamsControl/IAlgoObjectParamsControl.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAlgoObjectParamsControl.Add">
+          <param name="Local" value="Interface/IAlgoObjectParamsControl/IAlgoObjectParamsControl.Add.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAlgoObjectParamsControl.Clear">
+          <param name="Local" value="Interface/IAlgoObjectParamsControl/IAlgoObjectParamsControl.Clear.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAlgoObjectParamsControl.Count">
+          <param name="Local" value="Interface/IAlgoObjectParamsControl/IAlgoObjectParamsControl.Count.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAlgoObjectParamsControl.FindByKey">
+          <param name="Local" value="Interface/IAlgoObjectParamsControl/IAlgoObjectParamsControl.FindByKey.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAlgoObjectParamsControl.Item">
+          <param name="Local" value="Interface/IAlgoObjectParamsControl/IAlgoObjectParamsControl.Item.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAlgoObjectParamsControl.ObjectDesc">
+          <param name="Local" value="Interface/IAlgoObjectParamsControl/IAlgoObjectParamsControl.ObjectDesc.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAlgoObjectParamsControl.RemoveByKey">
+          <param name="Local" value="Interface/IAlgoObjectParamsControl/IAlgoObjectParamsControl.RemoveByKey.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IAlgoObjectsParamsControl">
+        <param name="Local" value="Interface/IAlgoObjectsParamsControl/IAlgoObjectsParamsControl.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAlgoObjectsParamsControl.Add">
+          <param name="Local" value="Interface/IAlgoObjectsParamsControl/IAlgoObjectsParamsControl.Add.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAlgoObjectsParamsControl.Clear">
+          <param name="Local" value="Interface/IAlgoObjectsParamsControl/IAlgoObjectsParamsControl.Clear.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAlgoObjectsParamsControl.Count">
+          <param name="Local" value="Interface/IAlgoObjectsParamsControl/IAlgoObjectsParamsControl.Count.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAlgoObjectsParamsControl.FindByKey">
+          <param name="Local" value="Interface/IAlgoObjectsParamsControl/IAlgoObjectsParamsControl.FindByKey.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAlgoObjectsParamsControl.Item">
+          <param name="Local" value="Interface/IAlgoObjectsParamsControl/IAlgoObjectsParamsControl.Item.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAlgoObjectsParamsControl.RemoveByKey">
+          <param name="Local" value="Interface/IAlgoObjectsParamsControl/IAlgoObjectsParamsControl.RemoveByKey.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IAlgorithmBaseExecutor">
+        <param name="Local" value="Interface/IAlgorithmBaseExecutor/IAlgorithmBaseExecutor.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAlgorithmBaseExecutor.ErrorState">
+          <param name="Local" value="Interface/IAlgorithmBaseExecutor/IAlgorithmBaseExecutor.ErrorState.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAlgorithmBaseExecutor.MsProblem">
+          <param name="Local" value="Interface/IAlgorithmBaseExecutor/IAlgorithmBaseExecutor.MsProblem.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAlgorithmBaseExecutor.ParamValues">
+          <param name="Local" value="Interface/IAlgorithmBaseExecutor/IAlgorithmBaseExecutor.ParamValues.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IAlgorithmCalculateErrorEvent">
+        <param name="Local" value="Interface/IAlgorithmCalculateErrorEvent/IAlgorithmCalculateErrorEvent.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAlgorithmCalculateErrorEvent.ErrorState">
+          <param name="Local" value="Interface/IAlgorithmCalculateErrorEvent/IAlgorithmCalculateErrorEvent.ErrorState.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAlgorithmCalculateErrorEvent.Message">
+          <param name="Local" value="Interface/IAlgorithmCalculateErrorEvent/IAlgorithmCalculateErrorEvent.Message.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IAlgorithmCalculationAsyncDebug">
+        <param name="Local" value="Interface/IAlgorithmCalculationAsyncDebug/IAlgorithmCalculationAsyncDebug.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAlgorithmCalculationAsyncDebug.ErrorEvent">
+          <param name="Local" value="Interface/IAlgorithmCalculationAsyncDebug/IAlgorithmCalculationAsyncDebug.ErrorEvent.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAlgorithmCalculationAsyncDebug.LastObjectKey">
+          <param name="Local" value="Interface/IAlgorithmCalculationAsyncDebug/IAlgorithmCalculationAsyncDebug.LastObjectKey.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAlgorithmCalculationAsyncDebug.State">
+          <param name="Local" value="Interface/IAlgorithmCalculationAsyncDebug/IAlgorithmCalculationAsyncDebug.State.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IAlgorithmCalculationAsyncResult">
+        <param name="Local" value="Interface/IAlgorithmCalculationAsyncResult/IAlgorithmCalculationAsyncResult.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAlgorithmCalculationAsyncResult.ErrorEvent">
+          <param name="Local" value="Interface/IAlgorithmCalculationAsyncResult/IAlgorithmCalculationAsyncResult.ErrorEvent.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAlgorithmCalculationAsyncResult.Result">
+          <param name="Local" value="Interface/IAlgorithmCalculationAsyncResult/IAlgorithmCalculationAsyncResult.Result.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAlgorithmCalculationAsyncResult.State">
+          <param name="Local" value="Interface/IAlgorithmCalculationAsyncResult/IAlgorithmCalculationAsyncResult.State.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IAlgorithmCalculationDebug">
+        <param name="Local" value="Interface/IAlgorithmCalculationDebug/IAlgorithmCalculationDebug.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAlgorithmCalculationDebug.Dispose_">
+          <param name="Local" value="Interface/IAlgorithmCalculationDebug/IAlgorithmCalculationDebug.Dispose_.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAlgorithmCalculationDebug.IsFinished">
+          <param name="Local" value="Interface/IAlgorithmCalculationDebug/IAlgorithmCalculationDebug.IsFinished.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAlgorithmCalculationDebug.Matrix">
+          <param name="Local" value="Interface/IAlgorithmCalculationDebug/IAlgorithmCalculationDebug.Matrix.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAlgorithmCalculationDebug.NextStep">
+          <param name="Local" value="Interface/IAlgorithmCalculationDebug/IAlgorithmCalculationDebug.NextStep.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAlgorithmCalculationDebug.Objects">
+          <param name="Local" value="Interface/IAlgorithmCalculationDebug/IAlgorithmCalculationDebug.Objects.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAlgorithmCalculationDebug.PrevObject">
+          <param name="Local" value="Interface/IAlgorithmCalculationDebug/IAlgorithmCalculationDebug.PrevObject.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAlgorithmCalculationDebug.PrxReport">
+          <param name="Local" value="Interface/IAlgorithmCalculationDebug/IAlgorithmCalculationDebug.PrxReport.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAlgorithmCalculationDebug.RecalcPrev">
+          <param name="Local" value="Interface/IAlgorithmCalculationDebug/IAlgorithmCalculationDebug.RecalcPrev.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAlgorithmCalculationDebug.Result">
+          <param name="Local" value="Interface/IAlgorithmCalculationDebug/IAlgorithmCalculationDebug.Result.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAlgorithmCalculationDebug.StepToObject">
+          <param name="Local" value="Interface/IAlgorithmCalculationDebug/IAlgorithmCalculationDebug.StepToObject.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAlgorithmCalculationDebug.StepToSaveData">
+          <param name="Local" value="Interface/IAlgorithmCalculationDebug/IAlgorithmCalculationDebug.StepToSaveData.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAlgorithmCalculationDebug.Stop">
+          <param name="Local" value="Interface/IAlgorithmCalculationDebug/IAlgorithmCalculationDebug.Stop.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAlgorithmCalculationDebug.UserData">
+          <param name="Local" value="Interface/IAlgorithmCalculationDebug/IAlgorithmCalculationDebug.UserData.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAlgorithmCalculationDebug.ValidationMatrix">
+          <param name="Local" value="Interface/IAlgorithmCalculationDebug/IAlgorithmCalculationDebug.ValidationMatrix.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IAlgorithmCalculationExecutor">
+        <param name="Local" value="Interface/IAlgorithmCalculationExecutor/IAlgorithmCalculationExecutor.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAlgorithmCalculationExecutor.HasObjectByType">
+          <param name="Local" value="Interface/IAlgorithmCalculationExecutor/IAlgorithmCalculationExecutor.HasObjectByType.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAlgorithmCalculationExecutor.Run">
+          <param name="Local" value="Interface/IAlgorithmCalculationExecutor/IAlgorithmCalculationExecutor.Run.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IAlgorithmCalculationResult">
+        <param name="Local" value="Interface/IAlgorithmCalculationResult/IAlgorithmCalculationResult.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAlgorithmCalculationResult.Calc">
+          <param name="Local" value="Interface/IAlgorithmCalculationResult/IAlgorithmCalculationResult.Calc.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAlgorithmCalculationResult.ChangedPoints">
+          <param name="Local" value="Interface/IAlgorithmCalculationResult/IAlgorithmCalculationResult.ChangedPoints.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAlgorithmCalculationResult.ElapsedMilliseconds">
+          <param name="Local" value="Interface/IAlgorithmCalculationResult/IAlgorithmCalculationResult.ElapsedMilliseconds.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAlgorithmCalculationResult.Errors">
+          <param name="Local" value="Interface/IAlgorithmCalculationResult/IAlgorithmCalculationResult.Errors.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAlgorithmCalculationResult.HasError">
+          <param name="Local" value="Interface/IAlgorithmCalculationResult/IAlgorithmCalculationResult.HasError.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAlgorithmCalculationResult.HasWarnings">
+          <param name="Local" value="Interface/IAlgorithmCalculationResult/IAlgorithmCalculationResult.HasWarnings.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAlgorithmCalculationResult.InitMilliseconds">
+          <param name="Local" value="Interface/IAlgorithmCalculationResult/IAlgorithmCalculationResult.InitMilliseconds.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAlgorithmCalculationResult.Load">
+          <param name="Local" value="Interface/IAlgorithmCalculationResult/IAlgorithmCalculationResult.Load.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAlgorithmCalculationResult.Save">
+          <param name="Local" value="Interface/IAlgorithmCalculationResult/IAlgorithmCalculationResult.Save.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAlgorithmCalculationResult.TotalElapsedMilliseconds">
+          <param name="Local" value="Interface/IAlgorithmCalculationResult/IAlgorithmCalculationResult.TotalElapsedMilliseconds.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAlgorithmCalculationResult.Warnings">
+          <param name="Local" value="Interface/IAlgorithmCalculationResult/IAlgorithmCalculationResult.Warnings.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IAlgorithmChangedPointResult">
+        <param name="Local" value="Interface/IAlgorithmChangedPointResult/IAlgorithmChangedPointResult.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAlgorithmChangedPointResult.ChangedPointsCount">
+          <param name="Local" value="Interface/IAlgorithmChangedPointResult/IAlgorithmChangedPointResult.ChangedPointsCount.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAlgorithmChangedPointResult.Id">
+          <param name="Local" value="Interface/IAlgorithmChangedPointResult/IAlgorithmChangedPointResult.Id.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAlgorithmChangedPointResult.Key">
+          <param name="Local" value="Interface/IAlgorithmChangedPointResult/IAlgorithmChangedPointResult.Key.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAlgorithmChangedPointResult.Name">
+          <param name="Local" value="Interface/IAlgorithmChangedPointResult/IAlgorithmChangedPointResult.Name.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IAlgorithmChangedPointResults">
+        <param name="Local" value="Interface/IAlgorithmChangedPointResults/IAlgorithmChangedPointResults.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAlgorithmChangedPointResults.Count">
+          <param name="Local" value="Interface/IAlgorithmChangedPointResults/IAlgorithmChangedPointResults.Count.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAlgorithmChangedPointResults.Item">
+          <param name="Local" value="Interface/IAlgorithmChangedPointResults/IAlgorithmChangedPointResults.Item.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAlgorithmChangedPointResults.FindById">
+          <param name="Local" value="Interface/IAlgorithmChangedPointResults/IAlgorithmChangedPointResults.FindById.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAlgorithmChangedPointResults.FindByKey">
+          <param name="Local" value="Interface/IAlgorithmChangedPointResults/IAlgorithmChangedPointResults.FindByKey.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IAlgorithmParameterValues">
+        <param name="Local" value="Interface/IAlgorithmParameterValues/IAlgorithmParameterValues.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAlgorithmParameterValues.EndDate">
+          <param name="Local" value="Interface/IAlgorithmParameterValues/IAlgorithmParameterValues.EndDate.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAlgorithmParameterValues.MaxAllowDate">
+          <param name="Local" value="Interface/IAlgorithmParameterValues/IAlgorithmParameterValues.MaxAllowDate.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAlgorithmParameterValues.MinAllowDate">
+          <param name="Local" value="Interface/IAlgorithmParameterValues/IAlgorithmParameterValues.MinAllowDate.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAlgorithmParameterValues.StartDate">
+          <param name="Local" value="Interface/IAlgorithmParameterValues/IAlgorithmParameterValues.StartDate.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAlgorithmParameterValues.Values">
+          <param name="Local" value="Interface/IAlgorithmParameterValues/IAlgorithmParameterValues.Values.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IAlgorithmParamValue">
+        <param name="Local" value="Interface/IAlgorithmParamValue/IAlgorithmParamValue.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAlgorithmParamValue.Id">
+          <param name="Local" value="Interface/IAlgorithmParamValue/IAlgorithmParamValue.Id.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAlgorithmParamValue.LinkedObject">
+          <param name="Local" value="Interface/IAlgorithmParamValue/IAlgorithmParamValue.LinkedObject.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAlgorithmParamValue.Name">
+          <param name="Local" value="Interface/IAlgorithmParamValue/IAlgorithmParamValue.Name.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAlgorithmParamValue.ParamType">
+          <param name="Local" value="Interface/IAlgorithmParamValue/IAlgorithmParamValue.ParamType.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAlgorithmParamValue.Value">
+          <param name="Local" value="Interface/IAlgorithmParamValue/IAlgorithmParamValue.Value.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IAlgorithmParamValueList">
+        <param name="Local" value="Interface/IAlgorithmParamValueList/IAlgorithmParamValueList.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAlgorithmParamValueList.Count">
+          <param name="Local" value="Interface/IAlgorithmParamValueList/IAlgorithmParamValueList.Count.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAlgorithmParamValueList.FindById">
+          <param name="Local" value="Interface/IAlgorithmParamValueList/IAlgorithmParamValueList.FindById.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAlgorithmParamValueList.Item">
+          <param name="Local" value="Interface/IAlgorithmParamValueList/IAlgorithmParamValueList.Item.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IAlgorithmPeriodControl">
+        <param name="Local" value="Interface/IAlgorithmPeriodControl/IAlgorithmPeriodControl.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAlgorithmPeriodControl.Attribute">
+          <param name="Local" value="Interface/IAlgorithmPeriodControl/IAlgorithmPeriodControl.Attribute.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAlgorithmPeriodControl.ErrorText">
+          <param name="Local" value="Interface/IAlgorithmPeriodControl/IAlgorithmPeriodControl.ErrorText.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAlgorithmPeriodControl.IsEnabled">
+          <param name="Local" value="Interface/IAlgorithmPeriodControl/IAlgorithmPeriodControl.IsEnabled.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAlgorithmPeriodControl.OffsetLevel">
+          <param name="Local" value="Interface/IAlgorithmPeriodControl/IAlgorithmPeriodControl.OffsetLevel.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAlgorithmPeriodControl.OffsetValue">
+          <param name="Local" value="Interface/IAlgorithmPeriodControl/IAlgorithmPeriodControl.OffsetValue.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAlgorithmPeriodControl.Parameter">
+          <param name="Local" value="Interface/IAlgorithmPeriodControl/IAlgorithmPeriodControl.Parameter.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAlgorithmPeriodControl.Reset">
+          <param name="Local" value="Interface/IAlgorithmPeriodControl/IAlgorithmPeriodControl.Reset.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAlgorithmPeriodControl.Visible">
+          <param name="Local" value="Interface/IAlgorithmPeriodControl/IAlgorithmPeriodControl.Visible.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IAlgorithmSettings">
+        <param name="Local" value="Interface/IAlgorithmSettings/IAlgorithmSettings.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAlgorithmSettings.CheckArithmeticErrors">
+          <param name="Local" value="Interface/IAlgorithmSettings/IAlgorithmSettings.CheckArithmeticErrors.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAlgorithmSettings.IsDirty">
+          <param name="Local" value="Interface/IAlgorithmSettings/IAlgorithmSettings.IsDirty.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAlgorithmSettings.MultiThreadedCalc">
+          <param name="Local" value="Interface/IAlgorithmSettings/IAlgorithmSettings.MultiThreadedCalc.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAlgorithmSettings.NonPointwiseCalcMode">
+          <param name="Local" value="Interface/IAlgorithmSettings/IAlgorithmSettings.NonPointwiseCalcMode.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAlgorithmSettings.PeriodControlEnd">
+          <param name="Local" value="Interface/IAlgorithmSettings/IAlgorithmSettings.PeriodControlEnd.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAlgorithmSettings.PeriodControlStart">
+          <param name="Local" value="Interface/IAlgorithmSettings/IAlgorithmSettings.PeriodControlStart.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAlgorithmSettings.PointwiseCalc">
+          <param name="Local" value="Interface/IAlgorithmSettings/IAlgorithmSettings.PointwiseCalc.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAlgorithmSettings.SaveData">
+          <param name="Local" value="Interface/IAlgorithmSettings/IAlgorithmSettings.SaveData.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IAlgorithmTimeResult">
+        <param name="Local" value="Interface/IAlgorithmTimeResult/IAlgorithmTimeResult.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAlgorithmTimeResult.ExecuteMilisecods">
+          <param name="Local" value="Interface/IAlgorithmTimeResult/IAlgorithmTimeResult.ExecuteMilisecods.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAlgorithmTimeResult.Id">
+          <param name="Local" value="Interface/IAlgorithmTimeResult/IAlgorithmTimeResult.Id.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAlgorithmTimeResult.Key">
+          <param name="Local" value="Interface/IAlgorithmTimeResult/IAlgorithmTimeResult.Key.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAlgorithmTimeResult.Name">
+          <param name="Local" value="Interface/IAlgorithmTimeResult/IAlgorithmTimeResult.Name.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IAlgorithmTimeResults">
+        <param name="Local" value="Interface/IAlgorithmTimeResults/IAlgorithmTimeResults.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAlgorithmTimeResults.Count">
+          <param name="Local" value="Interface/IAlgorithmTimeResults/IAlgorithmTimeResults.Count.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAlgorithmTimeResults.FindById">
+          <param name="Local" value="Interface/IAlgorithmTimeResults/IAlgorithmTimeResults.FindById.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAlgorithmTimeResults.FindByKey">
+          <param name="Local" value="Interface/IAlgorithmTimeResults/IAlgorithmTimeResults.FindByKey.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAlgorithmTimeResults.Item">
+          <param name="Local" value="Interface/IAlgorithmTimeResults/IAlgorithmTimeResults.Item.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAlgorithmTimeResults.TotalTime">
+          <param name="Local" value="Interface/IAlgorithmTimeResults/IAlgorithmTimeResults.TotalTime.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="ICalcAggr">
+        <param name="Local" value="Interface/ICalcAggr/ICalcAggr.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ICalcAggr.Aggregator">
+          <param name="Local" value="Interface/ICalcAggr/ICalcAggr.Aggregator.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ICalcAggr.AggregatorFilter">
+          <param name="Local" value="Interface/ICalcAggr/ICalcAggr.AggregatorFilter.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ICalcAggr.SelectionControl">
+          <param name="Local" value="Interface/ICalcAggr/ICalcAggr.SelectionControl.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ICalcAggr.Stub">
+          <param name="Local" value="Interface/ICalcAggr/ICalcAggr.Stub.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="ICalcAlgorithm">
+        <param name="Local" value="Interface/ICalcAlgorithm/ICalcAlgorithm.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ICalcAlgorithm.Calculate">
+          <param name="Local" value="Interface/ICalcAlgorithm/ICalcAlgorithm.Calculate.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ICalcAlgorithm.CalculateAsync">
+          <param name="Local" value="Interface/ICalcAlgorithm/ICalcAlgorithm.CalculateAsync.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ICalcAlgorithm.CreateFormulaFindInfo">
+          <param name="Local" value="Interface/ICalcAlgorithm/ICalcAlgorithm.CreateFormulaFindInfo.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ICalcAlgorithm.Debug">
+          <param name="Local" value="Interface/ICalcAlgorithm/ICalcAlgorithm.Debug.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ICalcAlgorithm.DebugAsync">
+          <param name="Local" value="Interface/ICalcAlgorithm/ICalcAlgorithm.DebugAsync.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ICalcAlgorithm.FindFormulas">
+          <param name="Local" value="Interface/ICalcAlgorithm/ICalcAlgorithm.FindFormulas.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ICalcAlgorithm.Included">
+          <param name="Local" value="Interface/ICalcAlgorithm/ICalcAlgorithm.Included.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ICalcAlgorithm.IsDirty">
+          <param name="Local" value="Interface/ICalcAlgorithm/ICalcAlgorithm.IsDirty.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ICalcAlgorithm.Items">
+          <param name="Local" value="Interface/ICalcAlgorithm/ICalcAlgorithm.Items.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ICalcAlgorithm.MoveObject">
+          <param name="Local" value="Interface/ICalcAlgorithm/ICalcAlgorithm.MoveObject.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ICalcAlgorithm.MsProblem">
+          <param name="Local" value="Interface/ICalcAlgorithm/ICalcAlgorithm.MsProblem.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ICalcAlgorithm.ObjectParamsControl">
+          <param name="Local" value="Interface/ICalcAlgorithm/ICalcAlgorithm.ObjectParamsControl.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ICalcAlgorithm.ParamValues">
+          <param name="Local" value="Interface/ICalcAlgorithm/ICalcAlgorithm.ParamValues.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ICalcAlgorithm.Settings">
+          <param name="Local" value="Interface/ICalcAlgorithm/ICalcAlgorithm.Settings.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ICalcAlgorithm.Stubs">
+          <param name="Local" value="Interface/ICalcAlgorithm/ICalcAlgorithm.Stubs.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="ICalcBlock">
+        <param name="Local" value="Interface/ICalcBlock/ICalcBlock.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ICalcBlock.AddFolder">
+          <param name="Local" value="Interface/ICalcBlock/ICalcBlock.AddFolder.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ICalcBlock.AddModel">
+          <param name="Local" value="Interface/ICalcBlock/ICalcBlock.AddModel.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ICalcBlock.CopyEntries">
+          <param name="Local" value="Interface/ICalcBlock/ICalcBlock.CopyEntries.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ICalcBlock.EditIteratorModel">
+          <param name="Local" value="Interface/ICalcBlock/ICalcBlock.EditIteratorModel.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ICalcBlock.Folder">
+          <param name="Local" value="Interface/ICalcBlock/ICalcBlock.Folder.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ICalcBlock.Iterator">
+          <param name="Local" value="Interface/ICalcBlock/ICalcBlock.Iterator.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ICalcBlock.StubOut">
+          <param name="Local" value="Interface/ICalcBlock/ICalcBlock.StubOut.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ICalcBlock.StubsIn">
+          <param name="Local" value="Interface/ICalcBlock/ICalcBlock.StubsIn.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ICalcBlock.UseCalendarAsStubDimension">
+          <param name="Local" value="Interface/ICalcBlock/ICalcBlock.UseCalendarAsStubDimension.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="ICalcBlockIteratorModel">
+        <param name="Local" value="Interface/ICalcBlockIteratorModel/ICalcBlockIteratorModel.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ICalcBlockIteratorModel.Dispose_">
+          <param name="Local" value="Interface/ICalcBlockIteratorModel/ICalcBlockIteratorModel.Dispose_.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ICalcBlockIteratorModel.IsDirty">
+          <param name="Local" value="Interface/ICalcBlockIteratorModel/ICalcBlockIteratorModel.IsDirty.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ICalcBlockIteratorModel.Save">
+          <param name="Local" value="Interface/ICalcBlockIteratorModel/ICalcBlockIteratorModel.Save.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ICalcBlockIteratorModel.Stubs">
+          <param name="Local" value="Interface/ICalcBlockIteratorModel/ICalcBlockIteratorModel.Stubs.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="ICalcBlockIteratorStub">
+        <param name="Local" value="Interface/ICalcBlockIteratorStub/ICalcBlockIteratorStub.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ICalcBlockIteratorStub.CleanNotFullLink">
+          <param name="Local" value="Interface/ICalcBlockIteratorStub/ICalcBlockIteratorStub.CleanNotFullLink.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ICalcBlockIteratorStub.Dimensions">
+          <param name="Local" value="Interface/ICalcBlockIteratorStub/ICalcBlockIteratorStub.Dimensions.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ICalcBlockIteratorStub.HasUsedFormulesForLinkById">
+          <param name="Local" value="Interface/ICalcBlockIteratorStub/ICalcBlockIteratorStub.HasUsedFormulesForLinkById.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ICalcBlockIteratorStub.HasUsedFormulesForLinkByLink">
+          <param name="Local" value="Interface/ICalcBlockIteratorStub/ICalcBlockIteratorStub.HasUsedFormulesForLinkByLink.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ICalcBlockIteratorStub.LinkById">
+          <param name="Local" value="Interface/ICalcBlockIteratorStub/ICalcBlockIteratorStub.LinkById.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ICalcBlockIteratorStub.LinkByLink">
+          <param name="Local" value="Interface/ICalcBlockIteratorStub/ICalcBlockIteratorStub.LinkByLink.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ICalcBlockIteratorStub.Stub">
+          <param name="Local" value="Interface/ICalcBlockIteratorStub/ICalcBlockIteratorStub.Stub.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ICalcBlockIteratorStub.UseInFormulas">
+          <param name="Local" value="Interface/ICalcBlockIteratorStub/ICalcBlockIteratorStub.UseInFormulas.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="ICalcBlockIteratorStubDimension">
+        <param name="Local" value="Interface/ICalcBlockIteratorStubDimension/ICalcBlockIteratorStubDimension.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ICalcBlockIteratorStubDimension.Dimension">
+          <param name="Local" value="Interface/ICalcBlockIteratorStubDimension/ICalcBlockIteratorStubDimension.Dimension.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ICalcBlockIteratorStubDimension.Links">
+          <param name="Local" value="Interface/ICalcBlockIteratorStubDimension/ICalcBlockIteratorStubDimension.Links.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ICalcBlockIteratorStubDimension.Stub">
+          <param name="Local" value="Interface/ICalcBlockIteratorStubDimension/ICalcBlockIteratorStubDimension.Stub.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="ICalcBlockIteratorStubDimensionLink">
+        <param name="Local" value="Interface/ICalcBlockIteratorStubDimensionLink/ICalcBlockIteratorStubDimensionLink.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ICalcBlockIteratorStubDimensionLink.Behaviour">
+          <param name="Local" value="Interface/ICalcBlockIteratorStubDimensionLink/ICalcBlockIteratorStubDimensionLink.Behaviour.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ICalcBlockIteratorStubDimensionLink.DestinationAttribute">
+          <param name="Local" value="Interface/ICalcBlockIteratorStubDimensionLink/ICalcBlockIteratorStubDimensionLink.DestinationAttribute.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ICalcBlockIteratorStubDimensionLink.Dimension">
+          <param name="Local" value="Interface/ICalcBlockIteratorStubDimensionLink/ICalcBlockIteratorStubDimensionLink.Dimension.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ICalcBlockIteratorStubDimensionLink.Element">
+          <param name="Local" value="Interface/ICalcBlockIteratorStubDimensionLink/ICalcBlockIteratorStubDimensionLink.Element.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ICalcBlockIteratorStubDimensionLink.IsDirty">
+          <param name="Local" value="Interface/ICalcBlockIteratorStubDimensionLink/ICalcBlockIteratorStubDimensionLink.IsDirty.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ICalcBlockIteratorStubDimensionLink.IsFullLink">
+          <param name="Local" value="Interface/ICalcBlockIteratorStubDimensionLink/ICalcBlockIteratorStubDimensionLink.IsFullLink.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ICalcBlockIteratorStubDimensionLink.OffSet">
+          <param name="Local" value="Interface/ICalcBlockIteratorStubDimensionLink/ICalcBlockIteratorStubDimensionLink.OffSet.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ICalcBlockIteratorStubDimensionLink.Owner">
+          <param name="Local" value="Interface/ICalcBlockIteratorStubDimensionLink/ICalcBlockIteratorStubDimensionLink.Owner.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ICalcBlockIteratorStubDimensionLink.SourceAttribute">
+          <param name="Local" value="Interface/ICalcBlockIteratorStubDimensionLink/ICalcBlockIteratorStubDimensionLink.SourceAttribute.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ICalcBlockIteratorStubDimensionLink.StartPosition">
+          <param name="Local" value="Interface/ICalcBlockIteratorStubDimensionLink/ICalcBlockIteratorStubDimensionLink.StartPosition.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ICalcBlockIteratorStubDimensionLink.Stub">
+          <param name="Local" value="Interface/ICalcBlockIteratorStubDimensionLink/ICalcBlockIteratorStubDimensionLink.Stub.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="ICalcBlockIteratorStubDimensionLinks">
+        <param name="Local" value="Interface/ICalcBlockIteratorStubDimensionLinks/ICalcBlockIteratorStubDimensionLinks.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ICalcBlockIteratorStubDimensionLinks.Add">
+          <param name="Local" value="Interface/ICalcBlockIteratorStubDimensionLinks/ICalcBlockIteratorStubDimensionLinks.Add.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ICalcBlockIteratorStubDimensionLinks.Count">
+          <param name="Local" value="Interface/ICalcBlockIteratorStubDimensionLinks/ICalcBlockIteratorStubDimensionLinks.Count.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ICalcBlockIteratorStubDimensionLinks.Item">
+          <param name="Local" value="Interface/ICalcBlockIteratorStubDimensionLinks/ICalcBlockIteratorStubDimensionLinks.Item.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ICalcBlockIteratorStubDimensionLinks.Remove">
+          <param name="Local" value="Interface/ICalcBlockIteratorStubDimensionLinks/ICalcBlockIteratorStubDimensionLinks.Remove.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ICalcBlockIteratorStubDimensionLinks.RemoveAt">
+          <param name="Local" value="Interface/ICalcBlockIteratorStubDimensionLinks/ICalcBlockIteratorStubDimensionLinks.RemoveAt.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="ICalcBlockIteratorStubDimensions">
+        <param name="Local" value="Interface/ICalcBlockIteratorStubDimensions/ICalcBlockIteratorStubDimensions.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ICalcBlockIteratorStubDimensions.Count">
+          <param name="Local" value="Interface/ICalcBlockIteratorStubDimensions/ICalcBlockIteratorStubDimensions.Count.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ICalcBlockIteratorStubDimensions.Item">
+          <param name="Local" value="Interface/ICalcBlockIteratorStubDimensions/ICalcBlockIteratorStubDimensions.Item.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ICalcBlockIteratorStubDimensions.FindByKey">
+          <param name="Local" value="Interface/ICalcBlockIteratorStubDimensions/ICalcBlockIteratorStubDimensions.FindByKey.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="ICalcBlockIteratorStubs">
+        <param name="Local" value="Interface/ICalcBlockIteratorStubs/ICalcBlockIteratorStubs.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ICalcBlockIteratorStubs.Count">
+          <param name="Local" value="Interface/ICalcBlockIteratorStubs/ICalcBlockIteratorStubs.Count.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ICalcBlockIteratorStubs.FindByKey">
+          <param name="Local" value="Interface/ICalcBlockIteratorStubs/ICalcBlockIteratorStubs.FindByKey.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ICalcBlockIteratorStubs.Item">
+          <param name="Local" value="Interface/ICalcBlockIteratorStubs/ICalcBlockIteratorStubs.Item.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="ICalcFunc">
+        <param name="Local" value="Interface/ICalcFunc/ICalcFunc.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ICalcFunc.Assembly">
+          <param name="Local" value="Interface/ICalcFunc/ICalcFunc.Assembly.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ICalcFunc.ErrorInfo">
+          <param name="Local" value="Interface/ICalcFunc/ICalcFunc.ErrorInfo.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ICalcFunc.IsValid">
+          <param name="Local" value="Interface/ICalcFunc/ICalcFunc.IsValid.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ICalcFunc.Procedure">
+          <param name="Local" value="Interface/ICalcFunc/ICalcFunc.Procedure.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ICalcFunc.SimpleParamValues">
+          <param name="Local" value="Interface/ICalcFunc/ICalcFunc.SimpleParamValues.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="ICalcLinearOptimizationBlock">
+        <param name="Local" value="Interface/ICalcLinearOptimizationBlock/ICalcLinearOptimizationBlock.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ICalcLinearOptimizationBlock.Database">
+          <param name="Local" value="Interface/ICalcLinearOptimizationBlock/ICalcLinearOptimizationBlock.Database.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ICalcLinearOptimizationBlock.ExpressionDimension">
+          <param name="Local" value="Interface/ICalcLinearOptimizationBlock/ICalcLinearOptimizationBlock.ExpressionDimension.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ICalcLinearOptimizationBlock.FunctionCriteria">
+          <param name="Local" value="Interface/ICalcLinearOptimizationBlock/ICalcLinearOptimizationBlock.FunctionCriteria.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ICalcLinearOptimizationBlock.InitInterntalStub">
+          <param name="Local" value="Interface/ICalcLinearOptimizationBlock/ICalcLinearOptimizationBlock.InitInterntalStub.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ICalcLinearOptimizationBlock.IsValidStub">
+          <param name="Local" value="Interface/ICalcLinearOptimizationBlock/ICalcLinearOptimizationBlock.IsValidStub.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ICalcLinearOptimizationBlock.Iterator">
+          <param name="Local" value="Interface/ICalcLinearOptimizationBlock/ICalcLinearOptimizationBlock.Iterator.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ICalcLinearOptimizationBlock.SolverType">
+          <param name="Local" value="Interface/ICalcLinearOptimizationBlock/ICalcLinearOptimizationBlock.SolverType.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ICalcLinearOptimizationBlock.StubCoefficient">
+          <param name="Local" value="Interface/ICalcLinearOptimizationBlock/ICalcLinearOptimizationBlock.StubCoefficient.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ICalcLinearOptimizationBlock.StubExpressionRestriction">
+          <param name="Local" value="Interface/ICalcLinearOptimizationBlock/ICalcLinearOptimizationBlock.StubExpressionRestriction.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ICalcLinearOptimizationBlock.StubFixed">
+          <param name="Local" value="Interface/ICalcLinearOptimizationBlock/ICalcLinearOptimizationBlock.StubFixed.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ICalcLinearOptimizationBlock.StubHighRestriction">
+          <param name="Local" value="Interface/ICalcLinearOptimizationBlock/ICalcLinearOptimizationBlock.StubHighRestriction.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ICalcLinearOptimizationBlock.StubLowRestriction">
+          <param name="Local" value="Interface/ICalcLinearOptimizationBlock/ICalcLinearOptimizationBlock.StubLowRestriction.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ICalcLinearOptimizationBlock.StubOut">
+          <param name="Local" value="Interface/ICalcLinearOptimizationBlock/ICalcLinearOptimizationBlock.StubOut.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ICalcLinearOptimizationBlock.StubResult">
+          <param name="Local" value="Interface/ICalcLinearOptimizationBlock/ICalcLinearOptimizationBlock.StubResult.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ICalcLinearOptimizationBlock.StubValues">
+          <param name="Local" value="Interface/ICalcLinearOptimizationBlock/ICalcLinearOptimizationBlock.StubValues.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ICalcLinearOptimizationBlock.TargetFunction">
+          <param name="Local" value="Interface/ICalcLinearOptimizationBlock/ICalcLinearOptimizationBlock.TargetFunction.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ICalcLinearOptimizationBlock.TargetTerm">
+          <param name="Local" value="Interface/ICalcLinearOptimizationBlock/ICalcLinearOptimizationBlock.TargetTerm.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ICalcLinearOptimizationBlock.TargetTermInfo">
+          <param name="Local" value="Interface/ICalcLinearOptimizationBlock/ICalcLinearOptimizationBlock.TargetTermInfo.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ICalcLinearOptimizationBlock.UseInteger">
+          <param name="Local" value="Interface/ICalcLinearOptimizationBlock/ICalcLinearOptimizationBlock.UseInteger.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="ICalcObject">
+        <param name="Local" value="Interface/ICalcObject/ICalcObject.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ICalcObject.CopyTo">
+          <param name="Local" value="Interface/ICalcObject/ICalcObject.CopyTo.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ICalcObject.CreateCopy">
+          <param name="Local" value="Interface/ICalcObject/ICalcObject.CreateCopy.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ICalcObject.Delete">
+          <param name="Local" value="Interface/ICalcObject/ICalcObject.Delete.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ICalcObject.Descriptor">
+          <param name="Local" value="Interface/ICalcObject/ICalcObject.Descriptor.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ICalcObject.FillSelSetFromParams">
+          <param name="Local" value="Interface/ICalcObject/ICalcObject.FillSelSetFromParams.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ICalcObject.FindParamUses">
+          <param name="Local" value="Interface/ICalcObject/ICalcObject.FindParamUses.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ICalcObject.Id">
+          <param name="Local" value="Interface/ICalcObject/ICalcObject.Id.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ICalcObject.IsEdited">
+          <param name="Local" value="Interface/ICalcObject/ICalcObject.IsEdited.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ICalcObject.IsUseExtObject">
+          <param name="Local" value="Interface/ICalcObject/ICalcObject.IsUseExtObject.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ICalcObject.Key">
+          <param name="Local" value="Interface/ICalcObject/ICalcObject.Key.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ICalcObject.Name">
+          <param name="Local" value="Interface/ICalcObject/ICalcObject.Name.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ICalcObject.Params">
+          <param name="Local" value="Interface/ICalcObject/ICalcObject.Params.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ICalcObject.PrxReport">
+          <param name="Local" value="Interface/ICalcObject/ICalcObject.PrxReport.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ICalcObject.RefreshMetaModel">
+          <param name="Local" value="Interface/ICalcObject/ICalcObject.RefreshMetaModel.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ICalcObject.SaveObject">
+          <param name="Local" value="Interface/ICalcObject/ICalcObject.SaveObject.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ICalcObject.SelControl">
+          <param name="Local" value="Interface/ICalcObject/ICalcObject.SelControl.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ICalcObject.Type">
+          <param name="Local" value="Interface/ICalcObject/ICalcObject.Type.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="ICalcObjectComparer">
+        <param name="Local" value="Interface/ICalcObjectComparer/ICalcObjectComparer.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ICalcObjectComparer.CompareCalcObject">
+          <param name="Local" value="Interface/ICalcObjectComparer/ICalcObjectComparer.CompareCalcObject.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="ICalcObjectsList">
+        <param name="Local" value="Interface/ICalcObjectsList/ICalcObjectsList.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ICalcObjectsList.Add">
+          <param name="Local" value="Interface/ICalcObjectsList/ICalcObjectsList.Add.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ICalcObjectsList.Clear">
+          <param name="Local" value="Interface/ICalcObjectsList/ICalcObjectsList.Clear.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ICalcObjectsList.Clone">
+          <param name="Local" value="Interface/ICalcObjectsList/ICalcObjectsList.Clone.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ICalcObjectsList.Count">
+          <param name="Local" value="Interface/ICalcObjectsList/ICalcObjectsList.Count.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ICalcObjectsList.FindByKey">
+          <param name="Local" value="Interface/ICalcObjectsList/ICalcObjectsList.FindByKey.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ICalcObjectsList.FindByMetaModelKey">
+          <param name="Local" value="Interface/ICalcObjectsList/ICalcObjectsList.FindByMetaModelKey.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ICalcObjectsList.IndexOf">
+          <param name="Local" value="Interface/ICalcObjectsList/ICalcObjectsList.IndexOf.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ICalcObjectsList.IsContain">
+          <param name="Local" value="Interface/ICalcObjectsList/ICalcObjectsList.IsContain.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ICalcObjectsList.Item">
+          <param name="Local" value="Interface/ICalcObjectsList/ICalcObjectsList.Item.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ICalcObjectsList.RefreshObject">
+          <param name="Local" value="Interface/ICalcObjectsList/ICalcObjectsList.RefreshObject.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ICalcObjectsList.Remove">
+          <param name="Local" value="Interface/ICalcObjectsList/ICalcObjectsList.Remove.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ICalcObjectsList.Sort">
+          <param name="Local" value="Interface/ICalcObjectsList/ICalcObjectsList.Sort.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="ICalcValidationBlock">
+        <param name="Local" value="Interface/ICalcValidationBlock/ICalcValidationBlock.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IStubSelection">
+        <param name="Local" value="Interface/IStubSelection/IStubSelection.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IStubSelection.GetRealSelectionSet">
+          <param name="Local" value="Interface/IStubSelection/IStubSelection.GetRealSelectionSet.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IStubSelection.RefreshSelection">
+          <param name="Local" value="Interface/IStubSelection/IStubSelection.RefreshSelection.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IStubSelection.SelectionSet">
+          <param name="Local" value="Interface/IStubSelection/IStubSelection.SelectionSet.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IStubSelection.Stub">
+          <param name="Local" value="Interface/IStubSelection/IStubSelection.Stub.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IStubSelection.Term">
+          <param name="Local" value="Interface/IStubSelection/IStubSelection.Term.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IStubSelection.Type">
+          <param name="Local" value="Interface/IStubSelection/IStubSelection.Type.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IVariableStubsCollection">
+        <param name="Local" value="Interface/IVariableStubsCollection/IVariableStubsCollection.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVariableStubsCollection.Count">
+          <param name="Local" value="Interface/IVariableStubsCollection/IVariableStubsCollection.Count.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVariableStubsCollection.FindByKey">
+          <param name="Local" value="Interface/IVariableStubsCollection/IVariableStubsCollection.FindByKey.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVariableStubsCollection.Item">
+          <param name="Local" value="Interface/IVariableStubsCollection/IVariableStubsCollection.Item.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IVariableStubsIn">
+        <param name="Local" value="Interface/IVariableStubsIn/IVariableStubsIn.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVariableStubsIn.Add">
+          <param name="Local" value="Interface/IVariableStubsIn/IVariableStubsIn.Add.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVariableStubsIn.Remove">
+          <param name="Local" value="Interface/IVariableStubsIn/IVariableStubsIn.Remove.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVariableStubsIn.RemoveByKey">
+          <param name="Local" value="Interface/IVariableStubsIn/IVariableStubsIn.RemoveByKey.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Перечисления сборки Algo">
+      <param name="Local" value="Enums/KeAlgo_Enums.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="CalcObjectType">
+        <param name="Local" value="Enums/CalcObjectType.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="CalculateState">
+        <param name="Local" value="Enums/CalculateState.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="LinearOptimizationSolverType">
+        <param name="Local" value="Enums/LinearOptimizationSolverType.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="OptimizationStubType">
+        <param name="Local" value="Enums/OptimizationStubType.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="SkipErrorState">
+        <param name="Local" value="Enums/SkipErrorState.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="TargetFunctionCriteria">
+        <param name="Local" value="Enums/TargetFunctionCriteria.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      </ul>
+    </ul>
+</ul>
+</html>

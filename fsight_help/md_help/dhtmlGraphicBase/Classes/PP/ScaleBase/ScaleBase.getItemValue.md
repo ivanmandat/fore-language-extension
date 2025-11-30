@@ -1,0 +1,84 @@
+﻿# ScaleBase.getItemValue
+
+ScaleBase.getItemValue
+-
+
+
+# ScaleBase.getItemValue
+
+
+## Синтаксис
+
+
+getItemValue (value);
+
+
+## Параметры
+
+
+value. Значение, по которому
+ нужно получить элемент шкалы.
+
+
+## Описание
+
+
+Метод getItemValue возвращает
+ элемент шкалы, которому соответствует указанное значение из данных.
+
+
+## Пример
+
+
+Для выполнения примера необходимо наличие на html-странице компонента
+ [MapChart](dhtmlMapChart.chm::/Components/MapChart/MapChart.htm) (см.
+ «[Размещение карты
+ на HTML странице](dhtmlMapChart.chm::/Components/MapChart/HTML_layout.htm)») с наименованием «map», [xml-файла](dhtmlMapChart.chm::/Components/MapChart/xml_specification/xml-specification.htm)
+ с настройками карты и топоосновы Russia.svg.
+
+
+Xml-файл должен содержать настройку показателя
+ заливки, который расположен первым в списке показателей карты. Фон заливки
+ - объект зависимости, для которого настроена шкала.
+
+
+function
+ scaleSet() {
+
+
+                scale
+ = map.getFirstVisual().getBackground().getMapScale();
+
+
+                value
+ = scale.getItemValue(20);
+
+
+                scale.setItem(0,
+ value);
+
+
+                map.draw();
+
+
+            }
+
+
+            map.Loaded.add(scaleSet);
+
+
+После выполнения примера при загрузке карты будет установлен первый
+ элемент шкалы, равный элементу шкалы, которому соответствует значение
+ 20.
+
+
+См. также:
+
+
+[ScaleBase](ScaleBase.htm)
+
+
+		Справочная
+		 система на версию 10.9
+		 от 18/08/2025,
+		 © ООО «ФОРСАЙТ»,

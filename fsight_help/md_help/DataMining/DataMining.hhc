@@ -1,0 +1,77 @@
+<html>
+<!-- Sitemap 1.0 -->
+<object type="text/site properties">
+  <param name="SiteType" value="toc">
+  <param name="Image Width" value="16">
+  <param name="Window Styles" value="0x800027">
+  <param name="ExWindow Styles" value="0x100">
+</object>
+<ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Интеллектуальный анализ данных">
+    <param name="Local" value="DataMining_Title.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Начало работы с инструментом «Интеллектуальный анализ данных»">
+      <param name="Local" value="DataMining_Starting.htm">
+      <param name="ImageNumber" value="11">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Выбор данных для анализа">
+      <param name="Local" value="Master/DataMining_Master1_Table.htm">
+      <param name="ImageNumber" value="11">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Выбор типа анализа">
+      <param name="Local" value="Master/Methods/Performing_DataMining.htm">
+      <param name="ImageNumber" value="11">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Анализ «Кластеризация»">
+      <param name="Local" value="Master/Methods/DataMining_CategDetect.htm">
+      <param name="ImageNumber" value="11">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Анализ «Поиск исключений»">
+      <param name="Local" value="Master/Methods/DataMining_ExceptionSearch.htm">
+      <param name="ImageNumber" value="11">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Анализ «Заполнение по шаблону»">
+      <param name="Local" value="Master/Methods/DataMining_PatternSubst.htm">
+      <param name="ImageNumber" value="11">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Анализ «Ключевые факторы»">
+      <param name="Local" value="Master/Methods/DataMining_KeyInf.htm">
+      <param name="ImageNumber" value="11">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Анализ «Анализ ассоциаций»">
+      <param name="Local" value="Master/Methods/DataMining_AssosiationAn.htm">
+      <param name="ImageNumber" value="11">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Анализ «Прогнозирование»">
+      <param name="Local" value="Master/Methods/DataMining_Forecasting.htm">
+      <param name="ImageNumber" value="11">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Просмотр предупреждений">
+      <param name="Local" value="Master/Warnings.htm">
+      <param name="ImageNumber" value="11">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Редактирование признака">
+      <param name="Local" value="Master/Edit_Attribute.htm">
+      <param name="ImageNumber" value="11">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Работа с результатами анализа">
+      <param name="Local" value="Master/DataMining_Result.htm">
+      <param name="ImageNumber" value="11">
+    </object>
+    </ul>
+</ul>
+</html>

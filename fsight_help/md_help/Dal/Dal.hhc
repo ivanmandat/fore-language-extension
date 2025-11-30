@@ -1,0 +1,771 @@
+<html>
+<!-- Sitemap 1.0 -->
+<object type="text/site properties">
+  <param name="SiteType" value="toc">
+  <param name="Image Width" value="16">
+  <param name="Window Styles" value="0x800027">
+  <param name="ExWindow Styles" value="0x100">
+</object>
+<ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Dal">
+    <param name="Local" value="Dal_Title.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Введение в сборку Dal">
+      <param name="Local" value="Intro/Dal_Intro.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Создание соединения с СУБД">
+        <param name="Local" value="Intro/Dal_Connection.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Команда выполнения SQL-запросов">
+        <param name="Local" value="Intro/Dal_Command.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Выполнение SQL-запросов в асинхронном режиме">
+        <param name="Local" value="Intro/Dal_Command2.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Выполнение SQL-запросов с проверкой на ошибки выполнения">
+        <param name="Local" value="Intro/Dal_CommandEx.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Выполнение хранимых процедур и функций">
+        <param name="Local" value="Intro/Dal_ExecStoredProcedure.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Работа с курсорами в результатах выполнения SQL-запроса">
+        <param name="Local" value="Intro/Cursor_in_the_result.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Работа с временными таблицами">
+        <param name="Local" value="Intro/working_with_temporary_tables.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Интерфейсы сборки Dal">
+      <param name="Local" value="Interface/Dal_Interface.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IDalColumns">
+        <param name="Local" value="Interface/IDalColumns/IDalColumns.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IDalCommand">
+        <param name="Local" value="Interface/IDalCommand/IDalCommand.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IDalCommand.Close">
+          <param name="Local" value="Interface/IDalCommand/IDalCommand.Close.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IDalCommand.Connection">
+          <param name="Local" value="Interface/IDalCommand/IDalCommand.Connection.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IDalCommand.CreateCursor">
+          <param name="Local" value="Interface/IDalCommand/IDalCommand.CreateCursor.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IDalCommand.CurrentParamsRow">
+          <param name="Local" value="Interface/IDalCommand/IDalCommand.CurrentParamsRow.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IDalCommand.DescribeCursor">
+          <param name="Local" value="Interface/IDalCommand/IDalCommand.DescribeCursor.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IDalCommand.Execute">
+          <param name="Local" value="Interface/IDalCommand/IDalCommand.Execute.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IDalCommand.ExecuteWithoutLast">
+          <param name="Local" value="Interface/IDalCommand/IDalCommand.ExecuteWithoutLast.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IDalCommand.InUse">
+          <param name="Local" value="Interface/IDalCommand/IDalCommand.InUse.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IDalCommand.MaxParamsRows">
+          <param name="Local" value="Interface/IDalCommand/IDalCommand.MaxParamsRows.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IDalCommand.NextParamsRow">
+          <param name="Local" value="Interface/IDalCommand/IDalCommand.NextParamsRow.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IDalCommand.Params">
+          <param name="Local" value="Interface/IDalCommand/IDalCommand.Params.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IDalCommand.Parse">
+          <param name="Local" value="Interface/IDalCommand/IDalCommand.Parse.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IDalCommand.Prepare">
+          <param name="Local" value="Interface/IDalCommand/IDalCommand.Prepare.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IDalCommand.SQL">
+          <param name="Local" value="Interface/IDalCommand/IDalCommand.SQL.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IDalCommand.Type">
+          <param name="Local" value="Interface/IDalCommand/IDalCommand.Type.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IDalCommand.Unprepare">
+          <param name="Local" value="Interface/IDalCommand/IDalCommand.Unprepare.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IDalCommand2">
+        <param name="Local" value="Interface/IDalCommand2/IDalCommand2.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IDalCommand2.CreateTask">
+          <param name="Local" value="Interface/IDalCommand2/IDalCommand2.CreateTask.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IDalCommandEx">
+        <param name="Local" value="Interface/IDalCommandEx/IDalCommandEx.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IDalCommandEx.ClearParamSets">
+          <param name="Local" value="Interface/IDalCommandEx/IDalCommandEx.ClearParamSets.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IDalCommandEx.ExecuteEx">
+          <param name="Local" value="Interface/IDalCommandEx/IDalCommandEx.ExecuteEx.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IDalCommandEx.ExecuteWithoutLastEx">
+          <param name="Local" value="Interface/IDalCommandEx/IDalCommandEx.ExecuteWithoutLastEx.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IDalCommandEx.SetCurrentParamsRow">
+          <param name="Local" value="Interface/IDalCommandEx/IDalCommandEx.SetCurrentParamsRow.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IDalCommandParam">
+        <param name="Local" value="Interface/IDalCommandParam/IDalCommandParam.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IDalCommandParam.DataDomain">
+          <param name="Local" value="Interface/IDalCommandParam/IDalCommandParam.DataDomain.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IDalCommandParam.DataType">
+          <param name="Local" value="Interface/IDalCommandParam/IDalCommandParam.DataType.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IDalCommandParam.Direction">
+          <param name="Local" value="Interface/IDalCommandParam/IDalCommandParam.Direction.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IDalCommandParam.Name">
+          <param name="Local" value="Interface/IDalCommandParam/IDalCommandParam.Name.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IDalCommandParam.Size">
+          <param name="Local" value="Interface/IDalCommandParam/IDalCommandParam.Size.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IDalCommandParam.Value">
+          <param name="Local" value="Interface/IDalCommandParam/IDalCommandParam.Value.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IDalCommandParams">
+        <param name="Local" value="Interface/IDalCommandParams/IDalCommandParams.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IDalCommandParams.Add">
+          <param name="Local" value="Interface/IDalCommandParams/IDalCommandParams.Add.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IDalCommandParams.Clear">
+          <param name="Local" value="Interface/IDalCommandParams/IDalCommandParams.Clear.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IDalCommandParams.Count">
+          <param name="Local" value="Interface/IDalCommandParams/IDalCommandParams.Count.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IDalCommandParams.Item">
+          <param name="Local" value="Interface/IDalCommandParams/IDalCommandParams.Item.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IDalCommandTask">
+        <param name="Local" value="Interface/IDalCommandTask/IDalCommandTask.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IDalCommandTask.ExecuteType">
+          <param name="Local" value="Interface/IDalCommandTask/IDalCommandTask.ExecuteType.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IDalCommandTask.Result">
+          <param name="Local" value="Interface/IDalCommandTask/IDalCommandTask.Result.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IDalConnection">
+        <param name="Local" value="Interface/IDalConnection/IDalConnection.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IDalConnection.Close">
+          <param name="Local" value="Interface/IDalConnection/IDalConnection.Close.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IDalConnection.Columns">
+          <param name="Local" value="Interface/IDalConnection/IDalConnection.Columns.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IDalConnection.Commit">
+          <param name="Local" value="Interface/IDalConnection/IDalConnection.Commit.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IDalConnection.CreateCommand">
+          <param name="Local" value="Interface/IDalConnection/IDalConnection.CreateCommand.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IDalConnection.CreateCommandO">
+          <param name="Local" value="Interface/IDalConnection/IDalConnection.CreateCommandO.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IDalConnection.Descriptor">
+          <param name="Local" value="Interface/IDalConnection/IDalConnection.Descriptor.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IDalConnection.Indexes">
+          <param name="Local" value="Interface/IDalConnection/IDalConnection.Indexes.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IDalConnection.InTransaction">
+          <param name="Local" value="Interface/IDalConnection/IDalConnection.InTransaction.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IDalConnection.IsDisconnected">
+          <param name="Local" value="Interface/IDalConnection/IDalConnection.IsDisconnected.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IDalConnection.Open">
+          <param name="Local" value="Interface/IDalConnection/IDalConnection.Open.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IDalConnection.Procedures">
+          <param name="Local" value="Interface/IDalConnection/IDalConnection.Procedures.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IDalConnection.Rollback">
+          <param name="Local" value="Interface/IDalConnection/IDalConnection.Rollback.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IDalConnection.StartTransaction">
+          <param name="Local" value="Interface/IDalConnection/IDalConnection.StartTransaction.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IDalConnection.Tables">
+          <param name="Local" value="Interface/IDalConnection/IDalConnection.Tables.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IDalConnection.Triggers">
+          <param name="Local" value="Interface/IDalConnection/IDalConnection.Triggers.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IDalConnection.Views">
+          <param name="Local" value="Interface/IDalConnection/IDalConnection.Views.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IDalConnection2">
+        <param name="Local" value="Interface/IDalConnection2/IDalConnection2.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IDalConnection2.Clone">
+          <param name="Local" value="Interface/IDalConnection2/IDalConnection2.Clone.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IDalConnection2.Discover">
+          <param name="Local" value="Interface/IDalConnection2/IDalConnection2.Discover.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IDalConnection2.Driver">
+          <param name="Local" value="Interface/IDalConnection2/IDalConnection2.Driver.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IDalConnection2.ServerMode">
+          <param name="Local" value="Interface/IDalConnection2/IDalConnection2.ServerMode.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IDalConnection2.Type">
+          <param name="Local" value="Interface/IDalConnection2/IDalConnection2.Type.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IDalConnectionDescriptor">
+        <param name="Local" value="Interface/IDalConnectionDescriptor/IDalConnectionDescriptor.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IDalConnectionDescriptor.CreateConnection">
+          <param name="Local" value="Interface/IDalConnectionDescriptor/IDalConnectionDescriptor.CreateConnection.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IDalConnectionDescriptor.HostString">
+          <param name="Local" value="Interface/IDalConnectionDescriptor/IDalConnectionDescriptor.HostString.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IDalConnectionDescriptor.Params">
+          <param name="Local" value="Interface/IDalConnectionDescriptor/IDalConnectionDescriptor.Params.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IDalConnectionDescriptor.UserName">
+          <param name="Local" value="Interface/IDalConnectionDescriptor/IDalConnectionDescriptor.UserName.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IDalConnectionDescriptor2">
+        <param name="Local" value="Interface/IDalConnectionDescriptor2/IDalConnectionDescriptor2.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IDalConnectionDescriptor2.ConnectAsPrivilege">
+          <param name="Local" value="Interface/IDalConnectionDescriptor2/IDalConnectionDescriptor2.ConnectAsPrivilege.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IDalConnectionDescriptor2.ConnectionType">
+          <param name="Local" value="Interface/IDalConnectionDescriptor2/IDalConnectionDescriptor2.ConnectionType.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IDalConnectionDescriptor2.SupportsConnectionType">
+          <param name="Local" value="Interface/IDalConnectionDescriptor2/IDalConnectionDescriptor2.SupportsConnectionType.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IDalConnectionDescriptorExt">
+        <param name="Local" value="Interface/IDalConnectionDescriptorExt/IDalConnectionDescriptorExt.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IDalConnectionDescriptorExt.CreateConnectionExt">
+          <param name="Local" value="Interface/IDalConnectionDescriptorExt/IDalConnectionDescriptorExt.CreateConnectionExt.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IDalConnectionDescriptorParam">
+        <param name="Local" value="Interface/IDalConnectionDescriptorParam/IDalConnectionDescriptorParam.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IDalConnectionDescriptorParam.Mandatory">
+          <param name="Local" value="Interface/IDalConnectionDescriptorParam/IDalConnectionDescriptorParam.Mandatory.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IDalConnectionDescriptorParam.Name">
+          <param name="Local" value="Interface/IDalConnectionDescriptorParam/IDalConnectionDescriptorParam.Name.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IDalConnectionDescriptorParam.Value">
+          <param name="Local" value="Interface/IDalConnectionDescriptorParam/IDalConnectionDescriptorParam.Value.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IDalConnectionDescriptorParams">
+        <param name="Local" value="Interface/IDalConnectionDescriptorParams/IDalConnectionDescriptorParams.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IDalConnectionDescriptorParams.Count">
+          <param name="Local" value="Interface/IDalConnectionDescriptorParams/IDalConnectionDescriptorParams.Count.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IDalConnectionDescriptorParams.Find">
+          <param name="Local" value="Interface/IDalConnectionDescriptorParams/IDalConnectionDescriptorParams.Find.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IDalConnectionDescriptorParams.Item">
+          <param name="Local" value="Interface/IDalConnectionDescriptorParams/IDalConnectionDescriptorParams.Item.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IDalConnectionExt">
+        <param name="Local" value="Interface/IDalConnectionExt/IDalConnectionExt.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IDalConnectionExt.ChangeExpiredPassword">
+          <param name="Local" value="Interface/IDalConnectionExt/IDalConnectionExt.ChangeExpiredPassword.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IDalConnectionExt.PasswordExpired">
+          <param name="Local" value="Interface/IDalConnectionExt/IDalConnectionExt.PasswordExpired.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IDalCursor">
+        <param name="Local" value="Interface/IDalCursor/IDalCursor.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IDalCursor.Command">
+          <param name="Local" value="Interface/IDalCursor/IDalCursor.Command.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IDalCursor.Eof">
+          <param name="Local" value="Interface/IDalCursor/IDalCursor.Eof.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IDalCursor.Fields">
+          <param name="Local" value="Interface/IDalCursor/IDalCursor.Fields.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IDalCursor.Next">
+          <param name="Local" value="Interface/IDalCursor/IDalCursor.Next.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IDalCursor.Close">
+          <param name="Local" value="Interface/IDalCursor/IDalCursor.Close.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IDalCursorField">
+        <param name="Local" value="Interface/IDalCursorField/IDalCursorField.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IDalCursorField.DataDomain">
+          <param name="Local" value="Interface/IDalCursorField/IDalCursorField.DataDomain.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IDalCursorField.GetDbDataType">
+          <param name="Local" value="Interface/IDalCursorField/IDalCursorField.GetDbDataType.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IDalCursorField.Name">
+          <param name="Local" value="Interface/IDalCursorField/IDalCursorField.Name.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IDalCursorField.Precision">
+          <param name="Local" value="Interface/IDalCursorField/IDalCursorField.Precision.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IDalCursorField.Size">
+          <param name="Local" value="Interface/IDalCursorField/IDalCursorField.Size.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IDalCursorField.Value">
+          <param name="Local" value="Interface/IDalCursorField/IDalCursorField.Value.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IDalCursorFields">
+        <param name="Local" value="Interface/IDalCursorFields/IDalCursorFields.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IDalCursorFields.Count">
+          <param name="Local" value="Interface/IDalCursorFields/IDalCursorFields.Count.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IDalCursorFields.Item">
+          <param name="Local" value="Interface/IDalCursorFields/IDalCursorFields.Item.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IDalDriver">
+        <param name="Local" value="Interface/IDalDriver/IDalDriver.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IDalDriver.CreateDescriptor">
+          <param name="Local" value="Interface/IDalDriver/IDalDriver.CreateDescriptor.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IDalIndexes">
+        <param name="Local" value="Interface/IDalIndexes/IDalIndexes.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IDalODBCConnectionDescriptor">
+        <param name="Local" value="Interface/IDalODBCConnectionDescriptor/IDalODBCConnectionDescriptor.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IDalODBCConnectionDescriptor.ODBCParamCount">
+          <param name="Local" value="Interface/IDalODBCConnectionDescriptor/IDalODBCConnectionDescriptor.ODBCParamCount.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IDalODBCConnectionDescriptor.ODBCParamName">
+          <param name="Local" value="Interface/IDalODBCConnectionDescriptor/IDalODBCConnectionDescriptor.ODBCParamName.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IDalODBCConnectionDescriptor.ODBCParams">
+          <param name="Local" value="Interface/IDalODBCConnectionDescriptor/IDalODBCConnectionDescriptor.ODBCParams.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IDalODBCConnectionDescriptor.ODBCParamValue">
+          <param name="Local" value="Interface/IDalODBCConnectionDescriptor/IDalODBCConnectionDescriptor.ODBCParamValue.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IDalOleDbDrivers">
+        <param name="Local" value="Interface/IDalOleDbDrivers/IDalOleDbDrivers.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IDalOleDbDrivers.Count">
+          <param name="Local" value="Interface/IDalOleDbDrivers/IDalOleDbDrivers.Count.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IDalOleDbDrivers.Driver">
+          <param name="Local" value="Interface/IDalOleDbDrivers/IDalOleDbDrivers.Driver.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IDalOleDbDrivers.DriverName">
+          <param name="Local" value="Interface/IDalOleDbDrivers/IDalOleDbDrivers.DriverName.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IDalProcedures">
+        <param name="Local" value="Interface/IDalProcedures/IDalProcedures.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IDalTables">
+        <param name="Local" value="Interface/IDalTables/IDalTables.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IDalTriggers">
+        <param name="Local" value="Interface/IDalTriggers/IDalTriggers.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IDalViews">
+        <param name="Local" value="Interface/IDalViews/IDalViews.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Перечисления сборки Dal">
+      <param name="Local" value="Enums/Dal_Enums.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="DalCommandExecuteType">
+        <param name="Local" value="Enums/DalCommandExecuteType.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="DalCommandOption">
+        <param name="Local" value="Enums/DalCommandOption.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="DalCommandType">
+        <param name="Local" value="Enums/DalCommandType.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="DalConnectAsPrivilegeType">
+        <param name="Local" value="Enums/DalConnectAsPrivilegeType.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="DalConnectionType">
+        <param name="Local" value="Enums/DalConnectionType.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="DalParamDirection">
+        <param name="Local" value="Enums/DalParamDirection.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="DalServerMode">
+        <param name="Local" value="Enums/DalServerMode.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="DalSystemDictionary">
+        <param name="Local" value="Enums/DalSystemDictionary.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="DbDataDomain">
+        <param name="Local" value="Enums/DbDataDomain.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="DbDataType">
+        <param name="Local" value="Enums/DbDataType.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Классы сборки Dal">
+      <param name="Local" value="Class/Dal_Class.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="DalClickHouseDriver">
+        <param name="Local" value="Class/DalClickHouseDriver/DalClickHouseDriver.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="DalMsSql2012Driver">
+        <param name="Local" value="Class/DalMsSql2012Driver/DalMsSql2012Driver.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="DalMsSql2012ODBCDriver">
+        <param name="Local" value="Class/DalMsSql2012ODBCDriver/DalMsSql2012ODBCDriver.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="DalODBCDriver">
+        <param name="Local" value="Class/DalODBCDriver/DalODBCDriver.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="DalOleDbDrivers">
+        <param name="Local" value="Class/DalOleDbDrivers/DalOleDbDrivers.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="DalOrcl8Driver">
+        <param name="Local" value="Class/DalOrcl8Driver/DalOrcl8Driver.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="DalPostgresDriver">
+        <param name="Local" value="Class/DalPostgresDriver/DalPostgresDriver.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="DalSQLiteDriver">
+        <param name="Local" value="Class/DalSQLiteDriver/DalSQLiteDriver.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      </ul>
+    </ul>
+</ul>
+</html>

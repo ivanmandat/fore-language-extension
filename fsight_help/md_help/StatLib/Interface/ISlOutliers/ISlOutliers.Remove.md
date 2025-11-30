@@ -1,0 +1,54 @@
+﻿# ISlOutliers.Remove
+
+ISlOutliers.Remove
+-
+
+
+# ISlOutliers.Remove
+
+
+## Синтаксис
+
+
+Remove(Index: Integer): Boolean;
+
+
+## Параметры
+
+
+Index. Индекс удаляемого элемента.
+
+
+## Описание
+
+
+Метод Remove удаляет элемент
+ коллекции по указанному индексу.
+
+
+## Комментарии
+
+
+Индексация элементов сквозная и начинается с нуля. Для получения количества
+ элементов в коллекции используйте свойство [ISlOutliers.Count](ISlOutliers.Count.htm).
+
+
+Если удаление выполнено успешно, то метод возвращает значение True, в обратном случае - False.
+
+
+## Пример
+
+
+Использование свойства приведено в примере для [ISmx12arima.AdjustmentOptions](../ISmx12arima/ISmx12arima.AdjustmentOptions.htm).
+
+
+См. также:
+
+
+[ISlOutliers](ISlOutliers.htm)
+
+
+		Справочная
+		 система на версию ERROR: Variable (Version_lts) is undefined.
+		 от 18/08/2025,
+		 © ООО «ФОРСАЙТ»,

@@ -1,0 +1,197 @@
+﻿# ISortedList
+
+ISortedList
+-
+
+
+# ISortedList
+
+
+## Описание
+
+
+Интерфейс ISortedList содержит
+ свойства и методы для работы с коллекцией пар «Ключ-Значение» отсортированной
+ по значениям ключа.
+
+
+## Иерархия наследования
+
+
+           [IEnumerable](../IEnumerable/IEnumerable.htm)
+
+
+           [ICollection](../ICollection/ICollection.htm)
+
+
+           [IDictionary](../IDictionary/IDictionary.htm)
+
+
+           ISortedList
+
+
+## Свойства, унаследованные от [IDictionary](../IDictionary/IDictionary.htm)
+
+
+		 Имя свойства
+		 Краткое описание
+
+
+		 ![](../../Property_Image.gif)
+		 [Item](../IDictionary/IDictionary.Item.htm)
+		 Свойство Item определяет
+		 значение элемента словаря.
+
+
+		 ![](../../Property_Image.gif)
+		 [Keys](../IDictionary/IDictionary.Keys.htm)
+		 Свойство Keys возвращает
+		 коллекцию ключей словаря.
+
+
+		 ![](../../Property_Image.gif)
+		 [Values](../IDictionary/IDictionary.Values.htm)
+		 Свойство Values возвращает
+		 коллекцию значений элементов словаря.
+
+
+## Свойства, унаследованные от [ICollection](../ICollection/ICollection.htm)
+
+
+		 Имя свойства
+		 Краткое описание
+
+
+		 ![](../../Property_Image.gif)
+		 [Count](../ICollection/ICollection.Count.htm)
+		 Свойство Count возвращает
+		 количество элементов в массиве.
+
+
+## Методы
+
+
+		 Имя метода
+		 Краткое описание
+
+
+		 ![](../../Sub_Image.gif)
+		 [Clone](ISortedList.Clone.htm)
+		 Метод Clone создает
+		 копию массива.
+
+
+		 ![](../../Sub_Image.gif)
+		 [ContainsKey](ISortedList.ContainsKey.htm)
+		 Метод ContainsKey проверяет
+		 наличие элемента с указанным ключом.
+
+
+		 ![](../../Sub_Image.gif)
+		 [ContainsValue](ISortedList.ContainsValue.htm)
+		 Метод ContainsValue
+		 проверяет наличие элемента с указанным значением.
+
+
+		 ![](../../Sub_Image.gif)
+		 [GetByIndex](ISortedList.GetByIndex.htm)
+		 Метод GetByIndex возвращает
+		 значение элемента с указанным индексом.
+
+
+		 ![](../../Sub_Image.gif)
+		 [GetKey](ISortedList.GetKey.htm)
+		 Метод GetKey возвращает
+		 ключ элемента по индексу.
+
+
+		 ![](../../Sub_Image.gif)
+		 [GetKeyList](ISortedList.GetKeyList.htm)
+		 Метод GetKeyList возвращает
+		 список ключей массива.
+
+
+		 ![](../../Sub_Image.gif)
+		 [GetValueList](ISortedList.GetValueList.htm)
+		 Метод GetValueList
+		 возвращает список значений массива.
+
+
+		 ![](../../Sub_Image.gif)
+		 [IndexOfKey](ISortedList.IndexOfKey.htm)
+		 Метод IndexOfKey возвращает
+		 индекс элемента по ключу.
+
+
+		 ![](../../Sub_Image.gif)
+		 [IndexOfValue](ISortedList.IndexOfValue.htm)
+		 Метод IndexOfValue
+		 возвращает индекс элемента по значению.
+
+
+		 ![](../../Sub_Image.gif)
+		 [RemoveAt](ISortedList.RemoveAt.htm)
+		 Метод RemoveAt осуществляет
+		 удаление элемента по индексу.
+
+
+		 ![](../../Sub_Image.gif)
+		 [SetByIndex](ISortedList.SetByIndex.htm)
+		 Метод SetByIndex изменяет
+		 значение элемента по индексу.
+
+
+## Методы, унаследованные от [IDictionary](../IDictionary/IDictionary.htm)
+
+
+		 Имя метода
+		 Краткое описание
+
+
+		 ![](../../Sub_Image.gif)
+		 [Add](../IDictionary/IDictionary.Add.htm)
+		 Метод Add осуществляет
+		 добавление элемента в словарь.
+
+
+		 ![](../../Sub_Image.gif)
+		 [Clear](../IDictionary/IDictionary.Clear.htm)
+		 Метод Clear осуществляет
+		 очистку словаря.
+
+
+		 ![](../../Sub_Image.gif)
+		 [Contains](../IDictionary/IDictionary.Contains.htm)
+		 Метод Contains осуществляет
+		 проверку наличия элемента с ключом Key.
+
+
+		 ![](../../Sub_Image.gif)
+		 [Remove](../IDictionary/IDictionary.Remove.htm)
+		 Метод Remove осуществляет
+		 удаление элемента с ключом Key.
+
+
+## Методы, унаследованные от [ICollection](../ICollection/ICollection.htm)
+
+
+		 Имя метода
+		 Краткое описание
+
+
+		 ![](../../Sub_Image.gif)
+		 [CopyTo](../ICollection/ICollection.CopyTo.htm)
+		 Метод CopyTo осуществляет
+		 копирование коллекции в массив.
+
+
+См. также:
+
+
+[Интерфейсы сборки Collections](../ModCollections_Interface.htm)
+
+
+		Справочная
+		 система на версию 10.9
+		 от 18/08/2025,
+		 © ООО «ФОРСАЙТ»,

@@ -1,0 +1,25 @@
+﻿# UiValidation
+
+## РЎС‚СЂР°РЅРёС†С‹
+
+- [Работа с результатами валидации](Calculation_result.md)
+- [Сопоставление атрибутов](CrossDatabaseMappings.md)
+- [Настройка правила валидации](Data_Validation_Types.md)
+- [Сравнение с числом: быстрая валидация данных](Fast_Validation/FastVLA_ComparisonValue.md)
+- [Сравнение версий данных: быстрая валидация данных](Fast_Validation/FastVLA_RevisionComparison.md)
+- [Анализ статистических выбросов: быстрая валидация данных](Fast_Validation/FastVLA_Statistical_outlier.md)
+- [Настройка группы правил валидации](Grouping_types.md)
+- [Анализ отклонений в компонентах: Правило валидации](Validation_types/Component_mismatch.md)
+- [Анализ корреляционной зависимости: Правило валидации](Validation_types/Correlation_analysis.md)
+- [Сравнение с базой данных временных рядов: Правило валидации](Validation_types/Cross-Database_comparison.md)
+- [Сравнение уровней динамики: Правило валидации](Validation_types/Cross-Frequency_comparison.md)
+- [Сравнение версий данных: Правило валидации](Validation_types/Cross-Version_data_comparison.md)
+- [Сравнение версий метаданных: Правило валидации](Validation_types/Cross-Version_metadata_comparison.md)
+- [Сравнение по выражению: Правило валидации](Validation_types/Custom_analysis.md)
+- [Анализ темпа роста: Правило валидации](Validation_types/Growth_rate_analysis.md)
+- [Сравнение с числом: Правило валидации](Validation_types/Level_analysis.md)
+- [Пропуски в данных: Правило валидации](Validation_types/Missing_data.md)
+- [Пропуски в метаданных: Правило валидации](Validation_types/Missing_metadata.md)
+- [Сравнение отношения наблюдений: Правило валидации](Validation_types/Ratio.md)
+- [Анализ статистических выбросов: Правило валидации](Validation_types/Statistical_outlier.md)
+- [Сравнение трендов: Правило валидации](Validation_types/Trend_analysis.md)

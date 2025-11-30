@@ -1,0 +1,137 @@
+<html>
+<!-- Sitemap 1.0 -->
+<object type="text/site properties">
+  <param name="SiteType" value="toc">
+  <param name="Image Width" value="16">
+  <param name="Window Styles" value="0x800027">
+  <param name="ExWindow Styles" value="0x100">
+</object>
+<ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Карта">
+    <param name="Local" value="Map.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Приступая к работе">
+      <param name="Local" value="Common/GettingStarted.htm">
+      <param name="ImageNumber" value="11">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Основные требования для работы с картой">
+      <param name="Local" value="Common/Requirements.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Требования к наличию топоосновы">
+        <param name="Local" value="Common/Topobase.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Требования для детализации территорий">
+        <param name="Local" value="Common/DrillDown_requirements.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Требования для отображения контуров территорий">
+        <param name="Local" value="Common/Loop_requirements.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Требования для отображения маркеров геолокации">
+        <param name="Local" value="Common/Markers_requirements.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Требования для отображения стрелок">
+        <param name="Local" value="Common/Arrows_requirements.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Требования для отображения версионной карты">
+        <param name="Local" value="Common/Version_requirements.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Настройка измерений для работы с картой">
+      <param name="Local" value="Common/Metrics.htm">
+      <param name="ImageNumber" value="11">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Настройка карты">
+      <param name="Local" value="Configure/MapConfigure.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Настройка легенды">
+        <param name="Local" value="Legend/SetupLegend.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Настройка заливки карты">
+        <param name="Local" value="Configure/Color.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Настройка всплывающих подсказок карты">
+        <param name="Local" value="Configure/Tooltips.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Настройка объема карты">
+        <param name="Local" value="Configure/Panel_Height.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Настройка стиля карты">
+        <param name="Local" value="Configure/Map_style.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Дополнительные возможности карты">
+      <param name="Local" value="Configure/Advanced_Features.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Отображение контуров территорий">
+        <param name="Local" value="Configure/terr_contour.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Отображение маркеров геолокации">
+        <param name="Local" value="Configure/coordinate_marker.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Настройка версионной карты">
+        <param name="Local" value="Configure/map_version.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Отображение стрелок">
+        <param name="Local" value="Configure/Arrows.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Настройка параметров и заливки стрелок">
+          <param name="Local" value="Configure/Arrow_Setup.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Отображение диаграмм">
+        <param name="Local" value="Configure/Diagrams.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Настройка общих параметров диаграмм">
+          <param name="Local" value="Configure/Diagram_Setup.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      </ul>
+    </ul>
+</ul>
+</html>

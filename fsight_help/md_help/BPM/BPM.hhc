@@ -1,0 +1,451 @@
+<html>
+<!-- Sitemap 1.0 -->
+<object type="text/site properties">
+  <param name="SiteType" value="toc">
+  <param name="Image Width" value="16">
+  <param name="Window Styles" value="0x800027">
+  <param name="ExWindow Styles" value="0x100">
+</object>
+<ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Моделирование бизнес-процессов и их выполнение">
+    <param name="Local" value="Modeling_of_business_processes.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Начало работы с расширением «Управление бизнес-процессами» в веб-приложении">
+      <param name="Local" value="Web/Starting/Starting.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Построение процесса">
+        <param name="Local" value="Web/Process/Create_process_screenshot.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Администрирование бизнес-процессов">
+          <param name="Local" value="Web/Process/Setting_and_administrating_process_parameters.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Настройка параметров отправки e-mail оповещений">
+            <param name="Local" value="Web/Process/Parameters_setting.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Настройка планировщика для бизнес-процессов">
+            <param name="Local" value="Web/Process/Setting_planner.htm">
+          </object>
+          <ul>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Настройка серверного исполнения процессов">
+              <param name="Local" value="Web/Process/Setting_Server_Process_Execution.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            </ul>
+          </ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Настройка ролевой модели">
+          <param name="Local" value="Web/Facility_Agreement/Role_model.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Управление сегментами данных">
+            <param name="Local" value="Web/Facility_Agreement/Setting_Segments.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Настройка отображения подсветки данных в форме ввода при выполнении шага">
+            <param name="Local" value="Web/Facility_Agreement/highlight_data.htm">
+          </object>
+          </ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Настройка параметров процесса">
+          <param name="Local" value="Web/Process/Setting_Process_Parameters.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Настройка базовых свойств">
+            <param name="Local" value="Web/Process/Basic_properties.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Настройка параметров">
+            <param name="Local" value="Web/Process/Params_control.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Настройка событий">
+            <param name="Local" value="Web/Process/Events.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Создание этапов процесса">
+          <param name="Local" value="Web/Process/Create_Stage.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Создание шагов этапа">
+          <param name="Local" value="Web/Process/StepsProcess/CreateStepsProcess.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Создание шага «Ввод данных»">
+            <param name="Local" value="Web/Process/StepsProcess/Data_Entry.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Создание шага «Расчёт»">
+            <param name="Local" value="Web/Process/StepsProcess/Calculation.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Создание шага «Согласование»">
+            <param name="Local" value="Web/Process/StepsProcess/Agreement.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Создание шага «Вызов подпроцесса»">
+            <param name="Local" value="Web/Process/StepsProcess/Subprocess.htm">
+          </object>
+          <ul>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Настройка условий вызова подпроцессов">
+              <param name="Local" value="Web/Process/StepsProcess/Setting_up_Subprocess_Call_Conditions.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            </ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Создание шага «Вызов метода Fore»">
+            <param name="Local" value="Web/Process/StepsProcess/Fore.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Создание шага «Задача ETL»">
+            <param name="Local" value="Web/Process/StepsProcess/ETL.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Создание шага «Отправка e-mail оповещения»">
+            <param name="Local" value="Web/Process/StepsProcess/E-mail.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Создание шага «Ручное действие»">
+            <param name="Local" value="Web/Process/StepsProcess/Manual_Task.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Настройка стартового события по времени">
+          <param name="Local" value="Web/Process/Setting_up_Events.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Настройка промежуточных событий по времени">
+          <param name="Local" value="Web/Process/Setting_up_Timer_Intermediate_Events.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Настройка условий выполнения шагов этапа">
+          <param name="Local" value="Web/Process/Setting_up_steps_conditions.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Настройка рабочей области">
+          <param name="Local" value="Web/Process/workspace_features.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Редактирование процесса">
+          <param name="Local" value="Web/Process/BPM_Edit_Process.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Запуск процесса">
+          <param name="Local" value="Web/Process/Start_Process.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Мониторинг процесса">
+        <param name="Local" value="Web/Starting/Monitoring_process_execution.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Обновление мониторинга процесса">
+          <param name="Local" value="Web/MonitoringProcess/process_update.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Назначение исполнителя на шаг процесса">
+          <param name="Local" value="Web/MonitoringProcess/user_on_task.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Выполнение шагов процесса в автоматическом режиме">
+          <param name="Local" value="Web/MonitoringProcess/Auto_mode.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Выполнение шагов процесса в ручном режиме">
+          <param name="Local" value="Web/MonitoringProcess/Manual_mode.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Выполнение шагов подпроцесса">
+          <param name="Local" value="Web/MonitoringProcess/Executing_Subprocess.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Перезапуск экземпляров подпроцесса">
+            <param name="Local" value="Web/MonitoringProcess/Restarting_subprocess_instances.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Отклонение шага процесса">
+          <param name="Local" value="Web/MonitoringProcess/Reject_step.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Управление экземплярами процесса">
+          <param name="Local" value="Web/MonitoringProcess/process_instance_management.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Журнал исполнения бизнес-процессов">
+          <param name="Local" value="Web/MonitoringProcess/Log_Stages_Steps_Pprocess.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Очистка мониторинга процессов">
+          <param name="Local" value="Web/Process/Clear_Monitoring.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Начало работы с расширением «Управление бизнес-процессами» в настольном приложении">
+      <param name="Local" value="Desktop/Starting/Starting.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Построение процесса">
+        <param name="Local" value="Desktop/Process/Create_process_screenshot.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Настройка параметров процесса">
+          <param name="Local" value="Desktop/Process/Setting_Process_Parameters.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Настройка базовых свойств">
+            <param name="Local" value="Desktop/Process/Basic_properties.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Управление параметрами">
+            <param name="Local" value="Desktop/Process/Params_control.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Настройка событий">
+            <param name="Local" value="Desktop/Process/Events.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Настройка параметров и администрирование бизнес-процессов">
+          <param name="Local" value="Desktop/Process/Setting_and_administrating_process_parameters.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Настройка параметров бизнес-процессов">
+            <param name="Local" value="Desktop/Process/Parameters_setting.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Настройка планировщика для бизнес-процессов">
+            <param name="Local" value="Desktop/Process/Setting_planner.htm">
+          </object>
+          <ul>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Настройка серверного исполнения процессов">
+              <param name="Local" value="Desktop/Process/Setting_Server_Process_Execution.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            </ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Настройка отладки бизнес-процессов">
+            <param name="Local" value="Desktop/Process/Setting_debug.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Создание служебных задач для бизнес-процессов">
+            <param name="Local" value="Desktop/Process/Creating_service_tasks.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Администрирование бизнес-процессов">
+            <param name="Local" value="Desktop/Process/Administrating.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Настройка ролевой модели">
+          <param name="Local" value="Desktop/Facility_Agreement/Role_model.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Создание объектов полномочий">
+            <param name="Local" value="Desktop/Facility_Agreement/Create_Authorization_Object.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Настройка объектов полномочий процесса">
+            <param name="Local" value="Desktop/Facility_Agreement/Configuring_the_Authorization_Object.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Пример создания и использования объектов полномочий">
+            <param name="Local" value="Desktop/Facility_Agreement/Authorization_object_Example.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Создание этапов процесса">
+          <param name="Local" value="Desktop/Process/Create_Stage.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Создание шагов этапа">
+          <param name="Local" value="Desktop/Process/StepsProcess/CreateStepsProcess.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Создание шага «Ввод данных»">
+            <param name="Local" value="Desktop/Process/StepsProcess/Data_Entry.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Создание шага «Расчёт»">
+            <param name="Local" value="Desktop/Process/StepsProcess/Calculation.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Создание шага «Согласование»">
+            <param name="Local" value="Desktop/Process/StepsProcess/Agreement.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Создание шага «Вызов подпроцесса»">
+            <param name="Local" value="Desktop/Process/StepsProcess/Subprocess.htm">
+          </object>
+          <ul>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Настройка условий вызова подпроцессов">
+              <param name="Local" value="Desktop/Process/StepsProcess/Setting_up_Subprocess_Call_Conditions.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            </ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Создание шага «Вызов метода Fore»">
+            <param name="Local" value="Desktop/Process/StepsProcess/Fore.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Создание шага «Задача ETL»">
+            <param name="Local" value="Desktop/Process/StepsProcess/ETL.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Создание шага «Отправка e-mail оповещения»">
+            <param name="Local" value="Desktop/Process/StepsProcess/E-mail.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Создание шага «Ручное действие»">
+            <param name="Local" value="Desktop/Process/StepsProcess/Manual_Task.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Настройка стартового события по времени">
+          <param name="Local" value="Desktop/Process/Setting_up_Events.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Настройка промежуточных событий по времени">
+          <param name="Local" value="Desktop/Process/Setting_up_Timer_Intermediate_Events.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Настройка условий выполнения шагов этапа">
+          <param name="Local" value="Desktop/Process/Setting_up_steps_conditions.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Симуляция выполнения шагов процесса">
+          <param name="Local" value="Desktop/Process/BPM_Simulation_Process.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Настройки рабочей области">
+          <param name="Local" value="Desktop/Process/workspace_features.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Редактирование процесса">
+          <param name="Local" value="Desktop/Process/BPM_Edit_Process.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Запуск процесса">
+          <param name="Local" value="Desktop/Process/Start_Process.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Мониторинг процесса">
+        <param name="Local" value="Desktop/Starting/Monitoring_process_execution.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Выполнение шагов процесса в автоматическом режиме">
+          <param name="Local" value="Desktop/MonitoringProcess/Auto_mode.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Выполнение шагов процесса в ручном режиме">
+          <param name="Local" value="Desktop/MonitoringProcess/Manual_mode.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Выполнение шагов подпроцесса">
+          <param name="Local" value="Desktop/MonitoringProcess/Executing_Subprocess.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Перезапуск экземпляров подпроцесса">
+            <param name="Local" value="Desktop/MonitoringProcess/Restarting_subprocess_instances.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Отклонение шага процесса">
+          <param name="Local" value="Desktop/MonitoringProcess/Reject_step.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Журнал выполнения этапов/шагов процесса">
+          <param name="Local" value="Desktop/MonitoringProcess/Log_Stages_Steps_Pprocess.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      </ul>
+    </ul>
+</ul>
+</html>

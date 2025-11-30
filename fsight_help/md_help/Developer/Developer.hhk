@@ -1,0 +1,23 @@
+<html>
+<!-- Sitemap 1.0 -->
+<object type="text/site properties">
+  <param name="SiteType" value="index">
+</object>
+<ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Разработка приложений и расширение функциональности">
+    <param name="Name" value="Разработка приложений и расширение функциональности">
+    <param name="Local" value="Developer_Intro.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Параметры среды разработки">
+    <param name="Name" value="Настройки редактора кода">
+    <param name="Local" value="About_Developing/Development_Environment_Options.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Среда разработки">
+    <param name="Name" value="Разработка в среде разработки">
+    <param name="Local" value="Desktop_Title.htm">
+  </object>
+</ul>
+</html>

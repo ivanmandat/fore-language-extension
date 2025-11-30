@@ -1,0 +1,244 @@
+<html>
+<!-- Sitemap 1.0 -->
+<object type="text/site properties">
+  <param name="SiteType" value="toc">
+  <param name="Image Width" value="16">
+  <param name="Window Styles" value="0x800007">
+  <param name="ExWindow Styles" value="0x100">
+</object>
+<ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Перенос объектов между репозиториями и их обновление">
+    <param name="Local" value="Admin_UpdateTitle.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Начало работы с менеджером обновлений">
+      <param name="Local" value="Admin_UpMBObj_RunManager.htm">
+      <param name="ImageNumber" value="11">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Создание обновления">
+      <param name="Local" value="CreateUpdate/Admin_CreateUpdate.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Создание и добавление папки в обновление">
+        <param name="Local" value="CreateUpdate/Admin_CreateUpdate_CreateFolder.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Добавление объектов репозитория">
+        <param name="Local" value="CreateUpdate/Admin_CreateUpdate_AddObjects.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Табличные наборы данных, справочники НСИ, составные справочники НСИ, автоматические кубы и базы данных временных рядов">
+          <param name="Local" value="CreateUpdate/Features/Admin_CreateUpdate_Features_Tables.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Стандартные кубы">
+          <param name="Local" value="CreateUpdate/Features/Admin_CreateUpdate_Features_Cubes.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Схемы отметки">
+          <param name="Local" value="CreateUpdate/Features/Admin_CreateUpdate_Features_Selections.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Создание модуля обновления">
+          <param name="Local" value="CreateUpdate/Features/Admin_CreateUpdate_Features_Module.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Алгоритмы расчёта показателей">
+          <param name="Local" value="CreateUpdate/Features/Calculation_Algorithm.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Объекты полномочий и бизнес-процессы">
+          <param name="Local" value="CreateUpdate/Features/AuthorizationObject_and_BusinessProcesses.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Просмотр текста объекта">
+          <param name="Local" value="Admin_Update_ViewText.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Поиск объекта в обновлении">
+          <param name="Local" value="CreateUpdate/Admin_CreateUpdate_SerchObjects.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Анализ изменений объектов">
+        <param name="Local" value="Admin_UpMBObj_ChangeAnalysis.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Добавление SQL-оператора">
+        <param name="Local" value="CreateUpdate/Admin_CreateUpdate_AddSQL.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Параметры SQL-оператора">
+          <param name="Local" value="CreateUpdate/Admin_ParamSQL.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Добавление удаления объекта">
+        <param name="Local" value="CreateUpdate/Admin_CreateUpdate_AddDel.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Добавление комментария к обновлению">
+        <param name="Local" value="CreateUpdate/Admin_CreateUpdate_AddComent.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Добавление субъекта безопасности">
+        <param name="Local" value="CreateUpdate/Admin_CreateUpdate_AddUser.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Добавление специальных объектов">
+        <param name="Local" value="CreateUpdate/Admin_CreateUpdate_SpecialObjects.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Добавление правил атрибутного метода">
+        <param name="Local" value="CreateUpdate/Admin_CreateUpdate_ABACRule.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Добавление прав доступа">
+        <param name="Local" value="CreateUpdate/AddAccessPermissions.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Настройка параметров обновления выбранного объекта">
+        <param name="Local" value="Admin_UpMBObj_OBJUpdateParameters.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Настройка параметров процесса обновления">
+        <param name="Local" value="UpdateProcess_Parameters.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Фильтрация объектов обновления">
+        <param name="Local" value="CreateUpdate/Filtering.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Настройка отображения объектов">
+        <param name="Local" value="Admin_UpMBObj_ObjView.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Удаление объектов из обновления">
+        <param name="Local" value="CreateUpdate/Admin_CreateUpdate_DelObjects.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Добавление флагов обновления">
+        <param name="Local" value="Admin_UpdateFlags.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Сохранение обновления">
+        <param name="Local" value="SaveUpdate/Admin_SaveUpdate.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Работа с готовым обновлением">
+      <param name="Local" value="Working_with_update.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Особенности при открытии обновления">
+        <param name="Local" value="OpenUpdate/Admin_OpenUpdate.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Синхронизация с репозиторием">
+        <param name="Local" value="AdminUpMGObj_Syn.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Экспорт списка обновления">
+        <param name="Local" value="Admin_UpMBObj_Export.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Установка обновления">
+        <param name="Local" value="Admin_UpMBObj_DoUpdate.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Особенности установки обновления">
+          <param name="Local" value="UPD_features.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Процесс обновления">
+          <param name="Local" value="Admin_UpMBObj_DoUpdateFile.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Конфликты">
+            <param name="Local" value="Conflicts.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Конфликты мандатного доступа">
+            <param name="Local" value="Mandatory_access_conflicts.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Объекты обновления">
+            <param name="Local" value="Update_Objects.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Субъекты обновления">
+            <param name="Local" value="Update_subjects.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Обновление">
+            <param name="Local" value="Admin_UpdateVersion.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Сообщения в процессе обновления">
+          <param name="Local" value="Admin_UpdateResult.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Вопросы и ответы">
+      <param name="Local" value="FAQ/FAQ.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Как происходит процесс обновления при использовании разделения ролей администраторов?">
+        <param name="Local" value="FAQ/Administrator_role_separation.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Как происходит процесс обновления при использовании разных методов разграничения доступа?">
+        <param name="Local" value="FAQ/Access_control_methods.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      </ul>
+    </ul>
+</ul>
+</html>

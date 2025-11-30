@@ -1,0 +1,655 @@
+<html>
+<!-- Sitemap 1.0 -->
+<object type="text/site properties">
+  <param name="SiteType" value="toc">
+  <param name="Image Width" value="16">
+  <param name="Window Styles" value="0x800027">
+  <param name="ExWindow Styles" value="0x100">
+</object>
+<ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Построение форм ввода, контроля и согласования данных">
+    <param name="Local" value="DataEntryForms_Purpose.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Начало работы с расширением «Интерактивные формы ввода данных» в веб-приложении">
+      <param name="Local" value="Web/Starting/Starting.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Построение формы ввода">
+        <param name="Local" value="Web/Starting/ConstructForm.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Настройка параметров формы ввода">
+          <param name="Local" value="Web/Parameters/Parameters.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Добавление интерактивных элементов управления">
+            <param name="Local" value="Web/Parameters/Controls.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Настройка редактора атрибута справочника">
+          <param name="Local" value="Web/Attribute/Attribute.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Настройка табличной области">
+          <param name="Local" value="Web/Table/AreaTable.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Добавление источников">
+            <param name="Local" value="Web/Table/Data_Sources.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Настройка базовых свойств">
+            <param name="Local" value="Web/Table/basic_properties.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Задание структуры табличной области">
+            <param name="Local" value="Web/Table/Table_Area_Structure.htm">
+          </object>
+          <ul>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Выбор элементов измерений">
+              <param name="Local" value="Web/Table/Select_dimension_elements.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Расшифровка измерений">
+              <param name="Local" value="Web/Table/Detail_dimensions.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            </ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Настройка алгоритмов расчёта">
+            <param name="Local" value="Web/Table/Calculation_Practices.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Объединение измерений и поджатие элементов измерений">
+            <param name="Local" value="Web/Table/Merging_Dim.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Управление параметрами">
+            <param name="Local" value="Web/Table/parameter_management.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Обработка событий формы">
+          <param name="Local" value="Web/Parameters/Links.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Прикрепление вложений к ячейкам">
+          <param name="Local" value="Web/Parameters/Attachments.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Настройка оформления и вида отображения формы">
+          <param name="Local" value="Web/Common/Design.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Настройка размещения">
+            <param name="Local" value="Web/Common/Layout.htm">
+          </object>
+          <ul>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Объединение измерений и поджатие элементов измерений">
+              <param name="Local" value="Web/Table/Merging_Dim.htm#642b3b9347ca42c9b00b820c00c373fa=1">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Примеры использования настройки отображения наименований показателей">
+              <param name="Local" value="Web/Common/hide_name.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Настройка нумерации">
+              <param name="Local" value="Web/Common/Numbering.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Расчёт итоговых значений">
+              <param name="Local" value="Web/Work/totals.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            </ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Настройка данных">
+            <param name="Local" value="Web/Common/Format_Data.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Настройка фильтрации">
+            <param name="Local" value="Web/Common/Filter.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Настройка параметров">
+            <param name="Local" value="Web/Common/Parameters.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Настройка оформления">
+            <param name="Local" value="Web/Common/Format.htm">
+          </object>
+          <ul>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Настройка отображения">
+              <param name="Local" value="Web/Common/Display_setting.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            </ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Настройка измененных данных">
+            <param name="Local" value="Web/Common/Changed_Data.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Настройка условного форматирования">
+            <param name="Local" value="Web/Common/Conditional_Formatting.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Настройка стиля таблицы">
+            <param name="Local" value="Web/Work/Table_Styles.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Настройки панели инструментов">
+          <param name="Local" value="Web/Custom_module/Toolbar_settings.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Настройка пользовательских кнопок">
+            <param name="Local" value="Web/Custom_module/Advanced.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Добавление нового листа и работа с ним">
+          <param name="Local" value="Web/Starting/Sheets.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Работа с листами">
+            <param name="Local" value="Web/Starting/Sheets_work.htm">
+          </object>
+          <ul>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Защита листа">
+              <param name="Local" value="Web/Starting/Defence.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            </ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Работа с элементами листа">
+            <param name="Local" value="Web/Starting/Sheets_elements.htm">
+          </object>
+          <ul>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Операции с ячейками">
+              <param name="Local" value="Web/Starting/Cell.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Операции со столбцами">
+              <param name="Local" value="Web/Starting/Column.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Операции со строками">
+              <param name="Local" value="Web/Starting/Row.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            </ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Работа с данными">
+            <param name="Local" value="Web/Starting/Sheets_Data.htm">
+          </object>
+          <ul>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Строка формул">
+              <param name="Local" value="Web/Starting/Organizational_FormulaLine.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Специальная вставка">
+              <param name="Local" value="Web/Starting/Insert_spec.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Добавление примечания">
+              <param name="Local" value="Web/Starting/Notice.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Добавление именованного диапазона">
+              <param name="Local" value="Web/Starting/named_ranges.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            </ul>
+          </ul>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Работа с готовой формой ввода">
+        <param name="Local" value="Web/Work/FinishForm.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Обновление данных формы ввода">
+          <param name="Local" value="Web/Common/Refresh.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Ввод и сохранение данных">
+          <param name="Local" value="Web/Work/DataEnter.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Работа с данными через буфер обмена">
+            <param name="Local" value="Web/Work/CopyPaste.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Работа с интерактивными элементами для управления отметкой">
+          <param name="Local" value="Web/Work/UseControls.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Добавление новых элементов">
+          <param name="Local" value="Web/Work/New_entries.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Ввод и согласование данных в бизнес-процессах">
+          <param name="Local" value="Web/Work/Agreement.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Исключение данных из табличной области">
+          <param name="Local" value="Web/Work/Delete_data.htm">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Настройка внешнего вида">
+          <param name="Local" value="Web/Work/View.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Фильтрация">
+          <param name="Local" value="Web/Work/FilterSearch.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Транспонирование">
+          <param name="Local" value="Web/Work/Transpose.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Поиск и замена">
+          <param name="Local" value="Web/Work/Find_and_Replace.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Расчёт базовых агрегатов">
+          <param name="Local" value="Web/Work/status_string.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Добавление комментариев к ячейкам">
+          <param name="Local" value="Web/Common/Comment.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Просмотр истории изменений значений в ячейке">
+          <param name="Local" value="Web/Work/Change_history.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Просмотр описания формулы">
+          <param name="Local" value="Web/Work/formula_description.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Отмена и повтор операции">
+          <param name="Local" value="Web/Work/Undo_Redo.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Экспорт формы ввода">
+          <param name="Local" value="Web/Common/Export.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Настройка формы ввода под печать">
+          <param name="Local" value="Web/Work/ParamPage/Tuning_ParamPage.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Колонтитулы на странице">
+            <param name="Local" value="Web/Work/ParamPage/Footers_params.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Заголовок формы ввода">
+            <param name="Local" value="Web/Work/ParamPage/Heading_params.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Общие параметры страницы">
+            <param name="Local" value="Web/Work/ParamPage/Common_ParamsPage.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Поля на странице">
+            <param name="Local" value="Web/Work/ParamPage/Fields_OnPage.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Параметры печати">
+            <param name="Local" value="Web/Work/ParamPage/Print_params.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Настройка разрывов и границ страниц">
+            <param name="Local" value="Web/Work/Page_Borders_Breaks.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        </ul>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Начало работы с расширением «Интерактивные формы ввода данных» в настольном приложении">
+      <param name="Local" value="Desktop/Starting/Starting.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Настройка ленты инструментов">
+        <param name="Local" value="Desktop/Starting/Ribbon.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Построение формы ввода">
+        <param name="Local" value="Desktop/Starting/ConstructForm.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Карточка">
+          <param name="Local" value="Desktop/Starting/ConstructForm.htm#card642b3b9347ca42c9b00b820c00c373fa=1">
+          <param name="ImageNumber" value="11">
+          <param name="x-condition" value="Online,Public,Chm">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Реестровая и табличная формы">
+          <param name="Local" value="Desktop/Starting/ConstructForm.htm#table642b3b9347ca42c9b00b820c00c373fa=2">
+          <param name="ImageNumber" value="11">
+          <param name="x-condition" value="Online,Public,Chm">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Комбинированная форма">
+          <param name="Local" value="Desktop/Starting/ConstructForm.htm#combine642b3b9347ca42c9b00b820c00c373fa=3">
+          <param name="ImageNumber" value="11">
+          <param name="x-condition" value="Online,Public,Chm">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Общие шаги по сохранению и копированию формы">
+          <param name="Local" value="Desktop/Starting/ConstructForm.htm#end642b3b9347ca42c9b00b820c00c373fa=4">
+          <param name="ImageNumber" value="11">
+          <param name="x-condition" value="Online,Public,Chm">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Настройка параметров формы ввода">
+          <param name="Local" value="Desktop/Parameters/Parameters.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Настройка редактора атрибута справочника">
+          <param name="Local" value="Desktop/Attribute/Attribute.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Настройка табличной области">
+          <param name="Local" value="Desktop/Table/AreaTable.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Настройка базовых свойств">
+            <param name="Local" value="Desktop/Table/Basic_Properties.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Задание структуры табличной области">
+            <param name="Local" value="Desktop/Table/Table_Area_Structure.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Настройка структуры боковика">
+            <param name="Local" value="Desktop/Table/Sidehead_Structure.htm">
+          </object>
+          <ul>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Выбор элементов измерений боковика">
+              <param name="Local" value="Desktop/Table/Sidehead/SettingDimension.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Дополнительные настройки структуры боковика">
+              <param name="Local" value="Desktop/Table/Sidehead/Advanced_Structure_Settings.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Дополнительные настройки отображения боковика">
+              <param name="Local" value="Desktop/Table/Sidehead/Advanced_Sidehead_Settings.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            </ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Настройка структуры показателей">
+            <param name="Local" value="Desktop/Table/Factors_Structure.htm">
+          </object>
+          <ul>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Выбор элементов в общих измерениях и измерениях показателей">
+              <param name="Local" value="Desktop/Table/Heading/Selecting_Elements.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Выведение атрибута измерения в шапку">
+              <param name="Local" value="Desktop/Table/Heading/Displaying_Dimension_Attribute.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Добавление вычисляемых показателей">
+              <param name="Local" value="Desktop/Table/Heading/Adding_Calculated_Indicators.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Дополнительные настройки структуры показателей">
+              <param name="Local" value="Desktop/Table/Heading/Advanced_Structure_Settings.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Дополнительные настройки отображения шапки">
+              <param name="Local" value="Desktop/Table/Heading/Advanced_Heading_Settings.htm">
+            </object>
+            <ul>
+              <li><object type="text/sitemap">
+                <param name="Name" value="Примеры использования настройки отображения наименований показателей">
+                <param name="Local" value="Desktop/Table/Heading/hide_name.htm">
+                <param name="ImageNumber" value="11">
+              </object>
+              </ul>
+            </ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Выбор алгоритмов расчёта">
+            <param name="Local" value="Desktop/Table/Calculation_Practices.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Отметка элементов и управление параметрами измерения">
+            <param name="Local" value="Desktop/Table/Select_dimension_elements.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Расшифровка измерений и уровней измерений">
+            <param name="Local" value="Desktop/Table/Detail_dimensions.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Объединение измерений и поджатие элементов измерений">
+            <param name="Local" value="Desktop/Table/Merging_Dim.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Настройка нумерации">
+            <param name="Local" value="Desktop/Table/Numbering.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Управление параметрами">
+            <param name="Local" value="Desktop/Table/parameter_management.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Настройка связей между формами и элементами формы ввода">
+          <param name="Local" value="Desktop/Parameters/Links.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Настройка оформления и вида отображения формы ввода">
+          <param name="Local" value="Desktop/Common/Design.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Расширение функциональности">
+          <param name="Local" value="Desktop/Custom_module/Advanced.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Добавление нового листа и работа с ним">
+          <param name="Local" value="Desktop/Starting/Sheets.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Создание копии формы ввода">
+          <param name="Local" value="Desktop/Common/Save.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Работа с готовой формой ввода">
+        <param name="Local" value="Desktop/Work/FinishForm.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Пользовательские настройки формы ввода">
+          <param name="Local" value="Desktop/Work/Custom_settings.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Обновление данных формы ввода">
+          <param name="Local" value="Desktop/Common/Refresh.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Ввод и сохранение данных: Формы ввода">
+          <param name="Local" value="Desktop/Work/DataEnter.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Работа с данными через буфер обмена">
+            <param name="Local" value="Desktop/Work/CopyPaste.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Добавление новых записей">
+          <param name="Local" value="Desktop/Work/New_entries.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Ввод и согласование данных в бизнес-процессах">
+          <param name="Local" value="Desktop/Work/Agreement.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Просмотр описания формулы">
+          <param name="Local" value="Desktop/Work/formula_description.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Использование интерактивных элементов для управления отметкой">
+          <param name="Local" value="Desktop/Work/UseControls.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Настройка внешнего вида">
+          <param name="Local" value="Desktop/Work/View.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Сортировка и фильтрация">
+          <param name="Local" value="Desktop/Work/FilterSearch.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Нумерация и транспонирование">
+          <param name="Local" value="Desktop/Work/Transpose.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Поиск и замена">
+          <param name="Local" value="Desktop/Work/Find_and_Replace.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Отмена/повтор операции">
+          <param name="Local" value="Desktop/Work/Undo_Redo.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Экспорт формы ввода">
+          <param name="Local" value="Desktop/Common/Export.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Предварительный просмотр и печать формы ввода">
+          <param name="Local" value="Desktop/Common/ParamPage.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Вопросы и ответы">
+      <param name="Local" value="FAQ/FAQ.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Как настроить динамическое изменение отображаемых элементов измерения боковика">
+        <param name="Local" value="FAQ/Select_alternative_hierarchy.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Как настроить управление параметрами измерения боковика">
+        <param name="Local" value="FAQ/Sidehead_dimensions.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      </ul>
+    </ul>
+</ul>
+</html>

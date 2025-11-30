@@ -1,0 +1,604 @@
+<html>
+<!-- Sitemap 1.0 -->
+<object type="text/site properties">
+  <param name="SiteType" value="toc">
+  <param name="Image Width" value="16">
+  <param name="Window Styles" value="0x800027">
+  <param name="ExWindow Styles" value="0x100">
+</object>
+<ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Анализ временных рядов">
+    <param name="Local" value="UiDw_Title.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Начало работы с инструментом «Анализ временных рядов»">
+      <param name="Local" value="Getting_Started.htm">
+      <param name="ImageNumber" value="11">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Построение рабочей книги">
+      <param name="Local" value="Workbook/BuildWorkbook.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Создание и настройка рабочей книги и листов">
+        <param name="Local" value="Workbook/UiDw_Woorkbook.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Экспорт рабочей книги">
+          <param name="Local" value="Workbook/Export_wbk.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Параметризация рабочей книги">
+          <param name="Local" value="Workbook/WBK_Params.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Обновление рабочей книги">
+          <param name="Local" value="Workbook/Update.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Настройка заголовка листа">
+          <param name="Local" value="Workbook/List_caption.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Использование подстановок в заголовке">
+            <param name="Local" value="Workbook/Substitution.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Создание и настройка временных рядов">
+        <param name="Local" value="Object_Index/UiDw_Factor_New.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Создание временного ряда">
+          <param name="Local" value="Workbook/TimeSerie_Create.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Настройка базовых параметров временного ряда">
+          <param name="Local" value="Workbook/SidePanel/UiDw_sp_Primary.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Редактирование значений атрибутов ряда">
+          <param name="Local" value="Workbook/TimeSeries_Attr_Edit.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Редактирование значений атрибутов наблюдения">
+          <param name="Local" value="Workbook/UiDw_AttributePoint.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Преобразование значений ряда">
+          <param name="Local" value="Workbook/UiDw_Series_Inversion.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Выбор отображаемых атрибутов">
+          <param name="Local" value="Workbook/UiDw_Attribute.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Просмотр истории изменений">
+          <param name="Local" value="Workbook/UiDw_SeriesHistory.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Фильтрация данных">
+          <param name="Local" value="Workbook/SidePanel/UiDw_sp_Data.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Создание и настройка вычисляемых рядов">
+        <param name="Local" value="Workbook/UiDw_ComputedSeries.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Настройка параметров метода расчёта">
+          <param name="Local" value="Workbook/CalculatedSeries/UiDw_cs_common.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Калькулятор">
+            <param name="Local" value="Workbook/CalculatedSeries/UiDw_cs_Calculator.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Арифметика">
+          </object>
+          <ul>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Абсолютное значение">
+              <param name="Local" value="Workbook/CalculatedSeries/Arithmetic/UiDw_cs_Abs.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Логарифм">
+              <param name="Local" value="Workbook/CalculatedSeries/Arithmetic/UiDw_cs_Log.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Натуральный логарифм">
+              <param name="Local" value="Workbook/CalculatedSeries/Arithmetic/UiDw_cs_Ln.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Округление">
+              <param name="Local" value="Workbook/CalculatedSeries/Arithmetic/UiDw_cs_Round.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Остаток от деления">
+              <param name="Local" value="Workbook/CalculatedSeries/Arithmetic/UiDw_cs_Mod.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Сложение">
+              <param name="Local" value="Workbook/CalculatedSeries/Arithmetic/UiDw_cs_Addition.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Умножение">
+              <param name="Local" value="Workbook/CalculatedSeries/Arithmetic/UiDw_cs_Multiplying.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Экспонента">
+              <param name="Local" value="Workbook/CalculatedSeries/Arithmetic/UiDw_cs_Exponent.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            </ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Агрегация">
+          </object>
+          <ul>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Агрегация по показателям">
+              <param name="Local" value="Workbook/CalculatedSeries/Aggregation/UiDw_cs_Aggregation.htm">
+            </object>
+            <ul>
+              <li><object type="text/sitemap">
+                <param name="Name" value="Настройка базовых параметров агрегации по показателям">
+                <param name="Local" value="Workbook/CalculatedSeries/Aggregation/Panel_param_aggr.htm">
+                <param name="ImageNumber" value="11">
+              </object>
+              <li><object type="text/sitemap">
+                <param name="Name" value="Настройка параметров сглаживания данных">
+                <param name="Local" value="Workbook/CalculatedSeries/Aggregation/Panel_SmoothingParams.htm">
+                <param name="ImageNumber" value="11">
+              </object>
+              <li><object type="text/sitemap">
+                <param name="Name" value="Пример настройки расчета агрегации">
+                <param name="Local" value="Workbook/CalculatedSeries/UiDw_CalcSer_DetermAggregation_expl.htm">
+                <param name="ImageNumber" value="11">
+              </object>
+              </ul>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Агрегация по времени">
+              <param name="Local" value="Workbook/CalculatedSeries/Aggregation/UiDw_cs_TotalCollapseFrequency.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Интерполяция по времени">
+              <param name="Local" value="Workbook/CalculatedSeries/Aggregation/UiDw_cs_ProportionalInterpolation.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            </ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Сглаживание">
+          </object>
+          <ul>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Выделение сезонности (X11)">
+              <param name="Local" value="Workbook/CalculatedSeries/Smoothing/UiDw_cs_Seasonality_Month.htm">
+            </object>
+            <ul>
+              <li><object type="text/sitemap">
+                <param name="Name" value="Настройка параметров выделения сезонности (X11)">
+                <param name="Local" value="Workbook/CalculatedSeries/Smoothing/Panel_Param_x11.htm">
+                <param name="ImageNumber" value="11">
+              </object>
+              <li><object type="text/sitemap">
+                <param name="Name" value="Настройка параметров скользящего среднего">
+                <param name="Local" value="Workbook/CalculatedSeries/Smoothing/Panel_MA.htm">
+                <param name="ImageNumber" value="11">
+              </object>
+              <li><object type="text/sitemap">
+                <param name="Name" value="Задание весовых коэффициентов">
+                <param name="Local" value="Workbook/CalculatedSeries/Smoothing/Panel_Weigth.htm">
+                <param name="ImageNumber" value="11">
+              </object>
+              </ul>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Скользящее среднее">
+              <param name="Local" value="Workbook/CalculatedSeries/Smoothing/UiDw_cs_MovingAverage.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Фильтр Бакстера-Кинга">
+              <param name="Local" value="Workbook/CalculatedSeries/Smoothing/UiDw_cs_BandpassFilter.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Фильтр Ходрика-Прескотта">
+              <param name="Local" value="Workbook/CalculatedSeries/Smoothing/UiDw_cs_HodrickPrescottFilter.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Экспоненциальное сглаживание">
+              <param name="Local" value="Workbook/CalculatedSeries/Forecast/UiDw_cs_ExponentialSmoothing.htm">
+            </object>
+            <ul>
+              <li><object type="text/sitemap">
+                <param name="Name" value="Настройка параметров экспоненциального сглаживания">
+                <param name="Local" value="Workbook/CalculatedSeries/Forecast/Panel_Param_ExpSmooth.htm">
+                <param name="ImageNumber" value="11">
+              </object>
+              <li><object type="text/sitemap">
+                <param name="Name" value="Настройка автоподбора значений параметров">
+                <param name="Local" value="Workbook/CalculatedSeries/Forecast/Panel_paramAutofit.htm">
+                <param name="ImageNumber" value="11">
+              </object>
+              </ul>
+            </ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Преобразования">
+          </object>
+          <ul>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Временные">
+            </object>
+            <ul>
+              <li><object type="text/sitemap">
+                <param name="Name" value="Лаг">
+                <param name="Local" value="Workbook/CalculatedSeries/Transformations/UiDw_cs_Lag.htm">
+                <param name="ImageNumber" value="11">
+              </object>
+              <li><object type="text/sitemap">
+                <param name="Name" value="Опережение">
+                <param name="Local" value="Workbook/CalculatedSeries/Transformations/UiDw_cs_Lead.htm">
+                <param name="ImageNumber" value="11">
+              </object>
+              <li><object type="text/sitemap">
+                <param name="Name" value="Совмещение">
+                <param name="Local" value="Workbook/CalculatedSeries/Transformations/UiDw_cs_Overlapping.htm">
+                <param name="ImageNumber" value="11">
+              </object>
+              <li><object type="text/sitemap">
+                <param name="Name" value="Усечение">
+                <param name="Local" value="Workbook/CalculatedSeries/Transformations/UiDw_cs_Truncate.htm">
+                <param name="ImageNumber" value="11">
+              </object>
+              </ul>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Математические">
+            </object>
+            <ul>
+              <li><object type="text/sitemap">
+                <param name="Name" value="Коэффициент роста">
+                <param name="Local" value="Workbook/CalculatedSeries/Transformations/UiDw_cs_GrowRate.htm">
+                <param name="ImageNumber" value="11">
+              </object>
+              <li><object type="text/sitemap">
+                <param name="Name" value="Разность">
+                <param name="Local" value="Workbook/CalculatedSeries/Transformations/UiDw_cs_Difference.htm">
+                <param name="ImageNumber" value="11">
+              </object>
+              <li><object type="text/sitemap">
+                <param name="Name" value="Разность логарифмов">
+                <param name="Local" value="Workbook/CalculatedSeries/Transformations/UiDw_cs_LogDifference.htm">
+                <param name="ImageNumber" value="11">
+              </object>
+              <li><object type="text/sitemap">
+                <param name="Name" value="Темп прироста">
+                <param name="Local" value="Workbook/CalculatedSeries/Transformations/UiDw_cs_Increment.htm">
+                <param name="ImageNumber" value="11">
+              </object>
+              </ul>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Методы накопления">
+              <param name="Local" value="Workbook/CalculatedSeries/Transformations/UiDw_cs_CumulativeMinimum.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Методы заполнения пропусков">
+              <param name="Local" value="Workbook/CalculatedSeries/Transformations/UiDw_cs_MissingData_Geometric.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Статистические">
+              <param name="Local" value="Workbook/CalculatedSeries/Transformations/UiDw_cs_Normalization.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            </ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Регрессия">
+          </object>
+          <ul>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Линейная регрессия (МНК)">
+              <param name="Local" value="Workbook/CalculatedSeries/Regression/UiDw_cs_LinearRegression.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Линейная регрессия (МИП)">
+              <param name="Local" value="Workbook/CalculatedSeries/Regression/UiDw_cs_TSLS.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Модель коррекции ошибок">
+              <param name="Local" value="Workbook/CalculatedSeries/Regression/UiDw_cs_ErrorCorrectionModel.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Нелинейная регрессия">
+              <param name="Local" value="Workbook/CalculatedSeries/Regression/UiDw_cs_NonLinearRegression.htm">
+            </object>
+            <ul>
+              <li><object type="text/sitemap">
+                <param name="Name" value="Настройка дополнительных параметров расчета">
+                <param name="Local" value="Workbook/CalculatedSeries/Regression/NonLinearRegression_adjust.htm">
+                <param name="ImageNumber" value="11">
+              </object>
+              </ul>
+            </ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Прогнозирование">
+          </object>
+          <ul>
+            <li><object type="text/sitemap">
+              <param name="Name" value="ARIMA">
+              <param name="Local" value="Workbook/CalculatedSeries/Forecast/UiDw_cs_ARIMA.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Тренд">
+              <param name="Local" value="Workbook/CalculatedSeries/Forecast/UiDw_cs_Exponential_Trend.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Грей-метод">
+              <param name="Local" value="Workbook/CalculatedSeries/Forecast/UiDw_cs_GreyForecast.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Экспоненциальное сглаживание">
+              <param name="Local" value="Workbook/CalculatedSeries/Forecast/UiDw_cs_ExponentialSmoothing.htm#642b3b9347ca42c9b00b820c00c373fa=1">
+            </object>
+            <ul>
+              <li><object type="text/sitemap">
+                <param name="Name" value="Настройка параметров экспоненциального сглаживания">
+                <param name="Local" value="Workbook/CalculatedSeries/Forecast/Panel_Param_ExpSmooth.htm#642b3b9347ca42c9b00b820c00c373fa=1">
+                <param name="ImageNumber" value="11">
+              </object>
+              <li><object type="text/sitemap">
+                <param name="Name" value="Настройка автоподбора значений параметров">
+                <param name="Local" value="Workbook/CalculatedSeries/Forecast/Panel_paramAutofit.htm#642b3b9347ca42c9b00b820c00c373fa=1">
+                <param name="ImageNumber" value="11">
+              </object>
+              </ul>
+            </ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Методы R">
+            <param name="Local" value="Workbook/CalculatedSeries/r_metods.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Пользовательские функции">
+            <param name="Local" value="Workbook/CalculatedSeries/UiDw_cs_UserMethods.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Настройка параметров авторегрессии и скользящего среднего">
+          <param name="Local" value="Workbook/CalculatedSeries/Panel_ARMA.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Настройка периодов расчёта">
+          <param name="Local" value="Workbook/CalculatedSeries/Forecast/UiDw_cs_calc_param.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Обработка пропусков">
+          <param name="Local" value="Workbook/CalculatedSeries/UiDw_cs_MisingData_Method.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Настройка факторов">
+          <param name="Local" value="Workbook/CalculatedSeries/Factors.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Отображение спарклайнов">
+        <param name="Local" value="Workbook/Sparklines.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Применение расширенной аналитики">
+        <param name="Local" value="Workbook/AdvancedAnalytics.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Валидация данных">
+        <param name="Local" value="Workbook/Data_validation.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Работа с версиями данных">
+        <param name="Local" value="Revision/Revision_Work.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Настройка представлений данных">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Настройка таблицы данных">
+          <param name="Local" value="Workbook/UiDw_Series.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Настройка общих параметров оформления таблицы">
+            <param name="Local" value="Workbook/SidePanel/UiDw_sp_view.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Настройка оформления данных в таблице">
+            <param name="Local" value="Workbook/SidePanel/Panel_DataArea.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Настройка оформления шапки таблицы">
+            <param name="Local" value="Workbook/SidePanel/Caption.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Настройка стиля таблицы">
+            <param name="Local" value="Workbook/Styles_Table.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Поиск и замена данных">
+            <param name="Local" value="Object_Index/UiDw_Object_Index_Search.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Настройка диаграммы">
+          <param name="Local" value="Workbook/Chart_work.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Настройка карты">
+          <param name="Local" value="Workbook/Map_Work.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Работа с готовой рабочей книгой">
+      <param name="Local" value="Purpose/ViewMode.htm">
+      <param name="ImageNumber" value="11">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Импорт данных">
+      <param name="Local" value="Import/Import.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Настройка источника">
+        <param name="Local" value="Import/Data_Source.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Дополнительные настройки">
+          <param name="Local" value="Import/Additional_Settings.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Привязка данных">
+        <param name="Local" value="Import/Data_Binding.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Настройка формата даты">
+          <param name="Local" value="Import/Date_Format.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Настройка формата атрибутов">
+          <param name="Local" value="Import/Attributes_Format.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Сопоставление свободных атрибутов">
+        <param name="Local" value="Import/Non-Binding_Attributes.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Выполнение импорта">
+        <param name="Local" value="Import/Options_Review.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Просмотр результатов">
+        <param name="Local" value="Import/Results.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Экспорт данных">
+      <param name="Local" value="Export/UiDw_Export.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Выбор приёмника данных">
+        <param name="Local" value="Export/UiDw_Export2.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Привязка данных">
+        <param name="Local" value="Export/UiDw_Export3.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Выбор данных">
+        <param name="Local" value="Export/UiDw_Export4.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Выполнение экспорта">
+        <param name="Local" value="Export/UiDw_Export5.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Вопросы и ответы">
+      <param name="Local" value="FAQ/FAQ.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Как изменяются значения временных рядов при масштабировании данных?">
+        <param name="Local" value="FAQ/UnitsScale.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Как настроить автоматическую генерацию мнемоник?">
+        <param name="Local" value="FAQ/AutoMnemonics.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Как настроить интеграцию с R?">
+        <param name="Local" value="FAQ/R_Integration.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Как создать мультиязычную базу данных временных рядов?">
+        <param name="Local" value="FAQ/Translation.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Как выполнить импорт, если возникает ошибка «Вносимое значение слишком велико для столбца»?">
+        <param name="Local" value="FAQ/Mnemonics_error.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      </ul>
+    </ul>
+</ul>
+</html>

@@ -1,0 +1,220 @@
+<html>
+<!-- Sitemap 1.0 -->
+<object type="text/site properties">
+  <param name="SiteType" value="toc">
+  <param name="Image Width" value="16">
+  <param name="Window Styles" value="0x800027">
+  <param name="ExWindow Styles" value="0x100">
+</object>
+<ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="База знаний">
+    <param name="Local" value="KnowledgeBase_Intro.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Индикация длительных процессов">
+      <param name="Local" value="01_Fore/KnowledgeBase_KB000001.htm">
+      <param name="ImageNumber" value="11">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Выполнение стандартных операций над объектами репозитория">
+      <param name="Local" value="01_Fore/KnowledgeBase_KB000002.htm">
+      <param name="ImageNumber" value="11">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Отладочная печать">
+      <param name="Local" value="01_Fore/KnowledgeBase_KB000003.htm">
+      <param name="ImageNumber" value="11">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Использование оператора «Dispose»">
+      <param name="Local" value="01_Fore/KnowledgeBase_KB000004.htm">
+      <param name="ImageNumber" value="11">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Порядок оформления кода">
+      <param name="Local" value="01_Fore/KnowledgeBase_KB000005.htm">
+      <param name="ImageNumber" value="11">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Неэффективное написание кода">
+      <param name="Local" value="01_Fore/KnowledgeBase_KB000006.htm">
+      <param name="ImageNumber" value="11">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Использование максимальных и минимальных значений системных типов">
+      <param name="Local" value="01_Fore/KnowledgeBase_KB000007.htm">
+      <param name="ImageNumber" value="11">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Примеры фрагментов кода, после выполнения которых в памяти остаются объекты">
+      <param name="Local" value="01_Fore/KnowledgeBase_KB000009.htm">
+      <param name="ImageNumber" value="11">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Особенности преобразования вещественных чисел и дат в строку и обратно">
+      <param name="Local" value="01_Fore/KnowledgeBase_KB000012.htm">
+      <param name="ImageNumber" value="11">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Требования к прикладным объектам для работы в веб-приложении">
+      <param name="Local" value="01_Fore/KnowledgeBase_KB000013.htm">
+      <param name="ImageNumber" value="11">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Эффективное построение и использование справочников">
+      <param name="Local" value="01_Fore/KnowledgeBase_KB000014.htm">
+      <param name="ImageNumber" value="11">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Использование запросов в пользовательских приложениях">
+      <param name="Local" value="01_Fore/KnowledgeBase_KB000016.htm">
+      <param name="ImageNumber" value="11">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Использование карт в экспресс-отчёте">
+      <param name="Local" value="01_Fore/KnowledgeBase_KB000017.htm">
+      <param name="ImageNumber" value="11">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Работа с измерениями в компонентах DimensionTree/DimensionCombo">
+      <param name="Local" value="01_Fore/KnowledgeBase_KB000018.htm">
+      <param name="ImageNumber" value="11">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Особенности сравнения вещественных чисел">
+      <param name="Local" value="01_Fore/KnowledgeBase_KB000019.htm">
+      <param name="ImageNumber" value="11">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Контрольный список интерфейса">
+      <param name="Local" value="01_Fore/KnowledgeBase_KB000020.htm">
+      <param name="ImageNumber" value="11">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Система управления версиями (VCS) в продукте">
+      <param name="Local" value="01_Fore/KnowledgeBase_KB000022.htm">
+      <param name="ImageNumber" value="11">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Особенность экспорта дат в формат XLS">
+      <param name="Local" value="01_Fore/KnowledgeBase_KB000023.htm">
+      <param name="ImageNumber" value="11">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Особенности использования переменных в пространствах имен">
+      <param name="Local" value="01_Fore/KnowledgeBase_KB000024.htm">
+      <param name="ImageNumber" value="11">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Использование пользовательской справки">
+      <param name="Local" value="01_Fore/KnowledgeBase_KB000025.htm">
+      <param name="ImageNumber" value="11">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Генерация событий вручную">
+      <param name="Local" value="01_Fore/KnowledgeBase_KB000027.htm">
+      <param name="ImageNumber" value="11">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Динамическое создание и использование компонентов">
+      <param name="Local" value="01_Fore/KnowledgeBase_KB000028.htm">
+      <param name="ImageNumber" value="11">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Использование ресурсов продукта в сторонних приложениях">
+      <param name="Local" value="01_Fore/KnowledgeBase_KB000029.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Работа в C#">
+        <param name="Local" value="01_Fore/KB000029/Work_in_CSharp.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Работа с системными сборками продукта «Форсайт. Аналитическая платформа»">
+          <param name="Local" value="01_Fore/KB000029/KnowledgeBase_KB000029_1.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Работа с формами и сборками репозитория продукта «Форсайт. Аналитическая платформа»">
+          <param name="Local" value="01_Fore/KB000029/KnowledgeBase_KB000029_2.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Работа в Java">
+        <param name="Local" value="01_Fore/KB000029/Work_in_Java.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Работа в Python">
+        <param name="Local" value="01_Fore/KB000029/Work_in_Python.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Сборка мусора">
+        <param name="Local" value="01_Fore/KB000029/KnowledgeBase_KB000029_4.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Дополнительные настройки «Форсайт. Аналитическая платформа»">
+      <param name="Local" value="01_Fore/KnowledgeBase_KB000030.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Расширенное логирование и получение дополнительной отладочной информации">
+        <param name="Local" value="01_Fore/KB000030/KnowledgeBase_KB000030_1.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Сборка мусора">
+        <param name="Local" value="01_Fore/KB000030/KnowledgeBase_KB000030_2.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Работа с полями, имеющими пользовательский тип данных">
+      <param name="Local" value="01_Fore/KnowledgeBase_KB000031.htm">
+      <param name="ImageNumber" value="11">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Особенности уникальных ключей в мультиязычных справочниках НСИ">
+      <param name="Local" value="01_Fore/knowledgebase_kb000033.htm">
+      <param name="ImageNumber" value="11">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Использование форматированного текста">
+      <param name="Local" value="01_Fore/knowledgebase_kb000034.htm">
+      <param name="ImageNumber" value="11">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Использование файлов-ярлыков">
+      <param name="Local" value="01_Fore/knowledgebase_kb000035.htm">
+      <param name="ImageNumber" value="11">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Особенности хранения данных в базе данных временных рядов">
+      <param name="Local" value="01_Fore/knowledgebase_kb000036.htm">
+      <param name="ImageNumber" value="11">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Настройки, влияющие на функциональность продукта">
+      <param name="Local" value="01_Fore/knowledgebase_kb000037.htm">
+      <param name="ImageNumber" value="11">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Работа с видео">
+      <param name="Local" value="01_Fore/knowledgebase_kb000038.htm">
+      <param name="ImageNumber" value="11">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Взаимодействие с Apache Kafka">
+      <param name="Local" value="01_Fore/knowledgebase_kb000040.htm">
+      <param name="ImageNumber" value="11">
+    </object>
+    </ul>
+</ul>
+</html>

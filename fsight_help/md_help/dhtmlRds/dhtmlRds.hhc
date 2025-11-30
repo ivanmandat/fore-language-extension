@@ -1,0 +1,1121 @@
+<html>
+<!-- Sitemap 1.0 -->
+<object type="text/site properties">
+  <param name="SiteType" value="toc">
+  <param name="Image Width" value="16">
+  <param name="Window Styles" value="0x800007">
+  <param name="ExWindow Styles" value="0x100">
+</object>
+<ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Работа со справочником НСИ">
+    <param name="Local" value="Components/Components.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Компоненты">
+      <param name="Local" value="Components/Components.htm#642b3b9347ca42c9b00b820c00c373fa=1">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="CleanUpDialog">
+        <param name="Local" value="Components/Rds/CleanUpDialog/CleanUpDialog.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="DataArea">
+        <param name="Local" value="Components/Rds/DataArea/DataArea.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Пример создания компонента DataArea">
+          <param name="Local" value="Components/Rds/DataArea/DataArea_Example.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="DictionaryBox">
+        <param name="Local" value="Components/Rds/DictionaryBox/DictionaryBox.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Пример создания компонента DictionaryBox">
+          <param name="Local" value="Components/Rds/DictionaryBox/DictionaryBox_Example.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="DictionaryTree">
+        <param name="Local" value="Components/Rds/DictionaryTree/DictionaryTree.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Пример совместного создания компонентов DictionaryTree, ParamsBox и FindBox">
+          <param name="Local" value="Components/Rds/DictionaryTree/DictionaryTree_Example.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="ElementCard">
+        <param name="Local" value="Components/Rds/ElementCard/ElementCard.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="FindBox">
+        <param name="Local" value="Components/Rds/FindBox/FindBox.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="FindSettingsDialog">
+        <param name="Local" value="Components/Rds/FindSettingsDialog/FindSettingsDialog.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="ParamsBox">
+        <param name="Local" value="Components/Rds/ParamsBox/ParamsBox.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="PP.Rds.Ui">
+      <param name="Local" value="Classes/PP.Rds.Ui.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Классы">
+        <param name="Local" value="Classes/PP.Rds.Ui.htm#642b3b9347ca42c9b00b820c00c373fa=1">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="CleanUpDialog">
+          <param name="Local" value="Classes/Rds/CleanUpDialog/CleanUpDialog.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="CleanUpDialog.CleanCanceled">
+            <param name="Local" value="Classes/Rds/CleanUpDialog/CleanUpDialog.CleanCanceled.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="CleanUpDialog.CleanConfirmed">
+            <param name="Local" value="Classes/Rds/CleanUpDialog/CleanUpDialog.CleanConfirmed.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="CleanUpDialog.Source">
+            <param name="Local" value="Classes/Rds/CleanUpDialog/CleanUpDialog.Source.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Конструктор CleanUpDialog">
+            <param name="Local" value="Classes/Rds/CleanUpDialog/Constructor_CleanUpDialog.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="DataArea">
+          <param name="Local" value="Classes/Rds/DataArea/DataArea.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="DataArea.ActiveTabChanged">
+            <param name="Local" value="Classes/Rds/DataArea/DataArea.ActiveTabChanged.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="DataArea.ActiveTreeEdited">
+            <param name="Local" value="Classes/Rds/DataArea/DataArea.ActiveTreeEdited.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="DataArea.ActiveTreeSelectionChanged">
+            <param name="Local" value="Classes/Rds/DataArea/DataArea.ActiveTreeSelectionChanged.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="DataArea.addItem">
+            <param name="Local" value="Classes/Rds/DataArea/DataArea.addItem.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="DataArea.clear">
+            <param name="Local" value="Classes/Rds/DataArea/DataArea.clear.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="DataArea.collapseHistory">
+            <param name="Local" value="Classes/Rds/DataArea/DataArea.collapseHistory.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="DataArea.deleteItemByKey">
+            <param name="Local" value="Classes/Rds/DataArea/DataArea.deleteItemByKey.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="DataArea.expandHistory">
+            <param name="Local" value="Classes/Rds/DataArea/DataArea.expandHistory.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="DataArea.getActiveDictTree">
+            <param name="Local" value="Classes/Rds/DataArea/DataArea.getActiveDictTree.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="DataArea.getActiveFindBox">
+            <param name="Local" value="Classes/Rds/DataArea/DataArea.getActiveFindBox.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="DataArea.getActiveHistoryBox">
+            <param name="Local" value="Classes/Rds/DataArea/DataArea.getActiveHistoryBox.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="DataArea.getActiveParamBox">
+            <param name="Local" value="Classes/Rds/DataArea/DataArea.getActiveParamBox.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="DataArea.getActiveSource">
+            <param name="Local" value="Classes/Rds/DataArea/DataArea.getActiveSource.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="DataArea.getIsHistoryCollapsed">
+            <param name="Local" value="Classes/Rds/DataArea/DataArea.getIsHistoryCollapsed.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="DataArea.getItemByKey">
+            <param name="Local" value="Classes/Rds/DataArea/DataArea.getItemByKey.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="DataArea.hideFindBox">
+            <param name="Local" value="Classes/Rds/DataArea/DataArea.hideFindBox.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="DataArea.showFindBox">
+            <param name="Local" value="Classes/Rds/DataArea/DataArea.showFindBox.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="DataArea.TabClosed">
+            <param name="Local" value="Classes/Rds/DataArea/DataArea.TabClosed.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Конструктор PP.Rds.Ui.DataArea">
+            <param name="Local" value="Classes/Rds/DataArea/Constructor_DataArea.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="DictionaryBox">
+          <param name="Local" value="Classes/Rds/DictionaryBox/DictionaryBox.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="DictionaryBox.Close">
+            <param name="Local" value="Classes/Rds/DictionaryBox/DictionaryBox.Close.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="DictionaryBox.excludeSource">
+            <param name="Local" value="Classes/Rds/DictionaryBox/DictionaryBox.excludeSource.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="DictionaryBox.getDataArea">
+            <param name="Local" value="Classes/Rds/DictionaryBox/DictionaryBox.getDataArea.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="DictionaryBox.Open">
+            <param name="Local" value="Classes/Rds/DictionaryBox/DictionaryBox.Open.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="DictionaryBox.refreshAll">
+            <param name="Local" value="Classes/Rds/DictionaryBox/DictionaryBox.refreshAll.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="DictionaryBox.Save">
+            <param name="Local" value="Classes/Rds/DictionaryBox/DictionaryBox.Save.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="DictionaryBox.SaveAs">
+            <param name="Local" value="Classes/Rds/DictionaryBox/DictionaryBox.SaveAs.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="DictionaryBox.Source">
+            <param name="Local" value="Classes/Rds/DictionaryBox/DictionaryBox.Source.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Конструктор DictionaryBox">
+            <param name="Local" value="Classes/Rds/DictionaryBox/Constructor_DictionaryBox.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="DictionaryTree">
+          <param name="Local" value="Classes/Rds/DictionaryTree/DictionaryTree.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="DictionaryTree.addItem">
+            <param name="Local" value="Classes/Rds/DictionaryTree/DictionaryTree.addItem.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="DictionaryTree.adjustColumnWidth">
+            <param name="Local" value="Classes/Rds/DictionaryTree/DictionaryTree.adjustColumnWidth.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="DictionaryTree.cleanUpDict">
+            <param name="Local" value="Classes/Rds/DictionaryTree/DictionaryTree.cleanUpDict.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="DictionaryTree.doPredefinedMove">
+            <param name="Local" value="Classes/Rds/DictionaryTree/DictionaryTree.doPredefinedMove.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="DictionaryTree.editItem">
+            <param name="Local" value="Classes/Rds/DictionaryTree/DictionaryTree.editItem.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="DictionaryTree.ElementsLocale">
+            <param name="Local" value="Classes/Rds/DictionaryTree/DictionaryTree.ElementsLocale.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="DictionaryTree.ElementsLocaleChanged">
+            <param name="Local" value="Classes/Rds/DictionaryTree/DictionaryTree.ElementsLocaleChanged.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="DictionaryTree.ExpandedAll">
+            <param name="Local" value="Classes/Rds/DictionaryTree/DictionaryTree.ExpandedAll.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="DictionaryTree.exportData">
+            <param name="Local" value="Classes/Rds/DictionaryTree/DictionaryTree.exportData.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="DictionaryTree.getDisplayAttrId">
+            <param name="Local" value="Classes/Rds/DictionaryTree/DictionaryTree.getDisplayAttrId.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="DictionaryTree.getOperationsState">
+            <param name="Local" value="Classes/Rds/DictionaryTree/DictionaryTree.getOperationsState.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="DictionaryTree.getService">
+            <param name="Local" value="Classes/Rds/DictionaryTree/DictionaryTree.getService.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="DictionaryTree.importData">
+            <param name="Local" value="Classes/Rds/DictionaryTree/DictionaryTree.importData.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="DictionaryTree.loadFirst">
+            <param name="Local" value="Classes/Rds/DictionaryTree/DictionaryTree.loadFirst.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="DictionaryTree.loadNodes">
+            <param name="Local" value="Classes/Rds/DictionaryTree/DictionaryTree.loadNodes.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="DictionaryTree.moveItem">
+            <param name="Local" value="Classes/Rds/DictionaryTree/DictionaryTree.moveItem.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="DictionaryTree.NodesFiltered">
+            <param name="Local" value="Classes/Rds/DictionaryTree/DictionaryTree.NodesFiltered.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="DictionaryTree.NodesLoaded">
+            <param name="Local" value="Classes/Rds/DictionaryTree/DictionaryTree.NodesLoaded.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="DictionaryTree.pasteClipboard">
+            <param name="Local" value="Classes/Rds/DictionaryTree/DictionaryTree.pasteClipboard.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="DictionaryTree.pushToClipboard">
+            <param name="Local" value="Classes/Rds/DictionaryTree/DictionaryTree.pushToClipboard.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="DictionaryTree.refresh">
+            <param name="Local" value="Classes/Rds/DictionaryTree/DictionaryTree.refresh.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="DictionaryTree.refreshAll">
+            <param name="Local" value="Classes/Rds/DictionaryTree/DictionaryTree.refreshAll.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="DictionaryTree.Refreshed">
+            <param name="Local" value="Classes/Rds/DictionaryTree/DictionaryTree.Refreshed.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="DictionaryTree.removeItem">
+            <param name="Local" value="Classes/Rds/DictionaryTree/DictionaryTree.removeItem.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="DictionaryTree.setChildNodes">
+            <param name="Local" value="Classes/Rds/DictionaryTree/DictionaryTree.setChildNodes.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="DictionaryTree.setFilter">
+            <param name="Local" value="Classes/Rds/DictionaryTree/DictionaryTree.setFilter.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="DictionaryTree.ShowHidden">
+            <param name="Local" value="Classes/Rds/DictionaryTree/DictionaryTree.ShowHidden.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="DictionaryTree.ShowImportExportResult">
+            <param name="Local" value="Classes/Rds/DictionaryTree/DictionaryTree.ShowImportExportResult.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="DictionaryTree.Source">
+            <param name="Local" value="Classes/Rds/DictionaryTree/DictionaryTree.Source.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="DictionaryTree.TreeEdited">
+            <param name="Local" value="Classes/Rds/DictionaryTree/DictionaryTree.TreeEdited.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Конструктор DictionaryTree">
+            <param name="Local" value="Classes/Rds/DictionaryTree/Constructor_DictionaryTree.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ElementCard">
+          <param name="Local" value="Classes/Rds/ElementCard/ElementCard.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="ElementCard.checkValues">
+            <param name="Local" value="Classes/Rds/ElementCard/ElementCard.checkValues.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="ElementCard.Locale">
+            <param name="Local" value="Classes/Rds/ElementCard/ElementCard.Locale.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="ElementCard.Mode">
+            <param name="Local" value="Classes/Rds/ElementCard/ElementCard.Mode.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="ElementCard.Source">
+            <param name="Local" value="Classes/Rds/ElementCard/ElementCard.Source.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="ElementCard.UpdElKey">
+            <param name="Local" value="Classes/Rds/ElementCard/ElementCard.UpdElKey.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Конструктор ElementCard">
+            <param name="Local" value="Classes/Rds/ElementCard/Constructor_ElementCard.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="FindBox">
+          <param name="Local" value="Classes/Rds/FindBox/FindBox.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="FindBox.FilterSettings">
+            <param name="Local" value="Classes/Rds/FindBox/FindBox.FilterSettings.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="FindBox.FindChanged">
+            <param name="Local" value="Classes/Rds/FindBox/FindBox.FindChanged.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="FindBox.Source">
+            <param name="Local" value="Classes/Rds/FindBox/FindBox.Source.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Конструктор FindBox">
+            <param name="Local" value="Classes/Rds/FindBox/Constructor_FindBox.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="FindSettingsDialog">
+          <param name="Local" value="Classes/Rds/FindSettingsDialog/FindSettingsDialog.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="FindSettingsDialog.FilterSettings">
+            <param name="Local" value="Classes/Rds/FindSettingsDialog/FindSettingsDialog.FilterSettings.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="FindSettingsDialog.Source">
+            <param name="Local" value="Classes/Rds/FindSettingsDialog/FindSettingsDialog.Source.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Конструктор FindSettingsDialog">
+            <param name="Local" value="Classes/Rds/FindSettingsDialog/Constructor_FindSettingsDialog.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Parameter">
+          <param name="Local" value="Classes/Rds/Parameter/Parameter.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Parameter.getInstance">
+            <param name="Local" value="Classes/Rds/Parameter/Parameter.getInstance.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Parameter.Key">
+            <param name="Local" value="Classes/Rds/Parameter/Parameter.Key.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Parameter.refreshAll">
+            <param name="Local" value="Classes/Rds/Parameter/Parameter.refreshAll.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Parameter.reopenLink">
+            <param name="Local" value="Classes/Rds/Parameter/Parameter.reopenLink.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Parameter.Source">
+            <param name="Local" value="Classes/Rds/Parameter/Parameter.Source.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Конструктор Parameter">
+            <param name="Local" value="Classes/Rds/Parameter/Constructor_Parameter.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ParamsBox">
+          <param name="Local" value="Classes/Rds/ParamsBox/ParamsBox.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="ParamsBox.ParamChanged">
+            <param name="Local" value="Classes/Rds/ParamsBox/ParamsBox.ParamChanged.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="ParamsBox.refreshAll">
+            <param name="Local" value="Classes/Rds/ParamsBox/ParamsBox.refreshAll.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="ParamsBox.setSource">
+            <param name="Local" value="Classes/Rds/ParamsBox/ParamsBox.setSource.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="ParamsBox.SourceCleaned">
+            <param name="Local" value="Classes/Rds/ParamsBox/ParamsBox.SourceCleaned.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="ParamsBox.SourceReopened">
+            <param name="Local" value="Classes/Rds/ParamsBox/ParamsBox.SourceReopened.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Конструктор ParamsBox">
+            <param name="Local" value="Classes/Rds/ParamsBox/Constructor_ParamsBox.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="SchemaDialog">
+          <param name="Local" value="Classes/Rds/SchemaDialog/SchemaDialog.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Конструктор SchemaDialog">
+            <param name="Local" value="Classes/Rds/SchemaDialog/Constructor_SchemaDialog.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="SchemaDialog.Canceled">
+            <param name="Local" value="Classes/Rds/SchemaDialog/SchemaDialog.Canceled.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="SchemaDialog.Confirmed">
+            <param name="Local" value="Classes/Rds/SchemaDialog/SchemaDialog.Confirmed.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="SchemaDialog.IsImport">
+            <param name="Local" value="Classes/Rds/SchemaDialog/SchemaDialog.IsImport.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Перечисления">
+        <param name="Local" value="Classes/PP.Rds.Ui.htm#642b3b9347ca42c9b00b820c00c373fa=2">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TreeOperations">
+          <param name="Local" value="Enums/TreeOperations.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="PP.Rds">
+      <param name="Local" value="Classes/PP.Rds.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Классы">
+        <param name="Local" value="Classes/PP.Rds.htm#642b3b9347ca42c9b00b820c00c373fa=1">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Attribute">
+          <param name="Local" value="Classes/Rds/Attribute/Attribute.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Attribute.ArgKey">
+            <param name="Local" value="Classes/Rds/Attribute/Attribute.ArgKey.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Attribute.DefaultValue">
+            <param name="Local" value="Classes/Rds/Attribute/Attribute.DefaultValue.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Attribute.getPPCreateObj">
+            <param name="Local" value="Classes/Rds/Attribute/Attribute.getPPCreateObj.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Attribute.HasMultipleValues">
+            <param name="Local" value="Classes/Rds/Attribute/Attribute.HasMultipleValues.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Attribute.IsMultilingual">
+            <param name="Local" value="Classes/Rds/Attribute/Attribute.IsMultilingual.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Attribute.IsTranslation">
+            <param name="Local" value="Classes/Rds/Attribute/Attribute.IsTranslation.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Attribute.Kind">
+            <param name="Local" value="Classes/Rds/Attribute/Attribute.Kind.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Attribute.LinkKey">
+            <param name="Local" value="Classes/Rds/Attribute/Attribute.LinkKey.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Attribute.LookUpKey">
+            <param name="Local" value="Classes/Rds/Attribute/Attribute.LookUpKey.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Attribute.MasterAttrKey">
+            <param name="Local" value="Classes/Rds/Attribute/Attribute.MasterAttrKey.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Attribute.Nullable">
+            <param name="Local" value="Classes/Rds/Attribute/Attribute.Nullable.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Attribute.Owner">
+            <param name="Local" value="Classes/Rds/Attribute/Attribute.Owner.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Attribute.parseFromMd">
+            <param name="Local" value="Classes/Rds/Attribute/Attribute.parseFromMd.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Attribute.Predefined">
+            <param name="Local" value="Classes/Rds/Attribute/Attribute.Predefined.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Attribute.ReadAccess">
+            <param name="Local" value="Classes/Rds/Attribute/Attribute.ReadAccess.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Attribute.Tag">
+            <param name="Local" value="Classes/Rds/Attribute/Attribute.Tag.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Attribute.TimeDependent">
+            <param name="Local" value="Classes/Rds/Attribute/Attribute.TimeDependent.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Attribute.TranslatedName">
+            <param name="Local" value="Classes/Rds/Attribute/Attribute.TranslatedName.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Attribute.Translation">
+            <param name="Local" value="Classes/Rds/Attribute/Attribute.Translation.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Attribute.VisibleForEdit">
+            <param name="Local" value="Classes/Rds/Attribute/Attribute.VisibleForEdit.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Attribute.WriteAccess">
+            <param name="Local" value="Classes/Rds/Attribute/Attribute.WriteAccess.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Конструктор Attribute">
+            <param name="Local" value="Classes/Rds/Attribute/Constructor_Attribute.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Dictionary">
+          <param name="Local" value="Classes/Rds/Dictionary/Dictionary.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Dictionary.Attribute">
+            <param name="Local" value="Classes/Rds/Dictionary/Dictionary.Attribute.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Dictionary.ChildEls">
+            <param name="Local" value="Classes/Rds/Dictionary/Dictionary.ChildEls.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Dictionary.clearAll">
+            <param name="Local" value="Classes/Rds/Dictionary/Dictionary.clearAll.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Dictionary.clearElemsData">
+            <param name="Local" value="Classes/Rds/Dictionary/Dictionary.clearElemsData.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Dictionary.EditOdId">
+            <param name="Local" value="Classes/Rds/Dictionary/Dictionary.EditOdId.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Dictionary.ExportSchema">
+            <param name="Local" value="Classes/Rds/Dictionary/Dictionary.ExportSchema.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Dictionary.Filter">
+            <param name="Local" value="Classes/Rds/Dictionary/Dictionary.Filter.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Dictionary.getAttributes">
+            <param name="Local" value="Classes/Rds/Dictionary/Dictionary.getAttributes.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Dictionary.getBlankElement">
+            <param name="Local" value="Classes/Rds/Dictionary/Dictionary.getBlankElement.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Dictionary.getDefaultTranslation">
+            <param name="Local" value="Classes/Rds/Dictionary/Dictionary.getDefaultTranslation.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Dictionary.getElem">
+            <param name="Local" value="Classes/Rds/Dictionary/Dictionary.getElem.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Dictionary.getFilledAttributes">
+            <param name="Local" value="Classes/Rds/Dictionary/Dictionary.getFilledAttributes.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Dictionary.getFilterChildEls">
+            <param name="Local" value="Classes/Rds/Dictionary/Dictionary.getFilterChildEls.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Dictionary.getParameters">
+            <param name="Local" value="Classes/Rds/Dictionary/Dictionary.getParameters.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Dictionary.hasHidden">
+            <param name="Local" value="Classes/Rds/Dictionary/Dictionary.hasHidden.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Dictionary.hasVisibleParams">
+            <param name="Local" value="Classes/Rds/Dictionary/Dictionary.hasVisibleParams.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Dictionary.ImportSchema">
+            <param name="Local" value="Classes/Rds/Dictionary/Dictionary.ImportSchema.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Dictionary.isHistorical">
+            <param name="Local" value="Classes/Rds/Dictionary/Dictionary.isHistorical.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Dictionary.isPlain">
+            <param name="Local" value="Classes/Rds/Dictionary/Dictionary.isPlain.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Dictionary.Link">
+            <param name="Local" value="Classes/Rds/Dictionary/Dictionary.Link.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Dictionary.moveElem">
+            <param name="Local" value="Classes/Rds/Dictionary/Dictionary.moveElem.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Dictionary.OpenArg">
+            <param name="Local" value="Classes/Rds/Dictionary/Dictionary.OpenArg.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Dictionary.Parameter">
+            <param name="Local" value="Classes/Rds/Dictionary/Dictionary.Parameter.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Dictionary.removeElements">
+            <param name="Local" value="Classes/Rds/Dictionary/Dictionary.removeElements.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Dictionary.setElement">
+            <param name="Local" value="Classes/Rds/Dictionary/Dictionary.setElement.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Dictionary.ShowHidden">
+            <param name="Local" value="Classes/Rds/Dictionary/Dictionary.ShowHidden.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Dictionary.TotalsCount">
+            <param name="Local" value="Classes/Rds/Dictionary/Dictionary.TotalsCount.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Dictionary.Translation">
+            <param name="Local" value="Classes/Rds/Dictionary/Dictionary.Translation.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Dictionary.Type">
+            <param name="Local" value="Classes/Rds/Dictionary/Dictionary.Type.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Конструктор Dictionary">
+            <param name="Local" value="Classes/Rds/Dictionary/Constructor_Dictionary.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="DItem">
+          <param name="Local" value="Classes/Rds/DItem/DItem.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="DItem.AttrValues">
+            <param name="Local" value="Classes/Rds/DItem/DItem.AttrValues.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="DItem.getHistory">
+            <param name="Local" value="Classes/Rds/DItem/DItem.getHistory.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="DItem.HasChild">
+            <param name="Local" value="Classes/Rds/DItem/DItem.HasChild.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="DItem.HistoryMd">
+            <param name="Local" value="Classes/Rds/DItem/DItem.HistoryMd.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="DItem.Key">
+            <param name="Local" value="Classes/Rds/DItem/DItem.Key.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="DItem.Level">
+            <param name="Local" value="Classes/Rds/DItem/DItem.Level.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="DItem.LinkedData">
+            <param name="Local" value="Classes/Rds/DItem/DItem.LinkedData.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="DItem.Name">
+            <param name="Local" value="Classes/Rds/DItem/DItem.Name.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="DItem.Owner">
+            <param name="Local" value="Classes/Rds/DItem/DItem.Owner.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="DItem.ParentKey">
+            <param name="Local" value="Classes/Rds/DItem/DItem.ParentKey.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="DItem.parseFromMd">
+            <param name="Local" value="Classes/Rds/DItem/DItem.parseFromMd.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="DItem.Value">
+            <param name="Local" value="Classes/Rds/DItem/DItem.Value.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="DItem.ValueTranslation">
+            <param name="Local" value="Classes/Rds/DItem/DItem.ValueTranslation.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Конструктор DItem">
+            <param name="Local" value="Classes/Rds/DItem/Constructor_DItem.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="RdsService">
+          <param name="Local" value="Classes/Rds/RdsService/RdsService.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="RdsService.beginBatch">
+            <param name="Local" value="Classes/Rds/RdsService/RdsService.beginBatch.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="RdsService.ChildLoaded">
+            <param name="Local" value="Classes/Rds/RdsService/RdsService.ChildLoaded.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="RdsService.cleanUp">
+            <param name="Local" value="Classes/Rds/RdsService/RdsService.cleanUp.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="RdsService.cloneItems">
+            <param name="Local" value="Classes/Rds/RdsService/RdsService.cloneItems.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="RdsService.closeRds">
+            <param name="Local" value="Classes/Rds/RdsService/RdsService.closeRds.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="RdsService.endBatch">
+            <param name="Local" value="Classes/Rds/RdsService/RdsService.endBatch.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="RdsService.exportData">
+            <param name="Local" value="Classes/Rds/RdsService/RdsService.exportData.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="RdsService.getChildEls">
+            <param name="Local" value="Classes/Rds/RdsService/RdsService.getChildEls.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="RdsService.getFilterElements">
+            <param name="Local" value="Classes/Rds/RdsService/RdsService.getFilterElements.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="RdsService.getIsBatchMode">
+            <param name="Local" value="Classes/Rds/RdsService/RdsService.getIsBatchMode.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="RdsService.getSpecialImageListUrl">
+            <param name="Local" value="Classes/Rds/RdsService/RdsService.getSpecialImageListUrl.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="RdsService.getToKeys">
+            <param name="Local" value="Classes/Rds/RdsService/RdsService.getToKeys.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="RdsService.importData">
+            <param name="Local" value="Classes/Rds/RdsService/RdsService.importData.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="RdsService.ItemOperationDone">
+            <param name="Local" value="Classes/Rds/RdsService/RdsService.ItemOperationDone.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="RdsService.moveItems">
+            <param name="Local" value="Classes/Rds/RdsService/RdsService.moveItems.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="RdsService.openRds">
+            <param name="Local" value="Classes/Rds/RdsService/RdsService.openRds.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="RdsService.RdsCleaned">
+            <param name="Local" value="Classes/Rds/RdsService/RdsService.RdsCleaned.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="RdsService.RdsClosed">
+            <param name="Local" value="Classes/Rds/RdsService/RdsService.RdsClosed.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="RdsService.RdsOpened">
+            <param name="Local" value="Classes/Rds/RdsService/RdsService.RdsOpened.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="RdsService.removeItems">
+            <param name="Local" value="Classes/Rds/RdsService/RdsService.removeItems.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="RdsService.setItem">
+            <param name="Local" value="Classes/Rds/RdsService/RdsService.setItem.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Конструктор RdsService">
+            <param name="Local" value="Classes/Rds/RdsService/Constructor_RdsService.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Перечисления">
+        <param name="Local" value="Classes/PP.Rds.htm#642b3b9347ca42c9b00b820c00c373fa=2">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="PredefinedAttribute">
+          <param name="Local" value="Enums/PredefinedAttribute.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ElementOperation">
+          <param name="Local" value="Enums/ElementOperation.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="AttributeKind">
+          <param name="Local" value="Enums/AttributeKind.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      </ul>
+    </ul>
+</ul>
+</html>

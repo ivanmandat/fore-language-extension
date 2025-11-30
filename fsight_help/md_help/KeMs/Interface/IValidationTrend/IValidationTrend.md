@@ -1,0 +1,94 @@
+﻿# IValidationTrend
+
+IValidationTrend
+-
+
+
+# IValidationTrend
+
+
+Сборка: Ms;
+
+
+## Описание
+
+
+Интерфейс IValidationTrend предназначен
+ для работы с правилом валидации типа «Сравнение
+ трендов», с помощью которого сравниваются тренды указанных рядов.
+
+
+## Иерархия наследования
+
+
+           [IValidationDetails](../IValidationDetails/IValidationDetails.htm)
+
+
+           IValidationTrend
+
+
+## Комментарии
+
+
+Для настройки параметров данного правила приведите значение, возвращаемое
+ свойством [IValidationFilter.Details](../IValidationFilter/IValidationFilter.Details.htm),
+ к интерфейсу IValidationTrend.
+
+
+## Свойства
+
+
+		 Имя свойства
+		 Краткое описание
+
+
+		 ![](../../Property_Image.gif)
+		 [SelectionComparatorData](IValidationTrend.SelectionComparatorData.htm)
+		 Свойство SelectionComparatorData
+		 возвращает набор отметок, определяющий данные, с которыми будет
+		 производиться сравнение.
+
+
+## Свойства, унаследованные от [IValidationDetails](../IValidationDetails/IValidationDetails.htm)
+
+
+		 Имя свойства
+		 Краткое описание
+
+
+		 ![](../../Property_Image.gif)
+		 [Kind](../IValidationDetails/IValidationDetails.Kind.htm)
+
+
+		 Свойство Kind возвращает
+		 тип правила валидации.
+
+
+		 ![](../../Property_Image.gif)
+		 [SelectionFilter](../IValidationDetails/IValidationDetails.SelectionFilter.htm)
+
+
+		 Свойство SelectionFilter
+		 возвращает параметры фильтра, ограничивающего проверяемые ряды.
+
+
+		 ![](../../Property_Image.gif)
+		 [SelectionTargetData](../IValidationDetails/IValidationDetails.SelectionTargetData.htm)
+
+
+		 Свойство SelectionTargetData
+		 возвращает объект, определяющий данные, по которым будет выполняться
+		 валидация.
+
+
+См. также:
+
+
+[Интерфейсы
+ сборки Ms](../KeMs_Interface.htm)
+
+
+		Справочная
+		 система на версию 10.9
+		 от 18/08/2025,
+		 © ООО «ФОРСАЙТ»,

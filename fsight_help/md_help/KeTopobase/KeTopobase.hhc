@@ -1,0 +1,101 @@
+<html>
+<!-- Sitemap 1.0 -->
+<object type="text/site properties">
+  <param name="SiteType" value="toc">
+  <param name="Image Width" value="16">
+  <param name="Window Styles" value="0x800027">
+  <param name="ExWindow Styles" value="0x100">
+</object>
+<ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Topobase">
+    <param name="Local" value="KeTopobase_Introduction.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Интерфейсы сборки Topobase">
+      <param name="Local" value="Interface/Interfaces.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="ITopobase">
+        <param name="Local" value="Interface/ITopobase/ITopobase.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ITopobase.AvailableFormats">
+          <param name="Local" value="Interface/ITopobase/ITopobase.AvailableFormats.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ITopobase.Convert">
+          <param name="Local" value="Interface/ITopobase/ITopobase.Convert.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ITopobase.FormatLoadFromFile">
+          <param name="Local" value="Interface/ITopobase/ITopobase.FormatLoadFromFile.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ITopobase.FormatLoadFromStream">
+          <param name="Local" value="Interface/ITopobase/ITopobase.FormatLoadFromStream.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ITopobase.FormatSaveToFile">
+          <param name="Local" value="Interface/ITopobase/ITopobase.FormatSaveToFile.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ITopobase.FormatSaveToStream">
+          <param name="Local" value="Interface/ITopobase/ITopobase.FormatSaveToStream.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ITopobase.GetSpecificTopobase">
+          <param name="Local" value="Interface/ITopobase/ITopobase.GetSpecificTopobase.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ITopobase.Tree">
+          <param name="Local" value="Interface/ITopobase/ITopobase.Tree.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Перечисления сборки Topobase">
+      <param name="Local" value="Enums/Enums.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="TopobaseFormat">
+        <param name="Local" value="Enums/TopobaseFormat.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Примеры">
+      <param name="Local" value="Samples/KeTopobase_Sample.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Создание карты в репозитории">
+        <param name="Local" value="Samples/KeTopobase_Sample1.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Установка карты для репозитория по-умолчанию">
+        <param name="Local" value="Samples/KeTopobase_Sample2.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Подключение карты в экспресс-отчет">
+        <param name="Local" value="Samples/KeTopobase_Sample3.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      </ul>
+    </ul>
+</ul>
+</html>

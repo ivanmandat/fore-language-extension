@@ -1,0 +1,474 @@
+<html>
+<!-- Sitemap 1.0 -->
+<object type="text/site properties">
+  <param name="SiteType" value="toc">
+  <param name="Image Width" value="16">
+  <param name="Window Styles" value="0x800027">
+  <param name="ExWindow Styles" value="0x100">
+</object>
+<ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Построение отчётов с использованием надстройки Foresight Add-in for Excel">
+    <param name="Local" value="ExcelAddin_Purpose.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Начало работы с надстройкой Foresight Add-in for Excel">
+      <param name="Local" value="AddIn_Mode.htm">
+      <param name="ImageNumber" value="11">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Построение отчёта с использованием надстройки">
+      <param name="Local" value="Work/Excel_Work.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Выбор источника данных">
+        <param name="Local" value="AddSource.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Работа с отчётом из репозитория">
+        <param name="Local" value="Work/WorkWithReport.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Работа с аналитическими запросами (OLAP)">
+          <param name="Local" value="Work/Olap_Mode/Olap_Mode.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Работа с источниками данных">
+            <param name="Local" value="Work/Olap_Mode/Data_Sources.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Настройка отображения измерения">
+            <param name="Local" value="Work/SettingViewDimension.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Настройка отметки элементов измерения">
+            <param name="Local" value="Work/Olap_Mode/SelectionDimensionElements.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Работа с таблицей данных">
+            <param name="Local" value="Work/Olap_Mode/Table_Work/Table_Work.htm">
+          </object>
+          <ul>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Редактирование данных">
+              <param name="Local" value="Work/Olap_Mode/Table_Work/DataEdit.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Фильтрация данных">
+              <param name="Local" value="Work/Olap_Mode/Table_Work/Data_Filtering.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Преобразование данных">
+              <param name="Local" value="Work/Olap_Mode/Table_Work/Convert_Data.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Ранжирование данных">
+              <param name="Local" value="Work/Olap_Mode/Table_Work/Ranking.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Распределение">
+              <param name="Local" value="Work/Olap_Mode/Table_Work/Pareto.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Расчёт итоговых значений">
+              <param name="Local" value="Work/Olap_Mode/Table_Work/Totals.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Оформление таблицы и её элементов: Foresight Add-in for Excel">
+              <param name="Local" value="Work/Olap_Mode/Table_Work/Formatting.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            </ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Работа с диаграммой">
+            <param name="Local" value="Work/Olap_Mode/Chart.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Работа с пузырьковой диаграммой">
+            <param name="Local" value="Work/Olap_Mode/BubbleChart.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Работа с пузырьковым деревом">
+            <param name="Local" value="Work/Olap_Mode/BubbleTree.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Работа с плоским деревом">
+            <param name="Local" value="Work/Olap_Mode/TreeMap.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Обновление данных отчёта">
+            <param name="Local" value="Work/Olap_Mode/Refresh.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Настройка заголовка отчёта">
+            <param name="Local" value="Work/Olap_Mode/Refresh.htm#title642b3b9347ca42c9b00b820c00c373fa=1">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Экспорт отчета">
+            <param name="Local" value="Work/Olap_Mode/Refresh.htm#export642b3b9347ca42c9b00b820c00c373fa=2">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Выполнение пакетных операций">
+            <param name="Local" value="Work/Olap_Mode/Batch_Operations/Batch_Operations.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Сохранение данных отчёта">
+            <param name="Local" value="Work/Olap_Mode/SaveOlap.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Создание копии отчёта">
+            <param name="Local" value="Work/Olap_Mode/SaveOlap.htm#copy642b3b9347ca42c9b00b820c00c373fa=1">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Работа с временными рядами">
+          <param name="Local" value="Work/TimeSeries_Mode/TimeSeries_Mode.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Работа с таблицей данных">
+            <param name="Local" value="Work/TimeSeries_Mode/Table_Work.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Работа с временными рядами">
+            <param name="Local" value="Work/TimeSeries_Mode/TimeSeries_Work/TimeSeries_Work.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Работа с вычисляемыми рядами">
+            <param name="Local" value="Work/TimeSeries_Mode/TimeSeries_Work/Calculated_Series_work.htm">
+          </object>
+          <ul>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Методы расчёта">
+              <param name="Local" value="Work/TimeSeries_Mode/TimeSeries_Work/Methods/Calculation_Methods.htm">
+            </object>
+            <ul>
+              <li><object type="text/sitemap">
+                <param name="Name" value="Калькулятор">
+                <param name="Local" value="Work/TimeSeries_Mode/TimeSeries_Work/Methods/Calculator.htm">
+                <param name="ImageNumber" value="11">
+              </object>
+              <li><object type="text/sitemap">
+                <param name="Name" value="Арифметика">
+                <param name="Local" value="Work/TimeSeries_Mode/TimeSeries_Work/Methods/Arithmetic/Arithmetic.htm">
+              </object>
+              <ul>
+                <li><object type="text/sitemap">
+                  <param name="Name" value="Log">
+                  <param name="Local" value="Work/TimeSeries_Mode/TimeSeries_Work/Methods/Arithmetic/Log.htm">
+                  <param name="ImageNumber" value="11">
+                </object>
+                <li><object type="text/sitemap">
+                  <param name="Name" value="Ln">
+                  <param name="Local" value="Work/TimeSeries_Mode/TimeSeries_Work/Methods/Arithmetic/Ln.htm">
+                  <param name="ImageNumber" value="11">
+                </object>
+                <li><object type="text/sitemap">
+                  <param name="Name" value="Экспонента">
+                  <param name="Local" value="Work/TimeSeries_Mode/TimeSeries_Work/Methods/Arithmetic/Exponent.htm">
+                  <param name="ImageNumber" value="11">
+                </object>
+                <li><object type="text/sitemap">
+                  <param name="Name" value="Mod">
+                  <param name="Local" value="Work/TimeSeries_Mode/TimeSeries_Work/Methods/Arithmetic/Mod.htm">
+                  <param name="ImageNumber" value="11">
+                </object>
+                <li><object type="text/sitemap">
+                  <param name="Name" value="Сложение">
+                  <param name="Local" value="Work/TimeSeries_Mode/TimeSeries_Work/Methods/Arithmetic/Summation.htm">
+                  <param name="ImageNumber" value="11">
+                </object>
+                <li><object type="text/sitemap">
+                  <param name="Name" value="Умножение">
+                  <param name="Local" value="Work/TimeSeries_Mode/TimeSeries_Work/Methods/Arithmetic/Multiplication.htm">
+                  <param name="ImageNumber" value="11">
+                </object>
+                <li><object type="text/sitemap">
+                  <param name="Name" value="Абсолютное значение">
+                  <param name="Local" value="Work/TimeSeries_Mode/TimeSeries_Work/Methods/Arithmetic/Absolute_value.htm">
+                  <param name="ImageNumber" value="11">
+                </object>
+                <li><object type="text/sitemap">
+                  <param name="Name" value="Округление">
+                  <param name="Local" value="Work/TimeSeries_Mode/TimeSeries_Work/Methods/Arithmetic/Rounding.htm">
+                  <param name="ImageNumber" value="11">
+                </object>
+                </ul>
+              <li><object type="text/sitemap">
+                <param name="Name" value="Агрегация">
+                <param name="Local" value="Work/TimeSeries_Mode/TimeSeries_Work/Methods/Aggregation/Aggregation.htm">
+              </object>
+              <ul>
+                <li><object type="text/sitemap">
+                  <param name="Name" value="Агрегация (по рядам)">
+                  <param name="Local" value="Work/TimeSeries_Mode/TimeSeries_Work/Methods/Aggregation/Aggregation_series.htm">
+                </object>
+                <ul>
+                  <li><object type="text/sitemap">
+                    <param name="Name" value="Настройка базовых параметров агрегации по рядам">
+                    <param name="Local" value="Work/TimeSeries_Mode/TimeSeries_Work/Methods/Aggregation/Parameters.htm">
+                    <param name="ImageNumber" value="11">
+                  </object>
+                  <li><object type="text/sitemap">
+                    <param name="Name" value="Настройка параметров сглаживания данных">
+                    <param name="Local" value="Work/TimeSeries_Mode/TimeSeries_Work/Methods/Aggregation/Smoothing_Parameters.htm">
+                    <param name="ImageNumber" value="11">
+                  </object>
+                  <li><object type="text/sitemap">
+                    <param name="Name" value="Пример настройки расчёта агрегации">
+                    <param name="Local" value="Work/TimeSeries_Mode/TimeSeries_Work/Methods/Aggregation/Aggregation_Example.htm">
+                    <param name="ImageNumber" value="11">
+                  </object>
+                  </ul>
+                <li><object type="text/sitemap">
+                  <param name="Name" value="Агрегация (по времени)">
+                  <param name="Local" value="Work/TimeSeries_Mode/TimeSeries_Work/Methods/Aggregation/Aggregation_Calendar.htm">
+                  <param name="ImageNumber" value="11">
+                </object>
+                <li><object type="text/sitemap">
+                  <param name="Name" value="Интерполяция">
+                  <param name="Local" value="Work/TimeSeries_Mode/TimeSeries_Work/Methods/Aggregation/Interpolation.htm">
+                  <param name="ImageNumber" value="11">
+                </object>
+                </ul>
+              <li><object type="text/sitemap">
+                <param name="Name" value="Сглаживание">
+                <param name="Local" value="Work/TimeSeries_Mode/TimeSeries_Work/Methods/Smoothing/Smoothing.htm">
+              </object>
+              <ul>
+                <li><object type="text/sitemap">
+                  <param name="Name" value="Скользящее среднее">
+                  <param name="Local" value="Work/TimeSeries_Mode/TimeSeries_Work/Methods/Smoothing/Moving_Average.htm">
+                  <param name="ImageNumber" value="11">
+                </object>
+                <li><object type="text/sitemap">
+                  <param name="Name" value="Фильтр Ходрика-Прескотта">
+                  <param name="Local" value="Work/TimeSeries_Mode/TimeSeries_Work/Methods/Smoothing/Hpf.htm">
+                  <param name="ImageNumber" value="11">
+                </object>
+                <li><object type="text/sitemap">
+                  <param name="Name" value="Фильтр Бакстера-Кинга">
+                  <param name="Local" value="Work/TimeSeries_Mode/TimeSeries_Work/Methods/Smoothing/Bpf.htm">
+                  <param name="ImageNumber" value="11">
+                </object>
+                <li><object type="text/sitemap">
+                  <param name="Name" value="Выделение сезонности (X11)">
+                  <param name="Local" value="Work/TimeSeries_Mode/TimeSeries_Work/Methods/Smoothing/X11.htm">
+                </object>
+                <ul>
+                  <li><object type="text/sitemap">
+                    <param name="Name" value="Настройка параметров выделения сезонности (X11)">
+                    <param name="Local" value="Work/TimeSeries_Mode/TimeSeries_Work/Methods/Smoothing/X11_Parameters.htm">
+                    <param name="ImageNumber" value="11">
+                  </object>
+                  <li><object type="text/sitemap">
+                    <param name="Name" value="Настройка параметров скользящего среднего">
+                    <param name="Local" value="Work/TimeSeries_Mode/TimeSeries_Work/Methods/Smoothing/X11_MovingAverage.htm">
+                    <param name="ImageNumber" value="11">
+                  </object>
+                  <li><object type="text/sitemap">
+                    <param name="Name" value="Задание весовых коэффициентов">
+                    <param name="Local" value="Work/TimeSeries_Mode/TimeSeries_Work/Methods/Smoothing/X11_WeightCoefficients.htm">
+                    <param name="ImageNumber" value="11">
+                  </object>
+                  </ul>
+                </ul>
+              <li><object type="text/sitemap">
+                <param name="Name" value="Преобразования">
+                <param name="Local" value="Work/TimeSeries_Mode/TimeSeries_Work/Methods/Series_Transformations/Transformations.htm">
+              </object>
+              <ul>
+                <li><object type="text/sitemap">
+                  <param name="Name" value="Математические преобразования">
+                  <param name="Local" value="Work/TimeSeries_Mode/TimeSeries_Work/Methods/Series_Transformations/Mathematical_transformations.htm">
+                </object>
+                <ul>
+                  <li><object type="text/sitemap">
+                    <param name="Name" value="Лаг">
+                    <param name="Local" value="Work/TimeSeries_Mode/TimeSeries_Work/Methods/Series_Transformations/Lag.htm">
+                    <param name="ImageNumber" value="11">
+                  </object>
+                  <li><object type="text/sitemap">
+                    <param name="Name" value="Опережение">
+                    <param name="Local" value="Work/TimeSeries_Mode/TimeSeries_Work/Methods/Series_Transformations/Lead.htm">
+                    <param name="ImageNumber" value="11">
+                  </object>
+                  <li><object type="text/sitemap">
+                    <param name="Name" value="Темп прироста">
+                    <param name="Local" value="Work/TimeSeries_Mode/TimeSeries_Work/Methods/Series_Transformations/pch.htm">
+                    <param name="ImageNumber" value="11">
+                  </object>
+                  <li><object type="text/sitemap">
+                    <param name="Name" value="Разность">
+                    <param name="Local" value="Work/TimeSeries_Mode/TimeSeries_Work/Methods/Series_Transformations/diff.htm">
+                    <param name="ImageNumber" value="11">
+                  </object>
+                  <li><object type="text/sitemap">
+                    <param name="Name" value="Разность логарифмов">
+                    <param name="Local" value="Work/TimeSeries_Mode/TimeSeries_Work/Methods/Series_Transformations/dlog.htm">
+                    <param name="ImageNumber" value="11">
+                  </object>
+                  <li><object type="text/sitemap">
+                    <param name="Name" value="Коэффициент роста">
+                    <param name="Local" value="Work/TimeSeries_Mode/TimeSeries_Work/Methods/Series_Transformations/Ratio.htm">
+                    <param name="ImageNumber" value="11">
+                  </object>
+                  </ul>
+                <li><object type="text/sitemap">
+                  <param name="Name" value="Методы накопления">
+                  <param name="Local" value="Work/TimeSeries_Mode/TimeSeries_Work/Methods/Series_Transformations/Accumulation.htm">
+                  <param name="ImageNumber" value="11">
+                </object>
+                <li><object type="text/sitemap">
+                  <param name="Name" value="Методы обработки пропусков">
+                  <param name="Local" value="Work/TimeSeries_Mode/TimeSeries_Work/Methods/Series_Transformations/Missing_Data.htm">
+                  <param name="ImageNumber" value="11">
+                </object>
+                <li><object type="text/sitemap">
+                  <param name="Name" value="Статистические методы">
+                  <param name="Local" value="Work/TimeSeries_Mode/TimeSeries_Work/Methods/Series_Transformations/Statistical_methods.htm">
+                  <param name="ImageNumber" value="11">
+                </object>
+                <li><object type="text/sitemap">
+                  <param name="Name" value="Совмещение рядов">
+                  <param name="Local" value="Work/TimeSeries_Mode/TimeSeries_Work/Methods/Series_Transformations/Splice.htm">
+                  <param name="ImageNumber" value="11">
+                </object>
+                <li><object type="text/sitemap">
+                  <param name="Name" value="Усечение">
+                  <param name="Local" value="Work/TimeSeries_Mode/TimeSeries_Work/Methods/Series_Transformations/Truncate.htm">
+                  <param name="ImageNumber" value="11">
+                </object>
+                </ul>
+              <li><object type="text/sitemap">
+                <param name="Name" value="Регрессия">
+                <param name="Local" value="Work/TimeSeries_Mode/TimeSeries_Work/Methods/Regression/Regression.htm">
+              </object>
+              <ul>
+                <li><object type="text/sitemap">
+                  <param name="Name" value="Линейная регрессия">
+                  <param name="Local" value="Work/TimeSeries_Mode/TimeSeries_Work/Methods/Regression/Linear_Regression.htm">
+                  <param name="ImageNumber" value="11">
+                </object>
+                <li><object type="text/sitemap">
+                  <param name="Name" value="Модель коррекции ошибок">
+                  <param name="Local" value="Work/TimeSeries_Mode/TimeSeries_Work/Methods/Regression/ECM.htm">
+                  <param name="ImageNumber" value="11">
+                </object>
+                <li><object type="text/sitemap">
+                  <param name="Name" value="Нелинейная регрессия">
+                  <param name="Local" value="Work/TimeSeries_Mode/TimeSeries_Work/Methods/Regression/Nonlinear_Regression.htm">
+                  <param name="ImageNumber" value="11">
+                </object>
+                </ul>
+              <li><object type="text/sitemap">
+                <param name="Name" value="Прогноз">
+                <param name="Local" value="Work/TimeSeries_Mode/TimeSeries_Work/Methods/Forecast/Forecast.htm">
+              </object>
+              <ul>
+                <li><object type="text/sitemap">
+                  <param name="Name" value="Тренд">
+                  <param name="Local" value="Work/TimeSeries_Mode/TimeSeries_Work/Methods/Forecast/Trend.htm">
+                  <param name="ImageNumber" value="11">
+                </object>
+                <li><object type="text/sitemap">
+                  <param name="Name" value="ARIMA">
+                  <param name="Local" value="Work/TimeSeries_Mode/TimeSeries_Work/Methods/Forecast/ARIMA.htm">
+                  <param name="ImageNumber" value="11">
+                </object>
+                <li><object type="text/sitemap">
+                  <param name="Name" value="Грей-метод">
+                  <param name="Local" value="Work/TimeSeries_Mode/TimeSeries_Work/Methods/Forecast/Grey_forecast.htm">
+                  <param name="ImageNumber" value="11">
+                </object>
+                <li><object type="text/sitemap">
+                  <param name="Name" value="Экспоненциальное сглаживание">
+                  <param name="Local" value="Work/TimeSeries_Mode/TimeSeries_Work/Methods/Forecast/Exponential_smoothing.htm">
+                </object>
+                <ul>
+                  <li><object type="text/sitemap">
+                    <param name="Name" value="Настройка параметров экспоненциального сглаживания">
+                    <param name="Local" value="Work/TimeSeries_Mode/TimeSeries_Work/Methods/Forecast/ExpSmooth_Param.htm">
+                    <param name="ImageNumber" value="11">
+                  </object>
+                  <li><object type="text/sitemap">
+                    <param name="Name" value="Настройка автоподбора значений параметров">
+                    <param name="Local" value="Work/TimeSeries_Mode/TimeSeries_Work/Methods/Forecast/ExpSmooth_Autofit.htm">
+                    <param name="ImageNumber" value="11">
+                  </object>
+                  </ul>
+                </ul>
+              <li><object type="text/sitemap">
+                <param name="Name" value="Настройка параметров авторегрессии и скользящего среднего">
+                <param name="Local" value="Work/TimeSeries_Mode/TimeSeries_Work/Methods/ARMA.htm">
+                <param name="ImageNumber" value="11">
+              </object>
+              <li><object type="text/sitemap">
+                <param name="Name" value="Настройка периода расчёта метода">
+                <param name="Local" value="Work/TimeSeries_Mode/TimeSeries_Work/Methods/Calculation_period.htm">
+                <param name="ImageNumber" value="11">
+              </object>
+              <li><object type="text/sitemap">
+                <param name="Name" value="Выбор метода обработки пропусков">
+                <param name="Local" value="Work/TimeSeries_Mode/TimeSeries_Work/Methods/Missing_data_Methods.htm">
+                <param name="ImageNumber" value="11">
+              </object>
+              </ul>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Просмотр результатов вычислений">
+              <param name="Local" value="Work/TimeSeries_Mode/TimeSeries_Work/Methods/Calculation_Results.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            </ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Работа с картой">
+            <param name="Local" value="Work/TimeSeries_Mode/Map.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Работа с диаграммой">
+            <param name="Local" value="Work/TimeSeries_Mode/TimeSeries_Work/Chart_work.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Работа с формулами">
+          <param name="Local" value="Work/AddFormula.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Сообщения об ошибках">
+      <param name="Local" value="Work/Excel_Errors.htm">
+      <param name="ImageNumber" value="11">
+    </object>
+    </ul>
+</ul>
+</html>

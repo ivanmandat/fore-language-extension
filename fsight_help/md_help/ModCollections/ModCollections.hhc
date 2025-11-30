@@ -1,0 +1,770 @@
+<html>
+<!-- Sitemap 1.0 -->
+<object type="text/site properties">
+  <param name="SiteType" value="toc">
+  <param name="Image Width" value="16">
+  <param name="Window Styles" value="0x800027">
+  <param name="ExWindow Styles" value="0x100">
+</object>
+<ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Collections">
+    <param name="Local" value="ModCollections_Title.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Интерфейсы сборки Collections">
+      <param name="Local" value="Interface/ModCollections_Interface.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IArrayList">
+        <param name="Local" value="Interface/IArrayList/IArrayList.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IArrayList.AddRange">
+          <param name="Local" value="Interface/IArrayList/IArrayList.AddRange.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IArrayList.BinarySearch">
+          <param name="Local" value="Interface/IArrayList/IArrayList.BinarySearch.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IArrayList.BinarySearchRange">
+          <param name="Local" value="Interface/IArrayList/IArrayList.BinarySearchRange.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IArrayList.Capacity">
+          <param name="Local" value="Interface/IArrayList/IArrayList.Capacity.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IArrayList.Clone">
+          <param name="Local" value="Interface/IArrayList/IArrayList.Clone.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IArrayList.GetRange">
+          <param name="Local" value="Interface/IArrayList/IArrayList.GetRange.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IArrayList.IndexOfPos">
+          <param name="Local" value="Interface/IArrayList/IArrayList.IndexOfPos.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IArrayList.IndexOfRange">
+          <param name="Local" value="Interface/IArrayList/IArrayList.IndexOfRange.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IArrayList.InsertRange">
+          <param name="Local" value="Interface/IArrayList/IArrayList.InsertRange.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IArrayList.Item">
+          <param name="Local" value="Interface/IArrayList/IArrayList.Item.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IArrayList.LastIndexOf">
+          <param name="Local" value="Interface/IArrayList/IArrayList.LastIndexOf.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IArrayList.LastIndexOfPos">
+          <param name="Local" value="Interface/IArrayList/IArrayList.LastIndexOfPos.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IArrayList.LastIndexOfRange">
+          <param name="Local" value="Interface/IArrayList/IArrayList.LastIndexOfRange.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IArrayList.RemoveRange">
+          <param name="Local" value="Interface/IArrayList/IArrayList.RemoveRange.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IArrayList.Reverse">
+          <param name="Local" value="Interface/IArrayList/IArrayList.Reverse.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IArrayList.ReverseRange">
+          <param name="Local" value="Interface/IArrayList/IArrayList.ReverseRange.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IArrayList.Sort">
+          <param name="Local" value="Interface/IArrayList/IArrayList.Sort.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IArrayList.SortRange">
+          <param name="Local" value="Interface/IArrayList/IArrayList.SortRange.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IArrayList.ToArray">
+          <param name="Local" value="Interface/IArrayList/IArrayList.ToArray.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IArrayList.TrimToSize">
+          <param name="Local" value="Interface/IArrayList/IArrayList.TrimToSize.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IBitArray">
+        <param name="Local" value="Interface/IBitArray/IBitArray.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IBitArray.Clone">
+          <param name="Local" value="Interface/IBitArray/IBitArray.Clone.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IBitArray.Item">
+          <param name="Local" value="Interface/IBitArray/IBitArray.Item.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IBitArray.Length">
+          <param name="Local" value="Interface/IBitArray/IBitArray.Length.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IBitArray.SetAll">
+          <param name="Local" value="Interface/IBitArray/IBitArray.SetAll.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="ICollection">
+        <param name="Local" value="Interface/ICollection/ICollection.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ICollection.CopyTo">
+          <param name="Local" value="Interface/ICollection/ICollection.CopyTo.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ICollection.Count">
+          <param name="Local" value="Interface/ICollection/ICollection.Count.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IComparer">
+        <param name="Local" value="Interface/IComparer/IComparer.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IComparer.Compare">
+          <param name="Local" value="Interface/IComparer/IComparer.Compare.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IComparerClass">
+        <param name="Local" value="Interface/IComparerClass/IComparerClass.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IComparerClass.DateTimeComparer">
+          <param name="Local" value="Interface/IComparerClass/IComparerClass.DateTimeComparer.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IComparerClass.DoubleComparer">
+          <param name="Local" value="Interface/IComparerClass/IComparerClass.DoubleComparer.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IComparerClass.FreeTextComparer">
+          <param name="Local" value="Interface/IComparerClass/IComparerClass.FreeTextComparer.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IComparerClass.IntegerComparer">
+          <param name="Local" value="Interface/IComparerClass/IComparerClass.IntegerComparer.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IComparerClass.StringCaseInsensitiveComparer">
+          <param name="Local" value="Interface/IComparerClass/IComparerClass.StringCaseInsensitiveComparer.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IComparerClass.StringComparer">
+          <param name="Local" value="Interface/IComparerClass/IComparerClass.StringComparer.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IDictionary">
+        <param name="Local" value="Interface/IDictionary/IDictionary.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IDictionary.Add">
+          <param name="Local" value="Interface/IDictionary/IDictionary.Add.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IDictionary.Clear">
+          <param name="Local" value="Interface/IDictionary/IDictionary.Clear.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IDictionary.Contains">
+          <param name="Local" value="Interface/IDictionary/IDictionary.Contains.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IDictionary.Item">
+          <param name="Local" value="Interface/IDictionary/IDictionary.Item.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IDictionary.Keys">
+          <param name="Local" value="Interface/IDictionary/IDictionary.Keys.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IDictionary.Remove">
+          <param name="Local" value="Interface/IDictionary/IDictionary.Remove.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IDictionary.Values">
+          <param name="Local" value="Interface/IDictionary/IDictionary.Values.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IEnumerable">
+        <param name="Local" value="Interface/IEnumerable/IEnumerable.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IFreeTextComparer">
+        <param name="Local" value="Interface/IFreeTextComparer/IFreeTextComparer.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IFreeTextComparer.ForEachWord">
+          <param name="Local" value="Interface/IFreeTextComparer/IFreeTextComparer.ForEachWord.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IFreeTextComparer.MatchCase">
+          <param name="Local" value="Interface/IFreeTextComparer/IFreeTextComparer.MatchCase.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IFreeTextComparer.Options">
+          <param name="Local" value="Interface/IFreeTextComparer/IFreeTextComparer.Options.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IFreeTextComparer.WholeWord">
+          <param name="Local" value="Interface/IFreeTextComparer/IFreeTextComparer.WholeWord.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IHashtable">
+        <param name="Local" value="Interface/IHashtable/IHashtable.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IHashtable.Clone">
+          <param name="Local" value="Interface/IHashtable/IHashtable.Clone.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IHashtable.ContainsKey">
+          <param name="Local" value="Interface/IHashtable/IHashtable.ContainsKey.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IHashtable.ContainsValue">
+          <param name="Local" value="Interface/IHashtable/IHashtable.ContainsValue.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IList">
+        <param name="Local" value="Interface/IList/IList.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IList.Add">
+          <param name="Local" value="Interface/IList/IList.Add.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IList.Clear">
+          <param name="Local" value="Interface/IList/IList.Clear.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IList.Contains">
+          <param name="Local" value="Interface/IList/IList.Contains.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IList.IndexOf">
+          <param name="Local" value="Interface/IList/IList.IndexOf.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IList.Insert">
+          <param name="Local" value="Interface/IList/IList.Insert.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IList.Remove">
+          <param name="Local" value="Interface/IList/IList.Remove.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IList.RemoveAt">
+          <param name="Local" value="Interface/IList/IList.RemoveAt.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IQueue">
+        <param name="Local" value="Interface/IQueue/IQueue.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IQueue.Clear">
+          <param name="Local" value="Interface/IQueue/IQueue.Clear.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IQueue.Clone">
+          <param name="Local" value="Interface/IQueue/IQueue.Clone.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IQueue.Contains">
+          <param name="Local" value="Interface/IQueue/IQueue.Contains.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IQueue.Dequeue">
+          <param name="Local" value="Interface/IQueue/IQueue.Dequeue.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IQueue.Enqueue">
+          <param name="Local" value="Interface/IQueue/IQueue.Enqueue.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IQueue.Peek">
+          <param name="Local" value="Interface/IQueue/IQueue.Peek.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IQueue.ToArray">
+          <param name="Local" value="Interface/IQueue/IQueue.ToArray.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="ISortedList">
+        <param name="Local" value="Interface/ISortedList/ISortedList.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISortedList.Clone">
+          <param name="Local" value="Interface/ISortedList/ISortedList.Clone.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISortedList.ContainsKey">
+          <param name="Local" value="Interface/ISortedList/ISortedList.ContainsKey.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISortedList.ContainsValue">
+          <param name="Local" value="Interface/ISortedList/ISortedList.ContainsValue.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISortedList.GetByIndex">
+          <param name="Local" value="Interface/ISortedList/ISortedList.GetByIndex.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISortedList.GetKey">
+          <param name="Local" value="Interface/ISortedList/ISortedList.GetKey.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISortedList.GetKeyList">
+          <param name="Local" value="Interface/ISortedList/ISortedList.GetKeyList.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISortedList.GetValueList">
+          <param name="Local" value="Interface/ISortedList/ISortedList.GetValueList.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISortedList.IndexOfKey">
+          <param name="Local" value="Interface/ISortedList/ISortedList.IndexOfKey.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISortedList.IndexOfValue">
+          <param name="Local" value="Interface/ISortedList/ISortedList.IndexOfValue.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISortedList.RemoveAt">
+          <param name="Local" value="Interface/ISortedList/ISortedList.RemoveAt.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISortedList.SetByIndex">
+          <param name="Local" value="Interface/ISortedList/ISortedList.SetByIndex.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IStack">
+        <param name="Local" value="Interface/IStack/IStack.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IStack.Clear">
+          <param name="Local" value="Interface/IStack/IStack.Clear.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IStack.Clone">
+          <param name="Local" value="Interface/IStack/IStack.Clone.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IStack.Contains">
+          <param name="Local" value="Interface/IStack/IStack.Contains.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IStack.Peek">
+          <param name="Local" value="Interface/IStack/IStack.Peek.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IStack.Pop">
+          <param name="Local" value="Interface/IStack/IStack.Pop.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IStack.Push">
+          <param name="Local" value="Interface/IStack/IStack.Push.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IStack.ToArray">
+          <param name="Local" value="Interface/IStack/IStack.ToArray.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IStringList">
+        <param name="Local" value="Interface/IStringList/IStringList.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IStringList.Add">
+          <param name="Local" value="Interface/IStringList/IStringList.Add.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IStringList.AddRange">
+          <param name="Local" value="Interface/IStringList/IStringList.AddRange.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IStringList.AsString">
+          <param name="Local" value="Interface/IStringList/IStringList.AsString.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IStringList.BinarySearch">
+          <param name="Local" value="Interface/IStringList/IStringList.BinarySearch.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IStringList.BinarySearchRange">
+          <param name="Local" value="Interface/IStringList/IStringList.BinarySearchRange.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IStringList.Clear">
+          <param name="Local" value="Interface/IStringList/IStringList.Clear.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IStringList.Clone">
+          <param name="Local" value="Interface/IStringList/IStringList.Clone.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IStringList.Contains">
+          <param name="Local" value="Interface/IStringList/IStringList.Contains.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IStringList.CopyFrom">
+          <param name="Local" value="Interface/IStringList/IStringList.CopyFrom.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IStringList.GetRange">
+          <param name="Local" value="Interface/IStringList/IStringList.GetRange.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IStringList.IndexOf">
+          <param name="Local" value="Interface/IStringList/IStringList.IndexOf.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IStringList.IndexOfPos">
+          <param name="Local" value="Interface/IStringList/IStringList.IndexOfPos.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IStringList.IndexOfRange">
+          <param name="Local" value="Interface/IStringList/IStringList.IndexOfRange.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IStringList.Insert">
+          <param name="Local" value="Interface/IStringList/IStringList.Insert.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IStringList.InsertRange">
+          <param name="Local" value="Interface/IStringList/IStringList.InsertRange.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IStringList.Item">
+          <param name="Local" value="Interface/IStringList/IStringList.Item.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IStringList.ItemLength">
+          <param name="Local" value="Interface/IStringList/IStringList.ItemLength.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IStringList.LastIndexOf">
+          <param name="Local" value="Interface/IStringList/IStringList.LastIndexOf.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IStringList.LastIndexOfPos">
+          <param name="Local" value="Interface/IStringList/IStringList.LastIndexOfPos.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IStringList.LastIndexOfRange">
+          <param name="Local" value="Interface/IStringList/IStringList.LastIndexOfRange.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IStringList.Remove">
+          <param name="Local" value="Interface/IStringList/IStringList.Remove.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IStringList.RemoveAt">
+          <param name="Local" value="Interface/IStringList/IStringList.RemoveAt.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IStringList.RemoveRange">
+          <param name="Local" value="Interface/IStringList/IStringList.RemoveRange.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IStringList.Reverse">
+          <param name="Local" value="Interface/IStringList/IStringList.Reverse.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IStringList.ReverseRange">
+          <param name="Local" value="Interface/IStringList/IStringList.ReverseRange.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IStringList.Sort">
+          <param name="Local" value="Interface/IStringList/IStringList.Sort.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IStringList.SortRange">
+          <param name="Local" value="Interface/IStringList/IStringList.SortRange.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IStringList.Text">
+          <param name="Local" value="Interface/IStringList/IStringList.Text.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IStringList.ToArray">
+          <param name="Local" value="Interface/IStringList/IStringList.ToArray.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IStringMap">
+        <param name="Local" value="Interface/IStringMap/IStringMap.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IStringMap.Add">
+          <param name="Local" value="Interface/IStringMap/IStringMap.Add.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IStringMap.Clear">
+          <param name="Local" value="Interface/IStringMap/IStringMap.Clear.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IStringMap.Clone">
+          <param name="Local" value="Interface/IStringMap/IStringMap.Clone.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IStringMap.ContainsKey">
+          <param name="Local" value="Interface/IStringMap/IStringMap.ContainsKey.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IStringMap.Item">
+          <param name="Local" value="Interface/IStringMap/IStringMap.Item.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IStringMap.Key">
+          <param name="Local" value="Interface/IStringMap/IStringMap.Key.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IStringMap.Keys">
+          <param name="Local" value="Interface/IStringMap/IStringMap.Keys.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IStringMap.Remove">
+          <param name="Local" value="Interface/IStringMap/IStringMap.Remove.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IStringMap.Values">
+          <param name="Local" value="Interface/IStringMap/IStringMap.Values.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Перечисления сборки Collections">
+      <param name="Local" value="Enums/ModCollections_Enums.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="TextComparerOptions">
+        <param name="Local" value="Enums/TextComparerOptions.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Классы сборки Collections">
+      <param name="Local" value="Class/ModCollections_Class.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="ArrayList">
+        <param name="Local" value="Class/ArrayList/ArrayList.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="BitArray">
+        <param name="Local" value="Class/BitArray/BitArray.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Comparer">
+        <param name="Local" value="Class/Comparer/Comparer.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Hashtable">
+        <param name="Local" value="Class/Hashtable/Hashtable.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Queue">
+        <param name="Local" value="Class/Queue/Queue.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="SortedList">
+        <param name="Local" value="Class/SortedList/SortedList.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Stack">
+        <param name="Local" value="Class/Stack/Stack.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="StringList">
+        <param name="Local" value="Class/StringList/StringList.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="StringMap">
+        <param name="Local" value="Class/StringMap/StringMap.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Примеры">
+      <param name="Local" value="Samples/ModCollections_Samples.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Сравнение значений по алгоритму пользователя">
+        <param name="Local" value="Samples/User_Comparer.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      </ul>
+    </ul>
+</ul>
+</html>

@@ -1,0 +1,599 @@
+<html>
+<!-- Sitemap 1.0 -->
+<object type="text/site properties">
+  <param name="SiteType" value="toc">
+  <param name="Image Width" value="16">
+  <param name="Window Styles" value="0x800007">
+  <param name="ExWindow Styles" value="0x100">
+</object>
+<ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Работа с веб-приложением">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="PP.App">
+      <param name="Local" value="Classes/PP.App.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Статичные методы">
+        <param name="Local" value="Classes/PP.App.htm#static642b3b9347ca42c9b00b820c00c373fa=1">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="PP.App.closeMetabase">
+          <param name="Local" value="Classes/App/PP.App.closeMetabase.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="PP.App.closeObject">
+          <param name="Local" value="Classes/App/PP.App.closeObject.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="PP.App.deleteStorage">
+          <param name="Local" value="Classes/App/PP.App.deleteStorage.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="PP.App.exit">
+          <param name="Local" value="Classes/App/PP.App.exit.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="PP.App.getActiveModule">
+          <param name="Local" value="Classes/App/PP.App.getActiveModule.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="PP.App.getAppBox">
+          <param name="Local" value="Classes/App/PP.App.getAppBox.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="PP.App.getConnectionId">
+          <param name="Local" value="Classes/App/PP.App.getConnectionId.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="PP.App.getEnabledLicenseFeature">
+          <param name="Local" value="Classes/App/PP.App.getEnabledLicenseFeature.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="PP.App.getImagePath">
+          <param name="Local" value="Classes/App/PP.App.getImagePath.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="PP.App.getLocale">
+          <param name="Local" value="Classes/App/PP.App.getLocale.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="PP.App.getMbSec">
+          <param name="Local" value="Classes/App/PP.App.getMbSec.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="PP.App.getMetabase">
+          <param name="Local" value="Classes/App/PP.App.getMetabase.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="PP.App.getMetabaseConfig">
+          <param name="Local" value="Classes/App/PP.App.getMetabaseConfig.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="PP.App.getModuleByClassId">
+          <param name="Local" value="Classes/App/PP.App.getModuleByClassId.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="PP.App.getModuleByData">
+          <param name="Local" value="Classes/App/PP.App.getModuleByData.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="PP.App.getModuleByName">
+          <param name="Local" value="Classes/App/PP.App.getModuleByName.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="PP.App.getModuleNode">
+          <param name="Local" value="Classes/App/PP.App.getModuleNode.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="PP.App.getModuleObject">
+          <param name="Local" value="Classes/App/PP.App.getModuleObject.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="PP.App.getModules">
+          <param name="Local" value="Classes/App/PP.App.getModules.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="PP.App.getModuleUrl">
+          <param name="Local" value="Classes/App/PP.App.getModuleUrl.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="PP.App.getQueryParam">
+          <param name="Local" value="Classes/App/PP.App.getQueryParam.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="PP.App.getStorage">
+          <param name="Local" value="Classes/App/PP.App.getStorage.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="PP.App.init">
+          <param name="Local" value="Classes/App/PP.App.init.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="PP.App.initLoginForm">
+          <param name="Local" value="Classes/App/PP.App.initLoginForm.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="PP.App.initWelcomeScreen">
+          <param name="Local" value="Classes/App/PP.App.initWelcomeScreen.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="PP.App.isMetabaseOpened">
+          <param name="Local" value="Classes/App/PP.App.isMetabaseOpened.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="PP.App.joinQueryParam">
+          <param name="Local" value="Classes/App/PP.App.joinQueryParam.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="PP.App.loadConfig">
+          <param name="Local" value="Classes/App/PP.App.loadConfig.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="PP.App.MessageInfo.show">
+          <param name="Local" value="Classes/App/PP.App.MessageInfo.show.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="PP.App.MessageInfo.showFault">
+          <param name="Local" value="Classes/App/PP.App.MessageInfo.showFault.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="PP.App.MessageInfo.showStatus">
+          <param name="Local" value="Classes/App/PP.App.MessageInfo.showStatus.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="PP.App.openAppModule">
+          <param name="Local" value="Classes/App/PP.App.openAppModule.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="PP.App.openMetabase">
+          <param name="Local" value="Classes/App/PP.App.openMetabase.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="PP.App.openObject">
+          <param name="Local" value="Classes/App/PP.App.openObject.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="PP.App.setConfig">
+          <param name="Local" value="Classes/App/PP.App.setConfig.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="PP.App.setLocale">
+          <param name="Local" value="Classes/App/PP.App.setLocale.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="PP.App.setMbObject">
+          <param name="Local" value="Classes/App/PP.App.setMbObject.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="PP.App.setObjectName">
+          <param name="Local" value="Classes/App/PP.App.setObjectName.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="PP.App.setSettings">
+          <param name="Local" value="Classes/App/PP.App.setSettings.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="PP.App.setStorage">
+          <param name="Local" value="Classes/App/PP.App.setStorage.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="PP.App.sharePointShare">
+          <param name="Local" value="Classes/App/PP.App.sharePointShare.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Перечисления">
+        <param name="Local" value="Classes/PP.App.htm#enum642b3b9347ca42c9b00b820c00c373fa=2">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="AuthenticationMode">
+          <param name="Local" value="Enums/AuthenticationMode.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ModuleType">
+          <param name="Local" value="Enums/ModuleType.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="OpenMode">
+          <param name="Local" value="Enums/OpenMode.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="QueryParamEnum">
+          <param name="Local" value="Enums/QueryParamEnum.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="PP.Application">
+      <param name="Local" value="Classes/PP.Application.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Компоненты">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="AboutBox">
+          <param name="Local" value="Components/AboutBox/AboutBox.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Пример создания компонента AboutBox">
+            <param name="Local" value="Components/AboutBox/AboutBox_Example.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Классы">
+        <param name="Local" value="Classes/PP.Application.htm#class642b3b9347ca42c9b00b820c00c373fa=1">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="AboutBox">
+          <param name="Local" value="Classes/Application/AboutBox/AboutBox.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Конструктор AboutBox">
+            <param name="Local" value="Classes/Application/AboutBox/Constructor_AboutBox.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="AddressBar">
+          <param name="Local" value="Classes/Application/AddressBar/AddressBar.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Конструктор AddressBar">
+            <param name="Local" value="Classes/Application/AddressBar/Constructor_AddressBar.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="AppBox">
+          <param name="Local" value="Classes/Application/AppBox/AppBox.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="AppBox.getAddressBar">
+            <param name="Local" value="Classes/Application/AppBox/AppBox.getAddressBar.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="AppBox.getModuleContainer">
+            <param name="Local" value="Classes/Application/AppBox/AppBox.getModuleContainer.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="AppBox.ModuleHeight">
+            <param name="Local" value="Classes/Application/AppBox/AppBox.ModuleHeight.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="AppBox.ShowAddressBar">
+            <param name="Local" value="Classes/Application/AppBox/AppBox.ShowAddressBar.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Конструктор AppBox">
+            <param name="Local" value="Classes/Application/AppBox/Constructor_AppBox.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ContactInfo">
+          <param name="Local" value="Classes/Application/ContactInfo/ContactInfo.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="ContactInfo.getAddressLabel">
+            <param name="Local" value="Classes/Application/ContactInfo/ContactInfo.getAddressLabel.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="ContactInfo.getMailHyperLink">
+            <param name="Local" value="Classes/Application/ContactInfo/ContactInfo.getMailHyperLink.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="ContactInfo.getPhonesLabel">
+            <param name="Local" value="Classes/Application/ContactInfo/ContactInfo.getPhonesLabel.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="ContactInfo.getSiteHyperLink">
+            <param name="Local" value="Classes/Application/ContactInfo/ContactInfo.getSiteHyperLink.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Конструктор ContactInfo">
+            <param name="Local" value="Classes/Application/ContactInfo/Constructor_ContactInfo.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="EaxModuleObject">
+          <param name="Local" value="Classes/Application/EaxModuleObject/EaxModuleObject.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Конструктор EaxEaxModuleObject">
+            <param name="Local" value="Classes/Application/EaxModuleObject/Constructor_EaxModuleObject.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="KapModuleObject">
+          <param name="Local" value="Classes/Application/KapModuleObject/KapModuleObject.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Конструктор KapModuleObject">
+            <param name="Local" value="Classes/Application/KapModuleObject/Constructor_KapModuleObject.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="LoginForm">
+          <param name="Local" value="Classes/Application/LoginForm/LoginForm.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="LoginForm.checkPwdPolicy">
+            <param name="Local" value="Classes/Application/LoginForm/LoginForm.checkPwdPolicy.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="LoginForm.getMetabaseConfig">
+            <param name="Local" value="Classes/Application/LoginForm/LoginForm.getMetabaseConfig.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="LoginForm.setError">
+            <param name="Local" value="Classes/Application/LoginForm/LoginForm.setError.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Конструктор LoginForm">
+            <param name="Local" value="Classes/Application/LoginForm/Constructor_LoginForm.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ModuleObject">
+          <param name="Local" value="Classes/Application/ModuleObject/ModuleObject.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="ModuleObject.blur">
+            <param name="Local" value="Classes/Application/ModuleObject/ModuleObject.blur.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="ModuleObject.focus">
+            <param name="Local" value="Classes/Application/ModuleObject/ModuleObject.focus.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="ModuleObject.focusout">
+            <param name="Local" value="Classes/Application/ModuleObject/ModuleObject.focusout.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="ModuleObject.getReportBox">
+            <param name="Local" value="Classes/Application/ModuleObject/ModuleObject.getReportBox.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="ModuleObject.getService">
+            <param name="Local" value="Classes/Application/ModuleObject/ModuleObject.getService.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="ModuleObject.getSource">
+            <param name="Local" value="Classes/Application/ModuleObject/ModuleObject.getSource.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="ModuleObject.unload">
+            <param name="Local" value="Classes/Application/ModuleObject/ModuleObject.unload.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Конструктор ModuleObject">
+            <param name="Local" value="Classes/Application/ModuleObject/Constructor_ModuleObject.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MSModuleObject">
+          <param name="Local" value="Classes/Application/MSModuleObject/MSModuleObject.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="MSModuleObject.getReport">
+            <param name="Local" value="Classes/Application/MSModuleObject/MSModuleObject.getReport.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Конструктор MSModuleObject">
+            <param name="Local" value="Classes/Application/MSModuleObject/Constructor_MSModuleObject.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="NavModuleObject">
+          <param name="Local" value="Classes/Application/NavModuleObject/NavModuleObject.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Конструктор NavModuleObject">
+            <param name="Local" value="Classes/Application/NavModuleObject/Constructor_NavModuleObject.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="PrxModuleObject">
+          <param name="Local" value="Classes/Application/PrxModuleObject/PrxModuleObject.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Конструктор PrxModuleObject">
+            <param name="Local" value="Classes/Application/PrxModuleObject/Constructor_PrxModuleObject.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="RdsModuleObject">
+          <param name="Local" value="Classes/Application/RdsModuleObject/RdsModuleObject.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Конструктор RdsModuleObject">
+            <param name="Local" value="Classes/Application/RdsModuleObject/Constructor_RdsModuleObject.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TSModuleObject">
+          <param name="Local" value="Classes/Application/TSModuleObject/TSModuleObject.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Конструктор TSModuleObject">
+            <param name="Local" value="Classes/Application/TSModuleObject/Constructor_TSModuleObject.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="WelcomeScreen">
+          <param name="Local" value="Classes/Application/WelcomeScreen/WelcomeScreen.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Конструктор WelcomeScreen">
+            <param name="Local" value="Classes/Application/WelcomeScreen/Constructor_WelcomeScreen.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Интерфейсы">
+        <param name="Local" value="Classes/PP.Application.htm#interfaces642b3b9347ca42c9b00b820c00c373fa=2">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="AboutBoxSettings">
+          <param name="Local" value="Interfaces/AboutBoxSettings/AboutBoxSettings.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="AboutBoxSettings.AnnouncementUrl">
+            <param name="Local" value="Interfaces/AboutBoxSettings/AboutBoxSettings.AnnouncementUrl.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="AboutBoxSettings.ComponentsVersion">
+            <param name="Local" value="Interfaces/AboutBoxSettings/AboutBoxSettings.ComponentsVersion.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="AboutBoxSettings.ContactInfo">
+            <param name="Local" value="Interfaces/AboutBoxSettings/AboutBoxSettings.ContactInfo.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="AboutBoxSettings.Copyright">
+            <param name="Local" value="Interfaces/AboutBoxSettings/AboutBoxSettings.Copyright.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="AboutBoxSettings.ImagePath">
+            <param name="Local" value="Interfaces/AboutBoxSettings/AboutBoxSettings.ImagePath.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="AboutBoxSettings.LogoUrl">
+            <param name="Local" value="Interfaces/AboutBoxSettings/AboutBoxSettings.LogoUrl.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="AboutBoxSettings.ServiceVersion">
+            <param name="Local" value="Interfaces/AboutBoxSettings/AboutBoxSettings.ServiceVersion.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="AboutBoxSettings.Version">
+            <param name="Local" value="Interfaces/AboutBoxSettings/AboutBoxSettings.Version.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Перечисления">
+        <param name="Local" value="Classes/PP.Application.htm#enum642b3b9347ca42c9b00b820c00c373fa=3">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MessageStatusEnum">
+          <param name="Local" value="Enums/MessageStatusEnum.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      </ul>
+    </ul>
+</ul>
+</html>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="topic-comment" content="" />
+<meta name="generator" content="Adobe RoboHelp 11" />
+<title>DefaultChm</title>
+<link rel="StyleSheet" href="default.css" type="text/css" />
+</head>
+
+<body>
+<?rh-region_start type="body" ?>
+	<p>&#160;</p>
+	<script type="text/javascript">document.body.onload = addElement;
+	function addElement() {
+
+	var meta = document.createElement('meta');
+	meta.httpEquiv = "X-UA-Compatible";
+	meta.content = "IE=edge";
+	var d1 = document.getElementsByTagName('head');
+	var d2 = d1[0];
+	d2.appendChild(meta);
+	d2.replaceChild(meta, d2.firstChild);
+	  }</script>
+<?rh-region_end type="body" ?>
+<?rh-region_start type="footer" style="width: 100%; position: relative;" ?>
+	<div style="text-align: center; float: right; width: 100%; height: 33px; 
+		 vertical-align: center;">
+		<p style="text-align: right; margin-left: 0%; margin-right: 10pt; 
+			 color: #919393; margin-bottom: 0pt; line-height: 33px;">Справочная 
+		 система на версию&#160;<?rh-udv_start name="Version_lts" ?>10.9<?rh-udv_end ?> 
+		 от <?rh-variable_start name="date" format="dd/MM/yyyy" value="43736.908623" ?>29/09/2019<?rh-variable_end ?>, 
+		 © ООО «ФОРСАЙТ», <script type="text/javascript">var tD = new Date();var datestr = tD.getFullYear();document.write(""+datestr+"");</script></p>
+	</div>
+<?rh-region_end type="footer" ?>
+</body>
+</html>

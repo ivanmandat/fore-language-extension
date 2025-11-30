@@ -1,0 +1,859 @@
+<html>
+<!-- Sitemap 1.0 -->
+<object type="text/site properties">
+  <param name="SiteType" value="index">
+</object>
+<ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ShortName">
+    <param name="Name" value="ITsStatisticsTree.ShortName">
+    <param name="Local" value="Interface/ITsStatisticsTree/ITsStatisticsTree.ShortName.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ITsStatisticsTree.ShortName">
+    <param name="Name" value="ITsStatisticsTree.ShortName">
+    <param name="Local" value="Interface/ITsStatisticsTree/ITsStatisticsTree.ShortName.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Transform">
+    <param name="Name" value="Сборка Transform">
+    <param name="Local" value="KeTransform_intro.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Классы сборки Transform">
+      <param name="Name" value="Классы сборки Transform">
+      <param name="Local" value="Class/KeTransform_Class.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Перечисления сборки Transform">
+      <param name="Name" value="Перечисления сборки Transform">
+      <param name="Local" value="Enums/KeTransform_Enums.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Интерфейсы сборки Transform">
+      <param name="Name" value="Интерфейсы сборки Transform">
+      <param name="Local" value="Interface/KeTransform_Interface.htm">
+    </object>
+    </ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="TsParamType">
+    <param name="Name" value="TsParamType">
+    <param name="Local" value="Enums/TsParamType.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ITsStatistics.SummaryStatistics">
+    <param name="Name" value="ITsStatistics.SummaryStatistics">
+    <param name="Local" value="Interface/ITsStatistics/ITsStatistics.SummaryStatistics.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ITsParamProvider.ParamValues">
+    <param name="Name" value="ITsParamProvider.ParamValues">
+    <param name="Local" value="Interface/ITsParamProvider/ITsParamProvider.ParamValues.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Params">
+    <param name="Name" value="ITsParamProvider.Params">
+    <param name="Local" value="Interface/ITsParamProvider/ITsParamProvider.Params.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ITsParamProvider.Params">
+    <param name="Name" value="ITsParamProvider.Params">
+    <param name="Local" value="Interface/ITsParamProvider/ITsParamProvider.Params.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ITsParamProvider">
+    <param name="Name" value="ITsParamProvider">
+    <param name="Local" value="Interface/ITsParamProvider/ITsParamProvider.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ITsModelParamValues.FindById">
+    <param name="Name" value="ITsModelParamValues.FindById">
+    <param name="Local" value="Interface/ITsModelParamValues/ITsModelParamValues.FindById.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ITsModelParamValues.FindByKey">
+    <param name="Name" value="ITsModelParamValues.FindByKey">
+    <param name="Local" value="Interface/ITsModelParamValues/ITsModelParamValues.FindByKey.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ITsModelParamValues.Count">
+    <param name="Name" value="ITsModelParamValues.Count">
+    <param name="Local" value="Interface/ITsModelParamValues/ITsModelParamValues.Count.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ITsModelParamValues.Item">
+    <param name="Name" value="ITsModelParamValues.Item">
+    <param name="Local" value="Interface/ITsModelParamValues/ITsModelParamValues.Item.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ITsModelParamValues">
+    <param name="Name" value="ITsModelParamValues">
+    <param name="Local" value="Interface/ITsModelParamValues/ITsModelParamValues.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Clear">
+    <param name="Name" value="ITsModelParams.Clear">
+    <param name="Local" value="Interface/ITsModelParams/ITsModelParams.Clear.htm">
+    <param name="Name" value="ITsUserData.Clear">
+    <param name="Local" value="Interface/ITsUserData/ITsUserData.Clear.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ITsModelParams.Clear">
+    <param name="Name" value="ITsModelParams.Clear">
+    <param name="Local" value="Interface/ITsModelParams/ITsModelParams.Clear.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="RemoveByKey">
+    <param name="Name" value="ITsModelParams.RemoveByKey">
+    <param name="Local" value="Interface/ITsModelParams/ITsModelParams.RemoveByKey.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ITsModelParams.RemoveByKey">
+    <param name="Name" value="ITsModelParams.RemoveByKey">
+    <param name="Local" value="Interface/ITsModelParams/ITsModelParams.RemoveByKey.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Add">
+    <param name="Name" value="ITsModelParams.Add">
+    <param name="Local" value="Interface/ITsModelParams/ITsModelParams.Add.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ITsModelParams.Add">
+    <param name="Name" value="ITsModelParams.Add">
+    <param name="Local" value="Interface/ITsModelParams/ITsModelParams.Add.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ITsStatisticsTree.Type">
+    <param name="Name" value="ITsStatisticsTree.Type">
+    <param name="Local" value="Interface/ITsStatisticsTree/ITsStatisticsTree.Type.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ITsModelParams.FindById">
+    <param name="Name" value="ITsModelParams.FindById">
+    <param name="Local" value="Interface/ITsModelParams/ITsModelParams.FindById.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Remove">
+    <param name="Name" value="ITsModelParams.Remove">
+    <param name="Local" value="Interface/ITsModelParams/ITsModelParams.Remove.htm">
+    <param name="Name" value="ITsUserData.Remove">
+    <param name="Local" value="Interface/ITsUserData/ITsUserData.Remove.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ITsModelParams.FindByKey">
+    <param name="Name" value="ITsModelParams.FindByKey">
+    <param name="Local" value="Interface/ITsModelParams/ITsModelParams.FindByKey.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ITsModelParams.Remove">
+    <param name="Name" value="ITsModelParams.Remove">
+    <param name="Local" value="Interface/ITsModelParams/ITsModelParams.Remove.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ITsModelParams.Count">
+    <param name="Name" value="ITsModelParams.Count">
+    <param name="Local" value="Interface/ITsModelParams/ITsModelParams.Count.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ITsStatisticsTree.Value">
+    <param name="Name" value="ITsStatisticsTree.Value">
+    <param name="Local" value="Interface/ITsStatisticsTree/ITsStatisticsTree.Value.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ITsModelParams.Item">
+    <param name="Name" value="ITsModelParams.Item">
+    <param name="Local" value="Interface/ITsModelParams/ITsModelParams.Item.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ITsModelParams">
+    <param name="Name" value="ITsModelParams">
+    <param name="Local" value="Interface/ITsModelParams/ITsModelParams.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ITsModelParamValue.DefaultValue">
+    <param name="Name" value="ITsModelParamValue.DefaultValue">
+    <param name="Local" value="Interface/ITsModelParamValue/ITsModelParamValue.DefaultValue.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ITsModelParamValue.ParamType">
+    <param name="Name" value="ITsModelParamValue.ParamType">
+    <param name="Local" value="Interface/ITsModelParamValue/ITsModelParamValue.ParamType.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ITsModelParamValue.Value">
+    <param name="Name" value="ITsModelParamValue.Value">
+    <param name="Local" value="Interface/ITsModelParamValue/ITsModelParamValue.Value.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ITsModelParamValue.Hidden">
+    <param name="Name" value="ITsModelParamValue.Hidden">
+    <param name="Local" value="Interface/ITsModelParamValue/ITsModelParamValue.Hidden.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ITsModelParamValue.LinkedObject">
+    <param name="Name" value="ITsModelParamValue.LinkedObject">
+    <param name="Local" value="Interface/ITsModelParamValue/ITsModelParamValue.LinkedObject.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ITsModelParamValue.DataType">
+    <param name="Name" value="ITsModelParamValue.DataType">
+    <param name="Local" value="Interface/ITsModelParamValue/ITsModelParamValue.DataType.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ITsModelParamValue">
+    <param name="Name" value="ITsModelParamValue">
+    <param name="Local" value="Interface/ITsModelParamValue/ITsModelParamValue.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="TsCalculationDirection">
+    <param name="Name" value="TsCalculationDirection">
+    <param name="Local" value="Enums/TsCalculationDirection.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ITsModelParam.ParamType">
+    <param name="Name" value="ITsModelParam.ParamType">
+    <param name="Local" value="Interface/ITsModelParam/ITsModelParam.ParamType.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ITsModelParam.Tag">
+    <param name="Name" value="ITsModelParam.Tag">
+    <param name="Local" value="Interface/ITsModelParam/ITsModelParam.Tag.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="CalculationDirection">
+    <param name="Name" value="ITsCalculationContext.CalculationDirection">
+    <param name="Local" value="Interface/ITsCalculationContext/ITsCalculationContext.CalculationDirection.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ITsModelParam.Hidden">
+    <param name="Name" value="ITsModelParam.Hidden">
+    <param name="Local" value="Interface/ITsModelParam/ITsModelParam.Hidden.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ITsCalculationContext.CalculationDirection">
+    <param name="Name" value="ITsCalculationContext.CalculationDirection">
+    <param name="Local" value="Interface/ITsCalculationContext/ITsCalculationContext.CalculationDirection.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ITsModelParam.LinkedObject">
+    <param name="Name" value="ITsModelParam.LinkedObject">
+    <param name="Local" value="Interface/ITsModelParam/ITsModelParam.LinkedObject.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Классы сборки Transform">
+    <param name="Name" value="Классы сборки Transform">
+    <param name="Local" value="Class/KeTransform_Class.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ITsModelParam.DefaultValue">
+    <param name="Name" value="ITsModelParam.DefaultValue">
+    <param name="Local" value="Interface/ITsModelParam/ITsModelParam.DefaultValue.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Интерфейсы сборки Transform">
+    <param name="Name" value="Интерфейсы сборки Transform">
+    <param name="Local" value="Interface/KeTransform_Interface.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ITsModelParam.DataType">
+    <param name="Name" value="ITsModelParam.DataType">
+    <param name="Local" value="Interface/ITsModelParam/ITsModelParam.DataType.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ITsModelParam">
+    <param name="Name" value="ITsModelParam">
+    <param name="Local" value="Interface/ITsModelParam/ITsModelParam.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ITsStatisticsTree">
+    <param name="Name" value="ITsStatisticsTree">
+    <param name="Local" value="Interface/ITsStatisticsTree/ITsStatisticsTree.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="TsStatistics">
+    <param name="Name" value="TsStatistics">
+    <param name="Local" value="Class/TsStatistics/TsStatistics.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ParentNode">
+    <param name="Name" value="ITsStatisticsTree.ParentNode">
+    <param name="Local" value="Interface/ITsStatisticsTree/ITsStatisticsTree.ParentNode.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ITsStatisticsTree.ParentNode">
+    <param name="Name" value="ITsStatisticsTree.ParentNode">
+    <param name="Local" value="Interface/ITsStatisticsTree/ITsStatisticsTree.ParentNode.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Data">
+    <param name="Name" value="ITsStatisticsTree.Data">
+    <param name="Local" value="Interface/ITsStatisticsTree/ITsStatisticsTree.Data.htm">
+    <param name="Name" value="ITsUserData.Data">
+    <param name="Local" value="Interface/ITsUserData/ITsUserData.Data.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ITsStatisticsTree.Data">
+    <param name="Name" value="ITsStatisticsTree.Data">
+    <param name="Local" value="Interface/ITsStatisticsTree/ITsStatisticsTree.Data.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Type">
+    <param name="Name" value="ITsStatisticsTree.Type">
+    <param name="Local" value="Interface/ITsStatisticsTree/ITsStatisticsTree.Type.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Сборка Transform">
+    <param name="Name" value="Сборка Transform">
+    <param name="Local" value="KeTransform_intro.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Интерфейсы сборки Transform">
+      <param name="Name" value="Интерфейсы сборки Transform">
+      <param name="Local" value="Interface/KeTransform_Interface.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Перечисления сборки Transform">
+      <param name="Name" value="Перечисления сборки Transform">
+      <param name="Local" value="Enums/KeTransform_Enums.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Классы сборки Transform">
+      <param name="Name" value="Классы сборки Transform">
+      <param name="Local" value="Class/KeTransform_Class.htm">
+    </object>
+    </ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Name">
+    <param name="Name" value="ITsStatisticsTree.Name">
+    <param name="Local" value="Interface/ITsStatisticsTree/ITsStatisticsTree.Name.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ITsStatisticsTree.Name">
+    <param name="Name" value="ITsStatisticsTree.Name">
+    <param name="Local" value="Interface/ITsStatisticsTree/ITsStatisticsTree.Name.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Перечисления сборки Transform">
+    <param name="Name" value="KeTransform_Enums">
+    <param name="Local" value="Enums/KeTransform_Enums.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ITsStatisticsTree.Count">
+    <param name="Name" value="ITsStatisticsTree.Count">
+    <param name="Local" value="Interface/ITsStatisticsTree/ITsStatisticsTree.Count.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="CalculatedOnly">
+    <param name="Name" value="ITsStatistics.CalculatedOnly">
+    <param name="Local" value="Interface/ITsStatistics/ITsStatistics.CalculatedOnly.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ITsStatistics.CalculatedOnly">
+    <param name="Name" value="ITsStatistics.CalculatedOnly">
+    <param name="Local" value="Interface/ITsStatistics/ITsStatistics.CalculatedOnly.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Execute">
+    <param name="Name" value="ITsStatistics.Execute">
+    <param name="Local" value="Interface/ITsStatistics/ITsStatistics.Execute.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ITsStatistics.Execute">
+    <param name="Name" value="ITsStatistics.Execute">
+    <param name="Local" value="Interface/ITsStatistics/ITsStatistics.Execute.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IncludeStatistics">
+    <param name="Name" value="ITsStatistics.IncludeStatistics">
+    <param name="Local" value="Interface/ITsStatistics/ITsStatistics.IncludeStatistics.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ITsStatistics.IncludeStatistics">
+    <param name="Name" value="ITsStatistics.IncludeStatistics">
+    <param name="Local" value="Interface/ITsStatistics/ITsStatistics.IncludeStatistics.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="SummaryStatistics">
+    <param name="Name" value="ITsStatistics.SummaryStatistics">
+    <param name="Local" value="Interface/ITsStatistics/ITsStatistics.SummaryStatistics.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Values">
+    <param name="Name" value="ITsStatistics.Values">
+    <param name="Local" value="Interface/ITsStatistics/ITsStatistics.Values.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ITsStatistics.Values">
+    <param name="Name" value="ITsStatistics.Values">
+    <param name="Local" value="Interface/ITsStatistics/ITsStatistics.Values.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ITsStatistics">
+    <param name="Name" value="ITsStatistics">
+    <param name="Local" value="Interface/ITsStatistics/ITsStatistics.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="TsStatisticsTreeNodeType">
+    <param name="Name" value="TsStatisticsTreeNodeType">
+    <param name="Local" value="Enums/TsStatisticsTreeNodeType.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="TsStatisticsCategory">
+    <param name="Name" value="TsStatisticsCategory">
+    <param name="Local" value="Enums/TsStatisticsCategory.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="TsStatisticsType">
+    <param name="Name" value="TsStatisticsType">
+    <param name="Local" value="Enums/TsStatisticsType.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Included">
+    <param name="Name" value="ITsCompositeFormulaTerm.Included">
+    <param name="Local" value="Interface/ITsCompositeFormulaTerm/ITsCompositeFormulaTerm.Included.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ITsCompositeFormulaTerm.Included">
+    <param name="Name" value="ITsCompositeFormulaTerm.Included">
+    <param name="Local" value="Interface/ITsCompositeFormulaTerm/ITsCompositeFormulaTerm.Included.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ITsCompositeFormulaTerm">
+    <param name="Name" value="ITsCompositeFormulaTerm">
+    <param name="Local" value="Interface/ITsCompositeFormulaTerm/ITsCompositeFormulaTerm.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="TsCalendarSettings">
+    <param name="Name" value="TsCalendarSettings">
+    <param name="Local" value="Class/TsCalendarSettings/TsCalendarSettings.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="CalendarSettings">
+    <param name="Name" value="ITsCalculationContext.CalendarSettings">
+    <param name="Local" value="Interface/ITsCalculationContext/ITsCalculationContext.CalendarSettings.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ITsCalculationContext.CalendarSettings">
+    <param name="Name" value="ITsCalculationContext.CalendarSettings">
+    <param name="Local" value="Interface/ITsCalculationContext/ITsCalculationContext.CalendarSettings.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IsDateEnd">
+    <param name="Name" value="ITsCalendarSettings.IsDateEnd">
+    <param name="Local" value="Interface/ITsCalendarSettings/ITsCalendarSettings.IsDateEnd.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ITsCalendarSettings.IsDateEnd">
+    <param name="Name" value="ITsCalendarSettings.IsDateEnd">
+    <param name="Local" value="Interface/ITsCalendarSettings/ITsCalendarSettings.IsDateEnd.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="OffsetDate">
+    <param name="Name" value="ITsCalendarSettings.OffsetDate">
+    <param name="Local" value="Interface/ITsCalendarSettings/ITsCalendarSettings.OffsetDate.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ITsCalendarSettings.OffsetDate">
+    <param name="Name" value="ITsCalendarSettings.OffsetDate">
+    <param name="Local" value="Interface/ITsCalendarSettings/ITsCalendarSettings.OffsetDate.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="WorkDayCount">
+    <param name="Name" value="ITsCalendarSettings.WorkDayCount">
+    <param name="Local" value="Interface/ITsCalendarSettings/ITsCalendarSettings.WorkDayCount.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ITsCalendarSettings.WorkDayCount">
+    <param name="Name" value="ITsCalendarSettings.WorkDayCount">
+    <param name="Local" value="Interface/ITsCalendarSettings/ITsCalendarSettings.WorkDayCount.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="RestDays">
+    <param name="Name" value="ITsCalendarSettings.RestDays">
+    <param name="Local" value="Interface/ITsCalendarSettings/ITsCalendarSettings.RestDays.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ITsCalendarSettings.RestDays">
+    <param name="Name" value="ITsCalendarSettings.RestDays">
+    <param name="Local" value="Interface/ITsCalendarSettings/ITsCalendarSettings.RestDays.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="FirstDay">
+    <param name="Name" value="ITsCalendarSettings.FirstDay">
+    <param name="Local" value="Interface/ITsCalendarSettings/ITsCalendarSettings.FirstDay.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ITsCalendarSettings.FirstDay">
+    <param name="Name" value="ITsCalendarSettings.FirstDay">
+    <param name="Local" value="Interface/ITsCalendarSettings/ITsCalendarSettings.FirstDay.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ITsCalendarSettings">
+    <param name="Name" value="ITsCalendarSettings">
+    <param name="Local" value="Interface/ITsCalendarSettings/ITsCalendarSettings.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Levels">
+    <param name="Name" value="ITsCalculationContext.Levels">
+    <param name="Local" value="Interface/ITsCalculationContext/ITsCalculationContext.Levels.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ITsCalculationContext.Levels">
+    <param name="Name" value="ITsCalculationContext.Levels">
+    <param name="Local" value="Interface/ITsCalculationContext/ITsCalculationContext.Levels.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="TsCalculation">
+    <param name="Name" value="TsCalculation">
+    <param name="Local" value="Class/TsCalculation/TsCalculation.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Current">
+    <param name="Name" value="ITsCalculationClass.Current">
+    <param name="Local" value="Interface/ITsCalculationClass/ITsCalculationClass.Current.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ITsCalculationClass.Current">
+    <param name="Name" value="ITsCalculationClass.Current">
+    <param name="Local" value="Interface/ITsCalculationClass/ITsCalculationClass.Current.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ITsCalculationClass">
+    <param name="Name" value="ITsCalculationClass">
+    <param name="Local" value="Interface/ITsCalculationClass/ITsCalculationClass.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="TsCalculationType">
+    <param name="Name" value="TsCalculationType">
+    <param name="Local" value="Enums/TsCalculationType.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="CalculationType">
+    <param name="Name" value="ITsCalculationContext.CalculationType">
+    <param name="Local" value="Interface/ITsCalculationContext/ITsCalculationContext.CalculationType.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ITsCalculationContext.CalculationType">
+    <param name="Name" value="ITsCalculationContext.CalculationType">
+    <param name="Local" value="Interface/ITsCalculationContext/ITsCalculationContext.CalculationType.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="TsInversion">
+    <param name="Name" value="TsInversion">
+    <param name="Local" value="Enums/TsInversion.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ITsCalculationContext.Tag">
+    <param name="Name" value="ITsCalculationContext.Tag">
+    <param name="Local" value="Interface/ITsCalculationContext/ITsCalculationContext.Tag.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="RaiseError">
+    <param name="Name" value="ITsCalculationContext.RaiseError">
+    <param name="Local" value="Interface/ITsCalculationContext/ITsCalculationContext.RaiseError.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ITsCalculationContext.RaiseError">
+    <param name="Name" value="ITsCalculationContext.RaiseError">
+    <param name="Local" value="Interface/ITsCalculationContext/ITsCalculationContext.RaiseError.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="RaiseWarning">
+    <param name="Name" value="ITsCalculationContext.RaiseWarning">
+    <param name="Local" value="Interface/ITsCalculationContext/ITsCalculationContext.RaiseWarning.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ITsCalculationContext.RaiseWarning">
+    <param name="Name" value="ITsCalculationContext.RaiseWarning">
+    <param name="Local" value="Interface/ITsCalculationContext/ITsCalculationContext.RaiseWarning.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="RaiseMessage">
+    <param name="Name" value="ITsCalculationContext.RaiseMessage">
+    <param name="Local" value="Interface/ITsCalculationContext/ITsCalculationContext.RaiseMessage.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ITsCalculationContext.RaiseMessage">
+    <param name="Name" value="ITsCalculationContext.RaiseMessage">
+    <param name="Local" value="Interface/ITsCalculationContext/ITsCalculationContext.RaiseMessage.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="VariableMatrix">
+    <param name="Name" value="ITsCalculationContext.VariableMatrix">
+    <param name="Local" value="Interface/ITsCalculationContext/ITsCalculationContext.VariableMatrix.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ITsCalculationContext.VariableMatrix">
+    <param name="Name" value="ITsCalculationContext.VariableMatrix">
+    <param name="Local" value="Interface/ITsCalculationContext/ITsCalculationContext.VariableMatrix.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ParentObject">
+    <param name="Name" value="ITsCalculationContext.ParentObject">
+    <param name="Local" value="Interface/ITsCalculationContext/ITsCalculationContext.ParentObject.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ITsCalculationContext.ParentObject">
+    <param name="Name" value="ITsCalculationContext.ParentObject">
+    <param name="Local" value="Interface/ITsCalculationContext/ITsCalculationContext.ParentObject.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="CreateTimeSeries">
+    <param name="Name" value="ITsCalculationContext.CreateTimeSeries">
+    <param name="Local" value="Interface/ITsCalculationContext/ITsCalculationContext.CreateTimeSeries.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ITsCalculationContext.CreateTimeSeries">
+    <param name="Name" value="ITsCalculationContext.CreateTimeSeries">
+    <param name="Local" value="Interface/ITsCalculationContext/ITsCalculationContext.CreateTimeSeries.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ITsCalculationContext">
+    <param name="Name" value="ITsCalculationContext">
+    <param name="Local" value="Interface/ITsCalculationContext/ITsCalculationContext.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="K">
+    <param name="Name" value="ITsInversionInfo.K">
+    <param name="Local" value="Interface/ITsInversionInfo/ITsInversionInfo.K.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ITsInversionInfo.K">
+    <param name="Name" value="ITsInversionInfo.K">
+    <param name="Local" value="Interface/ITsInversionInfo/ITsInversionInfo.K.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Dependence">
+    <param name="Name" value="ITsInversionInfo.Dependence">
+    <param name="Local" value="Interface/ITsInversionInfo/ITsInversionInfo.Dependence.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ITsInversionInfo.Dependence">
+    <param name="Name" value="ITsInversionInfo.Dependence">
+    <param name="Local" value="Interface/ITsInversionInfo/ITsInversionInfo.Dependence.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Seasonality">
+    <param name="Name" value="ITsInversionInfo.Seasonality">
+    <param name="Local" value="Interface/ITsInversionInfo/ITsInversionInfo.Seasonality.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ITsInversionInfo.Seasonality">
+    <param name="Name" value="ITsInversionInfo.Seasonality">
+    <param name="Local" value="Interface/ITsInversionInfo/ITsInversionInfo.Seasonality.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="PreviousInversionLag">
+    <param name="Name" value="ITsInversionInfo.PreviousInversionLag">
+    <param name="Local" value="Interface/ITsInversionInfo/ITsInversionInfo.PreviousInversionLag.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ITsInversionInfo.PreviousInversionLag">
+    <param name="Name" value="ITsInversionInfo.PreviousInversionLag">
+    <param name="Local" value="Interface/ITsInversionInfo/ITsInversionInfo.PreviousInversionLag.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="InversionLag">
+    <param name="Name" value="ITsInversionInfo.InversionLag">
+    <param name="Local" value="Interface/ITsInversionInfo/ITsInversionInfo.InversionLag.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ITsInversionInfo.InversionLag">
+    <param name="Name" value="ITsInversionInfo.InversionLag">
+    <param name="Local" value="Interface/ITsInversionInfo/ITsInversionInfo.InversionLag.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Inversion">
+    <param name="Name" value="ITsInversionInfo.Inversion">
+    <param name="Local" value="Interface/ITsInversionInfo/ITsInversionInfo.Inversion.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ITsInversionInfo.Inversion">
+    <param name="Name" value="ITsInversionInfo.Inversion">
+    <param name="Local" value="Interface/ITsInversionInfo/ITsInversionInfo.Inversion.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ITsInversionInfo">
+    <param name="Name" value="ITsInversionInfo">
+    <param name="Local" value="Interface/ITsInversionInfo/ITsInversionInfo.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="TsInversionLag">
+    <param name="Name" value="TsInversionLag">
+    <param name="Local" value="Enums/TsInversionLag.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ITsCalculationContext.ParamValues">
+    <param name="Name" value="ITsCalculationContext.ParamValues">
+    <param name="Local" value="Interface/ITsCalculationContext/ITsCalculationContext.ParamValues.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="SelectionAttrID">
+    <param name="Name" value="ITsModelParam.SelectionAttrID">
+    <param name="Local" value="Interface/ITsModelParam/ITsModelParam.SelectionAttrID.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ITsModelParam.SelectionAttrID">
+    <param name="Name" value="ITsModelParam.SelectionAttrID">
+    <param name="Local" value="Interface/ITsModelParam/ITsModelParam.SelectionAttrID.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="DataType">
+    <param name="Name" value="ITsModelParam.DataType">
+    <param name="Local" value="Interface/ITsModelParam/ITsModelParam.DataType.htm">
+    <param name="Name" value="ITsModelParamValue.DataType">
+    <param name="Local" value="Interface/ITsModelParamValue/ITsModelParamValue.DataType.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="DefaultValue">
+    <param name="Name" value="ITsModelParam.DefaultValue">
+    <param name="Local" value="Interface/ITsModelParam/ITsModelParam.DefaultValue.htm">
+    <param name="Name" value="ITsModelParamValue.DefaultValue">
+    <param name="Local" value="Interface/ITsModelParamValue/ITsModelParamValue.DefaultValue.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="LinkedObject">
+    <param name="Name" value="ITsModelParam.LinkedObject">
+    <param name="Local" value="Interface/ITsModelParam/ITsModelParam.LinkedObject.htm">
+    <param name="Name" value="ITsModelParamValue.LinkedObject">
+    <param name="Local" value="Interface/ITsModelParamValue/ITsModelParamValue.LinkedObject.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Hidden">
+    <param name="Name" value="ITsModelParam.Hidden">
+    <param name="Local" value="Interface/ITsModelParam/ITsModelParam.Hidden.htm">
+    <param name="Name" value="ITsModelParamValue.Hidden">
+    <param name="Local" value="Interface/ITsModelParamValue/ITsModelParamValue.Hidden.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ParamType">
+    <param name="Name" value="ITsModelParam.ParamType">
+    <param name="Local" value="Interface/ITsModelParam/ITsModelParam.ParamType.htm">
+    <param name="Name" value="ITsModelParamValue.ParamType">
+    <param name="Local" value="Interface/ITsModelParamValue/ITsModelParamValue.ParamType.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Item">
+    <param name="Name" value="ITsModelParams.Item">
+    <param name="Local" value="Interface/ITsModelParams/ITsModelParams.Item.htm">
+    <param name="Name" value="ITsModelParamValues.Item">
+    <param name="Local" value="Interface/ITsModelParamValues/ITsModelParamValues.Item.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="FindByKey">
+    <param name="Name" value="ITsModelParams.FindByKey">
+    <param name="Local" value="Interface/ITsModelParams/ITsModelParams.FindByKey.htm">
+    <param name="Name" value="ITsModelParamValues.FindByKey">
+    <param name="Local" value="Interface/ITsModelParamValues/ITsModelParamValues.FindByKey.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ParamValues">
+    <param name="Name" value="ITsParamProvider.ParamValues">
+    <param name="Local" value="Interface/ITsParamProvider/ITsParamProvider.ParamValues.htm">
+    <param name="Name" value="ITsCalculationContext.ParamValues">
+    <param name="Local" value="Interface/ITsCalculationContext/ITsCalculationContext.ParamValues.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Tag">
+    <param name="Name" value="ITsCalculationContext.Tag">
+    <param name="Local" value="Interface/ITsCalculationContext/ITsCalculationContext.Tag.htm">
+    <param name="Name" value="ITsModelParam.Tag">
+    <param name="Local" value="Interface/ITsModelParam/ITsModelParam.Tag.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="FindById">
+    <param name="Name" value="ITsModelParams.FindById">
+    <param name="Local" value="Interface/ITsModelParams/ITsModelParams.FindById.htm">
+    <param name="Name" value="ITsModelParamValues.FindById">
+    <param name="Local" value="Interface/ITsModelParamValues/ITsModelParamValues.FindById.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Value">
+    <param name="Name" value="ITsStatisticsTree.Value">
+    <param name="Local" value="Interface/ITsStatisticsTree/ITsStatisticsTree.Value.htm">
+    <param name="Name" value="ITsModelParamValue.Value">
+    <param name="Local" value="Interface/ITsModelParamValue/ITsModelParamValue.Value.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Count">
+    <param name="Name" value="ITsStatisticsTree.Count">
+    <param name="Local" value="Interface/ITsStatisticsTree/ITsStatisticsTree.Count.htm">
+    <param name="Name" value="ITsModelParams.Count">
+    <param name="Local" value="Interface/ITsModelParams/ITsModelParams.Count.htm">
+    <param name="Name" value="ITsModelParamValues.Count">
+    <param name="Local" value="Interface/ITsModelParamValues/ITsModelParamValues.Count.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ITsStatisticsTree.StatNode">
+    <param name="Name" value="ITsStatisticsTree.StatNode">
+    <param name="Local" value="Interface/ITsStatisticsTree/ITsStatisticsTree.StatNode.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="StatNode">
+    <param name="Name" value="ITsStatisticsTree.StatNode">
+    <param name="Local" value="Interface/ITsStatisticsTree/ITsStatisticsTree.StatNode.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ITsUserData.Clear">
+    <param name="Name" value="ITsUserData.Clear">
+    <param name="Local" value="Interface/ITsUserData/ITsUserData.Clear.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ITsUserData.Contains">
+    <param name="Name" value="ITsUserData.Contains">
+    <param name="Local" value="Interface/ITsUserData/ITsUserData.Contains.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Contains">
+    <param name="Name" value="ITsUserData.Contains">
+    <param name="Local" value="Interface/ITsUserData/ITsUserData.Contains.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ITsUserData.Data">
+    <param name="Name" value="ITsUserData.Data">
+    <param name="Local" value="Interface/ITsUserData/ITsUserData.Data.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ITsUserData.Remove">
+    <param name="Name" value="ITsUserData.Remove">
+    <param name="Local" value="Interface/ITsUserData/ITsUserData.Remove.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ITsCalculationContext.UserData">
+    <param name="Name" value="ITsCalculationContext.UserData">
+    <param name="Local" value="Interface/ITsCalculationContext/ITsCalculationContext.UserData.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="UserData">
+    <param name="Name" value="ITsCalculationContext.UserData">
+    <param name="Local" value="Interface/ITsCalculationContext/ITsCalculationContext.UserData.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ITsModelParam.Visible">
+    <param name="Name" value="ITsModelParam.Visible">
+    <param name="Local" value="Interface/ITsModelParam/ITsModelParam.Visible.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Visible">
+    <param name="Name" value="ITsModelParam.Visible">
+    <param name="Local" value="Interface/ITsModelParam/ITsModelParam.Visible.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ITsModelParam.LinkedObjectParams">
+    <param name="Name" value="ITsModelParam.LinkedObjectParams">
+    <param name="Local" value="Interface/ITsModelParam/ITsModelParam.LinkedObjectParams.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="LinkedObjectParams">
+    <param name="Name" value="ITsModelParam.LinkedObjectParams">
+    <param name="Local" value="Interface/ITsModelParam/ITsModelParam.LinkedObjectParams.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ITsUserData">
+    <param name="Name" value="ITsUserData">
+    <param name="Local" value="Interface/ITsUserData/ITsUserData.htm">
+  </object>
+</ul>
+</html>

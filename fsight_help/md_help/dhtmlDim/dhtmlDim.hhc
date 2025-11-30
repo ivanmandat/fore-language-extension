@@ -1,0 +1,431 @@
+<html>
+<!-- Sitemap 1.0 -->
+<object type="text/site properties">
+  <param name="SiteType" value="toc">
+  <param name="Image Width" value="16">
+  <param name="Window Styles" value="0x800007">
+  <param name="ExWindow Styles" value="0x100">
+</object>
+<ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Работа с измерением">
+    <param name="Local" value="Classes/DimClasses.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Компоненты">
+      <param name="Local" value="Components/Components.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="DimCombo">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Пример размещения компонента DimCombo">
+          <param name="Local" value="Components/Metabase/DimCombo/DimCombo_Example.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="DimTree">
+        <param name="Local" value="Components/Metabase/DimTree/DimTree.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Пример создания компонента DimTree">
+          <param name="Local" value="Components/Metabase/DimTree/DimTree_Example.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Классы">
+      <param name="Local" value="Classes/DimClasses.htm#642b3b9347ca42c9b00b820c00c373fa=1">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="DimensionFilter">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="DimensionFilter">
+          <param name="Local" value="Classes/Metabase/DimensionFilter/DimensionFilter.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="DimensionFilter.getOrderByJSON">
+          <param name="Local" value="Classes/Metabase/DimensionFilter/DimensionFilter.getOrderByJSON.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="DimensionFilter.OnlySelected">
+          <param name="Local" value="Classes/Metabase/DimensionFilter/DimensionFilter.OnlySelected.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="DimensionFilter.OnlyWithData">
+          <param name="Local" value="Classes/Metabase/DimensionFilter/DimensionFilter.OnlyWithData.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="DimensionFilter.OrderBy">
+          <param name="Local" value="Classes/Metabase/DimensionFilter/DimensionFilter.OrderBy.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="DimSource">
+        <param name="Local" value="Classes/Metabase/DimSource/DimSource.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Конструктор DimSource">
+          <param name="Local" value="Classes/Metabase/DimSource/Constructor_DimSource.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="DimSource.clearDimItems">
+          <param name="Local" value="Classes/Metabase/DimSource/DimSource.clearDimItems.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="DimSource.getActiveGroup">
+          <param name="Local" value="Classes/Metabase/DimSource/DimSource.getActiveGroup.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="DimSource.getActiveHierarchy">
+          <param name="Local" value="Classes/Metabase/DimSource/DimSource.getActiveHierarchy.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="DimSource.getActiveSchema">
+          <param name="Local" value="Classes/Metabase/DimSource/DimSource.getActiveSchema.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="DimSource.getAttributeIndex">
+          <param name="Local" value="Classes/Metabase/DimSource/DimSource.getAttributeIndex.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="DimSource.getAttributes">
+          <param name="Local" value="Classes/Metabase/DimSource/DimSource.getAttributes.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="DimSource.getElem">
+          <param name="Local" value="Classes/Metabase/DimSource/DimSource.getElem.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="DimSource.getFirstSelectedText">
+          <param name="Local" value="Classes/Metabase/DimSource/DimSource.getFirstSelectedText.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="DimSource.getGroups">
+          <param name="Local" value="Classes/Metabase/DimSource/DimSource.getGroups.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="DimSource.getHierarchies">
+          <param name="Local" value="Classes/Metabase/DimSource/DimSource.getHierarchies.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="DimSource.getLastSelectedText">
+          <param name="Local" value="Classes/Metabase/DimSource/DimSource.getLastSelectedText.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="DimSource.getSchemas">
+          <param name="Local" value="Classes/Metabase/DimSource/DimSource.getSchemas.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="DimSrv">
+        <param name="Local" value="Classes/Metabase/DimSrv/DimSrv.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Конструктор DimSrv">
+          <param name="Local" value="Classes/Metabase/DimSrv/Constructor_DimSrv.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="DimSrv.assignSelection">
+          <param name="Local" value="Classes/Metabase/DimSrv/DimSrv.assignSelection.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="DimSrv.beginBatch">
+          <param name="Local" value="Classes/Metabase/DimSrv/DimSrv.beginBatch.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="DimSrv.ChildLoaded">
+          <param name="Local" value="Classes/Metabase/DimSrv/DimSrv.ChildLoaded.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="DimSrv.close">
+          <param name="Local" value="Classes/Metabase/DimSrv/DimSrv.close.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="DimSrv.copyInstance">
+          <param name="Local" value="Classes/Metabase/DimSrv/DimSrv.copyInstance.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="DimSrv.DimCleared">
+          <param name="Local" value="Classes/Metabase/DimSrv/DimSrv.DimCleared.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="DimSrv.DimClosed">
+          <param name="Local" value="Classes/Metabase/DimSrv/DimSrv.DimClosed.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="DimSrv.DimGetMetadataComplete">
+          <param name="Local" value="Classes/Metabase/DimSrv/DimSrv.DimGetMetadataComplete.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="DimSrv.DimOpened">
+          <param name="Local" value="Classes/Metabase/DimSrv/DimSrv.DimOpened.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="DimSrv.endBatch">
+          <param name="Local" value="Classes/Metabase/DimSrv/DimSrv.endBatch.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="DimSrv.execCommand">
+          <param name="Local" value="Classes/Metabase/DimSrv/DimSrv.execCommand.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="DimSrv.getAllElements">
+          <param name="Local" value="Classes/Metabase/DimSrv/DimSrv.getAllElements.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="DimSrv.getAllSelectedEls">
+          <param name="Local" value="Classes/Metabase/DimSrv/DimSrv.getAllSelectedEls.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="DimSrv.getChildren">
+          <param name="Local" value="Classes/Metabase/DimSrv/DimSrv.getChildren.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="DimSrv.getEls">
+          <param name="Local" value="Classes/Metabase/DimSrv/DimSrv.getEls.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="DimSrv.getIsBatchMode">
+          <param name="Local" value="Classes/Metabase/DimSrv/DimSrv.getIsBatchMode.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="DimSrv.getMetadata">
+          <param name="Local" value="Classes/Metabase/DimSrv/DimSrv.getMetadata.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="DimSrv.getPathToKey">
+          <param name="Local" value="Classes/Metabase/DimSrv/DimSrv.getPathToKey.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="DimSrv.getSpecialImageListUrl">
+          <param name="Local" value="Classes/Metabase/DimSrv/DimSrv.getSpecialImageListUrl.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="DimSrv.open">
+          <param name="Local" value="Classes/Metabase/DimSrv/DimSrv.open.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="DimSrv.selectByKeys">
+          <param name="Local" value="Classes/Metabase/DimSrv/DimSrv.selectByKeys.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="DimSrv.selectGroup">
+          <param name="Local" value="Classes/Metabase/DimSrv/DimSrv.selectGroup.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="DimSrv.SelectionChanged">
+          <param name="Local" value="Classes/Metabase/DimSrv/DimSrv.SelectionChanged.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="DimSrv.selectLevel">
+          <param name="Local" value="Classes/Metabase/DimSrv/DimSrv.selectLevel.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="DimSrv.send">
+          <param name="Local" value="Classes/Metabase/DimSrv/DimSrv.send.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="DimSrv.setCalendarPeriod">
+          <param name="Local" value="Classes/Metabase/DimSrv/DimSrv.setCalendarPeriod.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="DimSrv.setElementsGroup">
+          <param name="Local" value="Classes/Metabase/DimSrv/DimSrv.setElementsGroup.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="DimSrv.setHierarchy">
+          <param name="Local" value="Classes/Metabase/DimSrv/DimSrv.setHierarchy.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="DimSrv.setSchema">
+          <param name="Local" value="Classes/Metabase/DimSrv/DimSrv.setSchema.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="DimSrv.updateStateData">
+          <param name="Local" value="Classes/Metabase/DimSrv/DimSrv.updateStateData.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="DimTree">
+        <param name="Local" value="Classes/Metabase/DimTree/DimTree.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Конструктор DimTree">
+          <param name="Local" value="Classes/Metabase/DimTree/Constructor_DimTree.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="DimTree.getLoadToFirstSelected">
+          <param name="Local" value="Classes/Metabase/DimTree/DimTree.getLoadToFirstSelected.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="DimTree.getPredefinedAttributeId">
+          <param name="Local" value="Classes/Metabase/DimTree/DimTree.getPredefinedAttributeId.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="DimTree.selectGroupItems">
+          <param name="Local" value="Classes/Metabase/DimTree/DimTree.selectGroupItems.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="DimTree.setActiveGroupId">
+          <param name="Local" value="Classes/Metabase/DimTree/DimTree.setActiveGroupId.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Интерфейсы">
+      <param name="Local" value="Classes/DimClasses.htm#interfaces642b3b9347ca42c9b00b820c00c373fa=2">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="DimSourceSettings">
+        <param name="Local" value="Interfaces/DimSourceSettings/DimSourceSettings.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="AllowAltHierarchyCreation">
+          <param name="Local" value="Interfaces/DimSourceSettings/AllowAltHierarchyCreation.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="AllowCalculation">
+          <param name="Local" value="Interfaces/DimSourceSettings/AllowCalculation.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="AllowChangeElementGroup">
+          <param name="Local" value="Interfaces/DimSourceSettings/AllowChangeElementGroup.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="AllowElementsGroupCreation">
+          <param name="Local" value="Interfaces/DimSourceSettings/AllowElementsGroupCreation.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="AllowHasData">
+          <param name="Local" value="Interfaces/DimSourceSettings/AllowHasData.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="AllowSchemaApply">
+          <param name="Local" value="Interfaces/DimSourceSettings/AllowSchemaApply.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="AllowSchemaCreation">
+          <param name="Local" value="Interfaces/DimSourceSettings/AllowSchemaCreation.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="AllowSelection">
+          <param name="Local" value="Interfaces/DimSourceSettings/AllowSelection.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChildrenReqCount">
+          <param name="Local" value="Interfaces/DimSourceSettings/ChildrenReqCount.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="LoadAttributeValuesPartial">
+          <param name="Local" value="Interfaces/DimSourceSettings/LoadAttributeValuesPartial.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="UseExtendedAttributeValues">
+          <param name="Local" value="Interfaces/DimSourceSettings/UseExtendedAttributeValues.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Перечисления">
+      <param name="Local" value="Classes/DimClasses.htm#enum642b3b9347ca42c9b00b820c00c373fa=3">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="DimComboCaption">
+        <param name="Local" value="Enums/DimComboCaption.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="DimElementState">
+        <param name="Local" value="Enums/DimElementState.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="OrderBy">
+        <param name="Local" value="Enums/OrderBy.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      </ul>
+    </ul>
+</ul>
+</html>

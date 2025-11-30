@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="topic-comment" content="" />
+<meta name="generator" content="Adobe RoboHelp 11" />
+<title>edit_output</title>
+</head>
+
+<body>
+<?rh-script_start ?><script src="ehlpdhtm.js" type="text/javascript" language="JavaScript1.2"></script><?rh-script_end ?>
+<h2>Редактирование выходов преобразователей</h2>
+<p>Для определения выхода преобразователя и списка полей:</p>
+<ol style="list-style: decimal;">
+	<li><p>Откройте панель настроек преобразователя.</p></li>
+	<li><p>Нажмите кнопку <img src="Web/03_ETLObjects/04_Transformers/02_Union/button_settings.png" 
+								 alt="" style="border: none;" border="0" />&#160;«<span 
+	 style="font-weight: bold;">Настройки</span>».</p></li>
+	<li><p>На панели дополнительных настроек преобразователя перейдите 
+	 на вкладку «<span style="font-weight: bold;">Редактор выходов</span>».</p></li>
+</ol>
+<p>После выполнения действий будет отображена вкладка «<span style="font-weight: bold;">Редактор 
+ выходов</span>»:</p>
+<p><img src="Web/03_ETLObjects/04_Transformers/02_Union/Union_Output.png" 
+		 alt="" style="border: none;" border="0" /></p>
+<h3>Выходы и связи</h3>
+<p>Возможные операции для выходов преобразователя:</p>
+<p><a name="output_add"></a><?rh-dropspot_start class="dropspot" href="javascript:TextPopup(this)" 
+												 id="a13" dataid="POPUP4970946652" ?>Добавление 
+ выхода<?rh-dropspot_end ?></p>
+<?rh-droptext_start class="droptext" id="POPUP4970946652" style="display: none;" ?>
+	<p>Настроить выход преобразователя можно двумя способами:</p>
+	<ul style="list-style: disc;">
+		<li><p><span style="font-weight: bold;">Настройка связи выхода 
+		 с уже созданным приёмником</span>. Для настройки выхода преобразователя 
+		 выполните следующие действия:</p></li>
+	</ul>
+	<ol style="list-style: decimal;">
+		<ol style="list-style: decimal;">
+			<li><p>Убедитесь, что на рабочей области расположен как минимум 
+			 один объект, выполняющий роль приёмника данных.</p></li>
+			<li><p>Нажмите кнопку <img src="Web/03_ETLObjects/04_Transformers/02_Union/button_link.png" 
+										 alt="" style="border: none;" border="0" />&#160;«<span 
+			 style="font-weight: bold;">Создать связь</span>», расположенную 
+			 рядом с идентификатором выхода на вкладке «<span style="font-weight: bold;">Редактор 
+			 выходов</span>». Идентификатор выхода по умолчанию - «<span 
+			 style="font-weight: bold;">ON</span>», где N - номер выхода 
+			 преобразователя.</p></li>
+		</ol>
+	</ol>
+	<p style="margin-left: 80px;">На вкладке появится список доступных 
+	 приёмников:</p>
+	<p style="margin-left: 80px;"><img src="Web/03_ETLObjects/04_Transformers/02_Union/Add_output1.png" 
+										 alt="" style="border: none;" border="0" /></p>
+	<p class="Comment" style="margin-left: 118px;"><span style="font-weight: bold;">Примечание</span>. 
+	 В списке отображаются только те объекты, для которых еще не настроена 
+	 связь с преобразователем.</p>
+	<ol style="list-style: decimal;">
+		<ol start="3" style="list-style: decimal;">
+			<li><p>Щелчком мыши выберите вход нужного объекта из списка. 
+			 Связь будет настроена с выбранным объектом.</p></li>
+		</ol>
+	</ol>
+	<p style="margin-left: 40px;">В результате выполненных действий будут 
+	 созданы выход преобразователя и его связь с объектом;</p>
+	<ul style="list-style: disc;">
+		<li><p><span style="font-weight: bold;">Настройка связи одновременно 
+		 с процедурой добавления приёмника в задачу ETL</span>. Для настройки 
+		 связи между выходом преобразователя и объектом при создании объекта:</p></li>
+	</ul>
+	<ol>
+		<ol>
+			<li><p>Убедитесь, что на рабочей области расположен преобразователь, 
+			 для которого нужно настроить выход.</p></li>
+			<li><p>Наведите курсор на преобразователь. Курсор примет вид 
+			 указателя, у каждой из четырёх граней преобразователя появятся 
+			 коннекторы.</p></li>
+		</ol>
+	</ol>
+	<ol style="list-style: decimal;">
+		<ol start="3" style="list-style: decimal;">
+			<li><p>Щелчком мыши выделите один из коннекторов. В раскрывшемся 
+			 списке выберите тип объекта, который будет выполнять роль 
+			 приёмника данных.</p></li>
+		</ol>
+	</ol>
+	<p class="Comment" style="margin-left: 118px;"><span style="font-weight: bold;">Примечание</span>. 
+	 Команда доступна, если связь между выходом преобразователя и приёмником 
+	 еще не создана и не превышено максимальное количество выходов преобразователя.</p>
+	<p style="margin-left: 40px;">После выполнения действий на рабочую 
+	 область будет добавлен объект, связь между выходом преобразователя 
+	 и объектом будет настроена автоматически.</p><?rh-droptext_end ?>
+<p><a name="output_edit"></a><?rh-dropspot_start class="dropspot" href="javascript:TextPopup(this)" 
+												 id="a21" dataid="POPUP4970964811" ?>Редактирование 
+ выхода<?rh-dropspot_end ?></p>
+<?rh-droptext_start class="droptext" id="POPUP4970964811" style="display: none;" ?>
+	<p>Для редактирования идентификатора выхода дважды щелкните по идентификатору 
+	 выхода - поле идентификатора перейдет в режим редактирования. Введите 
+	 новый идентификатор. Идентификатор входа должен быть уникальным и 
+	 начинаться с буквы. Допускается использование букв латинского алфавита, 
+	 цифр и знака «_».</p>
+	<?rh-cbt_start condition="Chm, Online, Public, Web" ?><p>Для редактирования 
+	 полей выхода перейдите к разделу «<?rh-cbt_start condition="Chm, Online, Public, Web" ?><a 
+	 href="#union_field_edit">Редактирование поля</a><?rh-cbt_end ?>».</p><?rh-cbt_end ?><?rh-droptext_end ?>
+<p><a name="output_del"></a><?rh-dropspot_start class="dropspot" href="javascript:TextPopup(this)" 
+												 id="a41" dataid="POPUP4971123321" ?>Удаление 
+ выхода<?rh-dropspot_end ?></p>
+<?rh-droptext_start class="droptext" id="POPUP4971123321" style="display: none;" ?>
+	<p>Для удаления входа:</p>
+	<ol style="list-style: decimal;">
+		<li><p>Нажмите кнопку <img src="Web/03_ETLObjects/04_Transformers/02_Union/controls_dropdown.png" 
+									 alt="" style="border: none;" border="0" /> 
+		 «<span style="font-weight: bold;">Действия</span>», расположенную 
+		 в строке с идентификатором соответствующего выхода на вкладке 
+		 «<span style="font-weight: bold;">Редактор выходов</span>».</p></li>
+		<li><p>В раскрывшемся меню выполните команду «<span style="font-weight: bold;">Удалить 
+		 выход</span>».</p></li>
+	</ol>
+	<p>После выполнения действий выход будет удален без подтверждения выполняемого 
+	 действия.</p><?rh-droptext_end ?>
+<?rh-script_start ?><script type="text/javascript" language="JavaScript1.2">//<![CDATA[
+	if( typeof( TextPopupInit ) != 'function' ) TextPopupInit = new Function();
+	TextPopupInit('a13', 'POPUP4970946652');
+	TextPopupInit('a21', 'POPUP4970964811');
+	TextPopupInit('a41', 'POPUP4971123321');
+//]]></script><?rh-script_end ?>
+</body>
+</html>

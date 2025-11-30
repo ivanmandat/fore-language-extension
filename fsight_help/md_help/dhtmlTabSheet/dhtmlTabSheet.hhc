@@ -1,0 +1,3512 @@
+<html>
+<!-- Sitemap 1.0 -->
+<object type="text/site properties">
+  <param name="SiteType" value="toc">
+  <param name="Image Width" value="16">
+  <param name="Window Styles" value="0x800007">
+  <param name="ExWindow Styles" value="0x100">
+</object>
+<ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Работа с таблицей">
+    <param name="Local" value="Classes/TabSheet.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Компоненты">
+      <param name="Local" value="Components/Components.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Sparkline">
+        <param name="Local" value="Components/Sparkline/Sparkline.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Пример создания компонента Sparkline">
+          <param name="Local" value="Components/Sparkline/Example_Sparkline.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="TabSheet">
+        <param name="Local" value="Components/TabSheet/TabSheet/TabSheet.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Пример создания компонента TabSheet">
+          <param name="Local" value="Components/TabSheet/TabSheet/TabSheet_Example.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="JSON объект компонента TabSheet">
+          <param name="Local" value="Components/TabSheet/TabSheet/TabSheet_JSON.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Классы">
+      <param name="Local" value="Classes/TabSheet.htm#642b3b9347ca42c9b00b820c00c373fa=1">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="DefaultTabSheetDataSource">
+        <param name="Local" value="Classes/TabSheet/DefaultTabSheetDataSource/DefaultTabSheetDataSource.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="DefaultTabSheetDataSource.getIsAsync">
+          <param name="Local" value="Classes/TabSheet/DefaultTabSheetDataSource/DefaultTabSheetDataSource.getIsAsync.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="DefaultTabSheetDataSource.loadMeasures">
+          <param name="Local" value="Classes/TabSheet/DefaultTabSheetDataSource/DefaultTabSheetDataSource.loadMeasures.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="DefaultTabSheetDataSource.loadRanges">
+          <param name="Local" value="Classes/TabSheet/DefaultTabSheetDataSource/DefaultTabSheetDataSource.loadRanges.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="DefaultTabSheetDataSource.MeasuresLoaded">
+          <param name="Local" value="Classes/TabSheet/DefaultTabSheetDataSource/DefaultTabSheetDataSource.MeasuresLoaded.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="DefaultTabSheetDataSource.RangeLoaded">
+          <param name="Local" value="Classes/TabSheet/DefaultTabSheetDataSource/DefaultTabSheetDataSource.RangeLoaded.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Конструктор DefaultTabSheetDataSource">
+          <param name="Local" value="Classes/TabSheet/DefaultTabSheetDataSource/Constructor_DefaultTabSheetDataSource.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Sparkline">
+        <param name="Local" value="Classes/Sparkline/Sparkline.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Конструктор Sparkline">
+          <param name="Local" value="Classes/Sparkline/Constructor_Sparkline.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Sparkline.BackgroundColor">
+          <param name="Local" value="Classes/Sparkline/Sparkline.BackgroundColor.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Sparkline.FillColor">
+          <param name="Local" value="Classes/Sparkline/Sparkline.FillColor.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Sparkline.LineColor">
+          <param name="Local" value="Classes/Sparkline/Sparkline.LineColor.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Sparkline.StrokeColor">
+          <param name="Local" value="Classes/Sparkline/Sparkline.StrokeColor.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Sparkline.LineThickness">
+          <param name="Local" value="Classes/Sparkline/Sparkline.LineThickness.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Sparkline.StrokeThickness">
+          <param name="Local" value="Classes/Sparkline/Sparkline.StrokeThickness.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Sparkline.Padding">
+          <param name="Local" value="Classes/Sparkline/Sparkline.Padding.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Sparkline.Values">
+          <param name="Local" value="Classes/Sparkline/Sparkline.Values.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Sparkline.UsePeakValuesToColumns">
+          <param name="Local" value="Classes/Sparkline/Sparkline.UsePeakValuesToColumns.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Sparkline.ViewMode">
+          <param name="Local" value="Classes/Sparkline/Sparkline.ViewMode.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Sparkline.draw">
+          <param name="Local" value="Classes/Sparkline/Sparkline.draw.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Sparkline.beginUpdate">
+          <param name="Local" value="Classes/Sparkline/Sparkline.beginUpdate.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Sparkline.endUpdate">
+          <param name="Local" value="Classes/Sparkline/Sparkline.endUpdate.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="TabSheet">
+        <param name="Local" value="Classes/TabSheet/TabSheet/TabSheet.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Конструктор TabSheet">
+          <param name="Local" value="Classes/TabSheet/TabSheet/Constructor_TabSheet.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheet.addCellControl">
+          <param name="Local" value="Classes/TabSheet/TabSheet/TabSheet.addCellControl.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheet.addCellToSearchResult">
+          <param name="Local" value="Classes/TabSheet/TabSheet/TabSheet.addCellToSearchResult.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheet.addExpander">
+          <param name="Local" value="Classes/TabSheet/TabSheet/TabSheet.addExpander.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheet.addFilter">
+          <param name="Local" value="Classes/TabSheet/TabSheet/TabSheet.addFilter.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheet.addObject">
+          <param name="Local" value="Classes/TabSheet/TabSheet/TabSheet.addObject.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheet.autoColumnWidth">
+          <param name="Local" value="Classes/TabSheet/TabSheet/TabSheet.autoColumnWidth.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheet.autoFill">
+          <param name="Local" value="Classes/TabSheet/TabSheet/TabSheet.autoFill.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheet.autoRowHeight">
+          <param name="Local" value="Classes/TabSheet/TabSheet/TabSheet.autoRowHeight.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheet.BeforeCopy">
+          <param name="Local" value="Classes/TabSheet/TabSheet/TabSheet.BeforeCopy.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheet.BeforePaste">
+          <param name="Local" value="Classes/TabSheet/TabSheet/TabSheet.BeforePaste.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheet.beginUpdate">
+          <param name="Local" value="Classes/TabSheet/TabSheet/TabSheet.beginUpdate.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheet.calcCoordByOffset">
+          <param name="Local" value="Classes/TabSheet/TabSheet/TabSheet.calcCoordByOffset.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheet.calcCoordUnderMouse">
+          <param name="Local" value="Classes/TabSheet/TabSheet/TabSheet.calcCoordUnderMouse.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheet.calcNonSpanCoordByOffset">
+          <param name="Local" value="Classes/TabSheet/TabSheet/TabSheet.calcNonSpanCoordByOffset.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheet.calcNonSpanCoordUnderMouse">
+          <param name="Local" value="Classes/TabSheet/TabSheet/TabSheet.calcNonSpanCoordUnderMouse.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheet.clearRedo">
+          <param name="Local" value="Classes/TabSheet/TabSheet/TabSheet.clearRedo.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheet.clearSearchResult">
+          <param name="Local" value="Classes/TabSheet/TabSheet/TabSheet.clearSearchResult.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheet.clearSelection">
+          <param name="Local" value="Classes/TabSheet/TabSheet/TabSheet.clearSelection.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheet.clearUndo">
+          <param name="Local" value="Classes/TabSheet/TabSheet/TabSheet.clearUndo.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheet.clearUserEditableRanges">
+          <param name="Local" value="Classes/TabSheet/TabSheet/TabSheet.clearUserEditableRanges.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheet.closeCellEditor">
+          <param name="Local" value="Classes/TabSheet/TabSheet/TabSheet.closeCellEditor.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheet.convertToPlainText">
+          <param name="Local" value="Classes/TabSheet/TabSheet/TabSheet.convertToPlainText.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheet.coord">
+          <param name="Local" value="Classes/TabSheet/TabSheet/TabSheet.coord.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheet.CoordUnderMouseChanged">
+          <param name="Local" value="Classes/TabSheet/TabSheet/TabSheet.CoordUnderMouseChanged.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheet.copy">
+          <param name="Local" value="Classes/TabSheet/TabSheet/TabSheet.copy.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheet.deleteColumn">
+          <param name="Local" value="Classes/TabSheet/TabSheet/TabSheet.deleteColumn.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheet.deleteColumns">
+          <param name="Local" value="Classes/TabSheet/TabSheet/TabSheet.deleteColumns.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheet.deleteRange">
+          <param name="Local" value="Classes/TabSheet/TabSheet/TabSheet.deleteRange.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheet.deleteRow">
+          <param name="Local" value="Classes/TabSheet/TabSheet/TabSheet.deleteRow.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheet.deleteRows">
+          <param name="Local" value="Classes/TabSheet/TabSheet/TabSheet.deleteRows.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheet.doEdit">
+          <param name="Local" value="Classes/TabSheet/TabSheet/TabSheet.doEdit.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheet.edit">
+          <param name="Local" value="Classes/TabSheet/TabSheet/TabSheet.edit.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheet.Edited">
+          <param name="Local" value="Classes/TabSheet/TabSheet/TabSheet.Edited.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheet.Editing">
+          <param name="Local" value="Classes/TabSheet/TabSheet/TabSheet.Editing.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheet.EditingEnd">
+          <param name="Local" value="Classes/TabSheet/TabSheet/TabSheet.EditingEnd.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheet.EditingStart">
+          <param name="Local" value="Classes/TabSheet/TabSheet/TabSheet.EditingStart.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheet.EnabledChanged">
+          <param name="Local" value="Classes/TabSheet/TabSheet/TabSheet.EnabledChanged.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheet.endUpdate">
+          <param name="Local" value="Classes/TabSheet/TabSheet/TabSheet.endUpdate.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheet.ensureCellSpanUnderCoordVisibility">
+          <param name="Local" value="Classes/TabSheet/TabSheet/TabSheet.ensureCellSpanUnderCoordVisibility.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheet.ensureCoordVisibility">
+          <param name="Local" value="Classes/TabSheet/TabSheet/TabSheet.ensureCoordVisibility.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheet.ensureCurrentSelectionVisibility">
+          <param name="Local" value="Classes/TabSheet/TabSheet/TabSheet.ensureCurrentSelectionVisibility.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheet.ensureRangeVisibility">
+          <param name="Local" value="Classes/TabSheet/TabSheet/TabSheet.ensureRangeVisibility.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheet.ExpanderAction">
+          <param name="Local" value="Classes/TabSheet/TabSheet/TabSheet.ExpanderAction.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheet.getActiveSelectedRange">
+          <param name="Local" value="Classes/TabSheet/TabSheet/TabSheet.getActiveSelectedRange.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheet.getAdjustmentMgr">
+          <param name="Local" value="Classes/TabSheet/TabSheet/TabSheet.getAdjustmentMgr.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheet.getCalculatedElements">
+          <param name="Local" value="Classes/TabSheet/TabSheet/TabSheet.getCalculatedElements.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheet.getCell">
+          <param name="Local" value="Classes/TabSheet/TabSheet/TabSheet.getCell.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheet.getCellControl">
+          <param name="Local" value="Classes/TabSheet/TabSheet/TabSheet.getCellControl.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheet.getCellControlIndex">
+          <param name="Local" value="Classes/TabSheet/TabSheet/TabSheet.getCellControlIndex.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheet.getCellId">
+          <param name="Local" value="Classes/TabSheet/TabSheet/TabSheet.getCellId.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheet.getCellNode">
+          <param name="Local" value="Classes/TabSheet/TabSheet/TabSheet.getCellNode.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheet.getCellSpanUnderCoord">
+          <param name="Local" value="Classes/TabSheet/TabSheet/TabSheet.getCellSpanUnderCoord.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheet.getChangedCells">
+          <param name="Local" value="Classes/TabSheet/TabSheet/TabSheet.getChangedCells.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheet.getChangedData">
+          <param name="Local" value="Classes/TabSheet/TabSheet/TabSheet.getChangedData.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheet.getClipboardContainsData">
+          <param name="Local" value="Classes/TabSheet/TabSheet/TabSheet.getClipboardContainsData.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheet.getColIndexByHeaderText">
+          <param name="Local" value="Classes/TabSheet/TabSheet/TabSheet.getColIndexByHeaderText.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheet.getColumnHeaderId">
+          <param name="Local" value="Classes/TabSheet/TabSheet/TabSheet.getColumnHeaderId.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheet.getColumnHeaderNode">
+          <param name="Local" value="Classes/TabSheet/TabSheet/TabSheet.getColumnHeaderNode.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheet.getColumnHeaderText">
+          <param name="Local" value="Classes/TabSheet/TabSheet/TabSheet.getColumnHeaderText.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheet.getColumnLeftOffset">
+          <param name="Local" value="Classes/TabSheet/TabSheet/TabSheet.getColumnLeftOffset.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheet.getContainer">
+          <param name="Local" value="Classes/TabSheet/TabSheet/TabSheet.getContainer.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheet.getContainerId">
+          <param name="Local" value="Classes/TabSheet/TabSheet/TabSheet.getContainerId.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheet.getCoord">
+          <param name="Local" value="Classes/TabSheet/TabSheet/TabSheet.getCoord.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheet.getCoordByNode">
+          <param name="Local" value="Classes/TabSheet/TabSheet/TabSheet.getCoordByNode.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheet.getCoordFromString">
+          <param name="Local" value="Classes/TabSheet/TabSheet/TabSheet.getCoordFromString.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheet.getCoordInfo">
+          <param name="Local" value="Classes/TabSheet/TabSheet/TabSheet.getCoordInfo.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheet.getCoordUnderMouse">
+          <param name="Local" value="Classes/TabSheet/TabSheet/TabSheet.getCoordUnderMouse.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheet.getCurrentCellEditor">
+          <param name="Local" value="Classes/TabSheet/TabSheet/TabSheet.getCurrentCellEditor.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheet.getCurrentVisibleCellsRanges">
+          <param name="Local" value="Classes/TabSheet/TabSheet/TabSheet.getCurrentVisibleCellsRanges.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheet.getCustomFixedBehaviour">
+          <param name="Local" value="Classes/TabSheet/TabSheet/TabSheet.getCustomFixedBehaviour.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheet.getDynamicExpansion">
+          <param name="Local" value="Classes/TabSheet/TabSheet/TabSheet.getDynamicExpansion.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheet.getExpanderUnderCoord">
+          <param name="Local" value="Classes/TabSheet/TabSheet/TabSheet.getExpanderUnderCoord.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheet.getFixedColumnCount">
+          <param name="Local" value="Classes/TabSheet/TabSheet/TabSheet.getFixedColumnCount.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheet.getFixedRowCount">
+          <param name="Local" value="Classes/TabSheet/TabSheet/TabSheet.getFixedRowCount.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheet.getGridBorderWidth">
+          <param name="Local" value="Classes/TabSheet/TabSheet/TabSheet.getGridBorderWidth.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheet.getHeaderCellContentId">
+          <param name="Local" value="Classes/TabSheet/TabSheet/TabSheet.getHeaderCellContentId.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheet.getHScrollBar">
+          <param name="Local" value="Classes/TabSheet/TabSheet/TabSheet.getHScrollBar.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheet.getHScrollBarContainer">
+          <param name="Local" value="Classes/TabSheet/TabSheet/TabSheet.getHScrollBarContainer.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheet.getHScrollbarHeight">
+          <param name="Local" value="Classes/TabSheet/TabSheet/TabSheet.getHScrollbarHeight.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheet.getHScrollBarId">
+          <param name="Local" value="Classes/TabSheet/TabSheet/TabSheet.getHScrollBarId.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheet.getIsAsync">
+          <param name="Local" value="Classes/TabSheet/TabSheet/TabSheet.getIsAsync.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheet.getIsAsyncScrolling">
+          <param name="Local" value="Classes/TabSheet/TabSheet/TabSheet.getIsAsyncScrolling.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheet.getIsEditing">
+          <param name="Local" value="Classes/TabSheet/TabSheet/TabSheet.getIsEditing.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheet.getJSON">
+          <param name="Local" value="Classes/TabSheet/TabSheet/TabSheet.getJSON.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheet.getLeftmostVisibleColumn">
+          <param name="Local" value="Classes/TabSheet/TabSheet/TabSheet.getLeftmostVisibleColumn.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheet.getMeasures">
+          <param name="Local" value="Classes/TabSheet/TabSheet/TabSheet.getMeasures.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheet.getModel">
+          <param name="Local" value="Classes/TabSheet/TabSheet/TabSheet.getModel.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheet.getNodeUnderCoord">
+          <param name="Local" value="Classes/TabSheet/TabSheet/TabSheet.getNodeUnderCoord.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheet.getNonSpanCoordUnderMouse">
+          <param name="Local" value="Classes/TabSheet/TabSheet/TabSheet.getNonSpanCoordUnderMouse.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheet.getObjectSelection">
+          <param name="Local" value="Classes/TabSheet/TabSheet/TabSheet.getObjectSelection.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheet.getRange">
+          <param name="Local" value="Classes/TabSheet/TabSheet/TabSheet.getRange.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheet.getRangeFromString">
+          <param name="Local" value="Classes/TabSheet/TabSheet/TabSheet.getRangeFromString.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheet.getRedoChangedData">
+          <param name="Local" value="Classes/TabSheet/TabSheet/TabSheet.getRedoChangedData.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheet.getRowHeaderContentId">
+          <param name="Local" value="Classes/TabSheet/TabSheet/TabSheet.getRowHeaderContentId.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheet.getRowHeaderId">
+          <param name="Local" value="Classes/TabSheet/TabSheet/TabSheet.getRowHeaderId.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheet.getRowHeaderNode">
+          <param name="Local" value="Classes/TabSheet/TabSheet/TabSheet.getRowHeaderNode.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheet.getRowId">
+          <param name="Local" value="Classes/TabSheet/TabSheet/TabSheet.getRowId.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheet.getRowNode">
+          <param name="Local" value="Classes/TabSheet/TabSheet/TabSheet.getRowNode.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheet.getRowTopOffset">
+          <param name="Local" value="Classes/TabSheet/TabSheet/TabSheet.getRowTopOffset.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheet.getSelectedCoord">
+          <param name="Local" value="Classes/TabSheet/TabSheet/TabSheet.getSelectedCoord.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheet.getSelectedRanges">
+          <param name="Local" value="Classes/TabSheet/TabSheet/TabSheet.getSelectedRanges.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheet.getSelection">
+          <param name="Local" value="Classes/TabSheet/TabSheet/TabSheet.getSelection.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheet.getSelectionTransparent">
+          <param name="Local" value="Classes/TabSheet/TabSheet/TabSheet.getSelectionTransparent.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheet.getSmoothScrollStep">
+          <param name="Local" value="Classes/TabSheet/TabSheet/TabSheet.getSmoothScrollStep.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheet.getStyleSheet">
+          <param name="Local" value="Classes/TabSheet/TabSheet/TabSheet.getStyleSheet.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheet.getTable">
+          <param name="Local" value="Classes/TabSheet/TabSheet/TabSheet.getTable.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheet.getTableContainer">
+          <param name="Local" value="Classes/TabSheet/TabSheet/TabSheet.getTableContainer.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheet.getTableContainerId">
+          <param name="Local" value="Classes/TabSheet/TabSheet/TabSheet.getTableContainerId.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheet.getTopmostVisibleRow">
+          <param name="Local" value="Classes/TabSheet/TabSheet/TabSheet.getTopmostVisibleRow.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheet.getVisibleHeight">
+          <param name="Local" value="Classes/TabSheet/TabSheet/TabSheet.getVisibleHeight.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheet.getVisibleWidth">
+          <param name="Local" value="Classes/TabSheet/TabSheet/TabSheet.getVisibleWidth.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheet.getVScrollBar">
+          <param name="Local" value="Classes/TabSheet/TabSheet/TabSheet.getVScrollBar.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheet.getVScrollBarContainer">
+          <param name="Local" value="Classes/TabSheet/TabSheet/TabSheet.getVScrollBarContainer.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheet.getVScrollBarId">
+          <param name="Local" value="Classes/TabSheet/TabSheet/TabSheet.getVScrollBarId.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheet.getVScrollbarWidth">
+          <param name="Local" value="Classes/TabSheet/TabSheet/TabSheet.getVScrollbarWidth.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheet.hasRangesToLoad">
+          <param name="Local" value="Classes/TabSheet/TabSheet/TabSheet.hasRangesToLoad.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheet.HeadersMouseDown">
+          <param name="Local" value="Classes/TabSheet/TabSheet/TabSheet.HeadersMouseDown.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheet.hideColumns">
+          <param name="Local" value="Classes/TabSheet/TabSheet/TabSheet.hideColumns.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheet.hideRows">
+          <param name="Local" value="Classes/TabSheet/TabSheet/TabSheet.hideRows.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheet.HintChanged">
+          <param name="Local" value="Classes/TabSheet/TabSheet/TabSheet.HintChanged.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheet.HyperlinkMouseDown">
+          <param name="Local" value="Classes/TabSheet/TabSheet/TabSheet.HyperlinkMouseDown.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheet.insertColumn">
+          <param name="Local" value="Classes/TabSheet/TabSheet/TabSheet.insertColumn.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheet.insertRow">
+          <param name="Local" value="Classes/TabSheet/TabSheet/TabSheet.insertRow.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheet.isCellSpanVisible">
+          <param name="Local" value="Classes/TabSheet/TabSheet/TabSheet.isCellSpanVisible.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheet.isColInsideVisibleRange">
+          <param name="Local" value="Classes/TabSheet/TabSheet/TabSheet.isColInsideVisibleRange.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheet.isColVisible">
+          <param name="Local" value="Classes/TabSheet/TabSheet/TabSheet.isColVisible.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheet.isColVisibleAndOutsideVisibleRange">
+          <param name="Local" value="Classes/TabSheet/TabSheet/TabSheet.isColVisibleAndOutsideVisibleRange.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheet.isCoordVisible">
+          <param name="Local" value="Classes/TabSheet/TabSheet/TabSheet.isCoordVisible.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheet.isCoordVisibleOrInsideVisibleSpan">
+          <param name="Local" value="Classes/TabSheet/TabSheet/TabSheet.isCoordVisibleOrInsideVisibleSpan.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheet.isLastVisibleColumn">
+          <param name="Local" value="Classes/TabSheet/TabSheet/TabSheet.isLastVisibleColumn.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheet.isLastVisibleRow">
+          <param name="Local" value="Classes/TabSheet/TabSheet/TabSheet.isLastVisibleRow.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheet.isLoaded">
+          <param name="Local" value="Classes/TabSheet/TabSheet/TabSheet.isLoaded.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheet.isRowInsideVisibleRange">
+          <param name="Local" value="Classes/TabSheet/TabSheet/TabSheet.isRowInsideVisibleRange.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheet.isRowVisible">
+          <param name="Local" value="Classes/TabSheet/TabSheet/TabSheet.isRowVisible.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheet.isRowVisibleAndOutsideVisibleRange">
+          <param name="Local" value="Classes/TabSheet/TabSheet/TabSheet.isRowVisibleAndOutsideVisibleRange.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheet.IsTabSheetExpandExist">
+          <param name="Local" value="Classes/TabSheet/TabSheet/TabSheet.IsTabSheetExpandExist.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheet.IsTabSheetTabObjectExist">
+          <param name="Local" value="Classes/TabSheet/TabSheet/TabSheet.IsTabSheetTabObjectExist.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheet.ITabObjectCreating">
+          <param name="Local" value="Classes/TabSheet/TabSheet/TabSheet.ITabObjectCreating.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheet.liteRerender">
+          <param name="Local" value="Classes/TabSheet/TabSheet/TabSheet.liteRerender.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheet.loadVisibleRanges">
+          <param name="Local" value="Classes/TabSheet/TabSheet/TabSheet.loadVisibleRanges.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheet.merge">
+          <param name="Local" value="Classes/TabSheet/TabSheet/TabSheet.merge.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheet.mergeSelectedRanges">
+          <param name="Local" value="Classes/TabSheet/TabSheet/TabSheet.mergeSelectedRanges.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheet.MetaChanged">
+          <param name="Local" value="Classes/TabSheet/TabSheet/TabSheet.MetaChanged.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheet.MouseMove">
+          <param name="Local" value="Classes/TabSheet/TabSheet/TabSheet.MouseMove.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheet.ObjectSelectionChanged">
+          <param name="Local" value="Classes/TabSheet/TabSheet/TabSheet.ObjectSelectionChanged.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheet.parseCellId">
+          <param name="Local" value="Classes/TabSheet/TabSheet/TabSheet.parseCellId.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheet.parsePlainText">
+          <param name="Local" value="Classes/TabSheet/TabSheet/TabSheet.parsePlainText.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheet.paste">
+          <param name="Local" value="Classes/TabSheet/TabSheet/TabSheet.paste.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheet.PictureMouseDown">
+          <param name="Local" value="Classes/TabSheet/TabSheet/TabSheet.PictureMouseDown.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheet.redo">
+          <param name="Local" value="Classes/TabSheet/TabSheet/TabSheet.redo.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheet.removeAllCellControl">
+          <param name="Local" value="Classes/TabSheet/TabSheet/TabSheet.removeAllCellControl.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheet.removeCellControl">
+          <param name="Local" value="Classes/TabSheet/TabSheet/TabSheet.removeCellControl.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheet.removeCellControlByIndex">
+          <param name="Local" value="Classes/TabSheet/TabSheet/TabSheet.removeCellControlByIndex.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheet.removeCellFromSearchResult">
+          <param name="Local" value="Classes/TabSheet/TabSheet/TabSheet.removeCellFromSearchResult.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheet.removeExpander">
+          <param name="Local" value="Classes/TabSheet/TabSheet/TabSheet.removeExpander.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheet.removeFilter">
+          <param name="Local" value="Classes/TabSheet/TabSheet/TabSheet.removeFilter.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheet.removeObject">
+          <param name="Local" value="Classes/TabSheet/TabSheet/TabSheet.removeObject.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheet.removeUndo">
+          <param name="Local" value="Classes/TabSheet/TabSheet/TabSheet.removeUndo.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheet.RenderDimComboEditor">
+          <param name="Local" value="Classes/TabSheet/TabSheet/TabSheet.RenderDimComboEditor.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheet.Rendered">
+          <param name="Local" value="Classes/TabSheet/TabSheet/TabSheet.Rendered.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheet.rerender">
+          <param name="Local" value="Classes/TabSheet/TabSheet/TabSheet.rerender.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheet.rerenderDisable">
+          <param name="Local" value="Classes/TabSheet/TabSheet/TabSheet.rerenderDisable.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheet.Rerendered">
+          <param name="Local" value="Classes/TabSheet/TabSheet/TabSheet.Rerendered.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheet.rerenderEnable">
+          <param name="Local" value="Classes/TabSheet/TabSheet/TabSheet.rerenderEnable.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheet.reset">
+          <param name="Local" value="Classes/TabSheet/TabSheet/TabSheet.reset.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheet.resetCoord">
+          <param name="Local" value="Classes/TabSheet/TabSheet/TabSheet.resetCoord.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheet.resetRange">
+          <param name="Local" value="Classes/TabSheet/TabSheet/TabSheet.resetRange.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheet.RowColumnSizeChanged">
+          <param name="Local" value="Classes/TabSheet/TabSheet/TabSheet.RowColumnSizeChanged.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheet.ScrollChanged">
+          <param name="Local" value="Classes/TabSheet/TabSheet/TabSheet.ScrollChanged.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheet.scrollHorizontal">
+          <param name="Local" value="Classes/TabSheet/TabSheet/TabSheet.scrollHorizontal.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheet.scrollToColumn">
+          <param name="Local" value="Classes/TabSheet/TabSheet/TabSheet.scrollToColumn.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheet.scrollToColumnAsToLast">
+          <param name="Local" value="Classes/TabSheet/TabSheet/TabSheet.scrollToColumnAsToLast.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheet.scrollToPos">
+          <param name="Local" value="Classes/TabSheet/TabSheet/TabSheet.scrollToPos.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheet.scrollToPosInPx">
+          <param name="Local" value="Classes/TabSheet/TabSheet/TabSheet.scrollToPosInPx.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheet.scrollToRange">
+          <param name="Local" value="Classes/TabSheet/TabSheet/TabSheet.scrollToRange.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheet.scrollToRow">
+          <param name="Local" value="Classes/TabSheet/TabSheet/TabSheet.scrollToRow.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheet.scrollToRowAsToLast">
+          <param name="Local" value="Classes/TabSheet/TabSheet/TabSheet.scrollToRowAsToLast.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheet.scrollVertical">
+          <param name="Local" value="Classes/TabSheet/TabSheet/TabSheet.scrollVertical.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheet.select">
+          <param name="Local" value="Classes/TabSheet/TabSheet/TabSheet.select.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheet.selectAll">
+          <param name="Local" value="Classes/TabSheet/TabSheet/TabSheet.selectAll.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheet.SelectionBegin">
+          <param name="Local" value="Classes/TabSheet/TabSheet/TabSheet.SelectionBegin.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheet.SelectionChanged">
+          <param name="Local" value="Classes/TabSheet/TabSheet/TabSheet.SelectionChanged.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheet.SelectionChanging">
+          <param name="Local" value="Classes/TabSheet/TabSheet/TabSheet.SelectionChanging.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheet.setCellControls">
+          <param name="Local" value="Classes/TabSheet/TabSheet/TabSheet.setCellControls.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheet.setCellPictureSettings">
+          <param name="Local" value="Classes/TabSheet/TabSheet/TabSheet.setCellPictureSettings.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheet.setCellsValues">
+          <param name="Local" value="Classes/TabSheet/TabSheet/TabSheet.setCellsValues.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheet.setClassToRange">
+          <param name="Local" value="Classes/TabSheet/TabSheet/TabSheet.setClassToRange.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheet.setColumnsWidth">
+          <param name="Local" value="Classes/TabSheet/TabSheet/TabSheet.setColumnsWidth.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheet.setComment">
+          <param name="Local" value="Classes/TabSheet/TabSheet/TabSheet.setComment.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheet.setDataSource">
+          <param name="Local" value="Classes/TabSheet/TabSheet/TabSheet.setDataSource.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheet.setDynamicExpansion">
+          <param name="Local" value="Classes/TabSheet/TabSheet/TabSheet.setDynamicExpansion.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheet.setHint">
+          <param name="Local" value="Classes/TabSheet/TabSheet/TabSheet.setHint.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheet.setIsUserEditableRanges">
+          <param name="Local" value="Classes/TabSheet/TabSheet/TabSheet.setIsUserEditableRanges.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheet.setPreservedFvCol">
+          <param name="Local" value="Classes/TabSheet/TabSheet/TabSheet.setPreservedFvCol.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheet.setPreservedFvRow">
+          <param name="Local" value="Classes/TabSheet/TabSheet/TabSheet.setPreservedFvRow.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheet.setRangeEnabled">
+          <param name="Local" value="Classes/TabSheet/TabSheet/TabSheet.setRangeEnabled.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheet.setRowsHeight">
+          <param name="Local" value="Classes/TabSheet/TabSheet/TabSheet.setRowsHeight.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheet.setSelectionControlPosition">
+          <param name="Local" value="Classes/TabSheet/TabSheet/TabSheet.setSelectionControlPosition.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheet.setSelectionTransparent">
+          <param name="Local" value="Classes/TabSheet/TabSheet/TabSheet.setSelectionTransparent.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheet.showColumns">
+          <param name="Local" value="Classes/TabSheet/TabSheet/TabSheet.showColumns.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheet.showHyperlinksOnRange">
+          <param name="Local" value="Classes/TabSheet/TabSheet/TabSheet.showHyperlinksOnRange.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheet.showRows">
+          <param name="Local" value="Classes/TabSheet/TabSheet/TabSheet.showRows.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheet.sort">
+          <param name="Local" value="Classes/TabSheet/TabSheet/TabSheet.sort.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheet.split">
+          <param name="Local" value="Classes/TabSheet/TabSheet/TabSheet.split.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheet.splitSelectedRanges">
+          <param name="Local" value="Classes/TabSheet/TabSheet/TabSheet.splitSelectedRanges.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheet.StyleChanged">
+          <param name="Local" value="Classes/TabSheet/TabSheet/TabSheet.StyleChanged.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheet.TabObjectRender">
+          <param name="Local" value="Classes/TabSheet/TabSheet/TabSheet.TabObjectRender.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheet.undo">
+          <param name="Local" value="Classes/TabSheet/TabSheet/TabSheet.undo.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheet.undoAll">
+          <param name="Local" value="Classes/TabSheet/TabSheet/TabSheet.undoAll.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheet.unsort">
+          <param name="Local" value="Classes/TabSheet/TabSheet/TabSheet.unsort.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheet.update">
+          <param name="Local" value="Classes/TabSheet/TabSheet/TabSheet.update.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="TabSheetAdjustmentMgr">
+        <param name="Local" value="Classes/TabSheet/TabSheetAdjustmentMgr/TabSheetAdjustmentMgr.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetAdjustmentMgr.autoAdjustColumnWidth">
+          <param name="Local" value="Classes/TabSheet/TabSheetAdjustmentMgr/TabSheetAdjustmentMgr.autoAdjustColumnWidth.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetAdjustmentMgr.autoAdjustRowHeight">
+          <param name="Local" value="Classes/TabSheet/TabSheetAdjustmentMgr/TabSheetAdjustmentMgr.autoAdjustRowHeight.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetAdjustmentMgr.getProcessResizeCells">
+          <param name="Local" value="Classes/TabSheet/TabSheetAdjustmentMgr/TabSheetAdjustmentMgr.getProcessResizeCells.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetAdjustmentMgr.getTabSheet">
+          <param name="Local" value="Classes/TabSheet/TabSheetAdjustmentMgr/TabSheetAdjustmentMgr.getTabSheet.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetAdjustmentMgr.reset">
+          <param name="Local" value="Classes/TabSheet/TabSheetAdjustmentMgr/TabSheetAdjustmentMgr.reset.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Конструктор TabSheetAdjustmentMgr">
+          <param name="Local" value="Classes/TabSheet/TabSheetAdjustmentMgr/Constructor_TabSheetAdjustmentMgr.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="TabSheetCell">
+        <param name="Local" value="Classes/TabSheet/TabSheetCell/TabSheetCell.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetCell.Comment">
+          <param name="Local" value="Classes/TabSheet/TabSheetCell/TabSheetCell.Comment.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetCell.getCoord">
+          <param name="Local" value="Classes/TabSheet/TabSheetCell/TabSheetCell.getCoord.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetCell.getIsEnabled">
+          <param name="Local" value="Classes/TabSheet/TabSheetCell/TabSheetCell.getIsEnabled.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetCell.getModel">
+          <param name="Local" value="Classes/TabSheet/TabSheetCell/TabSheetCell.getModel.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetCell.getSparkLine">
+          <param name="Local" value="Classes/TabSheet/TabSheetCell/TabSheetCell.getSparkLine.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetCell.Hint">
+          <param name="Local" value="Classes/TabSheet/TabSheetCell/TabSheetCell.Hint.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetCell.IsDefault">
+          <param name="Local" value="Classes/TabSheet/TabSheetCell/TabSheetCell.IsDefault.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetCell.RawValue">
+          <param name="Local" value="Classes/TabSheet/TabSheetCell/TabSheetCell.RawValue.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetCell.setEnabled">
+          <param name="Local" value="Classes/TabSheet/TabSheetCell/TabSheetCell.setEnabled.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetCell.Style">
+          <param name="Local" value="Classes/TabSheet/TabSheetCell/TabSheetCell.Style.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetCell.Value">
+          <param name="Local" value="Classes/TabSheet/TabSheetCell/TabSheetCell.Value.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetCell.ValueType">
+          <param name="Local" value="Classes/TabSheet/TabSheetCell/TabSheetCell.ValueType.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetCell.toJSON">
+          <param name="Local" value="Classes/TabSheet/TabSheetCell/TabSheetCell.toJSON.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Конструктор TabSheetCell">
+          <param name="Local" value="Classes/TabSheet/TabSheetCell/Consrtuctor_TabSheetCell.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="TabSheetCellBorderStyle">
+        <param name="Local" value="Classes/TabSheet/TabSheetCellBorderStyle/TabSheetCellBorderStyle.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Конструктор TabSheetCellBorderStyle">
+          <param name="Local" value="Classes/TabSheet/TabSheetCellBorderStyle/Constructor_TabSheetCellBorderStyle.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetCellBorderStyle.Color">
+          <param name="Local" value="Classes/TabSheet/TabSheetCellBorderStyle/TabSheetCellBorderStyle.Color.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetCellBorderStyle.getWidth">
+          <param name="Local" value="Classes/TabSheet/TabSheetCellBorderStyle/TabSheetCellBorderStyle.getWeight.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetCellBorderStyle.hasIndex">
+          <param name="Local" value="Classes/TabSheet/TabSheetCellBorderStyle/TabSheetCellBorderStyle.hasIndex.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetCellBorderStyle.Index">
+          <param name="Local" value="Classes/TabSheet/TabSheetCellBorderStyle/TabSheetCellBorderStyle.Index.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetCellBorderStyle.RawWidth">
+          <param name="Local" value="Classes/TabSheet/TabSheetCellBorderStyle/TabSheetCellBorderStyle.RawWeight.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetCellBorderStyle.Style">
+          <param name="Local" value="Classes/TabSheet/TabSheetCellBorderStyle/TabSheetCellBorderStyle.Style.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetCellBorderStyle.toJSON">
+          <param name="Local" value="Classes/TabSheet/TabSheetCellBorderStyle/TabSheetCellBorderStyle.toJSON.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="TabSheetCellChange">
+        <param name="Local" value="Classes/TabSheet/TabSheetCellChange/TabSheetCellChange.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Конструктор TabSheetCellChange">
+          <param name="Local" value="Classes/TabSheet/TabSheetCellChange/Consrtuctor_TabSheetCellChange.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="TabSheetCellSpan">
+        <param name="Local" value="Classes/TabSheet/TabSheetCellSpan/TabSheetCellSpan.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetCellSpan.clear">
+          <param name="Local" value="Classes/TabSheet/TabSheetCellSpan/TabSheetCellSpan.clear.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetCellSpan.getCoord">
+          <param name="Local" value="Classes/TabSheet/TabSheetCellSpan/TabSheetCellSpan.getCoord.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetCellSpan.getRange">
+          <param name="Local" value="Classes/TabSheet/TabSheetCellSpan/TabSheetCellSpan.getRange.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetCellSpan.getRenderedCoord">
+          <param name="Local" value="Classes/TabSheet/TabSheetCellSpan/TabSheetCellSpan.getRenderedCoord.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetCellSpan.getSizeCoord">
+          <param name="Local" value="Classes/TabSheet/TabSheetCellSpan/TabSheetCellSpan.getSizeCoord.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetCellSpan.getSpanNode">
+          <param name="Local" value="Classes/TabSheet/TabSheetCellSpan/TabSheetCellSpan.getSpanNode.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetCellSpan.getVisibleSize">
+          <param name="Local" value="Classes/TabSheet/TabSheetCellSpan/TabSheetCellSpan.getVisibleSize.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetCellSpan.isCoordInSpan">
+          <param name="Local" value="Classes/TabSheet/TabSheetCellSpan/TabSheetCellSpan.isCoordInSpan.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetCellSpan.shiftPosition">
+          <param name="Local" value="Classes/TabSheet/TabSheetCellSpan/TabSheetCellSpan.shiftPosition.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetCellSpan.toJSON">
+          <param name="Local" value="Classes/TabSheet/TabSheetCellSpan/TabSheetCellSpan.toJSON.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Конструктор TabSheetCellSpan">
+          <param name="Local" value="Classes/TabSheet/TabSheetCellSpan/Consrtuctor_TabSheetCellSpan.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="TabSheetCellSpanChange">
+        <param name="Local" value="Classes/TabSheet/TabSheetCellSpanChange/TabSheetCellSpanChange.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Конструктор TabSheetCellSpanChange">
+          <param name="Local" value="Classes/TabSheet/TabSheetCellSpanChange/Consrtuctor_TabSheetCellSpanChange.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="TabSheetCellStyle">
+        <param name="Local" value="Classes/TabSheet/TabSheetCellStyle/TabSheetCellStyle.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetCellStyle.AccessRights">
+          <param name="Local" value="Classes/TabSheet/TabSheetCellStyle/TabSheetCellStyle.AccessRights.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetCellStyle.getBorderByIndex">
+          <param name="Local" value="Classes/TabSheet/TabSheetCellStyle/TabSheetCellStyle.getBorderByIndex.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetCellStyle.getBorders">
+          <param name="Local" value="Classes/TabSheet/TabSheetCellStyle/TabSheetCellStyle.getBorders.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetCellStyle.mergeStyle">
+          <param name="Local" value="Classes/TabSheet/TabSheetCellStyle/TabSheetCellStyle.mergeStyle.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetCellStyle.toJSON">
+          <param name="Local" value="Classes/TabSheet/TabSheetCellStyle/TabSheetCellStyle.toJSON.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Конструктор TabSheetCellStyle">
+          <param name="Local" value="Classes/TabSheet/TabSheetCellStyle/Consrtuctor_TabSheetCellStyle.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="TabSheetCellStylesChange">
+        <param name="Local" value="Classes/TabSheet/TabSheetCellStylesChange/TabSheetCellStylesChange.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Конструктор TabSheetCellStyleChange">
+          <param name="Local" value="Classes/TabSheet/TabSheetCellStylesChange/Consrtuctor_TabSheetCellStyleChange.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="TabSheetChange">
+        <param name="Local" value="Classes/TabSheet/TabSheetChange/TabSheetChange.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetChange.getAction">
+          <param name="Local" value="Classes/TabSheet/TabSheetChange/TabSheetChange.getAction.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetChange.getContext">
+          <param name="Local" value="Classes/TabSheet/TabSheetChange/TabSheetChange.getContext.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetChange.getNewValue">
+          <param name="Local" value="Classes/TabSheet/TabSheetChange/TabSheetChange.getNewValue.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetChange.getOldValue">
+          <param name="Local" value="Classes/TabSheet/TabSheetChange/TabSheetChange.getOldValue.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetChange.getTabSheet">
+          <param name="Local" value="Classes/TabSheet/TabSheetChange/TabSheetChange.getTabSheet.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetChange.redo">
+          <param name="Local" value="Classes/TabSheet/TabSheetChange/TabSheetChange.redo.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetChange.undo">
+          <param name="Local" value="Classes/TabSheet/TabSheetChange/TabSheetChange.undo.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Конструктор TabSheetChange">
+          <param name="Local" value="Classes/TabSheet/TabSheetChange/Constructor_TabSheetChange.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="TabSheetClipboardChange">
+        <param name="Local" value="Classes/TabSheet/TabSheetClipboardChange/TabSheetClipboardChange.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Конструктор TabSheetClipboardChange">
+          <param name="Local" value="Classes/TabSheet/TabSheetClipboardChange/Conctructor_TabSheetClipboardChange.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="TabSheetCoord">
+        <param name="Local" value="Classes/TabSheet/TabSheetCoord/TabSheetCoord.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetCoord.equals">
+          <param name="Local" value="Classes/TabSheet/TabSheetCoord/TabSheetCoord.equals.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetCoord.isGreaterThan">
+          <param name="Local" value="Classes/TabSheet/TabSheetCoord/TabSheetCoord.isGreaterThan.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetCoord.isGreaterThanOrEqualTo">
+          <param name="Local" value="Classes/TabSheet/TabSheetCoord/TabSheetCoord.isGreaterThanOrEqualTo.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetCoord.isLessThan">
+          <param name="Local" value="Classes/TabSheet/TabSheetCoord/TabSheetCoord.isLessThan.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetCoord.isLessThanOrEqualTo">
+          <param name="Local" value="Classes/TabSheet/TabSheetCoord/TabSheetCoord.isLessThanOrEqualTo.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetCoord.isValid">
+          <param name="Local" value="Classes/TabSheet/TabSheetCoord/TabSheetCoord.isValid.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetCoord.parse">
+          <param name="Local" value="Classes/TabSheet/TabSheetCoord/TabSheetCoord.parse.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Конструктор TabSheetCoord">
+          <param name="Local" value="Classes/TabSheet/TabSheetCoord/Constructor_TabSheetCoord.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="TabSheetDefaultEditor">
+        <param name="Local" value="Classes/TabSheet/TabSheetDefaultEditor/TabSheetDefaultEditor.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetDefaultEditor.getCell">
+          <param name="Local" value="Classes/TabSheet/TabSheetDefaultEditor/TabSheetDefaultEditor.getCell.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetDefaultEditor.getCoord">
+          <param name="Local" value="Classes/TabSheet/TabSheetDefaultEditor/TabSheetDefaultEditor.getCoord.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetDefaultEditor.getTabSheet">
+          <param name="Local" value="Classes/TabSheet/TabSheetDefaultEditor/TabSheetDefaultEditor.getTabSheet.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetDefaultEditor.getTextBox">
+          <param name="Local" value="Classes/TabSheet/TabSheetDefaultEditor/TabSheetDefaultEditor.getTextBox.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Конструктор TabSheetDefaultEditor">
+          <param name="Local" value="Classes/TabSheet/TabSheetDefaultEditor/Conctructor_TabSheetDefaultEditor.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="TabSheetDimensionFilterPanel">
+        <param name="Local" value="Classes/TabSheet/TabSheetDimensionFilterPanel/TabSheetDimensionFilterPanel.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetDimensionFilterPanel.getDimensionFilterPanel">
+          <param name="Local" value="Classes/TabSheet/TabSheetDimensionFilterPanel/TabSheetDimensionFilterPanel.getDimensionFilterPanel.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Конструктор TabSheetDimensionFilterPanel">
+          <param name="Local" value="Classes/TabSheet/TabSheetDimensionFilterPanel/Constructor_TabSheetDimensionFilterPanel.htm">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="TabSheetExpander">
+        <param name="Local" value="Classes/TabSheet/TabSheetExpander/TabSheetExpander.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetExpander.collapse">
+          <param name="Local" value="Classes/TabSheet/TabSheetExpander/TabSheetExpander.collapse.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetExpander.contains">
+          <param name="Local" value="Classes/TabSheet/TabSheetExpander/TabSheetExpander.contains.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetExpander.equals">
+          <param name="Local" value="Classes/TabSheet/TabSheetExpander/TabSheetExpander.equals.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetExpander.expand">
+          <param name="Local" value="Classes/TabSheet/TabSheetExpander/TabSheetExpander.expand.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetExpander.getCoord">
+          <param name="Local" value="Classes/TabSheet/TabSheetExpander/TabSheetExpander.getCoord.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetExpander.getIndexesToExpand">
+          <param name="Local" value="Classes/TabSheet/TabSheetExpander/TabSheetExpander.getIndexesToExpand.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetExpander.getInnerExpanders">
+          <param name="Local" value="Classes/TabSheet/TabSheetExpander/TabSheetExpander.getInnerExpanders.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetExpander.getSizeCoord">
+          <param name="Local" value="Classes/TabSheet/TabSheetExpander/TabSheetExpander.getSizeCoord.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetExpander.getTabSheet">
+          <param name="Local" value="Classes/TabSheet/TabSheetExpander/TabSheetExpander.getTabSheet.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetExpander.IsCollapsed">
+          <param name="Local" value="Classes/TabSheet/TabSheetExpander/TabSheetExpander.IsCollapsed.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetExpander.isCoordInside">
+          <param name="Local" value="Classes/TabSheet/TabSheetExpander/TabSheetExpander.isCoordInside.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetExpander.isCrossWith">
+          <param name="Local" value="Classes/TabSheet/TabSheetExpander/TabSheetExpander.isCrossWith.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetExpander.remove">
+          <param name="Local" value="Classes/TabSheet/TabSheetExpander/TabSheetExpander.remove.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetExpander.toJSON">
+          <param name="Local" value="Classes/TabSheet/TabSheetExpander/TabSheetExpander.toJSON.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Конструктор TabSheetExpander">
+          <param name="Local" value="Classes/TabSheet/TabSheetExpander/Conctructor_TabSheetExander.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="TabSheetExpanderChange">
+        <param name="Local" value="Classes/TabSheet/TabSheetExpanderChange/TabSheetExpanderChange.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Конструктор TabSheetExpanderChange">
+          <param name="Local" value="Classes/TabSheet/TabSheetExpanderChange/Constructor_TabSheetExpanderChange.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="TabSheetFixedChange">
+        <param name="Local" value="Classes/TabSheet/TabSheetFixedChange/TabSheetFixedChange.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Конструктор TabSheetFixedChange">
+          <param name="Local" value="Classes/TabSheet/TabSheetFixedChange/Constructor_TabSheetFixedChange.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="TabSheetHeaderFilterPanel">
+        <param name="Local" value="Classes/TabSheet/TabSheetHeaderFilterPanel/TabSheetHeaderFilterPanel.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetHeaderFilterPanel.getTopHeaderFilterPanel">
+          <param name="Local" value="Classes/TabSheet/TabSheetHeaderFilterPanel/TabSheetHeaderFilterPanel.getTopHeaderFilterPanel.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetHeaderFilterPanel.getLeftHeaderFilterPanel">
+          <param name="Local" value="Classes/TabSheet/TabSheetHeaderFilterPanel/TabSheetHeaderFilterPanel.getLeftHeaderFilterPanel.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Конструктор TabSheetHeaderFilterPanel">
+          <param name="Local" value="Classes/TabSheet/TabSheetHeaderFilterPanel/Constructor_TabSheetHeaderFilterPanel.htm">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="TabSheetHiddenChange">
+        <param name="Local" value="Classes/TabSheet/TabSheetHiddenChange/TabSheetHiddenChange.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Конструктор TabSheetHiddenChange">
+          <param name="Local" value="Classes/TabSheet/TabSheetHiddenChange/Constructor_TabSheetHiddenChange.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="TabSheetLegendPanel">
+        <param name="Local" value="Classes/TabSheet/TabSheetLegendPanel/TabSheetLegendPanel.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetLegendPanel.MetadataSection">
+          <param name="Local" value="Classes/TabSheet/TabSheetLegendPanel/TabSheetLegendPanel.MetadataSection.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="TabSheetMarkupChange">
+        <param name="Local" value="Classes/TabSheet/TabSheetMarkupChange/TabSheetMarkupChange.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Конструктор TabSheetMarkupChange">
+          <param name="Local" value="Classes/TabSheet/TabSheetMarkupChange/Constructor_TabSheetMarkupChange.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="TabSheetMeasures">
+        <param name="Local" value="Classes/TabSheet/TabSheetMeasures/TabSheetMeasures.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetMeasures.addHiddenColumn">
+          <param name="Local" value="Classes/TabSheet/TabSheetMeasures/TabSheetMeasures.addHiddenColumn.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetMeasures.addHiddenRow">
+          <param name="Local" value="Classes/TabSheet/TabSheetMeasures/TabSheetMeasures.addHiddenRow.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetMeasures.calcColumnsWidth">
+          <param name="Local" value="Classes/TabSheet/TabSheetMeasures/TabSheetMeasures.calcColumnsWidth.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetMeasures.calcColumnsWidthByPosition">
+          <param name="Local" value="Classes/TabSheet/TabSheetMeasures/TabSheetMeasures.calcColumnsWidthByPosition.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetMeasures.calcRowsHeight">
+          <param name="Local" value="Classes/TabSheet/TabSheetMeasures/TabSheetMeasures.calcRowsHeight.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetMeasures.calcRowsHeightByPosition">
+          <param name="Local" value="Classes/TabSheet/TabSheetMeasures/TabSheetMeasures.calcRowsHeightByPosition.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetMeasures.ColumnResizeEnabled">
+          <param name="Local" value="Classes/TabSheet/TabSheetMeasures/TabSheetMeasures.ColumnResizeEnabled.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetMeasures.ColumnWidth">
+          <param name="Local" value="Classes/TabSheet/TabSheetMeasures/TabSheetMeasures.ColumnWidth.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetMeasures.DefaultColumnWidth">
+          <param name="Local" value="Classes/TabSheet/TabSheetMeasures/TabSheetMeasures.DefaultColumnWidth.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetMeasures.DefaultRowHeight">
+          <param name="Local" value="Classes/TabSheet/TabSheetMeasures/TabSheetMeasures.DefaultRowHeight.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetMeasures.deleteColumn">
+          <param name="Local" value="Classes/TabSheet/TabSheetMeasures/TabSheetMeasures.deleteColumn.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetMeasures.deleteRow">
+          <param name="Local" value="Classes/TabSheet/TabSheetMeasures/TabSheetMeasures.deleteRow.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetMeasures.DisplayAccessRights">
+          <param name="Local" value="Classes/TabSheet/TabSheetMeasures/TabSheetMeasures.DisplayAccessRights.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetMeasures.DisplayFixedAreaLines">
+          <param name="Local" value="Classes/TabSheet/TabSheetMeasures/TabSheetMeasures.DisplayFixedAreaLines.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetMeasures.eachVisibleColIndex">
+          <param name="Local" value="Classes/TabSheet/TabSheetMeasures/TabSheetMeasures.eachVisibleColIndex.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetMeasures.eachVisibleCoord">
+          <param name="Local" value="Classes/TabSheet/TabSheetMeasures/TabSheetMeasures.eachVisibleCoord.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetMeasures.eachVisibleRowIndex">
+          <param name="Local" value="Classes/TabSheet/TabSheetMeasures/TabSheetMeasures.eachVisibleRowIndex.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetMeasures.FixedAreaLineColor">
+          <param name="Local" value="Classes/TabSheet/TabSheetMeasures/TabSheetMeasures.FixedAreaLineColor.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetMeasures.FixedBehaviour">
+          <param name="Local" value="Classes/TabSheet/TabSheetMeasures/TabSheetMeasures.FixedBehaviour.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetMeasures.getColumnIndexByPos">
+          <param name="Local" value="Classes/TabSheet/TabSheetMeasures/TabSheetMeasures.getColumnIndexByPos.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetMeasures.getColumnPosByIndex">
+          <param name="Local" value="Classes/TabSheet/TabSheetMeasures/TabSheetMeasures.getColumnPosByIndex.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetMeasures.getCoordSize">
+          <param name="Local" value="Classes/TabSheet/TabSheetMeasures/TabSheetMeasures.getCoordSize.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetMeasures.getDefaultColumnVisibility">
+          <param name="Local" value="Classes/TabSheet/TabSheetMeasures/TabSheetMeasures.getDefaultColumnVisibility.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetMeasures.getDefaultRowVisibility">
+          <param name="Local" value="Classes/TabSheet/TabSheetMeasures/TabSheetMeasures.getDefaultRowVisibility.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetMeasures.getFirstColToScroll">
+          <param name="Local" value="Classes/TabSheet/TabSheetMeasures/TabSheetMeasures.getFirstColToScroll.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetMeasures.getFirstRowToScroll">
+          <param name="Local" value="Classes/TabSheet/TabSheetMeasures/TabSheetMeasures.getFirstRowToScroll.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetMeasures.getFixedColumnCount">
+          <param name="Local" value="Classes/TabSheet/TabSheetMeasures/TabSheetMeasures.getFixedColumnCount.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetMeasures.getFixedHeight">
+          <param name="Local" value="Classes/TabSheet/TabSheetMeasures/TabSheetMeasures.getFixedHeight.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetMeasures.getFixedRowCount">
+          <param name="Local" value="Classes/TabSheet/TabSheetMeasures/TabSheetMeasures.getFixedRowCount.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetMeasures.getFixedWidth">
+          <param name="Local" value="Classes/TabSheet/TabSheetMeasures/TabSheetMeasures.getFixedWidth.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetMeasures.getLastColFullyVisible">
+          <param name="Local" value="Classes/TabSheet/TabSheetMeasures/TabSheetMeasures.getLastColFullyVisible.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetMeasures.getLastColIndex">
+          <param name="Local" value="Classes/TabSheet/TabSheetMeasures/TabSheetMeasures.getLastColIndex.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetMeasures.getLastColumnToScroll">
+          <param name="Local" value="Classes/TabSheet/TabSheetMeasures/TabSheetMeasures.getLastColumnToScroll.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetMeasures.getLastEntirelyVisibleColIndex">
+          <param name="Local" value="Classes/TabSheet/TabSheetMeasures/TabSheetMeasures.getLastEntirelyVisibleColIndex.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetMeasures.getLastEntirelyVisibleRowIndex">
+          <param name="Local" value="Classes/TabSheet/TabSheetMeasures/TabSheetMeasures.getLastEntirelyVisibleRowIndex.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetMeasures.getLastNonHiddenColIndex">
+          <param name="Local" value="Classes/TabSheet/TabSheetMeasures/TabSheetMeasures.getLastNonHiddenColIndex.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetMeasures.getLastNonHiddenRowIndex">
+          <param name="Local" value="Classes/TabSheet/TabSheetMeasures/TabSheetMeasures.getLastNonHiddenRowIndex.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetMeasures.getLastRowFullyVisible">
+          <param name="Local" value="Classes/TabSheet/TabSheetMeasures/TabSheetMeasures.getLastRowFullyVisible.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetMeasures.getLastRowIndex">
+          <param name="Local" value="Classes/TabSheet/TabSheetMeasures/TabSheetMeasures.getLastRowIndex.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetMeasures.getLastRowToScroll">
+          <param name="Local" value="Classes/TabSheet/TabSheetMeasures/TabSheetMeasures.getLastRowToScroll.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetMeasures.getLastVisibleColIndex">
+          <param name="Local" value="Classes/TabSheet/TabSheetMeasures/TabSheetMeasures.getLastVisibleColIndex.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetMeasures.getLastVisibleRowIndex">
+          <param name="Local" value="Classes/TabSheet/TabSheetMeasures/TabSheetMeasures.getLastVisibleRowIndex.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetMeasures.getNextBottomCoord">
+          <param name="Local" value="Classes/TabSheet/TabSheetMeasures/TabSheetMeasures.getNextBottomCoord.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetMeasures.getNextLeftCoord">
+          <param name="Local" value="Classes/TabSheet/TabSheetMeasures/TabSheetMeasures.getNextLeftCoord.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetMeasures.getNextNonHiddenColumn">
+          <param name="Local" value="Classes/TabSheet/TabSheetMeasures/TabSheetMeasures.getNextNonHiddenColumn.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetMeasures.getNextNonHiddenRow">
+          <param name="Local" value="Classes/TabSheet/TabSheetMeasures/TabSheetMeasures.getNextNonHiddenRow.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetMeasures.getNextRightCoord">
+          <param name="Local" value="Classes/TabSheet/TabSheetMeasures/TabSheetMeasures.getNextRightCoord.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetMeasures.getNextTopCoord">
+          <param name="Local" value="Classes/TabSheet/TabSheetMeasures/TabSheetMeasures.getNextTopCoord.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetMeasures.getPreviousNonHiddenColumn">
+          <param name="Local" value="Classes/TabSheet/TabSheetMeasures/TabSheetMeasures.getPreviousNonHiddenColumn.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetMeasures.getPreviousNonHiddenRow">
+          <param name="Local" value="Classes/TabSheet/TabSheetMeasures/TabSheetMeasures.getPreviousNonHiddenRow.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetMeasures.getRealCoordSize">
+          <param name="Local" value="Classes/TabSheet/TabSheetMeasures/TabSheetMeasures.getRealCoordSize.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetMeasures.getRowIndexByPos">
+          <param name="Local" value="Classes/TabSheet/TabSheetMeasures/TabSheetMeasures.getRowIndexByPos.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetMeasures.getRowPosByIndex">
+          <param name="Local" value="Classes/TabSheet/TabSheetMeasures/TabSheetMeasures.getRowPosByIndex.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetMeasures.getScrollableColIndexes">
+          <param name="Local" value="Classes/TabSheet/TabSheetMeasures/TabSheetMeasures.getScrollableColIndexes.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetMeasures.getScrollableRowIndexes">
+          <param name="Local" value="Classes/TabSheet/TabSheetMeasures/TabSheetMeasures.getScrollableRowIndexes.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetMeasures.getTabSheet">
+          <param name="Local" value="Classes/TabSheet/TabSheetMeasures/TabSheetMeasures.getTabSheet.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetMeasures.getVirtualSize">
+          <param name="Local" value="Classes/TabSheet/TabSheetMeasures/TabSheetMeasures.getVirtualSize.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetMeasures.getVisibleColIndexes">
+          <param name="Local" value="Classes/TabSheet/TabSheetMeasures/TabSheetMeasures.getVisibleColIndexes.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetMeasures.getVisibleColumnsCount">
+          <param name="Local" value="Classes/TabSheet/TabSheetMeasures/TabSheetMeasures.getVisibleColumnsCount.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetMeasures.getVisibleDefaultCellsCount">
+          <param name="Local" value="Classes/TabSheet/TabSheetMeasures/TabSheetMeasures.getVisibleDefaultCellsCount.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetMeasures.getVisibleRowIndexes">
+          <param name="Local" value="Classes/TabSheet/TabSheetMeasures/TabSheetMeasures.getVisibleRowIndexes.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetMeasures.getVisibleRowsCount">
+          <param name="Local" value="Classes/TabSheet/TabSheetMeasures/TabSheetMeasures.getVisibleRowsCount.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetMeasures.getVisibleTableSize">
+          <param name="Local" value="Classes/TabSheet/TabSheetMeasures/TabSheetMeasures.getVisibleTableSize.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetMeasures.HeaderHeight">
+          <param name="Local" value="Classes/TabSheet/TabSheetMeasures/TabSheetMeasures.HeaderHeight.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetMeasures.insertColumn">
+          <param name="Local" value="Classes/TabSheet/TabSheetMeasures/TabSheetMeasures.insertColumn.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetMeasures.insertRow">
+          <param name="Local" value="Classes/TabSheet/TabSheetMeasures/TabSheetMeasures.insertRow.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetMeasures.invalidateCache">
+          <param name="Local" value="Classes/TabSheet/TabSheetMeasures/TabSheetMeasures.invalidateCache.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetMeasures.invalidateVisibleTableSizeCache">
+          <param name="Local" value="Classes/TabSheet/TabSheetMeasures/TabSheetMeasures.invalidateVisibleTableSizeCache.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetMeasures.isColInsideVisibleRange">
+          <param name="Local" value="Classes/TabSheet/TabSheetMeasures/TabSheetMeasures.isColInsideVisibleRange.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetMeasures.isColumnHidden">
+          <param name="Local" value="Classes/TabSheet/TabSheetMeasures/TabSheetMeasures.isColumnHidden.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetMeasures.isCoordInsideVisibleRange">
+          <param name="Local" value="Classes/TabSheet/TabSheetMeasures/TabSheetMeasures.isCoordInsideVisibleRange.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetMeasures.isLastVisibleColumnLastNonHidden">
+          <param name="Local" value="Classes/TabSheet/TabSheetMeasures/TabSheetMeasures.isLastVisibleColumnLastNonHidden.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetMeasures.isLastVisibleRowLastNonHidden">
+          <param name="Local" value="Classes/TabSheet/TabSheetMeasures/TabSheetMeasures.isLastVisibleRowLastNonHidden.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetMeasures.isRowHidden">
+          <param name="Local" value="Classes/TabSheet/TabSheetMeasures/TabSheetMeasures.isRowHidden.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetMeasures.isRowInsideVisibleRange">
+          <param name="Local" value="Classes/TabSheet/TabSheetMeasures/TabSheetMeasures.isRowInsideVisibleRange.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetMeasures.iterateColumnWidth">
+          <param name="Local" value="Classes/TabSheet/TabSheetMeasures/TabSheetMeasures.iterateColumnWidth.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetMeasures.iterateLeftOffset">
+          <param name="Local" value="Classes/TabSheet/TabSheetMeasures/TabSheetMeasures.iterateLeftOffset.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetMeasures.iterateRowHeight">
+          <param name="Local" value="Classes/TabSheet/TabSheetMeasures/TabSheetMeasures.iterateRowHeight.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetMeasures.iterateTopOffset">
+          <param name="Local" value="Classes/TabSheet/TabSheetMeasures/TabSheetMeasures.iterateTopOffset.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetMeasures.MaxColumn">
+          <param name="Local" value="Classes/TabSheet/TabSheetMeasures/TabSheetMeasures.MaxColumn.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetMeasures.MaxRow">
+          <param name="Local" value="Classes/TabSheet/TabSheetMeasures/TabSheetMeasures.MaxRow.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetMeasures.removeHiddenColumn">
+          <param name="Local" value="Classes/TabSheet/TabSheetMeasures/TabSheetMeasures.removeHiddenColumn.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetMeasures.removeHiddenRow">
+          <param name="Local" value="Classes/TabSheet/TabSheetMeasures/TabSheetMeasures.removeHiddenRow.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetMeasures.RowHeaderWidth">
+          <param name="Local" value="Classes/TabSheet/TabSheetMeasures/TabSheetMeasures.RowHeaderWidth.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetMeasures.RowHeight">
+          <param name="Local" value="Classes/TabSheet/TabSheetMeasures/TabSheetMeasures.RowHeight.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetMeasures.RowResizeEnabled">
+          <param name="Local" value="Classes/TabSheet/TabSheetMeasures/TabSheetMeasures.RowResizeEnabled.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetMeasures.setColumnsWidth">
+          <param name="Local" value="Classes/TabSheet/TabSheetMeasures/TabSheetMeasures.setColumnsWidth.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetMeasures.setFixedColumn">
+          <param name="Local" value="Classes/TabSheet/TabSheetMeasures/TabSheetMeasures.setFixedColumn.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetMeasures.setFixedRow">
+          <param name="Local" value="Classes/TabSheet/TabSheetMeasures/TabSheetMeasures.setFixedRow.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetMeasures.setRowsHeight">
+          <param name="Local" value="Classes/TabSheet/TabSheetMeasures/TabSheetMeasures.setRowsHeight.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetMeasures.updateData">
+          <param name="Local" value="Classes/TabSheet/TabSheetMeasures/TabSheetMeasures.updateData.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetMeasures.VisibleColHeaders">
+          <param name="Local" value="Classes/TabSheet/TabSheetMeasures/TabSheetMeasures.VisibleColHeaders.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetMeasures.VisibleGrid">
+          <param name="Local" value="Classes/TabSheet/TabSheetMeasures/TabSheetMeasures.VisibleGrid.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetMeasures.VisibleRowHeaders">
+          <param name="Local" value="Classes/TabSheet/TabSheetMeasures/TabSheetMeasures.VisibleRowHeaders.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Конструктор TabSheetMeasures">
+          <param name="Local" value="Classes/TabSheet/TabSheetMeasures/Constructor_TabSheetMeasures.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="TabSheetModel">
+        <param name="Local" value="Classes/TabSheet/TabSheetModel/TabSheetModel.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetModel.addCellSpan">
+          <param name="Local" value="Classes/TabSheet/TabSheetModel/TabSheetModel.addCellSpan.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetModel.clearCellSpans">
+          <param name="Local" value="Classes/TabSheet/TabSheetModel/TabSheetModel.clearCellSpans.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetModel.clearExpanders">
+          <param name="Local" value="Classes/TabSheet/TabSheetModel/TabSheetModel.clearExpanders.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetModel.clearObjects">
+          <param name="Local" value="Classes/TabSheet/TabSheetModel/TabSheetModel.clearObjects.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetModel.DefaultStyle">
+          <param name="Local" value="Classes/TabSheet/TabSheetModel/TabSheetModel.DefaultStyle.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetModel.eachCellSpan">
+          <param name="Local" value="Classes/TabSheet/TabSheetModel/TabSheetModel.eachCellSpan.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetModel.eachExpander">
+          <param name="Local" value="Classes/TabSheet/TabSheetModel/TabSheetModel.eachExpander.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetModel.eachObject">
+          <param name="Local" value="Classes/TabSheet/TabSheetModel/TabSheetModel.eachObject.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetModel.eachRealCell">
+          <param name="Local" value="Classes/TabSheet/TabSheetModel/TabSheetModel.eachRealCell.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetModel.getCell">
+          <param name="Local" value="Classes/TabSheet/TabSheetModel/TabSheetModel.getCell.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetModel.getCells">
+          <param name="Local" value="Classes/TabSheet/TabSheetModel/TabSheetModel.getCells.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetModel.getCellSpans">
+          <param name="Local" value="Classes/TabSheet/TabSheetModel/TabSheetModel.getCellSpans.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetModel.getCellSpansJSON">
+          <param name="Local" value="Classes/TabSheet/TabSheetModel/TabSheetModel.getCellSpansJSON.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetModel.getColumnCells">
+          <param name="Local" value="Classes/TabSheet/TabSheetModel/TabSheetModel.getColumnCells.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetModel.getDataSource">
+          <param name="Local" value="Classes/TabSheet/TabSheetModel/TabSheetModel.getDataSource.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetModel.getExpanders">
+          <param name="Local" value="Classes/TabSheet/TabSheetModel/TabSheetModel.getExpanders.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetModel.getExpandersJSON">
+          <param name="Local" value="Classes/TabSheet/TabSheetModel/TabSheetModel.getExpandersJSON.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetModel.getMeasures">
+          <param name="Local" value="Classes/TabSheet/TabSheetModel/TabSheetModel.getMeasures.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetModel.getNextBottomCell">
+          <param name="Local" value="Classes/TabSheet/TabSheetModel/TabSheetModel.getNextBottomCell.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetModel.getNextLeftCell">
+          <param name="Local" value="Classes/TabSheet/TabSheetModel/TabSheetModel.getNextLeftCell.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetModel.getNextRightCell">
+          <param name="Local" value="Classes/TabSheet/TabSheetModel/TabSheetModel.getNextRightCell.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetModel.getNextTopCell">
+          <param name="Local" value="Classes/TabSheet/TabSheetModel/TabSheetModel.getNextTopCell.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetModel.getObjects">
+          <param name="Local" value="Classes/TabSheet/TabSheetModel/TabSheetModel.getObjects.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetModel.getObjectsJSON">
+          <param name="Local" value="Classes/TabSheet/TabSheetModel/TabSheetModel.getObjectsJSON.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetModel.getRowCells">
+          <param name="Local" value="Classes/TabSheet/TabSheetModel/TabSheetModel.getRowCells.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetModel.getStyleByIndex">
+          <param name="Local" value="Classes/TabSheet/TabSheetModel/TabSheetModel.getStyleByIndex.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetModel.getStylesJSON">
+          <param name="Local" value="Classes/TabSheet/TabSheetModel/TabSheetModel.getStylesJSON.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetModel.getTabImagesJSON">
+          <param name="Local" value="Classes/TabSheet/TabSheetModel/TabSheetModel.getTabImagesJSON.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetModel.getTabObjectPictures">
+          <param name="Local" value="Classes/TabSheet/TabSheetModel/TabSheetModel.getTabObjectPictures.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetModel.getTabSheet">
+          <param name="Local" value="Classes/TabSheet/TabSheetModel/TabSheetModel.getTabSheet.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetModel.isCoordLoaded">
+          <param name="Local" value="Classes/TabSheet/TabSheetModel/TabSheetModel.isCoordLoaded.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetModel.isSelectableCoord">
+          <param name="Local" value="Classes/TabSheet/TabSheetModel/TabSheetModel.isSelectableCoord.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetModel.loadRanges">
+          <param name="Local" value="Classes/TabSheet/TabSheetModel/TabSheetModel.loadRanges.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetModel.parseSpans">
+          <param name="Local" value="Classes/TabSheet/TabSheetModel/TabSheetModel.parseSpans.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetModel.removeCellSpan">
+          <param name="Local" value="Classes/TabSheet/TabSheetModel/TabSheetModel.removeCellSpan.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetModel.setStyle">
+          <param name="Local" value="Classes/TabSheet/TabSheetModel/TabSheetModel.setStyle.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Конструктор TabSheetModel">
+          <param name="Local" value="Classes/TabSheet/TabSheetModel/Constructor_TabSheetModel.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="TabSheetObject">
+        <param name="Local" value="Classes/TabSheet/TabSheetObject/TabSheetObject.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetObject.ClassName">
+          <param name="Local" value="Classes/TabSheet/TabSheetObject/TabSheetObject.ClassName.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetObject.getContainer">
+          <param name="Local" value="Classes/TabSheet/TabSheetObject/TabSheetObject.getContainer.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetObject.getCoord">
+          <param name="Local" value="Classes/TabSheet/TabSheetObject/TabSheetObject.getCoord.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetObject.getITabObject">
+          <param name="Local" value="Classes/TabSheet/TabSheetObject/TabSheetObject.getITabObject.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetObject.getObject">
+          <param name="Local" value="Classes/TabSheet/TabSheetObject/TabSheetObject.getObject.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetObject.getRange">
+          <param name="Local" value="Classes/TabSheet/TabSheetObject/TabSheetObject.getRange.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetObject.getSizeCoord">
+          <param name="Local" value="Classes/TabSheet/TabSheetObject/TabSheetObject.getSizeCoord.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetObject.getTabSheet">
+          <param name="Local" value="Classes/TabSheet/TabSheetObject/TabSheetObject.getTabSheet.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetObject.getVisibleSize">
+          <param name="Local" value="Classes/TabSheet/TabSheetObject/TabSheetObject.getVisibleSize.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetObject.Ident">
+          <param name="Local" value="Classes/TabSheet/TabSheetObject/TabSheetObject.Ident.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetObject.isHorizontallyFixedLineCrossed">
+          <param name="Local" value="Classes/TabSheet/TabSheetObject/TabSheetObject.isHorizontallyFixedLineCrossed.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetObject.isUnderCoordAndMouse">
+          <param name="Local" value="Classes/TabSheet/TabSheetObject/TabSheetObject.isUnderCoordAndMouse.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetObject.isVerticallyFixedLineCrossed">
+          <param name="Local" value="Classes/TabSheet/TabSheetObject/TabSheetObject.isVerticallyFixedLineCrossed.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetObject.LeftColumn">
+          <param name="Local" value="Classes/TabSheet/TabSheetObject/TabSheetObject.LeftColumn.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetObject.MinHeight">
+          <param name="Local" value="Classes/TabSheet/TabSheetObject/TabSheetObject.MinHeight.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetObject.MinWidth">
+          <param name="Local" value="Classes/TabSheet/TabSheetObject/TabSheetObject.MinWidth.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetObject.MovementMode">
+          <param name="Local" value="Classes/TabSheet/TabSheetObject/TabSheetObject.MovementMode.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetObject.remove">
+          <param name="Local" value="Classes/TabSheet/TabSheetObject/TabSheetObject.remove.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetObject.setLeftOffset">
+          <param name="Local" value="Classes/TabSheet/TabSheetObject/TabSheetObject.setLeftOffset.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetObject.setTopOffset">
+          <param name="Local" value="Classes/TabSheet/TabSheetObject/TabSheetObject.setTopOffset.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetObject.setUrl">
+          <param name="Local" value="Classes/TabSheet/TabSheetObject/TabSheetObject.setUrl.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetObject.TabSheet">
+          <param name="Local" value="Classes/TabSheet/TabSheetObject/TabSheetObject.TabSheet.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetObject.toJSON">
+          <param name="Local" value="Classes/TabSheet/TabSheetObject/TabSheetObject.toJSON.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetObject.TopLeftCoord">
+          <param name="Local" value="Classes/TabSheet/TabSheetObject/TabSheetObject.TopLeftCoord.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetObject.TopRow">
+          <param name="Local" value="Classes/TabSheet/TabSheetObject/TabSheetObject.TopRow.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetObject.Url">
+          <param name="Local" value="Classes/TabSheet/TabSheetObject/TabSheetObject.Url.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Конструктор TabSheetObject">
+          <param name="Local" value="Classes/TabSheet/TabSheetObject/Constructor_TabSheetObject.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="TabSheetObjectChange">
+        <param name="Local" value="Classes/TabSheet/TabSheetObjectChange/TabSheetObjectChange.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Конструктор TabSheetObjectChange">
+          <param name="Local" value="Classes/TabSheet/TabSheetObjectChange/Constructor_TabSheetObjectChange.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="TabSheetObjectSelection">
+        <param name="Local" value="Classes/TabSheet/TabSheetObjectSelection/TabSheetObjectSelection.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetObjectSelection.clear">
+          <param name="Local" value="Classes/TabSheet/TabSheetObjectSelection/TabSheetObjectSelection.clear.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetObjectSelection.getActiveObject">
+          <param name="Local" value="Classes/TabSheet/TabSheetObjectSelection/TabSheetObjectSelection.getActiveObject.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetObjectSelection.getSelectedObjects">
+          <param name="Local" value="Classes/TabSheet/TabSheetObjectSelection/TabSheetObjectSelection.getSelectedObjects.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetObjectSelection.getTabSheet">
+          <param name="Local" value="Classes/TabSheet/TabSheetObjectSelection/TabSheetObjectSelection.getTabSheet.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetObjectSelection.initEvents">
+          <param name="Local" value="Classes/TabSheet/TabSheetObjectSelection/TabSheetObjectSelection.initEvents.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetObjectSelection.reset">
+          <param name="Local" value="Classes/TabSheet/TabSheetObjectSelection/TabSheetObjectSelection.reset.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetObjectSelection.select">
+          <param name="Local" value="Classes/TabSheet/TabSheetObjectSelection/TabSheetObjectSelection.select.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetObjectSelection.update">
+          <param name="Local" value="Classes/TabSheet/TabSheetObjectSelection/TabSheetObjectSelection.update.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Конструктор TabSheetObjectSelection">
+          <param name="Local" value="Classes/TabSheet/TabSheetObjectSelection/Constructor_TabSheetObjectSelection.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="TabSheetRange">
+        <param name="Local" value="Classes/TabSheet/TabSheetRange/TabSheetRange.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetRange.add">
+          <param name="Local" value="Classes/TabSheet/TabSheetRange/TabSheetRange.add.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetRange.addExpander">
+          <param name="Local" value="Classes/TabSheet/TabSheetRange/TabSheetRange.addExpander.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetRange.autoExpand">
+          <param name="Local" value="Classes/TabSheet/TabSheetRange/TabSheetRange.autoExpand.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetRange.bottomExpand">
+          <param name="Local" value="Classes/TabSheet/TabSheetRange/TabSheetRange.bottomExpand.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetRange.contains">
+          <param name="Local" value="Classes/TabSheet/TabSheetRange/TabSheetRange.contains.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetRange.eachCell">
+          <param name="Local" value="Classes/TabSheet/TabSheetRange/TabSheetRange.eachCell.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetRange.eachColIndex">
+          <param name="Local" value="Classes/TabSheet/TabSheetRange/TabSheetRange.eachColIndex.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetRange.eachCoord">
+          <param name="Local" value="Classes/TabSheet/TabSheetRange/TabSheetRange.eachCoord.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetRange.eachRealCell">
+          <param name="Local" value="Classes/TabSheet/TabSheetRange/TabSheetRange.eachRealCell.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetRange.eachRowIndex">
+          <param name="Local" value="Classes/TabSheet/TabSheetRange/TabSheetRange.eachRowIndex.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetRange.eachVisibleCoord">
+          <param name="Local" value="Classes/TabSheet/TabSheetRange/TabSheetRange.eachVisibleCoord.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetRange.eachVisibleRealCell">
+          <param name="Local" value="Classes/TabSheet/TabSheetRange/TabSheetRange.eachVisibleRealCell.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetRange.ensureVisibility">
+          <param name="Local" value="Classes/TabSheet/TabSheetRange/TabSheetRange.ensureVisibility.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetRange.equals">
+          <param name="Local" value="Classes/TabSheet/TabSheetRange/TabSheetRange.equals.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetRange.getCells">
+          <param name="Local" value="Classes/TabSheet/TabSheetRange/TabSheetRange.getCells.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetRange.getCoordsCount">
+          <param name="Local" value="Classes/TabSheet/TabSheetRange/TabSheetRange.getCoordsCount.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetRange.getCorners">
+          <param name="Local" value="Classes/TabSheet/TabSheetRange/TabSheetRange.getCorners.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetRange.getCutRanges">
+          <param name="Local" value="Classes/TabSheet/TabSheetRange/TabSheetRange.getCutRanges.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetRange.getCutRangeSizes">
+          <param name="Local" value="Classes/TabSheet/TabSheetRange/TabSheetRange.getCutRangeSizes.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetRange.getCutStatus">
+          <param name="Local" value="Classes/TabSheet/TabSheetRange/TabSheetRange.getCutStatus.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetRange.getInnerSizeInPX">
+          <param name="Local" value="Classes/TabSheet/TabSheetRange/TabSheetRange.getInnerSizeInPX.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetRange.getInnerSpans">
+          <param name="Local" value="Classes/TabSheet/TabSheetRange/TabSheetRange.getInnerSpans.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetRange.getInnerVirtualSizeInPX">
+          <param name="Local" value="Classes/TabSheet/TabSheetRange/TabSheetRange.getInnerVirtualSizeInPX.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetRange.getIntersectionWith">
+          <param name="Local" value="Classes/TabSheet/TabSheetRange/TabSheetRange.getIntersectionWith.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetRange.getRangeInfo">
+          <param name="Local" value="Classes/TabSheet/TabSheetRange/TabSheetRange.getRangeInfo.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetRange.getSizeInCells">
+          <param name="Local" value="Classes/TabSheet/TabSheetRange/TabSheetRange.getSizeInCells.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetRange.getSizeInVirtualCells">
+          <param name="Local" value="Classes/TabSheet/TabSheetRange/TabSheetRange.getSizeInVirtualCells.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetRange.getTabSheet">
+          <param name="Local" value="Classes/TabSheet/TabSheetRange/TabSheetRange.getTabSheet.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetRange.getVisibleRange">
+          <param name="Local" value="Classes/TabSheet/TabSheetRange/TabSheetRange.getVisibleRange.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetRange.horizontalExpand">
+          <param name="Local" value="Classes/TabSheet/TabSheetRange/TabSheetRange.horizontalExpand.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetRange.intersects">
+          <param name="Local" value="Classes/TabSheet/TabSheetRange/TabSheetRange.intersects.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetRange.isAllColumnsHidden">
+          <param name="Local" value="Classes/TabSheet/TabSheetRange/TabSheetRange.isAllColumnsHidden.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetRange.isAllRowsHidden">
+          <param name="Local" value="Classes/TabSheet/TabSheetRange/TabSheetRange.isAllRowsHidden.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetRange.isColumnBelong">
+          <param name="Local" value="Classes/TabSheet/TabSheetRange/TabSheetRange.isColumnBelong.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetRange.isCoordBelong">
+          <param name="Local" value="Classes/TabSheet/TabSheetRange/TabSheetRange.isCoordBelong.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetRange.isCuttedRange">
+          <param name="Local" value="Classes/TabSheet/TabSheetRange/TabSheetRange.isCuttedRange.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetRange.isRowBelong">
+          <param name="Local" value="Classes/TabSheet/TabSheetRange/TabSheetRange.isRowBelong.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetRange.isValid">
+          <param name="Local" value="Classes/TabSheet/TabSheetRange/TabSheetRange.isValid.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetRange.isVisible">
+          <param name="Local" value="Classes/TabSheet/TabSheetRange/TabSheetRange.isVisible.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetRange.isWholeHidden">
+          <param name="Local" value="Classes/TabSheet/TabSheetRange/TabSheetRange.isWholeHidden.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetRange.leftExpand">
+          <param name="Local" value="Classes/TabSheet/TabSheetRange/TabSheetRange.leftExpand.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetRange.merge">
+          <param name="Local" value="Classes/TabSheet/TabSheetRange/TabSheetRange.merge.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetRange.removeExpanders">
+          <param name="Local" value="Classes/TabSheet/TabSheetRange/TabSheetRange.removeExpanders.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetRange.reset">
+          <param name="Local" value="Classes/TabSheet/TabSheetRange/TabSheetRange.reset.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetRange.rightExpand">
+          <param name="Local" value="Classes/TabSheet/TabSheetRange/TabSheetRange.rightExpand.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetRange.select">
+          <param name="Local" value="Classes/TabSheet/TabSheetRange/TabSheetRange.select.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetRange.setComment">
+          <param name="Local" value="Classes/TabSheet/TabSheetRange/TabSheetRange.setComment.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetRange.setEnabled">
+          <param name="Local" value="Classes/TabSheet/TabSheetRange/TabSheetRange.setEnabled.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetRange.setHint">
+          <param name="Local" value="Classes/TabSheet/TabSheetRange/TabSheetRange.setHint.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetRange.shift">
+          <param name="Local" value="Classes/TabSheet/TabSheetRange/TabSheetRange.shift.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetRange.split">
+          <param name="Local" value="Classes/TabSheet/TabSheetRange/TabSheetRange.split.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetRange.Style">
+          <param name="Local" value="Classes/TabSheet/TabSheetRange/TabSheetRange.Style.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetRange.subtract">
+          <param name="Local" value="Classes/TabSheet/TabSheetRange/TabSheetRange.subtract.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetRange.toJSON">
+          <param name="Local" value="Classes/TabSheet/TabSheetRange/TabSheetRange.toJSON.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetRange.topExpand">
+          <param name="Local" value="Classes/TabSheet/TabSheetRange/TabSheetRange.topExpand.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetRange.toPlainText">
+          <param name="Local" value="Classes/TabSheet/TabSheetRange/TabSheetRange.toPlainText.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetRange.verticalExpand">
+          <param name="Local" value="Classes/TabSheet/TabSheetRange/TabSheetRange.verticalExpand.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Конструктор TabSheetRange">
+          <param name="Local" value="Classes/TabSheet/TabSheetRange/Constructor_TabSheetRange.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="TabSheetTableFilterPanel">
+        <param name="Local" value="Classes/TabSheet/TabSheetTableFilterPanel/TabSheetTableFilterPanel.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetTableFilterPanel.getTableFilterPanel">
+          <param name="Local" value="Classes/TabSheet/TabSheetTableFilterPanel/TabSheetTableFilterPanel.getTableFilterPanel.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetTableFilterPanel.getLevelFilterPanel">
+          <param name="Local" value="Classes/TabSheet/TabSheetTableFilterPanel/TabSheetTableFilterPanel.getLevelFilterPanel.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Конструктор TabSheetTableFilterPanel">
+          <param name="Local" value="Classes/TabSheet/TabSheetTableFilterPanel/Constructor_TabSheetTableFilterPanel.htm">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="TabSheetSelection">
+        <param name="Local" value="Classes/TabSheet/TabSheetSelection/TabSheetSelection.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetSelection.addRange">
+          <param name="Local" value="Classes/TabSheet/TabSheetSelection/TabSheetSelection.addRange.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetSelection.clear">
+          <param name="Local" value="Classes/TabSheet/TabSheetSelection/TabSheetSelection.clear.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetSelection.eachSelectedArea">
+          <param name="Local" value="Classes/TabSheet/TabSheetSelection/TabSheetSelection.eachSelectedArea.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetSelection.eachSelectedRange">
+          <param name="Local" value="Classes/TabSheet/TabSheetSelection/TabSheetSelection.eachSelectedRange.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetSelection.ensureExistence">
+          <param name="Local" value="Classes/TabSheet/TabSheetSelection/TabSheetSelection.ensureExistence.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetSelection.ensureSelectionValid">
+          <param name="Local" value="Classes/TabSheet/TabSheetSelection/TabSheetSelection.ensureSelectionValid.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetSelection.getIsCellActivated">
+          <param name="Local" value="Classes/TabSheet/TabSheetSelection/TabSheetSelection.getIsCellActivated.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetSelection.getRange">
+          <param name="Local" value="Classes/TabSheet/TabSheetSelection/TabSheetSelection.getRange.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetSelection.getSelectedAreas">
+          <param name="Local" value="Classes/TabSheet/TabSheetSelection/TabSheetSelection.getSelectedAreas.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetSelection.getSelectedRanges">
+          <param name="Local" value="Classes/TabSheet/TabSheetSelection/TabSheetSelection.getSelectedRanges.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetSelection.getSelectionType">
+          <param name="Local" value="Classes/TabSheet/TabSheetSelection/TabSheetSelection.getSelectionType.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetSelection.getStartCoord">
+          <param name="Local" value="Classes/TabSheet/TabSheetSelection/TabSheetSelection.getStartCoord.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetSelection.getTabSheet">
+          <param name="Local" value="Classes/TabSheet/TabSheetSelection/TabSheetSelection.getTabSheet.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetSelection.removeArea">
+          <param name="Local" value="Classes/TabSheet/TabSheetSelection/TabSheetSelection.removeArea.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetSelection.reset">
+          <param name="Local" value="Classes/TabSheet/TabSheetSelection/TabSheetSelection.reset.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetSelection.select">
+          <param name="Local" value="Classes/TabSheet/TabSheetSelection/TabSheetSelection.select.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetSelection.selectAll">
+          <param name="Local" value="Classes/TabSheet/TabSheetSelection/TabSheetSelection.selectAll.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Конструктор TabSheetSelection">
+          <param name="Local" value="Classes/TabSheet/TabSheetSelection/Constructor_TabSheetSelection.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Интерфейсы">
+      <param name="Local" value="Classes/TabSheet.htm#interfaces642b3b9347ca42c9b00b820c00c373fa=2">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="TabSheetSettings">
+        <param name="Local" value="Interfaces/TabSheetSettings/TabSheetSettings.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetSettings.AdditionalExpanderOffset">
+          <param name="Local" value="Interfaces/TabSheetSettings/TabSheetSettings.AdditionalExpanderOffset.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetSettings.BackgroundCSS">
+          <param name="Local" value="Interfaces/TabSheetSettings/TabSheetSettings.BackgroundCSS.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetSettings.CacheEnabled">
+          <param name="Local" value="Interfaces/TabSheetSettings/TabSheetSettings.CacheEnabled.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetSettings.CacheSize">
+          <param name="Local" value="Interfaces/TabSheetSettings/TabSheetSettings.CacheSize.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetSettings.CellAnimationColor">
+          <param name="Local" value="Interfaces/TabSheetSettings/TabSheetSettings.CellAnimationColor.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetSettings.CellAnimationDuration">
+          <param name="Local" value="Interfaces/TabSheetSettings/TabSheetSettings.CellAnimationDuration.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetSettings.CellValue">
+          <param name="Local" value="Interfaces/TabSheetSettings/TabSheetSettings.CellValue.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetSettings.ChangedStyle">
+          <param name="Local" value="Interfaces/TabSheetSettings/TabSheetSettings.ChangedStyle.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetSettings.ChangedStyleBehavior">
+          <param name="Local" value="Interfaces/TabSheetSettings/TabSheetSettings.ChangedStyleBehavior.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetSettings.ColumnWidth">
+          <param name="Local" value="Interfaces/TabSheetSettings/TabSheetSettings.ColumnWidth.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetSettings.CopyToExcelFormat">
+          <param name="Local" value="Interfaces/TabSheetSettings/TabSheetSettings.CopyToExcelFormat.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetSettings.DisplayAccessRights">
+          <param name="Local" value="Interfaces/TabSheetSettings/TabSheetSettings.DisplayAccessRights.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetSettings.DisplayFixedAreaLines">
+          <param name="Local" value="Interfaces/TabSheetSettings/TabSheetSettings.DisplayFixedAreaLines.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetSettings.DynamicExpansion">
+          <param name="Local" value="Interfaces/TabSheetSettings/TabSheetSettings.DynamicExpansion.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetSettings.EmulateExpanderAction">
+          <param name="Local" value="Interfaces/TabSheetSettings/TabSheetSettings.EmulateExpanderAction.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetSettings.EnableCopyPaste">
+          <param name="Local" value="Interfaces/TabSheetSettings/TabSheetSettings.EnableCopyPaste.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetSettings.EnableDeleteTable">
+          <param name="Local" value="Interfaces/TabSheetSettings/TabSheetSettings.EnableDeleteTable.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetSettings.EnableMoveObjects">
+          <param name="Local" value="Interfaces/TabSheetSettings/TabSheetSettings.EnableMoveObjects.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetSettings.EnableNativeContextMenu">
+          <param name="Local" value="Interfaces/TabSheetSettings/TabSheetSettings.EnableNativeContextMenu.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetSettings.EnableSelection">
+          <param name="Local" value="Interfaces/TabSheetSettings/TabSheetSettings.EnableSelection.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetSettings.FilterRange">
+          <param name="Local" value="Interfaces/TabSheetSettings/TabSheetSettings.FilterRange.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetSettings.FirstVisibleColumn">
+          <param name="Local" value="Interfaces/TabSheetSettings/TabSheetSettings.FirstVisibleColumn.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetSettings.FirstVisibleRow">
+          <param name="Local" value="Interfaces/TabSheetSettings/TabSheetSettings.FirstVisibleRow.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetSettings.FixedAreaResizeEnabled">
+          <param name="Local" value="Interfaces/TabSheetSettings/TabSheetSettings.FixedAreaResizeEnabled.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetSettings.FixedBehaviour">
+          <param name="Local" value="Interfaces/TabSheetSettings/TabSheetSettings.FixedBehaviour.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetSettings.FixedColumn">
+          <param name="Local" value="Interfaces/TabSheetSettings/TabSheetSettings.FixedColumn.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetSettings.FixedHeaders">
+          <param name="Local" value="Interfaces/TabSheetSettings/TabSheetSettings.FixedHeaders.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetSettings.FixedLineColor">
+          <param name="Local" value="Interfaces/TabSheetSettings/TabSheetSettings.FixedLineColor.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetSettings.FixedRow">
+          <param name="Local" value="Interfaces/TabSheetSettings/TabSheetSettings.FixedRow.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetSettings.HeadersHighlightingStyle">
+          <param name="Local" value="Interfaces/TabSheetSettings/TabSheetSettings.HeadersHighlightingStyle.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetSettings.HorizontalExpandVolume">
+          <param name="Local" value="Interfaces/TabSheetSettings/TabSheetSettings.HorizontalExpandVolume.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetSettings.IsEditable">
+          <param name="Local" value="Interfaces/TabSheetSettings/TabSheetSettings.IsEditable.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetSettings.IsScrollBarPartial">
+          <param name="Local" value="Interfaces/TabSheetSettings/TabSheetSettings.IsScrollBarPartial.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetSettings.MouseWheelScrollStep">
+          <param name="Local" value="Interfaces/TabSheetSettings/TabSheetSettings.MouseWheelScrollStep.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetSettings.MultiCellSelectionEnable">
+          <param name="Local" value="Interfaces/TabSheetSettings/TabSheetSettings.MultiCellSelectionEnable.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetSettings.PasteMode">
+          <param name="Local" value="Interfaces/TabSheetSettings/TabSheetSettings.PasteMode.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetSettings.PTFontSize">
+          <param name="Local" value="Interfaces/TabSheetSettings/TabSheetSettings.PTFontSize.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetSettings.ReturnSelectionAfterFocus">
+          <param name="Local" value="Interfaces/TabSheetSettings/TabSheetSettings.ReturnSelectionAfterFocus.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetSettings.RowHeight">
+          <param name="Local" value="Interfaces/TabSheetSettings/TabSheetSettings.RowHeight.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetSettings.SearchResultStyle">
+          <param name="Local" value="Interfaces/TabSheetSettings/TabSheetSettings.SearchResultStyle.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetSettings.SelectedCellStyle">
+          <param name="Local" value="Interfaces/TabSheetSettings/TabSheetSettings.SelectedCellStyle.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetSettings.SelectionBorderColor">
+          <param name="Local" value="Interfaces/TabSheetSettings/TabSheetSettings.SelectionBorderColor.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetSettings.SelectionColor">
+          <param name="Local" value="Interfaces/TabSheetSettings/TabSheetSettings.SelectionColor.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetSettings.SelectionControl">
+          <param name="Local" value="Interfaces/TabSheetSettings/TabSheetSettings.SelectionControl.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetSettings.ShowHorizontalFixedShadow">
+          <param name="Local" value="Interfaces/TabSheetSettings/TabSheetSettings.ShowHorizontalFixedShadow.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetSettings.ShowVerticalFixedShadow">
+          <param name="Local" value="Interfaces/TabSheetSettings/TabSheetSettings.ShowVerticalFixedShadow.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetSettings.SmoothScrolling">
+          <param name="Local" value="Interfaces/TabSheetSettings/TabSheetSettings.SmoothScrolling.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetSettings.SyncLoadClipboardData">
+          <param name="Local" value="Interfaces/TabSheetSettings/TabSheetSettings.SyncLoadClipboardData.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetSettings.UndoLength">
+          <param name="Local" value="Interfaces/TabSheetSettings/TabSheetSettings.UndoLength.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetSettings.UndoRedoEnable">
+          <param name="Local" value="Interfaces/TabSheetSettings/TabSheetSettings.UndoRedoEnable.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetSettings.UseNumberFormats">
+          <param name="Local" value="Interfaces/TabSheetSettings/TabSheetSettings.UseNumberFormats.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetSettings.VerticalExpandVolume">
+          <param name="Local" value="Interfaces/TabSheetSettings/TabSheetSettings.VerticalExpandVolume.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetSettings.VisibleColHeaders">
+          <param name="Local" value="Interfaces/TabSheetSettings/TabSheetSettings.VisibleColHeaders.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetSettings.VisibleGrid">
+          <param name="Local" value="Interfaces/TabSheetSettings/TabSheetSettings.VisibleGrid.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetSettings.VisibleHeaders">
+          <param name="Local" value="Interfaces/TabSheetSettings/TabSheetSettings.VisibleHeaders.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetSettings.VisibleNormalPictures">
+          <param name="Local" value="Interfaces/TabSheetSettings/TabSheetSettings.VisibleNormalPictures.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetSettings.VisibleRowHeaders">
+          <param name="Local" value="Interfaces/TabSheetSettings/TabSheetSettings.VisibleRowHeaders.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetSettings.VisibleSelectionResizer">
+          <param name="Local" value="Interfaces/TabSheetSettings/TabSheetSettings.VisibleSelectionResizer.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabSheetSettings.Zoom">
+          <param name="Local" value="Interfaces/TabSheetSettings/TabSheetSettings.Zoom.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Перечисления">
+      <param name="Local" value="Classes/TabSheet.htm#enum642b3b9347ca42c9b00b820c00c373fa=3">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="PasteMode">
+        <param name="Local" value="Enums/PasteMode.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="PP.Ui.SparklineViewMode">
+        <param name="Local" value="Enums/PP.Ui.SparklineViewMode.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="PP.Ui.TabSheetSelection.Type">
+        <param name="Local" value="Enums/PP.Ui.TabSheetSelection.Type.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="TabFixedBehaviour">
+        <param name="Local" value="Enums/TabFixedBehaviour.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="TabRangeFillType">
+        <param name="Local" value="Enums/TabRangeFillType.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="TabSearchDirection">
+        <param name="Local" value="Enums/TabSearchDirection.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="TabSearchTarget">
+        <param name="Local" value="Enums/TabSearchTarget.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="TabSheetAccessRights">
+        <param name="Local" value="Enums/TabSheetAccessRights.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="TabSheetCellBorderIndex">
+        <param name="Local" value="Enums/TabSheetCellBorderIndex.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="TabSheetCellBorderLineStyle">
+        <param name="Local" value="Enums/TabSheetCellBorderLineStyle.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="TabSheetCellBorderWeight">
+        <param name="Local" value="Enums/TabSheetCellBorderWeight.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="TabSheetCellValueType">
+        <param name="Local" value="Enums/TabSheetCellValueType.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="TabSheetEditMode">
+        <param name="Local" value="Enums/TabSheetEditMode.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="TabSheetHyperLinkShowType">
+        <param name="Local" value="Enums/TabSheetHyperLinkShowType.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="TabSheetMetaChangeType">
+        <param name="Local" value="Enums/TabSheetMetaChangeType.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="TabSheetObjectType">
+        <param name="Local" value="Enums/TabSheetObjectType.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="TabSheetSelectionAreaType">
+        <param name="Local" value="Enums/TabSheetSelectionAreaType.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      </ul>
+    </ul>
+</ul>
+</html>

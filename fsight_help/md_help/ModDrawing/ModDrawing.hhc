@@ -1,0 +1,3190 @@
+<html>
+<!-- Sitemap 1.0 -->
+<object type="text/site properties">
+  <param name="SiteType" value="toc">
+  <param name="Image Width" value="16">
+  <param name="Window Styles" value="0x800027">
+  <param name="ExWindow Styles" value="0x100">
+</object>
+<ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Drawing">
+    <param name="Local" value="ModDrawing_Title.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Интерфейсы сборки Drawing">
+      <param name="Local" value="Interface/ModDrawing_Interface.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IBinary">
+        <param name="Local" value="Interface/IBinary/IBinary.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IBinary.Format">
+          <param name="Local" value="Interface/IBinary/IBinary.Format.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IBinary.IsStored">
+          <param name="Local" value="Interface/IBinary/IBinary.IsStored.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IBinary.Key">
+          <param name="Local" value="Interface/IBinary/IBinary.Key.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IBinary.Name">
+          <param name="Local" value="Interface/IBinary/IBinary.Name.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IBinary.Stream">
+          <param name="Local" value="Interface/IBinary/IBinary.Stream.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IExporter">
+        <param name="Local" value="Interface/IExporter/IExporter.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IExporter.CSSClassName">
+          <param name="Local" value="Interface/IExporter/IExporter.CSSClassName.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IExporter.Encoding">
+          <param name="Local" value="Interface/IExporter/IExporter.Encoding.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IExporter.ExportFromWeb">
+          <param name="Local" value="Interface/IExporter/IExporter.ExportFromWeb.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IExporter.ExportToFile">
+          <param name="Local" value="Interface/IExporter/IExporter.ExportToFile.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IExportFormat">
+        <param name="Local" value="Interface/IExportFormat/IExportFormat.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IExportFormat.Description">
+          <param name="Local" value="Interface/IExportFormat/IExportFormat.Description.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IExportFormat.FileExtension">
+          <param name="Local" value="Interface/IExportFormat/IExportFormat.FileExtension.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IExportFormat.FilterString">
+          <param name="Local" value="Interface/IExportFormat/IExportFormat.FilterString.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IExportFormat.MimeType">
+          <param name="Local" value="Interface/IExportFormat/IExportFormat.MimeType.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IExportFormat.Tag">
+          <param name="Local" value="Interface/IExportFormat/IExportFormat.Tag.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IGxBitmap">
+        <param name="Local" value="Interface/IGxBitmap/IGxBitmap.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxBitmap.Pixel">
+          <param name="Local" value="Interface/IGxBitmap/IGxBitmap.Pixel.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxBitmap.SetResolution">
+          <param name="Local" value="Interface/IGxBitmap/IGxBitmap.SetResolution.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IGxBitmapClass">
+        <param name="Local" value="Interface/IGxBitmapClass/IGxBitmapClass.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxBitmapClass.CreateNew">
+          <param name="Local" value="Interface/IGxBitmapClass/IGxBitmapClass.CreateNew.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IGxBrush">
+        <param name="Local" value="Interface/IGxBrush/IGxBrush.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxBrush.BrushType">
+          <param name="Local" value="Interface/IGxBrush/IGxBrush.BrushType.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IGxBulkSettings">
+        <param name="Local" value="Interface/IGxBulkSettings/IGxBulkSettings.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxBulkSettings.Enabled">
+          <param name="Local" value="Interface/IGxBulkSettings/IGxBulkSettings.Enabled.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IGxColor">
+        <param name="Local" value="Interface/IGxColor/IGxColor.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxColor.A">
+          <param name="Local" value="Interface/IGxColor/IGxColor.A.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxColor.ARGB">
+          <param name="Local" value="Interface/IGxColor/IGxColor.ARGB.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxColor.B">
+          <param name="Local" value="Interface/IGxColor/IGxColor.B.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxColor.Brightness">
+          <param name="Local" value="Interface/IGxColor/IGxColor.Brightness.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxColor.G">
+          <param name="Local" value="Interface/IGxColor/IGxColor.G.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxColor.Hue">
+          <param name="Local" value="Interface/IGxColor/IGxColor.Hue.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxColor.IsKnownColor">
+          <param name="Local" value="Interface/IGxColor/IGxColor.IsKnownColor.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxColor.IsSystemColor">
+          <param name="Local" value="Interface/IGxColor/IGxColor.IsSystemColor.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxColor.IsThemeColor">
+          <param name="Local" value="Interface/IGxColor/IGxColor.IsThemeColor.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxColor.Name">
+          <param name="Local" value="Interface/IGxColor/IGxColor.Name.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxColor.OleValue">
+          <param name="Local" value="Interface/IGxColor/IGxColor.OleValue.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxColor.R">
+          <param name="Local" value="Interface/IGxColor/IGxColor.R.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxColor.Saturation">
+          <param name="Local" value="Interface/IGxColor/IGxColor.Saturation.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxColor.Value">
+          <param name="Local" value="Interface/IGxColor/IGxColor.Value.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IGxColorClass">
+        <param name="Local" value="Interface/IGxColorClass/IGxColorClass.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxColorClass.FromKnownColor">
+          <param name="Local" value="Interface/IGxColorClass/IGxColorClass.FromKnownColor.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxColorClass.FromName">
+          <param name="Local" value="Interface/IGxColorClass/IGxColorClass.FromName.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxColorClass.FromSystemColor">
+          <param name="Local" value="Interface/IGxColorClass/IGxColorClass.FromSystemColor.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxColorClass.FromThemeColor">
+          <param name="Local" value="Interface/IGxColorClass/IGxColorClass.FromThemeColor.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxColorClass.FromValue">
+          <param name="Local" value="Interface/IGxColorClass/IGxColorClass.FromValue.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IGxColorScale">
+        <param name="Local" value="Interface/IGxColorScale/IGxColorScale.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxColorScale.Color">
+          <param name="Local" value="Interface/IGxColorScale/IGxColorScale.Color.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxColorScale.EndColor">
+          <param name="Local" value="Interface/IGxColorScale/IGxColorScale.EndColor.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxColorScale.StartColor">
+          <param name="Local" value="Interface/IGxColorScale/IGxColorScale.StartColor.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IGxDeviceICMProfiles">
+        <param name="Local" value="Interface/IGxDeviceICMProfiles/IGxDeviceICMProfiles.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxDeviceICMProfiles.Count">
+          <param name="Local" value="Interface/IGxDeviceICMProfiles/IGxDeviceICMProfiles.Count.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxDeviceICMProfiles.Item">
+          <param name="Local" value="Interface/IGxDeviceICMProfiles/IGxDeviceICMProfiles.Item.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IGxDocument">
+        <param name="Local" value="Interface/IGxDocument/IGxDocument.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxDocument.BulkSettings">
+          <param name="Local" value="Interface/IGxDocument/IGxDocument.BulkSettings.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxDocument.Exporter">
+          <param name="Local" value="Interface/IGxDocument/IGxDocument.Exporter.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxDocument.GetTagText">
+          <param name="Local" value="Interface/IGxDocument/IGxDocument.GetTagText.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxDocument.Label">
+          <param name="Local" value="Interface/IGxDocument/IGxDocument.Label.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxDocument.OwnMultiCopiesPrint">
+          <param name="Local" value="Interface/IGxDocument/IGxDocument.OwnMultiCopiesPrint.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxDocument.PageCount">
+          <param name="Local" value="Interface/IGxDocument/IGxDocument.PageCount.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxDocument.PageSettings">
+          <param name="Local" value="Interface/IGxDocument/IGxDocument.PageSettings.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxDocument.Preview">
+          <param name="Local" value="Interface/IGxDocument/IGxDocument.Preview.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxDocument.Print">
+          <param name="Local" value="Interface/IGxDocument/IGxDocument.Print.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxDocument.RangeCount">
+          <param name="Local" value="Interface/IGxDocument/IGxDocument.RangeCount.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxDocument.RangeName">
+          <param name="Local" value="Interface/IGxDocument/IGxDocument.RangeName.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxDocument.SectionCount">
+          <param name="Local" value="Interface/IGxDocument/IGxDocument.SectionCount.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxDocument.SectionName">
+          <param name="Local" value="Interface/IGxDocument/IGxDocument.SectionName.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxDocument.Stamps">
+          <param name="Local" value="Interface/IGxDocument/IGxDocument.Stamps.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxDocument.Title">
+          <param name="Local" value="Interface/IGxDocument/IGxDocument.Title.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IGxDocumentLabel">
+        <param name="Local" value="Interface/IGxDocumentLabel/IGxDocumentLabel.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxDocumentLabel.Department">
+          <param name="Local" value="Interface/IGxDocumentLabel/IGxDocumentLabel.Department.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxDocumentLabel.IsOn">
+          <param name="Local" value="Interface/IGxDocumentLabel/IGxDocumentLabel.IsOn.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxDocumentLabel.Mark">
+          <param name="Local" value="Interface/IGxDocumentLabel/IGxDocumentLabel.Mark.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxDocumentLabel.Name">
+          <param name="Local" value="Interface/IGxDocumentLabel/IGxDocumentLabel.Name.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxDocumentLabel.LabelDescription">
+          <param name="Local" value="Interface/IGxDocumentLabel/IGxDocumentLabel.LabelDescription.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxDocumentLabel.Scheme">
+          <param name="Local" value="Interface/IGxDocumentLabel/IGxDocumentLabel.Scheme.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxDocumentLabel.TreatSectionAsDocument">
+          <param name="Local" value="Interface/IGxDocumentLabel/IGxDocumentLabel.TreatSectionAsDocument.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxDocumentLabel.UserId">
+          <param name="Local" value="Interface/IGxDocumentLabel/IGxDocumentLabel.UserId.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxDocumentLabel.UserName">
+          <param name="Local" value="Interface/IGxDocumentLabel/IGxDocumentLabel.UserName.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IGxDocumentPrinter">
+        <param name="Local" value="Interface/IGxDocumentPrinter/IGxDocumentPrinter.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxDocumentPrinter.Description">
+          <param name="Local" value="Interface/IGxDocumentPrinter/IGxDocumentPrinter.Description.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxDocumentPrinter.EndDocument">
+          <param name="Local" value="Interface/IGxDocumentPrinter/IGxDocumentPrinter.EndDocument.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxDocumentPrinter.Graphics">
+          <param name="Local" value="Interface/IGxDocumentPrinter/IGxDocumentPrinter.Graphics.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxDocumentPrinter.NewPage">
+          <param name="Local" value="Interface/IGxDocumentPrinter/IGxDocumentPrinter.NewPage.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxDocumentPrinter.NewSection">
+          <param name="Local" value="Interface/IGxDocumentPrinter/IGxDocumentPrinter.NewSection.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxDocumentPrinter.ResetDocument">
+          <param name="Local" value="Interface/IGxDocumentPrinter/IGxDocumentPrinter.ResetDocument.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxDocumentPrinter.SkipSection">
+          <param name="Local" value="Interface/IGxDocumentPrinter/IGxDocumentPrinter.SkipSection.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxDocumentPrinter.StartDocument">
+          <param name="Local" value="Interface/IGxDocumentPrinter/IGxDocumentPrinter.StartDocument.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IGxFlowDocument">
+        <param name="Local" value="Interface/IGxFlowDocument/IGxFlowDocument.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxFlowDocument.LoadFormattedText">
+          <param name="Local" value="Interface/IGxFlowDocument/IGxFlowDocument.LoadFormattedText.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxFlowDocument.SaveFormattedText">
+          <param name="Local" value="Interface/IGxFlowDocument/IGxFlowDocument.SaveFormattedText.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxFlowDocument.Selection">
+          <param name="Local" value="Interface/IGxFlowDocument/IGxFlowDocument.Selection.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IGxFont">
+        <param name="Local" value="Interface/IGxFont/IGxFont.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxFont.LoadFromStream">
+          <param name="Local" value="Interface/IGxFont/IGxFont.LoadFromStream.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxFont.SaveToStream">
+          <param name="Local" value="Interface/IGxFont/IGxFont.SaveToStream.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxFont.Unit">
+          <param name="Local" value="Interface/IGxFont/IGxFont.Unit.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IGxFontBase">
+        <param name="Local" value="Interface/IGxFontBase/IGxFontBase.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxFontBase.Family">
+          <param name="Local" value="Interface/IGxFontBase/IGxFontBase.Family.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxFontBase.Size">
+          <param name="Local" value="Interface/IGxFontBase/IGxFontBase.Size.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxFontBase.Style">
+          <param name="Local" value="Interface/IGxFontBase/IGxFontBase.Style.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IGxGraphics">
+        <param name="Local" value="Interface/IGxGraphics/IGxGraphics.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxGraphics.CompositingQuality">
+          <param name="Local" value="Interface/IGxGraphics/IGxGraphics.CompositingQuality.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxGraphics.DpiX">
+          <param name="Local" value="Interface/IGxGraphics/IGxGraphics.DpiX.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxGraphics.DpiY">
+          <param name="Local" value="Interface/IGxGraphics/IGxGraphics.DpiY.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxGraphics.DrawImageTransparent">
+          <param name="Local" value="Interface/IGxGraphics/IGxGraphics.DrawImageTransparent.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxGraphics.DrawImageTransparentF">
+          <param name="Local" value="Interface/IGxGraphics/IGxGraphics.DrawImageTransparentF.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxGraphics.DrawTextF">
+          <param name="Local" value="Interface/IGxGraphics/IGxGraphics.DrawTextF.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxGraphics.DrawTextP">
+          <param name="Local" value="Interface/IGxGraphics/IGxGraphics.DrawTextP.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxGraphics.DrawTextPF">
+          <param name="Local" value="Interface/IGxGraphics/IGxGraphics.DrawTextPF.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxGraphics.DrawTextR">
+          <param name="Local" value="Interface/IGxGraphics/IGxGraphics.DrawTextR.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxGraphics.DrawTextRF">
+          <param name="Local" value="Interface/IGxGraphics/IGxGraphics.DrawTextRF.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxGraphics.DrawTextW">
+          <param name="Local" value="Interface/IGxGraphics/IGxGraphics.DrawTextW.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxGraphics.FillColorRectangle">
+          <param name="Local" value="Interface/IGxGraphics/IGxGraphics.FillColorRectangle.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxGraphics.FillColorRectangleF">
+          <param name="Local" value="Interface/IGxGraphics/IGxGraphics.FillColorRectangleF.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxGraphics.FillRectangle">
+          <param name="Local" value="Interface/IGxGraphics/IGxGraphics.FillRectangle.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxGraphics.FillRectangleF">
+          <param name="Local" value="Interface/IGxGraphics/IGxGraphics.FillRectangleF.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxGraphics.InterpolationMode">
+          <param name="Local" value="Interface/IGxGraphics/IGxGraphics.InterpolationMode.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxGraphics.MeasureTextRF">
+          <param name="Local" value="Interface/IGxGraphics/IGxGraphics.MeasureTextRF.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxGraphics.PageUnit">
+          <param name="Local" value="Interface/IGxGraphics/IGxGraphics.PageUnit.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxGraphics.ResetTransform">
+          <param name="Local" value="Interface/IGxGraphics/IGxGraphics.ResetTransform.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxGraphics.RestoreState">
+          <param name="Local" value="Interface/IGxGraphics/IGxGraphics.RestoreState.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxGraphics.SaveState">
+          <param name="Local" value="Interface/IGxGraphics/IGxGraphics.SaveState.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxGraphics.SetScale">
+          <param name="Local" value="Interface/IGxGraphics/IGxGraphics.SetScale.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxGraphics.SetTranslate">
+          <param name="Local" value="Interface/IGxGraphics/IGxGraphics.SetTranslate.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxGraphics.SmoothingMode">
+          <param name="Local" value="Interface/IGxGraphics/IGxGraphics.SmoothingMode.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxGraphics.TextRenderingHint">
+          <param name="Local" value="Interface/IGxGraphics/IGxGraphics.TextRenderingHint.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IGxGraphicsClass">
+        <param name="Local" value="Interface/IGxGraphicsClass/IGxGraphicsClass.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxGraphicsClass.FromImage">
+          <param name="Local" value="Interface/IGxGraphicsClass/IGxGraphicsClass.FromImage.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IGxHatchBrush">
+        <param name="Local" value="Interface/IGxHatchBrush/IGxHatchBrush.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxHatchBrush.BackgroundColor">
+          <param name="Local" value="Interface/IGxHatchBrush/IGxHatchBrush.BackgroundColor.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxHatchBrush.ForegroundColor">
+          <param name="Local" value="Interface/IGxHatchBrush/IGxHatchBrush.ForegroundColor.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxHatchBrush.HatchStyle">
+          <param name="Local" value="Interface/IGxHatchBrush/IGxHatchBrush.HatchStyle.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IGxICMManager">
+        <param name="Local" value="Interface/IGxICMManager/IGxICMManager.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxICMManager.CheckColor">
+          <param name="Local" value="Interface/IGxICMManager/IGxICMManager.CheckColor.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxICMManager.GetProfiles">
+          <param name="Local" value="Interface/IGxICMManager/IGxICMManager.GetProfiles.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxICMManager.GetScreenProfiles">
+          <param name="Local" value="Interface/IGxICMManager/IGxICMManager.GetScreenProfiles.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxICMManager.ICMProfile">
+          <param name="Local" value="Interface/IGxICMManager/IGxICMManager.ICMProfile.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxICMManager.TranslateColor">
+          <param name="Local" value="Interface/IGxICMManager/IGxICMManager.TranslateColor.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxICMManager.TranslateImage">
+          <param name="Local" value="Interface/IGxICMManager/IGxICMManager.TranslateImage.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IGxIcon">
+        <param name="Local" value="Interface/IGxIcon/IGxIcon.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxIcon.Clone">
+          <param name="Local" value="Interface/IGxIcon/IGxIcon.Clone.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxIcon.Height">
+          <param name="Local" value="Interface/IGxIcon/IGxIcon.Height.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxIcon.SaveToFile">
+          <param name="Local" value="Interface/IGxIcon/IGxIcon.SaveToFile.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxIcon.SaveToStream">
+          <param name="Local" value="Interface/IGxIcon/IGxIcon.SaveToStream.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxIcon.Size">
+          <param name="Local" value="Interface/IGxIcon/IGxIcon.Size.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxIcon.ToBitmap">
+          <param name="Local" value="Interface/IGxIcon/IGxIcon.ToBitmap.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxIcon.Width">
+          <param name="Local" value="Interface/IGxIcon/IGxIcon.Width.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IGxImage">
+        <param name="Local" value="Interface/IGxImage/IGxImage.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxImage.Clone">
+          <param name="Local" value="Interface/IGxImage/IGxImage.Clone.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxImage.CopyRect">
+          <param name="Local" value="Interface/IGxImage/IGxImage.CopyRect.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxImage.CopyToClipboard">
+          <param name="Local" value="Interface/IGxImage/IGxImage.CopyToClipboard.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxImage.CornerPixel">
+          <param name="Local" value="Interface/IGxImage/IGxImage.CornerPixel.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxImage.Flags">
+          <param name="Local" value="Interface/IGxImage/IGxImage.Flags.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxImage.GetThumbnailImage">
+          <param name="Local" value="Interface/IGxImage/IGxImage.GetThumbnailImage.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxImage.Height">
+          <param name="Local" value="Interface/IGxImage/IGxImage.Height.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxImage.HorizontalResolution">
+          <param name="Local" value="Interface/IGxImage/IGxImage.HorizontalResolution.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxImage.PhysicalDimension">
+          <param name="Local" value="Interface/IGxImage/IGxImage.PhysicalDimension.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxImage.PixelFormat">
+          <param name="Local" value="Interface/IGxImage/IGxImage.PixelFormat.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxImage.RawFormat">
+          <param name="Local" value="Interface/IGxImage/IGxImage.RawFormat.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxImage.RotateFlip">
+          <param name="Local" value="Interface/IGxImage/IGxImage.RotateFlip.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxImage.SaveToFile">
+          <param name="Local" value="Interface/IGxImage/IGxImage.SaveToFile.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxImage.SaveToFileEncoded">
+          <param name="Local" value="Interface/IGxImage/IGxImage.SaveToFileEncoded.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxImage.SaveToStream">
+          <param name="Local" value="Interface/IGxImage/IGxImage.SaveToStream.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxImage.SaveToStreamEncoded">
+          <param name="Local" value="Interface/IGxImage/IGxImage.SaveToStreamEncoded.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxImage.Size">
+          <param name="Local" value="Interface/IGxImage/IGxImage.Size.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxImage.VerticalResolution">
+          <param name="Local" value="Interface/IGxImage/IGxImage.VerticalResolution.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxImage.Width">
+          <param name="Local" value="Interface/IGxImage/IGxImage.Width.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IGxImageClass">
+        <param name="Local" value="Interface/IGxImageClass/IGxImageClass.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxImageClass.FromFile">
+          <param name="Local" value="Interface/IGxImageClass/IGxImageClass.FromFile.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxImageClass.FromStream">
+          <param name="Local" value="Interface/IGxImageClass/IGxImageClass.FromStream.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IGxImageFormat">
+        <param name="Local" value="Interface/IGxImageFormat/IGxImageFormat.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxImageFormat.Flags">
+          <param name="Local" value="Interface/IGxImageFormat/IGxImageFormat.Flags.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IGxImageFormatClass">
+        <param name="Local" value="Interface/IGxImageFormatClass/IGxImageFormatClass.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxImageFormatClass.Bmp">
+          <param name="Local" value="Interface/IGxImageFormatClass/IGxImageFormatClass.Bmp.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxImageFormatClass.Emf">
+          <param name="Local" value="Interface/IGxImageFormatClass/IGxImageFormatClass.Emf.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxImageFormatClass.Gif">
+          <param name="Local" value="Interface/IGxImageFormatClass/IGxImageFormatClass.Gif.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxImageFormatClass.Icon">
+          <param name="Local" value="Interface/IGxImageFormatClass/IGxImageFormatClass.Icon.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxImageFormatClass.Jpeg">
+          <param name="Local" value="Interface/IGxImageFormatClass/IGxImageFormatClass.Jpeg.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxImageFormatClass.MemoryBmp">
+          <param name="Local" value="Interface/IGxImageFormatClass/IGxImageFormatClass.MemoryBmp.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxImageFormatClass.Png">
+          <param name="Local" value="Interface/IGxImageFormatClass/IGxImageFormatClass.Png.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxImageFormatClass.Tiff">
+          <param name="Local" value="Interface/IGxImageFormatClass/IGxImageFormatClass.Tiff.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxImageFormatClass.Wmf">
+          <param name="Local" value="Interface/IGxImageFormatClass/IGxImageFormatClass.Wmf.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IGxImageList">
+        <param name="Local" value="Interface/IGxImageList/IGxImageList.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxImageList.Add">
+          <param name="Local" value="Interface/IGxImageList/IGxImageList.Add.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxImageList.AddIcon">
+          <param name="Local" value="Interface/IGxImageList/IGxImageList.AddIcon.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxImageList.Clear">
+          <param name="Local" value="Interface/IGxImageList/IGxImageList.Clear.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxImageList.Count">
+          <param name="Local" value="Interface/IGxImageList/IGxImageList.Count.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxImageList.Height">
+          <param name="Local" value="Interface/IGxImageList/IGxImageList.Height.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxImageList.Item">
+          <param name="Local" value="Interface/IGxImageList/IGxImageList.Item.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxImageList.LoadFromFile">
+          <param name="Local" value="Interface/IGxImageList/IGxImageList.LoadFromFile.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxImageList.LoadFromStream">
+          <param name="Local" value="Interface/IGxImageList/IGxImageList.LoadFromStream.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxImageList.Remove">
+          <param name="Local" value="Interface/IGxImageList/IGxImageList.Remove.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxImageList.SaveToDoc">
+          <param name="Local" value="Interface/IGxImageList/IGxImageList.SaveToDoc.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxImageList.SaveToStream">
+          <param name="Local" value="Interface/IGxImageList/IGxImageList.SaveToStream.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxImageList.Width">
+          <param name="Local" value="Interface/IGxImageList/IGxImageList.Width.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IGxImageMargins">
+        <param name="Local" value="Interface/IGxImageMargins/IGxImageMargins.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IGxLinearGradientBrush">
+        <param name="Local" value="Interface/IGxLinearGradientBrush/IGxLinearGradientBrush.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxLinearGradientBrush.Angle">
+          <param name="Local" value="Interface/IGxLinearGradientBrush/IGxLinearGradientBrush.Angle.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxLinearGradientBrush.EndColor">
+          <param name="Local" value="Interface/IGxLinearGradientBrush/IGxLinearGradientBrush.EndColor.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxLinearGradientBrush.StartColor">
+          <param name="Local" value="Interface/IGxLinearGradientBrush/IGxLinearGradientBrush.StartColor.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IGxMargins">
+        <param name="Local" value="Interface/IGxMargins/IGxMargins.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxMargins.Bottom">
+          <param name="Local" value="Interface/IGxMargins/IGxMargins.Bottom.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxMargins.Left">
+          <param name="Local" value="Interface/IGxMargins/IGxMargins.Left.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxMargins.Right">
+          <param name="Local" value="Interface/IGxMargins/IGxMargins.Right.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxMargins.Top">
+          <param name="Local" value="Interface/IGxMargins/IGxMargins.Top.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IGxMetafile">
+        <param name="Local" value="Interface/IGxMetafile/IGxMetafile.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IGxMetafileClass">
+        <param name="Local" value="Interface/IGxMetafileClass/IGxMetafileClass.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IGxNumericScale">
+        <param name="Local" value="Interface/IGxNumericScale/IGxNumericScale.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxNumericScale.EndValue">
+          <param name="Local" value="Interface/IGxNumericScale/IGxNumericScale.EndValue.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxNumericScale.StartValue">
+          <param name="Local" value="Interface/IGxNumericScale/IGxNumericScale.StartValue.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxNumericScale.Value">
+          <param name="Local" value="Interface/IGxNumericScale/IGxNumericScale.Value.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IGxPageMargins">
+        <param name="Local" value="Interface/IGxPageMargins/IGxPageMargins.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IGxPageSettings">
+        <param name="Local" value="Interface/IGxPageSettings/IGxPageSettings.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxPageSettings.Assign">
+          <param name="Local" value="Interface/IGxPageSettings/IGxPageSettings.Assign.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxPageSettings.Margins">
+          <param name="Local" value="Interface/IGxPageSettings/IGxPageSettings.Margins.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxPageSettings.PaperFormat">
+          <param name="Local" value="Interface/IGxPageSettings/IGxPageSettings.PaperFormat.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxPageSettings.PaperOrientation">
+          <param name="Local" value="Interface/IGxPageSettings/IGxPageSettings.PaperOrientation.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxPageSettings.PaperSize">
+          <param name="Local" value="Interface/IGxPageSettings/IGxPageSettings.PaperSize.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IGxPen">
+        <param name="Local" value="Interface/IGxPen/IGxPen.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxPen.Alignment">
+          <param name="Local" value="Interface/IGxPen/IGxPen.Alignment.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxPen.Brush">
+          <param name="Local" value="Interface/IGxPen/IGxPen.Brush.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxPen.DashCap">
+          <param name="Local" value="Interface/IGxPen/IGxPen.DashCap.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxPen.DashOffset">
+          <param name="Local" value="Interface/IGxPen/IGxPen.DashOffset.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxPen.EndCap">
+          <param name="Local" value="Interface/IGxPen/IGxPen.EndCap.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxPen.LineJoin">
+          <param name="Local" value="Interface/IGxPen/IGxPen.LineJoin.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxPen.MiterLimit">
+          <param name="Local" value="Interface/IGxPen/IGxPen.MiterLimit.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxPen.StartCap">
+          <param name="Local" value="Interface/IGxPen/IGxPen.StartCap.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IGxPenBase">
+        <param name="Local" value="Interface/IGxPenBase/IGxPenBase.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxPenBase.Color">
+          <param name="Local" value="Interface/IGxPenBase/IGxPenBase.Color.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxPenBase.DashStyle">
+          <param name="Local" value="Interface/IGxPenBase/IGxPenBase.DashStyle.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxPenBase.Width">
+          <param name="Local" value="Interface/IGxPenBase/IGxPenBase.Width.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IGxPoint">
+        <param name="Local" value="Interface/IGxPoint/IGxPoint.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxPoint.Equals">
+          <param name="Local" value="Interface/IGxPoint/IGxPoint.Equals.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxPoint.IsEmpty">
+          <param name="Local" value="Interface/IGxPoint/IGxPoint.IsEmpty.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxPoint.Offset">
+          <param name="Local" value="Interface/IGxPoint/IGxPoint.Offset.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxPoint.OffsetP">
+          <param name="Local" value="Interface/IGxPoint/IGxPoint.OffsetP.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxPoint.OffsetS">
+          <param name="Local" value="Interface/IGxPoint/IGxPoint.OffsetS.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxPoint.ToPointF">
+          <param name="Local" value="Interface/IGxPoint/IGxPoint.ToPointF.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxPoint.ToSize">
+          <param name="Local" value="Interface/IGxPoint/IGxPoint.ToSize.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxPoint.X">
+          <param name="Local" value="Interface/IGxPoint/IGxPoint.X.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxPoint.Y">
+          <param name="Local" value="Interface/IGxPoint/IGxPoint.Y.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IGxPointF">
+        <param name="Local" value="Interface/IGxPointF/IGxPointF.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxPointF.Equals">
+          <param name="Local" value="Interface/IGxPointF/IGxPointF.Equals.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxPointF.IsEmpty">
+          <param name="Local" value="Interface/IGxPointF/IGxPointF.IsEmpty.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxPointF.Offset">
+          <param name="Local" value="Interface/IGxPointF/IGxPointF.Offset.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxPointF.OffsetP">
+          <param name="Local" value="Interface/IGxPointF/IGxPointF.OffsetP.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxPointF.OffsetS">
+          <param name="Local" value="Interface/IGxPointF/IGxPointF.OffsetS.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxPointF.ToPoint">
+          <param name="Local" value="Interface/IGxPointF/IGxPointF.ToPoint.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxPointF.ToSize">
+          <param name="Local" value="Interface/IGxPointF/IGxPointF.ToSize.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxPointF.X">
+          <param name="Local" value="Interface/IGxPointF/IGxPointF.X.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxPointF.Y">
+          <param name="Local" value="Interface/IGxPointF/IGxPointF.Y.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IGxPrintComment">
+        <param name="Local" value="Interface/IGxPrintComment/IGxPrintComment.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxPrintComment.Comment">
+          <param name="Local" value="Interface/IGxPrintComment/IGxPrintComment.Comment.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxPrintComment.Marking">
+          <param name="Local" value="Interface/IGxPrintComment/IGxPrintComment.Marking.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxPrintComment.PageCount">
+          <param name="Local" value="Interface/IGxPrintComment/IGxPrintComment.PageCount.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxPrintComment.Sheets">
+          <param name="Local" value="Interface/IGxPrintComment/IGxPrintComment.Sheets.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxPrintComment.Succeeded">
+          <param name="Local" value="Interface/IGxPrintComment/IGxPrintComment.Succeeded.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IGxPrinter">
+        <param name="Local" value="Interface/IGxPrinter/IGxPrinter.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxPrinter.Name">
+          <param name="Local" value="Interface/IGxPrinter/IGxPrinter.Name.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IGxPrinters">
+        <param name="Local" value="Interface/IGxPrinters/IGxPrinters.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxPrinters.Count">
+          <param name="Local" value="Interface/IGxPrinters/IGxPrinters.Count.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxPrinters.Item">
+          <param name="Local" value="Interface/IGxPrinters/IGxPrinters.Item.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IGxPrintersClass">
+        <param name="Local" value="Interface/IGxPrintersClass/IGxPrintersClass.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxPrintersClass.DefaultPrinter">
+          <param name="Local" value="Interface/IGxPrintersClass/IGxPrintersClass.DefaultPrinter.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IGxRect">
+        <param name="Local" value="Interface/IGxRect/IGxRect.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxRect.Bottom">
+          <param name="Local" value="Interface/IGxRect/IGxRect.Bottom.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxRect.Contains">
+          <param name="Local" value="Interface/IGxRect/IGxRect.Contains.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxRect.ContainsP">
+          <param name="Local" value="Interface/IGxRect/IGxRect.ContainsP.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxRect.ContainsR">
+          <param name="Local" value="Interface/IGxRect/IGxRect.ContainsR.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxRect.Deflate">
+          <param name="Local" value="Interface/IGxRect/IGxRect.Deflate.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxRect.DeflateS">
+          <param name="Local" value="Interface/IGxRect/IGxRect.DeflateS.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxRect.Equals">
+          <param name="Local" value="Interface/IGxRect/IGxRect.Equals.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxRect.Height">
+          <param name="Local" value="Interface/IGxRect/IGxRect.Height.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxRect.Inflate">
+          <param name="Local" value="Interface/IGxRect/IGxRect.Inflate.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxRect.InflateS">
+          <param name="Local" value="Interface/IGxRect/IGxRect.InflateS.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxRect.Intersect">
+          <param name="Local" value="Interface/IGxRect/IGxRect.Intersect.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxRect.IntersectsWith">
+          <param name="Local" value="Interface/IGxRect/IGxRect.IntersectsWith.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxRect.IsEmpty">
+          <param name="Local" value="Interface/IGxRect/IGxRect.IsEmpty.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxRect.Left">
+          <param name="Local" value="Interface/IGxRect/IGxRect.Left.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxRect.Offset">
+          <param name="Local" value="Interface/IGxRect/IGxRect.Offset.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxRect.OffsetP">
+          <param name="Local" value="Interface/IGxRect/IGxRect.OffsetP.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxRect.OffsetS">
+          <param name="Local" value="Interface/IGxRect/IGxRect.OffsetS.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxRect.Right">
+          <param name="Local" value="Interface/IGxRect/IGxRect.Right.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxRect.Size">
+          <param name="Local" value="Interface/IGxRect/IGxRect.Size.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxRect.Top">
+          <param name="Local" value="Interface/IGxRect/IGxRect.Top.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxRect.ToRectF">
+          <param name="Local" value="Interface/IGxRect/IGxRect.ToRectF.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxRect.Width">
+          <param name="Local" value="Interface/IGxRect/IGxRect.Width.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IGxRectangleTransformImage">
+        <param name="Local" value="Interface/IGxRectangleTransformImage/IGxRectangleTransformImage.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxRectangleTransformImage.Margins">
+          <param name="Local" value="Interface/IGxRectangleTransformImage/IGxRectangleTransformImage.Margins.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IGxRectF">
+        <param name="Local" value="Interface/IGxRectF/IGxRectF.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxRectF.Bottom">
+          <param name="Local" value="Interface/IGxRectF/IGxRectF.Bottom.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxRectF.Contains">
+          <param name="Local" value="Interface/IGxRectF/IGxRectF.Contains.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxRectF.ContainsP">
+          <param name="Local" value="Interface/IGxRectF/IGxRectF.ContainsP.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxRectF.ContainsR">
+          <param name="Local" value="Interface/IGxRectF/IGxRectF.ContainsR.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxRectF.Deflate">
+          <param name="Local" value="Interface/IGxRectF/IGxRectF.Deflate.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxRectF.DeflateS">
+          <param name="Local" value="Interface/IGxRectF/IGxRectF.DeflateS.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxRectF.Equals">
+          <param name="Local" value="Interface/IGxRectF/IGxRectF.Equals.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxRectF.Height">
+          <param name="Local" value="Interface/IGxRectF/IGxRectF.Height.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxRectF.Inflate">
+          <param name="Local" value="Interface/IGxRectF/IGxRectF.Inflate.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxRectF.InflateS">
+          <param name="Local" value="Interface/IGxRectF/IGxRectF.InflateS.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxRectF.Intersect">
+          <param name="Local" value="Interface/IGxRectF/IGxRectF.Intersect.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxRectF.IntersectsWith">
+          <param name="Local" value="Interface/IGxRectF/IGxRectF.IntersectsWith.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxRectF.IsEmpty">
+          <param name="Local" value="Interface/IGxRectF/IGxRectF.IsEmpty.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxRectF.Left">
+          <param name="Local" value="Interface/IGxRectF/IGxRectF.Left.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxRectF.Offset">
+          <param name="Local" value="Interface/IGxRectF/IGxRectF.Offset.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxRectF.OffsetP">
+          <param name="Local" value="Interface/IGxRectF/IGxRectF.OffsetP.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxRectF.OffsetS">
+          <param name="Local" value="Interface/IGxRectF/IGxRectF.OffsetS.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxRectF.Right">
+          <param name="Local" value="Interface/IGxRectF/IGxRectF.Right.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxRectF.Size">
+          <param name="Local" value="Interface/IGxRectF/IGxRectF.Size.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxRectF.Top">
+          <param name="Local" value="Interface/IGxRectF/IGxRectF.Top.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxRectF.Width">
+          <param name="Local" value="Interface/IGxRectF/IGxRectF.Width.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IGxScale">
+        <param name="Local" value="Interface/IGxScale/IGxScale.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxScale.AutoCalculable">
+          <param name="Local" value="Interface/IGxScale/IGxScale.AutoCalculable.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxScale.IntervalsCount">
+          <param name="Local" value="Interface/IGxScale/IGxScale.IntervalsCount.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxScale.Item">
+          <param name="Local" value="Interface/IGxScale/IGxScale.Item.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxScale.Type">
+          <param name="Local" value="Interface/IGxScale/IGxScale.Type.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxScale.UseAutoValues">
+          <param name="Local" value="Interface/IGxScale/IGxScale.UseAutoValues.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IGxSize">
+        <param name="Local" value="Interface/IGxSize/IGxSize.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxSize.Equals">
+          <param name="Local" value="Interface/IGxSize/IGxSize.Equals.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxSize.Expand">
+          <param name="Local" value="Interface/IGxSize/IGxSize.Expand.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxSize.ExpandS">
+          <param name="Local" value="Interface/IGxSize/IGxSize.ExpandS.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxSize.Height">
+          <param name="Local" value="Interface/IGxSize/IGxSize.Height.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxSize.IsEmpty">
+          <param name="Local" value="Interface/IGxSize/IGxSize.IsEmpty.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxSize.Reduce">
+          <param name="Local" value="Interface/IGxSize/IGxSize.Reduce.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxSize.ReduceS">
+          <param name="Local" value="Interface/IGxSize/IGxSize.ReduceS.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxSize.ToPoint">
+          <param name="Local" value="Interface/IGxSize/IGxSize.ToPoint.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxSize.ToSizeF">
+          <param name="Local" value="Interface/IGxSize/IGxSize.ToSizeF.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxSize.Width">
+          <param name="Local" value="Interface/IGxSize/IGxSize.Width.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IGxSizeF">
+        <param name="Local" value="Interface/IGxSizeF/IGxSizeF.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxSizeF.Equals">
+          <param name="Local" value="Interface/IGxSizeF/IGxSizeF.Equals.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxSizeF.Expand">
+          <param name="Local" value="Interface/IGxSizeF/IGxSizeF.Expand.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxSizeF.ExpandS">
+          <param name="Local" value="Interface/IGxSizeF/IGxSizeF.ExpandS.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxSizeF.Height">
+          <param name="Local" value="Interface/IGxSizeF/IGxSizeF.Height.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxSizeF.IsEmpty">
+          <param name="Local" value="Interface/IGxSizeF/IGxSizeF.IsEmpty.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxSizeF.Reduce">
+          <param name="Local" value="Interface/IGxSizeF/IGxSizeF.Reduce.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxSizeF.ReduceS">
+          <param name="Local" value="Interface/IGxSizeF/IGxSizeF.ReduceS.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxSizeF.ToPoint">
+          <param name="Local" value="Interface/IGxSizeF/IGxSizeF.ToPoint.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxSizeF.ToSize">
+          <param name="Local" value="Interface/IGxSizeF/IGxSizeF.ToSize.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxSizeF.Width">
+          <param name="Local" value="Interface/IGxSizeF/IGxSizeF.Width.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IGxSolidBrush">
+        <param name="Local" value="Interface/IGxSolidBrush/IGxSolidBrush.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxSolidBrush.Color">
+          <param name="Local" value="Interface/IGxSolidBrush/IGxSolidBrush.Color.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IGxStamp">
+        <param name="Local" value="Interface/IGxStamp/IGxStamp.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxStamp.Appearance">
+          <param name="Local" value="Interface/IGxStamp/IGxStamp.Appearance.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxStamp.Offset">
+          <param name="Local" value="Interface/IGxStamp/IGxStamp.Offset.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxStamp.Rtf">
+          <param name="Local" value="Interface/IGxStamp/IGxStamp.Rtf.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxStamp.Size">
+          <param name="Local" value="Interface/IGxStamp/IGxStamp.Size.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IGxStamps">
+        <param name="Local" value="Interface/IGxStamps/IGxStamps.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxStamps.CenterBottom">
+          <param name="Local" value="Interface/IGxStamps/IGxStamps.CenterBottom.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxStamps.CenterTop">
+          <param name="Local" value="Interface/IGxStamps/IGxStamps.CenterTop.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxStamps.IsEmpty">
+          <param name="Local" value="Interface/IGxStamps/IGxStamps.IsEmpty.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxStamps.LeftBottom">
+          <param name="Local" value="Interface/IGxStamps/IGxStamps.LeftBottom.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxStamps.LeftTop">
+          <param name="Local" value="Interface/IGxStamps/IGxStamps.LeftTop.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxStamps.RightBottom">
+          <param name="Local" value="Interface/IGxStamps/IGxStamps.RightBottom.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxStamps.RightTop">
+          <param name="Local" value="Interface/IGxStamps/IGxStamps.RightTop.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IGxStringFormat">
+        <param name="Local" value="Interface/IGxStringFormat/IGxStringFormat.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxStringFormat.Alignment">
+          <param name="Local" value="Interface/IGxStringFormat/IGxStringFormat.Alignment.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxStringFormat.LineAlignment">
+          <param name="Local" value="Interface/IGxStringFormat/IGxStringFormat.LineAlignment.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxStringFormat.Trimming">
+          <param name="Local" value="Interface/IGxStringFormat/IGxStringFormat.Trimming.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IGxSystemColors">
+        <param name="Local" value="Interface/IGxSystemColors/IGxSystemColors.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxSystemColors.ActiveBorder">
+          <param name="Local" value="Interface/IGxSystemColors/IGxSystemColors.ActiveBorder.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxSystemColors.ActiveCaption">
+          <param name="Local" value="Interface/IGxSystemColors/IGxSystemColors.ActiveCaption.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxSystemColors.ActiveCaptionText">
+          <param name="Local" value="Interface/IGxSystemColors/IGxSystemColors.ActiveCaptionText.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxSystemColors.AppWorkspace">
+          <param name="Local" value="Interface/IGxSystemColors/IGxSystemColors.AppWorkspace.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxSystemColors.Control">
+          <param name="Local" value="Interface/IGxSystemColors/IGxSystemColors.Control.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxSystemColors.ControlDark">
+          <param name="Local" value="Interface/IGxSystemColors/IGxSystemColors.ControlDark.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxSystemColors.ControlDarkDark">
+          <param name="Local" value="Interface/IGxSystemColors/IGxSystemColors.ControlDarkDark.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxSystemColors.ControlLight">
+          <param name="Local" value="Interface/IGxSystemColors/IGxSystemColors.ControlLight.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxSystemColors.ControlLightLight">
+          <param name="Local" value="Interface/IGxSystemColors/IGxSystemColors.ControlLightLight.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxSystemColors.ControlText">
+          <param name="Local" value="Interface/IGxSystemColors/IGxSystemColors.ControlText.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxSystemColors.Desktop">
+          <param name="Local" value="Interface/IGxSystemColors/IGxSystemColors.Desktop.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxSystemColors.GradientActiveCaption">
+          <param name="Local" value="Interface/IGxSystemColors/IGxSystemColors.GradientActiveCaption.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxSystemColors.GradientInactiveCaption">
+          <param name="Local" value="Interface/IGxSystemColors/IGxSystemColors.GradientInactiveCaption.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxSystemColors.GrayText">
+          <param name="Local" value="Interface/IGxSystemColors/IGxSystemColors.GrayText.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxSystemColors.Highlight">
+          <param name="Local" value="Interface/IGxSystemColors/IGxSystemColors.Highlight.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxSystemColors.HighlightText">
+          <param name="Local" value="Interface/IGxSystemColors/IGxSystemColors.HighlightText.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxSystemColors.HotTrack">
+          <param name="Local" value="Interface/IGxSystemColors/IGxSystemColors.HotTrack.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxSystemColors.InactiveBorder">
+          <param name="Local" value="Interface/IGxSystemColors/IGxSystemColors.InactiveBorder.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxSystemColors.InactiveCaption">
+          <param name="Local" value="Interface/IGxSystemColors/IGxSystemColors.InactiveCaption.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxSystemColors.InactiveCaptionText">
+          <param name="Local" value="Interface/IGxSystemColors/IGxSystemColors.InactiveCaptionText.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxSystemColors.Info">
+          <param name="Local" value="Interface/IGxSystemColors/IGxSystemColors.Info.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxSystemColors.InfoText">
+          <param name="Local" value="Interface/IGxSystemColors/IGxSystemColors.InfoText.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxSystemColors.Menu">
+          <param name="Local" value="Interface/IGxSystemColors/IGxSystemColors.Menu.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxSystemColors.MenuText">
+          <param name="Local" value="Interface/IGxSystemColors/IGxSystemColors.MenuText.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxSystemColors.ScrollBar">
+          <param name="Local" value="Interface/IGxSystemColors/IGxSystemColors.ScrollBar.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxSystemColors.Window">
+          <param name="Local" value="Interface/IGxSystemColors/IGxSystemColors.Window.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxSystemColors.WindowFrame">
+          <param name="Local" value="Interface/IGxSystemColors/IGxSystemColors.WindowFrame.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxSystemColors.WindowText">
+          <param name="Local" value="Interface/IGxSystemColors/IGxSystemColors.WindowText.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IGxSystemFontNames">
+        <param name="Local" value="Interface/IGxSystemFontNames/IGxSystemFontNames.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxSystemFontNames.Count">
+          <param name="Local" value="Interface/IGxSystemFontNames/IGxSystemFontNames.Count.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxSystemFontNames.Item">
+          <param name="Local" value="Interface/IGxSystemFontNames/IGxSystemFontNames.Item.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IGxSystemIcons">
+        <param name="Local" value="Interface/IGxSystemIcons/IGxSystemIcons.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxSystemIcons.Application">
+          <param name="Local" value="Interface/IGxSystemIcons/IGxSystemIcons.Application.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxSystemIcons.Asterisk">
+          <param name="Local" value="Interface/IGxSystemIcons/IGxSystemIcons.Asterisk.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxSystemIcons.Error">
+          <param name="Local" value="Interface/IGxSystemIcons/IGxSystemIcons.Error.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxSystemIcons.Exclamation">
+          <param name="Local" value="Interface/IGxSystemIcons/IGxSystemIcons.Exclamation.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxSystemIcons.Hand">
+          <param name="Local" value="Interface/IGxSystemIcons/IGxSystemIcons.Hand.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxSystemIcons.Information">
+          <param name="Local" value="Interface/IGxSystemIcons/IGxSystemIcons.Information.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxSystemIcons.Logo">
+          <param name="Local" value="Interface/IGxSystemIcons/IGxSystemIcons.Logo.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxSystemIcons.Question">
+          <param name="Local" value="Interface/IGxSystemIcons/IGxSystemIcons.Question.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxSystemIcons.Warning">
+          <param name="Local" value="Interface/IGxSystemIcons/IGxSystemIcons.Warning.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IGxTextureBrush">
+        <param name="Local" value="Interface/IGxTextureBrush/IGxTextureBrush.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxTextureBrush.Image">
+          <param name="Local" value="Interface/IGxTextureBrush/IGxTextureBrush.Image.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxTextureBrush.WrapMode">
+          <param name="Local" value="Interface/IGxTextureBrush/IGxTextureBrush.WrapMode.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IGxThemeColors">
+        <param name="Local" value="Interface/IGxThemeColors/IGxThemeColors.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxThemeColors.ActiveBorder">
+          <param name="Local" value="Interface/IGxThemeColors/IGxThemeColors.ActiveBorder.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxThemeColors.ActiveCaption">
+          <param name="Local" value="Interface/IGxThemeColors/IGxThemeColors.ActiveCaption.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxThemeColors.ActiveCaptionGradient">
+          <param name="Local" value="Interface/IGxThemeColors/IGxThemeColors.ActiveCaptionGradient.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxThemeColors.BarDkShadow">
+          <param name="Local" value="Interface/IGxThemeColors/IGxThemeColors.BarDkShadow.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxThemeColors.BarFace">
+          <param name="Local" value="Interface/IGxThemeColors/IGxThemeColors.BarFace.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxThemeColors.BarHighlight">
+          <param name="Local" value="Interface/IGxThemeColors/IGxThemeColors.BarHighlight.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxThemeColors.BarLight">
+          <param name="Local" value="Interface/IGxThemeColors/IGxThemeColors.BarLight.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxThemeColors.BarShadow">
+          <param name="Local" value="Interface/IGxThemeColors/IGxThemeColors.BarShadow.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxThemeColors.BarText">
+          <param name="Local" value="Interface/IGxThemeColors/IGxThemeColors.BarText.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxThemeColors.BarWindow">
+          <param name="Local" value="Interface/IGxThemeColors/IGxThemeColors.BarWindow.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxThemeColors.BtnDkShadow">
+          <param name="Local" value="Interface/IGxThemeColors/IGxThemeColors.BtnDkShadow.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxThemeColors.BtnFace">
+          <param name="Local" value="Interface/IGxThemeColors/IGxThemeColors.BtnFace.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxThemeColors.BtnHighlight">
+          <param name="Local" value="Interface/IGxThemeColors/IGxThemeColors.BtnHighlight.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxThemeColors.BtnLight">
+          <param name="Local" value="Interface/IGxThemeColors/IGxThemeColors.BtnLight.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxThemeColors.BtnShadow">
+          <param name="Local" value="Interface/IGxThemeColors/IGxThemeColors.BtnShadow.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxThemeColors.BtnText">
+          <param name="Local" value="Interface/IGxThemeColors/IGxThemeColors.BtnText.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxThemeColors.CaptionText">
+          <param name="Local" value="Interface/IGxThemeColors/IGxThemeColors.CaptionText.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxThemeColors.GrayedText">
+          <param name="Local" value="Interface/IGxThemeColors/IGxThemeColors.GrayedText.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxThemeColors.Highlight">
+          <param name="Local" value="Interface/IGxThemeColors/IGxThemeColors.Highlight.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxThemeColors.HotLinkText">
+          <param name="Local" value="Interface/IGxThemeColors/IGxThemeColors.HotLinkText.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxThemeColors.HotText">
+          <param name="Local" value="Interface/IGxThemeColors/IGxThemeColors.HotText.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxThemeColors.InactiveBorder">
+          <param name="Local" value="Interface/IGxThemeColors/IGxThemeColors.InactiveBorder.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxThemeColors.InactiveCaption">
+          <param name="Local" value="Interface/IGxThemeColors/IGxThemeColors.InactiveCaption.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxThemeColors.InactiveCaptionGradient">
+          <param name="Local" value="Interface/IGxThemeColors/IGxThemeColors.InactiveCaptionGradient.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxThemeColors.InactiveCaptionText">
+          <param name="Local" value="Interface/IGxThemeColors/IGxThemeColors.InactiveCaptionText.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxThemeColors.MenuText">
+          <param name="Local" value="Interface/IGxThemeColors/IGxThemeColors.MenuText.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxThemeColors.TextHighlight">
+          <param name="Local" value="Interface/IGxThemeColors/IGxThemeColors.TextHighlight.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxThemeColors.Window">
+          <param name="Local" value="Interface/IGxThemeColors/IGxThemeColors.Window.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxThemeColors.WindowFrame">
+          <param name="Local" value="Interface/IGxThemeColors/IGxThemeColors.WindowFrame.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxThemeColors.WindowText">
+          <param name="Local" value="Interface/IGxThemeColors/IGxThemeColors.WindowText.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IGxTitle">
+        <param name="Local" value="Interface/IGxTitle/IGxTitle.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxTitle.AutoHeight">
+          <param name="Local" value="Interface/IGxTitle/IGxTitle.AutoHeight.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxTitle.BackgroundColor">
+          <param name="Local" value="Interface/IGxTitle/IGxTitle.BackgroundColor.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxTitle.BlackAndWhite">
+          <param name="Local" value="Interface/IGxTitle/IGxTitle.BlackAndWhite.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxTitle.CustomFormat">
+          <param name="Local" value="Interface/IGxTitle/IGxTitle.CustomFormat.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxTitle.Font">
+          <param name="Local" value="Interface/IGxTitle/IGxTitle.Font.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxTitle.FormattedText">
+          <param name="Local" value="Interface/IGxTitle/IGxTitle.FormattedText.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxTitle.FormattedTitle">
+          <param name="Local" value="Interface/IGxTitle/IGxTitle.FormattedTitle.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxTitle.Height">
+          <param name="Local" value="Interface/IGxTitle/IGxTitle.Height.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxTitle.HtmlText">
+          <param name="Local" value="Interface/IGxTitle/IGxTitle.HtmlText.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxTitle.HtmlTitle">
+          <param name="Local" value="Interface/IGxTitle/IGxTitle.HtmlTitle.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxTitle.IsControl">
+          <param name="Local" value="Interface/IGxTitle/IGxTitle.IsControl.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxTitle.IsTagIncluded">
+          <param name="Local" value="Interface/IGxTitle/IGxTitle.IsTagIncluded.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxTitle.Text">
+          <param name="Local" value="Interface/IGxTitle/IGxTitle.Text.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxTitle.TextAlignment">
+          <param name="Local" value="Interface/IGxTitle/IGxTitle.TextAlignment.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxTitle.TextColor">
+          <param name="Local" value="Interface/IGxTitle/IGxTitle.TextColor.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxTitle.Title">
+          <param name="Local" value="Interface/IGxTitle/IGxTitle.Title.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxTitle.VerticalAlignment">
+          <param name="Local" value="Interface/IGxTitle/IGxTitle.VerticalAlignment.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxTitle.Visible">
+          <param name="Local" value="Interface/IGxTitle/IGxTitle.Visible.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxTitle.WrappedText">
+          <param name="Local" value="Interface/IGxTitle/IGxTitle.WrappedText.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IGxTransformImage">
+        <param name="Local" value="Interface/IGxTransformImage/IGxTransformImage.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IGxTransformImage.Unit">
+          <param name="Local" value="Interface/IGxTransformImage/IGxTransformImage.Unit.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="ISparkline">
+        <param name="Local" value="Interface/ISparkline/ISparkline.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISparkline.Color">
+          <param name="Local" value="Interface/ISparkline/ISparkline.Color.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISparkline.LineWidth">
+          <param name="Local" value="Interface/ISparkline/ISparkline.LineWidth.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISparkline.NullValueBehavior">
+          <param name="Local" value="Interface/ISparkline/ISparkline.NullValueBehavior.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IStyleContainer">
+        <param name="Local" value="Interface/IStyleContainer/IStyleContainer.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IStyleContainer.Clear">
+          <param name="Local" value="Interface/IStyleContainer/IStyleContainer.Clear.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IStyleContainer.Id">
+          <param name="Local" value="Interface/IStyleContainer/IStyleContainer.Id.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IStyleContainer.Key">
+          <param name="Local" value="Interface/IStyleContainer/IStyleContainer.Key.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IStyleContainer.Name">
+          <param name="Local" value="Interface/IStyleContainer/IStyleContainer.Name.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IStyleContainer.Preview">
+          <param name="Local" value="Interface/IStyleContainer/IStyleContainer.Preview.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IStyleContainer.Sheet">
+          <param name="Local" value="Interface/IStyleContainer/IStyleContainer.Sheet.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IStyleContainer.Tag">
+          <param name="Local" value="Interface/IStyleContainer/IStyleContainer.Tag.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IStyleContainerCollection">
+        <param name="Local" value="Interface/IStyleContainerCollection/IStyleContainerCollection.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IStyleContainerCollection.Count">
+          <param name="Local" value="Interface/IStyleContainerCollection/IStyleContainerCollection.Count.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IStyleContainerCollection.Item">
+          <param name="Local" value="Interface/IStyleContainerCollection/IStyleContainerCollection.Item.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IStyledEntity">
+        <param name="Local" value="Interface/IStyledEntity/IStyledEntity.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IStyledEntity.ContainerKey">
+          <param name="Local" value="Interface/IStyledEntity/IStyledEntity.ContainerKey.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IStyledEntity.ContainerTag">
+          <param name="Local" value="Interface/IStyledEntity/IStyledEntity.ContainerTag.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IStyledEntity.LoadStyleFromContainer">
+          <param name="Local" value="Interface/IStyledEntity/IStyledEntity.LoadStyleFromContainer.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IStyledEntity.PredefinedStyle">
+          <param name="Local" value="Interface/IStyledEntity/IStyledEntity.PredefinedStyle.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IStyledEntity.PredefinedStyleCount">
+          <param name="Local" value="Interface/IStyledEntity/IStyledEntity.PredefinedStyleCount.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IStyledEntity.PredefinedStyleIndex">
+          <param name="Local" value="Interface/IStyledEntity/IStyledEntity.PredefinedStyleIndex.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IStyledEntity.PredefinedStylePreview">
+          <param name="Local" value="Interface/IStyledEntity/IStyledEntity.PredefinedStylePreview.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IStyledEntity.SaveStyleToContainer">
+          <param name="Local" value="Interface/IStyledEntity/IStyledEntity.SaveStyleToContainer.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IStyledEntity.SheetType">
+          <param name="Local" value="Interface/IStyledEntity/IStyledEntity.SheetType.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IStyleSheet">
+        <param name="Local" value="Interface/IStyleSheet/IStyleSheet.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IStyleSheet.Add">
+          <param name="Local" value="Interface/IStyleSheet/IStyleSheet.Add.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IStyleSheet.Clear">
+          <param name="Local" value="Interface/IStyleSheet/IStyleSheet.Clear.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IStyleSheet.Count">
+          <param name="Local" value="Interface/IStyleSheet/IStyleSheet.Count.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IStyleSheet.FindById">
+          <param name="Local" value="Interface/IStyleSheet/IStyleSheet.FindById.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IStyleSheet.FindByKey">
+          <param name="Local" value="Interface/IStyleSheet/IStyleSheet.FindByKey.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IStyleSheet.FindByTag">
+          <param name="Local" value="Interface/IStyleSheet/IStyleSheet.FindByTag.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IStyleSheet.Item">
+          <param name="Local" value="Interface/IStyleSheet/IStyleSheet.Item.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IStyleSheet.Load">
+          <param name="Local" value="Interface/IStyleSheet/IStyleSheet.Load.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IStyleSheet.Remove">
+          <param name="Local" value="Interface/IStyleSheet/IStyleSheet.Remove.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IStyleSheet.RemoveById">
+          <param name="Local" value="Interface/IStyleSheet/IStyleSheet.RemoveById.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IStyleSheet.RemoveByKey">
+          <param name="Local" value="Interface/IStyleSheet/IStyleSheet.RemoveByKey.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IStyleSheet.Save">
+          <param name="Local" value="Interface/IStyleSheet/IStyleSheet.Save.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IVisStyleProvider">
+        <param name="Local" value="Interface/IVisStyleProvider/IVisStyleProvider.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVisStyleProvider.PaletteBorderColors">
+          <param name="Local" value="Interface/IVisStyleProvider/IVisStyleProvider.PaletteBorderColors.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVisStyleProvider.PaletteColors">
+          <param name="Local" value="Interface/IVisStyleProvider/IVisStyleProvider.PaletteColors.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IVisStyleProvider.PaletteIDs">
+          <param name="Local" value="Interface/IVisStyleProvider/IVisStyleProvider.PaletteIDs.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Перечисления сборки Drawing">
+      <param name="Local" value="Enums/ModDraving_Enums.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="GxBrushType">
+        <param name="Local" value="Enums/GxBrushType.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="GxCompositingQuality">
+        <param name="Local" value="Enums/GxCompositingQuality.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="GxCorner">
+        <param name="Local" value="Enums/GxCorner.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="GxDashCap">
+        <param name="Local" value="Enums/GxDashCap.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="GxDashStyle">
+        <param name="Local" value="Enums/GxDashStyle.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="GxDrawTextFormat">
+        <param name="Local" value="Enums/GxDrawTextFormat.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="GxEmfType">
+        <param name="Local" value="Enums/GxEmfType.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="GxFontStyle">
+        <param name="Local" value="Enums/GxFontStyle.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="GxHatchStyle">
+        <param name="Local" value="Enums/GxHatchStyle.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="GxImageAlign">
+        <param name="Local" value="Enums/GxImageAlign.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="GxImageCodecFlags">
+        <param name="Local" value="Enums/GxImageCodecFlags.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="GxImageFlags">
+        <param name="Local" value="Enums/GxImageFlags.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="GxInterpolationMode">
+        <param name="Local" value="Enums/GxInterpolationMode.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="GxKnownColor">
+        <param name="Local" value="Enums/GxKnownColor.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="GxLineCap">
+        <param name="Local" value="Enums/GxLineCap.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="GxLineJoin">
+        <param name="Local" value="Enums/GxLineJoin.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="GxPaperFormat">
+        <param name="Local" value="Enums/GxPaperFormat.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="GxPaperOrientation">
+        <param name="Local" value="Enums/GxPaperOrientation.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="GxPenAlignment">
+        <param name="Local" value="Enums/GxPenAlignment.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="GxPixelFormat">
+        <param name="Local" value="Enums/GxPixelFormat.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="GxPrintOrder">
+        <param name="Local" value="Enums/GxPrintOrder.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="GxQualityMode">
+        <param name="Local" value="Enums/GxQualityMode.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="GxRotateFlipType">
+        <param name="Local" value="Enums/GxRotateFlipType.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="GxScaleType">
+        <param name="Local" value="Enums/GxScaleType.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="GxSmoothingMode">
+        <param name="Local" value="Enums/GxSmoothingMode.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="GxSparkNullValueBehavior">
+        <param name="Local" value="Enums/GxSparkNullValueBehavior.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="GxStampAppearance">
+        <param name="Local" value="Enums/GxStampAppearance.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="GxStringAlignment">
+        <param name="Local" value="Enums/GxStringAlignment.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="GxStringTrimming">
+        <param name="Local" value="Enums/GxStringTrimming.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="GxSystemColor">
+        <param name="Local" value="Enums/GxSystemColor.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="GxTextRenderingHint">
+        <param name="Local" value="Enums/GxTextRenderingHint.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="GxThemeColor">
+        <param name="Local" value="Enums/GxThemeColor.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="GxUnit">
+        <param name="Local" value="Enums/GxUnit.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="GxVerticalAlignment">
+        <param name="Local" value="Enums/GxVerticalAlignment.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="GxWrapMode">
+        <param name="Local" value="Enums/GxWrapMode.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="StyleSheetType">
+        <param name="Local" value="Enums/StyleSheetType.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Классы сборки Drawing">
+      <param name="Local" value="Class/ModDrawing_Class.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="GxBitmap">
+        <param name="Local" value="Class/GxBitmap/GxBitmap.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="GxBitmap.CreateFromClipboard">
+          <param name="Local" value="Class/GxBitmap/GxBitmap.CreateFromClipboard.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="GxBitmap.CreateFromFile">
+          <param name="Local" value="Class/GxBitmap/GxBitmap.CreateFromFile.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="GxBitmap.CreateFromStream">
+          <param name="Local" value="Class/GxBitmap/GxBitmap.CreateFromStream.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="GxColor">
+        <param name="Local" value="Class/GxColor/GxColor.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="GxColor.CreateARGB">
+          <param name="Local" value="Class/GxColor/GxColor.CreateARGB.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="GxColor.CreateHSB">
+          <param name="Local" value="Class/GxColor/GxColor.CreateHSB.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="GxColor.CreateRGB">
+          <param name="Local" value="Class/GxColor/GxColor.CreateRGB.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="GxFont">
+        <param name="Local" value="Class/GxFont/GxFont.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="GxFont.Create">
+          <param name="Local" value="Class/GxFont/GxFont.Create.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="GxFont.CreateFromStream">
+          <param name="Local" value="Class/GxFont/GxFont.CreateFromStream.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="GxGraphics">
+        <param name="Local" value="Class/GxGraphics/GxGraphics.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="GxGraphicsClass">
+        <param name="Local" value="Class/GxGraphicsClass/GxGraphicsClass.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="GxHatchBrush">
+        <param name="Local" value="Class/GxHatchBrush/GxHatchBrush.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="GxHatchBrush.Create">
+          <param name="Local" value="Class/GxHatchBrush/GxHatchBrush.Create.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="GxICMManager">
+        <param name="Local" value="Class/GxICMManager/GxICMManager.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="GxIcon">
+        <param name="Local" value="Class/GxIcon/GxIcon.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="GxIcon.CreateCopy">
+          <param name="Local" value="Class/GxIcon/GxIcon.CreateCopy.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="GxIcon.CreateFromFile">
+          <param name="Local" value="Class/GxIcon/GxIcon.CreateFromFile.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="GxIcon.CreateFromFileS">
+          <param name="Local" value="Class/GxIcon/GxIcon.CreateFromFileS.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="GxIcon.CreateFromStream">
+          <param name="Local" value="Class/GxIcon/GxIcon.CreateFromStream.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="GxIcon.CreateFromStreamS">
+          <param name="Local" value="Class/GxIcon/GxIcon.CreateFromStreamS.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="GxImage">
+        <param name="Local" value="Class/GxImage/GxImage.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="GxImage.CreateFromClipboard">
+          <param name="Local" value="Class/GxImage/GxImage.CreateFromClipboard.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="GxImage.CreateFromFile">
+          <param name="Local" value="Class/GxImage/GxImage.CreateFromFile.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="GxImage.CreateFromStream">
+          <param name="Local" value="Class/GxImage/GxImage.CreateFromStream.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="GxImageFormats">
+        <param name="Local" value="Class/GxImageFormats/GxImageFormats.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="GxImageList">
+        <param name="Local" value="Class/GxImageList/GxImageList.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="GxLinearGradientBrush">
+        <param name="Local" value="Class/GxLinearGradientBrush/GxLinearGradientBrush.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="GxLinearGradientBrush.Create">
+          <param name="Local" value="Class/GxLinearGradientBrush/GxLinearGradientBrush.Create.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="GxMetafile">
+        <param name="Local" value="Class/GxMetafile/GxMetafile.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="GxMetafile.CreateFromClipboard">
+          <param name="Local" value="Class/GxMetafile/GxMetafile.CreateFromClipboard.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="GxMetafile.CreateFromFile">
+          <param name="Local" value="Class/GxMetafile/GxMetafile.CreateFromFile.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="GxMetafile.CreateFromStream">
+          <param name="Local" value="Class/GxMetafile/GxMetafile.CreateFromStream.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="GxPageSettings">
+        <param name="Local" value="Class/GxPageSettings/GxPageSettings.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="GxPen">
+        <param name="Local" value="Class/GxPen/GxPen.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="GxPen.CreateBrushed">
+          <param name="Local" value="Class/GxPen/GxPen.CreateBrushed.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="GxPen.CreateSolid">
+          <param name="Local" value="Class/GxPen/GxPen.CreateSolid.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="GxPoint">
+        <param name="Local" value="Class/GxPoint/GxPoint.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="GxPoint.Create">
+          <param name="Local" value="Class/GxPoint/GxPoint.Create.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="GxPoint.CreateFromPoint">
+          <param name="Local" value="Class/GxPoint/GxPoint.CreateFromPoint.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="GxPoint.CreateFromSize">
+          <param name="Local" value="Class/GxPoint/GxPoint.CreateFromSize.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="GxPointF">
+        <param name="Local" value="Class/GxPointF/GxPointF.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="GxPointF.Create">
+          <param name="Local" value="Class/GxPointF/GxPointF.Create.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="GxPointF.CreateFromPoint">
+          <param name="Local" value="Class/GxPointF/GxPointF.CreateFromPoint.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="GxPointF.CreateFromSize">
+          <param name="Local" value="Class/GxPointF/GxPointF.CreateFromSize.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="GxPrintComment">
+        <param name="Local" value="Class/GxPrintComment/GxPrintComment.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="GxPrinters">
+        <param name="Local" value="Class/GxPrinters/GxPrinters.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="GxRect">
+        <param name="Local" value="Class/GxRect/GxRect.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="GxRect.Create">
+          <param name="Local" value="Class/GxRect/GxRect.Create.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="GxRect.CreateFromEdges">
+          <param name="Local" value="Class/GxRect/GxRect.CreateFromEdges.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="GxRect.CreateFromOrigin">
+          <param name="Local" value="Class/GxRect/GxRect.CreateFromOrigin.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="GxRect.CreateFromRect">
+          <param name="Local" value="Class/GxRect/GxRect.CreateFromRect.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="GxRectangleTransformImage">
+        <param name="Local" value="Class/GxRectangleTransformImage/GxRectangleTransformImage.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="GxRectangleTransformImage.CreateFromClipboard">
+          <param name="Local" value="Class/GxRectangleTransformImage/GxRectangleTransformImage.CreateFromClipboard.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="GxRectangleTransformImage.CreateFromFile">
+          <param name="Local" value="Class/GxRectangleTransformImage/GxRectangleTransformImage.CreateFromFile.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="GxRectangleTransformImage.CreateFromStream">
+          <param name="Local" value="Class/GxRectangleTransformImage/GxRectangleTransformImage.CreateFromStream.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="GxRectF">
+        <param name="Local" value="Class/GxRectF/GxRectF.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="GxRectF.Create">
+          <param name="Local" value="Class/GxRectF/GxRectF.Create.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="GxRectF.CreateFromEdges">
+          <param name="Local" value="Class/GxRectF/GxRectF.CreateFromEdges.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="GxRectF.CreateFromOrigin">
+          <param name="Local" value="Class/GxRectF/GxRectF.CreateFromOrigin.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="GxRectF.CreateFromRect">
+          <param name="Local" value="Class/GxRectF/GxRectF.CreateFromRect.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="GxSize">
+        <param name="Local" value="Class/GxSize/GxSize.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="GxSize.Create">
+          <param name="Local" value="Class/GxSize/GxSize.Create.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="GxSize.CreateFromPoint">
+          <param name="Local" value="Class/GxSize/GxSize.CreateFromPoint.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="GxSize.CreateFromSize">
+          <param name="Local" value="Class/GxSize/GxSize.CreateFromSize.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="GxSizeF">
+        <param name="Local" value="Class/GxSizeF/GxSizeF.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="GxSizeF.Create">
+          <param name="Local" value="Class/GxSizeF/GxSizeF.Create.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="GxSizeF.CreateFromPoint">
+          <param name="Local" value="Class/GxSizeF/GxSizeF.CreateFromPoint.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="GxSizeF.CreateFromSize">
+          <param name="Local" value="Class/GxSizeF/GxSizeF.CreateFromSize.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="GxSolidBrush">
+        <param name="Local" value="Class/GxSolidBrush/GxSolidBrush.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="GxSolidBrush.Create">
+          <param name="Local" value="Class/GxSolidBrush/GxSolidBrush.Create.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="GxStringFormat">
+        <param name="Local" value="Class/GxStringFormat/GxStringFormat.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="GxSystemColors">
+        <param name="Local" value="Class/GxSystemColors/GxSystemColors.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="GxSystemFontNames">
+        <param name="Local" value="Class/GxSystemFontNames/GxSystemFontNames.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="GxSystemIcons">
+        <param name="Local" value="Class/GxSystemIcons/GxSystemIcons.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="GxTextureBrush">
+        <param name="Local" value="Class/GxTextureBrush/GxTextureBrush.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="GxTextureBrush.Create">
+          <param name="Local" value="Class/GxTextureBrush/GxTextureBrush.Create.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="GxThemeColors">
+        <param name="Local" value="Class/GxThemeColors/GxThemeColors.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="VisStyleProvider">
+        <param name="Local" value="Class/VisStyleProvider/VisStyleProvider.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      </ul>
+    </ul>
+</ul>
+</html>

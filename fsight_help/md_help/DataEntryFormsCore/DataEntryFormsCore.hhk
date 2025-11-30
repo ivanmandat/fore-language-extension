@@ -1,0 +1,2080 @@
+<html>
+<!-- Sitemap 1.0 -->
+<object type="text/site properties">
+  <param name="SiteType" value="index">
+</object>
+<ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="DataEntryForm">
+    <param name="Name" value="DataEntryForm">
+    <param name="Local" value="Class/DataEntryForm/DataEntryForm.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="DataEntryForm.CreateByDataEntryForm">
+    <param name="Name" value="DataEntryForm.CreateByDataEntryForm">
+    <param name="Local" value="Class/DataEntryForm/DataEntryForm.CreateByDataEntryForm.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="CreateByDataEntryForm">
+    <param name="Name" value="DataEntryForm.CreateByDataEntryForm">
+    <param name="Local" value="Class/DataEntryForm/DataEntryForm.CreateByDataEntryForm.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="DataEntryForm.CreateByReport">
+    <param name="Name" value="DataEntryForm.CreateByReport">
+    <param name="Local" value="Class/DataEntryForm/DataEntryForm.CreateByReport.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="CreateByReport">
+    <param name="Name" value="DataEntryForm.CreateByReport">
+    <param name="Local" value="Class/DataEntryForm/DataEntryForm.CreateByReport.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="DataEntryForm.CreateInputForm">
+    <param name="Name" value="DataEntryForm.CreateInputForm">
+    <param name="Local" value="Class/DataEntryForm/DataEntryForm.CreateInputForm.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="CreateInputForm">
+    <param name="Name" value="DataEntryForm.CreateInputForm">
+    <param name="Local" value="Class/DataEntryForm/DataEntryForm.CreateInputForm.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="DimPlace">
+    <param name="Name" value="DimPlace">
+    <param name="Local" value="Enums/DimPlace.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDataEntryForm">
+    <param name="Name" value="IDataEntryForm">
+    <param name="Local" value="Interface/IDataEntryForm/IDataEntryForm.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDataEntryForm._Dispose">
+    <param name="Name" value="IDataEntryForm._Dispose">
+    <param name="Local" value="Interface/IDataEntryForm/IDataEntryForm._Dispose.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="_Dispose">
+    <param name="Name" value="IDataEntryForm._Dispose">
+    <param name="Local" value="Interface/IDataEntryForm/IDataEntryForm._Dispose.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDataEntryForm.InputAreas">
+    <param name="Name" value="IDataEntryForm.InputAreas">
+    <param name="Local" value="Interface/IDataEntryForm/IDataEntryForm.InputAreas.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="InputAreas">
+    <param name="Name" value="IDataEntryForm.InputAreas">
+    <param name="Local" value="Interface/IDataEntryForm/IDataEntryForm.InputAreas.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDataEntryForm.RejectDataChanges">
+    <param name="Name" value="IDataEntryForm.RejectDataChanges">
+    <param name="Local" value="Interface/IDataEntryForm/IDataEntryForm.RejectDataChanges.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="RejectDataChanges">
+    <param name="Name" value="IDataEntryForm.RejectDataChanges">
+    <param name="Local" value="Interface/IDataEntryForm/IDataEntryForm.RejectDataChanges.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDataEntryForm.Report">
+    <param name="Name" value="IDataEntryForm.Report">
+    <param name="Local" value="Interface/IDataEntryForm/IDataEntryForm.Report.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Report">
+    <param name="Name" value="IDataEntryForm.Report">
+    <param name="Local" value="Interface/IDataEntryForm/IDataEntryForm.Report.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDataEntryForm.Save">
+    <param name="Name" value="IDataEntryForm.Save">
+    <param name="Local" value="Interface/IDataEntryForm/IDataEntryForm.Save.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Save">
+    <param name="Name" value="IDataEntryForm.Save">
+    <param name="Local" value="Interface/IDataEntryForm/IDataEntryForm.Save.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDataEntryForm.SaveAs">
+    <param name="Name" value="IDataEntryForm.SaveAs">
+    <param name="Local" value="Interface/IDataEntryForm/IDataEntryForm.SaveAs.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="SaveAs">
+    <param name="Name" value="IDataEntryForm.SaveAs">
+    <param name="Local" value="Interface/IDataEntryForm/IDataEntryForm.SaveAs.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDataEntryForm.SaveDataChanges">
+    <param name="Name" value="IDataEntryForm.SaveDataChanges">
+    <param name="Local" value="Interface/IDataEntryForm/IDataEntryForm.SaveDataChanges.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="SaveDataChanges">
+    <param name="Name" value="IDataEntryForm.SaveDataChanges">
+    <param name="Local" value="Interface/IDataEntryForm/IDataEntryForm.SaveDataChanges.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDataEntryForm.Sheets">
+    <param name="Name" value="IDataEntryForm.Sheets">
+    <param name="Local" value="Interface/IDataEntryForm/IDataEntryForm.Sheets.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Sheets">
+    <param name="Name" value="IDataEntryForm.Sheets">
+    <param name="Local" value="Interface/IDataEntryForm/IDataEntryForm.Sheets.htm">
+    <param name="Name" value="IDefParameter.Sheets">
+    <param name="Local" value="Interface/IDefParameter/IDefParameter.Sheets.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefDimension">
+    <param name="Name" value="IDefDimension">
+    <param name="Local" value="Interface/IDefDimension/IDefDimension.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefDimension.CreateSelection">
+    <param name="Name" value="IDefDimension.CreateSelection">
+    <param name="Local" value="Interface/IDefDimension/IDefDimension.CreateSelection.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="CreateSelection">
+    <param name="Name" value="IDefDimension.CreateSelection">
+    <param name="Local" value="Interface/IDefDimension/IDefDimension.CreateSelection.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefDimension.ElemsSelection">
+    <param name="Name" value="IDefDimension.ElemsSelection">
+    <param name="Local" value="Interface/IDefDimension/IDefDimension.ElemsSelection.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ElemsSelection">
+    <param name="Name" value="IDefDimension.ElemsSelection">
+    <param name="Local" value="Interface/IDefDimension/IDefDimension.ElemsSelection.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefDimension.IsAllSelected">
+    <param name="Name" value="IDefDimension.IsAllSelected">
+    <param name="Local" value="Interface/IDefDimension/IDefDimension.IsAllSelected.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IsAllSelected">
+    <param name="Name" value="IDefDimension.IsAllSelected">
+    <param name="Local" value="Interface/IDefDimension/IDefDimension.IsAllSelected.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefDimension.Key">
+    <param name="Name" value="IDefDimension.Key">
+    <param name="Local" value="Interface/IDefDimension/IDefDimension.Key.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Key">
+    <param name="Name" value="IDefDimension.Key">
+    <param name="Local" value="Interface/IDefDimension/IDefDimension.Key.htm">
+    <param name="Name" value="IDefCalculationAlgorithm.Key">
+    <param name="Local" value="Interface/IDefCalculationAlgorithm/IDefCalculationAlgorithm.Key.htm">
+    <param name="Name" value="IDefParameter.Key">
+    <param name="Local" value="Interface/IDefParameter/IDefParameter.Key.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefDimension.Place">
+    <param name="Name" value="IDefDimension.Place">
+    <param name="Local" value="Interface/IDefDimension/IDefDimension.Place.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Place">
+    <param name="Name" value="IDefDimension.Place">
+    <param name="Local" value="Interface/IDefDimension/IDefDimension.Place.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefDimensions">
+    <param name="Name" value="IDefDimensions">
+    <param name="Local" value="Interface/IDefDimensions/IDefDimensions.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefDimensions.AddItem">
+    <param name="Name" value="IDefDimensions.AddItem">
+    <param name="Local" value="Interface/IDefDimensions/IDefDimensions.AddItem.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="AddItem">
+    <param name="Name" value="IDefDimensions.AddItem">
+    <param name="Local" value="Interface/IDefDimensions/IDefDimensions.AddItem.htm">
+    <param name="Name" value="IDefIndicators.AddItem">
+    <param name="Local" value="Interface/IDefIndicators/IDefIndicators.AddItem.htm">
+    <param name="Name" value="IDefSources.AddItem">
+    <param name="Local" value="Interface/IDefSources/IDefSources.AddItem.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefDimensions.Count">
+    <param name="Name" value="IDefDimensions.Count">
+    <param name="Local" value="Interface/IDefDimensions/IDefDimensions.Count.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Count">
+    <param name="Name" value="IDefDimensions.Count">
+    <param name="Local" value="Interface/IDefDimensions/IDefDimensions.Count.htm">
+    <param name="Name" value="IDefIndicators.Count">
+    <param name="Local" value="Interface/IDefIndicators/IDefIndicators.Count.htm">
+    <param name="Name" value="IDefInputAreas.Count">
+    <param name="Local" value="Interface/IDefInputAreas/IDefInputAreas.Count.htm">
+    <param name="Name" value="IDefPrivateDimensions.Count">
+    <param name="Local" value="Interface/IDefPrivateDimensions/IDefPrivateDimensions.Count.htm">
+    <param name="Name" value="IDefSources.Count">
+    <param name="Local" value="Interface/IDefSources/IDefSources.Count.htm">
+    <param name="Name" value="IDefCalculationAlgorithmMapInfoCollection.Count">
+    <param name="Local" value="Interface/IDefCalculationAlgorithmMapInfoCollection/IDefCalculationAlgorithmMapInfoCollection.Count.htm">
+    <param name="Name" value="IDefCalculationAlgorithmParametersCollection.Count">
+    <param name="Local" value="Interface/IDefCalculationAlgorithmParametersCollection/IDefCalculationAlgorithmParametersCollection.Count.htm">
+    <param name="Name" value="IDefCalculationAlgorithmsCollection.Count">
+    <param name="Local" value="Interface/IDefCalculationAlgorithmsCollection/IDefCalculationAlgorithmsCollection.Count.htm">
+    <param name="Name" value="IDefParameters.Count">
+    <param name="Local" value="Interface/IDefParameters/IDefParameters.Count.htm">
+    <param name="Name" value="IDefDrillDimensionLevels.Count">
+    <param name="Local" value="Interface/IDefDrillDimensionLevels/IDefDrillDimensionLevels.Count.htm">
+    <param name="Name" value="IDefDrillDimensionParameterValues.Count">
+    <param name="Local" value="Interface/IDefDrillDimensionParameterValues/IDefDrillDimensionParameterValues.Count.htm">
+    <param name="Name" value="IDefParameterLinks.Count">
+    <param name="Local" value="Interface/IDefParameterLinks/IDefParameterLinks.Count.htm">
+    <param name="Name" value="IDefGroupSettings.Count">
+    <param name="Local" value="Interface/IDefGroupSettings/IDefGroupSettings.Count.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefDimensions.Item">
+    <param name="Name" value="IDefDimensions.Item">
+    <param name="Local" value="Interface/IDefDimensions/IDefDimensions.Item.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Item">
+    <param name="Name" value="IDefDimensions.Item">
+    <param name="Local" value="Interface/IDefDimensions/IDefDimensions.Item.htm">
+    <param name="Name" value="IDefIndicators.Item">
+    <param name="Local" value="Interface/IDefIndicators/IDefIndicators.Item.htm">
+    <param name="Name" value="IDefInputAreas.Item">
+    <param name="Local" value="Interface/IDefInputAreas/IDefInputAreas.Item.htm">
+    <param name="Name" value="IDefPrivateDimensions.Item">
+    <param name="Local" value="Interface/IDefPrivateDimensions/IDefPrivateDimensions.Item.htm">
+    <param name="Name" value="IDefSources.Item">
+    <param name="Local" value="Interface/IDefSources/IDefSources.Item.htm">
+    <param name="Name" value="IDefCalclulationAlgorithmMapParamInfoCollection.Item">
+    <param name="Local" value="Interface/IDefCalclulationAlgorithmMapParamInfoCollection/IDefCalclulationAlgorithmMapParamInfoCollection.Item.htm">
+    <param name="Name" value="IDefCalculationAlgorithmMapInfoCollection.Item">
+    <param name="Local" value="Interface/IDefCalculationAlgorithmMapInfoCollection/IDefCalculationAlgorithmMapInfoCollection.Item.htm">
+    <param name="Name" value="IDefCalculationAlgorithmParametersCollection.Item">
+    <param name="Local" value="Interface/IDefCalculationAlgorithmParametersCollection/IDefCalculationAlgorithmParametersCollection.Item.htm">
+    <param name="Name" value="IDefCalculationAlgorithmsCollection.Item">
+    <param name="Local" value="Interface/IDefCalculationAlgorithmsCollection/IDefCalculationAlgorithmsCollection.Item.htm">
+    <param name="Name" value="IDefParameters.Item">
+    <param name="Local" value="Interface/IDefParameters/IDefParameters.Item.htm">
+    <param name="Name" value="IDefDrillDimensionLevels.Item">
+    <param name="Local" value="Interface/IDefDrillDimensionLevels/IDefDrillDimensionLevels.Item.htm">
+    <param name="Name" value="IDefDrillDimensionParameterValues.Item">
+    <param name="Local" value="Interface/IDefDrillDimensionParameterValues/IDefDrillDimensionParameterValues.Item.htm">
+    <param name="Name" value="IDefParameterLinks.Item">
+    <param name="Local" value="Interface/IDefParameterLinks/IDefParameterLinks.Item.htm">
+    <param name="Name" value="IDefGroupSettings.Item">
+    <param name="Local" value="Interface/IDefGroupSettings/IDefGroupSettings.Item.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefDimensions.RemoveItem">
+    <param name="Name" value="IDefDimensions.RemoveItem">
+    <param name="Local" value="Interface/IDefDimensions/IDefDimensions.RemoveItem.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="RemoveItem">
+    <param name="Name" value="IDefDimensions.RemoveItem">
+    <param name="Local" value="Interface/IDefDimensions/IDefDimensions.RemoveItem.htm">
+    <param name="Name" value="IDefIndicators.RemoveItem">
+    <param name="Local" value="Interface/IDefIndicators/IDefIndicators.RemoveItem.htm">
+    <param name="Name" value="IDefSources.RemoveItem">
+    <param name="Local" value="Interface/IDefSources/IDefSources.RemoveItem.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefDimensions.Swap">
+    <param name="Name" value="IDefDimensions.Swap">
+    <param name="Local" value="Interface/IDefDimensions/IDefDimensions.Swap.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Swap">
+    <param name="Name" value="IDefDimensions.Swap">
+    <param name="Local" value="Interface/IDefDimensions/IDefDimensions.Swap.htm">
+    <param name="Name" value="IDefIndicators.Swap">
+    <param name="Local" value="Interface/IDefIndicators/IDefIndicators.Swap.htm">
+    <param name="Name" value="IDefPrivateDimensions.Swap">
+    <param name="Local" value="Interface/IDefPrivateDimensions/IDefPrivateDimensions.Swap.htm">
+    <param name="Name" value="IDefParameters.Swap">
+    <param name="Local" value="Interface/IDefParameters/IDefParameters.Swap.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefIndicator">
+    <param name="Name" value="IDefIndicator">
+    <param name="Local" value="Interface/IDefIndicator/IDefIndicator.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefIndicator.DefDimensions">
+    <param name="Name" value="IDefIndicator.DefDimensions">
+    <param name="Local" value="Interface/IDefIndicator/IDefIndicator.DefDimensions.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="DefDimensions">
+    <param name="Name" value="IDefIndicator.DefDimensions">
+    <param name="Local" value="Interface/IDefIndicator/IDefIndicator.DefDimensions.htm">
+    <param name="Name" value="IDefTableArea.DefDimensions">
+    <param name="Local" value="Interface/IDefTableArea/IDefTableArea.DefDimensions.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefIndicator.Name">
+    <param name="Name" value="IDefIndicator.Name">
+    <param name="Local" value="Interface/IDefIndicator/IDefIndicator.Name.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Name">
+    <param name="Name" value="IDefIndicator.Name">
+    <param name="Local" value="Interface/IDefIndicator/IDefIndicator.Name.htm">
+    <param name="Name" value="IDefInputArea.Name">
+    <param name="Local" value="Interface/IDefInputArea/IDefInputArea.Name.htm">
+    <param name="Name" value="IDefCalculationAlgorithm.Name">
+    <param name="Local" value="Interface/IDefCalculationAlgorithm/IDefCalculationAlgorithm.Name.htm">
+    <param name="Name" value="IDefParameter.Name">
+    <param name="Local" value="Interface/IDefParameter/IDefParameter.Name.htm">
+    <param name="Name" value="IDefDrillDimensionParameterValue.Name">
+    <param name="Local" value="Interface/IDefDrillDimensionParameterValue/IDefDrillDimensionParameterValue.Name.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefIndicator.Unical">
+    <param name="Name" value="IDefIndicator.Unical">
+    <param name="Local" value="Interface/IDefIndicator/IDefIndicator.Unical.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Unical">
+    <param name="Name" value="IDefIndicator.Unical">
+    <param name="Local" value="Interface/IDefIndicator/IDefIndicator.Unical.htm">
+    <param name="Name" value="IDefCalculationAlgorithm.Unical">
+    <param name="Local" value="Interface/IDefCalculationAlgorithm/IDefCalculationAlgorithm.Unical.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefIndicators">
+    <param name="Name" value="IDefIndicators">
+    <param name="Local" value="Interface/IDefIndicators/IDefIndicators.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefIndicators.AddItem">
+    <param name="Name" value="IDefIndicators.AddItem">
+    <param name="Local" value="Interface/IDefIndicators/IDefIndicators.AddItem.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefIndicators.Count">
+    <param name="Name" value="IDefIndicators.Count">
+    <param name="Local" value="Interface/IDefIndicators/IDefIndicators.Count.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefIndicators.GetIndicatorByUnical">
+    <param name="Name" value="IDefIndicators.GetIndicatorByUnical">
+    <param name="Local" value="Interface/IDefIndicators/IDefIndicators.GetIndicatorByUnical.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GetIndicatorByUnical">
+    <param name="Name" value="IDefIndicators.GetIndicatorByUnical">
+    <param name="Local" value="Interface/IDefIndicators/IDefIndicators.GetIndicatorByUnical.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefIndicators.Item">
+    <param name="Name" value="IDefIndicators.Item">
+    <param name="Local" value="Interface/IDefIndicators/IDefIndicators.Item.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefIndicators.RemoveItem">
+    <param name="Name" value="IDefIndicators.RemoveItem">
+    <param name="Local" value="Interface/IDefIndicators/IDefIndicators.RemoveItem.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefIndicators.SetIndicatorAsFilter">
+    <param name="Name" value="IDefIndicators.SetIndicatorAsFilter">
+    <param name="Local" value="Interface/IDefIndicators/IDefIndicators.SetIndicatorAsFilter.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="SetIndicatorAsFilter">
+    <param name="Name" value="IDefIndicators.SetIndicatorAsFilter">
+    <param name="Local" value="Interface/IDefIndicators/IDefIndicators.SetIndicatorAsFilter.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefIndicators.Swap">
+    <param name="Name" value="IDefIndicators.Swap">
+    <param name="Local" value="Interface/IDefIndicators/IDefIndicators.Swap.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefInputArea">
+    <param name="Name" value="IDefInputArea">
+    <param name="Local" value="Interface/IDefInputArea/IDefInputArea.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefInputArea.Id">
+    <param name="Name" value="IDefInputArea.Id">
+    <param name="Local" value="Interface/IDefInputArea/IDefInputArea.Id.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Id">
+    <param name="Name" value="IDefInputArea.Id">
+    <param name="Local" value="Interface/IDefInputArea/IDefInputArea.Id.htm">
+    <param name="Name" value="IDefDrillDimensionParameterValue.Id">
+    <param name="Local" value="Interface/IDefDrillDimensionParameterValue/IDefDrillDimensionParameterValue.Id.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefInputArea.Name">
+    <param name="Name" value="IDefInputArea.Name">
+    <param name="Local" value="Interface/IDefInputArea/IDefInputArea.Name.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefInputAreas">
+    <param name="Name" value="IDefInputAreas">
+    <param name="Local" value="Interface/IDefInputAreas/IDefInputAreas.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefInputAreas.ApplyAreaToReport">
+    <param name="Name" value="IDefInputAreas.ApplyAreaToReport">
+    <param name="Local" value="Interface/IDefInputAreas/IDefInputAreas.ApplyAreaToReport.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ApplyAreaToReport">
+    <param name="Name" value="IDefInputAreas.ApplyAreaToReport">
+    <param name="Local" value="Interface/IDefInputAreas/IDefInputAreas.ApplyAreaToReport.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefInputAreas.Count">
+    <param name="Name" value="IDefInputAreas.Count">
+    <param name="Local" value="Interface/IDefInputAreas/IDefInputAreas.Count.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefInputAreas.CreateTableArea">
+    <param name="Name" value="IDefInputAreas.CreateTableArea">
+    <param name="Local" value="Interface/IDefInputAreas/IDefInputAreas.CreateTableArea.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="CreateTableArea">
+    <param name="Name" value="IDefInputAreas.CreateTableArea">
+    <param name="Local" value="Interface/IDefInputAreas/IDefInputAreas.CreateTableArea.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefInputAreas.GetTableArea">
+    <param name="Name" value="IDefInputAreas.GetTableArea">
+    <param name="Local" value="Interface/IDefInputAreas/IDefInputAreas.GetTableArea.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GetTableArea">
+    <param name="Name" value="IDefInputAreas.GetTableArea">
+    <param name="Local" value="Interface/IDefInputAreas/IDefInputAreas.GetTableArea.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefInputAreas.Item">
+    <param name="Name" value="IDefInputAreas.Item">
+    <param name="Local" value="Interface/IDefInputAreas/IDefInputAreas.Item.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefInputAreas.RemoveArea">
+    <param name="Name" value="IDefInputAreas.RemoveArea">
+    <param name="Local" value="Interface/IDefInputAreas/IDefInputAreas.RemoveArea.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="RemoveArea">
+    <param name="Name" value="IDefInputAreas.RemoveArea">
+    <param name="Local" value="Interface/IDefInputAreas/IDefInputAreas.RemoveArea.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefPrivateDimensions">
+    <param name="Name" value="IDefPrivateDimensions">
+    <param name="Local" value="Interface/IDefPrivateDimensions/IDefPrivateDimensions.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefPrivateDimensions.Count">
+    <param name="Name" value="IDefPrivateDimensions.Count">
+    <param name="Local" value="Interface/IDefPrivateDimensions/IDefPrivateDimensions.Count.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefPrivateDimensions.Item">
+    <param name="Name" value="IDefPrivateDimensions.Item">
+    <param name="Local" value="Interface/IDefPrivateDimensions/IDefPrivateDimensions.Item.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefPrivateDimensions.ItemByKey">
+    <param name="Name" value="IDefPrivateDimensions.ItemByKey">
+    <param name="Local" value="Interface/IDefPrivateDimensions/IDefPrivateDimensions.ItemByKey.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ItemByKey">
+    <param name="Name" value="IDefPrivateDimensions.ItemByKey">
+    <param name="Local" value="Interface/IDefPrivateDimensions/IDefPrivateDimensions.ItemByKey.htm">
+    <param name="Name" value="IDefParameters.ItemByKey">
+    <param name="Local" value="Interface/IDefParameters/IDefParameters.ItemByKey.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefPrivateDimensions.Swap">
+    <param name="Name" value="IDefPrivateDimensions.Swap">
+    <param name="Local" value="Interface/IDefPrivateDimensions/IDefPrivateDimensions.Swap.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefSources">
+    <param name="Name" value="IDefSources">
+    <param name="Local" value="Interface/IDefSources/IDefSources.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefSources.AddItem">
+    <param name="Name" value="IDefSources.AddItem">
+    <param name="Local" value="Interface/IDefSources/IDefSources.AddItem.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefSources.Count">
+    <param name="Name" value="IDefSources.Count">
+    <param name="Local" value="Interface/IDefSources/IDefSources.Count.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefSources.Item">
+    <param name="Name" value="IDefSources.Item">
+    <param name="Local" value="Interface/IDefSources/IDefSources.Item.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefSources.RemoveItem">
+    <param name="Name" value="IDefSources.RemoveItem">
+    <param name="Local" value="Interface/IDefSources/IDefSources.RemoveItem.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefTableArea">
+    <param name="Name" value="IDefTableArea">
+    <param name="Local" value="Interface/IDefTableArea/IDefTableArea.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefTableArea.DefDimensions">
+    <param name="Name" value="IDefTableArea.DefDimensions">
+    <param name="Local" value="Interface/IDefTableArea/IDefTableArea.DefDimensions.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefTableArea.DefIndicators">
+    <param name="Name" value="IDefTableArea.DefIndicators">
+    <param name="Local" value="Interface/IDefTableArea/IDefTableArea.DefIndicators.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="DefIndicators">
+    <param name="Name" value="IDefTableArea.DefIndicators">
+    <param name="Local" value="Interface/IDefTableArea/IDefTableArea.DefIndicators.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefTableArea.DefSources">
+    <param name="Name" value="IDefTableArea.DefSources">
+    <param name="Local" value="Interface/IDefTableArea/IDefTableArea.DefSources.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="DefSources">
+    <param name="Name" value="IDefTableArea.DefSources">
+    <param name="Local" value="Interface/IDefTableArea/IDefTableArea.DefSources.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefTableArea.GetAllowDimensionsKeysListJson">
+    <param name="Name" value="IDefTableArea.GetAllowDimensionsKeysListJson">
+    <param name="Local" value="Interface/IDefTableArea/IDefTableArea.GetAllowDimensionsKeysListJson.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GetAllowDimensionsKeysListJson">
+    <param name="Name" value="IDefTableArea.GetAllowDimensionsKeysListJson">
+    <param name="Local" value="Interface/IDefTableArea/IDefTableArea.GetAllowDimensionsKeysListJson.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Интерфейсы: API форм ввода">
+    <param name="Name" value="Интерфейсы: API форм ввода">
+    <param name="Local" value="Interface/DataEntryForm_Interfaces.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Перечисления: API форм ввода">
+    <param name="Name" value="Перечисления: API форм ввода">
+    <param name="Local" value="Enums/DataEntryForm_Enums.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Классы: API форм ввода">
+    <param name="Name" value="Классы: API форм ввода">
+    <param name="Local" value="Class/DataEntryForm_Classes.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Формы ввода">
+    <param name="Name" value="Формы ввода. API">
+    <param name="Local" value="DataEntryFormsCore_Title.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Введение">
+    <param name="Name" value="Введение: API форм ввода">
+    <param name="Local" value="Intro/DataEntryFormsCore_Intro.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefAttributeArea">
+    <param name="Name" value="IDefAttributeArea">
+    <param name="Local" value="Interface/IDefAttributeArea/IDefAttributeArea.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefAttributeArea.AdvancedFilters">
+    <param name="Name" value="IDefAttributeArea.AdvancedFilters">
+    <param name="Local" value="Interface/IDefAttributeArea/IDefAttributeArea.AdvancedFilters.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="AdvancedFilters">
+    <param name="Name" value="IDefAttributeArea.AdvancedFilters">
+    <param name="Local" value="Interface/IDefAttributeArea/IDefAttributeArea.AdvancedFilters.htm">
+    <param name="Name" value="IDefParameter.AdvancedFilters">
+    <param name="Local" value="Interface/IDefParameter/IDefParameter.AdvancedFilters.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefAttributeArea.AttributeKey">
+    <param name="Name" value="IDefAttributeArea.AttributeKey">
+    <param name="Local" value="Interface/IDefAttributeArea/IDefAttributeArea.AttributeKey.htm">
+    <param name="Name" value="IDefAttributeArea.ConsiderDefault">
+    <param name="Local" value="Interface/IDefAttributeArea/IDefAttributeArea.ConsiderDefault.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="AttributeKey">
+    <param name="Name" value="IDefAttributeArea.AttributeKey">
+    <param name="Local" value="Interface/IDefAttributeArea/IDefAttributeArea.AttributeKey.htm">
+    <param name="Name" value="IDefAttributeArea.ConsiderDefault">
+    <param name="Local" value="Interface/IDefAttributeArea/IDefAttributeArea.ConsiderDefault.htm">
+    <param name="Name" value="IDefParameterLinkAttributeInfo.AttributeKey">
+    <param name="Local" value="Interface/IDefParameterLinkAttributeInfo/IDefParameterLinkAttributeInfo.AttributeKey.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefAttributeArea.DefaultValue">
+    <param name="Name" value="IDefAttributeArea.DefaultValue">
+    <param name="Local" value="Interface/IDefAttributeArea/IDefAttributeArea.DefaultValue.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="DefaultValue">
+    <param name="Name" value="IDefAttributeArea.DefaultValue">
+    <param name="Local" value="Interface/IDefAttributeArea/IDefAttributeArea.DefaultValue.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefAttributeArea.DictionaryKey">
+    <param name="Name" value="IDefAttributeArea.DictionaryKey">
+    <param name="Local" value="Interface/IDefAttributeArea/IDefAttributeArea.DictionaryKey.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="DictionaryKey">
+    <param name="Name" value="IDefAttributeArea.DictionaryKey">
+    <param name="Local" value="Interface/IDefAttributeArea/IDefAttributeArea.DictionaryKey.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefAttributeArea.ParameterAttributeKey">
+    <param name="Name" value="IDefAttributeArea.ParameterAttributeKey">
+    <param name="Local" value="Interface/IDefAttributeArea/IDefAttributeArea.ParameterAttributeKey.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ParameterAttributeKey">
+    <param name="Name" value="IDefAttributeArea.ParameterAttributeKey">
+    <param name="Local" value="Interface/IDefAttributeArea/IDefAttributeArea.ParameterAttributeKey.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefAttributeArea.ParameterKey">
+    <param name="Name" value="IDefAttributeArea.ParameterKey">
+    <param name="Local" value="Interface/IDefAttributeArea/IDefAttributeArea.ParameterKey.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ParameterKey">
+    <param name="Name" value="IDefAttributeArea.ParameterKey">
+    <param name="Local" value="Interface/IDefAttributeArea/IDefAttributeArea.ParameterKey.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefAttributeArea.ReadOnly">
+    <param name="Name" value="IDefAttributeArea.ReadOnly">
+    <param name="Local" value="Interface/IDefAttributeArea/IDefAttributeArea.ReadOnly.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ReadOnly">
+    <param name="Name" value="IDefAttributeArea.ReadOnly">
+    <param name="Local" value="Interface/IDefAttributeArea/IDefAttributeArea.ReadOnly.htm">
+    <param name="Name" value="IDefIndicator.ReadOnly">
+    <param name="Local" value="Interface/IDefIndicator/IDefIndicator.ReadOnly.htm">
+    <param name="Name" value="IDefTableArea.ReadOnly">
+    <param name="Local" value="Interface/IDefTableArea/IDefTableArea.ReadOnly.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefInputAreas.CreateAttributeArea">
+    <param name="Name" value="IDefInputAreas.CreateAttributeArea">
+    <param name="Local" value="Interface/IDefInputAreas/IDefInputAreas.CreateAttributeArea.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="CreateAttributeArea">
+    <param name="Name" value="IDefInputAreas.CreateAttributeArea">
+    <param name="Local" value="Interface/IDefInputAreas/IDefInputAreas.CreateAttributeArea.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefInputAreas.GetAttributeArea">
+    <param name="Name" value="IDefInputAreas.GetAttributeArea">
+    <param name="Local" value="Interface/IDefInputAreas/IDefInputAreas.GetAttributeArea.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GetAttributeArea">
+    <param name="Name" value="IDefInputAreas.GetAttributeArea">
+    <param name="Local" value="Interface/IDefInputAreas/IDefInputAreas.GetAttributeArea.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="CalcParamSchema">
+    <param name="Name" value="CalcParamSchema">
+    <param name="Local" value="Enums/CalcParamSchema.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="CalcParamType">
+    <param name="Name" value="CalcParamType">
+    <param name="Local" value="Enums/CalcParamType.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="CalcPeriodMode">
+    <param name="Name" value="CalcPeriodMode">
+    <param name="Local" value="Enums/CalcPeriodMode.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="CalcType">
+    <param name="Name" value="CalcType">
+    <param name="Local" value="Enums/CalcType.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefCalclulationAlgorithmMapParamInfo">
+    <param name="Name" value="IDefCalclulationAlgorithmMapParamInfo">
+    <param name="Local" value="Interface/IDefCalclulationAlgorithmMapParamInfo/IDefCalclulationAlgorithmMapParamInfo.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefCalclulationAlgorithmMapParamInfo.LinkedFormParameterId">
+    <param name="Name" value="IDefCalclulationAlgorithmMapParamInfo.LinkedFormParameterId">
+    <param name="Local" value="Interface/IDefCalclulationAlgorithmMapParamInfo/IDefCalclulationAlgorithmMapParamInfo.LinkedFormParameterId.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="LinkedFormParameterId">
+    <param name="Name" value="IDefCalclulationAlgorithmMapParamInfo.LinkedFormParameterId">
+    <param name="Local" value="Interface/IDefCalclulationAlgorithmMapParamInfo/IDefCalclulationAlgorithmMapParamInfo.LinkedFormParameterId.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefCalclulationAlgorithmMapParamInfo.ThisFormParameterId">
+    <param name="Name" value="IDefCalclulationAlgorithmMapParamInfo.ThisFormParameterId">
+    <param name="Local" value="Interface/IDefCalclulationAlgorithmMapParamInfo/IDefCalclulationAlgorithmMapParamInfo.ThisFormParameterId.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ThisFormParameterId">
+    <param name="Name" value="IDefCalclulationAlgorithmMapParamInfo.ThisFormParameterId">
+    <param name="Local" value="Interface/IDefCalclulationAlgorithmMapParamInfo/IDefCalclulationAlgorithmMapParamInfo.ThisFormParameterId.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefCalclulationAlgorithmMapParamInfoCollection">
+    <param name="Name" value="IDefCalclulationAlgorithmMapParamInfoCollection">
+    <param name="Local" value="Interface/IDefCalclulationAlgorithmMapParamInfoCollection/IDefCalclulationAlgorithmMapParamInfoCollection.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefCalclulationAlgorithmMapParamInfoCollection.Count">
+    <param name="Name" value="IDefCalclulationAlgorithmMapParamInfoCollection.Count">
+    <param name="Local" value="Interface/IDefCalclulationAlgorithmMapParamInfoCollection/IDefCalclulationAlgorithmMapParamInfoCollection.Count.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefCalclulationAlgorithmMapParamInfoCollection.Item">
+    <param name="Name" value="IDefCalclulationAlgorithmMapParamInfoCollection.Item">
+    <param name="Local" value="Interface/IDefCalclulationAlgorithmMapParamInfoCollection/IDefCalclulationAlgorithmMapParamInfoCollection.Item.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefCalclulationAlgorithmMapParamInfoCollection.ItemByLinkedParameterId">
+    <param name="Name" value="IDefCalclulationAlgorithmMapParamInfoCollection.ItemByLinkedParameterId">
+    <param name="Local" value="Interface/IDefCalclulationAlgorithmMapParamInfoCollection/IDefCalclulationAlgorithmMapParamInfoCollection.ItemByLinkedParameterId.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ItemByLinkedParameterId">
+    <param name="Name" value="IDefCalclulationAlgorithmMapParamInfoCollection.ItemByLinkedParameterId">
+    <param name="Local" value="Interface/IDefCalclulationAlgorithmMapParamInfoCollection/IDefCalclulationAlgorithmMapParamInfoCollection.ItemByLinkedParameterId.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefCalculationAlgorithm">
+    <param name="Name" value="IDefCalculationAlgorithm">
+    <param name="Local" value="Interface/IDefCalculationAlgorithm/IDefCalculationAlgorithm.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefCalculationAlgorithm.BlockSaveData">
+    <param name="Name" value="IDefCalculationAlgorithm.BlockSaveData">
+    <param name="Local" value="Interface/IDefCalculationAlgorithm/IDefCalculationAlgorithm.BlockSaveData.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="BlockSaveData">
+    <param name="Name" value="IDefCalculationAlgorithm.BlockSaveData">
+    <param name="Local" value="Interface/IDefCalculationAlgorithm/IDefCalculationAlgorithm.BlockSaveData.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefCalculationAlgorithm.CalcPeriod">
+    <param name="Name" value="IDefCalculationAlgorithm.CalcPeriod">
+    <param name="Local" value="Interface/IDefCalculationAlgorithm/IDefCalculationAlgorithm.CalcPeriod.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="CalcPeriod">
+    <param name="Name" value="IDefCalculationAlgorithm.CalcPeriod">
+    <param name="Local" value="Interface/IDefCalculationAlgorithm/IDefCalculationAlgorithm.CalcPeriod.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefCalculationAlgorithm.ControlStyle">
+    <param name="Name" value="IDefCalculationAlgorithm.ControlStyle">
+    <param name="Local" value="Interface/IDefCalculationAlgorithm/IDefCalculationAlgorithm.ControlStyle.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ControlStyle">
+    <param name="Name" value="IDefCalculationAlgorithm.ControlStyle">
+    <param name="Local" value="Interface/IDefCalculationAlgorithm/IDefCalculationAlgorithm.ControlStyle.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefCalculationAlgorithm.Disabled">
+    <param name="Name" value="IDefCalculationAlgorithm.Disabled">
+    <param name="Local" value="Interface/IDefCalculationAlgorithm/IDefCalculationAlgorithm.Disabled.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Disabled">
+    <param name="Name" value="IDefCalculationAlgorithm.Disabled">
+    <param name="Local" value="Interface/IDefCalculationAlgorithm/IDefCalculationAlgorithm.Disabled.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefCalculationAlgorithm.ExtendLoadSelection">
+    <param name="Name" value="IDefCalculationAlgorithm.ExtendLoadSelection">
+    <param name="Local" value="Interface/IDefCalculationAlgorithm/IDefCalculationAlgorithm.ExtendLoadSelection.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ExtendLoadSelection">
+    <param name="Name" value="IDefCalculationAlgorithm.ExtendLoadSelection">
+    <param name="Local" value="Interface/IDefCalculationAlgorithm/IDefCalculationAlgorithm.ExtendLoadSelection.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefCalculationAlgorithm.HasCalcBlock">
+    <param name="Name" value="IDefCalculationAlgorithm.HasCalcBlock">
+    <param name="Local" value="Interface/IDefCalculationAlgorithm/IDefCalculationAlgorithm.HasCalcBlock.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="HasCalcBlock">
+    <param name="Name" value="IDefCalculationAlgorithm.HasCalcBlock">
+    <param name="Local" value="Interface/IDefCalculationAlgorithm/IDefCalculationAlgorithm.HasCalcBlock.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefCalculationAlgorithm.HasValidationBlock">
+    <param name="Name" value="IDefCalculationAlgorithm.HasValidationBlock">
+    <param name="Local" value="Interface/IDefCalculationAlgorithm/IDefCalculationAlgorithm.HasValidationBlock.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="HasValidationBlock">
+    <param name="Name" value="IDefCalculationAlgorithm.HasValidationBlock">
+    <param name="Local" value="Interface/IDefCalculationAlgorithm/IDefCalculationAlgorithm.HasValidationBlock.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefCalculationAlgorithm.Key">
+    <param name="Name" value="IDefCalculationAlgorithm.Key">
+    <param name="Local" value="Interface/IDefCalculationAlgorithm/IDefCalculationAlgorithm.Key.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefCalculationAlgorithm.MapInfo">
+    <param name="Name" value="IDefCalculationAlgorithm.MapInfo">
+    <param name="Local" value="Interface/IDefCalculationAlgorithm/IDefCalculationAlgorithm.MapInfo.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="MapInfo">
+    <param name="Name" value="IDefCalculationAlgorithm.MapInfo">
+    <param name="Local" value="Interface/IDefCalculationAlgorithm/IDefCalculationAlgorithm.MapInfo.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefCalculationAlgorithm.Name">
+    <param name="Name" value="IDefCalculationAlgorithm.Name">
+    <param name="Local" value="Interface/IDefCalculationAlgorithm/IDefCalculationAlgorithm.Name.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefCalculationAlgorithm.Parameters">
+    <param name="Name" value="IDefCalculationAlgorithm.Parameters">
+    <param name="Local" value="Interface/IDefCalculationAlgorithm/IDefCalculationAlgorithm.Parameters.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Parameters">
+    <param name="Name" value="IDefCalculationAlgorithm.Parameters">
+    <param name="Local" value="Interface/IDefCalculationAlgorithm/IDefCalculationAlgorithm.Parameters.htm">
+    <param name="Name" value="IDataEntryForm.Parameters">
+    <param name="Local" value="Interface/IDataEntryForm/IDataEntryForm.Parameters.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefCalculationAlgorithm.SaveDataOption">
+    <param name="Name" value="IDefCalculationAlgorithm.SaveDataOption">
+    <param name="Local" value="Interface/IDefCalculationAlgorithm/IDefCalculationAlgorithm.SaveDataOption.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="SaveDataOption">
+    <param name="Name" value="IDefCalculationAlgorithm.SaveDataOption">
+    <param name="Local" value="Interface/IDefCalculationAlgorithm/IDefCalculationAlgorithm.SaveDataOption.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefCalculationAlgorithm.Type">
+    <param name="Name" value="IDefCalculationAlgorithm.Type">
+    <param name="Local" value="Interface/IDefCalculationAlgorithm/IDefCalculationAlgorithm.Type.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Type">
+    <param name="Name" value="IDefCalculationAlgorithm.Type">
+    <param name="Local" value="Interface/IDefCalculationAlgorithm/IDefCalculationAlgorithm.Type.htm">
+    <param name="Name" value="IDefCalculationAlgorithmParameter.Type">
+    <param name="Local" value="Interface/IDefCalculationAlgorithmParameter/IDefCalculationAlgorithmParameter.Type.htm">
+    <param name="Name" value="IDefParameterLink.Type">
+    <param name="Local" value="Interface/IDefParameterLink/IDefParameterLink.Type.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefCalculationAlgorithm.Unical">
+    <param name="Name" value="IDefCalculationAlgorithm.Unical">
+    <param name="Local" value="Interface/IDefCalculationAlgorithm/IDefCalculationAlgorithm.Unical.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefCalculationAlgorithmMapInfo">
+    <param name="Name" value="IDefCalculationAlgorithmMapInfo">
+    <param name="Local" value="Interface/IDefCalculationAlgorithmMapInfo/IDefCalculationAlgorithmMapInfo.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefCalculationAlgorithmMapInfo.ClearThisForm">
+    <param name="Name" value="IDefCalculationAlgorithmMapInfo.ClearThisForm">
+    <param name="Local" value="Interface/IDefCalculationAlgorithmMapInfo/IDefCalculationAlgorithmMapInfo.ClearThisForm.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ClearThisForm">
+    <param name="Name" value="IDefCalculationAlgorithmMapInfo.ClearThisForm">
+    <param name="Local" value="Interface/IDefCalculationAlgorithmMapInfo/IDefCalculationAlgorithmMapInfo.ClearThisForm.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefCalculationAlgorithmMapInfo.FormKey">
+    <param name="Name" value="IDefCalculationAlgorithmMapInfo.FormKey">
+    <param name="Local" value="Interface/IDefCalculationAlgorithmMapInfo/IDefCalculationAlgorithmMapInfo.FormKey.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="FormKey">
+    <param name="Name" value="IDefCalculationAlgorithmMapInfo.FormKey">
+    <param name="Local" value="Interface/IDefCalculationAlgorithmMapInfo/IDefCalculationAlgorithmMapInfo.FormKey.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefCalculationAlgorithmMapInfo.MapParameters">
+    <param name="Name" value="IDefCalculationAlgorithmMapInfo.MapParameters">
+    <param name="Local" value="Interface/IDefCalculationAlgorithmMapInfo/IDefCalculationAlgorithmMapInfo.MapParameters.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="MapParameters">
+    <param name="Name" value="IDefCalculationAlgorithmMapInfo.MapParameters">
+    <param name="Local" value="Interface/IDefCalculationAlgorithmMapInfo/IDefCalculationAlgorithmMapInfo.MapParameters.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefCalculationAlgorithmMapInfo.SourceKey">
+    <param name="Name" value="IDefCalculationAlgorithmMapInfo.SourceKey">
+    <param name="Local" value="Interface/IDefCalculationAlgorithmMapInfo/IDefCalculationAlgorithmMapInfo.SourceKey.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="SourceKey">
+    <param name="Name" value="IDefCalculationAlgorithmMapInfo.SourceKey">
+    <param name="Local" value="Interface/IDefCalculationAlgorithmMapInfo/IDefCalculationAlgorithmMapInfo.SourceKey.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefCalculationAlgorithmMapInfoCollection">
+    <param name="Name" value="IDefCalculationAlgorithmMapInfoCollection">
+    <param name="Local" value="Interface/IDefCalculationAlgorithmMapInfoCollection/IDefCalculationAlgorithmMapInfoCollection.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefCalculationAlgorithmMapInfoCollection.Count">
+    <param name="Name" value="IDefCalculationAlgorithmMapInfoCollection.Count">
+    <param name="Local" value="Interface/IDefCalculationAlgorithmMapInfoCollection/IDefCalculationAlgorithmMapInfoCollection.Count.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefCalculationAlgorithmMapInfoCollection.Item">
+    <param name="Name" value="IDefCalculationAlgorithmMapInfoCollection.Item">
+    <param name="Local" value="Interface/IDefCalculationAlgorithmMapInfoCollection/IDefCalculationAlgorithmMapInfoCollection.Item.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefCalculationAlgorithmMapInfoCollection.ItemBySourceKey">
+    <param name="Name" value="IDefCalculationAlgorithmMapInfoCollection.ItemBySourceKey">
+    <param name="Local" value="Interface/IDefCalculationAlgorithmMapInfoCollection/IDefCalculationAlgorithmMapInfoCollection.ItemBySourceKey.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ItemBySourceKey">
+    <param name="Name" value="IDefCalculationAlgorithmMapInfoCollection.ItemBySourceKey">
+    <param name="Local" value="Interface/IDefCalculationAlgorithmMapInfoCollection/IDefCalculationAlgorithmMapInfoCollection.ItemBySourceKey.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefCalculationAlgorithmParameter">
+    <param name="Name" value="IDefCalculationAlgorithmParameter">
+    <param name="Local" value="Interface/IDefCalculationAlgorithmParameter/IDefCalculationAlgorithmParameter.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefCalculationAlgorithmParameter.AlgorithmParameterId">
+    <param name="Name" value="IDefCalculationAlgorithmParameter.AlgorithmParameterId">
+    <param name="Local" value="Interface/IDefCalculationAlgorithmParameter/IDefCalculationAlgorithmParameter.AlgorithmParameterId.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="AlgorithmParameterId">
+    <param name="Name" value="IDefCalculationAlgorithmParameter.AlgorithmParameterId">
+    <param name="Local" value="Interface/IDefCalculationAlgorithmParameter/IDefCalculationAlgorithmParameter.AlgorithmParameterId.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefCalculationAlgorithmParameter.AlgorithmParameterName">
+    <param name="Name" value="IDefCalculationAlgorithmParameter.AlgorithmParameterName">
+    <param name="Local" value="Interface/IDefCalculationAlgorithmParameter/IDefCalculationAlgorithmParameter.AlgorithmParameterName.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="AlgorithmParameterName">
+    <param name="Name" value="IDefCalculationAlgorithmParameter.AlgorithmParameterName">
+    <param name="Local" value="Interface/IDefCalculationAlgorithmParameter/IDefCalculationAlgorithmParameter.AlgorithmParameterName.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefCalculationAlgorithmParameter.DictSchemaId">
+    <param name="Name" value="IDefCalculationAlgorithmParameter.DictSchemaId">
+    <param name="Local" value="Interface/IDefCalculationAlgorithmParameter/IDefCalculationAlgorithmParameter.DictSchemaId.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="DictSchemaId">
+    <param name="Name" value="IDefCalculationAlgorithmParameter.DictSchemaId">
+    <param name="Local" value="Interface/IDefCalculationAlgorithmParameter/IDefCalculationAlgorithmParameter.DictSchemaId.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefCalculationAlgorithmParameter.FormParameterAttributeId">
+    <param name="Name" value="IDefCalculationAlgorithmParameter.FormParameterAttributeId">
+    <param name="Local" value="Interface/IDefCalculationAlgorithmParameter/IDefCalculationAlgorithmParameter.FormParameterAttributeId.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="FormParameterAttributeId">
+    <param name="Name" value="IDefCalculationAlgorithmParameter.FormParameterAttributeId">
+    <param name="Local" value="Interface/IDefCalculationAlgorithmParameter/IDefCalculationAlgorithmParameter.FormParameterAttributeId.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefCalculationAlgorithmParameter.FormParameterId">
+    <param name="Name" value="IDefCalculationAlgorithmParameter.FormParameterId">
+    <param name="Local" value="Interface/IDefCalculationAlgorithmParameter/IDefCalculationAlgorithmParameter.FormParameterId.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="FormParameterId">
+    <param name="Name" value="IDefCalculationAlgorithmParameter.FormParameterId">
+    <param name="Local" value="Interface/IDefCalculationAlgorithmParameter/IDefCalculationAlgorithmParameter.FormParameterId.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefCalculationAlgorithmParameter.SelectionMode">
+    <param name="Name" value="IDefCalculationAlgorithmParameter.SelectionMode">
+    <param name="Local" value="Interface/IDefCalculationAlgorithmParameter/IDefCalculationAlgorithmParameter.SelectionMode.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="SelectionMode">
+    <param name="Name" value="IDefCalculationAlgorithmParameter.SelectionMode">
+    <param name="Local" value="Interface/IDefCalculationAlgorithmParameter/IDefCalculationAlgorithmParameter.SelectionMode.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefCalculationAlgorithmParameter.Type">
+    <param name="Name" value="IDefCalculationAlgorithmParameter.Type">
+    <param name="Local" value="Interface/IDefCalculationAlgorithmParameter/IDefCalculationAlgorithmParameter.Type.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefCalculationAlgorithmParameter.Value">
+    <param name="Name" value="IDefCalculationAlgorithmParameter.Value">
+    <param name="Local" value="Interface/IDefCalculationAlgorithmParameter/IDefCalculationAlgorithmParameter.Value.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Value">
+    <param name="Name" value="IDefCalculationAlgorithmParameter.Value">
+    <param name="Local" value="Interface/IDefCalculationAlgorithmParameter/IDefCalculationAlgorithmParameter.Value.htm">
+    <param name="Name" value="IDefDrillDimensionParameterValue.Value">
+    <param name="Local" value="Interface/IDefDrillDimensionParameterValue/IDefDrillDimensionParameterValue.Value.htm">
+    <param name="Name" value="IDefParameterLink.Value">
+    <param name="Local" value="Interface/IDefParameterLink/IDefParameterLink.Value.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefCalculationAlgorithmParametersCollection">
+    <param name="Name" value="IDefCalculationAlgorithmParametersCollection">
+    <param name="Local" value="Interface/IDefCalculationAlgorithmParametersCollection/IDefCalculationAlgorithmParametersCollection.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefCalculationAlgorithmParametersCollection.Count">
+    <param name="Name" value="IDefCalculationAlgorithmParametersCollection.Count">
+    <param name="Local" value="Interface/IDefCalculationAlgorithmParametersCollection/IDefCalculationAlgorithmParametersCollection.Count.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefCalculationAlgorithmParametersCollection.Item">
+    <param name="Name" value="IDefCalculationAlgorithmParametersCollection.Item">
+    <param name="Local" value="Interface/IDefCalculationAlgorithmParametersCollection/IDefCalculationAlgorithmParametersCollection.Item.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefCalculationAlgorithmParametersCollection.ItemByAlgorithmParameterId">
+    <param name="Name" value="IDefCalculationAlgorithmParametersCollection.ItemByAlgorithmParameterId">
+    <param name="Local" value="Interface/IDefCalculationAlgorithmParametersCollection/IDefCalculationAlgorithmParametersCollection.ItemByAlgorithmParameterId.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ItemByAlgorithmParameterId">
+    <param name="Name" value="IDefCalculationAlgorithmParametersCollection.ItemByAlgorithmParameterId">
+    <param name="Local" value="Interface/IDefCalculationAlgorithmParametersCollection/IDefCalculationAlgorithmParametersCollection.ItemByAlgorithmParameterId.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefCalculationAlgorithmsCollection">
+    <param name="Name" value="IDefCalculationAlgorithmsCollection">
+    <param name="Local" value="Interface/IDefCalculationAlgorithmsCollection/IDefCalculationAlgorithmsCollection.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefCalculationAlgorithmsCollection.Add">
+    <param name="Name" value="IDefCalculationAlgorithmsCollection.Add">
+    <param name="Local" value="Interface/IDefCalculationAlgorithmsCollection/IDefCalculationAlgorithmsCollection.Add.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Add">
+    <param name="Name" value="IDefCalculationAlgorithmsCollection.Add">
+    <param name="Local" value="Interface/IDefCalculationAlgorithmsCollection/IDefCalculationAlgorithmsCollection.Add.htm">
+    <param name="Name" value="IDefParameters.Add">
+    <param name="Local" value="Interface/IDefParameters/IDefParameters.Add.htm">
+    <param name="Name" value="IDefGroupSettings.Add">
+    <param name="Local" value="Interface/IDefGroupSettings/IDefGroupSettings.Add.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefCalculationAlgorithmsCollection.Count">
+    <param name="Name" value="IDefCalculationAlgorithmsCollection.Count">
+    <param name="Local" value="Interface/IDefCalculationAlgorithmsCollection/IDefCalculationAlgorithmsCollection.Count.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefCalculationAlgorithmsCollection.Item">
+    <param name="Name" value="IDefCalculationAlgorithmsCollection.Item">
+    <param name="Local" value="Interface/IDefCalculationAlgorithmsCollection/IDefCalculationAlgorithmsCollection.Item.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefCalculationAlgorithmsCollection.ItemByUnical">
+    <param name="Name" value="IDefCalculationAlgorithmsCollection.ItemByUnical">
+    <param name="Local" value="Interface/IDefCalculationAlgorithmsCollection/IDefCalculationAlgorithmsCollection.ItemByUnical.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ItemByUnical">
+    <param name="Name" value="IDefCalculationAlgorithmsCollection.ItemByUnical">
+    <param name="Local" value="Interface/IDefCalculationAlgorithmsCollection/IDefCalculationAlgorithmsCollection.ItemByUnical.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefCalculationAlgorithmsCollection.MoveTo">
+    <param name="Name" value="IDefCalculationAlgorithmsCollection.MoveTo">
+    <param name="Local" value="Interface/IDefCalculationAlgorithmsCollection/IDefCalculationAlgorithmsCollection.MoveTo.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="MoveTo">
+    <param name="Name" value="IDefCalculationAlgorithmsCollection.MoveTo">
+    <param name="Local" value="Interface/IDefCalculationAlgorithmsCollection/IDefCalculationAlgorithmsCollection.MoveTo.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefCalculationAlgorithmsCollection.Remove">
+    <param name="Name" value="IDefCalculationAlgorithmsCollection.Remove">
+    <param name="Local" value="Interface/IDefCalculationAlgorithmsCollection/IDefCalculationAlgorithmsCollection.Remove.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Remove">
+    <param name="Name" value="IDefCalculationAlgorithmsCollection.Remove">
+    <param name="Local" value="Interface/IDefCalculationAlgorithmsCollection/IDefCalculationAlgorithmsCollection.Remove.htm">
+    <param name="Name" value="IDefParameters.Remove">
+    <param name="Local" value="Interface/IDefParameters/IDefParameters.Remove.htm">
+    <param name="Name" value="IDefGroupSettings.Remove">
+    <param name="Local" value="Interface/IDefGroupSettings/IDefGroupSettings.Remove.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefTableArea.CalculationAlgorithms">
+    <param name="Name" value="IDefTableArea.CalculationAlgorithms">
+    <param name="Local" value="Interface/IDefTableArea/IDefTableArea.CalculationAlgorithms.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="CalculationAlgorithms">
+    <param name="Name" value="IDefTableArea.CalculationAlgorithms">
+    <param name="Local" value="Interface/IDefTableArea/IDefTableArea.CalculationAlgorithms.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefTableArea.UpdateAfterSave">
+    <param name="Name" value="IDefTableArea.UpdateAfterSave">
+    <param name="Local" value="Interface/IDefTableArea/IDefTableArea.UpdateAfterSave.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="UpdateAfterSave">
+    <param name="Name" value="IDefTableArea.UpdateAfterSave">
+    <param name="Local" value="Interface/IDefTableArea/IDefTableArea.UpdateAfterSave.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDataEntryForm.RefreshDataSources">
+    <param name="Name" value="IDataEntryForm.RefreshDataSources">
+    <param name="Local" value="Interface/IDataEntryForm/IDataEntryForm.RefreshDataSources.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="RefreshDataSources">
+    <param name="Name" value="IDataEntryForm.RefreshDataSources">
+    <param name="Local" value="Interface/IDataEntryForm/IDataEntryForm.RefreshDataSources.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefInputAreas.TransposeTableAreaWithGrid">
+    <param name="Name" value="IDefInputAreas.TransposeTableAreaWithGrid">
+    <param name="Local" value="Interface/IDefInputAreas/IDefInputAreas.TransposeTableAreaWithGrid.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="TransposeTableAreaWithGrid">
+    <param name="Name" value="IDefInputAreas.TransposeTableAreaWithGrid">
+    <param name="Local" value="Interface/IDefInputAreas/IDefInputAreas.TransposeTableAreaWithGrid.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefTableArea.Transposed">
+    <param name="Name" value="IDefTableArea.Transposed">
+    <param name="Local" value="Interface/IDefTableArea/IDefTableArea.Transposed.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Transposed">
+    <param name="Name" value="IDefTableArea.Transposed">
+    <param name="Local" value="Interface/IDefTableArea/IDefTableArea.Transposed.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefTableArea.ShowName">
+    <param name="Name" value="IDefTableArea.ShowName">
+    <param name="Local" value="Interface/IDefTableArea/IDefTableArea.ShowName.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ShowName">
+    <param name="Name" value="IDefTableArea.ShowName">
+    <param name="Local" value="Interface/IDefTableArea/IDefTableArea.ShowName.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefTableArea.ShowTitles">
+    <param name="Name" value="IDefTableArea.ShowTitles">
+    <param name="Local" value="Interface/IDefTableArea/IDefTableArea.ShowTitles.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ShowTitles">
+    <param name="Name" value="IDefTableArea.ShowTitles">
+    <param name="Local" value="Interface/IDefTableArea/IDefTableArea.ShowTitles.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefParameter">
+    <param name="Name" value="IDefParameter">
+    <param name="Local" value="Interface/IDefParameter/IDefParameter.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefParameter.AdvancedFilters">
+    <param name="Name" value="IDefParameter.AdvancedFilters">
+    <param name="Local" value="Interface/IDefParameter/IDefParameter.AdvancedFilters.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefParameter.DefaultValueSelection">
+    <param name="Name" value="IDefParameter.DefaultValueSelection">
+    <param name="Local" value="Interface/IDefParameter/IDefParameter.DefaultValueSelection.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="DefaultValueSelection">
+    <param name="Name" value="IDefParameter.DefaultValueSelection">
+    <param name="Local" value="Interface/IDefParameter/IDefParameter.DefaultValueSelection.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefParameter.Dictionary">
+    <param name="Name" value="IDefParameter.Dictionary">
+    <param name="Local" value="Interface/IDefParameter/IDefParameter.Dictionary.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Dictionary">
+    <param name="Name" value="IDefParameter.Dictionary">
+    <param name="Local" value="Interface/IDefParameter/IDefParameter.Dictionary.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefParameter.DimensionInstance">
+    <param name="Name" value="IDefParameter.DimensionInstance">
+    <param name="Local" value="Interface/IDefParameter/IDefParameter.DimensionInstance.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="DimensionInstance">
+    <param name="Name" value="IDefParameter.DimensionInstance">
+    <param name="Local" value="Interface/IDefParameter/IDefParameter.DimensionInstance.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefParameter.IncludeAllSheets">
+    <param name="Name" value="IDefParameter.IncludeAllSheets">
+    <param name="Local" value="Interface/IDefParameter/IDefParameter.IncludeAllSheets.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IncludeAllSheets">
+    <param name="Name" value="IDefParameter.IncludeAllSheets">
+    <param name="Local" value="Interface/IDefParameter/IDefParameter.IncludeAllSheets.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefParameter.Key">
+    <param name="Name" value="IDefParameter.Key">
+    <param name="Local" value="Interface/IDefParameter/IDefParameter.Key.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefParameter.Name">
+    <param name="Name" value="IDefParameter.Name">
+    <param name="Local" value="Interface/IDefParameter/IDefParameter.Name.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefParameter.Order">
+    <param name="Name" value="IDefParameter.Order">
+    <param name="Local" value="Interface/IDefParameter/IDefParameter.Order.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Order">
+    <param name="Name" value="IDefParameter.Order">
+    <param name="Local" value="Interface/IDefParameter/IDefParameter.Order.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefParameter.SelectionType">
+    <param name="Name" value="IDefParameter.SelectionType">
+    <param name="Local" value="Interface/IDefParameter/IDefParameter.SelectionType.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="SelectionType">
+    <param name="Name" value="IDefParameter.SelectionType">
+    <param name="Local" value="Interface/IDefParameter/IDefParameter.SelectionType.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefParameter.Sheets">
+    <param name="Name" value="IDefParameter.Sheets">
+    <param name="Local" value="Interface/IDefParameter/IDefParameter.Sheets.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefParameter.UseDefaultValue">
+    <param name="Name" value="IDefParameter.UseDefaultValue">
+    <param name="Local" value="Interface/IDefParameter/IDefParameter.UseDefaultValue.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="UseDefaultValue">
+    <param name="Name" value="IDefParameter.UseDefaultValue">
+    <param name="Local" value="Interface/IDefParameter/IDefParameter.UseDefaultValue.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefParameters">
+    <param name="Name" value="IDefParameters">
+    <param name="Local" value="Interface/IDefParameters/IDefParameters.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefParameters.Add">
+    <param name="Name" value="IDefParameters.Add">
+    <param name="Local" value="Interface/IDefParameters/IDefParameters.Add.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefParameters.ApplyChanges">
+    <param name="Name" value="IDefParameters.ApplyChanges">
+    <param name="Local" value="Interface/IDefParameters/IDefParameters.ApplyChanges.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ApplyChanges">
+    <param name="Name" value="IDefParameters.ApplyChanges">
+    <param name="Local" value="Interface/IDefParameters/IDefParameters.ApplyChanges.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefParameters.BeginUpdate">
+    <param name="Name" value="IDefParameters.BeginUpdate">
+    <param name="Local" value="Interface/IDefParameters/IDefParameters.BeginUpdate.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="BeginUpdate">
+    <param name="Name" value="IDefParameters.BeginUpdate">
+    <param name="Local" value="Interface/IDefParameters/IDefParameters.BeginUpdate.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefParameters.CancelChanges">
+    <param name="Name" value="IDefParameters.CancelChanges">
+    <param name="Local" value="Interface/IDefParameters/IDefParameters.CancelChanges.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="CancelChanges">
+    <param name="Name" value="IDefParameters.CancelChanges">
+    <param name="Local" value="Interface/IDefParameters/IDefParameters.CancelChanges.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefParameters.Count">
+    <param name="Name" value="IDefParameters.Count">
+    <param name="Local" value="Interface/IDefParameters/IDefParameters.Count.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefParameters.Item">
+    <param name="Name" value="IDefParameters.Item">
+    <param name="Local" value="Interface/IDefParameters/IDefParameters.Item.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefParameters.ItemByKey">
+    <param name="Name" value="IDefParameters.ItemByKey">
+    <param name="Local" value="Interface/IDefParameters/IDefParameters.ItemByKey.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefParameters.Remove">
+    <param name="Name" value="IDefParameters.Remove">
+    <param name="Local" value="Interface/IDefParameters/IDefParameters.Remove.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefParameters.Swap">
+    <param name="Name" value="IDefParameters.Swap">
+    <param name="Local" value="Interface/IDefParameters/IDefParameters.Swap.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDataEntryForm.Parameters">
+    <param name="Name" value="IDataEntryForm.Parameters">
+    <param name="Local" value="Interface/IDataEntryForm/IDataEntryForm.Parameters.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefParametersApplyResult">
+    <param name="Name" value="IDefParametersApplyResult">
+    <param name="Local" value="Interface/IDefParametersApplyResult/IDefParametersApplyResult.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefParametersApplyResult.Message">
+    <param name="Name" value="IDefParametersApplyResult.Message">
+    <param name="Local" value="Interface/IDefParametersApplyResult/IDefParametersApplyResult.Message.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Message">
+    <param name="Name" value="IDefParametersApplyResult.Message">
+    <param name="Local" value="Interface/IDefParametersApplyResult/IDefParametersApplyResult.Message.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefParametersApplyResult.ParamKey">
+    <param name="Name" value="IDefParametersApplyResult.ParamKey">
+    <param name="Local" value="Interface/IDefParametersApplyResult/IDefParametersApplyResult.ParamKey.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ParamKey">
+    <param name="Name" value="IDefParametersApplyResult.ParamKey">
+    <param name="Local" value="Interface/IDefParametersApplyResult/IDefParametersApplyResult.ParamKey.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefParametersApplyResult.Success">
+    <param name="Name" value="IDefParametersApplyResult.Success">
+    <param name="Local" value="Interface/IDefParametersApplyResult/IDefParametersApplyResult.Success.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Success">
+    <param name="Name" value="IDefParametersApplyResult.Success">
+    <param name="Local" value="Interface/IDefParametersApplyResult/IDefParametersApplyResult.Success.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefParametersApplyResult.Title">
+    <param name="Name" value="IDefParametersApplyResult.Title">
+    <param name="Local" value="Interface/IDefParametersApplyResult/IDefParametersApplyResult.Title.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Title">
+    <param name="Name" value="IDefParametersApplyResult.Title">
+    <param name="Local" value="Interface/IDefParametersApplyResult/IDefParametersApplyResult.Title.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDataEntryForm.refreshOnEdit">
+    <param name="Name" value="IDataEntryForm.refreshOnEdit">
+    <param name="Local" value="Interface/IDataEntryForm/IDataEntryForm.refreshOnEdit.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="refreshOnEdit">
+    <param name="Name" value="IDataEntryForm.refreshOnEdit">
+    <param name="Local" value="Interface/IDataEntryForm/IDataEntryForm.refreshOnEdit.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefTableArea.MultiLevelTopHeader">
+    <param name="Name" value="IDefTableArea.MultiLevelTopHeader">
+    <param name="Local" value="Interface/IDefTableArea/IDefTableArea.MultiLevelTopHeader.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="MultiLevelTopHeader">
+    <param name="Name" value="IDefTableArea.MultiLevelTopHeader">
+    <param name="Local" value="Interface/IDefTableArea/IDefTableArea.MultiLevelTopHeader.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="emTabRowInsert">
+    <param name="Name" value="emTabRowInsert">
+    <param name="Local" value="Enums/emTabRowInsert.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefTableArea.ColumnBehaviour">
+    <param name="Name" value="IDefTableArea.ColumnBehaviour">
+    <param name="Local" value="Interface/IDefTableArea/IDefTableArea.ColumnBehaviour.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ColumnBehaviour">
+    <param name="Name" value="IDefTableArea.ColumnBehaviour">
+    <param name="Local" value="Interface/IDefTableArea/IDefTableArea.ColumnBehaviour.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefTableArea.RowBehaviour">
+    <param name="Name" value="IDefTableArea.RowBehaviour">
+    <param name="Local" value="Interface/IDefTableArea/IDefTableArea.RowBehaviour.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="RowBehaviour">
+    <param name="Name" value="IDefTableArea.RowBehaviour">
+    <param name="Local" value="Interface/IDefTableArea/IDefTableArea.RowBehaviour.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefDimension.Drill">
+    <param name="Name" value="IDefDimension.Drill">
+    <param name="Local" value="Interface/IDefDimension/IDefDimension.Drill.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Drill">
+    <param name="Name" value="IDefDimension.Drill">
+    <param name="Local" value="Interface/IDefDimension/IDefDimension.Drill.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefDrillDimension">
+    <param name="Name" value="IDefDrillDimension">
+    <param name="Local" value="Interface/IDefDrillDimension/IDefDrillDimension.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefDrillDimension.Clear">
+    <param name="Name" value="IDefDrillDimension.Clear">
+    <param name="Local" value="Interface/IDefDrillDimension/IDefDrillDimension.Clear.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Clear">
+    <param name="Name" value="IDefDrillDimension.Clear">
+    <param name="Local" value="Interface/IDefDrillDimension/IDefDrillDimension.Clear.htm">
+    <param name="Name" value="IDefDrillDimensionLevel.Clear">
+    <param name="Local" value="Interface/IDefDrillDimensionLevel/IDefDrillDimensionLevel.Clear.htm">
+    <param name="Name" value="IDefDrillDimensionLevels.Clear">
+    <param name="Local" value="Interface/IDefDrillDimensionLevels/IDefDrillDimensionLevels.Clear.htm">
+    <param name="Name" value="IDefDrillDimensionParameterValue.Clear">
+    <param name="Local" value="Interface/IDefDrillDimensionParameterValue/IDefDrillDimensionParameterValue.Clear.htm">
+    <param name="Name" value="IDefDrillDimensionParameterValues.Clear">
+    <param name="Local" value="Interface/IDefDrillDimensionParameterValues/IDefDrillDimensionParameterValues.Clear.htm">
+    <param name="Name" value="IDefGroupSettings.Clear">
+    <param name="Local" value="Interface/IDefGroupSettings/IDefGroupSettings.Clear.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefDrillDimension.CreateElement">
+    <param name="Name" value="IDefDrillDimension.CreateElement">
+    <param name="Local" value="Interface/IDefDrillDimension/IDefDrillDimension.CreateElement.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="CreateElement">
+    <param name="Name" value="IDefDrillDimension.CreateElement">
+    <param name="Local" value="Interface/IDefDrillDimension/IDefDrillDimension.CreateElement.htm">
+    <param name="Name" value="IDefDrillDimensionLevel.CreateElement">
+    <param name="Local" value="Interface/IDefDrillDimensionLevel/IDefDrillDimensionLevel.CreateElement.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefDrillDimension.DrillDescriptor">
+    <param name="Name" value="IDefDrillDimension.DrillDescriptor">
+    <param name="Local" value="Interface/IDefDrillDimension/IDefDrillDimension.DrillDescriptor.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="DrillDescriptor">
+    <param name="Name" value="IDefDrillDimension.DrillDescriptor">
+    <param name="Local" value="Interface/IDefDrillDimension/IDefDrillDimension.DrillDescriptor.htm">
+    <param name="Name" value="IDefDrillDimensionLevel.DrillDescriptor">
+    <param name="Local" value="Interface/IDefDrillDimensionLevel/IDefDrillDimensionLevel.DrillDescriptor.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefDrillDimension.DrillLevels">
+    <param name="Name" value="IDefDrillDimension.DrillLevels">
+    <param name="Local" value="Interface/IDefDrillDimension/IDefDrillDimension.DrillLevels.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="DrillLevels">
+    <param name="Name" value="IDefDrillDimension.DrillLevels">
+    <param name="Local" value="Interface/IDefDrillDimension/IDefDrillDimension.DrillLevels.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefDrillDimension.LevelIndex">
+    <param name="Name" value="IDefDrillDimension.LevelIndex">
+    <param name="Local" value="Interface/IDefDrillDimension/IDefDrillDimension.LevelIndex.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="LevelIndex">
+    <param name="Name" value="IDefDrillDimension.LevelIndex">
+    <param name="Local" value="Interface/IDefDrillDimension/IDefDrillDimension.LevelIndex.htm">
+    <param name="Name" value="IDefDrillDimensionLevel.LevelIndex">
+    <param name="Local" value="Interface/IDefDrillDimensionLevel/IDefDrillDimensionLevel.LevelIndex.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefDrillDimension.OpenOnSheetKey">
+    <param name="Name" value="IDefDrillDimension.OpenOnSheetKey">
+    <param name="Local" value="Interface/IDefDrillDimension/IDefDrillDimension.OpenOnSheetKey.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="OpenOnSheetKey">
+    <param name="Name" value="IDefDrillDimension.OpenOnSheetKey">
+    <param name="Local" value="Interface/IDefDrillDimension/IDefDrillDimension.OpenOnSheetKey.htm">
+    <param name="Name" value="IDefDrillDimensionLevel.OpenOnSheetKey">
+    <param name="Local" value="Interface/IDefDrillDimensionLevel/IDefDrillDimensionLevel.OpenOnSheetKey.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefDrillDimension.ParameterValues">
+    <param name="Name" value="IDefDrillDimension.ParameterValues">
+    <param name="Local" value="Interface/IDefDrillDimension/IDefDrillDimension.ParameterValues.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ParameterValues">
+    <param name="Name" value="IDefDrillDimension.ParameterValues">
+    <param name="Local" value="Interface/IDefDrillDimension/IDefDrillDimension.ParameterValues.htm">
+    <param name="Name" value="IDefDrillDimensionLevel.ParameterValues">
+    <param name="Local" value="Interface/IDefDrillDimensionLevel/IDefDrillDimensionLevel.ParameterValues.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefDrillDimension.RefreshAfterCreationClose">
+    <param name="Name" value="IDefDrillDimension.RefreshAfterCreationClose">
+    <param name="Local" value="Interface/IDefDrillDimension/IDefDrillDimension.RefreshAfterCreationClose.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="RefreshAfterCreationClose">
+    <param name="Name" value="IDefDrillDimension.RefreshAfterCreationClose">
+    <param name="Local" value="Interface/IDefDrillDimension/IDefDrillDimension.RefreshAfterCreationClose.htm">
+    <param name="Name" value="IDefDrillDimensionLevel.RefreshAfterCreationClose">
+    <param name="Local" value="Interface/IDefDrillDimensionLevel/IDefDrillDimensionLevel.RefreshAfterCreationClose.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefDrillDimension.UserCaption">
+    <param name="Name" value="IDefDrillDimension.UserCaption">
+    <param name="Local" value="Interface/IDefDrillDimension/IDefDrillDimension.UserCaption.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="UserCaption">
+    <param name="Name" value="IDefDrillDimension.UserCaption">
+    <param name="Local" value="Interface/IDefDrillDimension/IDefDrillDimension.UserCaption.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefDrillDimensionLevel">
+    <param name="Name" value="IDefDrillDimensionLevel">
+    <param name="Local" value="Interface/IDefDrillDimensionLevel/IDefDrillDimensionLevel.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefDrillDimensionLevel.Clear">
+    <param name="Name" value="IDefDrillDimensionLevel.Clear">
+    <param name="Local" value="Interface/IDefDrillDimensionLevel/IDefDrillDimensionLevel.Clear.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefDrillDimensionLevel.CreateElement">
+    <param name="Name" value="IDefDrillDimensionLevel.CreateElement">
+    <param name="Local" value="Interface/IDefDrillDimensionLevel/IDefDrillDimensionLevel.CreateElement.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefDrillDimensionLevel.DrillDescriptor">
+    <param name="Name" value="IDefDrillDimensionLevel.DrillDescriptor">
+    <param name="Local" value="Interface/IDefDrillDimensionLevel/IDefDrillDimensionLevel.DrillDescriptor.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefDrillDimensionLevel.LevelIndex">
+    <param name="Name" value="IDefDrillDimensionLevel.LevelIndex">
+    <param name="Local" value="Interface/IDefDrillDimensionLevel/IDefDrillDimensionLevel.LevelIndex.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefDrillDimensionLevel.OpenOnSheetKey">
+    <param name="Name" value="IDefDrillDimensionLevel.OpenOnSheetKey">
+    <param name="Local" value="Interface/IDefDrillDimensionLevel/IDefDrillDimensionLevel.OpenOnSheetKey.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefDrillDimensionLevel.ParameterValues">
+    <param name="Name" value="IDefDrillDimensionLevel.ParameterValues">
+    <param name="Local" value="Interface/IDefDrillDimensionLevel/IDefDrillDimensionLevel.ParameterValues.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefDrillDimensionLevel.RefreshAfterCreationClose">
+    <param name="Name" value="IDefDrillDimensionLevel.RefreshAfterCreationClose">
+    <param name="Local" value="Interface/IDefDrillDimensionLevel/IDefDrillDimensionLevel.RefreshAfterCreationClose.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefDrillDimensionLevels">
+    <param name="Name" value="IDefDrillDimensionLevels">
+    <param name="Local" value="Interface/IDefDrillDimensionLevels/IDefDrillDimensionLevels.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefDrillDimensionLevels.Clear">
+    <param name="Name" value="IDefDrillDimensionLevels.Clear">
+    <param name="Local" value="Interface/IDefDrillDimensionLevels/IDefDrillDimensionLevels.Clear.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefDrillDimensionLevels.Count">
+    <param name="Name" value="IDefDrillDimensionLevels.Count">
+    <param name="Local" value="Interface/IDefDrillDimensionLevels/IDefDrillDimensionLevels.Count.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefDrillDimensionLevels.Item">
+    <param name="Name" value="IDefDrillDimensionLevels.Item">
+    <param name="Local" value="Interface/IDefDrillDimensionLevels/IDefDrillDimensionLevels.Item.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefDrillDimensionParameterValue">
+    <param name="Name" value="IDefDrillDimensionParameterValue">
+    <param name="Local" value="Interface/IDefDrillDimensionParameterValue/IDefDrillDimensionParameterValue.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefDrillDimensionParameterValue.Clear">
+    <param name="Name" value="IDefDrillDimensionParameterValue.Clear">
+    <param name="Local" value="Interface/IDefDrillDimensionParameterValue/IDefDrillDimensionParameterValue.Clear.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefDrillDimensionParameterValue.DrillType">
+    <param name="Name" value="IDefDrillDimensionParameterValue.DrillType">
+    <param name="Local" value="Interface/IDefDrillDimensionParameterValue/IDefDrillDimensionParameterValue.DrillType.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="DrillType">
+    <param name="Name" value="IDefDrillDimensionParameterValue.DrillType">
+    <param name="Local" value="Interface/IDefDrillDimensionParameterValue/IDefDrillDimensionParameterValue.DrillType.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefDrillDimensionParameterValue.Id">
+    <param name="Name" value="IDefDrillDimensionParameterValue.Id">
+    <param name="Local" value="Interface/IDefDrillDimensionParameterValue/IDefDrillDimensionParameterValue.Id.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefDrillDimensionParameterValue.Name">
+    <param name="Name" value="IDefDrillDimensionParameterValue.Name">
+    <param name="Local" value="Interface/IDefDrillDimensionParameterValue/IDefDrillDimensionParameterValue.Name.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefDrillDimensionParameterValue.Value">
+    <param name="Name" value="IDefDrillDimensionParameterValue.Value">
+    <param name="Local" value="Interface/IDefDrillDimensionParameterValue/IDefDrillDimensionParameterValue.Value.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefDrillDimensionParameterValues">
+    <param name="Name" value="IDefDrillDimensionParameterValues">
+    <param name="Local" value="Interface/IDefDrillDimensionParameterValues/IDefDrillDimensionParameterValues.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefDrillDimensionParameterValues.Clear">
+    <param name="Name" value="IDefDrillDimensionParameterValues.Clear">
+    <param name="Local" value="Interface/IDefDrillDimensionParameterValues/IDefDrillDimensionParameterValues.Clear.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefDrillDimensionParameterValues.Count">
+    <param name="Name" value="IDefDrillDimensionParameterValues.Count">
+    <param name="Local" value="Interface/IDefDrillDimensionParameterValues/IDefDrillDimensionParameterValues.Count.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefDrillDimensionParameterValues.Item">
+    <param name="Name" value="IDefDrillDimensionParameterValues.Item">
+    <param name="Local" value="Interface/IDefDrillDimensionParameterValues/IDefDrillDimensionParameterValues.Item.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefDrillDimensionParameterValues.ItemById">
+    <param name="Name" value="IDefDrillDimensionParameterValues.ItemById">
+    <param name="Local" value="Interface/IDefDrillDimensionParameterValues/IDefDrillDimensionParameterValues.ItemById.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ItemById">
+    <param name="Name" value="IDefDrillDimensionParameterValues.ItemById">
+    <param name="Local" value="Interface/IDefDrillDimensionParameterValues/IDefDrillDimensionParameterValues.ItemById.htm">
+    <param name="Name" value="IDefParameterLinks.ItemById">
+    <param name="Local" value="Interface/IDefParameterLinks/IDefParameterLinks.ItemById.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefParameter.ParametersMap">
+    <param name="Name" value="IDefParameter.ParametersMap">
+    <param name="Local" value="Interface/IDefParameter/IDefParameter.ParametersMap.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ParametersMap">
+    <param name="Name" value="IDefParameter.ParametersMap">
+    <param name="Local" value="Interface/IDefParameter/IDefParameter.ParametersMap.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefParameterLink">
+    <param name="Name" value="IDefParameterLink">
+    <param name="Local" value="Interface/IDefParameterLink/IDefParameterLink.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefParameterLink.Attribute">
+    <param name="Name" value="IDefParameterLink.Attribute">
+    <param name="Local" value="Interface/IDefParameterLink/IDefParameterLink.Attribute.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Attribute">
+    <param name="Name" value="IDefParameterLink.Attribute">
+    <param name="Local" value="Interface/IDefParameterLink/IDefParameterLink.Attribute.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefParameterLink.ParameterId">
+    <param name="Name" value="IDefParameterLink.ParameterId">
+    <param name="Local" value="Interface/IDefParameterLink/IDefParameterLink.ParameterId.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ParameterId">
+    <param name="Name" value="IDefParameterLink.ParameterId">
+    <param name="Local" value="Interface/IDefParameterLink/IDefParameterLink.ParameterId.htm">
+    <param name="Name" value="IDefParameterLinkAttributeInfo.ParameterId">
+    <param name="Local" value="Interface/IDefParameterLinkAttributeInfo/IDefParameterLinkAttributeInfo.ParameterId.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefParameterLink.Type">
+    <param name="Name" value="IDefParameterLink.Type">
+    <param name="Local" value="Interface/IDefParameterLink/IDefParameterLink.Type.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefParameterLink.Value">
+    <param name="Name" value="IDefParameterLink.Value">
+    <param name="Local" value="Interface/IDefParameterLink/IDefParameterLink.Value.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefParameterLinkAttributeInfo">
+    <param name="Name" value="IDefParameterLinkAttributeInfo">
+    <param name="Local" value="Interface/IDefParameterLinkAttributeInfo/IDefParameterLinkAttributeInfo.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefParameterLinkAttributeInfo.AttributeKey">
+    <param name="Name" value="IDefParameterLinkAttributeInfo.AttributeKey">
+    <param name="Local" value="Interface/IDefParameterLinkAttributeInfo/IDefParameterLinkAttributeInfo.AttributeKey.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefParameterLinkAttributeInfo.ParameterId">
+    <param name="Name" value="IDefParameterLinkAttributeInfo.ParameterId">
+    <param name="Local" value="Interface/IDefParameterLinkAttributeInfo/IDefParameterLinkAttributeInfo.ParameterId.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefParameterLinks">
+    <param name="Name" value="IDefParameterLinks">
+    <param name="Local" value="Interface/IDefParameterLinks/IDefParameterLinks.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefParameterLinks.Count">
+    <param name="Name" value="IDefParameterLinks.Count">
+    <param name="Local" value="Interface/IDefParameterLinks/IDefParameterLinks.Count.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefParameterLinks.Item">
+    <param name="Name" value="IDefParameterLinks.Item">
+    <param name="Local" value="Interface/IDefParameterLinks/IDefParameterLinks.Item.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefParameterLinks.ItemById">
+    <param name="Name" value="IDefParameterLinks.ItemById">
+    <param name="Local" value="Interface/IDefParameterLinks/IDefParameterLinks.ItemById.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefIndicator.ReadOnly">
+    <param name="Name" value="IDefIndicator.ReadOnly">
+    <param name="Local" value="Interface/IDefIndicator/IDefIndicator.ReadOnly.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefTableArea.ReadOnly">
+    <param name="Name" value="IDefTableArea.ReadOnly">
+    <param name="Local" value="Interface/IDefTableArea/IDefTableArea.ReadOnly.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefTableArea.ShowAccessCells">
+    <param name="Name" value="IDefTableArea.ShowAccessCells">
+    <param name="Local" value="Interface/IDefTableArea/IDefTableArea.ShowAccessCells.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ShowAccessCells">
+    <param name="Name" value="IDefTableArea.ShowAccessCells">
+    <param name="Local" value="Interface/IDefTableArea/IDefTableArea.ShowAccessCells.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefTableArea.ShowEvalCells">
+    <param name="Name" value="IDefTableArea.ShowEvalCells">
+    <param name="Local" value="Interface/IDefTableArea/IDefTableArea.ShowEvalCells.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ShowEvalCells">
+    <param name="Name" value="IDefTableArea.ShowEvalCells">
+    <param name="Local" value="Interface/IDefTableArea/IDefTableArea.ShowEvalCells.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefTableArea.ShowOnlyFixedParams">
+    <param name="Name" value="IDefTableArea.ShowOnlyFixedParams">
+    <param name="Local" value="Interface/IDefTableArea/IDefTableArea.ShowOnlyFixedParams.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ShowOnlyFixedParams">
+    <param name="Name" value="IDefTableArea.ShowOnlyFixedParams">
+    <param name="Local" value="Interface/IDefTableArea/IDefTableArea.ShowOnlyFixedParams.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefTableArea.ShowParams">
+    <param name="Name" value="IDefTableArea.ShowParams">
+    <param name="Local" value="Interface/IDefTableArea/IDefTableArea.ShowParams.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ShowParams">
+    <param name="Name" value="IDefTableArea.ShowParams">
+    <param name="Local" value="Interface/IDefTableArea/IDefTableArea.ShowParams.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefTableArea.UseVirtualCells">
+    <param name="Name" value="IDefTableArea.UseVirtualCells">
+    <param name="Local" value="Interface/IDefTableArea/IDefTableArea.UseVirtualCells.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="UseVirtualCells">
+    <param name="Name" value="IDefTableArea.UseVirtualCells">
+    <param name="Local" value="Interface/IDefTableArea/IDefTableArea.UseVirtualCells.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefTableArea.GroupSettings">
+    <param name="Name" value="IDefTableArea.GroupSettings">
+    <param name="Local" value="Interface/IDefTableArea/IDefTableArea.GroupSettings.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GroupSettings">
+    <param name="Name" value="IDefTableArea.GroupSettings">
+    <param name="Local" value="Interface/IDefTableArea/IDefTableArea.GroupSettings.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefGroupSetting">
+    <param name="Name" value="IDefGroupSetting">
+    <param name="Local" value="Interface/IDefGroupSetting/IDefGroupSetting.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefGroupSetting.Attributes">
+    <param name="Name" value="IDefGroupSetting.Attributes">
+    <param name="Local" value="Interface/IDefGroupSetting/IDefGroupSetting.Attributes.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Attributes">
+    <param name="Name" value="IDefGroupSetting.Attributes">
+    <param name="Local" value="Interface/IDefGroupSetting/IDefGroupSetting.Attributes.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefGroupSetting.CreateElemForEmptyAttr">
+    <param name="Name" value="IDefGroupSetting.CreateElemForEmptyAttr">
+    <param name="Local" value="Interface/IDefGroupSetting/IDefGroupSetting.CreateElemForEmptyAttr.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="CreateElemForEmptyAttr">
+    <param name="Name" value="IDefGroupSetting.CreateElemForEmptyAttr">
+    <param name="Local" value="Interface/IDefGroupSetting/IDefGroupSetting.CreateElemForEmptyAttr.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefGroupSetting.DimensionKey">
+    <param name="Name" value="IDefGroupSetting.DimensionKey">
+    <param name="Local" value="Interface/IDefGroupSetting/IDefGroupSetting.DimensionKey.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="DimensionKey">
+    <param name="Name" value="IDefGroupSetting.DimensionKey">
+    <param name="Local" value="Interface/IDefGroupSetting/IDefGroupSetting.DimensionKey.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefGroupSetting.LevelNumber">
+    <param name="Name" value="IDefGroupSetting.LevelNumber">
+    <param name="Local" value="Interface/IDefGroupSetting/IDefGroupSetting.LevelNumber.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="LevelNumber">
+    <param name="Name" value="IDefGroupSetting.LevelNumber">
+    <param name="Local" value="Interface/IDefGroupSetting/IDefGroupSetting.LevelNumber.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefGroupSettings">
+    <param name="Name" value="IDefGroupSettings">
+    <param name="Local" value="Interface/IDefGroupSettings/IDefGroupSettings.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefGroupSettings.Add">
+    <param name="Name" value="IDefGroupSettings.Add">
+    <param name="Local" value="Interface/IDefGroupSettings/IDefGroupSettings.Add.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefGroupSettings.Clear">
+    <param name="Name" value="IDefGroupSettings.Clear">
+    <param name="Local" value="Interface/IDefGroupSettings/IDefGroupSettings.Clear.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefGroupSettings.Count">
+    <param name="Name" value="IDefGroupSettings.Count">
+    <param name="Local" value="Interface/IDefGroupSettings/IDefGroupSettings.Count.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefGroupSettings.Item">
+    <param name="Name" value="IDefGroupSettings.Item">
+    <param name="Local" value="Interface/IDefGroupSettings/IDefGroupSettings.Item.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefGroupSettings.ItemByDimKey">
+    <param name="Name" value="IDefGroupSettings.ItemByDimKey">
+    <param name="Local" value="Interface/IDefGroupSettings/IDefGroupSettings.ItemByDimKey.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ItemByDimKey">
+    <param name="Name" value="IDefGroupSettings.ItemByDimKey">
+    <param name="Local" value="Interface/IDefGroupSettings/IDefGroupSettings.ItemByDimKey.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefGroupSettings.Remove">
+    <param name="Name" value="IDefGroupSettings.Remove">
+    <param name="Local" value="Interface/IDefGroupSettings/IDefGroupSettings.Remove.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="AltHierarchySourceEnum">
+    <param name="Name" value="AltHierarchySourceEnum">
+    <param name="Local" value="Enums/AltHierarchySourceEnum.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefParameter.ClearHierarchy">
+    <param name="Name" value="IDefParameter.ClearHierarchy">
+    <param name="Local" value="Interface/IDefParameter/IDefParameter.ClearHierarchy.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ClearHierarchy">
+    <param name="Name" value="IDefParameter.ClearHierarchy">
+    <param name="Local" value="Interface/IDefParameter/IDefParameter.ClearHierarchy.htm">
+    <param name="Name" value="IDefDimension.ClearHierarchy">
+    <param name="Local" value="Interface/IDefDimension/IDefDimension.ClearHierarchy.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefParameter.HierarchyDictKey">
+    <param name="Name" value="IDefParameter.HierarchyDictKey">
+    <param name="Local" value="Interface/IDefParameter/IDefParameter.HierarchyDictKey.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="HierarchyDictKey">
+    <param name="Name" value="IDefParameter.HierarchyDictKey">
+    <param name="Local" value="Interface/IDefParameter/IDefParameter.HierarchyDictKey.htm">
+    <param name="Name" value="IDefDimension.HierarchyDictKey">
+    <param name="Local" value="Interface/IDefDimension/IDefDimension.HierarchyDictKey.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefParameter.HierarchyParameterAttributeKey">
+    <param name="Name" value="IDefParameter.HierarchyParameterAttributeKey">
+    <param name="Local" value="Interface/IDefParameter/IDefParameter.HierarchyParameterAttributeKey.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="HierarchyParameterAttributeKey">
+    <param name="Name" value="IDefParameter.HierarchyParameterAttributeKey">
+    <param name="Local" value="Interface/IDefParameter/IDefParameter.HierarchyParameterAttributeKey.htm">
+    <param name="Name" value="IDefDimension.HierarchyParameterAttributeKey">
+    <param name="Local" value="Interface/IDefDimension/IDefDimension.HierarchyParameterAttributeKey.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefParameter.HierarchyParameterKey">
+    <param name="Name" value="IDefParameter.HierarchyParameterKey">
+    <param name="Local" value="Interface/IDefParameter/IDefParameter.HierarchyParameterKey.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="HierarchyParameterKey">
+    <param name="Name" value="IDefParameter.HierarchyParameterKey">
+    <param name="Local" value="Interface/IDefParameter/IDefParameter.HierarchyParameterKey.htm">
+    <param name="Name" value="IDefDimension.HierarchyParameterKey">
+    <param name="Local" value="Interface/IDefDimension/IDefDimension.HierarchyParameterKey.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefParameter.HierarchyTypeSource">
+    <param name="Name" value="IDefParameter.HierarchyTypeSource">
+    <param name="Local" value="Interface/IDefParameter/IDefParameter.HierarchyTypeSource.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="HierarchyTypeSource">
+    <param name="Name" value="IDefParameter.HierarchyTypeSource">
+    <param name="Local" value="Interface/IDefParameter/IDefParameter.HierarchyTypeSource.htm">
+    <param name="Name" value="IDefDimension.HierarchyTypeSource">
+    <param name="Local" value="Interface/IDefDimension/IDefDimension.HierarchyTypeSource.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefDimension.HierarchyDictKey">
+    <param name="Name" value="IDefDimension.HierarchyDictKey">
+    <param name="Local" value="Interface/IDefDimension/IDefDimension.HierarchyDictKey.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefDimension.HierarchyParameterAttributeKey">
+    <param name="Name" value="IDefDimension.HierarchyParameterAttributeKey">
+    <param name="Local" value="Interface/IDefDimension/IDefDimension.HierarchyParameterAttributeKey.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefDimension.HierarchyParameterKey">
+    <param name="Name" value="IDefDimension.HierarchyParameterKey">
+    <param name="Local" value="Interface/IDefDimension/IDefDimension.HierarchyParameterKey.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefDimension.HierarchyTypeSource">
+    <param name="Name" value="IDefDimension.HierarchyTypeSource">
+    <param name="Local" value="Interface/IDefDimension/IDefDimension.HierarchyTypeSource.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefDimension.ClearHierarchy">
+    <param name="Name" value="IDefDimension.ClearHierarchy">
+    <param name="Local" value="Interface/IDefDimension/IDefDimension.ClearHierarchy.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDefTableArea.FixAggrType">
+    <param name="Name" value="IDefTableArea.FixAggrType">
+    <param name="Local" value="Interface/IDefTableArea/IDefTableArea.FixAggrType.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="FixAggrType">
+    <param name="Name" value="IDefTableArea.FixAggrType">
+    <param name="Local" value="Interface/IDefTableArea/IDefTableArea.FixAggrType.htm">
+  </object>
+</ul>
+</html>

@@ -1,0 +1,170 @@
+<html>
+<!-- Sitemap 1.0 -->
+<object type="text/site properties">
+  <param name="SiteType" value="toc">
+  <param name="Image Width" value="16">
+  <param name="Window Styles" value="0x800027">
+  <param name="ExWindow Styles" value="0x100">
+</object>
+<ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Orm">
+    <param name="Local" value="KeOrm_Title.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Введение в сборку Orm">
+      <param name="Local" value="KeOrm_Intro.htm">
+      <param name="ImageNumber" value="11">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Интерфейсы сборки Orm">
+      <param name="Local" value="Interface/KeOrm_Interface.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IOrmCondition">
+        <param name="Local" value="Interface/IOrmCondition/IOrmCondition.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IOrmCondition.AttributeName">
+          <param name="Local" value="Interface/IOrmCondition/IOrmCondition.AttributeName.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IOrmCondition.ConditionJoin">
+          <param name="Local" value="Interface/IOrmCondition/IOrmCondition.ConditionJoin.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IOrmCondition.JoinAttributeName">
+          <param name="Local" value="Interface/IOrmCondition/IOrmCondition.JoinAttributeName.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IOrmCondition.Nested">
+          <param name="Local" value="Interface/IOrmCondition/IOrmCondition.Nested.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IOrmCondition.Operator_">
+          <param name="Local" value="Interface/IOrmCondition/IOrmCondition.Operator_.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IOrmCondition.Value">
+          <param name="Local" value="Interface/IOrmCondition/IOrmCondition.Value.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IOrmConditions">
+        <param name="Local" value="Interface/IOrmConditions/IOrmConditions.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IOrmConditions.Add">
+          <param name="Local" value="Interface/IOrmConditions/IOrmConditions.Add.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IOrmConditions.Clear">
+          <param name="Local" value="Interface/IOrmConditions/IOrmConditions.Clear.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IOrmConditions.Count">
+          <param name="Local" value="Interface/IOrmConditions/IOrmConditions.Count.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IOrmConditions.Evaluate">
+          <param name="Local" value="Interface/IOrmConditions/IOrmConditions.Evaluate.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IOrmConditions.Item">
+          <param name="Local" value="Interface/IOrmConditions/IOrmConditions.Item.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IOrmConditions.Remove">
+          <param name="Local" value="Interface/IOrmConditions/IOrmConditions.Remove.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IOrmRecord">
+        <param name="Local" value="Interface/IOrmRecord/IOrmRecord.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IOrmRecord.AttributeValue">
+          <param name="Local" value="Interface/IOrmRecord/IOrmRecord.AttributeValue.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IOrmRecord.FindAttribute">
+          <param name="Local" value="Interface/IOrmRecord/IOrmRecord.FindAttribute.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IOrmSimpleAttr">
+        <param name="Local" value="Interface/IOrmSimpleAttr/IOrmSimpleAttr.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IOrmSimpleAttr.DataType">
+          <param name="Local" value="Interface/IOrmSimpleAttr/IOrmSimpleAttr.DataType.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IOrmSimpleAttrs">
+        <param name="Local" value="Interface/IOrmSimpleAttrs/IOrmSimpleAttrs.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IOrmSimpleAttrs.Count">
+          <param name="Local" value="Interface/IOrmSimpleAttrs/IOrmSimpleAttrs.Count.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IOrmSimpleAttrs.Item">
+          <param name="Local" value="Interface/IOrmSimpleAttrs/IOrmSimpleAttrs.Item.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IOrmSimpleClass">
+        <param name="Local" value="Interface/IOrmSimpleClass/IOrmSimpleClass.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IOrmSimpleClass.Attrs">
+          <param name="Local" value="Interface/IOrmSimpleClass/IOrmSimpleClass.Attrs.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Перечисления сборки Orm">
+      <param name="Local" value="Enums/KeOrm_Enums.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="OrmComparisonOperator">
+        <param name="Local" value="Enums/OrmComparisonOperator.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="OrmLogicalOperator">
+        <param name="Local" value="Enums/OrmLogicalOperator.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      </ul>
+    </ul>
+</ul>
+</html>

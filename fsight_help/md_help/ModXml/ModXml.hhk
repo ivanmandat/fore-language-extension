@@ -1,0 +1,53 @@
+<html>
+<!-- Sitemap 1.0 -->
+<object type="text/site properties">
+  <param name="SiteType" value="index">
+</object>
+<ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Примеры">
+    <param name="See Also" value="Примеры">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Работа с XML-файлами в Fore">
+      <param name="Name" value="Пример работы с XML-файлами">
+      <param name="Local" value="Samples/ModXml_Sample1.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Работа с XML файлами через MSXML версии 6.0">
+      <param name="Name" value="Работа с XML файлами через MSXML версии 6.0">
+      <param name="Local" value="Samples/work_using_msxml6.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Работа с разделом CDATA">
+      <param name="Name" value="Работа с разделом CDATA">
+      <param name="Local" value="Samples/work_with_cdata.htm">
+    </object>
+    </ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="XML">
+    <param name="Name" value="Сборка XML">
+    <param name="Local" value="develop.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Работа с XML-файлами в Fore">
+      <param name="Name" value="Пример работы с XML-файлами">
+      <param name="Local" value="Samples/ModXml_Sample1.htm">
+    </object>
+    </ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Сборка XML">
+    <param name="Name" value="Сборка XML">
+    <param name="Local" value="develop.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Работа с XML-файлами в Fore">
+      <param name="Name" value="Пример работы с XML-файлами">
+      <param name="Local" value="Samples/ModXml_Sample1.htm">
+    </object>
+    </ul>
+</ul>
+</html>

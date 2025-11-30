@@ -1,0 +1,2085 @@
+<html>
+<!-- Sitemap 1.0 -->
+<object type="text/site properties">
+  <param name="SiteType" value="toc">
+  <param name="Image Width" value="16">
+  <param name="Window Styles" value="0x800027">
+  <param name="ExWindow Styles" value="0x100">
+</object>
+<ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Map">
+    <param name="Local" value="Map_Title.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Интерфейсы сборки Map">
+      <param name="Local" value="Interface/Interface_build_Map.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IMap">
+        <param name="Local" value="Interface/IMap/IMap.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMap.BeginUpdate">
+          <param name="Local" value="Interface/IMap/IMap.BeginUpdate.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMap.Color">
+          <param name="Local" value="Interface/IMap/IMap.Color.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMap.Draw">
+          <param name="Local" value="Interface/IMap/IMap.Draw.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMap.EndUpdate">
+          <param name="Local" value="Interface/IMap/IMap.EndUpdate.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMap.FindVisual">
+          <param name="Local" value="Interface/IMap/IMap.FindVisual.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMap.Font">
+          <param name="Local" value="Interface/IMap/IMap.Font.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMap.FontColor">
+          <param name="Local" value="Interface/IMap/IMap.FontColor.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMap.GetBitmap">
+          <param name="Local" value="Interface/IMap/IMap.GetBitMap.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMap.IsDirty">
+          <param name="Local" value="Interface/IMap/IMap.IsDirty.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMap.IsEmpty">
+          <param name="Local" value="Interface/IMap/IMap.IsEmpty.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMap.IsIndicatorsEnabled">
+          <param name="Local" value="Interface/IMap/IMap.IsIndicatorsEnabled.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMap.Layers">
+          <param name="Local" value="Interface/IMap/IMap.Layers.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMap.Refresh">
+          <param name="Local" value="Interface/IMap/IMap.Refresh.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMap.SaveMetafileToFile">
+          <param name="Local" value="Interface/IMap/IMap.SaveMetafileToFile.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMap.SaveToXml">
+          <param name="Local" value="Interface/IMap/IMap.SaveToXml.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMap.SaveXAMLToFile">
+          <param name="Local" value="Interface/IMap/IMap.SaveXAMLToFile.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMap.TextBackgroundBrush">
+          <param name="Local" value="Interface/IMap/IMap.TextBackgroundBrush.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMap.TextBorderPen">
+          <param name="Local" value="Interface/IMap/IMap.TextBorderPen.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMap.TimePoint">
+          <param name="Local" value="Interface/IMap/IMap.TimePoint.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMap.Topobase">
+          <param name="Local" value="Interface/IMap/IMap.TopoBase.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMap.Type">
+          <param name="Local" value="Interface/IMap/IMap.Type.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMap.UndoRedo">
+          <param name="Local" value="Interface/IMap/IMap.UndoRedo.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMap.View">
+          <param name="Local" value="Interface/IMap/IMap.View.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IMap3DVisual">
+        <param name="Local" value="Interface/IMap3DVisual/IMap3DVisual.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMap3DVisual.AutoHeight">
+          <param name="Local" value="Interface/IMap3DVisual/IMap3DVisual.AutoHeight.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMap3DVisual.Height">
+          <param name="Local" value="Interface/IMap3DVisual/IMap3DVisual.Height.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IMapAreaVisual">
+        <param name="Local" value="Interface/IMapAreaVisual/IMapAreaVisual.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapAreaVisual.Color">
+          <param name="Local" value="Interface/IMapAreaVisual/IMapAreaVisual.Color.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapAreaVisual.Fill">
+          <param name="Local" value="Interface/IMapAreaVisual/IMapAreaVisual.Fill.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapAreaVisual.FillColor">
+          <param name="Local" value="Interface/IMapAreaVisual/IMapAreaVisual.FillColor.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IMapArrow">
+        <param name="Local" value="Interface/IMapArrow/IMapArrow.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapArrow.Angle">
+          <param name="Local" value="Interface/IMapArrow/IMapArrow.Angle.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapArrow.BasementWidth">
+          <param name="Local" value="Interface/IMapArrow/IMapArrow.BasementWidth.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapArrow.CapLength">
+          <param name="Local" value="Interface/IMapArrow/IMapArrow.CapLength.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapArrow.CapWidth">
+          <param name="Local" value="Interface/IMapArrow/IMapArrow.CapWidth.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapArrow.ColorMapping">
+          <param name="Local" value="Interface/IMapArrow/IMapArrow.ColorMapping.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapArrow.DestID">
+          <param name="Local" value="Interface/IMapArrow/IMapArrow.DestID.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapArrow.DestName">
+          <param name="Local" value="Interface/IMapArrow/IMapArrow.DestName.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapArrow.Font">
+          <param name="Local" value="Interface/IMapArrow/IMapArrow.Font.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapArrow.Id">
+          <param name="Local" value="Interface/IMapArrow/IMapArrow.Id.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapArrow.OriginID">
+          <param name="Local" value="Interface/IMapArrow/IMapArrow.OriginID.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapArrow.OriginName">
+          <param name="Local" value="Interface/IMapArrow/IMapArrow.OriginName.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapArrow.Pen">
+          <param name="Local" value="Interface/IMapArrow/IMapArrow.Pen.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapArrow.Shape">
+          <param name="Local" value="Interface/IMapArrow/IMapArrow.Shape.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapArrow.TailWidth">
+          <param name="Local" value="Interface/IMapArrow/IMapArrow.TailWidth.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapArrow.Text">
+          <param name="Local" value="Interface/IMapArrow/IMapArrow.Text.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapArrow.TextBackgroundColor">
+          <param name="Local" value="Interface/IMapArrow/IMapArrow.TextBackgroundColor.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapArrow.TextDirection">
+          <param name="Local" value="Interface/IMapArrow/IMapArrow.TextDirection.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapArrow.TextForegroundColor">
+          <param name="Local" value="Interface/IMapArrow/IMapArrow.TextForegroundColor.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapArrow.Visible">
+          <param name="Local" value="Interface/IMapArrow/IMapArrow.Visible.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IMapBackground">
+        <param name="Local" value="Interface/IMapBackground/IMapBackground.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapBackground.Color">
+          <param name="Local" value="Interface/IMapBackground/IMapBackground.Color.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapBackground.GradientAngle">
+          <param name="Local" value="Interface/IMapBackground/IMapBackground.GradientAngle.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapBackground.GradientColor">
+          <param name="Local" value="Interface/IMapBackground/IMapBackground.GradientColor.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapBackground.HatchStyle">
+          <param name="Local" value="Interface/IMapBackground/IMapBackground.HatchStyle.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapBackground.Image">
+          <param name="Local" value="Interface/IMapBackground/IMapBackground.Image.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapBackground.ImageDrawStyle">
+          <param name="Local" value="Interface/IMapBackground/IMapBackground.ImageDrawStyle.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapBackground.Type">
+          <param name="Local" value="Interface/IMapBackground/IMapBackground.Type.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IMapBarVisual">
+        <param name="Local" value="Interface/IMapBarVisual/IMapBarVisual.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapBarVisual.BarsCount">
+          <param name="Local" value="Interface/IMapBarVisual/IMapBarVisual.BarsCount.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapBarVisual.Color">
+          <param name="Local" value="Interface/IMapBarVisual/IMapBarVisual.Color.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapBarVisual.Fill">
+          <param name="Local" value="Interface/IMapBarVisual/IMapBarVisual.Fill.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapBarVisual.FillColor">
+          <param name="Local" value="Interface/IMapBarVisual/IMapBarVisual.FillColor.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapBarVisual.Height">
+          <param name="Local" value="Interface/IMapBarVisual/IMapBarVisual.Height.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapBarVisual.InterBarDistance">
+          <param name="Local" value="Interface/IMapBarVisual/IMapBarVisual.InterBarDistance.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapBarVisual.LeastHeightPart">
+          <param name="Local" value="Interface/IMapBarVisual/IMapBarVisual.LeastHeightPart.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapBarVisual.LeastWidthPart">
+          <param name="Local" value="Interface/IMapBarVisual/IMapBarVisual.LeastWidthPart.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapBarVisual.Percentage">
+          <param name="Local" value="Interface/IMapBarVisual/IMapBarVisual.Percentage.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapBarVisual.StartAngle">
+          <param name="Local" value="Interface/IMapBarVisual/IMapBarVisual.StartAngle.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapBarVisual.Width">
+          <param name="Local" value="Interface/IMapBarVisual/IMapBarVisual.Width.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IMapBox">
+        <param name="Local" value="Interface/IMapBox/IMapBox.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapBox.BorderStyle">
+          <param name="Local" value="Interface/IMapBox/IMapBox.BorderStyle.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapBox.Source">
+          <param name="Local" value="Interface/IMapBox/IMapBox.Source.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IMapBoxTerritoryEventArgs">
+        <param name="Local" value="Interface/IMapBoxTerritoryEventArgs/IMapBoxTerritoryEventArgs.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapBoxTerritoryEventArgs.TerritoryId">
+          <param name="Local" value="Interface/IMapBoxTerritoryEventArgs/IMapBoxTerritoryEventArgs.TerritoryId.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IMapColorCollection">
+        <param name="Local" value="Interface/IMapColorCollection/IMapColorCollection.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapColorCollection.Count">
+          <param name="Local" value="Interface/IMapColorCollection/IMapColorCollection.Count.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapColorCollection.Item">
+          <param name="Local" value="Interface/IMapColorCollection/IMapColorCollection.Item.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapColorCollection.Remove">
+          <param name="Local" value="Interface/IMapColorCollection/IMapColorCollection.Remove.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IMapColorScale">
+        <param name="Local" value="Interface/IMapColorScale/IMapColorScale.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapColorScale.AutoSetup">
+          <param name="Local" value="Interface/IMapColorScale/IMapColorScale.AutoSetup.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapColorScale.AutoSetupEx">
+          <param name="Local" value="Interface/IMapColorScale/IMapColorScale.AutoSetupEx.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapColorScale.Color">
+          <param name="Local" value="Interface/IMapColorScale/IMapColorScale.Color.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapColorScale.Exact">
+          <param name="Local" value="Interface/IMapColorScale/IMapColorScale.Exact.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapColorScale.Greater">
+          <param name="Local" value="Interface/IMapColorScale/IMapColorScale.Greater.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapColorScale.Less">
+          <param name="Local" value="Interface/IMapColorScale/IMapColorScale.Less.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapColorScale.NoData">
+          <param name="Local" value="Interface/IMapColorScale/IMapColorScale.NoData.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IMapDataAdapter">
+        <param name="Local" value="Interface/IMapDataAdapter/IMapDataAdapter.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapDataAdapter.Data">
+          <param name="Local" value="Interface/IMapDataAdapter/IMapDataAdapter.Data.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IMapDynamicDataAdapter">
+        <param name="Local" value="Interface/IMapDynamicDataAdapter/IMapDynamicDataAdapter.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapDynamicDataAdapter.Data">
+          <param name="Local" value="Interface/IMapDynamicDataAdapter/IMapDynamicDataAdapter.Data.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapDynamicDataAdapter.PartCount">
+          <param name="Local" value="Interface/IMapDynamicDataAdapter/IMapDynamicDataAdapter.PartCount.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IMapFillScale">
+        <param name="Local" value="Interface/IMapFillScale/IMapFillScale.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapFillScale.Apply">
+          <param name="Local" value="Interface/IMapFillScale/IMapFillScale.Apply.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapFillScale.ApplyEx">
+          <param name="Local" value="Interface/IMapFillScale/IMapFillScale.ApplyEx.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapFillScale.AutoSetup">
+          <param name="Local" value="Interface/IMapFillScale/IMapFillScale.AutoSetup.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapFillScale.Exact">
+          <param name="Local" value="Interface/IMapFillScale/IMapFillScale.Exact.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapFillScale.Fill">
+          <param name="Local" value="Interface/IMapFillScale/IMapFillScale.Fill.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapFillScale.Greater">
+          <param name="Local" value="Interface/IMapFillScale/IMapFillScale.Greater.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapFillScale.Less">
+          <param name="Local" value="Interface/IMapFillScale/IMapFillScale.Less.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapFillScale.NoData">
+          <param name="Local" value="Interface/IMapFillScale/IMapFillScale.NoData.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IMapIconScale">
+        <param name="Local" value="Interface/IMapIconScale/IMapIconScale.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapIconScale.Apply">
+          <param name="Local" value="Interface/IMapIconScale/IMapIconScale.Apply.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapIconScale.ApplyEx">
+          <param name="Local" value="Interface/IMapIconScale/IMapIconScale.ApplyEx.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapIconScale.AutoSetup">
+          <param name="Local" value="Interface/IMapIconScale/IMapIconScale.AutoSetup.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapIconScale.Exact">
+          <param name="Local" value="Interface/IMapIconScale/IMapIconScale.Exact.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapIconScale.Greater">
+          <param name="Local" value="Interface/IMapIconScale/IMapIconScale.Greater.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapIconScale.Icon">
+          <param name="Local" value="Interface/IMapIconScale/IMapIconScale.Icon.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapIconScale.Less">
+          <param name="Local" value="Interface/IMapIconScale/IMapIconScale.Less.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapIconScale.NoData">
+          <param name="Local" value="Interface/IMapIconScale/IMapIconScale.NoData.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IMapImageVisual">
+        <param name="Local" value="Interface/IMapImageVisual/IMapImageVisual.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapImageVisual.Height">
+          <param name="Local" value="Interface/IMapImageVisual/IMapImageVisual.Height.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapImageVisual.Image">
+          <param name="Local" value="Interface/IMapImageVisual/IMapImageVisual.Image.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapImageVisual.StartAngle">
+          <param name="Local" value="Interface/IMapImageVisual/IMapImageVisual.StartAngle.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapImageVisual.Width">
+          <param name="Local" value="Interface/IMapImageVisual/IMapImageVisual.Width.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IMapLayer">
+        <param name="Local" value="Interface/IMapLayer/IMapLayer.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapLayer.Arrows">
+          <param name="Local" value="Interface/IMapLayer/IMapLayer.Arrows.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapLayer.AttributeNames">
+          <param name="Local" value="Interface/IMapLayer/IMapLayer.AttributeNames.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapLayer.ChildLayers">
+          <param name="Local" value="Interface/IMapLayer/IMapLayer.ChildLayers.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapLayer.Description">
+          <param name="Local" value="Interface/IMapLayer/IMapLayer.Description.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapLayer.Font">
+          <param name="Local" value="Interface/IMapLayer/IMapLayer.Font.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapLayer.FontColor">
+          <param name="Local" value="Interface/IMapLayer/IMapLayer.FontColor.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapLayer.Id">
+          <param name="Local" value="Interface/IMapLayer/IMapLayer.Id.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapLayer.LabelFormat">
+          <param name="Local" value="Interface/IMapLayer/IMapLayer.LabelFormat.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapLayer.LabelHorizontalAlignment">
+          <param name="Local" value="Interface/IMapLayer/IMapLayer.LabelHorizontalAlignment.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapLayer.LabelVerticalAlignment">
+          <param name="Local" value="Interface/IMapLayer/IMapLayer.LabelVerticalAlignment.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapLayer.Name">
+          <param name="Local" value="Interface/IMapLayer/IMapLayer.Name.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapLayer.Owner">
+          <param name="Local" value="Interface/IMapLayer/IMapLayer.Owner.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapLayer.PlaceVisualsOneByOne">
+          <param name="Local" value="Interface/IMapLayer/IMapLayer.PlaceVisualsOneByOne.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapLayer.Shapes">
+          <param name="Local" value="Interface/IMapLayer/IMapLayer.Shapes.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapLayer.TerritoryInfoAdapter">
+          <param name="Local" value="Interface/IMapLayer/IMapLayer.TerritoryInfoAdapter.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapLayer.TextDataAdapter">
+          <param name="Local" value="Interface/IMapLayer/IMapLayer.TextDataAdapter.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapLayer.TextVisible">
+          <param name="Local" value="Interface/IMapLayer/IMapLayer.TextVisible.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapLayer.ToolTipDataAdapter">
+          <param name="Local" value="Interface/IMapLayer/IMapLayer.ToolTipDataAdapter.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapLayer.ToolTipVisible">
+          <param name="Local" value="Interface/IMapLayer/IMapLayer.ToolTipVisible.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapLayer.Visible">
+          <param name="Local" value="Interface/IMapLayer/IMapLayer.Visible.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapLayer.VisualOffset">
+          <param name="Local" value="Interface/IMapLayer/IMapLayer.VisualOffset.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapLayer.Visuals">
+          <param name="Local" value="Interface/IMapLayer/IMapLayer.Visuals.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IMapLayerArrows">
+        <param name="Local" value="Interface/IMapLayerArrows/IMapLayerArrows.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapLayerArrows.BasementWidth">
+          <param name="Local" value="Interface/IMapLayerArrows/IMapLayerArrows.BasementWidth.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapLayerArrows.Clear">
+          <param name="Local" value="Interface/IMapLayerArrows/IMapLayerArrows.Clear.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapLayerArrows.ColorMapping">
+          <param name="Local" value="Interface/IMapLayerArrows/IMapLayerArrows.ColorMapping.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapLayerArrows.Count">
+          <param name="Local" value="Interface/IMapLayerArrows/IMapLayerArrows.Count.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapLayerArrows.CreateByIDs">
+          <param name="Local" value="Interface/IMapLayerArrows/IMapLayerArrows.CreateByIDs.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapLayerArrows.CreateByNames">
+          <param name="Local" value="Interface/IMapLayerArrows/IMapLayerArrows.CreateByNames.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapLayerArrows.FindByIDs">
+          <param name="Local" value="Interface/IMapLayerArrows/IMapLayerArrows.FindByIDs.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapLayerArrows.FindByNames">
+          <param name="Local" value="Interface/IMapLayerArrows/IMapLayerArrows.FindByNames.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapLayerArrows.GetIndex">
+          <param name="Local" value="Interface/IMapLayerArrows/IMapLayerArrows.GetIndex.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapLayerArrows.Item">
+          <param name="Local" value="Interface/IMapLayerArrows/IMapLayerArrows.Item.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapLayerArrows.RefreshData">
+          <param name="Local" value="Interface/IMapLayerArrows/IMapLayerArrows.RefreshData.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapLayerArrows.Remove">
+          <param name="Local" value="Interface/IMapLayerArrows/IMapLayerArrows.Remove.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapLayerArrows.ToolTipFormat">
+          <param name="Local" value="Interface/IMapLayerArrows/IMapLayerArrows.ToolTipFormat.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapLayerArrows.UseDataMapping">
+          <param name="Local" value="Interface/IMapLayerArrows/IMapLayerArrows.UseDataMapping.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IMapLayers">
+        <param name="Local" value="Interface/IMapLayers/IMapLayers.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapLayers.Count">
+          <param name="Local" value="Interface/IMapLayers/IMapLayers.Count.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapLayers.FindById">
+          <param name="Local" value="Interface/IMapLayers/IMapLayers.FindById.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapLayers.FindByName">
+          <param name="Local" value="Interface/IMapLayers/IMapLayers.FindByName.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapLayers.Item">
+          <param name="Local" value="Interface/IMapLayers/IMapLayers.Item.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IMapLayerVisuals">
+        <param name="Local" value="Interface/IMapLayerVisuals/IMapLayerVisuals.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapLayerVisuals.Add">
+          <param name="Local" value="Interface/IMapLayerVisuals/IMapLayerVisuals.Add.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapLayerVisuals.AddAreaVisual">
+          <param name="Local" value="Interface/IMapLayerVisuals/IMapLayerVisuals.AddAreaVisual.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapLayerVisuals.AddBarVisual">
+          <param name="Local" value="Interface/IMapLayerVisuals/IMapLayerVisuals.AddBarVisual.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapLayerVisuals.AddImageVisual">
+          <param name="Local" value="Interface/IMapLayerVisuals/IMapLayerVisuals.AddImageVisual.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapLayerVisuals.AddMarkerVisual">
+          <param name="Local" value="Interface/IMapLayerVisuals/IMapLayerVisuals.AddMarkerVisual.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapLayerVisuals.AddPieVisual">
+          <param name="Local" value="Interface/IMapLayerVisuals/IMapLayerVisuals.AddPieVisual.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapLayerVisuals.Clear">
+          <param name="Local" value="Interface/IMapLayerVisuals/IMapLayerVisuals.Clear.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapLayerVisuals.Count">
+          <param name="Local" value="Interface/IMapLayerVisuals/IMapLayerVisuals.Count.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapLayerVisuals.Item">
+          <param name="Local" value="Interface/IMapLayerVisuals/IMapLayerVisuals.Item.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapLayerVisuals.Remove">
+          <param name="Local" value="Interface/IMapLayerVisuals/IMapLayerVisuals.Remove.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IMapLegend">
+        <param name="Local" value="Interface/IMapLegend/IMapLegend.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapLegend.AutoPadding">
+          <param name="Local" value="Interface/IMapLegend/IMapLegend.AutoPadding.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapLegend.Background">
+          <param name="Local" value="Interface/IMapLegend/IMapLegend.Background.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapLegend.BeginUpdate">
+          <param name="Local" value="Interface/IMapLegend/IMapLegend.BeginUpdate.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapLegend.BorderPen">
+          <param name="Local" value="Interface/IMapLegend/IMapLegend.BorderPen.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapLegend.Color">
+          <param name="Local" value="Interface/IMapLegend/IMapLegend.Color.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapLegend.ColumnCount">
+          <param name="Local" value="Interface/IMapLegend/IMapLegend.ColumnCount.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapLegend.ColumnSpace">
+          <param name="Local" value="Interface/IMapLegend/IMapLegend.ColumnSpace.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapLegend.ColumnSpaceAuto">
+          <param name="Local" value="Interface/IMapLegend/IMapLegend.ColumnSpaceAuto.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapLegend.CustomFormat">
+          <param name="Local" value="Interface/IMapLegend/IMapLegend.CustomFormat.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapLegend.Descending">
+          <param name="Local" value="Interface/IMapLegend/IMapLegend.Descending.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapLegend.Draw">
+          <param name="Local" value="Interface/IMapLegend/IMapLegend.Draw.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapLegend.ElementPlacement">
+          <param name="Local" value="Interface/IMapLegend/IMapLegend.ElementPlacement.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapLegend.ElementsHorizontalAlign">
+          <param name="Local" value="Interface/IMapLegend/IMapLegend.ElementsHorizontalAlign.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapLegend.EndUpdate">
+          <param name="Local" value="Interface/IMapLegend/IMapLegend.EndUpdate.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapLegend.Font">
+          <param name="Local" value="Interface/IMapLegend/IMapLegend.Font.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapLegend.FontColor">
+          <param name="Local" value="Interface/IMapLegend/IMapLegend.FontColor.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapLegend.Footer">
+          <param name="Local" value="Interface/IMapLegend/IMapLegend.Footer.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapLegend.GetBitmap">
+          <param name="Local" value="Interface/IMapLegend/IMapLegend.GetBitmap.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapLegend.Header">
+          <param name="Local" value="Interface/IMapLegend/IMapLegend.Header.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapLegend.IncludeEquals">
+          <param name="Local" value="Interface/IMapLegend/IMapLegend.IncludeEquals.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapLegend.IsDirty">
+          <param name="Local" value="Interface/IMapLegend/IMapLegend.IsDirty.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapLegend.LabelFormat">
+          <param name="Local" value="Interface/IMapLegend/IMapLegend.LabelFormat.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapLegend.MarkersAtRight">
+          <param name="Local" value="Interface/IMapLegend/IMapLegend.MarkersAtRight.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapLegend.MarkerSize">
+          <param name="Local" value="Interface/IMapLegend/IMapLegend.MarkerSize.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapLegend.MarkerType">
+          <param name="Local" value="Interface/IMapLegend/IMapLegend.MarkerType.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapLegend.NoDataElementFirst">
+          <param name="Local" value="Interface/IMapLegend/IMapLegend.NoDataElementFirst.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapLegend.NoDataElementVisible">
+          <param name="Local" value="Interface/IMapLegend/IMapLegend.NoDataElementVisible.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapLegend.Padding">
+          <param name="Local" value="Interface/IMapLegend/IMapLegend.Padding.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapLegend.ResetFormats">
+          <param name="Local" value="Interface/IMapLegend/IMapLegend.ResetFormat.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapLegend.RowCount">
+          <param name="Local" value="Interface/IMapLegend/IMapLegend.RowCount.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapLegend.RowSpace">
+          <param name="Local" value="Interface/IMapLegend/IMapLegend.RowSpace.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapLegend.RowSpaceAuto">
+          <param name="Local" value="Interface/IMapLegend/IMapLegend.RowSpaceAuto.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapLegend.SymbolSpace">
+          <param name="Local" value="Interface/IMapLegend/IMapLegend.SymbolSpace.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapLegend.SymbolSpaceAuto">
+          <param name="Local" value="Interface/IMapLegend/IMapLegend.SymbolSpaceAuto.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapLegend.Visible">
+          <param name="Local" value="Interface/IMapLegend/IMapLegend.Visible.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapLegend.Visual">
+          <param name="Local" value="Interface/IMapLegend/IMapLegend.Visual.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IMapLegendHeader">
+        <param name="Local" value="Interface/IMapLegendHeader/IMapLegendHeader.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapLegendHeader.Color">
+          <param name="Local" value="Interface/IMapLegendHeader/IMapLegendHeader.Color.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapLegendHeader.Font">
+          <param name="Local" value="Interface/IMapLegendHeader/IMapLegendHeader.Font.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapLegendHeader.Text">
+          <param name="Local" value="Interface/IMapLegendHeader/IMapLegendHeader.Text.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IMapLegendLabelFormat">
+        <param name="Local" value="Interface/IMapLegendLabelFormat/IMapLegendLabelFormat.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapLegendLabelFormat.Between">
+          <param name="Local" value="Interface/IMapLegendLabelFormat/IMapLegendLabelFormat.Between.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapLegendLabelFormat.Equal">
+          <param name="Local" value="Interface/IMapLegendLabelFormat/IMapLegendLabelFormat.Equal.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapLegendLabelFormat.Greater">
+          <param name="Local" value="Interface/IMapLegendLabelFormat/IMapLegendLabelFormat.Greater.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapLegendLabelFormat.Less">
+          <param name="Local" value="Interface/IMapLegendLabelFormat/IMapLegendLabelFormat.Less.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapLegendLabelFormat.NoData">
+          <param name="Local" value="Interface/IMapLegendLabelFormat/IMapLegendLabelFormat.NoData.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IMapNumericScale">
+        <param name="Local" value="Interface/IMapNumericScale/IMapNumericScale.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapNumericScale.Apply">
+          <param name="Local" value="Interface/IMapNumericScale/IMapNumericScale.Apply.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapNumericScale.ApplyEx">
+          <param name="Local" value="Interface/IMapNumericScale/IMapNumericScale.ApplyEx.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapNumericScale.AutoSetup">
+          <param name="Local" value="Interface/IMapNumericScale/IMapNumericScale.AutoSetup.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapNumericScale.Exact">
+          <param name="Local" value="Interface/IMapNumericScale/IMapNumericScale.Exact.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapNumericScale.Greater">
+          <param name="Local" value="Interface/IMapNumericScale/IMapNumericScale.Greater.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapNumericScale.Less">
+          <param name="Local" value="Interface/IMapNumericScale/IMapNumericScale.Less.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapNumericScale.NoData">
+          <param name="Local" value="Interface/IMapNumericScale/IMapNumericScale.NoData.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapNumericScale.Number">
+          <param name="Local" value="Interface/IMapNumericScale/IMapNumericScale.Number.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IMapMarkerVisual">
+        <param name="Local" value="Interface/IMapMarkerVisual/IMapMarkerVisual.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapMarkerVisual.Color">
+          <param name="Local" value="Interface/IMapMarkerVisual/IMapMarkerVisual.Color.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapMarkerVisual.ItemsNames">
+          <param name="Local" value="Interface/IMapMarkerVisual/IMapMarkerVisual.ItemsNames.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapMarkerVisual.Latitude">
+          <param name="Local" value="Interface/IMapMarkerVisual/IMapMarkerVisual.Latitude.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapMarkerVisual.Longitude">
+          <param name="Local" value="Interface/IMapMarkerVisual/IMapMarkerVisual.Longitude.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IMapPieVisual">
+        <param name="Local" value="Interface/IMapPieVisual/IMapPieVisual.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapPieVisual.Color">
+          <param name="Local" value="Interface/IMapPieVisual/IMapPieVisual.Color.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapPieVisual.Fill">
+          <param name="Local" value="Interface/IMapPieVisual/IMapPieVisual.Fill.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapPieVisual.FillColor">
+          <param name="Local" value="Interface/IMapPieVisual/IMapPieVisual.FillColor.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapPieVisual.LeastRadiusPart">
+          <param name="Local" value="Interface/IMapPieVisual/IMapPieVisual.LeastRadiusPart.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapPieVisual.PiesCount">
+          <param name="Local" value="Interface/IMapPieVisual/IMapPieVisual.PiesCount.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapPieVisual.Proportional">
+          <param name="Local" value="Interface/IMapPieVisual/IMapPieVisual.Proportional.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapPieVisual.Radius">
+          <param name="Local" value="Interface/IMapPieVisual/IMapPieVisual.Radius.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapPieVisual.StartAngle">
+          <param name="Local" value="Interface/IMapPieVisual/IMapPieVisual.StartAngle.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapPieVisual.UseInvertedAngles">
+          <param name="Local" value="Interface/IMapPieVisual/IMapPieVisual.UseInvertedAngles.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IMapScale">
+        <param name="Local" value="Interface/IMapScale/IMapScale.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapScale.AutoCalculable">
+          <param name="Local" value="Interface/IMapScale/IMapScale.AutoCalculable.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapScale.AutoCalculate">
+          <param name="Local" value="Interface/IMapScale/IMapScale.AutoCalculate.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapScale.AutoScaleMode">
+          <param name="Local" value="Interface/IMapScale/IMapScale.AutoScaleMode.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapScale.Count">
+          <param name="Local" value="Interface/IMapScale/IMapScale.Count.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapScale.IsDirty">
+          <param name="Local" value="Interface/IMapScale/IMapScale.IsDirty.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapScale.Value">
+          <param name="Local" value="Interface/IMapScale/IMapScale.Value.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IMapSource">
+        <param name="Local" value="Interface/IMapSource/IMapSource.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IMapTerritoryInfo">
+        <param name="Local" value="Interface/IMapTerritoryInfo/IMapTerritoryInfo.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapTerritoryInfo.AttributeName">
+          <param name="Local" value="Interface/IMapTerritoryInfo/IMapTerritoryInfo.AttributeName.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapTerritoryInfo.BeginUpdate">
+          <param name="Local" value="Interface/IMapTerritoryInfo/IMapTerritoryInfo.BeginUpdate.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapTerritoryInfo.BorderPen">
+          <param name="Local" value="Interface/IMapTerritoryInfo/IMapTerritoryInfo.BorderPen.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapTerritoryInfo.Color">
+          <param name="Local" value="Interface/IMapTerritoryInfo/IMapTerritoryInfo.Color.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapTerritoryInfo.ColumnCount">
+          <param name="Local" value="Interface/IMapTerritoryInfo/IMapTerritoryInfo.ColumnCount.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapTerritoryInfo.DisplayVisibleOnly">
+          <param name="Local" value="Interface/IMapTerritoryInfo/IMapTerritoryInfo.DisplayVisibleOnly.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapTerritoryInfo.Draw">
+          <param name="Local" value="Interface/IMapTerritoryInfo/IMapTerritoryInfo.Draw.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapTerritoryInfo.EndUpdate">
+          <param name="Local" value="Interface/IMapTerritoryInfo/IMapTerritoryInfo.EndUpdate.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapTerritoryInfo.FillByRows">
+          <param name="Local" value="Interface/IMapTerritoryInfo/IMapTerritoryInfo.FillByRows.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapTerritoryInfo.Font">
+          <param name="Local" value="Interface/IMapTerritoryInfo/IMapTerritoryInfo.Font.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapTerritoryInfo.FontColor">
+          <param name="Local" value="Interface/IMapTerritoryInfo/IMapTerritoryInfo.FontColor.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapTerritoryInfo.GetBitmap">
+          <param name="Local" value="Interface/IMapTerritoryInfo/IMapTerritoryInfo.GetBitmap.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapTerritoryInfo.HitTestShape">
+          <param name="Local" value="Interface/IMapTerritoryInfo/IMapTerritoryInfo.HitTestShape.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapTerritoryInfo.IsDirty">
+          <param name="Local" value="Interface/IMapTerritoryInfo/IMapTerritoryInfo.IsDirty.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapTerritoryInfo.KeyAttributeName">
+          <param name="Local" value="Interface/IMapTerritoryInfo/IMapTerritoryInfo.KeyAttributeName.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapTerritoryInfo.Layer">
+          <param name="Local" value="Interface/IMapTerritoryInfo/IMapTerritoryInfo.Layer.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapTerritoryInfo.MarkerCellPadding">
+          <param name="Local" value="Interface/IMapTerritoryInfo/IMapTerritoryInfo.MarkerCellPadding.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapTerritoryInfo.MaxItemCount">
+          <param name="Local" value="Interface/IMapTerritoryInfo/IMapTerritoryInfo.MaxItemCount.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapTerritoryInfo.SortType">
+          <param name="Local" value="Interface/IMapTerritoryInfo/IMapTerritoryInfo.SortType.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapTerritoryInfo.Visible">
+          <param name="Local" value="Interface/IMapTerritoryInfo/IMapTerritoryInfo.Visible.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IMapTimeDataAdapter">
+        <param name="Local" value="Interface/IMapTimeDataAdapter/IMapTimeDataAdapter.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapTimeDataAdapter.Data">
+          <param name="Local" value="Interface/IMapTimeDataAdapter/IMapTimeDataAdapter.Data.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapTimeDataAdapter.TimePointName">
+          <param name="Local" value="Interface/IMapTimeDataAdapter/IMapTimeDataAdapter.TimePointName.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapTimeDataAdapter.TimePointsCount">
+          <param name="Local" value="Interface/IMapTimeDataAdapter/IMapTimeDataAdapter.TimePointsCount.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IMapTimeDynamicDataAdapter">
+        <param name="Local" value="Interface/IMapTimeDynamicDataAdapter/IMapTimeDynamicDataAdapter.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapTimeDynamicDataAdapter.Data">
+          <param name="Local" value="Interface/IMapTimeDynamicDataAdapter/IMapTimeDynamicDataAdapter.Data.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapTimeDynamicDataAdapter.PartCount">
+          <param name="Local" value="Interface/IMapTimeDynamicDataAdapter/IMapTimeDynamicDataAdapter.PartCount.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapTimeDynamicDataAdapter.TimePointName">
+          <param name="Local" value="Interface/IMapTimeDynamicDataAdapter/IMapTimeDynamicDataAdapter.TimePointName.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapTimeDynamicDataAdapter.TimePointsCount">
+          <param name="Local" value="Interface/IMapTimeDynamicDataAdapter/IMapTimeDynamicDataAdapter.TimePointsCount.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IMapTopobase">
+        <param name="Local" value="Interface/IMapTopobase/IMapTopobase.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapTopobase.LoadFromFile">
+          <param name="Local" value="Interface/IMapTopobase/IMapTopobase.LoadFromFile.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapTopobase.Name">
+          <param name="Local" value="Interface/IMapTopobase/IMapTopobase.Name.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapTopobase.SaveToFile">
+          <param name="Local" value="Interface/IMapTopobase/IMapTopobase.SaveToFile.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IMapTopobaseAttributeNames">
+        <param name="Local" value="Interface/IMapTopobaseAttributeNames/IMapTopobaseAttributeNames.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapTopobaseAttributeNames.Count">
+          <param name="Local" value="Interface/IMapTopobaseAttributeNames/IMapTopobaseAttributeNames.Count.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapTopobaseAttributeNames.Item">
+          <param name="Local" value="Interface/IMapTopobaseAttributeNames/IMapTopobaseAttributeNames.Item.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IMapTopobasePrimitive">
+        <param name="Local" value="Interface/IMapTopobasePrimitive/IMapTopobasePrimitive.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapTopobasePrimitive.Owner">
+          <param name="Local" value="Interface/IMapTopobasePrimitive/IMapTopobasePrimitive.Owner.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IMapTopobasePrimitives">
+        <param name="Local" value="Interface/IMapTopobasePrimitives/IMapTopobasePrimitives.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapTopobasePrimitives.Count">
+          <param name="Local" value="Interface/IMapTopobasePrimitives/IMapTopobasePrimitives.Count.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapTopobasePrimitives.Item">
+          <param name="Local" value="Interface/IMapTopobasePrimitives/IMapTopobasePrimitives.Item.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IMapTopobaseShape">
+        <param name="Local" value="Interface/IMapTopobaseShape/IMapTopobaseShape.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapTopobaseShape.AttributeValue">
+          <param name="Local" value="Interface/IMapTopobaseShape/IMapTopobaseShape.AttributeValue.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapTopobaseShape.BarOriginOffset">
+          <param name="Local" value="Interface/IMapTopobaseShape/IMapTopobaseShape.BarOriginOffset.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapTopobaseShape.Description">
+          <param name="Local" value="Interface/IMapTopobaseShape/IMapTopobaseShape.Description.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapTopobaseShape.Id">
+          <param name="Local" value="Interface/IMapTopobaseShape/IMapTopobaseShape.Id.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapTopobaseShape.ImageOriginOffset">
+          <param name="Local" value="Interface/IMapTopobaseShape/IMapTopobaseShape.ImageOriginOffset.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapTopobaseShape.Name">
+          <param name="Local" value="Interface/IMapTopobaseShape/IMapTopobaseShape.Name.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapTopobaseShape.OriginOffset">
+          <param name="Local" value="Interface/IMapTopobaseShape/IMapTopobaseShape.OriginOffset.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapTopobaseShape.Owner">
+          <param name="Local" value="Interface/IMapTopobaseShape/IMapTopobaseShape.Owner.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapTopobaseShape.PieOriginOffset">
+          <param name="Local" value="Interface/IMapTopobaseShape/IMapTopobaseShape.PieOriginOffset.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapTopobaseShape.Primitives">
+          <param name="Local" value="Interface/IMapTopobaseShape/IMapTopobaseShape.Primitives.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapTopobaseShape.Text">
+          <param name="Local" value="Interface/IMapTopobaseShape/IMapTopobaseShape.Text.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapTopobaseShape.TextOriginOffset">
+          <param name="Local" value="Interface/IMapTopobaseShape/IMapTopobaseShape.TextOriginOffset.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IMapTopobaseShapes">
+        <param name="Local" value="Interface/IMapTopobaseShapes/IMapTopobaseShapes.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapTopobaseShapes.Count">
+          <param name="Local" value="Interface/IMapTopobaseShapes/IMapTopobaseShapes.Count.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapTopobaseShapes.Item">
+          <param name="Local" value="Interface/IMapTopobaseShapes/IMapTopobaseShapes.Item.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapTopobaseShapes.ItemByKey">
+          <param name="Local" value="Interface/IMapTopobaseShapes/IMapTopobaseShapes.ItemByKey.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IMapView">
+        <param name="Local" value="Interface/IMapView/IMapView.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapView.GetImage">
+          <param name="Local" value="Interface/IMapView/IMapView.GetImage.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapView.HitTestShape">
+          <param name="Local" value="Interface/IMapView/IMapView.HitTestShape.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapView.ImageMap">
+          <param name="Local" value="Interface/IMapView/IMapView.ImageMap.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapView.Legend">
+          <param name="Local" value="Interface/IMapView/IMapView.Legend.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapView.LegendRect">
+          <param name="Local" value="Interface/IMapView/IMapView.LegendRect.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapView.Map">
+          <param name="Local" value="Interface/IMapView/IMapView.Map.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapView.Refresh">
+          <param name="Local" value="Interface/IMapView/IMapView.Refresh.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapView.ScrollIntoView">
+          <param name="Local" value="Interface/IMapView/IMapView.ScrollIntoView.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapView.SelectionFlashPhasesCount">
+          <param name="Local" value="Interface/IMapView/IMapView.SelectionFlashPhasesCount.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapView.SelectionFlashTimerInterval">
+          <param name="Local" value="Interface/IMapView/IMapView.SelectionFlashTimerInterval.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapView.SelectionMode">
+          <param name="Local" value="Interface/IMapView/IMapView.SelectionMode.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapView.TerritoryInfo">
+          <param name="Local" value="Interface/IMapView/IMapView.TerritoryInfo.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapView.TerritoryInfoRect">
+          <param name="Local" value="Interface/IMapView/IMapView.TerritoryInfoRect.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapView.UseProportionality">
+          <param name="Local" value="Interface/IMapView/IMapView.UseProportionality.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapView.UseScrollBars">
+          <param name="Local" value="Interface/IMapView/IMapView.UseScrollBars.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapView.UseSelectionFlash">
+          <param name="Local" value="Interface/IMapView/IMapView.UseSelectionFlash.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapView.UseToolTips">
+          <param name="Local" value="Interface/IMapView/IMapView.UseToolTips.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapView.ViewRect">
+          <param name="Local" value="Interface/IMapView/IMapView.ViewRect.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapView.WndMode">
+          <param name="Local" value="Interface/IMapView/IMapView.WndMode.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IMapVisual">
+        <param name="Local" value="Interface/IMapVisual/IMapVisual.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapVisual.AttributeName">
+          <param name="Local" value="Interface/IMapVisual/IMapVisual.AttributeName.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapVisual.BeginUpdate">
+          <param name="Local" value="Interface/IMapVisual/IMapVisual.BeginUpdate.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapVisual.DataAdapter">
+          <param name="Local" value="Interface/IMapVisual/IMapVisual.DataAdapter.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapVisual.EndUpdate">
+          <param name="Local" value="Interface/IMapVisual/IMapVisual.EndUpdate.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapVisual.Name">
+          <param name="Local" value="Interface/IMapVisual/IMapVisual.Name.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapVisual.RefreshData">
+          <param name="Local" value="Interface/IMapVisual/IMapVisual.RefreshData.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapVisual.ResetCache">
+          <param name="Local" value="Interface/IMapVisual/IMapVisual.ResetCache.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapVisual.ToolTipFormat">
+          <param name="Local" value="Interface/IMapVisual/IMapVisual.ToolTipFormat.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapVisual.Visible">
+          <param name="Local" value="Interface/IMapVisual/IMapVisual.Visible.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapVisual.VisualType">
+          <param name="Local" value="Interface/IMapVisual/IMapVisual.VisualType.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IMapVisualColorProperty">
+        <param name="Local" value="Interface/IMapVisualColorProperty/IMapVisualColorProperty.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapVisualColorProperty.DataAdapter">
+          <param name="Local" value="Interface/IMapVisualColorProperty/IMapVisualColorProperty.DataAdapter.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapVisualColorProperty.Dependent">
+          <param name="Local" value="Interface/IMapVisualColorProperty/IMapVisualColorProperty.Dependent.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapVisualColorProperty.Scale">
+          <param name="Local" value="Interface/IMapVisualColorProperty/IMapVisualColorProperty.Scale.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapVisualColorProperty.Values">
+          <param name="Local" value="Interface/IMapVisualColorProperty/IMapVisualColorProperty.Values.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IMapVisualFillProperty">
+        <param name="Local" value="Interface/IMapVisualFillProperty/IMapVisualFillProperty.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapVisualFillProperty.DataAdapter">
+          <param name="Local" value="Interface/IMapVisualFillProperty/IMapVisualFillProperty.DataAdapter.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapVisualFillProperty.Dependent">
+          <param name="Local" value="Interface/IMapVisualFillProperty/IMapVisualFillProperty.Dependent.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapVisualFillProperty.Scale">
+          <param name="Local" value="Interface/IMapVisualFillProperty/IMapVisualFillProperty.Scale.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapVisualFillProperty.Value">
+          <param name="Local" value="Interface/IMapVisualFillProperty/IMapVisualFillProperty.Value.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IMapVisualIconProperty">
+        <param name="Local" value="Interface/IMapVisualIconProperty/IMapVisualIconProperty.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapVisualIconProperty.DataAdapter">
+          <param name="Local" value="Interface/IMapVisualIconProperty/IMapVisualIconProperty.DataAdapter.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapVisualIconProperty.Dependent">
+          <param name="Local" value="Interface/IMapVisualIconProperty/IMapVisualIconProperty.Dependent.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapVisualIconProperty.Scale">
+          <param name="Local" value="Interface/IMapVisualIconProperty/IMapVisualIconProperty.Scale.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapVisualIconProperty.Value">
+          <param name="Local" value="Interface/IMapVisualIconProperty/IMapVisualIconProperty.Value.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IMapVisualNumericProperty">
+        <param name="Local" value="Interface/IMapVisualNumericProperty/IMapVisualNumericProperty.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapVisualNumericProperty.DataAdapter">
+          <param name="Local" value="Interface/IMapVisualNumericProperty/IMapVisualNumericProperty.DataAdapter.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapVisualNumericProperty.Dependent">
+          <param name="Local" value="Interface/IMapVisualNumericProperty/IMapVisualNumericProperty.Dependent.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapVisualNumericProperty.Scale">
+          <param name="Local" value="Interface/IMapVisualNumericProperty/IMapVisualNumericProperty.Scale.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapVisualNumericProperty.Value">
+          <param name="Local" value="Interface/IMapVisualNumericProperty/IMapVisualNumericProperty.Value.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IMapWidget">
+        <param name="Local" value="Interface/IMapWidget/IMapWidget.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMapWidget.Source">
+          <param name="Local" value="Interface/IMapWidget/IMapWidget.Source.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IUiMap">
+        <param name="Local" value="Interface/IUiMap/IUiMap.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IUiMap.Map">
+          <param name="Local" value="Interface/IUiMap/IUiMap.Map.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Перечисления сборки Map">
+      <param name="Local" value="Enums/Map_Enums.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="MapArrowShape">
+        <param name="Local" value="Enums/MapArrowShape.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="MapArrowTextDirection">
+        <param name="Local" value="Enums/MapArrowTextDirection.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="MapAutoScaleMode">
+        <param name="Local" value="Enums/MapAutoScaleMode.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="MapBackgroundImageDrawStyle">
+        <param name="Local" value="Enums/MapBackgroundImageDrawStyle.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="MapBackgroundType">
+        <param name="Local" value="Enums/MapBackgroundType.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="MapHorizontalAlignment">
+        <param name="Local" value="Enums/MapHorizontalAlignment.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="MapLayerLabelHorizontalAlignment">
+        <param name="Local" value="Enums/MapLayerLabelHorizontalAlignment.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="MapLayerLabelVerticalAlignment">
+        <param name="Local" value="Enums/MapLayerLabelVerticalAlignment.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="MapLegendElementPlacement">
+        <param name="Local" value="Enums/MapLegendElementPlacement.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="MapLegendMarkerType">
+        <param name="Local" value="Enums/MapLegendMarkerType.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="MapScaleSettingImpact">
+        <param name="Local" value="Enums/MapScaleSettingImpact.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="MapTerritoryInfoSortType">
+        <param name="Local" value="Enums/MapTerritoryInfoSortType.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="MapType">
+        <param name="Local" value="Enums/MapType.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="MapViewSelectionMode">
+        <param name="Local" value="Enums/MapViewSelectionMode.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="MapViewWndMode">
+        <param name="Local" value="Enums/MapViewWndMode.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="MapVisualType">
+        <param name="Local" value="Enums/MapVisualType.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="MapXmlSaveMethod">
+        <param name="Local" value="Enums/MapXmlSaveMethod.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Классы сборки Map">
+      <param name="Local" value="Class/map_class.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="DxMap">
+        <param name="Local" value="Class/DxMap/DxMap.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="DxMapAreaVisual">
+        <param name="Local" value="Class/DxMapAreaVisual/DxMapAreaVisual.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="DxMapBarVisual">
+        <param name="Local" value="Class/DxMapBarVisual/DxMapBarVisual.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="DxMapColorScale">
+        <param name="Local" value="Class/DxMapColorScale/DxMapColorScale.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="DxMapFillScale">
+        <param name="Local" value="Class/DxMapFillScale/DxMapFillScale.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="DxMapIconScale">
+        <param name="Local" value="Class/DxMapIconScale/DxMapIconScale.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="DxMapImageVisual">
+        <param name="Local" value="Class/DxMapImageVisual/DxMapImageVisual.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="DxMapLegend">
+        <param name="Local" value="Class/DxMapLegend/DxMapLegend.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="DxMapMarkerVisual">
+        <param name="Local" value="Class/DxMapMarkerVisual/DxMapMarkerVisual.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="DxMapNumericScale">
+        <param name="Local" value="Class/DxMapNumericScale/DxMapNumericScale.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="DxMapPieVisual">
+        <param name="Local" value="Class/DxMapPieVisual/DxMapPieVisual.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="DxMapTerritoryInfo">
+        <param name="Local" value="Class/DxMapTerritoryInfo/DxMapTerritoryInfo.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="DxMapTopobase">
+        <param name="Local" value="Class/DxMapTopobase/DxMapTopobase.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="DxMapView">
+        <param name="Local" value="Class/DxMapView/DxMapView.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="MapBox">
+        <param name="Local" value="Class/MapBox/MapBox.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapBox.OnTerritoryClick">
+          <param name="Local" value="Class/MapBox/MapBox.OnTerritoryClick.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="MapBoxTerritoryEventArgs">
+        <param name="Local" value="Class/MapBoxTerritoryEventArgs/MapBoxTerritoryEventArgs.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MapBoxTerritoryEventArgs.Create">
+          <param name="Local" value="Class/MapBoxTerritoryEventArgs/MapBoxTerritoryEventArgs.Create.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="MapExporter">
+        <param name="Local" value="Class/MapExporter/MapExporter.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="MapWidget">
+        <param name="Local" value="Class/MapWidget/MapWidget.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="UiMap">
+        <param name="Local" value="Class/UiMap/UiMap.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      </ul>
+    </ul>
+</ul>
+</html>

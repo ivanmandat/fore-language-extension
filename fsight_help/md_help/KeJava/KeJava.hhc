@@ -1,0 +1,215 @@
+<html>
+<!-- Sitemap 1.0 -->
+<object type="text/site properties">
+  <param name="SiteType" value="toc">
+  <param name="Image Width" value="16">
+  <param name="Window Styles" value="0x800027">
+  <param name="ExWindow Styles" value="0x100">
+</object>
+<ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Java">
+    <param name="Local" value="KeJava_Title.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Введение в сборку Java">
+      <param name="Local" value="Intro/Java_Intro.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Использование сборки Java при разработке">
+        <param name="Local" value="Intro/Use_Java_Assembly.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Интерфейсы сборки Java">
+      <param name="Local" value="Interface/KeJava_Interface.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IJavaClass">
+        <param name="Local" value="Interface/IJavaClass/IJavaClass.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IJavaClass.CreateObject">
+          <param name="Local" value="Interface/IJavaClass/IJavaClass.CreateObject.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IJavaClass.Field">
+          <param name="Local" value="Interface/IJavaClass/IJavaClass.Field.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IJavaClass.Invoke">
+          <param name="Local" value="Interface/IJavaClass/IJavaClass.Invoke.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IJavaClassObject">
+        <param name="Local" value="Interface/IJavaClassObject/IJavaClassObject.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IJavaClassObject.Field">
+          <param name="Local" value="Interface/IJavaClassObject/IJavaClassObject.Field.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IJavaClassObject.Invoke">
+          <param name="Local" value="Interface/IJavaClassObject/IJavaClassObject.Invoke.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IJavaClassObject.InvokeNonvirtual">
+          <param name="Local" value="Interface/IJavaClassObject/IJavaClassObject.InvokeNonvirtual.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IJavaException">
+        <param name="Local" value="Interface/IJavaException/IJavaException.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IJavaModule">
+        <param name="Local" value="Interface/IJavaModule/IJavaModule.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IJavaModule.Modified">
+          <param name="Local" value="Interface/IJavaModule/IJavaModule.Modified.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IJavaModule.Text">
+          <param name="Local" value="Interface/IJavaModule/IJavaModule.Text.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IJavaObject">
+        <param name="Local" value="Interface/IJavaObject/IJavaObject.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IJavaObject.Type">
+          <param name="Local" value="Interface/IJavaObject/IJavaObject.Type.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IJavaObject.Value">
+          <param name="Local" value="Interface/IJavaObject/IJavaObject.Value.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IJavaUtils">
+        <param name="Local" value="Interface/IJavaUtils/IJavaUtils.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IJavaUtils.Compile">
+          <param name="Local" value="Interface/IJavaUtils/IJavaUtils.Compile.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IJavaUtils.Invoke">
+          <param name="Local" value="Interface/IJavaUtils/IJavaUtils.Invoke.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IJavaUtils.InvokeModule">
+          <param name="Local" value="Interface/IJavaUtils/IJavaUtils.InvokeModule.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Перечисления сборки Java">
+      <param name="Local" value="Enums/KeJava_Enums.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="JavaType">
+        <param name="Local" value="Enums/JavaType.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Классы сборки Java">
+      <param name="Local" value="Class/KeJava_Class.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Java">
+        <param name="Local" value="Class/Java/Java.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Java.Invoke">
+          <param name="Local" value="Class/Java/Java.Invoke.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Java.InvokeModule">
+          <param name="Local" value="Class/Java/Java.InvokeModule.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="JavaClass">
+        <param name="Local" value="Class/JavaClass/JavaClass.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="JavaClass.Create">
+          <param name="Local" value="Class/JavaClass/JavaClass.Create.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="JavaClassObject">
+        <param name="Local" value="Class/JavaClassObject/JavaClassObject.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="JavaClassObject.Create">
+          <param name="Local" value="Class/JavaClassObject/JavaClassObject.Create.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="JavaClassObject.CreateClass">
+          <param name="Local" value="Class/JavaClassObject/JavaClassObject.CreateClass.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="JavaException">
+        <param name="Local" value="Class/JavaException/JavaException.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="JavaObject">
+        <param name="Local" value="Class/JavaObject/JavaObject.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="JavaObject.Create">
+          <param name="Local" value="Class/JavaObject/JavaObject.Create.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="JavaUtils">
+        <param name="Local" value="Class/JavaUtils/JavaUtils.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      </ul>
+    </ul>
+</ul>
+</html>

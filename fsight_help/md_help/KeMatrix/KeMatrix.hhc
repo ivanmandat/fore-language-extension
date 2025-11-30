@@ -1,0 +1,1017 @@
+<html>
+<!-- Sitemap 1.0 -->
+<object type="text/site properties">
+  <param name="SiteType" value="toc">
+  <param name="Image Width" value="16">
+  <param name="Window Styles" value="0x800027">
+  <param name="ExWindow Styles" value="0x100">
+</object>
+<ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Matrix">
+    <param name="Local" value="KeMatrix_TitlePage.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Введение в сборку Matrix">
+      <param name="Local" value="KeMatrix_Introduction.htm">
+      <param name="ImageNumber" value="11">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Интерфейсы сборки Matrix">
+      <param name="Local" value="Interface/KeMatrix_Interface.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IAggrDestCell">
+        <param name="Local" value="Interface/IAggrDestCell/IAggrDestCell.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAggrDestCell.Count">
+          <param name="Local" value="Interface/IAggrDestCell/IAggrDestCell.Count.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAggrDestCell.Item">
+          <param name="Local" value="Interface/IAggrDestCell/IAggrDestCell.Item.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAggrDestCell.Operation">
+          <param name="Local" value="Interface/IAggrDestCell/IAggrDestCell.Operation.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IAggregationInfo">
+        <param name="Local" value="Interface/IAggregationInfo/IAggregationInfo.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAggregationInfo.Item">
+          <param name="Local" value="Interface/IAggregationInfo/IAggregationInfo.Item.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAggregationInfo.Next">
+          <param name="Local" value="Interface/IAggregationInfo/IAggregationInfo.Next.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IAggregationInfoItem">
+        <param name="Local" value="Interface/IAggregationInfoItem/IAggregationInfoItem.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAggregationInfoItem.Count">
+          <param name="Local" value="Interface/IAggregationInfoItem/IAggregationInfoItem.Count.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAggregationInfoItem.Item">
+          <param name="Local" value="Interface/IAggregationInfoItem/IAggregationInfoItem.Item.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IAggrSourceCell">
+        <param name="Local" value="Interface/IAggrSourceCell/IAggrSourceCell.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAggrSourceCell.Coord">
+          <param name="Local" value="Interface/IAggrSourceCell/IAggrSourceCell.Coord.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAggrSourceCell.SourceMatrixValue">
+          <param name="Local" value="Interface/IAggrSourceCell/IAggrSourceCell.SourceMatrixValue.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAggrSourceCell.Value">
+          <param name="Local" value="Interface/IAggrSourceCell/IAggrSourceCell.Value.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAggrSourceCell.ValueOrigin">
+          <param name="Local" value="Interface/IAggrSourceCell/IAggrSourceCell.ValueOrigin.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IBasicMatrixAggregator">
+        <param name="Local" value="Interface/IBasicMatrixAggregator/IBasicMatrixAggregator.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IBasicMatrixAggregator.DefaultLevelAggregation">
+          <param name="Local" value="Interface/IBasicMatrixAggregator/IBasicMatrixAggregator.DefaultLevelAggregation.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IBasicMatrixAggregator.ExecuteWithAggregationInfo">
+          <param name="Local" value="Interface/IBasicMatrixAggregator/IBasicMatrixAggregator.ExecuteWithAggregationInfo.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IBasicMatrixAggregator.IgnoreNulls">
+          <param name="Local" value="Interface/IBasicMatrixAggregator/IBasicMatrixAggregator.IgnoreNulls.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IBasicMatrixAggregator.LevelAggregation">
+          <param name="Local" value="Interface/IBasicMatrixAggregator/IBasicMatrixAggregator.LevelAggregation.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IBasicMatrixAggregator.Operation">
+          <param name="Local" value="Interface/IBasicMatrixAggregator/IBasicMatrixAggregator.Operation.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IBasicMatrixAggregator.OperationCount">
+          <param name="Local" value="Interface/IBasicMatrixAggregator/IBasicMatrixAggregator.OperationCount.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IBasicMatrixAggregator.OperationName">
+          <param name="Local" value="Interface/IBasicMatrixAggregator/IBasicMatrixAggregator.OperationName.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IBasicMatrixAggregator.PutResultsToSourceMatrix">
+          <param name="Local" value="Interface/IBasicMatrixAggregator/IBasicMatrixAggregator.PutResultsToSourceMatrix.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IBasicMatrixAggregator.UseSelection">
+          <param name="Local" value="Interface/IBasicMatrixAggregator/IBasicMatrixAggregator.UseSelection.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IBasicMatrixLevelAggregator">
+        <param name="Local" value="Interface/IBasicMatrixLevelAggregator/IBasicMatrixLevelAggregator.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IBasicMatrixLevelAggregator.Include">
+          <param name="Local" value="Interface/IBasicMatrixLevelAggregator/IBasicMatrixLevelAggregator.Include.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IBasicMatrixLevelAggregator.IncludeChildren">
+          <param name="Local" value="Interface/IBasicMatrixLevelAggregator/IBasicMatrixLevelAggregator.IncludeChildren.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IBasicMatrixLevelAggregator.IncludeOwner">
+          <param name="Local" value="Interface/IBasicMatrixLevelAggregator/IBasicMatrixLevelAggregator.IncludeOwner.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IBasicMatrixLevelAggregator.Level">
+          <param name="Local" value="Interface/IBasicMatrixLevelAggregator/IBasicMatrixLevelAggregator.Level.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IBasicMatrixLevelAggregator.Operation">
+          <param name="Local" value="Interface/IBasicMatrixLevelAggregator/IBasicMatrixLevelAggregator.Operation.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IBasicMatrixLevelAggregator.PreserveExistingData">
+          <param name="Local" value="Interface/IBasicMatrixLevelAggregator/IBasicMatrixLevelAggregator.PreserveExistingData.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IBasicMatrixLevelAggregator.PreserveMethod">
+          <param name="Local" value="Interface/IBasicMatrixLevelAggregator/IBasicMatrixLevelAggregator.PreserveMethod.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IBasicMatrixLevelAggregator.UseDefaultLevelAggregation">
+          <param name="Local" value="Interface/IBasicMatrixLevelAggregator/IBasicMatrixLevelAggregator.UseDefaultLevelAggregation.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IChronologicalMatrixAggregator">
+        <param name="Local" value="Interface/IChronologicalMatrixAggregator/IChronologicalMatrixAggregator.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IChronologicalMatrixAggregator.LevelAggregation">
+          <param name="Local" value="Interface/IChronologicalMatrixAggregator/IChronologicalMatrixAggregator.LevelAggregation.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IChronologicalMatrixAggregator.LevelAggregationByKey">
+          <param name="Local" value="Interface/IChronologicalMatrixAggregator/IChronologicalMatrixAggregator.LevelAggregationByKey.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IChronologicalMatrixAggregator.Operation">
+          <param name="Local" value="Interface/IChronologicalMatrixAggregator/IChronologicalMatrixAggregator.Operation.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IChronologicalMatrixAggregator.OperationCount">
+          <param name="Local" value="Interface/IChronologicalMatrixAggregator/IChronologicalMatrixAggregator.OperationCount.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IChronologicalMatrixAggregator.OperationName">
+          <param name="Local" value="Interface/IChronologicalMatrixAggregator/IChronologicalMatrixAggregator.OperationName.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IChronologicalMatrixLevelAggregator">
+        <param name="Local" value="Interface/IChronologicalMatrixLevelAggregator/IChronologicalMatrixLevelAggregator.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IChronologicalMatrixLevelAggregator.IncludeChildren">
+          <param name="Local" value="Interface/IChronologicalMatrixLevelAggregator/IChronologicalMatrixLevelAggregator.IncludeChildren.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IChronologicalMatrixLevelAggregator.Level">
+          <param name="Local" value="Interface/IChronologicalMatrixLevelAggregator/IChronologicalMatrixLevelAggregator.Level.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IChronologicalMatrixLevelAggregator.Operation">
+          <param name="Local" value="Interface/IChronologicalMatrixLevelAggregator/IChronologicalMatrixLevelAggregator.Operation.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IChronologicalMatrixLevelAggregator.ResultToSourceLevel">
+          <param name="Local" value="Interface/IChronologicalMatrixLevelAggregator/IChronologicalMatrixLevelAggregator.ResultToSourceLevel.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IChronologicalMatrixLevelAggregator.ResultToThisLevel">
+          <param name="Local" value="Interface/IChronologicalMatrixLevelAggregator/IChronologicalMatrixLevelAggregator.ResultToThisLevel.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IChronologicalMatrixLevelAggregator.SourceLevel">
+          <param name="Local" value="Interface/IChronologicalMatrixLevelAggregator/IChronologicalMatrixLevelAggregator.SourceLevel.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IChronologicalMatrixLevelAggregator.UseDefaultLevelAggregation">
+          <param name="Local" value="Interface/IChronologicalMatrixLevelAggregator/IChronologicalMatrixLevelAggregator.UseDefaultLevelAggregation.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IMatrix">
+        <param name="Local" value="Interface/IMatrix/IMatrix.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMatrix.ChangeValueFlag">
+          <param name="Local" value="Interface/IMatrix/IMatrix.ChangeValueFlag.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMatrix.Count">
+          <param name="Local" value="Interface/IMatrix/IMatrix.Count.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMatrix.CountV">
+          <param name="Local" value="Interface/IMatrix/IMatrix.CountV.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMatrix.CreateCoord">
+          <param name="Local" value="Interface/IMatrix/IMatrix.CreateCoord.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMatrix.CreateIterator">
+          <param name="Local" value="Interface/IMatrix/IMatrix.CreateIterator.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMatrix.CreateSwapInfo">
+          <param name="Local" value="Interface/IMatrix/IMatrix.CreateSwapInfo.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMatrix.Dimensions">
+          <param name="Local" value="Interface/IMatrix/IMatrix.Dimensions.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMatrix.Options">
+          <param name="Local" value="Interface/IMatrix/IMatrix.Options.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMatrix.SetValueBySelection">
+          <param name="Local" value="Interface/IMatrix/IMatrix.SetValueBySelection.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMatrix.Swap">
+          <param name="Local" value="Interface/IMatrix/IMatrix.Swap.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMatrix.SwapTo">
+          <param name="Local" value="Interface/IMatrix/IMatrix.SwapTo.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMatrix.ValueChangeCallback">
+          <param name="Local" value="Interface/IMatrix/IMatrix.ValueChangeCallback.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMatrix.ValueCount">
+          <param name="Local" value="Interface/IMatrix/IMatrix.ValueCount.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMatrix.ValueFlag">
+          <param name="Local" value="Interface/IMatrix/IMatrix.ValueFlag.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IMatrixAggregatorManager">
+        <param name="Local" value="Interface/IMatrixAggregatorManager/IMatrixAggregatorManager.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMatrixAggregatorManager.CreateAggregator">
+          <param name="Local" value="Interface/IMatrixAggregatorManager/IMatrixAggregatorManager.CreateAggregator.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IMatrixAggregatorModel">
+        <param name="Local" value="Interface/IMatrixAggregatorModel/IMatrixAggregatorModel.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMatrixAggregatorModel.Dimension">
+          <param name="Local" value="Interface/IMatrixAggregatorModel/IMatrixAggregatorModel.Dimension.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMatrixAggregatorModel.Execute">
+          <param name="Local" value="Interface/IMatrixAggregatorModel/IMatrixAggregatorModel.Execute.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMatrixAggregatorModel.HierarchyId">
+          <param name="Local" value="Interface/IMatrixAggregatorModel/IMatrixAggregatorModel.HierarchyId.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMatrixAggregatorModel.HierarchyKey">
+          <param name="Local" value="Interface/IMatrixAggregatorModel/IMatrixAggregatorModel.HierarchyKey.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMatrixAggregatorModel.Id">
+          <param name="Local" value="Interface/IMatrixAggregatorModel/IMatrixAggregatorModel.Id.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMatrixAggregatorModel.Name">
+          <param name="Local" value="Interface/IMatrixAggregatorModel/IMatrixAggregatorModel.Name.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IMatrixAggregatorModelHierarchies">
+        <param name="Local" value="Interface/IMatrixAggregatorModelHierarchies/IMatrixAggregatorModelHierarchies.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMatrixAggregatorModelHierarchies.Count">
+          <param name="Local" value="Interface/IMatrixAggregatorModelHierarchies/IMatrixAggregatorModelHierarchies.Count.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMatrixAggregatorModelHierarchies.Item">
+          <param name="Local" value="Interface/IMatrixAggregatorModelHierarchies/IMatrixAggregatorModelHierarchies.Item.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMatrixAggregatorModelHierarchies.Add">
+          <param name="Local" value="Interface/IMatrixAggregatorModelHierarchies/IMatrixAggregatorModelHierarchies.Add.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMatrixAggregatorModelHierarchies.AddValue">
+          <param name="Local" value="Interface/IMatrixAggregatorModelHierarchies/IMatrixAggregatorModelHierarchies.AddValue.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMatrixAggregatorModelHierarchies.Clear">
+          <param name="Local" value="Interface/IMatrixAggregatorModelHierarchies/IMatrixAggregatorModelHierarchies.Clear.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMatrixAggregatorModelHierarchies.FindById">
+          <param name="Local" value="Interface/IMatrixAggregatorModelHierarchies/IMatrixAggregatorModelHierarchies.FindById.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMatrixAggregatorModelHierarchies.FindByKey">
+          <param name="Local" value="Interface/IMatrixAggregatorModelHierarchies/IMatrixAggregatorModelHierarchies.FindByKey.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMatrixAggregatorModelHierarchies.RemoveById">
+          <param name="Local" value="Interface/IMatrixAggregatorModelHierarchies/IMatrixAggregatorModelHierarchies.RemoveById.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMatrixAggregatorModelHierarchies.RemoveByKey">
+          <param name="Local" value="Interface/IMatrixAggregatorModelHierarchies/IMatrixAggregatorModelHierarchies.RemoveByKey.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IMatrixCoord">
+        <param name="Local" value="Interface/IMatrixCoord/IMatrixCoord.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMatrixCoord.ElementId">
+          <param name="Local" value="Interface/IMatrixCoord/IMatrixCoord.ElementId.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMatrixCoord.Matrix">
+          <param name="Local" value="Interface/IMatrixCoord/IMatrixCoord.Matrix.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IMatrixDataSource">
+        <param name="Local" value="Interface/IMatrixDataSource/IMatrixDataSource.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMatrixDataSource.CreateDimSelectionSet">
+          <param name="Local" value="Interface/IMatrixDataSource/IMatrixDataSource.CreateDimSelectionSet.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMatrixDataSource.CreateDimSelectionSetOp">
+          <param name="Local" value="Interface/IMatrixDataSource/IMatrixDataSource.CreateDimSelectionSetOp.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMatrixDataSource.CreateExecutor">
+          <param name="Local" value="Interface/IMatrixDataSource/IMatrixDataSource.CreateExecutor.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMatrixDataSource.Execute">
+          <param name="Local" value="Interface/IMatrixDataSource/IMatrixDataSource.Execute.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMatrixDataSource.ReadOnly">
+          <param name="Local" value="Interface/IMatrixDataSource/IMatrixDataSource.ReadOnly.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMatrixDataSource.SaveData">
+          <param name="Local" value="Interface/IMatrixDataSource/IMatrixDataSource.SaveData.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IMatrixDataSourceExecutor">
+        <param name="Local" value="Interface/IMatrixDataSourceExecutor/IMatrixDataSourceExecutor.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMatrixDataSourceExecutor.CreateCache">
+          <param name="Local" value="Interface/IMatrixDataSourceExecutor/IMatrixDataSourceExecutor.CreateCache.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMatrixDataSourceExecutor.Execute">
+          <param name="Local" value="Interface/IMatrixDataSourceExecutor/IMatrixDataSourceExecutor.Execute.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IMatrixDataSourceExecutorCache">
+        <param name="Local" value="Interface/IMatrixDataSourceExecutorCache/IMatrixDataSourceExecutorCache.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMatrixDataSourceExecutorCache.Execute">
+          <param name="Local" value="Interface/IMatrixDataSourceExecutorCache/IMatrixDataSourceExecutorCache.Execute.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMatrixDataSourceExecutorCache.Executor">
+          <param name="Local" value="Interface/IMatrixDataSourceExecutorCache/IMatrixDataSourceExecutorCache.Executor.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMatrixDataSourceExecutorCache.Flush">
+          <param name="Local" value="Interface/IMatrixDataSourceExecutorCache/IMatrixDataSourceExecutorCache.Flush.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IMatrixDataSourceExecutorSetup">
+        <param name="Local" value="Interface/IMatrixDataSourceExecutorSetup/IMatrixDataSourceExecutorSetup.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMatrixDataSourceExecutorSetup.DimensionsIntegrityCheck">
+          <param name="Local" value="Interface/IMatrixDataSourceExecutorSetup/IMatrixDataSourceExecutorSetup.DimensionsIntegrityCheck.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IMatrixEx">
+        <param name="Local" value="Interface/IMatrixEx/IMatrixEx.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMatrixEx.ApplyChanges">
+          <param name="Local" value="Interface/IMatrixEx/IMatrixEx.ApplyChanges.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMatrixEx.AttachmentValueIndex">
+          <param name="Local" value="Interface/IMatrixEx/IMatrixEx.AttachmentValueIndex.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMatrixEx.ChangesInfo">
+          <param name="Local" value="Interface/IMatrixEx/IMatrixEx.ChangesInfo.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMatrixEx.CreateWritableProxyO">
+          <param name="Local" value="Interface/IMatrixEx/IMatrixEx.CreateWritableProxyO.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMatrixEx.MemoryReserved">
+          <param name="Local" value="Interface/IMatrixEx/IMatrixEx.MemoryReserved.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMatrixEx.MemoryUsed">
+          <param name="Local" value="Interface/IMatrixEx/IMatrixEx.MemoryUsed.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMatrixEx.PreserveOriginalValues">
+          <param name="Local" value="Interface/IMatrixEx/IMatrixEx.PreserveOriginalValues.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMatrixEx.RevertChanges">
+          <param name="Local" value="Interface/IMatrixEx/IMatrixEx.RevertChanges.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMatrixEx.ScaleValueIndex">
+          <param name="Local" value="Interface/IMatrixEx/IMatrixEx.ScaleValueIndex.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IMatrixExtendInfo">
+        <param name="Local" value="Interface/IMatrixExtendInfo/IMatrixExtendInfo.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMatrixExtendInfo.Add">
+          <param name="Local" value="Interface/IMatrixExtendInfo/IMatrixExtendInfo.Add.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMatrixExtendInfo.Clear">
+          <param name="Local" value="Interface/IMatrixExtendInfo/IMatrixExtendInfo.Clear.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMatrixExtendInfo.Count">
+          <param name="Local" value="Interface/IMatrixExtendInfo/IMatrixExtendInfo.Count.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMatrixExtendInfo.Item">
+          <param name="Local" value="Interface/IMatrixExtendInfo/IMatrixExtendInfo.Item.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IMatrixFactory">
+        <param name="Local" value="Interface/IMatrixFactory/IMatrixFactory.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMatrixFactory.CreateExtendInfo">
+          <param name="Local" value="Interface/IMatrixFactory/IMatrixFactory.CreateExtendInfo.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMatrixFactory.CreateMatrix">
+          <param name="Local" value="Interface/IMatrixFactory/IMatrixFactory.CreateMatrix.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMatrixFactory.CreateQuery">
+          <param name="Local" value="Interface/IMatrixFactory/IMatrixFactory.CreateQuery.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IMatrixIterator">
+        <param name="Local" value="Interface/IMatrixIterator/IMatrixIterator.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMatrixIterator.Assign">
+          <param name="Local" value="Interface/IMatrixIterator/IMatrixIterator.Assign.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMatrixIterator.EqualTo">
+          <param name="Local" value="Interface/IMatrixIterator/IMatrixIterator.EqualTo.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMatrixIterator.ItemID">
+          <param name="Local" value="Interface/IMatrixIterator/IMatrixIterator.ItemID.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMatrixIterator.Matrix">
+          <param name="Local" value="Interface/IMatrixIterator/IMatrixIterator.Matrix.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMatrixIterator.NextValid">
+          <param name="Local" value="Interface/IMatrixIterator/IMatrixIterator.NextValid.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMatrixIterator.PreviousValid">
+          <param name="Local" value="Interface/IMatrixIterator/IMatrixIterator.PreviousValid.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMatrixIterator.SetValueFlagEx">
+          <param name="Local" value="Interface/IMatrixIterator/IMatrixIterator.SetValueFlagEx.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMatrixIterator.ValueFlag">
+          <param name="Local" value="Interface/IMatrixIterator/IMatrixIterator.ValueFlag.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMatrixIterator.Values">
+          <param name="Local" value="Interface/IMatrixIterator/IMatrixIterator.Values.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IMatrixQuery">
+        <param name="Local" value="Interface/IMatrixQuery/IMatrixQuery.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMatrixQuery.Execute">
+          <param name="Local" value="Interface/IMatrixQuery/IMatrixQuery.Execute.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMatrixQuery.Filter">
+          <param name="Local" value="Interface/IMatrixQuery/IMatrixQuery.Filter.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMatrixQuery.Matrix">
+          <param name="Local" value="Interface/IMatrixQuery/IMatrixQuery.Matrix.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMatrixQuery.Result">
+          <param name="Local" value="Interface/IMatrixQuery/IMatrixQuery.Result.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMatrixQuery.Select">
+          <param name="Local" value="Interface/IMatrixQuery/IMatrixQuery.Select.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IMatrixQueryFilter">
+        <param name="Local" value="Interface/IMatrixQueryFilter/IMatrixQueryFilter.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMatrixQueryFilter.Ranges">
+          <param name="Local" value="Interface/IMatrixQueryFilter/IMatrixQueryFilter.Ranges.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMatrixQueryFilter.Selection">
+          <param name="Local" value="Interface/IMatrixQueryFilter/IMatrixQueryFilter.Selection.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMatrixQueryFilter.Values">
+          <param name="Local" value="Interface/IMatrixQueryFilter/IMatrixQueryFilter.Values.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IMatrixQueryFilterRange">
+        <param name="Local" value="Interface/IMatrixQueryFilterRange/IMatrixQueryFilterRange.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMatrixQueryFilterRange.Max">
+          <param name="Local" value="Interface/IMatrixQueryFilterRange/IMatrixQueryFilterRange.Max.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMatrixQueryFilterRange.Min">
+          <param name="Local" value="Interface/IMatrixQueryFilterRange/IMatrixQueryFilterRange.Min.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IMatrixQueryFilterRanges">
+        <param name="Local" value="Interface/IMatrixQueryFilterRanges/IMatrixQueryFilterRanges.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMatrixQueryFilterRanges.Add">
+          <param name="Local" value="Interface/IMatrixQueryFilterRanges/IMatrixQueryFilterRanges.Add.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMatrixQueryFilterRanges.Count">
+          <param name="Local" value="Interface/IMatrixQueryFilterRanges/IMatrixQueryFilterRanges.Count.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMatrixQueryFilterRanges.Item">
+          <param name="Local" value="Interface/IMatrixQueryFilterRanges/IMatrixQueryFilterRanges.Item.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMatrixQueryFilterRanges.Remove">
+          <param name="Local" value="Interface/IMatrixQueryFilterRanges/IMatrixQueryFilterRanges.Remove.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IMatrixQueryResult">
+        <param name="Local" value="Interface/IMatrixQueryResult/IMatrixQueryResult.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMatrixQueryResult.Count">
+          <param name="Local" value="Interface/IMatrixQueryResult/IMatrixQueryResult.Count.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMatrixQueryResult.FindByKey">
+          <param name="Local" value="Interface/IMatrixQueryResult/IMatrixQueryResult.FindByKey.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMatrixQueryResult.GetSelection">
+          <param name="Local" value="Interface/IMatrixQueryResult/IMatrixQueryResult.GetSelection.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMatrixQueryResult.GetSelectionSet">
+          <param name="Local" value="Interface/IMatrixQueryResult/IMatrixQueryResult.GetSelectionSet.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMatrixQueryResult.Item">
+          <param name="Local" value="Interface/IMatrixQueryResult/IMatrixQueryResult.Item.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMatrixQueryResult.Matrix">
+          <param name="Local" value="Interface/IMatrixQueryResult/IMatrixQueryResult.Matrix.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMatrixQueryResult.MaxValue">
+          <param name="Local" value="Interface/IMatrixQueryResult/IMatrixQueryResult.MaxValue.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMatrixQueryResult.MinValue">
+          <param name="Local" value="Interface/IMatrixQueryResult/IMatrixQueryResult.MinValue.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IMatrixTransformer">
+        <param name="Local" value="Interface/IMatrixTransformer/IMatrixTransformer.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMatrixTransformer.Dimensions">
+          <param name="Local" value="Interface/IMatrixTransformer/IMatrixTransformer.Dimensions.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMatrixTransformer.Source">
+          <param name="Local" value="Interface/IMatrixTransformer/IMatrixTransformer.Source.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMatrixTransformer.Transform">
+          <param name="Local" value="Interface/IMatrixTransformer/IMatrixTransformer.Transform.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IMatrixTransformerDimension">
+        <param name="Local" value="Interface/IMatrixTransformerDimension/IMatrixTransformerDimension.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMatrixTransformerDimension.Dimension">
+          <param name="Local" value="Interface/IMatrixTransformerDimension/IMatrixTransformerDimension.Dimension.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMatrixTransformerDimension.Element">
+          <param name="Local" value="Interface/IMatrixTransformerDimension/IMatrixTransformerDimension.Element.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMatrixTransformerDimension.Index">
+          <param name="Local" value="Interface/IMatrixTransformerDimension/IMatrixTransformerDimension.Index.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMatrixTransformerDimension.MatchCase">
+          <param name="Local" value="Interface/IMatrixTransformerDimension/IMatrixTransformerDimension.MatchCase.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IMatrixTransformerDimensions">
+        <param name="Local" value="Interface/IMatrixTransformerDimensions/IMatrixTransformerDimensions.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMatrixTransformerDimensions.Add">
+          <param name="Local" value="Interface/IMatrixTransformerDimensions/IMatrixTransformerDimensions.Add.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMatrixTransformerDimensions.Count">
+          <param name="Local" value="Interface/IMatrixTransformerDimensions/IMatrixTransformerDimensions.Count.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMatrixTransformerDimensions.FindByDimension">
+          <param name="Local" value="Interface/IMatrixTransformerDimensions/IMatrixTransformerDimensions.FindByDimension.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMatrixTransformerDimensions.Item">
+          <param name="Local" value="Interface/IMatrixTransformerDimensions/IMatrixTransformerDimensions.Item.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMatrixTransformerDimensions.Remove">
+          <param name="Local" value="Interface/IMatrixTransformerDimensions/IMatrixTransformerDimensions.Remove.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IMatrixWithAggregationInfo">
+        <param name="Local" value="Interface/IMatrixWithAggregationInfo/IMatrixWithAggregationInfo.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMatrixWithAggregationInfo.Matrix">
+          <param name="Local" value="Interface/IMatrixWithAggregationInfo/IMatrixWithAggregationInfo.Matrix.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IMatrixWritableProxy">
+        <param name="Local" value="Interface/IMatrixWritableProxy/IMatrixWritableProxy.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMatrixWritableProxy.ApplyChanges">
+          <param name="Local" value="Interface/IMatrixWritableProxy/IMatrixWritableProxy.ApplyChanges.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMatrixWritableProxy.BaseMatrix">
+          <param name="Local" value="Interface/IMatrixWritableProxy/IMatrixWritableProxy.BaseMatrix.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMatrixWritableProxy.ChangeMatrix">
+          <param name="Local" value="Interface/IMatrixWritableProxy/IMatrixWritableProxy.ChangeMatrix.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMatrixWritableProxy.RevertChanges">
+          <param name="Local" value="Interface/IMatrixWritableProxy/IMatrixWritableProxy.RevertChanges.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IValueChangeCallback">
+        <param name="Local" value="Interface/IValueChangeCallback/IValueChangeCallback.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IValueChangeCallback.OnValueChanged">
+          <param name="Local" value="Interface/IValueChangeCallback/IValueChangeCallback.OnValueChanged.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Перечисления сборки Matrix">
+      <param name="Local" value="Enums/KeMatrix_Enums.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="AggrMatrixValueOrigin">
+        <param name="Local" value="Enums/AggrMatrixValueOrigin.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="BasicAggregatorOperation">
+        <param name="Local" value="Enums/BasicAggregatorOperation.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="ChronologicalAggregatorOperation">
+        <param name="Local" value="Enums/ChronologicalAggregatorOperation.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="ExistingDataPreserveMethod">
+        <param name="Local" value="Enums/ExistingDataPreserveMethod.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IgnoreNullsState">
+        <param name="Local" value="Enums/IgnoreNullsState.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="MatrixType">
+        <param name="Local" value="Enums/MatrixType.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Классы сборки Matrix">
+      <param name="Local" value="Class/KeMatrix_Class.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="MatrixAggregatorManager">
+        <param name="Local" value="Class/MatrixAggregatorManager/MatrixAggregatorManager.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="MatrixTransformer">
+        <param name="Local" value="Class/MatrixTransformer/MatrixTransformer.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      </ul>
+    </ul>
+</ul>
+</html>

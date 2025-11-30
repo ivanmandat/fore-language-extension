@@ -1,0 +1,434 @@
+<html>
+<!-- Sitemap 1.0 -->
+<object type="text/site properties">
+  <param name="SiteType" value="index">
+</object>
+<ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="WriteVariant">
+    <param name="Name" value="IRegistryKey.WriteVariant">
+    <param name="Local" value="Interface/IRegistryKey/IRegistryKey.WriteVariant.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="WriteString">
+    <param name="Name" value="IRegistryKey.WriteString">
+    <param name="Local" value="Interface/IRegistryKey/IRegistryKey.WriteString.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="WriteInteger">
+    <param name="Name" value="IRegistryKey.WriteInteger">
+    <param name="Local" value="Interface/IRegistryKey/IRegistryKey.WriteInteger.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="WriteDouble">
+    <param name="Name" value="IRegistryKey.WriteDouble">
+    <param name="Local" value="Interface/IRegistryKey/IRegistryKey.WriteDouble.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="WriteDateTime">
+    <param name="Name" value="IRegistryKey.WriteDateTime">
+    <param name="Local" value="Interface/IRegistryKey/IRegistryKey.WriteDateTime.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="WriteBoolean">
+    <param name="Name" value="IRegistryKey.WriteBoolean">
+    <param name="Local" value="Interface/IRegistryKey/IRegistryKey.WriteBoolean.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ValueExists">
+    <param name="Name" value="IRegistryKey.ValueExists">
+    <param name="Local" value="Interface/IRegistryKey/IRegistryKey.ValueExists.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ValueCount">
+    <param name="Name" value="IRegistryKey.ValueCount">
+    <param name="Local" value="Interface/IRegistryKey/IRegistryKey.ValueCount.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="SubKeyExists">
+    <param name="Name" value="IRegistryKey.SubKeyExists">
+    <param name="Local" value="Interface/IRegistryKey/IRegistryKey.SubKeyExists.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="SubKeyCount">
+    <param name="Name" value="IRegistryKey.SubKeyCount">
+    <param name="Local" value="Interface/IRegistryKey/IRegistryKey.SubKeyCount.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ReadVariantDef">
+    <param name="Name" value="IRegistryKey.ReadVariantDef">
+    <param name="Local" value="Interface/IRegistryKey/IRegistryKey.ReadVariantDef.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ReadVariant">
+    <param name="Name" value="IRegistryKey.ReadVariant">
+    <param name="Local" value="Interface/IRegistryKey/IRegistryKey.ReadVariant.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ReadStringDef">
+    <param name="Name" value="IRegistryKey.ReadStringDef">
+    <param name="Local" value="Interface/IRegistryKey/IRegistryKey.ReadStringDef.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ReadString">
+    <param name="Name" value="IRegistryKey.ReadString">
+    <param name="Local" value="Interface/IRegistryKey/IRegistryKey.ReadString.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ReadIntegerDef">
+    <param name="Name" value="IRegistryKey.ReadIntegerDef">
+    <param name="Local" value="Interface/IRegistryKey/IRegistryKey.ReadIntegerDef.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ReadInteger">
+    <param name="Name" value="IRegistryKey.ReadInteger">
+    <param name="Local" value="Interface/IRegistryKey/IRegistryKey.ReadInteger.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ReadDoubleDef">
+    <param name="Name" value="IRegistryKey.ReadDoubleDef">
+    <param name="Local" value="Interface/IRegistryKey/IRegistryKey.ReadDoubleDef.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ReadDouble">
+    <param name="Name" value="IRegistryKey.ReadDouble">
+    <param name="Local" value="Interface/IRegistryKey/IRegistryKey.ReadDouble.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ReadDateTimeDef">
+    <param name="Name" value="IRegistryKey.ReadDateTimeDef">
+    <param name="Local" value="Interface/IRegistryKey/IRegistryKey.ReadDateTimeDef.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ReadDateTime">
+    <param name="Name" value="IRegistryKey.ReadDateTime">
+    <param name="Local" value="Interface/IRegistryKey/IRegistryKey.ReadDateTime.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ReadBooleanDef">
+    <param name="Name" value="IRegistryKey.ReadBooleanDef">
+    <param name="Local" value="Interface/IRegistryKey/IRegistryKey.ReadBooleanDef.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ReadBoolean">
+    <param name="Name" value="IRegistryKey.ReadBoolean">
+    <param name="Local" value="Interface/IRegistryKey/IRegistryKey.ReadBoolean.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="OpenSubKey">
+    <param name="Name" value="IRegistryKey.OpenSubKey">
+    <param name="Local" value="Interface/IRegistryKey/IRegistryKey.OpenSubKey.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Name">
+    <param name="Name" value="IRegistryKey.Name">
+    <param name="Local" value="Interface/IRegistryKey/IRegistryKey.Name.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GetValueNames">
+    <param name="Name" value="IRegistryKey.GetValueNames">
+    <param name="Local" value="Interface/IRegistryKey/IRegistryKey.GetValueNames.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GetSubKeyNames">
+    <param name="Name" value="IRegistryKey.GetSubKeyNames">
+    <param name="Local" value="Interface/IRegistryKey/IRegistryKey.GetSubKeyNames.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Flush">
+    <param name="Name" value="IRegistryKey.Flush">
+    <param name="Local" value="Interface/IRegistryKey/IRegistryKey.Flush.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="DeleteValue">
+    <param name="Name" value="IRegistryKey.DeleteValue">
+    <param name="Local" value="Interface/IRegistryKey/IRegistryKey.DeleteValue.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="DeleteSubKey">
+    <param name="Name" value="IRegistryKey.DeleteSubKey">
+    <param name="Local" value="Interface/IRegistryKey/IRegistryKey.DeleteSubKey.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="CreateSubKey">
+    <param name="Name" value="IRegistryKey.CreateSubKey">
+    <param name="Local" value="Interface/IRegistryKey/IRegistryKey.CreateSubKey.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Users">
+    <param name="Name" value="IRegistryClass.Users">
+    <param name="Local" value="Interface/IRegistryClass/IRegistryClass.Users.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="LocalMachine">
+    <param name="Name" value="IRegistryClass.LocalMachine">
+    <param name="Local" value="Interface/IRegistryClass/IRegistryClass.LocalMachine.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="CurrentUser">
+    <param name="Name" value="IRegistryClass.CurrentUser">
+    <param name="Local" value="Interface/IRegistryClass/IRegistryClass.CurrentUser.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="CurrentConfig">
+    <param name="Name" value="IRegistryClass.CurrentConfig">
+    <param name="Local" value="Interface/IRegistryClass/IRegistryClass.CurrentConfig.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ClassesRoot">
+    <param name="Name" value="IRegistryClass.ClassesRoot">
+    <param name="Local" value="Interface/IRegistryClass/IRegistryClass.ClassesRoot.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IRegistryKey.SubKeyCount">
+    <param name="Name" value="IRegistryKey.SubKeyCount">
+    <param name="Local" value="Interface/IRegistryKey/IRegistryKey.SubKeyCount.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IRegistryKey.GetSubKeyNames">
+    <param name="Name" value="IRegistryKey.GetSubKeyNames">
+    <param name="Local" value="Interface/IRegistryKey/IRegistryKey.GetSubKeyNames.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IRegistryKey.ValueCount">
+    <param name="Name" value="IRegistryKey.ValueCount">
+    <param name="Local" value="Interface/IRegistryKey/IRegistryKey.ValueCount.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IRegistryKey.ReadString">
+    <param name="Name" value="IRegistryKey.ReadString">
+    <param name="Local" value="Interface/IRegistryKey/IRegistryKey.ReadString.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IRegistryKey">
+    <param name="Name" value="IRegistryKey">
+    <param name="Local" value="Interface/IRegistryKey/IRegistryKey.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IRegistryClass.Users">
+    <param name="Name" value="IRegistryClass.Users">
+    <param name="Local" value="Interface/IRegistryClass/IRegistryClass.Users.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IRegistryKey.ReadVariantDef">
+    <param name="Name" value="IRegistryKey.ReadVariantDef">
+    <param name="Local" value="Interface/IRegistryKey/IRegistryKey.ReadVariantDef.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IRegistryClass.ClassesRoot">
+    <param name="Name" value="IRegistryClass.ClassesRoot">
+    <param name="Local" value="Interface/IRegistryClass/IRegistryClass.ClassesRoot.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Registry">
+    <param name="Name" value="Сборка Registry">
+    <param name="Local" value="ModRegistry_Title.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Интерфейсы сборки Registry">
+      <param name="Name" value="Интерфейсы сборки Registry">
+      <param name="Local" value="Interface/Registry_Interface.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Классы сборки Registry">
+      <param name="Name" value="Классы сборки Registry">
+      <param name="Local" value="Class/Registry_Class.htm">
+    </object>
+    </ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IRegistryKey.ReadStringDef">
+    <param name="Name" value="IRegistryKey.ReadStringDef">
+    <param name="Local" value="Interface/IRegistryKey/IRegistryKey.ReadStringDef.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IRegistryKey.WriteString">
+    <param name="Name" value="IRegistryKey.WriteString">
+    <param name="Local" value="Interface/IRegistryKey/IRegistryKey.WriteString.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IRegistryKey.OpenSubKey">
+    <param name="Name" value="IRegistryKey.OpenSubKey">
+    <param name="Local" value="Interface/IRegistryKey/IRegistryKey.OpenSubKey.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IRegistryKey.DeleteValue">
+    <param name="Name" value="IRegistryKey.DeleteValue">
+    <param name="Local" value="Interface/IRegistryKey/IRegistryKey.DeleteValue.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IRegistryKey.Flush">
+    <param name="Name" value="IRegistryKey.Flush">
+    <param name="Local" value="Interface/IRegistryKey/IRegistryKey.Flush.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IRegistryKey.DeleteSubKey">
+    <param name="Name" value="IRegistryKey.DeleteSubKey">
+    <param name="Local" value="Interface/IRegistryKey/IRegistryKey.DeleteSubKey.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IRegistryClass">
+    <param name="Name" value="IRegistryClass">
+    <param name="Local" value="Interface/IRegistryClass/IRegistryClass.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IRegistryKey.SubKeyExists">
+    <param name="Name" value="IRegistryKey.SubKeyExists">
+    <param name="Local" value="Interface/IRegistryKey/IRegistryKey.SubKeyExists.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IRegistryClass.LocalMachine">
+    <param name="Name" value="IRegistryClass.LocalMachine">
+    <param name="Local" value="Interface/IRegistryClass/IRegistryClass.LocalMachine.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IRegistryKey.ReadDoubleDef">
+    <param name="Name" value="IRegistryKey.ReadDoubleDef">
+    <param name="Local" value="Interface/IRegistryKey/IRegistryKey.ReadDoubleDef.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IRegistryKey.Name">
+    <param name="Name" value="IRegistryKey.Name">
+    <param name="Local" value="Interface/IRegistryKey/IRegistryKey.Name.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IRegistryClass.CurrentConfig">
+    <param name="Name" value="IRegistryClass.CurrentConfig">
+    <param name="Local" value="Interface/IRegistryClass/IRegistryClass.CurrentConfig.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IRegistryKey.ReadDouble">
+    <param name="Name" value="IRegistryKey.ReadDouble">
+    <param name="Local" value="Interface/IRegistryKey/IRegistryKey.ReadDouble.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IRegistryKey.GetValueNames">
+    <param name="Name" value="IRegistryKey.GetValueNames">
+    <param name="Local" value="Interface/IRegistryKey/IRegistryKey.GetValueNames.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IRegistryKey.ReadIntegerDef">
+    <param name="Name" value="IRegistryKey.ReadIntegerDef">
+    <param name="Local" value="Interface/IRegistryKey/IRegistryKey.ReadIntegerDef.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IRegistryKey.ReadDateTimeDef">
+    <param name="Name" value="IRegistryKey.ReadDateTimeDef">
+    <param name="Local" value="Interface/IRegistryKey/IRegistryKey.ReadDateTimeDef.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IRegistryClass.CurrentUser">
+    <param name="Name" value="IRegistryClass.CurrentUser">
+    <param name="Local" value="Interface/IRegistryClass/IRegistryClass.CurrentUser.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IRegistryKey.WriteInteger">
+    <param name="Name" value="IRegistryKey.WriteInteger">
+    <param name="Local" value="Interface/IRegistryKey/IRegistryKey.WriteInteger.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IRegistryKey.WriteDouble">
+    <param name="Name" value="IRegistryKey.WriteDouble">
+    <param name="Local" value="Interface/IRegistryKey/IRegistryKey.WriteDouble.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IRegistryKey.WriteBoolean">
+    <param name="Name" value="IRegistryKey.WriteBoolean">
+    <param name="Local" value="Interface/IRegistryKey/IRegistryKey.WriteBoolean.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IRegistryKey.ReadInteger">
+    <param name="Name" value="IRegistryKey.ReadInteger">
+    <param name="Local" value="Interface/IRegistryKey/IRegistryKey.ReadInteger.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IRegistryKey.ReadDateTime">
+    <param name="Name" value="IRegistryKey.ReadDateTime">
+    <param name="Local" value="Interface/IRegistryKey/IRegistryKey.ReadDateTime.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IRegistryKey.ReadBoolean">
+    <param name="Name" value="IRegistryKey.ReadBoolean">
+    <param name="Local" value="Interface/IRegistryKey/IRegistryKey.ReadBoolean.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IRegistryKey.ReadBooleanDef">
+    <param name="Name" value="IRegistryKey.ReadBooleanDef">
+    <param name="Local" value="Interface/IRegistryKey/IRegistryKey.ReadBooleanDef.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IRegistryKey.CreateSubKey">
+    <param name="Name" value="IRegistryKey.CreateSubKey">
+    <param name="Local" value="Interface/IRegistryKey/IRegistryKey.CreateSubKey.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IRegistryKey.WriteVariant">
+    <param name="Name" value="IRegistryKey.WriteVariant">
+    <param name="Local" value="Interface/IRegistryKey/IRegistryKey.WriteVariant.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IRegistryKey.ReadVariant">
+    <param name="Name" value="IRegistryKey.ReadVariant">
+    <param name="Local" value="Interface/IRegistryKey/IRegistryKey.ReadVariant.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IRegistryKey.WriteDateTime">
+    <param name="Name" value="IRegistryKey.WriteDateTime">
+    <param name="Local" value="Interface/IRegistryKey/IRegistryKey.WriteDateTime.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IRegistryKey.ValueExists">
+    <param name="Name" value="IRegistryKey.ValueExists">
+    <param name="Local" value="Interface/IRegistryKey/IRegistryKey.ValueExists.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Интерфейсы сборки Registry">
+    <param name="Name" value="Интерфейсы сборки Registry">
+    <param name="Local" value="Interface/Registry_Interface.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Сборка Registry">
+    <param name="Name" value="Сборка Registry">
+    <param name="Local" value="ModRegistry_Title.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Классы сборки Registry">
+      <param name="Name" value="Классы сборки Registry">
+      <param name="Local" value="Class/Registry_Class.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Интерфейсы сборки Registry">
+      <param name="Name" value="Интерфейсы сборки Registry">
+      <param name="Local" value="Interface/Registry_Interface.htm">
+    </object>
+    </ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Параметр по умолчанию">
+    <param name="Name" value="IRegistryKey.ValueCount">
+    <param name="Local" value="Interface/IRegistryKey/IRegistryKey.ValueCount.htm">
+    <param name="Name" value="IRegistryKey.WriteBoolean">
+    <param name="Local" value="Interface/IRegistryKey/IRegistryKey.WriteBoolean.htm">
+    <param name="Name" value="IRegistryKey.WriteDateTime">
+    <param name="Local" value="Interface/IRegistryKey/IRegistryKey.WriteDateTime.htm">
+    <param name="Name" value="IRegistryKey.WriteDouble">
+    <param name="Local" value="Interface/IRegistryKey/IRegistryKey.WriteDouble.htm">
+    <param name="Name" value="IRegistryKey.WriteInteger">
+    <param name="Local" value="Interface/IRegistryKey/IRegistryKey.WriteInteger.htm">
+    <param name="Name" value="IRegistryKey.WriteString">
+    <param name="Local" value="Interface/IRegistryKey/IRegistryKey.WriteString.htm">
+    <param name="Name" value="IRegistryKey.WriteVariant">
+    <param name="Local" value="Interface/IRegistryKey/IRegistryKey.WriteVariant.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Классы сборки Registry">
+    <param name="Name" value="Классы сборки Registry">
+    <param name="Local" value="Class/Registry_Class.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="RegistryClass">
+    <param name="Name" value="RegistryClass">
+    <param name="Local" value="Class/RegistryClass/RegistryClass.htm">
+  </object>
+</ul>
+</html>

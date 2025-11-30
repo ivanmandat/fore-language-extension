@@ -1,0 +1,1051 @@
+<html>
+<!-- Sitemap 1.0 -->
+<object type="text/site properties">
+  <param name="SiteType" value="toc">
+  <param name="Image Width" value="16">
+  <param name="Window Styles" value="0x800007">
+  <param name="ExWindow Styles" value="0x100">
+</object>
+<ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Работа со спидометром">
+    <param name="Local" value="Classes/Speedometer/Speedometer_Class.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Компоненты">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="GaugeMaster">
+        <param name="Local" value="Components/Speedometer/GaugeMaster.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Speedometer">
+        <param name="Local" value="Components/Speedometer/Speedometer.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Пример создания датчика топлива">
+        <param name="Local" value="Components/Speedometer/Fuel_gauge_Example.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Пример создания стрелочных часов">
+        <param name="Local" value="Components/Speedometer/Clock_Example.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Пример создания спидометра с мастером">
+        <param name="Local" value="Components/Speedometer/speedometer_wirh_master.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Классы">
+      <param name="Local" value="Classes/Speedometer/Speedometer_Class.htm#642b3b9347ca42c9b00b820c00c373fa=1">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="ArrowPanel">
+        <param name="Local" value="Classes/Speedometer/ArrowPanel.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="CenterPanel">
+        <param name="Local" value="Classes/Speedometer/CenterMarkerPanel.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="CircleMarker">
+        <param name="Local" value="Classes/Speedometer/CircleMarker/CircleMarker.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Конструктор CircleMarker">
+          <param name="Local" value="Classes/Speedometer/CircleMarker/Constructor_CircleMarker.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="ColorSectorsPanel">
+        <param name="Local" value="Classes/Speedometer/ColorSectorsPanel.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="DropShadow">
+        <param name="Local" value="Classes/Speedometer/DropShadow/DropShadow.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="DropShadow.Background">
+          <param name="Local" value="Classes/Speedometer/DropShadow/DropShadow.Background.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="DropShadow.getShadowElement">
+          <param name="Local" value="Classes/Speedometer/DropShadow/DropShadow.getShadowElement.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="DropShadow.Offset">
+          <param name="Local" value="Classes/Speedometer/DropShadow/DropShadow.Offset.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="DropShadow.render">
+          <param name="Local" value="Classes/Speedometer/DropShadow/DropShadow.render.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="DropShadow.setAttr">
+          <param name="Local" value="Classes/Speedometer/DropShadow/DropShadow.setAttr.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Конструктор DropShadow">
+          <param name="Local" value="Classes/Speedometer/DropShadow/DropShadow_Constructor.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="GaugeArrowBase">
+        <param name="Local" value="Classes/Speedometer/GaugeArrowBase/GaugeArrowBase.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="GaugeArrowBase.animate">
+          <param name="Local" value="Classes/Speedometer/GaugeArrowBase/GaugeArrowBase.animate.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="GaugeArrowBase.calcRadius">
+          <param name="Local" value="Classes/Speedometer/GaugeArrowBase/GaugeArrowBase.calcRadius.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="GaugeArrowBase.getAutoResKoef">
+          <param name="Local" value="Classes/Speedometer/GaugeArrowBase/GaugeArrowBase.getAutoResKoef.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="GaugeArrowBase.getDimAttributeId">
+          <param name="Local" value="Classes/Speedometer/GaugeArrowBase/GaugeArrowBase.getDimAttributeId.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="GaugeArrowBase.getIsValid">
+          <param name="Local" value="Classes/Speedometer/GaugeArrowBase/GaugeArrowBase.getIsValid.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="GaugeArrowBase.getScale">
+          <param name="Local" value="Classes/Speedometer/GaugeArrowBase/GaugeArrowBase.getScale.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="GaugeArrowBase.Radius">
+          <param name="Local" value="Classes/Speedometer/GaugeArrowBase/GaugeArrowBase.Radius.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="GaugeArrowBase.setAnimationValues">
+          <param name="Local" value="Classes/Speedometer/GaugeArrowBase/GaugeArrowBase.setAnimationValues.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="GaugeArrowBase.setRadiusUnit">
+          <param name="Local" value="Classes/Speedometer/GaugeArrowBase/GaugeArrowBase.setRadiusUnit.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="GaugeCenterLabel">
+        <param name="Local" value="Classes/Speedometer/GaugeCenterLabel/GaugeCenterLabel.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="GaugeCenterLabel.Arrow">
+          <param name="Local" value="Classes/Speedometer/GaugeCenterLabel/GaugeCenterLabel.Arrow.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="GaugeCenterLabel.AutoSize">
+          <param name="Local" value="Classes/Speedometer/GaugeCenterLabel/GaugeCenterLabel.AutoSize.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="GaugeCenterLabel.MaskLabel">
+          <param name="Local" value="Classes/Speedometer/GaugeCenterLabel/GaugeCenterLabel.MaskLabel.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="GaugeCenterLabel.RealHeight">
+          <param name="Local" value="Classes/Speedometer/GaugeCenterLabel/GaugeCenterLabel.RealHeight.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="GaugeCenterLabel.RealWidth">
+          <param name="Local" value="Classes/Speedometer/GaugeCenterLabel/GaugeCenterLabel.RealWidth.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="GaugeCenterLabel.redraw">
+          <param name="Local" value="Classes/Speedometer/GaugeCenterLabel/GaugeCenterLabel.animate.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Конструктор GaugeCenterLabel">
+          <param name="Local" value="Classes/Speedometer/GaugeCenterLabel/Constructor_GaugeCenterLabel.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="GaugeMarkerBase">
+        <param name="Local" value="Classes/Speedometer/GaugeMarkerBase/GaugeMarkerBase.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="GaugeMarkerBase.calcOffset">
+          <param name="Local" value="Classes/Speedometer/GaugeMarkerBase/GaugeMarkerBase.calcOffset.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="GaugeMarkerBase.calcSize">
+          <param name="Local" value="Classes/Speedometer/GaugeMarkerBase/GaugeMarkerBase.calcSize.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="GaugeMarkerBase.Size">
+          <param name="Local" value="Classes/Speedometer/GaugeMarkerBase/GaugeMarkerBase.Size.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="GaugeMaster">
+        <param name="Local" value="Classes/Speedometer/GaugeMaster/GaugeMaster.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="GaugeMaster.DataView">
+          <param name="Local" value="Classes/Speedometer/GaugeMaster/GaugeMaster.DataView.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="GaugeMaster.PropertyChanged">
+          <param name="Local" value="Classes/Speedometer/GaugeMaster/GaugeMaster.PropertyChanged.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Конструктор GaugeMaster">
+          <param name="Local" value="Classes/Speedometer/GaugeMaster/Constructor_GaugeMaster.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="GaugeObject">
+        <param name="Local" value="Classes/Speedometer/GaugeObject/GaugeObject.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="GaugeObject.Background">
+          <param name="Local" value="Classes/Speedometer/GaugeObject/GaugeObject.Background.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="GaugeObject.Border">
+          <param name="Local" value="Classes/Speedometer/GaugeObject/GaugeObject.Border.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="GaugeObject.BorderEnabled">
+          <param name="Local" value="Classes/Speedometer/GaugeObject/GaugeObject.BorderEnabled.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="GaugeObject.BorderStyle">
+          <param name="Local" value="Classes/Speedometer/GaugeObject/GaugeObject.BorderStyle.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="GaugeObject.BorderWidth">
+          <param name="Local" value="Classes/Speedometer/GaugeObject/GaugeObject.BorderWidth.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="GaugeOdject.getChildren">
+          <param name="Local" value="Classes/Speedometer/GaugeObject/GaugeObject.getChildren.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="GaugeObject.OpacityEnabled">
+          <param name="Local" value="Classes/Speedometer/GaugeObject/GaugeObject.OpacityEnabled.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="GaugeObject.paint">
+          <param name="Local" value="Classes/Speedometer/GaugeObject/GaugeObject.paint.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="GaugeObject.redraw">
+          <param name="Local" value="Classes/Speedometer/GaugeObject/GaugeObject.redraw.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="GaugeObject.render">
+          <param name="Local" value="Classes/Speedometer/GaugeObject/GaugeObject.render.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="GaugeObject.rerender">
+          <param name="Local" value="Classes/Speedometer/GaugeObject/GaugeObject.rerender.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="GaugeObject.Shadow">
+          <param name="Local" value="Classes/Speedometer/GaugeObject/GaugeObject.Shadow.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="GaugeProperties">
+        <param name="Local" value="Classes/Speedometer/GaugeProperties/GaugeProperties.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="GaugeProperties.IntervalColor">
+          <param name="Local" value="Classes/Speedometer/GaugeProperties/GaugeProperties.IntervalColor.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="GaugeProperties.IntervalEnd">
+          <param name="Local" value="Classes/Speedometer/GaugeProperties/GaugeProperties.IntervalEnd.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="GaugeProperties.IntervalsCount">
+          <param name="Local" value="Classes/Speedometer/GaugeProperties/GaugeProperties.IntervalsCount.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="GaugeProperties.MaxValue">
+          <param name="Local" value="Classes/Speedometer/GaugeProperties/GaugeProperties.MaxValue.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="GaugeProperties.MinValue">
+          <param name="Local" value="Classes/Speedometer/GaugeProperties/GaugeProperties.MinValue.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="GaugeProperties.ScaleMode">
+          <param name="Local" value="Classes/Speedometer/GaugeProperties/GaugeProperties.ScaleMode.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="GaugeProperties.TrendEnabled">
+          <param name="Local" value="Classes/Speedometer/GaugeProperties/GaugeProperties.TrendEnabled.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="GaugeProperties.TrendLabel">
+          <param name="Local" value="Classes/Speedometer/GaugeProperties/GaugeProperties.TrendLabel.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="GaugeProperties.TrendValue">
+          <param name="Local" value="Classes/Speedometer/GaugeProperties/GaugeProperties.TrendValue.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="GaugeProperties.update">
+          <param name="Local" value="Classes/Speedometer/GaugeProperties/GaugeProperties.update.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Конструктор GaugeProperties">
+          <param name="Local" value="Classes/Speedometer/GaugeProperties/Constructor_GaugeProperties.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="GaugeScale">
+        <param name="Local" value="Classes/Speedometer/GaugeScale/GaugeScale.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="GaugeScale.addArrow">
+          <param name="Local" value="Classes/Speedometer/GaugeScale/GaugeScale.addArrow.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="GaugeScale.addSector">
+          <param name="Local" value="Classes/Speedometer/GaugeScale/GaugeScale.addSector.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="GaugeScale.Arrows">
+          <param name="Local" value="Classes/Speedometer/GaugeScale/GaugeScale.Arrows.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="GaugeScale.calcCenterPosition">
+          <param name="Local" value="Classes/Speedometer/GaugeScale/GaugeScale.calcCenterPosition.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="GaugeScale.calcOuterRadius">
+          <param name="Local" value="Classes/Speedometer/GaugeScale/GaugeScale.calcOuterRadius.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="GaugeScale.Center">
+          <param name="Local" value="Classes/Speedometer/GaugeScale/GaugeScale.Center.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="GaugeScale.CenterPosition">
+          <param name="Local" value="Classes/Speedometer/GaugeScale/GaugeScale.CenterPosition.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="GaugeScale.Direction">
+          <param name="Local" value="Classes/Speedometer/GaugeScale/GaugeScale.Direction.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="GaugeScale.EnablePassedStyles">
+          <param name="Local" value="Classes/Speedometer/GaugeScale/GaugeScale.EnablePassedStyles.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="GaugeScale.getArrowByName">
+          <param name="Local" value="Classes/Speedometer/GaugeScale/GaugeScale.getArrowByName.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="GaugeScale.getArrowValue">
+          <param name="Local" value="Classes/Speedometer/GaugeScale/GaugeScale.getArrowValue.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="GaugeScale.getLabelset">
+          <param name="Local" value="Classes/Speedometer/GaugeScale/GaugeScale.getLabelset.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="GaugeScale.getMajorTicks">
+          <param name="Local" value="Classes/Speedometer/GaugeScale/GaugeScale.getMajorTicks.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="GaugeScale.getMinorTicks">
+          <param name="Local" value="Classes/Speedometer/GaugeScale/GaugeScale.getMinorTicks.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="GaugeScale.getRenderInfo">
+          <param name="Local" value="Classes/Speedometer/GaugeScale/GaugeScale.getRenderInfo.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="GaugeScale.getSectorByName">
+          <param name="Local" value="Classes/Speedometer/GaugeScale/GaugeScale.getSectorByName.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="GaugeScale.getValueAngle">
+          <param name="Local" value="Classes/Speedometer/GaugeScale/GaugeScale.getValueAngle.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="GaugeScale.IsAbsoluteLabelOffset">
+          <param name="Local" value="Classes/Speedometer/GaugeScale/GaugeScale.IsAbsoluteLabelOffset.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="GaugeScale.IsAbsoluteSectorOffset">
+          <param name="Local" value="Classes/Speedometer/GaugeScale/GaugeScale.IsAbsoluteSectorOffset.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="GaugeScale.IsAbsoluteTickOffset">
+          <param name="Local" value="Classes/Speedometer/GaugeScale/GaugeScale.IsAbsoluteTickOffset.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="GaugeScale.LabelFont">
+          <param name="Local" value="Classes/Speedometer/GaugeScale/GaugeScale.LabelFont.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="GaugeScale.LabelOffset">
+          <param name="Local" value="Classes/Speedometer/GaugeScale/GaugeScale.LabelOffset.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="GaugeScale.Labels">
+          <param name="Local" value="Classes/Speedometer/GaugeScale/GaugeScale.Labels.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="GaugeScale.Length">
+          <param name="Local" value="Classes/Speedometer/GaugeScale/GaugeScale.Length.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="GaugeScale.MajorTick">
+          <param name="Local" value="Classes/Speedometer/GaugeScale/GaugeScale.MajorTick.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="GaugeScale.MaskLabel">
+          <param name="Local" value="Classes/Speedometer/GaugeScale/GaugeScale.MaskLabel.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="GaugeScale.MaxValue">
+          <param name="Local" value="Classes/Speedometer/GaugeScale/GaugeScale.MaxValue.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="GaugeScale.MinorTick">
+          <param name="Local" value="Classes/Speedometer/GaugeScale/GaugeScale.MinorTick.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="GaugeScale.MinStepSize">
+          <param name="Local" value="Classes/Speedometer/GaugeScale/GaugeScale.MinStepSize.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="GaugeScale.MinValue">
+          <param name="Local" value="Classes/Speedometer/GaugeScale/GaugeScale.MinValue.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="GaugeScale.OuterRadius">
+          <param name="Local" value="Classes/Speedometer/GaugeScale/GaugeScale.OuterRadius.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="GaugeScale.PassedLabelFont">
+          <param name="Local" value="Classes/Speedometer/GaugeScale/GaugeScale.PassedLabelFont.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="GaugeScale.PassedMajorTick">
+          <param name="Local" value="Classes/Speedometer/GaugeScale/GaugeScale.PassedMajorTick.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="GaugeScale.PassedMinorTick">
+          <param name="Local" value="Classes/Speedometer/GaugeScale/GaugeScale.PassedMinorTick.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="GaugeScale.redrawLabels">
+          <param name="Local" value="Classes/Speedometer/GaugeScale/GaugeScale.redrawLabels.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="GaugeScale.refreshTicks">
+          <param name="Local" value="Classes/Speedometer/GaugeScale/GaugeScale.refreshTicks.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="GaugeScale.Rotate">
+          <param name="Local" value="Classes/Speedometer/GaugeScale/GaugeScale.Rotate.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="GaugeScale.RotateLabels">
+          <param name="Local" value="Classes/Speedometer/GaugeScale/GaugeScale.RotateLabels.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="GaugeScale.Sectors">
+          <param name="Local" value="Classes/Speedometer/GaugeScale/GaugeScale.Sectors.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="GaugeScale.setArrow">
+          <param name="Local" value="Classes/Speedometer/GaugeScale/GaugeScale.setArrow.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="GaugeScale.setLabelsColor">
+          <param name="Local" value="Classes/Speedometer/GaugeScale/GaugeScale.setLabelsColor.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="GaugeScale.setSector">
+          <param name="Local" value="Classes/Speedometer/GaugeScale/GaugeScale.setSector.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="GaugeScale.Size">
+          <param name="Local" value="Classes/Speedometer/GaugeScale/GaugeScale.Size.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="GaugeScale.StartAngle">
+          <param name="Local" value="Classes/Speedometer/GaugeScale/GaugeScale.StartAngle.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="GaugeScale.Step">
+          <param name="Local" value="Classes/Speedometer/GaugeScale/GaugeScale.Step.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="GaugeScale.Trends">
+          <param name="Local" value="Classes/Speedometer/GaugeScale/GaugeScale.Trends.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="GaugeScale.Values">
+          <param name="Local" value="Classes/Speedometer/GaugeScale/GaugeScale.Values.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Конструктор GaugeScale">
+          <param name="Local" value="Classes/Speedometer/GaugeScale/Constructor_GaugeScale.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="GaugeSector">
+        <param name="Local" value="Classes/Speedometer/GaugeSector/GaugeSector.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="GaugeSector.EndSize">
+          <param name="Local" value="Classes/Speedometer/GaugeSector/GaugeSector.EndSize.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="GaugeSector.EndValue">
+          <param name="Local" value="Classes/Speedometer/GaugeSector/GaugeSector.EndValue.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="GaugeSector.StartSize">
+          <param name="Local" value="Classes/Speedometer/GaugeSector/GaugeSector.Startsize.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="GaugeSector.StartValue">
+          <param name="Local" value="Classes/Speedometer/GaugeSector/GaugeSector.StartValue.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="GaugeSector.ZIndex">
+          <param name="Local" value="Classes/Speedometer/GaugeSector/GaugeSector.Zindex.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Конструктор GaugeSector">
+          <param name="Local" value="Classes/Speedometer/GaugeSector/Constructor_GaugeSector.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="GaugeTextLabel">
+        <param name="Local" value="Classes/Speedometer/GaugeTextLabel/GaugeTextLabel.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="GaugeTextLabel.Font">
+          <param name="Local" value="Classes/Speedometer/GaugeTextLabel/GaugeTextLabel.Font.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="GaugeTextLabel.setPosition">
+          <param name="Local" value="Classes/Speedometer/GaugeTextLabel/GaugeTextLabel.setPosition.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="GaugeTextLabel.Text">
+          <param name="Local" value="Classes/Speedometer/GaugeTextLabel/GaugeTextLabel.Text.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="GaugeTextLabel.TextAlign">
+          <param name="Local" value="Classes/Speedometer/GaugeTextLabel/GaugeTextLabel.TextAlign.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Конструктор GaugeTextLabel">
+          <param name="Local" value="Classes/Speedometer/GaugeTextLabel/Constructor_GaugeTextLabel.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="GaugeTrendPoint">
+        <param name="Local" value="Classes/Speedometer/GaugeTrendPoint/GaugeTrendPoint.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="GaugeTrendPoint.calcCenterPosition">
+          <param name="Local" value="Classes/Speedometer/GaugeTrendPoint/GaugeTrendPoint.calcCenterPosition.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="GaugeTrendPoint.calcOuterRadius">
+          <param name="Local" value="Classes/Speedometer/GaugeTrendPoint/GaugeTrendPoint.calcOuterRadius.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="GaugeTrendPoint.Label">
+          <param name="Local" value="Classes/Speedometer/GaugeTrendPoint/GaugeTrendPoint.Label.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="GaugeTrendPoint.Marker">
+          <param name="Local" value="Classes/Speedometer/GaugeTrendPoint/GaugeTrendPoint.Marker.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Конструктор GaugeTrendPoint">
+          <param name="Local" value="Classes/Speedometer/GaugeTrendPoint/Constructor_GaugeTrendPoint.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="ImageMarker">
+        <param name="Local" value="Classes/Speedometer/ImageMarker/ImageMarker.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ImageMarker.Src">
+          <param name="Local" value="Classes/Speedometer/ImageMarker/ImageMarker.Src.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Конструктор ImageMarker">
+          <param name="Local" value="Classes/Speedometer/ImageMarker/Constructor_ImageMarker.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="LightBrushPanel">
+        <param name="Local" value="Classes/Speedometer/LightBrushPanel/LightBrushPanel.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="LightBrushPanel.setEnabledSettings">
+          <param name="Local" value="Classes/Speedometer/LightBrushPanel/LightBrushPanel.setEnabledSettings.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Конструктор LightBrushPanel">
+          <param name="Local" value="Classes/Speedometer/LightBrushPanel/Constructor_LightBrushPanel.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="LineArrow">
+        <param name="Local" value="Classes/Speedometer/LineArrow/LineArrow.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="LineArrow.Size">
+          <param name="Local" value="Classes/Speedometer/LineArrow/LineArrow.Size.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="LineArrow.Tail">
+          <param name="Local" value="Classes/Speedometer/LineArrow/LineArrow.Tail.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Конструктор LineArrow">
+          <param name="Local" value="Classes/Speedometer/LineArrow/Constructor_LineArrow.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="LineMarker">
+        <param name="Local" value="Classes/Speedometer/LineMarker/LineMarker.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Конструктор LineMarker">
+          <param name="Local" value="Classes/Speedometer/LineMarker/Constructor_LineMarker.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="RhombMarker">
+        <param name="Local" value="Classes/Speedometer/RhombMarker/RhombMarker.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Конструктор RhombMarker">
+          <param name="Local" value="Classes/Speedometer/RhombMarker/Constructor_RhombMarker.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="ScalePanel">
+        <param name="Local" value="Classes/Speedometer/ScalePanel/ScalePanel.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ScalePanel.CurrentScaleChanged">
+          <param name="Local" value="Classes/Speedometer/ScalePanel/ScalePanel.CurrentScaleChanged.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="SectorArrow">
+        <param name="Local" value="Classes/Speedometer/SectorArrow/SectorArrow.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="SectorArrow.EndValue">
+          <param name="Local" value="Classes/Speedometer/SectorArrow/SectorArrow.EndValue.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="SectorArrow.StartValue">
+          <param name="Local" value="Classes/Speedometer/SectorArrow/SectorArrow.StartValue.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Конструктор SectorArrow">
+          <param name="Local" value="Classes/Speedometer/SectorArrow/Constructor_SectorArrow.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Speedometer">
+        <param name="Local" value="Classes/Speedometer/Speedometer/Speedometer.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Speedometer.Background">
+          <param name="Local" value="Classes/Speedometer/Speedometer/Speedometer.Background.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Speedometer.BaseHeight">
+          <param name="Local" value="Classes/Speedometer/Speedometer/Speedometer.BaseHeight.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Speedometer.BaseWidth">
+          <param name="Local" value="Classes/Speedometer/Speedometer/Speedometer.BaseWidth.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Speedometer.Borders">
+          <param name="Local" value="Classes/Speedometer/Speedometer/Speedometer.Borders.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Speedometer.BorderStyle">
+          <param name="Local" value="Classes/Speedometer/Speedometer/Speedometer.BorderStyle.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Speedometer.calcCenterPosition">
+          <param name="Local" value="Classes/Speedometer/Speedometer/Speedometer.calcCenterPosition.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Speedometer.calcOuterRadius">
+          <param name="Local" value="Classes/Speedometer/Speedometer/Speedometer.calcOuterRadius.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Speedometer.Center">
+          <param name="Local" value="Classes/Speedometer/Speedometer/Speedometer.Center.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Speedometer.CenterLabel">
+          <param name="Local" value="Classes/Speedometer/Speedometer/Speedometer.CenterLabel.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Speedometer.CenterPosition">
+          <param name="Local" value="Classes/Speedometer/Speedometer/Speedometer.CenterPosition.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Speedometer.getArrowById">
+          <param name="Local" value="Classes/Speedometer/Speedometer/Speedometer.getArrowById.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Speedometer.getChildren">
+          <param name="Local" value="Classes/Speedometer/Speedometer/Speedometer.getChildren.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Speedometer.getInstance">
+          <param name="Local" value="Classes/Speedometer/Speedometer/Speedometer.getInstance.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Speedometer.getOpacityEnabled">
+          <param name="Local" value="Classes/Speedometer/Speedometer/Speedometer.getOpacityEnabled.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Speedometer.getState">
+          <param name="Local" value="Classes/Speedometer/Speedometer/Speedometer.getState.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Speedometer.getSVGNode">
+          <param name="Local" value="Classes/Speedometer/Speedometer/Speedometer.getSVGNode.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Speedometer.Loaded">
+          <param name="Local" value="Classes/Speedometer/Speedometer/Speedometer.Loaded.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Speedometer.Markers">
+          <param name="Local" value="Classes/Speedometer/Speedometer/Speedometer.Markers.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Speedometer.NumberFormat">
+          <param name="Local" value="Classes/Speedometer/Speedometer/Speedometer.NumberFormat.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Speedometer.OuterRadius">
+          <param name="Local" value="Classes/Speedometer/Speedometer/Speedometer.OuterRadius.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Speedometer.Padding">
+          <param name="Local" value="Classes/Speedometer/Speedometer/Speedometer.Padding.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Speedometer.paint">
+          <param name="Local" value="Classes/Speedometer/Speedometer/Speedometer.paint.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Speedometer.redraw">
+          <param name="Local" value="Classes/Speedometer/Speedometer/Speedometer.redraw.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Speedometer.redrawScales">
+          <param name="Local" value="Classes/Speedometer/Speedometer/Speedometer.redrawScales.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Speedometer.Refreshed">
+          <param name="Local" value="Classes/Speedometer/Speedometer/Speedometer.Refreshed.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Speedometer.refreshView">
+          <param name="Local" value="Classes/Speedometer/Speedometer/Speedometer.refreshView.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Speedometer.Scales">
+          <param name="Local" value="Classes/Speedometer/Speedometer/Speedometer.Scales.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Speedometer.setMasterSettings">
+          <param name="Local" value="Classes/Speedometer/Speedometer/Speedometer.setMasterSettings.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Speedometer.TimeLineStep">
+          <param name="Local" value="Classes/Speedometer/Speedometer/Speedometer.TimeLineStep.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Конструктор Speedometer">
+          <param name="Local" value="Classes/Speedometer/Speedometer/Constructor_Speedometer.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="SpeedometerPanel">
+        <param name="Local" value="Classes/Speedometer/SpeedometerPanel.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="TriangleArrow">
+        <param name="Local" value="Classes/Speedometer/TriangleArrow/TriangleArrow.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TriangleArrow.Size">
+          <param name="Local" value="Classes/Speedometer/TriangleArrow/TriangleArrow.Size.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TriangleArrow.Tail">
+          <param name="Local" value="Classes/Speedometer/TriangleArrow/TriangleArrow.Tail.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Конструктор TriangleArrow">
+          <param name="Local" value="Classes/Speedometer/TriangleArrow/Constructor_TriangleArrow.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="TriangleMarker">
+        <param name="Local" value="Classes/Speedometer/TriangleMarker/TriangleMarker.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TriangleMarker.Flip">
+          <param name="Local" value="Classes/Speedometer/TriangleMarker/TriangleMarker.Flip.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Конструктор TriangleMarker">
+          <param name="Local" value="Classes/Speedometer/TriangleMarker/Constructor_TriangleMarker.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Перечисления">
+      <param name="Local" value="Classes/Speedometer/Speedometer_Class.htm#enum642b3b9347ca42c9b00b820c00c373fa=2">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="GaugeScaleModels">
+        <param name="Local" value="Enums/GaugeScaleModes.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="GaugeStyleLabels">
+        <param name="Local" value="Enums/GaugeStyleLabels.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Speedometer.SizeUnit">
+        <param name="Local" value="Enums/Speedometer.SizeUnit.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="SpeedometerSettings">
+        <param name="Local" value="Enums/SpeedometerSettings.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      </ul>
+    </ul>
+</ul>
+</html>

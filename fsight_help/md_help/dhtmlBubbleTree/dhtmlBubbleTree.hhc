@@ -1,0 +1,870 @@
+<html>
+<!-- Sitemap 1.0 -->
+<object type="text/site properties">
+  <param name="SiteType" value="toc">
+  <param name="Image Width" value="16">
+  <param name="Window Styles" value="0x800007">
+  <param name="ExWindow Styles" value="0x100">
+</object>
+<ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Работа с пузырьковым деревом">
+    <param name="Local" value="Classes/BubbleTree.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Компоненты">
+      <param name="Local" value="Components/Bubble_Components.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="BubbleTree">
+        <param name="Local" value="Components/BubbleTree/BubbleTree.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Пример создания компонента BubbleTree">
+          <param name="Local" value="Components/BubbleTree/BubbleTree_Example.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="BubbleTreeMaster">
+        <param name="Local" value="Components/BubbleTreeMaster/BubbleTreeMaster.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Пример размещения компонентов BubbleTreeMaster и BubbleTree">
+          <param name="Local" value="Components/BubbleTreeMaster/BubbleTreeMaster_and_BubbleTree.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Классы">
+      <param name="Local" value="Classes/BubbleTree.htm#642b3b9347ca42c9b00b820c00c373fa=1">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="BubbleTree">
+        <param name="Local" value="Classes/BubbleTree/BubbleTree.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Конструктор BubbleTree">
+          <param name="Local" value="Classes/BubbleTree/Constructor_BubbleTree.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="BubbleTree.Alignment">
+          <param name="Local" value="Classes/BubbleTree/BubbleTree.Alignment.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="BubbleTree.BubbleMinSize">
+          <param name="Local" value="Classes/BubbleTree/BubbleTree.BubbleMinSize.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="BubbleTree.BubbleStyle">
+          <param name="Local" value="Classes/BubbleTree/BubbleTree.BubbleStyle.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="BubbleTree.ColorVisual">
+          <param name="Local" value="Classes/BubbleTree/BubbleTree.ColorVisual.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="BubbleTree.getAlign">
+          <param name="Local" value="Classes/BubbleTree/BubbleTree.getAlign.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="BubbleTree.getCenter">
+          <param name="Local" value="Classes/BubbleTree/BubbleTree.getCenter.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="BubbleTree.getColorOptions">
+          <param name="Local" value="Classes/BubbleTree/BubbleTree.getColorOptions.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="BubbleTree.getFreeArea">
+          <param name="Local" value="Classes/BubbleTree/BubbleTree.getFreeArea.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="BubbleTree.getLegendOptions">
+          <param name="Local" value="Classes/BubbleTree/BubbleTree.getLegendOptions.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="BubbleTree.getSizeLegendOptions">
+          <param name="Local" value="Classes/BubbleTree/BubbleTree.getSizeLegendOptions.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="BubbleTree.getSizeOptions">
+          <param name="Local" value="Classes/BubbleTree/BubbleTree.getSizeOptions.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="BubbleTree.getState">
+          <param name="Local" value="Classes/BubbleTree/BubbleTree.getState.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="BubbleTree.InnerLabelsStyle">
+          <param name="Local" value="Classes/BubbleTree/BubbleTree.InnerLabelsStyle.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="BubbleTree.isPointOut">
+          <param name="Local" value="Classes/BubbleTree/BubbleTree.isPointOut.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="BubbleTree.ItemsHovered">
+          <param name="Local" value="Classes/BubbleTree/BubbleTree.ItemsHovered.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="BubbleTree.ItemsTooltipStyle">
+          <param name="Local" value="Classes/BubbleTree/BubbleTree.ItemsTooltipStyle.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="BubbleTree.LabelAutoColor">
+          <param name="Local" value="Classes/BubbleTree/BubbleTree.LabelAutoColor.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="BubbleTree.OrbitsPen">
+          <param name="Local" value="Classes/BubbleTree/BubbleTree.OrbitsPen.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="BubbleTree.OuterLabelsStyle">
+          <param name="Local" value="Classes/BubbleTree/BubbleTree.OuterLabelsStyle.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="BubbleTree.SideBubbleMinSize">
+          <param name="Local" value="Classes/BubbleTree/BubbleTree.SideBubbleMinSize.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="BubbleTree.SizeVisual">
+          <param name="Local" value="Classes/BubbleTree/BubbleTree.SizeVisual.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="BubbleTree.TextVisual">
+          <param name="Local" value="Classes/BubbleTree/BubbleTree.TextVisual.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="BubbleTree.hoverItems">
+          <param name="Local" value="Classes/BubbleTree/BubbleTree.hoverItems.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="BubbleTree.fireItemsHovered">
+          <param name="Local" value="Classes/BubbleTree/BubbleTree.fireItemsHovered.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="BubbleTree.selectItem">
+          <param name="Local" value="Classes/BubbleTree/BubbleTree.selectItem.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="BubbleTree.selectItems">
+          <param name="Local" value="Classes/BubbleTree/BubbleTree.selectItems.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="BubbleTree.ToolTipDelay">
+          <param name="Local" value="Classes/BubbleTree/BubbleTree.ToolTipDelay.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="BubbleTreeItem">
+        <param name="Local" value="Classes/BubbleTreeItem/BubbleTreeItem.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Конструктор BubbleTreeItem">
+          <param name="Local" value="Classes/BubbleTreeItem/Constructor_BubbleTreeItem.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="BubbleTreeItem.animationStep">
+          <param name="Local" value="Classes/BubbleTreeItem/BubbleTreeItem.animationStep.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="BubbleTreeItem.Color">
+          <param name="Local" value="Classes/BubbleTreeItem/BubbleTreeItem.Color.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="BubbleTreeItem.draw">
+          <param name="Local" value="Classes/BubbleTreeItem/BubbleTreeItem.draw.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="BubbleTreeItem.drawTooltips">
+          <param name="Local" value="Classes/BubbleTreeItem/BubbleTreeItem.drawTooltips.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="BubbleTreeItem.getNeighbors">
+          <param name="Local" value="Classes/BubbleTreeItem/BubbleTreeItem.getNeighbors.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="BubbleTreeItem.getRadius">
+          <param name="Local" value="Classes/BubbleTreeItem/BubbleTreeItem.getRadius.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="BubbleTreeItem.setRotationDirection">
+          <param name="Local" value="Classes/BubbleTreeItem/BubbleTreeItem.setRotationDirection.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="BubbleTreeItem.Size">
+          <param name="Local" value="Classes/BubbleTreeItem/BubbleTreeItem.Size.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="BubbleTreeItem.text">
+          <param name="Local" value="Classes/BubbleTreeItem/BubbleTreeItem.text.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="BubbleTreeItem.updateContent">
+          <param name="Local" value="Classes/BubbleTreeItem/BubbleTreeItem.updateContent.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="BubbleTreeItem.updateTooltip">
+          <param name="Local" value="Classes/BubbleTreeItem/BubbleTreeItem.updateTooltip.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="BubbleTreeItem.updateTooltipSettings">
+          <param name="Local" value="Classes/BubbleTreeItem/BubbleTreeItem.updateTooltipSettings.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="BubbleTreeItem.Values">
+          <param name="Local" value="Classes/BubbleTreeItem/BubbleTreeItem.Values.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="BubbleTreeMaster">
+        <param name="Local" value="Classes/BubbleTreeMaster/BubbleTreeMaster.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Конструктор BubbleTreeMaster">
+          <param name="Local" value="Classes/BubbleTreeMaster/Constructor_BubbleTreeMaster.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Перечисления">
+      <param name="Local" value="Classes/BubbleTree.htm#642b3b9347ca42c9b00b820c00c373fa=2">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="BubbleTreeAlignment">
+        <param name="Local" value="Enums/BubbleTreeAlignment.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="BubbleTreeCaptionsPositions">
+        <param name="Local" value="Enums/BubbleTreeCaptionsPositions.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      </ul>
+    </ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Работа с плоским деревом">
+    <param name="Local" value="Classes/TreeMap.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Компоненты">
+      <param name="Local" value="Components/Tree_Components.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="TreeMap">
+        <param name="Local" value="Components/TreeMap/TreeMap.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Пример создания компонента TreeMap">
+          <param name="Local" value="Components/TreeMap/TreeMap_example.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="JSON структура TreeMap">
+          <param name="Local" value="Components/TreeMap/TreeMap_JSON.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="TreeMapMaster">
+        <param name="Local" value="Components/TreeMapMaster/TreeMapMaster.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Пример размещения компонентов TreeMapMaster и TreeMap">
+          <param name="Local" value="Components/TreeMapMaster/TreeMapMaster_and_TreeMap.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Классы">
+      <param name="Local" value="Classes/TreeMap.htm#642b3b9347ca42c9b00b820c00c373fa=1">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="ChartBreadcrumb">
+        <param name="Local" value="Classes/ChartBreadcrumb/ChartBreadcrumb.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Конструктор ChartBreadcrumb">
+          <param name="Local" value="Classes/ChartBreadcrumb/Constructor_ChartBreadcrumb.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartBreadcrumb.ItemClicked">
+          <param name="Local" value="Classes/ChartBreadcrumb/ChartBreadcrumb.ItemClicked.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartBreadcrumb.ItemClicking">
+          <param name="Local" value="Classes/ChartBreadcrumb/ChartBreadcrumb.ItemClicking.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartBreadcrumb.ItemStyle">
+          <param name="Local" value="Classes/ChartBreadcrumb/ChartBreadcrumb.ItemStyle.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartBreadcrumb.Model">
+          <param name="Local" value="Classes/ChartBreadcrumb/ChartBreadcrumb.Model.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartBreadcrumb.update">
+          <param name="Local" value="Classes/ChartBreadcrumb/ChartBreadcrumb.update.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="ChartBreadcrumbItem">
+        <param name="Local" value="Classes/ChartBreadcrumbItem/ChartBreadcrumbItem.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Конструктор ChartBreadcrumbItem">
+          <param name="Local" value="Classes/ChartBreadcrumbItem/Constructor_ChartBreadcrumbItem.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartBreadcrumbItem.Caption">
+          <param name="Local" value="Classes/ChartBreadcrumbItem/ChartBreadcrumbItem.Caption.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartBreadcrumbItem.LastItem">
+          <param name="Local" value="Classes/ChartBreadcrumbItem/ChartBreadcrumbItem.LastItem.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartBreadcrumbItem.updateLabel">
+          <param name="Local" value="Classes/ChartBreadcrumbItem/ChartBreadcrumbItem.updateLabel.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="TreeMap">
+        <param name="Local" value="Classes/TreeMap/TreeMap.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Конструктор TreeMap">
+          <param name="Local" value="Classes/TreeMap/Constructor_TreeMap.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TreeMap.Visualizer">
+          <param name="Local" value="Classes/TreeMap/TreeMap.Visualizer.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TreeMap.AreHeadersVisible">
+          <param name="Local" value="Classes/TreeMap/TreeMap.AreHeadersVisible.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TreeMap.BranchesOverflow">
+          <param name="Local" value="Classes/TreeMap/TreeMap.BranchesOverflow.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TreeMap.BranchItemsTooltipStyle">
+          <param name="Local" value="Classes/TreeMap/TreeMap.BranchItemsTooltipStyle.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TreeMap.BranchSpacing">
+          <param name="Local" value="Classes/TreeMap/TreeMap.BranchSpacing.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TreeMap.Circular">
+          <param name="Local" value="Classes/TreeMap/TreeMap.Circular.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TreeMap.ColorVisual">
+          <param name="Local" value="Classes/TreeMap/TreeMap.ColorVisual.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TreeMap.EndHeaderStyle">
+          <param name="Local" value="Classes/TreeMap/TreeMap.EndHeaderStyle.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TreeMap.getBranchBackColor">
+          <param name="Local" value="Classes/TreeMap/TreeMap.getBranchBackColor.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TreeMap.getBranchFontColor">
+          <param name="Local" value="Classes/TreeMap/TreeMap.getBranchFontColor.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TreeMap.getBranchFontSize">
+          <param name="Local" value="Classes/TreeMap/TreeMap.getBranchFontSize.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TreeMap.getBranchStyle">
+          <param name="Local" value="Classes/TreeMap/TreeMap.getBranchStyle.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TreeMap.getColorOptions">
+          <param name="Local" value="Classes/TreeMap/TreeMap.getColorOptions.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TreeMap.getColorVisualTitle">
+          <param name="Local" value="Classes/TreeMap/TreeMap.getColorVisualTitle.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TreeMap.getHeightVisualTitle">
+          <param name="Local" value="Classes/TreeMap/TreeMap.getHeightVisualTitle.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TreeMap.getLeafMargin">
+          <param name="Local" value="Classes/TreeMap/TreeMap.getLeafMargin.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TreeMap.getLegendOptions">
+          <param name="Local" value="Classes/TreeMap/TreeMap.getLegendOptions.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TreeMap.getSceneItems">
+          <param name="Local" value="Classes/TreeMap/TreeMap.getSceneItems.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TreeMap.getSizeLegendOptions">
+          <param name="Local" value="Classes/TreeMap/TreeMap.getSizeLegendOptions.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TreeMap.getSizeOptions">
+          <param name="Local" value="Classes/TreeMap/TreeMap.getSizeOptions.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TreeMap.getSizeVisualTitle">
+          <param name="Local" value="Classes/TreeMap/TreeMap.getSizeVisualTitle.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TreeMap.getState">
+          <param name="Local" value="Classes/TreeMap/TreeMap.getState.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TreeMap.getTextVisualTitle">
+          <param name="Local" value="Classes/TreeMap/TreeMap.getTextVisualTitle.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TreeMap.getCanvasContext">
+          <param name="Local" value="Classes/TreeMap/TreeMap.getCanvasContext.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TreeMap.getItemOnCoords">
+          <param name="Local" value="Classes/TreeMap/TreeMap.getItemOnCoords.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TreeMap.HeatMap">
+          <param name="Local" value="Classes/TreeMap/TreeMap.HeatMap.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TreeMap.HeightVisual">
+          <param name="Local" value="Classes/TreeMap/TreeMap.HeightVisual.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TreeMap.HierarchyDepth">
+          <param name="Local" value="Classes/TreeMap/TreeMap.HierarchyDepth.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TreeMap.ItemsTooltipStyle">
+          <param name="Local" value="Classes/TreeMap/TreeMap.ItemsTooltipStyle.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TreeMap.ItemsHovered">
+          <param name="Local" value="Classes/TreeMap/TreeMap.ItemsHovered.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TreeMap.LabelAutoColor">
+          <param name="Local" value="Classes/TreeMap/TreeMap.LabelAutoColor.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TreeMap.LabelsStyle">
+          <param name="Local" value="Classes/TreeMap/TreeMap.LabelsStyle.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TreeMap.LeafBorderWidth">
+          <param name="Local" value="Classes/TreeMap/TreeMap.LeafBorderWidth.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TreeMap.LeafPadding">
+          <param name="Local" value="Classes/TreeMap/TreeMap.LeafPadding.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TreeMap.LeavesOverflow">
+          <param name="Local" value="Classes/TreeMap/TreeMap.LeavesOverflow.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TreeMap.LeavesSpacing">
+          <param name="Local" value="Classes/TreeMap/TreeMap.LeavesSpacing.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TreeMap.MaxFont">
+          <param name="Local" value="Classes/TreeMap/TreeMap.MaxFont.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TreeMap.MinAreaToShowTooltip">
+          <param name="Local" value="Classes/TreeMap/TreeMap.MinAreaToShowTooltip.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TreeMap.MinFont">
+          <param name="Local" value="Classes/TreeMap/TreeMap.MinFont.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TreeMap.VerticalContent">
+          <param name="Local" value="Classes/TreeMap/TreeMap.VerticalContent.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TreeMap.selectItem">
+          <param name="Local" value="Classes/TreeMap/TreeMap.selectItem.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TreeMap.selectItems">
+          <param name="Local" value="Classes/TreeMap/TreeMap.selectItems.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TreeMap.ShowBranches">
+          <param name="Local" value="Classes/TreeMap/TreeMap.ShowBranches.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TreeMap.SizeBasedOnChildren">
+          <param name="Local" value="Classes/TreeMap/TreeMap.SizeBasedOnChildren.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TreeMap.fireItemsHovered">
+          <param name="Local" value="Classes/TreeMap/TreeMap.fireItemsHovered.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TreeMap.hoverItems">
+          <param name="Local" value="Classes/TreeMap/TreeMap.hoverItems.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TreeMap.SizeVisual">
+          <param name="Local" value="Classes/TreeMap/TreeMap.SizeVisual.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TreeMap.StartHeaderStyle">
+          <param name="Local" value="Classes/TreeMap/TreeMap.StartHeaderStyle.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TreeMap.ToolTipDelay">
+          <param name="Local" value="Classes/TreeMap/TreeMap.ToolTipDelay.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TreeMap.UseDrillOnClick">
+          <param name="Local" value="Classes/TreeMap/TreeMap.UseDrillOnClick.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="TreeMapItem">
+        <param name="Local" value="Classes/TreeMapItem/TreeMapItem.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Конструктор TreeMapItem">
+          <param name="Local" value="Classes/TreeMapItem/Constructor_TreeMapItem.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TreeMapItem.Values">
+          <param name="Local" value="Classes/TreeMapItem/TreeMapItem.Values.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TreeMapItem.animationStep">
+          <param name="Local" value="Classes/TreeMapItem/TreeMapItem.animationStep.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TreeMapItem.appear">
+          <param name="Local" value="Classes/TreeMapItem/TreeMapItem.appear.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TreeMapItem.build">
+          <param name="Local" value="Classes/TreeMapItem/TreeMapItem.build.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TreeMapItem.calculateBorderColor">
+          <param name="Local" value="Classes/TreeMapItem/TreeMapItem.calculateBorderColor.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TreeMapItem.calculateBranchColor">
+          <param name="Local" value="Classes/TreeMapItem/TreeMapItem.calculateBranchColor.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TreeMapItem.calculateFontColor">
+          <param name="Local" value="Classes/TreeMapItem/TreeMapItem.calculateFontColor.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TreeMapItem.calculateLeafColor">
+          <param name="Local" value="Classes/TreeMapItem/TreeMapItem.calculateLeafColor.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TreeMapItem.clearCachedItemStyle">
+          <param name="Local" value="Classes/TreeMapItem/TreeMapItem.clearCachedItemStyle.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TreeMapItem.Color">
+          <param name="Local" value="Classes/TreeMapItem/TreeMapItem.Color.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TreeMapItem.Container">
+          <param name="Local" value="Classes/TreeMapItem/TreeMapItem.Container.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TreeMapItem.disappear">
+          <param name="Local" value="Classes/TreeMapItem/TreeMapItem.disappear.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TreeMapItem.draw">
+          <param name="Local" value="Classes/TreeMapItem/TreeMapItem.draw.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TreeMapItem.drawTopHeader">
+          <param name="Local" value="Classes/TreeMapItem/TreeMapItem.drawTopHeader.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TreeMapItem.drill">
+          <param name="Local" value="Classes/TreeMapItem/TreeMapItem.drill.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TreeMapItem.getPosition">
+          <param name="Local" value="Classes/TreeMapItem/TreeMapItem.getPosition.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TreeMapItem.getTooltip">
+          <param name="Local" value="Classes/TreeMapItem/TreeMapItem.getTooltip.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TreeMapItem.hideTooltip">
+          <param name="Local" value="Classes/TreeMapItem/TreeMapItem.hideTooltip.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TreeMapItem.isCoordsInner">
+          <param name="Local" value="Classes/TreeMapItem/TreeMapItem.isCoordsInner.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TreeMapItem.isHeaderAtTop">
+          <param name="Local" value="Classes/TreeMapItem/TreeMapItem.isHeaderAtTop.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TreeMapItem.IsLeaf">
+          <param name="Local" value="Classes/TreeMapItem/TreeMapItem.IsLeaf.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TreeMapItem.isTooltipActive">
+          <param name="Local" value="Classes/TreeMapItem/TreeMapItem.isTooltipActive.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TreeMapItem.Level">
+          <param name="Local" value="Classes/TreeMapItem/TreeMapItem.Level.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TreeMapItem.setVisible">
+          <param name="Local" value="Classes/TreeMapItem/TreeMapItem.setVisible.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TreeMapItem.showTooltip">
+          <param name="Local" value="Classes/TreeMapItem/TreeMapItem.showTooltip.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TreeMapItem.Size">
+          <param name="Local" value="Classes/TreeMapItem/TreeMapItem.Size.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TreeMapItem.text">
+          <param name="Local" value="Classes/TreeMapItem/TreeMapItem.text.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TreeMapItem.update">
+          <param name="Local" value="Classes/TreeMapItem/TreeMapItem.update.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TreeMapItem.updateBranchColors">
+          <param name="Local" value="Classes/TreeMapItem/TreeMapItem.updateBranchColors.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TreeMapItem.updateClass">
+          <param name="Local" value="Classes/TreeMapItem/TreeMapItem.updateClass.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TreeMapItem.updateColors">
+          <param name="Local" value="Classes/TreeMapItem/TreeMapItem.updateColors.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TreeMapItem.updateContent">
+          <param name="Local" value="Classes/TreeMapItem/TreeMapItem.updateContent.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TreeMapItem.updateInactiveOpacity">
+          <param name="Local" value="Classes/TreeMapItem/TreeMapItem.updateInactiveOpacity.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TreeMapItem.updateTooltip">
+          <param name="Local" value="Classes/TreeMapItem/TreeMapItem.updateTooltip.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TreeMapItem.updateTooltipSettings">
+          <param name="Local" value="Classes/TreeMapItem/TreeMapItem.updateTooltipSettings.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TreeMapItem.setTargetColor">
+          <param name="Local" value="Classes/TreeMapItem/TreeMapItem.setTargetColor.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="TreeMapMaster">
+        <param name="Local" value="Classes/TreeMapMaster/TreeMapMaster.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Конструктор TreeMapMaster">
+          <param name="Local" value="Classes/TreeMapMaster/Constructor_TreeMapMaster.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      </ul>
+    </ul>
+</ul>
+</html>

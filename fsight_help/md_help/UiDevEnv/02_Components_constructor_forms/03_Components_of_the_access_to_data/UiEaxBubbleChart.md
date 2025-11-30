@@ -1,0 +1,98 @@
+﻿# UiEaxBubbleChart: Компонент
+
+UiEaxBubbleChart: Компонент
+-
+
+
+# UiEaxBubbleChart
+
+
+## Иерархия наследования
+
+
+           [IComponent](ModForms.chm::/Interface/IComponent/IComponent.htm)
+
+
+           [IUiEaxBubbleChart](KeExpress.chm::/Interface/IUiEaxBubbleChart/IUiEaxBubbleChart.htm)
+
+
+           [UiEaxBubbleChart](KeExpress.chm::/Class/UiEaxBubbleChart/UiEaxBubbleChart.htm)
+
+
+## Описание
+
+
+Компонент UiEaxBubbleChart является
+ невизуальным и реализует объект экспресс-отчета - пузырьковую диаграмму.
+
+
+## Свойства компонента UiEaxBubbleChart
+
+
+		 Имя свойства
+		 Краткое описание
+
+
+		 ![](../../Property_Image.gif)
+		 [ComponentCount](ModForms.chm::/Interface/IComponent/IComponent.ComponentCount.htm)
+
+
+		 Свойство ComponentCount
+		 возвращает количество дочерних компонентов.
+
+
+		 ![](../../Property_Image.gif)
+		 [Components](ModForms.chm::/Interface/IComponent/IComponent.Components.htm)
+
+
+		 Свойство Components
+		 возвращает дочерний компонент.
+
+
+		 ![](../../Property_Image.gif)
+		 [Data](ModForms.chm::/Interface/IComponent/IComponent.Data.htm)
+
+
+		 Свойство Data
+		 предназначено для хранения любых пользовательских данных.
+
+
+		 ![](../../Property_Image.gif)
+		 [Chart](KeExpress.chm::/Interface/IUiEaxBubbleChart/IUiEaxBubbleChart.Chart.htm)
+
+
+		 Свойство Chart
+		 возвращает объект типа IEaxBubbleChart,
+		 который содержит свойства и методы объекта экспресс-отчета - пузырьковая
+		 диаграмма.
+
+
+		 ![](../../Property_Image.gif)
+		 [Name](ModForms.chm::/Interface/IComponent/IComponent.Name.htm)
+
+
+		 Свойство Name
+		 определяет наименование компонента.
+
+
+		 ![](../../Property_Image.gif)
+		 [Tag](ModForms.chm::/Interface/IComponent/IComponent.Tag.htm)
+
+
+		 Свойство Tag
+		 не используется компилятором. Пользователь может изменить значение
+		 свойства Tag и использовать
+		 его по своему усмотрению.
+
+
+См. также:
+
+
+[Компоненты
+ доступа к данным](03_components_of_the_access_to_data.htm)
+
+
+		Справочная
+		 система на версию 10.9
+		 от 18/08/2025,
+		 © ООО «ФОРСАЙТ»,

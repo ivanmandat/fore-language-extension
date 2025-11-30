@@ -1,0 +1,1051 @@
+html {
+	overflow-x: auto;
+}
+
+body {
+	padding: 0 40px;
+	font-family: Arial;
+	font-size: 11pt;
+}
+
+
+img:not([usemap]) {
+	max-width: 100%;
+	height: auto;
+}
+
+a {
+	color: #000000;
+}
+
+H1,
+h1 a {
+	font-size: 20pt;
+	color: #1241D8;
+	line-height: 28px;
+	font-weight: bold;
+	x-next-class:;
+	x-next-type: P;
+	page-break-after: avoid;
+}
+
+LI.H1,
+li.h1 a {
+	font-weight: bold;
+	font-size: 15pt;
+	color: #3288C4;
+	line-height: 115%;
+}
+
+H2,
+h2 a {
+	font-size: 18pt;
+	color: #1241D8;
+	line-height: 28px;
+	font-weight: bold;
+	x-next-class:;
+	x-next-type: P;
+	page-break-after: avoid;
+}
+
+LI.H2,
+li.h2 a {
+	font-size: 14pt;
+	font-weight: bold;
+}
+
+H3,
+h3 a {
+	color: #1241D8;
+	font-size: 16pt;
+	font-weight: normal;
+	line-height: 1;
+	x-next-class: ;
+	x-next-type: P;
+	page-break-after: avoid;
+}
+
+LI.H3,
+li.h3 a {
+	color: #3288C4;
+	font-size: 13pt;
+	line-height: 1;
+	font-weight: bold;
+}
+
+H4,
+h4 a {
+	font-size: 14pt;
+	line-height: 21px;
+	font-weight: bold;
+	x-next-class: ;
+	x-next-type: P;
+	page-break-after: avoid;
+	uppercase;
+}
+
+LI.H4,
+li.h4 a {
+	color: #3288C4;
+	font-size: 12pt;
+	line-height: 115%;
+	font-weight: bold;
+	font-style: italic;
+}
+
+H5,
+h5 a {
+	font-size: 12pt;
+	font-weight: bold;
+	line-height: 18px;
+	x-next-class: ;
+	x-next-type: P;
+	page-break-after: avoid;
+}
+
+LI.H5,
+li.h5 a {
+	font-size: 11pt;
+	font-weight: bold;
+}
+
+H6,
+h6 a {
+	font-size: 10pt;
+	font-weight: bold;
+	line-height: 16px;
+	x-next-class: ;
+	x-next-type: P;
+	page-break-after: avoid;
+}
+
+LI.H6, 
+li.h6 a {
+	font-size: 10pt;
+	font-weight: bold;
+}
+
+P {
+	margin-top: 11px;
+	margin-bottom: 9px;
+	x-next-class:;
+	x-next-type: P;
+	text-align: justify;
+}
+
+.header {
+	font-size: 10pt;
+	font-family: Arial;
+	font-style: italic;
+	color: #a1a1a1;
+	border-bottom: Solid 1px #c4c4c4;
+	margin-top: 5px;
+}
+
+.small {
+	font-size: 11px;
+	line-height: 1.1;
+}
+
+P.NonBreak {
+	margin-top: 0;
+	margin-bottom: 6px;
+	page-break-after: avoid;
+	x-next-class: ;
+	x-next-type: P;
+}
+
+li p {
+	margin-bottom: 9px;
+	margin-left: 0;
+}
+
+A.expandspot {
+	color: #008000;
+	cursor: hand;
+	font-style: italic;
+	text-decoration: none;
+}
+
+SPAN.expandtext {
+	font-style: italic;
+	font-weight: normal;
+	color: #ff0000;
+}
+
+A.dropspot {
+	display: -webkit-inline-box;
+	display: -ms-inline-flexbox;
+	display: inline-flex;
+	-webkit-box-align: baseline;
+	   -ms-flex-align: baseline;
+	      align-items: baseline;
+	font-style: normal;
+	text-decoration: underline;
+	color: #1241D8;
+	font-size: 12pt;
+	line-height: 16px;
+	page-break-after: avoid;
+	x-open-image: url(Opened.gif);
+	x-close-image: url(Closed.gif);
+	cursor: pointer;
+}
+
+A.glossterm {
+	color: #800000;
+	cursor: hand;
+	font-style: italic;
+	text-decoration: none;
+}
+
+SPAN.glosstext {
+	font-style: italic;
+	font-weight: normal;
+	color: #0000ff;
+}
+
+ol,
+ul {
+	margin-top: 0;
+	margin-bottom: 0;
+	margin-left: 40px;
+	padding-left: 20px;
+}
+ul {
+	margin-left: 40px;
+}
+
+P.ProgramText {
+	line-height: Normal;
+	background-color: #F2F3F5;
+	text-align: left;
+	font-weight: 400;
+	font-size: 13pt;
+	font-family: "Courier New", monospace;
+	margin-bottom: 15px;
+	margin-top: 15px;
+	x-next-class: ;
+	x-next-type: P;
+}
+
+.commandText {
+	font-family: 'Courier New', monospace;
+	border: solid 1px #ebebeb;
+	background-color: #f7f7f7;	
+	float: none;
+	padding: 15px;
+    overflow: hidden;
+	word-wrap: break-word;
+}
+
+LI.P-ProgramText {
+	line-height: Normal;
+	color: #01135E;
+	font-family: "Courier New", monospace;
+}
+
+P.SimpleCaption {
+	margin-top: 25px;
+	margin-bottom: 0;
+	font-style: italic;
+	x-next-class:;
+	x-next-type: P;
+	page-break-after: avoid;
+}
+
+LI.P-SimpleCaption {
+	font-weight: bold;
+	font-style: italic;
+	color: #3288C4;
+}
+
+P.Comment {
+	margin-left: 19px;
+	margin-right: 15px;
+	text-align: center;
+	padding: 12px;
+	border-width: 1px;
+	border-color: #dfedff;
+    border-style: solid;
+	border-left-width: 5px;
+	border-left-color: #1241D8;
+    border-left-style: solid;
+	background: #dfedff;
+}
+
+P.Tip {
+	margin-left: 19px;
+	margin-right: 15px;
+	text-align: center;
+	padding: 12px;
+	border-width: 1px;
+	border-color: #d4f5ea;
+    border-style: solid;
+	border-left-color: #3ADAA5;
+    border-left-style: solid;
+    border-left-width: 5px;
+	background: #d4f5ea;
+}
+
+P.Important {
+	margin-left: 19px;
+	margin-right: 15px;
+	text-align: center;
+	padding: 12px;
+	border-width: 1px;
+	border-color: #ffe7ee;
+    border-style: solid;
+	border-left-color: #FF4178;
+    border-left-style: solid;
+    border-left-width: 5px;
+	background: #ffe7ee;
+}
+
+ li .Comment {
+	margin-left: -16px !important;
+} 
+
+LI.P-Comment {
+	font-weight: normal;
+	font-style: normal;
+	line-height: 115%;
+	font-size: 11pt;
+}
+
+A.popupspot {
+	color: #008000;
+	font-weight: bold;
+	font-style: normal;
+	text-decoration: none;
+}
+
+P.TableCaption {
+	margin-left: 0;
+	font-weight: bold;
+	font-style: normal;
+	margin-top: 0;
+	margin-bottom: 0;
+	text-align: Left;
+}
+
+LI.P-TableCaption {
+	font-weight: bold;
+	font-style: normal;
+	text-align: Left;
+}
+
+P.TableNormal {
+	margin-left: 0;
+	margin-top: 2pt;
+	margin-bottom: 10pt;
+	line-height: 115%;
+}
+
+LI.P-TableNormal {
+	line-height: 115%;
+}
+
+P.TableNormalBold {
+	margin-left: 0;
+	font-weight: bold;
+	font-style: normal;
+	text-align: Left;
+	margin-top: 2pt;
+	margin-bottom: 10pt;
+}
+
+LI.P-TableNormalBold {
+	font-weight: bold;
+	font-style: normal;
+	text-align: Left;
+}
+
+p.TableLink {
+	margin-top: 0;
+	font-size: 13pt;
+	margin-bottom: 0;
+	margin-right: 0;
+	line-height: 14pt;
+	margin-left: 0;
+}
+
+table.Common {
+	vertical-align: top;
+	left: 0;
+	float: none;
+	position: relative;
+	border-spacing: 0;
+	x-1st-row: 1;
+	x-1st-row-name: t1st;
+	x-row-pat-1: 1;
+	x-row-pat-1-name: t1Row;
+	x-row-pat-count: 2;
+	x-row-pat-2: 1;
+	x-row-pat-2-name: t2Row;
+	text-align: Left;
+	x-border-spacing: 0;
+	x-1st-col: 1;
+	x-1st-col-name: t1st;
+	margin-top: 0;
+	margin-bottom: 6px;
+	border: none;
+}
+
+table.Common tr {
+	padding-top: 0;
+	padding-bottom: 3px;
+}
+
+tr.header {
+	valign: top;
+	vertical-align: top;
+}
+
+tr.Header td {
+	border-bottom-style: Solid;
+	border-bottom-color: #4f81de;
+	border-bottom-width: 1px;
+	border-right-style: none;
+	border-left-style: none;
+	background-color: #d3dfee;
+	text-align: Left;
+	line-height: 115%;
+	font-size: 13pt;
+	font-weight: bold;
+	padding-left: 5px;
+}
+
+P.ReportABug {
+	margin-left: 0;
+	margin-top: 0;
+	margin-bottom: 10pt;
+	line-height: 115%;
+	color: #808080;
+	text-align: Center;
+	font-size: 8pt;
+}
+
+LI.P-ReportABug {
+	line-height: 115%;
+	font-size: 11pt;
+	color: #808080;
+	text-align: Center;
+}
+
+table.Common tr.t1st td {
+	padding: 17px;
+	background-color: #F2F3F5;
+	border-color: #F2F3F5;
+	font-size: 12pt;
+	text-align: left;
+}
+
+table.Common tr.t1Row td {}
+
+table.Common tr.t2Row td {}
+
+table.Common td {
+	vertical-align: top;
+	line-height: 140%;
+	padding: 14px;
+	border-width: 1px;
+	border-color: #dcdcdc;
+    border-style: solid;
+	border-top: none;
+}
+
+table.Common td.t1st {}
+
+table.Common tr.t1Row td.t1st {}
+
+table.Common tr.t2Row td.t1st {}
+
+table.Common td.t1st {}
+
+table.StyleForTitle tr {
+	padding-top: 0;
+	padding-bottom: 3px;
+}
+
+table.StyleForTitle tr.t1st td {
+	font-weight: bold;
+	color: #fff;
+	font-size: 11pt;
+	background-color: Transparent;
+}
+
+table.StyleForTitle tr.t1Row td {}
+
+table.StyleForTitle tr.t2Row td {}
+
+table.StyleForTitle td {
+	padding-left: 10px;
+	padding-right: 0;
+	padding-top: 0;
+	padding-bottom: 0;
+}
+
+table.StyleForTitle td.t1st {}
+
+table.stylefortitle tr.t1row td.t1st {}
+
+table.stylefortitle tr.t2row td.t1st {}
+
+table.stylefortitle td.t1st {}
+
+table.StyleForTitle {
+	table-layout: aligncenter;
+	width: 95%;
+	border: thin solid #3288C4;
+	vertical-align: top;
+	left: 0;
+	float: none;
+	position: relative;
+	border-spacing: 0;
+	x-1st-row: 1;
+	x-1st-row-name: t1st;
+	x-row-pat-1: 1;
+	x-row-pat-1-name: t1Row;
+	x-row-pat-count: 2;
+	x-row-pat-2: 1;
+	x-row-pat-2-name: t2Row;
+	text-align: Left;
+	x-border-spacing: 0;
+	x-1st-col: 1;
+	x-1st-col-name: t1st;
+	margin-top: 12px;
+	margin-bottom: 18px;
+	border-left-style: None;
+	border-left-width: 2px;
+	border-left-color: 3288C4;
+	border-right-style: None;
+	border-right-width: 2px;
+	border-right-color: 3288C4;
+	border-top-style: None;
+	border-top-width: 2px;
+	border-top-color: 3288C4;
+	border-bottom-style: None;
+	border-bottom-width: 2px;
+	border-bottom-color: 3288C4;
+}
+
+span.Obsolete {
+	font-size: 10pt;
+	font-weight: bold;
+	color: #000;
+}
+
+rh-list.P5 {
+	x-lvl-6-type: lower-roman;
+	x-lvl-6-format: "&o<x>&c";
+	x-lvl-6-margin: 0;
+	x-lvl-8-type: lower-alpha;
+	x-lvl-8-margin: 0;
+	x-lvl-7-format: "<x>.";
+	x-lvl-7-margin: 0;
+	x-lvl-9-type: lower-roman;
+	x-lvl-9-margin: 0;
+	x-lvl-1-type: disc;
+	x-lvl-1-pfx-class: rls-1-P5;
+	x-lvl-2-format: "<x>";
+	x-lvl-2-pfx-class: rls-2-P5;
+	x-lvl-3-pfx-class: rls-3-P5;
+	x-lvl-4-format: "<x>";
+	x-lvl-5-format: "<x>";
+	x-lvl-4-type: upper-roman;
+	x-lvl-4-margin: 1.6cm;
+	x-lvl-4-p-tag: P;
+	x-lvl-5-margin: 1.9cm;
+	x-lvl-5-p-tag: P;
+	x-lvl-3-type: circle;
+	x-lvl-3-format: "<x>";
+	x-lvl-1-format: "<x>";
+	x-lvl-2-type: square;
+	x-lvl-1-margin: 40pt;
+	x-lvl-1-text-indent: -7px;
+	x-lvl-1-p-tag: P;
+	x-lvl-2-margin: 83pt;
+	x-lvl-2-text-indent: -7px;
+	x-lvl-2-p-tag: P;
+	x-level-count: 9;
+	x-lvl-3-margin: 130pt;
+	x-lvl-3-text-indent: -9px;
+	x-lvl-3-p-tag: P;
+}
+
+span.rls-1-P5 {
+	font-size: 10pt;
+	/*padding-left: -20px;*/
+}
+
+span.rls-2-P5 {
+	font-size: 10pt;
+}
+
+span.rls-3-P5 {
+	font-size: 10pt;
+}
+
+rh-list.BasicNumber {
+	x-lvl-1-format: "<x>&c";
+	x-lvl-2-type: lower-alpha;
+	x-lvl-2-format: "<x>&c";
+	x-lvl-1-p-tag: P;
+	x-lvl-2-margin: 20px;
+	x-lvl-2-p-tag: P;
+	x-lvl-3-type: lower-roman;
+	x-lvl-3-format: "<x>&c";
+	x-lvl-3-margin: 40px;
+	x-lvl-3-p-tag: P;
+	x-lvl-4-type: decimal;
+	x-lvl-4-format: "&o<x>&c";
+	x-lvl-4-margin: 60px;
+	x-lvl-4-p-tag: P;
+	x-lvl-5-format: "&o<x>&c";
+	x-lvl-5-margin: 80px;
+	x-lvl-5-p-tag: P;
+	x-lvl-6-type: lower-roman;
+	x-lvl-6-format: "&o<x>&c";
+	x-lvl-6-margin: 100px;
+	x-lvl-6-p-tag: P;
+	x-lvl-7-margin: 120px;
+	x-lvl-7-p-tag: P;
+	x-lvl-8-type: lower-alpha;
+	x-lvl-8-margin: 140px;
+	x-level-count: 9;
+	x-lvl-9-type: lower-roman;
+	x-lvl-9-margin: 160px;
+}
+
+P.Normal_list {
+	margin-top: 0;
+	font-size: 10pt;
+	margin-bottom: 6pt;
+	line-height: 120%;
+	list-style: rh-list;
+	x-list-class: rl-P-Normal_list;
+	x-list-level: 1;
+	x-next-class: ;
+	x-next-type: P;
+	margin-left: 0cm;
+}
+
+rh-list.rl-P-Normal_list {
+	x-level-count: 1;
+	x-lvl-1-format: "<x>";
+	x-lvl-1-type: "Em Dash";
+}
+
+table.Style1 tr {
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+
+table.Style1 td {
+	padding-left: 10px;
+	padding-right: 0;
+	padding-top: 0;
+	padding-bottom: 0;
+}
+
+table.Style1 {
+	table-layout: alignleft;
+	width: 95%;
+	vertical-align: top;
+	left: 0;
+	float: none;
+	position: relative;
+	border-spacing: 0;
+	x-1st-row: 1;
+	x-1st-row-name: t1st;
+	x-row-pat-1: 1;
+	x-row-pat-1-name: t1Row;
+	x-row-pat-count: 2;
+	x-row-pat-2: 1;
+	x-row-pat-2-name: t2Row;
+	text-align: Left;
+	x-border-spacing: 0;
+	x-1st-col: 1;
+	x-1st-col-name: t1st;
+	margin-top: 0;
+	margin-bottom: 6px;
+	border-left-style: None;
+	border-right-style: None;
+	padding-left: 0.19cm;
+	padding-right: 0.19cm;
+	line-height: 14pt;
+	background-color: #f4f4f4;
+	border-top-style: Solid;
+	border-top-width: 1px;
+	border-top-color: #a5a5a5;
+	border-bottom-style: Solid;
+	border-bottom-width: 1px;
+	border-bottom-color: #a5a5a5;
+	font-size: 11pt;
+}
+
+table.Style2 {
+	x-row-pat-1: 1;
+	x-row-pat-1-name: t1Row;
+	x-row-pat-count: 2;
+	x-row-pat-2: 1;
+	x-row-pat-2-name: t2Row;
+	background-color: #f4f4f4;
+	x-1st-row: 1;
+	x-1st-row-name: t1st;
+	font-size: 12pt;
+	x-border-spacing: 0;
+	border-top-style: Solid;
+	border-top-width: 1px;
+	border-top-color: #a5a5a5;
+	border-bottom-style: Solid;
+	border-bottom-width: 1px;
+	border-bottom-color: #a5a5a5;
+}
+
+table.Style2 tr.t1Row td {}
+
+table.Style2 tr.t2Row td {
+	border-top-style: Solid;
+	border-top-width: 1px;
+	border-top-color: #a5a5a5;
+	border-bottom-style: Solid;
+	border-bottom-width: 1px;
+	border-bottom-color: #a5a5a5;
+}
+
+table.Style2 tr.t1st td {}
+
+table.Style2 td {
+	padding-left: 0;
+	padding-right: 0;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+
+rh-list.Hierarchy {
+	x-lvl-1-type: decimal;
+	x-lvl-2-type: decimal;
+	x-lvl-3-type: decimal;
+	x-lvl-4-type: decimal;
+	x-lvl-5-type: decimal;
+	x-lvl-6-type: decimal;
+	x-lvl-8-type: decimal;
+	x-lvl-9-type: decimal;
+	x-lvl-10-type: decimal;
+	x-lvl-1-format: " ";
+	x-lvl-2-format: " ";
+	x-lvl-3-format: " ";
+	x-lvl-4-format: " ";
+	x-lvl-5-format: " ";
+	x-lvl-6-format: " ";
+	x-lvl-7-format: " ";
+	x-lvl-8-format: " ";
+	x-lvl-9-format: " ";
+	x-lvl-1-margin: 20px;
+	x-lvl-1-p-tag: P;
+	x-lvl-2-margin: 0.5cm;
+	x-lvl-2-p-tag: P;
+	x-lvl-3-margin: 0.8cm;
+	x-lvl-3-p-tag: P;
+	x-lvl-4-margin: 1.1cm;
+	x-lvl-4-p-tag: P;
+	x-lvl-5-margin: 1.4cm;
+	x-lvl-5-p-tag: P;
+	x-lvl-6-margin: 1.7cm;
+	x-lvl-6-p-tag: P;
+	x-lvl-7-margin: 2cm;
+	x-lvl-7-p-tag: P;
+	x-lvl-8-margin: 2.3cm;
+	x-lvl-8-p-tag: P;
+	x-lvl-9-margin: 2.6cm;
+	x-lvl-9-p-tag: P;
+	x-level-count: 9;
+}
+
+rh-seq.1 {
+	x-count: 9;
+	x-1: O;
+	x-2: O;
+	x-3: O;
+	x-4: O;
+	x-5: O;
+	x-6: O;
+	x-7: O;
+	x-8: O;
+	x-9: O;
+}
+
+rh-list.Bullets {
+	x-lvl-1-type: disc;
+	x-lvl-1-format: "<x>";
+	x-lvl-2-type: square;
+	x-lvl-2-format: "<x>";
+	x-lvl-2-margin: 20px;
+	x-lvl-3-type: circle;
+	x-lvl-3-format: "<x>";
+	x-lvl-3-margin: 40px;
+	x-lvl-4-type: diamond;
+	x-lvl-4-format: "<x>";
+	x-lvl-4-margin: 60px;
+	x-lvl-5-type: disc;
+	x-lvl-5-format: "<x>";
+	x-lvl-5-margin: 80px;
+	x-lvl-6-type: square;
+	x-lvl-6-format: "<x>";
+	x-lvl-6-margin: 100px;
+	x-lvl-7-type: circle;
+	x-lvl-7-format: "<x>";
+	x-lvl-7-margin: 120px;
+	x-lvl-8-type: diamond;
+	x-lvl-8-format: "<x>";
+	x-lvl-8-margin: 140px;
+	x-level-count: 9;
+	x-lvl-9-type: disc;
+	x-lvl-9-format: "<x>";
+	x-lvl-9-margin: 160px;
+	x-lvl-9-pfx-class: rls-9-Bullets;
+	x-lvl-1-pfx-class: rls-1-Bullets;
+	x-lvl-2-pfx-class: rls-2-Bullets;
+	x-lvl-3-pfx-class: rls-3-Bullets;
+	x-lvl-4-pfx-class: rls-4-Bullets;
+	x-lvl-5-pfx-class: rls-5-Bullets;
+	x-lvl-6-pfx-class: rls-6-Bullets;
+	x-lvl-7-pfx-class: rls-7-Bullets;
+	x-lvl-8-pfx-class: rls-8-Bullets;
+}
+
+span.rls-9-Bullets {
+	font-size: 8pt;
+}
+
+span.rls-1-Bullets {
+	font-size: 12pt;
+}
+
+span.rls-2-Bullets {
+	font-size: 12pt;
+}
+
+span.rls-3-Bullets {
+	font-size: 12pt;
+}
+
+span.rls-4-Bullets {
+	font-size: 12pt;
+}
+
+span.rls-5-Bullets {
+	font-size: 10pt;
+}
+
+span.rls-6-Bullets {
+	font-size: 10pt;
+}
+
+span.rls-7-Bullets {
+	font-size: 10pt;
+}
+
+span.rls-8-Bullets {
+	font-size: 10pt;
+}
+
+li.Style4 {
+	font-size: 10pt;
+	margin-left: 20px;
+	margin-top: 0;
+}
+
+li.Style3 {}
+
+p.Style5 {}
+
+P.Normal_in_dropdown {
+	margin-top: 0;
+	margin-bottom: 6pt;
+	line-height: 120%;
+	margin-left: 1.4cm;
+
+}
+
+p.GlossaryTerm {
+	font-size: 11pt;
+	font-weight: bold;
+	margin-bottom: 0;
+	x-next-class: ;
+	x-next-type: P;
+	margin-top: 8pt;
+}
+
+.droptext {
+	margin-left: 20px;
+	padding-bottom: 5px;
+}
+
+P.ProgramText_Black {
+	line-height: Normal;
+	color: #000;
+	background-color: #fff;
+	font-family: "Courier New", monospace;
+	margin-bottom: 0;
+	margin-top: 0;
+	x-next-class: ;
+	x-next-type: P;
+	margin-left: 40pt;
+}
+
+span.iOS_Directive {
+	line-height: Normal;
+	background-color: #fff;
+	font-family: "Courier New", monospace;
+	color: #77492d;
+}
+
+span.iOS_Directive {
+	line-height: Normal;
+	background-color: #fff;
+	font-family: "Courier New", monospace;
+	color: #77492d;
+}
+
+span.iOS_Red {
+	line-height: Normal;
+	background-color: #fff;
+	font-family: "Courier New", monospace;
+	color: #ce231c;
+}
+
+span.iOS_Green {
+	line-height: Normal;
+	background-color: #fff;
+	font-family: "Courier New", monospace;
+	color: #309b30;
+}
+
+span.iOS_dType {
+	line-height: Normal;
+	background-color: #fff;
+	font-family: "Courier New", monospace;
+	color: #7c44af;
+}
+
+span.iOS_kWord {
+	line-height: Normal;
+	background-color: #fff;
+	font-family: "Courier New", monospace;
+	color: #ba1ca5;
+}
+
+span.iOS_Number {
+	line-height: Normal;
+	background-color: #fff;
+	font-family: "Courier New", monospace;
+	color: #3a19db;
+}
+
+span.iOS_var {
+	line-height: Normal;
+	background-color: #fff;
+	font-family: "Courier New", monospace;
+	color: #6d9399;
+}
+
+table.common1 tr {
+	padding-top: 0;
+	padding-bottom: 3px;
+}
+
+table.common1 tr.t1st td {
+	color: #fff;
+	font-size: 10pt;
+	background-color: #a5a5a5;
+	font-weight: bold;
+}
+
+table.common1 tr.t1Row td {
+	background-color: #ededed;
+
+}
+
+table.common1 tr.t2Row td {
+	background-color: #ededed;
+
+}
+
+table.common1 td {
+	padding-left: 10px;
+	padding-right: 0;
+	padding-top: 0;
+	padding-bottom: 0;
+}
+
+table.common1 td.t1st {}
+
+table.common1 tr.t1Row td.t1st {
+	font-weight: bold;
+}
+
+table.common1 tr.t2Row td.t1st {
+	font-weight: bold;
+}
+
+table.common1 td.t1st {
+	font-weight: bold;
+}
+
+table.common1 {
+	table-layout: alignleft;
+	vertical-align: top;
+	left: 0;
+	float: none;
+	position: relative;
+	border-spacing: 0;
+	x-1st-row: 1;
+	x-1st-row-name: t1st;
+	x-row-pat-1: 1;
+	x-row-pat-1-name: t1Row;
+	x-row-pat-count: 2;
+	x-row-pat-2: 1;
+	x-row-pat-2-name: t2Row;
+	text-align: Left;
+	x-border-spacing: 0;
+	x-1st-col: 1;
+	x-1st-col-name: t1st;
+	font-size: 10pt;
+	margin-top: 0;
+	margin-bottom: 6px;
+	padding-left: 0.19cm;
+	padding-right: 0.19cm;
+	line-height: 14pt;
+	x-col-pat-1: 1;
+	x-col-pat-1-name: t1Col;
+	x-col-pat-count: 2;
+	x-col-pat-2: 1;
+	x-col-pat-2-name: t2Col;
+}
+
+table.common1 td.t2Col {
+	background-color: #fff;
+	font-size: 10pt;
+}
+
+
+.minitoc {
+	display: table;
+	width: auto !important;
+	min-width: 400px;
+	margin-bottom: 30px;
+	padding: 20px 12px 15px !important;
+	border: none !important;
+	background: #F5F5F5 !important;
+}
+
+.minitoc > p:first-child {
+	font-weight: normal !important;
+}
+
+div.minitocBody {
+	width: 70%;
+	box-sizing: border-box;
+}

@@ -1,0 +1,136 @@
+﻿# ISmNonLinearEquations.CalcInitExpressionMode
+
+ISmNonLinearEquations.CalcInitExpressionMode
+-
+
+
+# ISmNonLinearEquations.CalcInitExpressionMode
+
+
+## Синтаксис
+
+
+CalcInitExpressionMode: [CalcInitExpressionType](../../Enums/CalcInitExpressionType.htm);
+
+
+## Описание
+
+
+Свойство CalcInitExpressionMode
+ определяет режим задания начальных значений искомых переменных.
+
+
+## Комментарии
+
+
+Если CalcInitExpressionMode = CalcInitExpressionType.Manual,
+ то значения начальных переменных задаются вручную с помощью свойства [ISmNonLinearEquations.InitApproximation](ISmNonLinearEquations.InitApproximation.htm).
+
+
+## Пример
+
+
+Для выполнения примера добавьте ссылку на системную сборку Stat.
+
+
+			Sub UserProc;
+
+Var
+
+    Eqs: ISmNonLinearEquations;
+
+    Funcs: Array[0..2] Of String;
+
+    inits: Array[0..2] Of Double;
+
+    res: Integer;
+
+    Sub Print(Data: Array Of Double);
+
+    Var
+
+        i: Integer;
+
+        CI: ICultureInfo;
+
+    Begin
+
+        CI := CultureInfo.Current;
+
+        Debug.WriteLine("---Begin---");
+
+        For i := 0 To Data.Length - 1 Do
+
+            If Double.IsNan(Data[i]) Then
+
+                Debug.WriteLine("---empty---");
+
+            Else
+
+                Debug.WriteLine(i.ToString + ", " + CI.FormatDoublePrec(Data[i], 4));
+
+            End If;
+
+        End For;
+
+        Debug.WriteLine("---End---");
+
+    End Sub Print;
+
+Begin
+
+    Eqs := New SmNonLinearEquations.Create As ISmNonLinearEquations;
+
+    funcs[0] := "X1-22+0.5*X2-X3";
+
+    funcs[1] := "X2-26.5+2*X1+0.5*X3";
+
+    funcs[2] := "X3+9-X1+6*X2";
+
+    Eqs.Functions := Funcs;
+
+    Eqs.CoefficientsOrder := "X1;X2;X3";
+
+    Eqs.CalcInitExpressionMode := CalcInitExpressionType.Manual;
+
+    inits[0] := 10; //x1
+
+    inits[1] := 7; //x2
+
+    inits[2] := -1; //x3
+
+    Eqs.InitApproximation := inits;
+
+    Eqs.MethodType := NonLinearEquationsType.MinErrorGaussNewtonMethod;
+
+    Eqs.Tolerance := 0.0001;
+
+    res := Eqs.Execute;
+
+    If res <> 0 Then
+
+        Debug.WriteLine(Eqs.Errors);
+
+    Else
+
+        Print(Eqs.Solution);
+
+    End If;
+
+End Sub UserProc;
+
+
+После выполнения примера в окно консоли будет выведено решение системы
+ нелинейных уравнений.
+
+
+См. также:
+
+
+[ISmNonLinearEquations](ISmNonLinearEquations.htm)
+
+
+		Справочная
+		 система на версию ERROR: Variable (Version_lts) is undefined.
+		 от 18/08/2025,
+		 © ООО «ФОРСАЙТ»,

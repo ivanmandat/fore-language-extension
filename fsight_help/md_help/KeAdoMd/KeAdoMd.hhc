@@ -1,0 +1,545 @@
+<html>
+<!-- Sitemap 1.0 -->
+<object type="text/site properties">
+  <param name="SiteType" value="toc">
+  <param name="Image Width" value="16">
+  <param name="Window Styles" value="0x800027">
+  <param name="ExWindow Styles" value="0x100">
+</object>
+<ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="AdoMd">
+    <param name="Local" value="KeAdoMd_Title.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Введение в сборку AdoMd">
+      <param name="Local" value="Intro/KeAdoMd_Intro.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Создание каталога ADOMD">
+        <param name="Local" value="Intro/KeAdoMd_CreateCatalog.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Работа с кубами и справочниками ADOMD">
+        <param name="Local" value="Intro/KeAdoMd_WorkWithData.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Интерфейсы сборки AdoMd">
+      <param name="Local" value="Interface/KeAdoMd_Interface.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IAdoMdAxis">
+        <param name="Local" value="Interface/IAdoMdAxis/IAdoMdAxis.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdoMdAxis.Count">
+          <param name="Local" value="Interface/IAdoMdAxis/IAdoMdAxis.Count.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdoMdAxis.Dim">
+          <param name="Local" value="Interface/IAdoMdAxis/IAdoMdAxis.Dim.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdoMdAxis.DimCols">
+          <param name="Local" value="Interface/IAdoMdAxis/IAdoMdAxis.DimCols.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdoMdAxis.DimCount">
+          <param name="Local" value="Interface/IAdoMdAxis/IAdoMdAxis.DimCount.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdoMdAxis.DimName">
+          <param name="Local" value="Interface/IAdoMdAxis/IAdoMdAxis.DimName.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdoMdAxis.Open">
+          <param name="Local" value="Interface/IAdoMdAxis/IAdoMdAxis.Open.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdoMdAxis.Rowset">
+          <param name="Local" value="Interface/IAdoMdAxis/IAdoMdAxis.Rowset.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IAdoMdAxisDim">
+        <param name="Local" value="Interface/IAdoMdAxisDim/IAdoMdAxisDim.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdoMdAxisDim.Cols">
+          <param name="Local" value="Interface/IAdoMdAxisDim/IAdoMdAxisDim.Cols.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdoMdAxisDim.Instance">
+          <param name="Local" value="Interface/IAdoMdAxisDim/IAdoMdAxisDim.Instance.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdoMdAxisDim.Name">
+          <param name="Local" value="Interface/IAdoMdAxisDim/IAdoMdAxisDim.Name.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdoMdAxisDim.Selection">
+          <param name="Local" value="Interface/IAdoMdAxisDim/IAdoMdAxisDim.Selection.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IAdoMdAxisInfo">
+        <param name="Local" value="Interface/IAdoMdAxisInfo/IAdoMdAxisInfo.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdoMdAxisInfo.Count">
+          <param name="Local" value="Interface/IAdoMdAxisInfo/IAdoMdAxisInfo.Count.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdoMdAxisInfo.Item">
+          <param name="Local" value="Interface/IAdoMdAxisInfo/IAdoMdAxisInfo.Item.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IAdoMdCatalog">
+        <param name="Local" value="Interface/IAdoMdCatalog/IAdoMdCatalog.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdoMdCatalog.Authentication">
+          <param name="Local" value="Interface/IAdoMdCatalog/IAdoMdCatalog.Authentication.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdoMdCatalog.AutoRefresh">
+          <param name="Local" value="Interface/IAdoMdCatalog/IAdoMdCatalog.AutoRefresh.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdoMdCatalog.Credentials">
+          <param name="Local" value="Interface/IAdoMdCatalog/IAdoMdCatalog.Credentials.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdoMdCatalog.Driver">
+          <param name="Local" value="Interface/IAdoMdCatalog/IAdoMdCatalog.Driver.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdoMdCatalog.LoginPrompt">
+          <param name="Local" value="Interface/IAdoMdCatalog/IAdoMdCatalog.LoginPrompt.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdoMdCatalog.Name">
+          <param name="Local" value="Interface/IAdoMdCatalog/IAdoMdCatalog.Name.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdoMdCatalog.Open">
+          <param name="Local" value="Interface/IAdoMdCatalog/IAdoMdCatalog.Open.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdoMdCatalog.OpenWithCredentials">
+          <param name="Local" value="Interface/IAdoMdCatalog/IAdoMdCatalog.OpenWithCredentials.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdoMdCatalog.ProviderString">
+          <param name="Local" value="Interface/IAdoMdCatalog/IAdoMdCatalog.ProviderString.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdoMdCatalog.Server">
+          <param name="Local" value="Interface/IAdoMdCatalog/IAdoMdCatalog.Server.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdoMdCatalog.UseMetabaseCredentials">
+          <param name="Local" value="Interface/IAdoMdCatalog/IAdoMdCatalog.UseMetabaseCredentials.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdoMdCatalog.WellKnownDriver">
+          <param name="Local" value="Interface/IAdoMdCatalog/IAdoMdCatalog.WellKnownDriver.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IAdoMdCatalogInstance">
+        <param name="Local" value="Interface/IAdoMdCatalogInstance/IAdoMdCatalogInstance.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdoMdCatalogInstance.Catalog">
+          <param name="Local" value="Interface/IAdoMdCatalogInstance/IAdoMdCatalogInstance.Catalog.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdoMdCatalogInstance.Connection">
+          <param name="Local" value="Interface/IAdoMdCatalogInstance/IAdoMdCatalogInstance.Connection.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdoMdCatalogInstance.CubesFail">
+          <param name="Local" value="Interface/IAdoMdCatalogInstance/IAdoMdCatalogInstance.CubesFail.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdoMdCatalogInstance.CubesFailExceptions">
+          <param name="Local" value="Interface/IAdoMdCatalogInstance/IAdoMdCatalogInstance.CubesFailExceptions.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdoMdCatalogInstance.Refresh">
+          <param name="Local" value="Interface/IAdoMdCatalogInstance/IAdoMdCatalogInstance.Refresh.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdoMdCatalogInstance.RefreshBySQL">
+          <param name="Local" value="Interface/IAdoMdCatalogInstance/IAdoMdCatalogInstance.RefreshBySQL.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdoMdCatalogInstance.RefreshCube">
+          <param name="Local" value="Interface/IAdoMdCatalogInstance/IAdoMdCatalogInstance.RefreshCube.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IAdoMdCellset">
+        <param name="Local" value="Interface/IAdoMdCellset/IAdoMdCellset.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdoMdCellset.AxisInfo">
+          <param name="Local" value="Interface/IAdoMdCellset/IAdoMdCellset.AxisInfo.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdoMdCellset.Cells">
+          <param name="Local" value="Interface/IAdoMdCellset/IAdoMdCellset.Cells.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IAdoMdConnection">
+        <param name="Local" value="Interface/IAdoMdConnection/IAdoMdConnection.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdoMdConnection.Catalogs">
+          <param name="Local" value="Interface/IAdoMdConnection/IAdoMdConnection.Catalogs.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdoMdConnection.Cellset">
+          <param name="Local" value="Interface/IAdoMdConnection/IAdoMdConnection.Cellset.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdoMdConnection.Command">
+          <param name="Local" value="Interface/IAdoMdConnection/IAdoMdConnection.Command.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdoMdConnection.Connection">
+          <param name="Local" value="Interface/IAdoMdConnection/IAdoMdConnection.Connection.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdoMdConnection.CubeDimensions">
+          <param name="Local" value="Interface/IAdoMdConnection/IAdoMdConnection.CubeDimensions.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdoMdConnection.Cubes">
+          <param name="Local" value="Interface/IAdoMdConnection/IAdoMdConnection.Cubes.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdoMdConnection.Databases">
+          <param name="Local" value="Interface/IAdoMdConnection/IAdoMdConnection.Databases.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdoMdConnection.DimensionHierarchies">
+          <param name="Local" value="Interface/IAdoMdConnection/IAdoMdConnection.DimensionHierarchies.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdoMdConnection.HierarchyLevels">
+          <param name="Local" value="Interface/IAdoMdConnection/IAdoMdConnection.HierarchyLevels.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdoMdConnection.HierarchyMembers">
+          <param name="Local" value="Interface/IAdoMdConnection/IAdoMdConnection.HierarchyMembers.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IAdoMdCube">
+        <param name="Local" value="Interface/IAdoMdCube/IAdoMdCube.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdoMdCube.AutoRefresh">
+          <param name="Local" value="Interface/IAdoMdCube/IAdoMdCube.AutoRefresh.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdoMdCube.Catalog">
+          <param name="Local" value="Interface/IAdoMdCube/IAdoMdCube.Catalog.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdoMdCube.Dimensions">
+          <param name="Local" value="Interface/IAdoMdCube/IAdoMdCube.Dimensions.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdoMdCube.NativeName">
+          <param name="Local" value="Interface/IAdoMdCube/IAdoMdCube.NativeName.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdoMdCube.Refresh">
+          <param name="Local" value="Interface/IAdoMdCube/IAdoMdCube.Refresh.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdoMdCube.RefreshStamp">
+          <param name="Local" value="Interface/IAdoMdCube/IAdoMdCube.RefreshStamp.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdoMdCube.SqlText">
+          <param name="Local" value="Interface/IAdoMdCube/IAdoMdCube.SqlText.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IAdoMdCubeExecutor">
+        <param name="Local" value="Interface/IAdoMdCubeExecutor/IAdoMdCubeExecutor.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdoMdCubeExecutor.MdxQuery">
+          <param name="Local" value="Interface/IAdoMdCubeExecutor/IAdoMdCubeExecutor.MdxQuery.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdoMdCubeExecutor.OpenCellset">
+          <param name="Local" value="Interface/IAdoMdCubeExecutor/IAdoMdCubeExecutor.OpenCellset.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IAdoMdCubeInstance">
+        <param name="Local" value="Interface/IAdoMdCubeInstance/IAdoMdCubeInstance.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdoMdCubeInstance.Catalog">
+          <param name="Local" value="Interface/IAdoMdCubeInstance/IAdoMdCubeInstance.Catalog.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdoMdCubeInstance.Cube">
+          <param name="Local" value="Interface/IAdoMdCubeInstance/IAdoMdCubeInstance.Cube.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdoMdCubeInstance.CubeInstance">
+          <param name="Local" value="Interface/IAdoMdCubeInstance/IAdoMdCubeInstance.CubeInstance.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IAdoMdDimCalculation">
+        <param name="Local" value="Interface/IAdoMdDimCalculation/IAdoMdDimCalculation.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdoMdDimCalculation.Element">
+          <param name="Local" value="Interface/IAdoMdDimCalculation/IAdoMdDimCalculation.Element.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdoMdDimCalculation.ElementKey">
+          <param name="Local" value="Interface/IAdoMdDimCalculation/IAdoMdDimCalculation.ElementKey.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdoMdDimCalculation.Expression">
+          <param name="Local" value="Interface/IAdoMdDimCalculation/IAdoMdDimCalculation.Expression.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdoMdDimCalculation.Id">
+          <param name="Local" value="Interface/IAdoMdDimCalculation/IAdoMdDimCalculation.Id.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IAdoMdDimCalculations">
+        <param name="Local" value="Interface/IAdoMdDimCalculations/IAdoMdDimCalculations.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdoMdDimCalculations.Add">
+          <param name="Local" value="Interface/IAdoMdDimCalculations/IAdoMdDimCalculations.Add.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdoMdDimCalculations.AddFormula">
+          <param name="Local" value="Interface/IAdoMdDimCalculations/IAdoMdDimCalculations.AddFormula.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdoMdDimCalculations.Clear">
+          <param name="Local" value="Interface/IAdoMdDimCalculations/IAdoMdDimCalculations.Clear.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdoMdDimCalculations.Count">
+          <param name="Local" value="Interface/IAdoMdDimCalculations/IAdoMdDimCalculations.Count.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdoMdDimCalculations.FindById">
+          <param name="Local" value="Interface/IAdoMdDimCalculations/IAdoMdDimCalculations.FindById.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdoMdDimCalculations.Item">
+          <param name="Local" value="Interface/IAdoMdDimCalculations/IAdoMdDimCalculations.Item.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdoMdDimCalculations.Move">
+          <param name="Local" value="Interface/IAdoMdDimCalculations/IAdoMdDimCalculations.Move.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdoMdDimCalculations.Remove">
+          <param name="Local" value="Interface/IAdoMdDimCalculations/IAdoMdDimCalculations.Remove.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdoMdDimCalculations.RemoveById">
+          <param name="Local" value="Interface/IAdoMdDimCalculations/IAdoMdDimCalculations.RemoveById.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IAdoMdDimension">
+        <param name="Local" value="Interface/IAdoMdDimension/IAdoMdDimension.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdoMdDimension.Catalog">
+          <param name="Local" value="Interface/IAdoMdDimension/IAdoMdDimension.Catalog.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdoMdDimension.Cube">
+          <param name="Local" value="Interface/IAdoMdDimension/IAdoMdDimension.Cube.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdoMdDimension.Cubes">
+          <param name="Local" value="Interface/IAdoMdDimension/IAdoMdDimension.Cubes.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdoMdDimension.Hierarchy">
+          <param name="Local" value="Interface/IAdoMdDimension/IAdoMdDimension.Hierarchy.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdoMdDimension.NativeName">
+          <param name="Local" value="Interface/IAdoMdDimension/IAdoMdDimension.NativeName.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdoMdDimension.Refresh">
+          <param name="Local" value="Interface/IAdoMdDimension/IAdoMdDimension.Refresh.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdoMdDimension.Type">
+          <param name="Local" value="Interface/IAdoMdDimension/IAdoMdDimension.Type.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IAdoMdDimensionInstance">
+        <param name="Local" value="Interface/IAdoMdDimensionInstance/IAdoMdDimensionInstance.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdoMdDimensionInstance.Catalog">
+          <param name="Local" value="Interface/IAdoMdDimensionInstance/IAdoMdDimensionInstance.Catalog.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdoMdDimensionInstance.Dimension">
+          <param name="Local" value="Interface/IAdoMdDimensionInstance/IAdoMdDimensionInstance.Dimension.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdoMdDimensionInstance.DimensionInstance">
+          <param name="Local" value="Interface/IAdoMdDimensionInstance/IAdoMdDimensionInstance.DimensionInstance.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IAdoMdExecuteDimSetup">
+        <param name="Local" value="Interface/IAdoMdExecuteDimSetup/IAdoMdExecuteDimSetup.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdoMdExecuteDimSetup.Calculations">
+          <param name="Local" value="Interface/IAdoMdExecuteDimSetup/IAdoMdExecuteDimSetup.Calculations.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IAdoMdExecuteDimSetup.Selection">
+          <param name="Local" value="Interface/IAdoMdExecuteDimSetup/IAdoMdExecuteDimSetup.Selection.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Перечисления сборки AdoMd">
+      <param name="Local" value="Enums/KeAdoMd_Enums.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="AdoMdWellKnownDriverType">
+        <param name="Local" value="Enums/AdoMdWellKnownDriverType.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      </ul>
+    </ul>
+</ul>
+</html>

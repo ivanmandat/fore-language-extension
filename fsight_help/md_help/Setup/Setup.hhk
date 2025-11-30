@@ -1,0 +1,1864 @@
+<html>
+<!-- Sitemap 1.0 -->
+<object type="text/site properties">
+  <param name="WindowName" value="NewWindow">
+  <param name="SiteType" value="index">
+</object>
+<ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Расширения продукта «Форсайт. Аналитическая платформа»">
+    <param name="Name" value="Установка расширений продукта «Форсайт. Аналитическая платформа»">
+    <param name="Local" value="Extensions/install_or_update_extensions.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Установка">
+      <param name="Name" value="Установка расширений в репозитории">
+      <param name="Local" value="Extensions/install_extensions_in_repository.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Обновление">
+      <param name="Name" value="Обновление расширений">
+      <param name="Local" value="Extensions/Update/update_extensions.htm">
+    </object>
+    </ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Поддерживаемые СУБД">
+    <param name="Name" value="Поддерживаемые СУБД">
+    <param name="Local" value="01_SysReq/database_Support.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Заставка">
+    <param name="Name" value="Замена заставки при запуске приложения">
+    <param name="Local" value="06_AK_Client_Config/Change_login_window_image.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Инструменты разработчика">
+    <param name="Name" value="Инструменты разработчика">
+    <param name="Local" value="02_AK_Install/DevTools.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="DevTools">
+    <param name="Name" value="Инструменты разработчика">
+    <param name="Local" value="02_AK_Install/DevTools.htm">
+    <param name="Name" value="Комплект поставки продукта «Форсайт.&#160;Аналитическая платформа»">
+    <param name="Local" value="02_AK_Install/DistributionKit.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="PP.Util">
+    <param name="Name" value="PP.Util">
+    <param name="Local" value="05_RepoMngr/Service_Applications/PP_Util.htm">
+    <param name="Name" value="Приложения в составе продукта «Форсайт. Аналитическая платформа»">
+    <param name="Local" value="05_RepoMngr/Setup_RepoMngr_Main.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Metabases.xml">
+    <param name="Name" value="Настройка списка репозиториев в системном реестре">
+    <param name="Local" value="06_AK_Client_Config/Configuring_repository_list_in_the_system_registry.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Системные требования к серверу баз данных">
+    <param name="Name" value="Системные требования к серверу баз данных">
+    <param name="Local" value="03_DB_Server_Config/Setup_DB_ServerSysReq.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Создание пользовательской схемы в базе данных">
+    <param name="Name" value="Подготовка сервера Microsoft SQL Server">
+    <param name="Local" value="03_DB_Server_Config/Setup_DB_Server_Config_MSQL.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Подготовка сервера Oracle">
+    <param name="Name" value="Подготовка сервера Oracle">
+    <param name="Local" value="03_DB_Server_Config/Setup_DB_Server_Config_Oracle.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Обновление с помощью инсталлятора">
+    <param name="Name" value="Обновление инсталлятором">
+    <param name="Local" value="Update/ManualUpdate.htm">
+    <param name="Name" value="Обновление платформы">
+    <param name="Local" value="Update/Update.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Обновление">
+    <param name="Name" value="Обновление платформы">
+    <param name="Local" value="Update/Update.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Активация модуля">
+    <param name="Name" value="Активация модуля">
+    <param name="Local" value="08_Licensing/RMS/Intro_LicMngr_ActivateModule.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Сетевая лицензия">
+    <param name="Name" value="О типе и времени действия лицензии">
+    <param name="Local" value="08_Licensing/Admin_Licensing_Variants.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Мастер активации продукта">
+    <param name="Name" value="Мастер активации продукта">
+    <param name="Local" value="08_Licensing/RMS/Intro_LicMngr_MasterActivation.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Поиск лицензии">
+    <param name="Name" value="Настройки поиска лицензии: Windows">
+    <param name="Local" value="08_Licensing/RMS/Intro_LicMngr_SearchLic.htm">
+    <param name="Name" value="Управление лицензиями в ОС Linux">
+    <param name="Local" value="08_Licensing/RMS/LicensingLinux.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Версии Linux">
+    <param name="Name" value="Поддерживаемые версии ОС Linux">
+    <param name="Local" value="UiWebSetup/02_SystemReq/system_requirments_Linux.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Установка 32-х и 64-х разрядных версий">
+    <param name="Name" value="Особенности установки">
+    <param name="Local" value="02_AK_Install/Setup_AK_InstallFeature.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Установка через удаленное соединение">
+    <param name="Name" value="Особенности установки">
+    <param name="Local" value="02_AK_Install/Setup_AK_InstallFeature.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Синтаксис и описание параметров">
+    <param name="Name" value="Запуск дистрибутива с параметрами">
+    <param name="Local" value="01_SysReq/Setup_SysReq_Client_Printer.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Запуск дистрибутива с параметрами">
+    <param name="Name" value="Запуск дистрибутива с параметрами">
+    <param name="Local" value="01_SysReq/Setup_SysReq_Client_Printer.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Список дополнительного ПО">
+    <param name="Name" value="Список дополнительного ПО">
+    <param name="Local" value="01_SysReq/ISSetupPrerequisites.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Установка настольного приложения «Форсайт. Аналитическая платформа»">
+    <param name="Name" value="Установка продукта «Форсайт. Аналитическая платформа»">
+    <param name="Local" value="02_AK_Install/Setup_AK_Install.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ISSetupPrerequisites">
+    <param name="Name" value="Комплект поставки продукта «Форсайт. Аналитическая платформа»">
+    <param name="Local" value="02_AK_Install/DistributionKit.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Настольное приложение «Форсайт. Аналитическая платформа»">
+    <param name="Name" value="Комплект поставки продукта «Форсайт. Аналитическая платформа»">
+    <param name="Local" value="02_AK_Install/DistributionKit.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Средства интеграции">
+    <param name="Name" value="Комплект поставки продукта «Форсайт. Аналитическая платформа»">
+    <param name="Local" value="02_AK_Install/DistributionKit.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Foresight Add-in for Word_x64.exe">
+    <param name="Name" value="Комплект поставки продукта «Форсайт. Аналитическая платформа»">
+    <param name="Local" value="02_AK_Install/DistributionKit.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Foresight Add-in for Word_x86.exe">
+    <param name="Name" value="Комплект поставки продукта «Форсайт. Аналитическая платформа»">
+    <param name="Local" value="02_AK_Install/DistributionKit.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Foresight Add-in for Excel_x64.exe">
+    <param name="Name" value="Комплект поставки продукта «Форсайт. Аналитическая платформа»">
+    <param name="Local" value="02_AK_Install/DistributionKit.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Foresight Add-in for Excel_x86.exe">
+    <param name="Name" value="Комплект поставки продукта «Форсайт. Аналитическая платформа»">
+    <param name="Local" value="02_AK_Install/DistributionKit.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Reg-free COM registration">
+    <param name="Name" value="Комплект поставки продукта «Форсайт. Аналитическая платформа»">
+    <param name="Local" value="02_AK_Install/DistributionKit.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Пререквизиты и инсталляторы справочной системы">
+    <param name="Name" value="Комплект поставки продукта «Форсайт. Аналитическая платформа»">
+    <param name="Local" value="02_AK_Install/DistributionKit.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Комплект поставки продукта «Форсайт. Аналитическая платформа»">
+    <param name="Name" value="Комплект поставки продукта «Форсайт. Аналитическая платформа»">
+    <param name="Local" value="02_AK_Install/DistributionKit.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Scheduler.exe">
+    <param name="Name" value="Приложения в составе продукта «Форсайт. Аналитическая платформа»">
+    <param name="Local" value="05_RepoMngr/Setup_RepoMngr_Main.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Планировщик задач">
+    <param name="Name" value="Приложения в составе продукта «Форсайт. Аналитическая платформа»">
+    <param name="Local" value="05_RepoMngr/Setup_RepoMngr_Main.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Current_RDS.rm4">
+    <param name="Name" value="Создание репозитория НСИ">
+    <param name="Local" value="05_RepoMngr/Setup_repoMngr_CreateRDSRepo.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Current.rm4">
+    <param name="Name" value="Создание репозитория метаданных">
+    <param name="Local" value="05_RepoMngr/Setup_RepoMngr_CreateRepo.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Системные требования">
+    <param name="Name" value="Системные требования: для работы с настольным приложением">
+    <param name="Local" value="01_SysReq/SystemRequirement.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Сервер баз данных">
+      <param name="Name" value="Системные требования к серверу баз данных">
+      <param name="Local" value="03_DB_Server_Config/Setup_DB_ServerSysReq.htm">
+    </object>
+    </ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Инсталляторы">
+    <param name="Name" value="Комплект поставки продукта «Форсайт.&#160;Аналитическая платформа»">
+    <param name="Local" value="02_AK_Install/DistributionKit.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Дистрибутивы">
+    <param name="Name" value="Комплект поставки продукта «Форсайт. Аналитическая платформа»">
+    <param name="Local" value="02_AK_Install/DistributionKit.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Обновление версии репозитория метаданных">
+    <param name="Name" value="Обновление версии репозитория метаданных: Windows">
+    <param name="Local" value="05_RepoMngr/Setup_RepoMngr_UpdateRepo.htm">
+    <param name="Name" value="Обновление версии репозитория метаданных: Linux">
+    <param name="Local" value="05_RepoMngr/Linux/Update_Repository.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Репозитории">
+    <param name="Name" value="Настройка параметров репозитория">
+    <param name="Local" value="06_AK_Client_Config/UiNav_RepoConfig.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Обновление средств интеграции">
+    <param name="Name" value="Обновление средств интеграции">
+    <param name="Local" value="AddIn/AddIn_Update.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Установка средств интеграции">
+    <param name="Name" value="Установка средств интеграции">
+    <param name="Local" value="AddIn/AddIn_Setup.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Инсталлятор">
+    <param name="Name" value="Установка средств интеграции">
+    <param name="Local" value="AddIn/AddIn_Setup.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Проверка и установка обновлений">
+    <param name="Name" value="Обновление платформы">
+    <param name="Local" value="Update/Update.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Установка настольного приложения">
+    <param name="Name" value="Установка настольного приложения продукта «Форсайт. Аналитическая платформа»">
+    <param name="Local" value="02_AK_Install/Setup_AK_Install.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="CheckControlSums">
+    <param name="Name" value="Структура cfgconfig.xml">
+    <param name="Local" value="Update/StructureCFG.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Конфигурационный файл">
+    <param name="Name" value="Создание резервной копии репозитория метаданных">
+    <param name="Local" value="05_RepoMngr/Setup_RepoMngr_CreateRepoBackup.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="NoService">
+    <param name="Name" value="Запуск комплекса с использованием ключей">
+    <param name="Local" value="07_AK_Run_Additional/UseKeys.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Svcsetsec">
+    <param name="Name" value="Запуск комплекса с использованием ключей">
+    <param name="Local" value="07_AK_Run_Additional/UseKeys.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Svcdelete">
+    <param name="Name" value="Запуск комплекса с использованием ключей">
+    <param name="Local" value="07_AK_Run_Additional/UseKeys.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Svccreate">
+    <param name="Name" value="Запуск комплекса с использованием ключей">
+    <param name="Local" value="07_AK_Run_Additional/UseKeys.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Особенности установки">
+    <param name="Name" value="Особенности установки">
+    <param name="Local" value="02_AK_Install/Setup_AK_InstallFeature.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Список пререквизитов">
+    <param name="Name" value="Список пререквизитов">
+    <param name="Local" value="01_SysReq/ISSetupPrerequisites.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="FileCondition">
+    <param name="Name" value="Структура cfgconfig.xml">
+    <param name="Local" value="Update/StructureCFG.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="OsCondition">
+    <param name="Name" value="Структура cfgconfig.xml">
+    <param name="Local" value="Update/StructureCFG.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="RegistryCondition">
+    <param name="Name" value="Структура cfgconfig.xml">
+    <param name="Local" value="Update/StructureCFG.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="&lt;Environments&gt;">
+    <param name="Name" value="Настройка репозиториев и автообновления из файла">
+    <param name="Local" value="Update/Tuner.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="&lt;AutoUpdate&gt;">
+    <param name="Name" value="Настройка репозиториев и автообновления из файла">
+    <param name="Local" value="Update/Tuner.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="&lt;Metabases&gt;">
+    <param name="Name" value="Настройка репозиториев и автообновления из файла">
+    <param name="Local" value="Update/Tuner.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Определение системных переменных среды">
+    <param name="Name" value="Настройка репозиториев и автообновления из файла">
+    <param name="Local" value="Update/Tuner.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Лицензия">
+    <param name="Name" value="Лицензирование">
+    <param name="Local" value="08_Licensing/Admin_Licensing.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Лицензирование">
+    <param name="Name" value="Лицензирование">
+    <param name="Local" value="08_Licensing/Admin_Licensing.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Удалить сервис регистрации">
+    <param name="Name" value="Запуск комплекса с использованием ключей">
+    <param name="Local" value="07_AK_Run_Additional/UseKeys.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Создать сервис регистрации">
+    <param name="Name" value="Запуск комплекса с использованием ключей">
+    <param name="Local" value="07_AK_Run_Additional/UseKeys.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Параметры обновления из каталога">
+    <param name="Name" value="Запуск комплекса с использованием ключей">
+    <param name="Local" value="07_AK_Run_Additional/UseKeys.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Customparam">
+    <param name="Name" value="Запуск комлекса из командной строки с использованием ключей">
+    <param name="Local" value="07_AK_Run_Additional/UseKeys.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="SingleInstance">
+    <param name="Name" value="Запуск комлекса из командной строки с использованием ключей">
+    <param name="Local" value="07_AK_Run_Additional/UseKeys.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Ключ Splash">
+    <param name="Name" value="Запуск комлекса из командной строки с использованием ключей">
+    <param name="Local" value="07_AK_Run_Additional/UseKeys.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Splash">
+    <param name="Name" value="Запуск комлекса из командной строки с использованием ключей">
+    <param name="Local" value="07_AK_Run_Additional/UseKeys.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="tuner.xml">
+    <param name="Name" value="Настройка репозиториев и автообновления из файла">
+    <param name="Local" value="Update/Tuner.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Tuner">
+    <param name="Name" value="Настройка репозиториев и автообновления из файла">
+    <param name="Local" value="Update/Tuner.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Tuner.exe">
+    <param name="Name" value="Настройка репозиториев и автообновления из файла">
+    <param name="Local" value="Update/Tuner.htm">
+    <param name="Name" value="Приложения в составе продукта «Форсайт. Аналитическая платформа»">
+    <param name="Local" value="05_RepoMngr/Setup_RepoMngr_Main.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="mst">
+    <param name="Name" value="Особенности обновления">
+    <param name="Local" value="Update/UpdateFeature.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="CfgConfig.xml">
+    <param name="Name" value="Структура cfgconfig.xml">
+    <param name="Local" value="Update/StructureCFG.htm">
+    <param name="Name" value="Особенности обновления">
+    <param name="Local" value="Update/UpdateFeature.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Файлы обновления">
+    <param name="Name" value="Особенности обновления">
+    <param name="Local" value="Update/UpdateFeature.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="msi">
+    <param name="Name" value="Особенности обновления">
+    <param name="Local" value="Update/UpdateFeature.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Version">
+    <param name="Name" value="Особенности обновления">
+    <param name="Local" value="Update/UpdateFeature.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Version.xml">
+    <param name="Name" value="Особенности обновления">
+    <param name="Local" value="Update/UpdateFeature.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Cfg.exe">
+    <param name="Name" value="Приложения в составе продукта «Форсайт. Аналитическая платформа»">
+    <param name="Local" value="05_RepoMngr/Setup_RepoMngr_Main.htm">
+    <param name="Name" value="Особенности обновления">
+    <param name="Local" value="Update/UpdateFeature.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Особенности обновления">
+    <param name="Name" value="Особенности обновления">
+    <param name="Local" value="Update/UpdateFeature.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Флаг Visible">
+    <param name="Name" value="Отключение изображения в окне регистрации">
+    <param name="Local" value="06_AK_Client_Config/Setup_ClientConfigOffImage.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Visible">
+    <param name="Name" value="Отключение изображения в окне регистрации">
+    <param name="Local" value="06_AK_Client_Config/Setup_ClientConfigOffImage.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Отключение изображения в окне регистрации">
+    <param name="Name" value="Отключение изображения в окне регистрации">
+    <param name="Local" value="06_AK_Client_Config/Setup_ClientConfigOffImage.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Создание резервной копии версии репозитория">
+    <param name="Name" value="Создание резервной копии версии репозитория">
+    <param name="Local" value="05_RepoMngr/Setup_RepoMngr_CreateRepoBackup.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Создание репозитория НСИ">
+    <param name="Name" value="Создание репозитория НСИ">
+    <param name="Local" value="05_RepoMngr/Setup_repoMngr_CreateRDSRepo.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Создание пользователя PPUPDATE на сервере Oracle">
+    <param name="Name" value="Создание пользователя PPUPDATE">
+    <param name="Local" value="Update/PPUPDATE.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Обновление версии репозитория НСИ">
+    <param name="Name" value="Обновление версии репозитория НСИ">
+    <param name="Local" value="05_RepoMngr/Setup_RepoMngr_UpdateRDSRepo.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Восстановление репозитория">
+    <param name="Name" value="Восстановление репозитория из резервной копии">
+    <param name="Local" value="05_RepoMngr/Setup_RepoMngr_RestoreRepoBackup.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Восстановление репозитория из резервной копии">
+    <param name="Name" value="Восстановление репозитория из резервной копии">
+    <param name="Local" value="05_RepoMngr/Setup_RepoMngr_RestoreRepoBackup.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Менеджер репозитория">
+    <param name="Name" value="Создание и управление репозиториями метаданных">
+    <param name="Local" value="05_RepoMngr/Setup_RepoMngr_Work_Main.htm">
+    <param name="Name" value="Менеджер репозитория: Windows">
+    <param name="Local" value="05_RepoMngr/RepoMngr_Windows.htm">
+    <param name="Name" value="Менеджер репозитория: Linux">
+    <param name="Local" value="05_RepoMngr/RepoManager_Linux.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Подготовка серверной части СУБД">
+    <param name="Name" value="Подготовка серверной части СУБД">
+    <param name="Local" value="03_DB_Server_Config/Setup_DB_Server_Config.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Раздача прав">
+    <param name="Name" value="Microsoft SQL Server">
+    <param name="Local" value="03_DB_Server_Config/Setup_DB_Server_Config_MSQL.htm">
+    <param name="Name" value="Подготовка сервера Microsoft SQL Server">
+    <param name="Local" value="03_DB_Server_Config/Setup_DB_Server_Config_MSQL.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Создание пользователя БД">
+    <param name="Name" value="Подготовка сервера Microsoft SQL Server">
+    <param name="Local" value="03_DB_Server_Config/Setup_DB_Server_Config_MSQL.htm">
+    <param name="Name" value="Подготовка сервера Oracle">
+    <param name="Local" value="03_DB_Server_Config/Setup_DB_Server_Config_Oracle.htm">
+    <param name="Name" value="Подготовка сервера PostgreSQL">
+    <param name="Local" value="03_DB_Server_Config/Postgres_server_preparation.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Microsoft SQL Server">
+    <param name="Name" value="Microsoft SQL Server">
+    <param name="Local" value="03_DB_Server_Config/Setup_DB_Server_Config_MSQL.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Oracle">
+    <param name="Name" value="Oracle">
+    <param name="Local" value="03_DB_Server_Config/Setup_DB_Server_Config_Oracle.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Настройка при доменной аутентификации">
+    <param name="Name" value="Дополнительные настройки Oracle">
+    <param name="Local" value="03_DB_Server_Config/Setup_DB_Server_Config_Oracle_Tuning.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="OS_AUTHENT_PREFIX">
+    <param name="Name" value="Дополнительные настройки Oracle">
+    <param name="Local" value="03_DB_Server_Config/Setup_DB_Server_Config_Oracle_Tuning.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Дополнительные настройки Oracle">
+    <param name="Name" value="Дополнительные настройки Oracle">
+    <param name="Local" value="03_DB_Server_Config/Setup_DB_Server_Config_Oracle_Tuning.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Splash Visible">
+    <param name="Name" value="Настройка репозиториев и автообновления из файла">
+    <param name="Local" value="Update/Tuner.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Db">
+    <param name="Name" value="Настройка репозиториев и автообновления из файла">
+    <param name="Local" value="Update/Tuner.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Update">
+    <param name="Name" value="Настройка репозиториев и автообновления из файла">
+    <param name="Local" value="Update/Tuner.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="SourceType">
+    <param name="Name" value="Настройка репозиториев и автообновления из файла">
+    <param name="Local" value="Update/Tuner.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Authentication">
+    <param name="Name" value="Настройка репозиториев и автообновления из файла">
+    <param name="Local" value="Update/Tuner.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="DebugMode">
+    <param name="Name" value="Настройка репозиториев и автообновления из файла">
+    <param name="Local" value="Update/Tuner.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Package">
+    <param name="Name" value="Настройка репозиториев и автообновления из файла">
+    <param name="Local" value="Update/Tuner.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Driver">
+    <param name="Name" value="Настройка репозиториев и автообновления из файла">
+    <param name="Local" value="Update/Tuner.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Настройка репозиториев">
+    <param name="Name" value="Настройка репозиториев и автообновления из файла">
+    <param name="Local" value="Update/Tuner.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Создание XML-файла">
+    <param name="Name" value="Настройка репозиториев и автообновления из файла">
+    <param name="Local" value="Update/Tuner.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Настройка автообновления из файла">
+    <param name="Name" value="Настройка репозиториев и автообновления из файла">
+    <param name="Local" value="Update/Tuner.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Настройка Oracle">
+    <param name="Name" value="Oracle">
+    <param name="Local" value="03_DB_Server_Config/Setup_DB_Server_Config_Oracle.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Ключ SingleInstance">
+    <param name="Name" value="Запуск комлекса из командной строки с использованием ключей">
+    <param name="Local" value="07_AK_Run_Additional/UseKeys.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Ключ Сustomparam">
+    <param name="Name" value="Запуск комлекса из командной строки с использованием ключей">
+    <param name="Local" value="07_AK_Run_Additional/UseKeys.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Обновление cfg.exe">
+    <param name="Name" value="Автоматическое обновление">
+    <param name="Local" value="Update/AutomaticUpdate.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Обновление инсталлятором">
+    <param name="Name" value="Обновление инсталлятором">
+    <param name="Local" value="Update/ManualUpdate.htm">
+    <param name="Name" value="Обновление платформы">
+    <param name="Local" value="Update/Update.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Обновление с помощью файла cfg.exe">
+    <param name="Name" value="Автоматическое обновление">
+    <param name="Local" value="Update/AutomaticUpdate.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="RepoMngr">
+    <param name="Name" value="Работа с менеджером репозитория">
+    <param name="Local" value="05_RepoMngr/Setup_RepoMngr_Work_Main.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Работа с менеджером репозитория">
+    <param name="Name" value="Работа с менеджером репозитория">
+    <param name="Local" value="05_RepoMngr/Setup_RepoMngr_Work_Main.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Пререквизиты">
+    <param name="Name" value="Список пререквизитов">
+    <param name="Local" value="01_SysReq/ISSetupPrerequisites.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Использование командной строки">
+    <param name="Name" value="Использование командной строки">
+    <param name="Local" value="07_AK_Run_Additional/UsingCommandLine.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Параметры репозитория">
+    <param name="Name" value="Настройка параметров репозитория">
+    <param name="Local" value="06_AK_Client_Config/UiNav_RepoConfig_repo1.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Копирование MSI-версии дистрибутива на сервер БД">
+    <param name="Name" value="Копирование MSI-версии дистрибутива на сервер БД">
+    <param name="Local" value="Update/CopyMSIDistr.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Менеджер лицензий">
+    <param name="Name" value="Менеджер лицензий">
+    <param name="Local" value="08_Licensing/RMS/Intro_LicMngr.htm">
+    <param name="Name" value="Менеджер лицензий">
+    <param name="Local" value="08_Licensing/RMS/Intro_LicenseManager.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Установка продукта «Форсайт. Аналитическая платформа»">
+    <param name="Name" value="Установка продукта «Форсайт. Аналитическая платформа»">
+    <param name="Local" value="02_AK_Install/Setup_AK_Install.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Автообновление">
+    <param name="Name" value="Обновление платформы">
+    <param name="Local" value="Update/Update.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="PPUPDATE">
+    <param name="Name" value="Создание пользователя PPUPDATE">
+    <param name="Local" value="Update/PPUPDATE.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Создание PPUPDATE на сервере MS SQL">
+    <param name="Name" value="Создание пользователя PPUPDATE">
+    <param name="Local" value="Update/PPUPDATE.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Создание пользователя PPUPDATE на сервере MS SQL">
+    <param name="Name" value="Создание пользователя PPUPDATE">
+    <param name="Local" value="Update/PPUPDATE.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Приложения в составе продукта «Форсайт. Аналитическая платформа»">
+    <param name="Name" value="Приложения в составе продукта «Форсайт. Аналитическая платформа»">
+    <param name="Local" value="05_RepoMngr/Setup_RepoMngr_Main.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="PP_CONTROL_SUMS_VISIBLE">
+    <param name="Name" value="Запуск дистрибутива с параметрами">
+    <param name="Local" value="01_SysReq/Setup_SysReq_Client_Printer.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Создание PPUPDATE на сервере Oracle">
+    <param name="Name" value="Создание пользователя PPUPDATE">
+    <param name="Local" value="Update/PPUPDATE.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Особенности обновления платформы">
+    <param name="Name" value="Особенности обновления">
+    <param name="Local" value="Update/UpdateFeature.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Обновление платформы">
+    <param name="Name" value="Обновление платформы">
+    <param name="Local" value="Update/Update.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Cfg">
+    <param name="Name" value="Запуск «Форсайт. Аналитическая платформа» с использованием ключей">
+    <param name="Local" value="07_AK_Run_Additional/UseKeys.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Запуск приложения с ключом">
+    <param name="Name" value="Запуск «Форсайт. Аналитическая платформа» с использованием ключей">
+    <param name="Local" value="07_AK_Run_Additional/UseKeys.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Разрегистрация библиотек платформы">
+    <param name="Name" value="Запуск «Форсайт. Аналитическая платформа» с использованием ключей">
+    <param name="Local" value="07_AK_Run_Additional/UseKeys.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Регистрация библиотек платформы">
+    <param name="Name" value="Запуск «Форсайт. Аналитическая платформа» с использованием ключей">
+    <param name="Local" value="07_AK_Run_Additional/UseKeys.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Запуск платформы из командной строки">
+    <param name="Name" value="Использование командной строки">
+    <param name="Local" value="07_AK_Run_Additional/UsingCommandLine.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Требования продукта «Форсайт. Аналитическая платформа» к системному окружению">
+    <param name="Name" value="Требования к системному окружению">
+    <param name="Local" value="01_SysReq/EnviromentRequirements.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="*.pptuner">
+    <param name="Name" value="Настройка репозиториев и автообновления из файла">
+    <param name="Local" value="Update/Tuner.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Install.pptuner">
+    <param name="Name" value="Настройка репозиториев и автообновления из файла">
+    <param name="Local" value="Update/Tuner.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="SQLite">
+    <param name="Name" value="Подготовка SQLite">
+    <param name="Local" value="03_DB_Server_Config/Config_SQLite.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Подготовка сервера PostgreSQL">
+    <param name="Name" value="Подготовка сервера PostgreSQL">
+    <param name="Local" value="03_DB_Server_Config/Postgres_server_preparation.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="PostgreSQL">
+    <param name="Name" value="Подготовка сервера PostgreSQL">
+    <param name="Local" value="03_DB_Server_Config/Postgres_server_preparation.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Поиск">
+    <param name="See Also" value="Поиск">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Полнотекстовый">
+      <param name="Name" value="Установка сервиса BI-поиска">
+      <param name="Local" value="BISearch/BISearch_Setup.htm">
+    </object>
+    </ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="СУБД">
+    <param name="Name" value="Поддерживаемые СУБД">
+    <param name="Local" value="01_SysReq/database_Support.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Сервер лицензий">
+    <param name="Name" value="Сервер лицензий и особенности его использования">
+    <param name="Local" value="08_Licensing/RMS/LicenseServer.htm">
+    <param name="Name" value="Сервер лицензий Guardant и особенности его использования">
+    <param name="Local" value="08_Licensing/Guardant/License_Server_Guardant.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Требования к серверу лицензий">
+    <param name="Name" value="Сервер лицензий и особенности его использования#System_Requirements">
+    <param name="Local" value="08_Licensing/RMS/LicenseServer.htm#system_requirements">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Обновление лицензии">
+    <param name="Name" value="Сервер лицензий и особенности его использования#UpdatingLicense">
+    <param name="Local" value="08_Licensing/RMS/LicenseServer.htm#updatinglicense">
+    <param name="Name" value="Обновление лицензии при наличии доступа к сети Интернет">
+    <param name="Local" value="08_Licensing/Guardant/License_Update_Internet_Access.htm">
+    <param name="Name" value="Обновление лицензии при отсутствии доступа к сети Интернет">
+    <param name="Local" value="08_Licensing/Guardant/License_Update_Internet_Access_Denied.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Объединение лицензии">
+    <param name="Name" value="Сервер лицензий и особенности его использования#MergingLicenses">
+    <param name="Local" value="08_Licensing/RMS/LicenseServer.htm#merginglicenses">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Проверка сервера лицензий">
+    <param name="Name" value="Сервер лицензий и особенности его использования#VerifyingOperability">
+    <param name="Local" value="08_Licensing/RMS/LicenseServer.htm#verifyingoperability">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="FP9Full_x64.exe">
+    <param name="Name" value="Комплект поставки продукта «Форсайт.&#160;Аналитическая платформа»">
+    <param name="Local" value="02_AK_Install/DistributionKit.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="FP9Full_x86.exe">
+    <param name="Name" value="Комплект поставки продукта «Форсайт.&#160;Аналитическая платформа»">
+    <param name="Local" value="02_AK_Install/DistributionKit.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="FP9Help_EN.msi">
+    <param name="Name" value="Комплект поставки продукта «Форсайт.&#160;Аналитическая платформа»">
+    <param name="Local" value="02_AK_Install/DistributionKit.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="FP9Help_RU.msi">
+    <param name="Name" value="Комплект поставки продукта «Форсайт.&#160;Аналитическая платформа»">
+    <param name="Local" value="02_AK_Install/DistributionKit.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="FP9Standard_x64.exe">
+    <param name="Name" value="Комплект поставки продукта «Форсайт.&#160;Аналитическая платформа»">
+    <param name="Local" value="02_AK_Install/DistributionKit.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="FP9Standard_x86.exe">
+    <param name="Name" value="Комплект поставки продукта «Форсайт.&#160;Аналитическая платформа»">
+    <param name="Local" value="02_AK_Install/DistributionKit.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="FP9WebServer.exe">
+    <param name="Name" value="Комплект поставки продукта «Форсайт.&#160;Аналитическая платформа»">
+    <param name="Local" value="02_AK_Install/DistributionKit.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Слепок компьютера">
+    <param name="Name" value="Получение «слепка» компьютера">
+    <param name="Local" value="08_Licensing/RMS/LockingCode.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Linux">
+    <param name="Name" value="Поддерживаемые версии ОС Linux">
+    <param name="Local" value="UiWebSetup/02_SystemReq/system_requirments_Linux.htm">
+    <param name="Name" value="Установка веб-приложения на ОС Linux">
+    <param name="Local" value="UiWebSetup/Install_Web_on_Linux.htm">
+    <param name="Name" value="Создание служебного пользователя: Linux">
+    <param name="Local" value="05_RepoMngr/Linux/Setup_RepoMngr_Service_User_Linux.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Гостевой вход">
+    <param name="Name" value="Настройка гостевого входа">
+    <param name="Local" value="UiWebSetup/Authentication/Guest_login.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Подключение служб IIS">
+    <param name="Name" value="Подключение служб IIS">
+    <param name="Local" value="UiWebSetup/03_Setup_Web/IIS_turn_on.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Установка и настройка BI-сервера">
+    <param name="Name" value="Установка BI-сервера">
+    <param name="Local" value="UiWebSetup/UiWebSetup_TitlePage.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Ограничения при работе с BI-сервером на Linux">
+    <param name="Name" value="Ограничения при работе с BI-сервером на Linux">
+    <param name="Local" value="UiWebSetup/03_Setup_Web/Linux_constraints.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="The page cannot be displayed because an internal server error has occurred">
+    <param name="Name" value="Проблемы при настройке веб-приложения «Форсайт. Аналитическая платформа» на веб-сервере ASP.NET">
+    <param name="Local" value="UiWebSetup/04_FAQ/ProblemPP.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Установка BI-сервера в ОС Linux">
+    <param name="Name" value="Установка BI-сервера в ОС Linux">
+    <param name="Local" value="UiWebSetup/Install_Web_on_Linux.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Debian-подобные дистрибутивы">
+      <param name="Name" value="Установка в Debian-подобных дистрибутивах">
+      <param name="Local" value="UiWebSetup/03_Setup_Web/Debian/Install_BI_server_to_Debian.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="RedHat-подобные дистрибутивы">
+      <param name="Name" value="Установка и настройка BI-сервера на RedHat-подобные дистрибутивы">
+      <param name="Local" value="UiWebSetup/03_Setup_Web/Setup_Linux.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="ALT Linux">
+      <param name="Name" value="Установка BI-сервера на ОС ALT Linux">
+      <param name="Local" value="UiWebSetup/03_Setup_Web/Install_BI_ALT_Linux.htm">
+    </object>
+    </ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Реестр">
+    <param name="Name" value="Ключи в реестре">
+    <param name="Local" value="UiWebSetup/03_Setup_Web/BI_Server_Registry_Key.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Настройки в системном реестре">
+    <param name="Name" value="Ключи в реестре">
+    <param name="Local" value="UiWebSetup/03_Setup_Web/BI_Server_Registry_Key.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Добавление роли сервера">
+    <param name="Name" value="Добавление роли «Веб-сервер»">
+    <param name="Local" value="UiWebSetup/03_Setup_Web/Add_WebServer_Role.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Перезапуск BI-сервера">
+    <param name="Name" value="Как перезапустить BI-сервер?">
+    <param name="Local" value="UiWebSetup/01_BIServer/bi-service_restart.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Как перезапустить BI-сервер?">
+    <param name="Name" value="Как перезапустить BI-сервер?">
+    <param name="Local" value="UiWebSetup/01_BIServer/bi-service_restart.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Проверка работы BI-сервера">
+    <param name="Name" value="Проверка работы BI-сервера">
+    <param name="Local" value="UiWebSetup/01_BIServer/CheckBIServices.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Access denied">
+    <param name="Name" value="Проблемы при настройке веб-приложения «Форсайт. Аналитическая платформа» на веб-сервере ASP.NET">
+    <param name="Local" value="UiWebSetup/04_FAQ/ProblemPP.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="PP.xml">
+    <param name="Name" value="Базовые настройки веб-приложения">
+    <param name="Local" value="UiWebSetup/03_Setup_Web/PP_config_Java.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="settings.xml">
+    <param name="Name" value="Настройки в settings.xml: Структура">
+    <param name="Local" value="UiWebSetup/03_Setup_Web/BI_Server_Settings_XML.htm">
+    <param name="Name" value="Настройка BI-сервера">
+    <param name="Local" value="UiWebSetup/03_Setup_Web/BI_Server_Settings.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Настройка BI-сервера">
+    <param name="Name" value="Настройка BI-сервера">
+    <param name="Local" value="UiWebSetup/03_Setup_Web/BI_Server_Settings.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Ключи в реестре">
+      <param name="Name" value="Ключи в реестре">
+      <param name="Local" value="UiWebSetup/03_Setup_Web/BI_Server_Registry_Key.htm">
+    </object>
+    </ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Сервер состояний">
+    <param name="Name" value="Сервер состояний">
+    <param name="Local" value="UiWebSetup/01_BIServer/StateServer/State_Server.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Redis">
+      <param name="Name" value="Redis: Сервер состояний">
+      <param name="Local" value="UiWebSetup/01_BIServer/StateServer/Redis.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Memcached">
+      <param name="Name" value="Memcached: Сервер состояний">
+      <param name="Local" value="UiWebSetup/01_BIServer/StateServer/Memcached.htm">
+    </object>
+    </ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Redis">
+    <param name="Name" value="Redis: Сервер состояний">
+    <param name="Local" value="UiWebSetup/01_BIServer/StateServer/Redis.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Memcached">
+    <param name="Name" value="Memcached: Сервер состояний">
+    <param name="Local" value="UiWebSetup/01_BIServer/StateServer/Memcached.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="BI-сервер">
+    <param name="Name" value="Установка BI-сервера">
+    <param name="Local" value="UiWebSetup/UiWebSetup_TitlePage.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Кластер BI-серверов">
+      <param name="Name" value="Создание кластера BI-серверов">
+      <param name="Local" value="UiWebSetup/01_BIServer/Cluster/Cluster_Of_BI_Server.htm">
+    </object>
+    </ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Кластер BI-серверов">
+    <param name="Name" value="Создание кластера BI-серверов">
+    <param name="Local" value="UiWebSetup/01_BIServer/Cluster/Cluster_Of_BI_Server.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Рекомендации по созданию кластера BI-серверов">
+      <param name="Name" value="Рекомендации по созданию кластера BI-серверов">
+      <param name="Local" value="UiWebSetup/01_BIServer/Cluster/general_recommendations.htm">
+    </object>
+    </ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="OAuth">
+    <param name="Name" value="Настройка входа через внешние сервисы">
+    <param name="Local" value="UiWebSetup/Authentication/login_settings_using_external_services.htm">
+    <param name="Name" value="OAuth 2.0 или OpenID Connect">
+    <param name="Local" value="UiWebSetup/Authentication/OAuth_OpenID_Connect.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Установка серверной части веб-приложения на IIS">
+    <param name="Name" value="Установка серверной части веб-приложения на IIS">
+    <param name="Local" value="UiWebSetup/03_Setup_Web/WebSetup_Setup.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Установка серверной части веб-приложения на Java">
+    <param name="Name" value="Установка серверной части веб-приложения на Java веб-сервер">
+    <param name="Local" value="UiWebSetup/03_Setup_Web/Java_WebApp.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Настройка подключения к репозиторию">
+    <param name="Name" value="Настройка параметров репозитория">
+    <param name="Local" value="06_AK_Client_Config/UiNav_RepoConfig_repo1.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Доменная аутентификация">
+    <param name="Name" value="Настройка доменной аутентификации на IIS">
+    <param name="Local" value="UiWebSetup/Authentication/UiWebSetup_FAQ_1_DomainAuthorization.htm">
+    <param name="Name" value="Настройка доменной/интегрированной доменной аутентификацией при работе с Apache Tomcat">
+    <param name="Local" value="UiWebSetup/Authentication/setting_domain_on_tomcat.htm">
+    <param name="Name" value="Настройка доменной аутентификации в Debian-подобных дистрибутивах">
+    <param name="Local" value="UiWebSetup/Authentication/Domain_Authentication_Apache.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Поиск и индексирование">
+    <param name="Name" value="Настройка настольного приложения">
+    <param name="Local" value="BISearch/Desktop_application_setting.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Настройка подключения к прокси-серверу">
+    <param name="Name" value="Настройка подключения к прокси-серверу: Linux">
+    <param name="Local" value="UiWebSetup/03_Setup_Web/General_for_linux/Proxy.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Пул соединений">
+    <param name="Name" value="Пул соединений: BI-сервер">
+    <param name="Local" value="UiWebSetup/01_BIServer/PoolConnections.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Единица лицензирования">
+    <param name="Name" value="Активация платформы">
+    <param name="Local" value="08_Licensing/Admin_Licensing.htm">
+    <param name="Name" value="О единицах лицензирования продукта «Форсайт.&#160;Аналитическая платформа»">
+    <param name="Local" value="08_Licensing/AboutFeatures.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Проверка лицензии">
+    <param name="Name" value="Порядок проверки лицензии">
+    <param name="Local" value="08_Licensing/License_Check.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Прикладные единицы лицензирования">
+    <param name="Name" value="Лицензирование прикладных систем">
+    <param name="Local" value="08_Licensing/ApplicationSystemLicensing.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Автономная лицензия">
+    <param name="Name" value="О типе и времени действия лицензии">
+    <param name="Local" value="08_Licensing/Admin_Licensing_Variants.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Временная лицензия">
+    <param name="Name" value="О типе и времени действия лицензии">
+    <param name="Local" value="08_Licensing/Admin_Licensing_Variants.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Постоянная лицензия">
+    <param name="Name" value="О типе и времени действия лицензии">
+    <param name="Local" value="08_Licensing/Admin_Licensing_Variants.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Настройка поиска лицензий">
+    <param name="Name" value="Настройки поиска лицензии">
+    <param name="Local" value="08_Licensing/RMS/Intro_LicMngr_SearchLic.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Windows">
+      <param name="Name" value="Windows: настройка поиска лицензий">
+      <param name="Local" value="08_Licensing/RMS/Intro_LicMngr_SearchLic.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Linux">
+      <param name="Name" value="Linux: настройка поиска лицензий">
+      <param name="Local" value="08_Licensing/RMS/LicensingLinux.htm">
+    </object>
+    </ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Единицы лицензирования">
+    <param name="Name" value="О единицах лицензирования  продукта «Форсайт.&#160;Аналитическая платформа»">
+    <param name="Local" value="08_Licensing/AboutFeatures.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="AnalyticsPlatform">
+      <param name="Name" value="О единицах лицензирования продукта">
+      <param name="Local" value="08_Licensing/AboutFeatures.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="PP_DWDesigner">
+      <param name="Name" value="О единицах лицензирования продукта">
+      <param name="Local" value="08_Licensing/AboutFeatures.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="PP_Adm">
+      <param name="Name" value="О единицах лицензирования продукта">
+      <param name="Local" value="08_Licensing/AboutFeatures.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="PP_DashboardViewer">
+      <param name="Name" value="О единицах лицензирования продукта">
+      <param name="Local" value="08_Licensing/AboutFeatures.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="PP_DashboardEditor">
+      <param name="Name" value="О единицах лицензирования продукта">
+      <param name="Local" value="08_Licensing/AboutFeatures.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="PP_ETL">
+      <param name="Name" value="О единицах лицензирования продукта">
+      <param name="Local" value="08_Licensing/AboutFeatures.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="PP_OLAP">
+      <param name="Name" value="О единицах лицензирования продукта">
+      <param name="Local" value="08_Licensing/AboutFeatures.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="PP_ReportViewer">
+      <param name="Name" value="О единицах лицензирования продукта">
+      <param name="Local" value="08_Licensing/AboutFeatures.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="PP_ReportEditor">
+      <param name="Name" value="О единицах лицензирования продукта">
+      <param name="Local" value="08_Licensing/AboutFeatures.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="PP_TimeSeries">
+      <param name="Name" value="О единицах лицензирования продукта">
+      <param name="Local" value="08_Licensing/AboutFeatures.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="PP_Modeling">
+      <param name="Name" value="О единицах лицензирования продукта">
+      <param name="Local" value="08_Licensing/AboutFeatures.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="PP_Scheduler">
+      <param name="Name" value="О единицах лицензирования продукта">
+      <param name="Local" value="08_Licensing/AboutFeatures.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="PP_SelfService">
+      <param name="Name" value="О единицах лицензирования продукта">
+      <param name="Local" value="08_Licensing/AboutFeatures.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="PP_Stat">
+      <param name="Name" value="О единицах лицензирования продукта">
+      <param name="Local" value="08_Licensing/AboutFeatures.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="PP_DevEnv">
+      <param name="Name" value="О единицах лицензирования продукта">
+      <param name="Local" value="08_Licensing/AboutFeatures.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="PP_ExcelAddin">
+      <param name="Name" value="О единицах лицензирования продукта">
+      <param name="Local" value="08_Licensing/AboutFeatures.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="PP_WordAddin">
+      <param name="Name" value="О единицах лицензирования продукта">
+      <param name="Local" value="08_Licensing/AboutFeatures.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="PP_PowerPointAddin">
+      <param name="Name" value="О единицах лицензирования продукта">
+      <param name="Local" value="08_Licensing/AboutFeatures.htm">
+    </object>
+    </ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Настройка списка репозиториев">
+    <param name="Name" value="Настройка списка репозиториев">
+    <param name="Local" value="06_AK_Client_Config/Configuring_repository_list_in_the_system_registry.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Работа со списком репозиториев в настольном приложении">
+    <param name="Name" value="Работа со списком репозиториев в настольном приложении">
+    <param name="Local" value="06_AK_Client_Config/UiNav_RepoConfig.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Установка BI-сервера на ALT Linux">
+    <param name="Name" value="Установка BI-сервера на ALT Linux">
+    <param name="Local" value="UiWebSetup/03_Setup_Web/Install_BI_ALT_Linux.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ALT Linux">
+    <param name="Name" value="Установка BI-сервера на ALT Linux">
+    <param name="Local" value="UiWebSetup/03_Setup_Web/Install_BI_ALT_Linux.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Установка веб-приложения на ОС Linux">
+    <param name="Name" value="Установка веб-приложения на ОС Linux">
+    <param name="Local" value="UiWebSetup/Install_Web_on_Linux.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Установка веб-приложения на ОС Windows">
+    <param name="Name" value="Установка веб-приложения на ОС Windows">
+    <param name="Local" value="UiWebSetup/Install_Web_on_Windows.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Windows">
+    <param name="Name" value="Установка веб-приложения на ОС Windows">
+    <param name="Local" value="UiWebSetup/Install_Web_on_Windows.htm">
+    <param name="Name" value="Создание служебного пользователя: Windows">
+    <param name="Local" value="05_RepoMngr/Setup_RepoMngr_Service_User.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Информация о результатах поиска лицензии">
+    <param name="Name" value="Информация о результатах поиска лицензии">
+    <param name="Local" value="08_Licensing/RMS/Intro_LicMngr_Info.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Поддержка работы в виртуальных средах">
+    <param name="Name" value="Поддержка работы в виртуальных средах">
+    <param name="Local" value="01_SysReq/virtualization_platform.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Настройка интерфейса окна регистрации">
+    <param name="Name" value="Настройка интерфейса окна регистрации">
+    <param name="Local" value="06_AK_Client_Config/Setup_ClientConfig.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Установка расширений">
+    <param name="Name" value="Установка расширений «Форсайт.&#160;Аналитическая платформа»">
+    <param name="Local" value="Extensions/install_or_update_extensions.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="DBA.config.json">
+    <param name="Name" value="Настройка конфигурации конструктора бизнес-приложений">
+    <param name="Local" value="Extensions/Configuration_Designer_of_Business_Applications.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Установка и настройка «Форсайт.&#160;Аналитическая платформа»">
+    <param name="Name" value="Установка и настройка «Форсайт.&#160;Аналитическая платформа»">
+    <param name="Local" value="Setup_TitlePage.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Автоматическое обновление">
+    <param name="Name" value="Автоматическое обновление">
+    <param name="Local" value="Update/AutomaticUpdate.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Обновление с сервера БД">
+    <param name="Name" value="Автоматическое обновление">
+    <param name="Local" value="Update/AutomaticUpdate.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Обновление из папки">
+    <param name="Name" value="Автоматическое обновление">
+    <param name="Local" value="Update/AutomaticUpdate.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="MSI-версия дистрибутива">
+    <param name="Name" value="Копирование MSI-версии дистрибутива на сервер БД">
+    <param name="Local" value="Update/CopyMSIDistr.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Метка">
+    <param name="Name" value="Копирование MSI-версии дистрибутива на сервер БД">
+    <param name="Local" value="Update/CopyMSIDistr.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Обновление с помощью файла">
+    <param name="Name" value="Обновление платформы">
+    <param name="Local" value="Update/Update.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Создание PPUPDATE">
+    <param name="Name" value="Создание пользователя PPUPDATE">
+    <param name="Local" value="Update/PPUPDATE.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Таймауты работы">
+    <param name="Name" value="Настройка таймаутов работы">
+    <param name="Local" value="UiWebSetup/03_Setup_Web/setting_the_timeout.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Настройка таймаутов работы">
+    <param name="Name" value="Настройка таймаутов работы">
+    <param name="Local" value="UiWebSetup/03_Setup_Web/setting_the_timeout.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Защита прикладных систем">
+    <param name="Name" value="Защита прикладных систем">
+    <param name="Local" value="08_Licensing/ApplicationSystemLicensing.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Настройка веб-приложения для работы через HTTPS">
+    <param name="Name" value="Настройка веб-приложения для работы через HTTPS">
+    <param name="Local" value="UiWebSetup/04_FAQ/setting_https.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Открытие веб-приложения">
+    <param name="Name" value="Открытие веб-приложения">
+    <param name="Local" value="UiWebSetup/03_Setup_Web/Opening_Web_Application.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Подготовка к печати">
+    <param name="Name" value="Подготовка к печати: Linux">
+    <param name="Local" value="UiWebSetup/03_Setup_Web/preparing_for_printing.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Печать">
+    <param name="Name" value="Подготовка к печати: Linux">
+    <param name="Local" value="UiWebSetup/03_Setup_Web/preparing_for_printing.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="nginx">
+    <param name="Name" value="Создание кластера BI-серверов">
+    <param name="Local" value="UiWebSetup/01_BIServer/Cluster/Cluster_Of_BI_Server.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Серверная часть веб-приложения">
+    <param name="Name" value="Установка и настройка серверной части веб-приложения">
+    <param name="Local" value="UiWebSetup/03_Setup_Web/Web_server_setup.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Создание репозитория">
+    <param name="Name" value="Создание репозитория метаданных: Linux">
+    <param name="Local" value="05_RepoMngr/Linux/Setup_CreateRepo_Linux.htm">
+    <param name="Name" value="Создание репозитория метаданных: Windows">
+    <param name="Local" value="05_RepoMngr/Setup_RepoMngr_CreateRepo.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="На сервере PostgreSQL">
+      <param name="Name" value="Создание репозитория метаданных на сервере PostgreSQL: Linux">
+      <param name="Local" value="05_RepoMngr/Linux/CreateRepo_Linux_Postgre.htm">
+    </object>
+    </ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Создание служебного пользователя: Windows">
+    <param name="Name" value="Создание служебного пользователя: Windows">
+    <param name="Local" value="05_RepoMngr/Setup_RepoMngr_Service_User.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Создание служебного пользователя: Linux">
+    <param name="Name" value="Создание служебного пользователя: Linux">
+    <param name="Local" value="05_RepoMngr/Linux/Setup_RepoMngr_Service_User_Linux.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="служебный пользователь">
+    <param name="Name" value="Создание служебного пользователя: Linux">
+    <param name="Local" value="05_RepoMngr/Linux/Setup_RepoMngr_Service_User_Linux.htm">
+    <param name="Name" value="Создание служебного пользователя: Windows">
+    <param name="Local" value="05_RepoMngr/Setup_RepoMngr_Service_User.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Установка и настройка BI-сервера на RedHat-подобные дистрибутивы">
+    <param name="Name" value="Установка и настройка BI-сервера на RedHat-подобные дистрибутивы">
+    <param name="Local" value="UiWebSetup/03_Setup_Web/Setup_Linux.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="PP.Util">
+    <param name="Name" value="PP.Util">
+    <param name="Local" value="05_RepoMngr/Service_Applications/PP_Util.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Установка веб-приложения «Форсайт. Аналитическая платформа» в ОС Linux (СУБД PostgreSQL)">
+    <param name="Name" value="Установка веб-приложения «Форсайт. Аналитическая платформа» в ОС Linux (СУБД PostgreSQL)">
+    <param name="Local" value="UiWebSetup/Install_Web_on_Linux_PostgreSQL.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Повышение производительности">
+    <param name="Name" value="Рекомендации по повышению производительности">
+    <param name="Local" value="01_SysReq/Performance_Recommendations.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Рукомендации по повышению производительности">
+    <param name="Name" value="Рекомендации по повышению производительности">
+    <param name="Local" value="01_SysReq/Performance_Recommendations.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Производительность">
+    <param name="Name" value="Рекомендации по повышению производительности">
+    <param name="Local" value="01_SysReq/Performance_Recommendations.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Настройка конфигурации веб-приложения">
+    <param name="Name" value="Настройка конфигурации веб-приложения">
+    <param name="Local" value="UiWebSetup/03_Setup_Web/PP_config_Java.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="config.json">
+    <param name="Name" value="Настройка конфигурации веб-приложения">
+    <param name="Local" value="UiWebSetup/03_Setup_Web/PP_config_Java.htm">
+    <param name="Name" value="Настройка конфигурации конструктора бизнес-приложений">
+    <param name="Local" value="Extensions/Configuration_Designer_of_Business_Applications.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Установка серверной части веб-приложения на Apache2">
+    <param name="Name" value="Установка серверной части веб-приложения на Apache2">
+    <param name="Local" value="UiWebSetup/03_Setup_Web/ApacheWebApp/Apache_WebApp.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="ALT Linux">
+      <param name="Name" value="Установка серверной части веб-приложения на Apache2">
+      <param name="Local" value="UiWebSetup/03_Setup_Web/ApacheWebApp/Apache_WebApp.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="РЕД ОС">
+      <param name="Name" value="Установка серверной части веб-приложения на Apache2">
+      <param name="Local" value="UiWebSetup/03_Setup_Web/ApacheWebApp/Apache_WebApp.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Astra Linux">
+      <param name="Name" value="Установка серверной части веб-приложения на Apache2">
+      <param name="Local" value="UiWebSetup/03_Setup_Web/ApacheWebApp/Apache_WebApp.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Rocky Linux">
+      <param name="Name" value="Установка серверной части веб-приложения на Apache2">
+      <param name="Local" value="UiWebSetup/03_Setup_Web/ApacheWebApp/Apache_WebApp.htm">
+    </object>
+    </ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Ручная установка и настройка Apache2 для доступа к ресурсам веб-приложения">
+    <param name="Name" value="Ручная установка и настройка Apache2 для доступа к ресурсам веб-приложения">
+    <param name="Local" value="UiWebSetup/03_Setup_Web/configure_apache.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Astra Linux">
+      <param name="Name" value="Настройка Apache2 для доступа к ресурсам веб-приложения на ОС Astra Linux">
+      <param name="Local" value="UiWebSetup/03_Setup_Web/Astra_Linux/configure_apache_to_access_resources_web_pp.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="RedHat-подобные дистрибутивы">
+      <param name="Name" value="Настройка Apache2 для доступа к ресурсам веб-приложения на RedHat-подобные дистрибутивы">
+      <param name="Local" value="UiWebSetup/03_Setup_Web/RHEL/configure_apache_to_access_resources_web_pp.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="ALT Linux">
+      <param name="Name" value="Настройка Apache2 для доступа к ресурсам веб-приложения на ОС ALT Linux">
+      <param name="Local" value="UiWebSetup/03_Setup_Web/ALT_Linux/Configure_Apache_to_Access_Resources_Web_ALT_Linux.htm">
+    </object>
+    </ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="UpdateManager">
+    <param name="Name" value="UpdateManager">
+    <param name="Local" value="05_RepoMngr/Service_Applications/UpdateManager.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Настройка веб-приложения для работы в браузере Chromium-Gost">
+    <param name="Name" value="Настройка веб-приложения для работы в браузере Chromium-Gost">
+    <param name="Local" value="UiWebSetup/04_FAQ/Setting_Web_ChromiumGost.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Chromium-Gost">
+    <param name="Name" value="Настройка веб-приложения для работы в браузере Chromium-Gost">
+    <param name="Local" value="UiWebSetup/04_FAQ/Setting_Web_ChromiumGost.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Настройка текущего репозитория">
+    <param name="Name" value="Настройка текущего репозитория">
+    <param name="Local" value="06_AK_Client_Config/Current_Repository_Settings.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Установка веб-приложения">
+    <param name="Name" value="Установка веб-приложения">
+    <param name="Local" value="UiWebSetup/Web_Application_Installation.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Управление отображением кнопки «Настройка» в окне регистрации">
+    <param name="Name" value="Управление отображением кнопки «Настройка» в окне регистрации">
+    <param name="Local" value="06_AK_Client_Config/Setup_SysReq_Client.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="OpenID Connect">
+    <param name="Name" value="Настройка входа через внешние сервисы">
+    <param name="Local" value="UiWebSetup/Authentication/login_settings_using_external_services.htm">
+    <param name="Name" value="OAuth 2.0 или OpenID Connect">
+    <param name="Local" value="UiWebSetup/Authentication/OAuth_OpenID_Connect.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Настройка аутентификации на сервере состояний">
+    <param name="Name" value="Настройка аутентификации на сервере состояний">
+    <param name="Local" value="UiWebSetup/01_BIServer/StateServer/Settings_Authentication_State_Server.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="HAProxy">
+    <param name="Name" value="Настройка балансировщика HAProxy для работы веб-форм">
+    <param name="Local" value="UiWebSetup/01_BIServer/Cluster/HAProxy_settings.htm">
+    <param name="Name" value="Создание кластера BI-серверов">
+    <param name="Local" value="UiWebSetup/01_BIServer/Cluster/Cluster_Of_BI_Server.htm">
+    <param name="Name" value="Настройка балансировщика HAProxy при использовании сервиса лицензирования">
+    <param name="Local" value="UiWebSetup/01_BIServer/Cluster/License_HAProxy_Settings.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="HTTPS">
+      <param name="Name" value="Настройка балансировщика HAProxy для работы по протоколу HTTPS при использовании">
+      <param name="Local" value="UiWebSetup/01_BIServer/Cluster/HAProxy_WebForms_by_https.htm">
+    </object>
+    </ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Обновление веб-приложения в ОС Linux">
+    <param name="Name" value="Обновление веб-приложения в ОС Linux">
+    <param name="Local" value="Update/Update_Web_Application_Linux.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Создание правила авторизации для пользователей веб-приложения">
+    <param name="Name" value="Создание правила авторизации для пользователей веб-приложения">
+    <param name="Local" value="UiWebSetup/04_FAQ/Create_Authorization_Rule.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Дополнительные настройки балансировщика">
+    <param name="Name" value="Дополнительные настройки балансировщика на работу с BI-серверами">
+    <param name="Local" value="UiWebSetup/04_FAQ/Balancer_Additional_Settings.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Настройки балансировщика">
+    <param name="Name" value="Дополнительные настройки балансировщика на работу с BI-серверами">
+    <param name="Local" value="UiWebSetup/04_FAQ/Balancer_Additional_Settings.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Настройка доменной аутентификации">
+    <param name="Name" value="Настройка доменной аутентификации на веб-сервере Apache2">
+    <param name="Local" value="UiWebSetup/Authentication/Domain_Authentication_Apache.htm">
+    <param name="Name" value="Настройка доменной/интегрированной доменной аутентификации на веб-сервере IIS">
+    <param name="Local" value="UiWebSetup/Authentication/UiWebSetup_FAQ_1_DomainAuthorization.htm">
+    <param name="Name" value="Настройка доменной/интегрированной доменной аутентификации на веб-сервере Java">
+    <param name="Local" value="UiWebSetup/Authentication/setting_domain_on_tomcat.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Настройка аутентификации через внешние сервисы">
+    <param name="Name" value="Настройка аутентификации через внешние сервисы">
+    <param name="Local" value="UiWebSetup/Authentication/login_settings_using_external_services.htm">
+    <param name="Name" value="JWT">
+    <param name="Local" value="UiWebSetup/Authentication/JWT.htm">
+    <param name="Name" value="OAuth 2.0 или OpenID Connect">
+    <param name="Local" value="UiWebSetup/Authentication/OAuth_OpenID_Connect.htm">
+    <param name="Name" value="HTTP-заголовки">
+    <param name="Local" value="UiWebSetup/Authentication/HTTPHeaders.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Настройка гостевого входа">
+    <param name="Name" value="Настройка гостевого входа в платформу">
+    <param name="Local" value="UiWebSetup/Authentication/Guest_login.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Интегрированная доменная аутентификация">
+    <param name="Name" value="Настройка доменной/интегрированной доменной аутентификации на веб-сервере Apache2">
+    <param name="Local" value="UiWebSetup/Authentication/Domain_Authentication_Apache.htm">
+    <param name="Name" value="Настройка доменной/интегрированной доменной аутентификации на веб-сервере IIS">
+    <param name="Local" value="UiWebSetup/Authentication/UiWebSetup_FAQ_1_DomainAuthorization.htm">
+    <param name="Name" value="Настройка доменной/интегрированной доменной аутентификации на веб-сервере Java">
+    <param name="Local" value="UiWebSetup/Authentication/setting_domain_on_tomcat.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Настройка интегрированной доменной аутентификации">
+    <param name="Name" value="Настройка доменной/интегрированной доменной аутентификации на веб-сервере Apache2">
+    <param name="Local" value="UiWebSetup/Authentication/Domain_Authentication_Apache.htm">
+    <param name="Name" value="Настройка доменной/интегрированной доменной аутентификации на веб-сервере IIS">
+    <param name="Local" value="UiWebSetup/Authentication/UiWebSetup_FAQ_1_DomainAuthorization.htm">
+    <param name="Name" value="Настройка доменной/интегрированной доменной аутентификации на веб-сервере Java">
+    <param name="Local" value="UiWebSetup/Authentication/setting_domain_on_tomcat.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Сервис лицензирования">
+    <param name="Name" value="Сервис лицензирования и особенности его использования">
+    <param name="Local" value="08_Licensing/Service/Licensing_Service.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Установка справочной системы">
+    <param name="Name" value="Установка справочной системы">
+    <param name="Local" value="02_AK_Install/Installing_help_system.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Настройки в settings.xml">
+    <param name="Name" value="Настройки в settings.xml">
+    <param name="Local" value="UiWebSetup/03_Setup_Web/BI_Server_Settings_XML.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Встроенная авторизация">
+    <param name="Name" value="Настройка встроенной авторизации">
+    <param name="Local" value="UiWebSetup/Authentication/Integrated_Authorization.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Настройка встроенной авторизации">
+    <param name="Name" value="Настройка встроенной авторизации">
+    <param name="Local" value="UiWebSetup/Authentication/Integrated_Authorization.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Загрузка пользовательских шрифтов">
+    <param name="Name" value="Загрузка пользовательских шрифтов">
+    <param name="Local" value="UiWebSetup/03_Setup_Web/General_for_linux/Loading_Custom_Fonts.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Пользовательский шрифт">
+    <param name="Name" value="Загрузка пользовательских шрифтов">
+    <param name="Local" value="UiWebSetup/03_Setup_Web/General_for_linux/Loading_Custom_Fonts.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Создание пользовательской темы веб-приложения">
+    <param name="Name" value="Создание пользовательской темы веб-приложения">
+    <param name="Local" value="UiWebSetup/04_FAQ/Create_Custom_Web_Application_Theme.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Серверная часть конструктора бизнес-приложений">
+    <param name="Name" value="Серверная часть конструктора бизнес-приложений">
+    <param name="Local" value="Extensions/Backend_Designer_of_Business_Applications.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Установка серверной части конструктора бизнес-приложений на Apache2">
+    <param name="Name" value="Установка серверной части конструктора бизнес-приложений на Apache2">
+    <param name="Local" value="Extensions/Apache2/Install_Backend_Designer_of_Business_Applications_Apache.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Ручная установка и настройка Apache2 для доступа к конструктору бизнес-приложений">
+    <param name="Name" value="Ручная установка и настройка Apache2 для доступа к конструктору бизнес-приложений">
+    <param name="Local" value="Extensions/Apache2/Manual_Install_Designer_of_Business_Applications_Apache.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Настройка Apache2 для доступа к ресурсам конструктора бизнес-приложений на Debian-подобных">
+    <param name="Name" value="Настройка Apache2 для доступа к ресурсам конструктора бизнес-приложений на Debian-подобных">
+    <param name="Local" value="Extensions/Apache2/Configure_Apache_HTTP_Server_DBA_Debian.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Настройка Apache2 для доступа к ресурсам конструктора бизнес-приложений на RedHat-подобных">
+    <param name="Name" value="Настройка Apache2 для доступа к ресурсам конструктора бизнес-приложений на RedHat-подобных">
+    <param name="Local" value="Extensions/Apache2/Configure_Apache_HTTP_Server_DBA_RHEL.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Настройка Apache2 для доступа к ресурсам конструктора бизнес-приложений на ОС ALT">
+    <param name="Name" value="Настройка Apache2 для доступа к ресурсам конструктора бизнес-приложений на ОС ALT">
+    <param name="Local" value="Extensions/Apache2/Configure_Apache_HTTP_Server_DBA_ALT_Linux.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Установка серверной части конструктора бизнес-приложений на IIS">
+    <param name="Name" value="Установка серверной части конструктора бизнес-приложений на IIS">
+    <param name="Local" value="Extensions/ASP_NET/Install_Backend_Designer_of_Business_Applications_ASP_NET.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Установка серверной части конструктора бизнес-приложений на Java">
+    <param name="Name" value="Установка серверной части конструктора бизнес-приложений на Java">
+    <param name="Local" value="Extensions/Java/Install_Backend_Designer_of_Business_Applications_Java.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Настройка конфигурации конструктора бизнес-приложений">
+    <param name="Name" value="Настройка конфигурации конструктора бизнес-приложений">
+    <param name="Local" value="Extensions/Configuration_Designer_of_Business_Applications.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Открытие бизнес-приложения">
+    <param name="Name" value="Открытие бизнес-приложения">
+    <param name="Local" value="Extensions/Open_Business_Application.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Ручная установка и настройка IIS для доступа к конструктору бизнес-приложений">
+    <param name="Name" value="Ручная установка и настройка IIS для доступа к конструктору бизнес-приложений">
+    <param name="Local" value="Extensions/ASP_NET/Manual_Install_Designer_of_Business_Applications_ASP_NET.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Перезапуск серверной части конструктора бизнес-приложений">
+    <param name="Name" value="Перезапуск серверной части конструктора бизнес-приложений">
+    <param name="Local" value="Extensions/Restart_Backend_Designer_of_Business_Applications.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Создание пользовательской темы конструктора бизнес-приложений">
+    <param name="Name" value="Создание пользовательской темы конструктора бизнес-приложений">
+    <param name="Local" value="Extensions/FAQ/Create_Custom_DBA_Theme.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Вопросы и ответы">
+    <param name="Name" value="Вопросы и ответы: Конструктор бизнес-приложений">
+    <param name="Local" value="Extensions/FAQ/Extensions_FAQ.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Настройка двухфакторной аутентификации">
+    <param name="Name" value="Настройка двухфакторной аутентификации">
+    <param name="Local" value="UiWebSetup/Authentication/double_auth.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Двухфакторная аутентификация">
+    <param name="Name" value="Настройка двухфакторной аутентификации">
+    <param name="Local" value="UiWebSetup/Authentication/double_auth.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Подключение репозитория, созданного в продукте FlyBI">
+    <param name="Name" value="Подключение репозитория, созданного в продукте FlyBI">
+    <param name="Local" value="05_RepoMngr/Connecting_Repository_FlyBI.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Перезапуск серверной части веб-приложения">
+    <param name="Name" value="Перезапуск серверной части веб-приложения">
+    <param name="Local" value="UiWebSetup/03_Setup_Web/Web_Server_Restart.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="RMS">
+    <param name="Name" value="Сервер лицензий на базе RMS">
+    <param name="Local" value="08_Licensing/RMS/LicenseServer.htm">
+    <param name="Name" value="Активация продукта на базе RMS">
+    <param name="Local" value="08_Licensing/RMS/Activation_Product_RMS.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Guardant">
+    <param name="Name" value="Сервер лицензий Guardant и особенности его использования">
+    <param name="Local" value="08_Licensing/Guardant/License_Server_Guardant.htm">
+    <param name="Name" value="Активация продукта на базе Guardant">
+    <param name="Local" value="08_Licensing/Guardant/Activation_Product_Guardant.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Мастер лицензий Guardant">
+    <param name="Name" value="Мастер лицензий Guardant">
+    <param name="Local" value="08_Licensing/Guardant/License_Activation_Guardant.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Активация лицензии">
+      <param name="Name" value="Активация лицензии при наличии доступа к сети Интернет">
+      <param name="Local" value="08_Licensing/Guardant/License_Activation_Internet_Access.htm">
+      <param name="Name" value="Активация лицензии при отсутствии доступа к сети Интернет">
+      <param name="Local" value="08_Licensing/Guardant/License_Activation_Internet_Access_Denied.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Обновление лицензии">
+      <param name="Name" value="Обновление лицензии при наличии доступа к сети Интернет">
+      <param name="Local" value="08_Licensing/Guardant/License_Update_Internet_Access.htm">
+      <param name="Name" value="Обновление лицензии при отсутствии доступа к сети Интернет">
+      <param name="Local" value="08_Licensing/Guardant/License_Update_Internet_Access_Denied.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Перенос лицензии">
+      <param name="Name" value="Перенос лицензии">
+      <param name="Local" value="08_Licensing/Guardant/License_Transfer.htm">
+    </object>
+    </ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Активация лицензии">
+    <param name="Name" value="Активация лицензии при наличии доступа к сети Интернет">
+    <param name="Local" value="08_Licensing/Guardant/License_Activation_Internet_Access.htm">
+    <param name="Name" value="Активация лицензии при отсутствии доступа к сети Интернет">
+    <param name="Local" value="08_Licensing/Guardant/License_Activation_Internet_Access_Denied.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Порядок проверки лицензии">
+    <param name="Name" value="Порядок проверки лицензии">
+    <param name="Local" value="08_Licensing/License_Check.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Валидная лицензия">
+    <param name="Name" value="Активация продукта">
+    <param name="Local" value="08_Licensing/Admin_Licensing.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Активация продукта">
+    <param name="Name" value="Активация продукта на базе Guardant">
+    <param name="Local" value="08_Licensing/Guardant/Activation_Product_Guardant.htm">
+    <param name="Name" value="Активация продукта">
+    <param name="Local" value="08_Licensing/Admin_Licensing.htm">
+    <param name="Name" value="Активация продукта на базе RMS">
+    <param name="Local" value="08_Licensing/RMS/Activation_Product_RMS.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Настройки поиска лицензий">
+    <param name="Name" value="Настройки поиска лицензии">
+    <param name="Local" value="08_Licensing/RMS/Intro_LicMngr_SearchLic.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Информация">
+    <param name="Name" value="Информация о результатах поиска лицензии">
+    <param name="Local" value="08_Licensing/RMS/Intro_LicMngr_Info.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Установка надстроек для Microsoft Office">
+    <param name="Name" value="Установка надстроек для Microsoft Office">
+    <param name="Local" value="AddIn/AddIn_Setup.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Настройка конфигурации сервиса лицензирования">
+    <param name="Name" value="Настройка конфигурации сервиса лицензирования">
+    <param name="Local" value="08_Licensing/Service/Licensing_Service_Configuration.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="settings.json">
+    <param name="Name" value="Настройка конфигурации сервиса лицензирования">
+    <param name="Local" value="08_Licensing/Service/Licensing_Service_Configuration.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="licman">
+    <param name="Name" value="Сервис лицензирования и особенности его использования">
+    <param name="Local" value="08_Licensing/Service/Licensing_Service.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="HTTP-заголовки">
+    <param name="Name" value="HTTP-заголовки">
+    <param name="Local" value="UiWebSetup/Authentication/HTTPHeaders.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Аутентификация в продукте">
+    <param name="Name" value="Аутентификация в продукте">
+    <param name="Local" value="UiWebSetup/Authentication/Authentication.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="JWT-токен">
+    <param name="Name" value="JWT-токен">
+    <param name="Local" value="UiWebSetup/Authentication/JWT.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Перенос лицензии">
+    <param name="Name" value="Перенос лицензии">
+    <param name="Local" value="08_Licensing/Guardant/License_Transfer.htm">
+  </object>
+</ul>
+</html>

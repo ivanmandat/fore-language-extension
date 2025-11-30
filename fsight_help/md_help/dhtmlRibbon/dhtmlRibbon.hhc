@@ -1,0 +1,340 @@
+<html>
+<!-- Sitemap 1.0 -->
+<object type="text/site properties">
+  <param name="SiteType" value="toc">
+  <param name="Image Width" value="16">
+  <param name="Window Styles" value="0x800007">
+  <param name="ExWindow Styles" value="0x100">
+</object>
+<ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Работа с лентой инструментов">
+    <param name="Local" value="Components/Components.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Компоненты">
+      <param name="Local" value="Components/Components.htm#642b3b9347ca42c9b00b820c00c373fa=1">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Ribbon">
+        <param name="Local" value="Components/Ribbon/Ribbon.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Пример создания компонента Ribbon">
+          <param name="Local" value="Components/Ribbon/Example_Ribbon.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Пример размещения компонента Ribbon из JSON">
+          <param name="Local" value="Components/Ribbon/Example_Ribbon_JSON.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Добавление элементов управления на ленту приложения">
+          <param name="Local" value="Components/Ribbon/Controls_addition.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="RibbonButton">
+        <param name="Local" value="Components/RibbonButton/RibbonButton.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Пример создания компонента RibbonButton">
+          <param name="Local" value="Components/RibbonButton/RibbonButtonExample.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="RibbonCategory">
+        <param name="Local" value="Components/RibbonCategory/RibbonCategory.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="RibbonPanel">
+        <param name="Local" value="Components/RibbonPanel/RibbonPanel.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Классы">
+      <param name="Local" value="Classes/Classes.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Ribbon">
+        <param name="Local" value="Classes/Ribbon/Ribbon.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Конструктор Ribbon">
+          <param name="Local" value="Classes/Ribbon/Constructor_Ribbon.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Ribbon.IsAutoHiding">
+          <param name="Local" value="Classes/Ribbon/Ribbon.IsAutoHiding.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Ribbon.SelectedIndex">
+          <param name="Local" value="Classes/Ribbon/Ribbon.SelectedIndex.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Ribbon.getSelectedItem">
+          <param name="Local" value="Classes/Ribbon/Ribbon.getSelectedItem.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Ribbon.MainButton">
+          <param name="Local" value="Classes/Ribbon/Ribbon.MainButton.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Ribbon.MainMenu">
+          <param name="Local" value="Classes/Ribbon/Ribbon.MainMenu.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Ribbon.IsAutoHidingEnabled">
+          <param name="Local" value="Classes/Ribbon/Ribbon.IsAutoHidingEnabled.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Ribbon.getItems">
+          <param name="Local" value="Classes/Ribbon/Ribbon.getItems.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Ribbon.getIsCategoryContentHidden">
+          <param name="Local" value="Classes/Ribbon/Ribbon.getIsCategoryContentHidden.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Ribbon.getMainButton">
+          <param name="Local" value="Classes/Ribbon/Ribbon.getMainButton.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Ribbon.getHideButton">
+          <param name="Local" value="Classes/Ribbon/Ribbon.getHideButton.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Ribbon.getQuickAccessControls">
+          <param name="Local" value="Classes/Ribbon/Ribbon.getQuickAccessControls.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Ribbon.addCategory">
+          <param name="Local" value="Classes/Ribbon/Ribbon.addCategory.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Ribbon.addQuickAccessControl">
+          <param name="Local" value="Classes/Ribbon/Ribbon.addQuickAccessControl.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Ribbon.removeQuickAccessControl">
+          <param name="Local" value="Classes/Ribbon/Ribbon.removeQuickAccessControl.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Ribbon.removeQuickAccessControlById">
+          <param name="Local" value="Classes/Ribbon/Ribbon.removeQuickAccessControlById.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Ribbon.showCategoryContent">
+          <param name="Local" value="Classes/Ribbon/Ribbon.showCategoryContent.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Ribbon.setCategoriesVisibilityByGroupName">
+          <param name="Local" value="Classes/Ribbon/Ribbon.setCategoriesVisibilityByGroupName.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Ribbon.getPanelById">
+          <param name="Local" value="Classes/Ribbon/Ribbon.getPanelById.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Ribbon.getControlById">
+          <param name="Local" value="Classes/Ribbon/Ribbon.getControlById.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Ribbon.setSettingsTo">
+          <param name="Local" value="Classes/Ribbon/Ribbon.setSettingsTo.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Ribbon.CategorySelected">
+          <param name="Local" value="Classes/Ribbon/Ribbon.CategorySelected.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Ribbon.CategoryDeselected">
+          <param name="Local" value="Classes/Ribbon/Ribbon.CategoryDeselected.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Ribbon.CategoryContentCollapsed">
+          <param name="Local" value="Classes/Ribbon/Ribbon.CategoryContentCollapsed.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Ribbon.CategoryContentExpanded">
+          <param name="Local" value="Classes/Ribbon/Ribbon.CategoryContentExpanded.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Ribbon.getCategoryById">
+          <param name="Local" value="Classes/Ribbon/Ribbon.getCategoryById.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Ribbon.getImageList">
+          <param name="Local" value="Classes/Ribbon/Ribbon.getImageList.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Ribbon.SelectedItem">
+          <param name="Local" value="Classes/Ribbon/Ribbon.SelectedItem.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Ribbon.beginUpdate">
+          <param name="Local" value="Classes/Ribbon/Ribbon.beginUpdate.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Ribbon.endUpdate">
+          <param name="Local" value="Classes/Ribbon/Ribbon.endUpdate.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Ribbon.getCustomControlsContainer">
+          <param name="Local" value="Classes/Ribbon/Ribbon.getCustomControlsContainer.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Ribbon.UseIntellisense">
+          <param name="Local" value="Classes/Ribbon/Ribbon.UseIntellisense.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Ribbon.updateAutoComplete">
+          <param name="Local" value="Classes/Ribbon/Ribbon.updateAutoComplete.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Ribbon.getCategory">
+          <param name="Local" value="Classes/Ribbon/Ribbon.getCategory.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Ribbon.Controls">
+          <param name="Local" value="Classes/Ribbon/Ribbon.Controls.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Ribbon.QuickAccessControls">
+          <param name="Local" value="Classes/Ribbon/Ribbon.QuickAccessControls.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="RibbonButton">
+        <param name="Local" value="Classes/RibbonButton/RibbonButton.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Конструктор RibbonButton">
+          <param name="Local" value="Classes/RibbonButton/Consructor_RibbonButton.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="RibbonCategory">
+        <param name="Local" value="Classes/RibbonCategory/RibbonCategory.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Конструктор RibbonCategory">
+          <param name="Local" value="Classes/RibbonCategory/Constructor_RibbonCategory.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="RibbonCategory.getPanels">
+          <param name="Local" value="Classes/RibbonCategory/RibbonCategory.getPanels.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="RibbonCategory.getGroupName">
+          <param name="Local" value="Classes/RibbonCategory/RibbonCategory.getGroupName.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="RibbonCategory.addPanel">
+          <param name="Local" value="Classes/RibbonCategory/RibbonCategory.addPanel.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="RibbonCategory.Caption">
+          <param name="Local" value="Classes/RibbonCategory/RibbonCategory.Caption.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="RibbonCategory.GroupName">
+          <param name="Local" value="Classes/RibbonCategory/RibbonCategory.GroupName.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="RibbonPanel">
+        <param name="Local" value="Classes/RibbonPanel/RibbonPanel.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Конструктор RibbonPanel">
+          <param name="Local" value="Classes/RibbonPanel/Constructor_RibbonPanel.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="RibbonPanel.Caption">
+          <param name="Local" value="Classes/RibbonPanel/RibbonPanel.Caption.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="RibbonPanel.addControl">
+          <param name="Local" value="Classes/RibbonPanel/RibbonPanel.addControl.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="RibbonPanel.getControls">
+          <param name="Local" value="Classes/RibbonPanel/RibbonPanel.getControls.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="RibbonPanel.getLaunchButton">
+          <param name="Local" value="Classes/RibbonPanel/RibbonPanel.getLaunchButton.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="RibbonPanel.LaunchButton">
+          <param name="Local" value="Classes/RibbonPanel/RibbonPanel.LaunchButton.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      </ul>
+    </ul>
+</ul>
+</html>

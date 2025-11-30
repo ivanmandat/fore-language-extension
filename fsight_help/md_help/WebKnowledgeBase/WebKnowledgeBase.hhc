@@ -1,0 +1,52 @@
+<html>
+<!-- Sitemap 1.0 -->
+<object type="text/site properties">
+  <param name="SiteType" value="toc">
+  <param name="Image Width" value="16">
+  <param name="Window Styles" value="0x800027">
+  <param name="ExWindow Styles" value="0x100">
+</object>
+<ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="База знаний">
+    <param name="Local" value="WebKnowledgeBase_Title.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Поиск неудалённых объектов">
+      <param name="Local" value="SearchingForUndisposed.htm">
+      <param name="ImageNumber" value="11">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Защита от XSS при использовании DHTML-компонентов">
+      <param name="Local" value="XSS_protection.htm">
+      <param name="ImageNumber" value="11">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Как правильно использовать метод dispose">
+      <param name="Local" value="Using_dispose.htm">
+      <param name="ImageNumber" value="11">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Избавляемся от замыканий">
+      <param name="Local" value="avoid_closures.htm">
+      <param name="ImageNumber" value="11">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Предупреждения (Warnings) при сборке проекта">
+      <param name="Local" value="Warnings.htm">
+      <param name="ImageNumber" value="11">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Интегрированная доменная аутентификация при использовании Service Reference">
+      <param name="Local" value="integrated_domain_login.htm">
+      <param name="ImageNumber" value="11">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Кнопка «Справка» на ленте инструментов">
+      <param name="Local" value="Documentation_button.htm">
+      <param name="ImageNumber" value="11">
+    </object>
+    </ul>
+</ul>
+</html>

@@ -1,0 +1,1238 @@
+<html>
+<!-- Sitemap 1.0 -->
+<object type="text/site properties">
+  <param name="SiteType" value="index">
+</object>
+<ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Просмотр данных">
+    <param name="Name" value="Просмотр данных: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/03_ETLObjects/Page_browse_data.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Операции с объектами задачи ETL">
+    <param name="Name" value="Настройка рабочей области: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/04_Work/UiEtl_ObjWork.htm#operations_objetl">
+    <param name="Name" value="Управление объектами задачи ETL: Веб-приложение">
+    <param name="Local" value="Web/04_Work/Objects_settings.htm#operations_objetl">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Рабочая область">
+    <param name="Name" value="Настройка рабочей области: Задача ETL, веб-приложение">
+    <param name="Local" value="Web/04_Work/UiEtl_ObjWork.htm">
+    <param name="Name" value="Настройка рабочей области: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/04_Work/UiEtl_ObjWork.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Ошибки при выполнении задачи ETL">
+    <param name="Name" value="Выполнение задачи ETL: Настольное приложение">
+    <param name="Local" value="Desktop/05_PropertyETL/UIEtl_WorkVisualisation.htm">
+    <param name="Name" value="Работа с готовой задачей ETL: Веб-приложение">
+    <param name="Local" value="Web/05_PropertyETL/UIEtl_WorkVisualisation.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Журнал">
+    <param name="Name" value="Настройка протоколирования операций: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/04_Work/04_Jurnal/UiEtl_Jurnal.htm">
+    <param name="Name" value="Настройки задачи: Задача ETL, веб-приложение">
+    <param name="Local" value="Web/04_Work/04_Jurnal/UiEtl_Jurnal.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Алгоритм пользователя">
+    <param name="Name" value="Преобразователь «Алгоритм пользователя»: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/03_ETLObjects/04_Transformers/09_algorithm/UiEtl_Trfs_Algorithm.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Преобразование">
+    <param name="Name" value="Преобразователь «Преобразование»: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/03_ETLObjects/04_Transformers/07_Transform/UiEtl_Trfs_Transform.htm">
+    <param name="Name" value="Преобразователь «Преобразование»: Задача ETL, веб-приложение">
+    <param name="Local" value="Web/03_ETLObjects/04_Transformers/07_Transform/UiEtl_Trfs_Transform.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Преобразователь данных">
+    <param name="Name" value="Создание преобразователей данных: Задача ETL, веб-приложение">
+    <param name="Local" value="Web/03_ETLObjects/04_Transformers/UiEtl_Trfs.htm">
+    <param name="Name" value="Создание преобразователей данных: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/03_ETLObjects/04_Transformers/UiEtl_Trfs.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Разделение">
+      <param name="Name" value="Преобразователь «Разделение»: Задача ETL, настольное приложение">
+      <param name="Local" value="Desktop/03_ETLObjects/04_Transformers/01_Split/uietl_split.htm">
+      <param name="Name" value="Преобразователь «Разделение»: Задача ETL, веб-приложение">
+      <param name="Local" value="Web/03_ETLObjects/04_Transformers/01_Split/uietl_split.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Объединение">
+      <param name="Name" value="Преобразователь «Объединение»: Задача ETL, настольное приложение">
+      <param name="Local" value="Desktop/03_ETLObjects/04_Transformers/02_Union/uietl_union.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Соединение">
+      <param name="Name" value="Преобразователь «Соединение»: Задача ETL, настольное приложение">
+      <param name="Local" value="Desktop/03_ETLObjects/04_Transformers/03_Joint/uietl_joint.htm">
+      <param name="Name" value="Преобразователь «Соединение»: Задача ETL, веб-приложение">
+      <param name="Local" value="Web/03_ETLObjects/04_Transformers/03_Joint/uietl_joint.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Сортировка">
+      <param name="Name" value="Преобразователь «Сортировка»: Задача ETL, настольное приложение">
+      <param name="Local" value="Desktop/03_ETLObjects/04_Transformers/04_Sort/UiEtl_Trfs_Sort.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Группировка">
+      <param name="Name" value="Преобразователь «Группировка»: Задача ETL, настольное приложение">
+      <param name="Local" value="Desktop/03_ETLObjects/04_Transformers/05_Group/UiEtl_Trfs_Group.htm">
+      <param name="Name" value="Преобразователь «Группировка»: Задача ETL, веб-приложение">
+      <param name="Local" value="Web/03_ETLObjects/04_Transformers/05_Group/uietl_trfs_group.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Фильтрация">
+      <param name="Name" value="Преобразователь «Фильтрация»: Задача ETL, настольное приложение">
+      <param name="Local" value="Desktop/03_ETLObjects/04_Transformers/06_Filter/UiEtl_Trfs_Filter.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Преобразование">
+      <param name="Name" value="Преобразователь «Преобразование»: Задача ETL, настольное приложение">
+      <param name="Local" value="Desktop/03_ETLObjects/04_Transformers/07_Transform/UiEtl_Trfs_Transform.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Удаление дубликатов">
+      <param name="Name" value="Преобразователь «Удаление дубликатов»: Задача ETL, настольное приложение">
+      <param name="Local" value="Desktop/03_ETLObjects/04_Transformers/08_Delete/UiEtl_Trfs_Delete.htm">
+      <param name="Name" value="Преобразователь «Удаление дубликатов»: Задача ETL, веб-приложение">
+      <param name="Local" value="Web/03_ETLObjects/04_Transformers/08_Delete/uietl_trfs_delete.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Алгоритм пользователя">
+      <param name="Name" value="Преобразователь «Алгоритм пользователя»: Задача ETL, настольное приложение">
+      <param name="Local" value="Desktop/03_ETLObjects/04_Transformers/09_algorithm/UiEtl_Trfs_Algorithm.htm">
+    </object>
+    </ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Сортировка">
+    <param name="Name" value="Преобразователь «Сортировка»: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/03_ETLObjects/04_Transformers/04_Sort/UiEtl_Trfs_Sort.htm">
+    <param name="Name" value="Преобразователь «Сортировка»: Задача ETL, веб-приложение">
+    <param name="Local" value="Web/03_ETLObjects/04_Transformers/04_Sort/uietl_trfs_sort.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Приёмники">
+    <param name="Name" value="Создание коннекторов к приёмнику данных: Задача ETL, веб-приложение">
+    <param name="Local" value="Web/03_ETLObjects/03_Outputs/UiEtl_Outputs.htm">
+    <param name="Name" value="Создание коннекторов к приёмнику данных: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/03_ETLObjects/03_Outputs/UiEtl_Outputs.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Источники">
+    <param name="Name" value="Создание коннекторов к исходным данным: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/03_ETLObjects/02_Inputs/UiEtl_Inputs.htm">
+    <param name="Name" value="Создание коннекторов к исходным данным: Задача ETL, веб-приложение">
+    <param name="Local" value="Web/03_ETLObjects/02_Inputs/UiEtl_Inputs.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Фильтрация">
+    <param name="Name" value="Преобразователь «Фильтрация»: Задача ETL, веб-приложение">
+    <param name="Local" value="Web/03_ETLObjects/04_Transformers/06_Filter/UiEtl_Trfs_Filter.htm">
+    <param name="Name" value="Преобразователь «Фильтрация»: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/03_ETLObjects/04_Transformers/06_Filter/UiEtl_Trfs_Filter.htm">
+    <param name="Name" value="Источник данных «Репозиторий»: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/03_ETLObjects/02_Inputs/UiEtl_Inputs_Repo.htm">
+    <param name="Name" value="Источник данных «Access»: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/03_ETLObjects/02_Inputs/UIetl_Inputs_Access.htm">
+    <param name="Name" value="Источник данных «Visual FoxPro»: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/03_ETLObjects/02_Inputs/UiEtl_Inputs_VisualFoxPro.htm">
+    <param name="Name" value="Источник данных «Dbase»: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/03_ETLObjects/02_Inputs/uietl_inputs_dbase.htm">
+    <param name="Name" value="Источник данных «Paradox»: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/03_ETLObjects/02_Inputs/UiEtl_Inputs_Paradox.htm">
+    <param name="Name" value="Источник данных «Excel»: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/03_ETLObjects/02_Inputs/UiEtl_Inputs_Excel.htm">
+    <param name="Name" value="Источник данных «XML»: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/03_ETLObjects/02_Inputs/UiEtl_Inputs_XML.htm">
+    <param name="Name" value="Источник данных «OLE DB»: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/03_ETLObjects/02_Inputs/UiEtl_Inputs_OleDB.htm">
+    <param name="Name" value="Источник данных «Текст»: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/03_ETLObjects/02_Inputs/UiEtl_Inputs_Text.htm">
+    <param name="Name" value="Источник данных «Веб-страница»: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/03_ETLObjects/02_Inputs/UiEtl_Inputs_Web.htm">
+    <param name="Name" value="Источник данных «JSON»: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/03_ETLObjects/02_Inputs/Inputs_JSON.htm">
+    <param name="Name" value="Источник данных «REST»: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/03_ETLObjects/02_Inputs/Inputs_REST.htm">
+    <param name="Name" value="Копирование данных: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/03_ETLObjects/02_Inputs/UiEtl_Inputs_CopyData.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Удаление дубликатов">
+    <param name="Name" value="Преобразователь «Удаление дубликатов»: Задача ETL, веб-приложение">
+    <param name="Local" value="Web/03_ETLObjects/04_Transformers/08_Delete/uietl_trfs_delete.htm">
+    <param name="Name" value="Преобразователь «Удаление дубликатов»: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/03_ETLObjects/04_Transformers/08_Delete/UiEtl_Trfs_Delete.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Соединение">
+    <param name="Name" value="Преобразователь «Соединение»: Задача ETL, веб-приложение">
+    <param name="Local" value="Web/03_ETLObjects/04_Transformers/03_Joint/uietl_joint.htm">
+    <param name="Name" value="Преобразователь «Соединение»: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/03_ETLObjects/04_Transformers/03_Joint/uietl_joint.htm">
+    <param name="Name" value="Преобразователь «Преобразование»: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/03_ETLObjects/04_Transformers/07_Transform/UiEtl_Trfs_Transform.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Объединение">
+    <param name="Name" value="Преобразователь «Объединение»: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/03_ETLObjects/04_Transformers/02_Union/uietl_union.htm">
+    <param name="Name" value="Преобразователь «Объединение»: Задача ETL, веб-приложение">
+    <param name="Local" value="Web/03_ETLObjects/04_Transformers/02_Union/uietl_union.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Группировка">
+    <param name="Name" value="Преобразователь «Группировка»: Задача ETL, веб-приложение">
+    <param name="Local" value="Web/03_ETLObjects/04_Transformers/05_Group/uietl_trfs_group.htm">
+    <param name="Name" value="Преобразователь «Группировка»: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/03_ETLObjects/04_Transformers/05_Group/UiEtl_Trfs_Group.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Access">
+    <param name="Name" value="Источник данных «Access»: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/03_ETLObjects/02_Inputs/UIetl_Inputs_Access.htm">
+    <param name="Name" value="Приёмник данных «Access»: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/03_ETLObjects/03_Outputs/Access/UiEtl_Outputs_Access.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Dbase">
+    <param name="Name" value="Источник данных «Dbase»: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/03_ETLObjects/02_Inputs/uietl_inputs_dbase.htm">
+    <param name="Name" value="Приёмник данных «Dbase»: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/03_ETLObjects/03_Outputs/Dbase/UiEtl_outputs_Dbase.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="OLE DB">
+    <param name="Name" value="Источник данных «OLE DB»: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/03_ETLObjects/02_Inputs/UiEtl_Inputs_OleDB.htm">
+    <param name="Name" value="Приёмник данных «OLE DB»: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/03_ETLObjects/03_Outputs/OleDB/UiEtl_Outputs_OleDB.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Paradox">
+    <param name="Name" value="Источник данных «Paradox»: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/03_ETLObjects/02_Inputs/UiEtl_Inputs_Paradox.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Visual FoxPro">
+    <param name="Name" value="Приёмник данных «Visual FoxPro»: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/03_ETLObjects/03_Outputs/Visual_FoxPro/UiEtl_Outputs_VisualFoxPro.htm">
+    <param name="Name" value="Источник данных «Visual FoxPro»: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/03_ETLObjects/02_Inputs/UiEtl_Inputs_VisualFoxPro.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Веб-страница">
+    <param name="Name" value="Источник данных «Веб-страница»: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/03_ETLObjects/02_Inputs/UiEtl_Inputs_Web.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="XML">
+    <param name="Name" value="Приёмник данных «XML»: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/03_ETLObjects/03_Outputs/XML/UiEtl_outputs_XML.htm">
+    <param name="Name" value="Источник данных «Веб-страница»: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/03_ETLObjects/02_Inputs/UiEtl_Inputs_Web.htm">
+    <param name="Name" value="Коннектор к источнику данных «XML»: Задача ETL, веб-приложение">
+    <param name="Local" value="Web/03_ETLObjects/02_Inputs/UiEtl_Inputs_XML.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Копирование данных">
+    <param name="Name" value="Копирование данных: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/03_ETLObjects/02_Inputs/UiEtl_Inputs_CopyData.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Оформление объектов">
+    <param name="Name" value="Оформление объектов: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/04_Work/01_ObjFormat/UiEtl_ObjFormat.htm">
+    <param name="Name" value="Настройка оформления задачи ETL: Веб-приложение">
+    <param name="Local" value="Web/04_Work/ETL_Decor.htm#objects_settings">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Выполнение задачи ETL">
+    <param name="Name" value="Выполнение задачи ETL: Настольное приложение">
+    <param name="Local" value="Desktop/05_PropertyETL/UIEtl_WorkVisualisation.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Задача ETL">
+    <param name="Name" value="Настройки задачи: Задача ETL, веб-приложение">
+    <param name="Local" value="Web/06_CreateETL/Relational_ETL_master.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Базовые настройки">
+      <param name="Name" value="Базовые настройки: Задача ETL, веб-приложение">
+      <param name="Local" value="Web/06_CreateETL/Basic_Settings_ETL.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Параметры">
+      <param name="Name" value="Параметры: Задача ETL, веб-приложение">
+      <param name="Local" value="Web/06_CreateETL/Relational_ETL_master_Param.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Управление параметрами">
+      <param name="Name" value="Управление параметрами вложенных объектов: Задача ETL, веб-приложение">
+      <param name="Local" value="Web/05_PropertyETL/paramscontrol.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Настройки задачи">
+      <param name="Name" value="Настройки задачи: Задача ETL, веб-приложение">
+      <param name="Local" value="Web/04_Work/04_Jurnal/UiEtl_Jurnal.htm">
+      <param name="Name" value="Настройка протоколирования операций: Задача ETL, настольное приложение">
+      <param name="Local" value="Desktop/04_Work/04_Jurnal/UiEtl_Jurnal.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Обработка событий">
+      <param name="Name" value="Обработка событий: Задача ETL, веб-приложение">
+      <param name="Local" value="Web/06_CreateETL/Event_Handling.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Очередность выполнения">
+      <param name="Name" value="Очерёдность выполнения: Задача ETL, веб-приложение">
+      <param name="Local" value="Web/05_PropertyETL/UiETL_Property_queue.htm">
+    </object>
+    </ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Excel">
+    <param name="Name" value="Источник данных «Excel»: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/03_ETLObjects/02_Inputs/UiEtl_Inputs_Excel.htm">
+    <param name="Name" value="Приёмник данных «Excel»: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/03_ETLObjects/03_Outputs/Excel/UiEtl_Outputs_Excel.htm">
+    <param name="Name" value="Коннектор к приёмнику данных «Excel»: Задача ETL, веб-приложение">
+    <param name="Local" value="Web/03_ETLObjects/03_Outputs/Excel/UiEtl_Outputs_Excel.htm">
+    <param name="Name" value="Коннектор к источнику данных «Excel»: Задача ETL, веб-приложение">
+    <param name="Local" value="Web/03_ETLObjects/02_Inputs/UiEtl_Inputs_Excel.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Источник пользователя">
+    <param name="Name" value="Источник данных «Источник пользователя»: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/03_ETLObjects/02_Inputs/Uietl_Inputs_User.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Процедура">
+    <param name="Name" value="Процедура: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/03_ETLObjects/Other/Procedure.htm">
+    <param name="Name" value="Процедура: Задача ETL, веб-приложение">
+    <param name="Local" value="Web/03_ETLObjects/Other/Procedure.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Команда СУБД">
+    <param name="Name" value="Команда СУБД: Задача ETL, веб-приложение">
+    <param name="Local" value="Web/03_ETLObjects/Other/DB_command.htm">
+    <param name="Name" value="Команда СУБД: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/03_ETLObjects/Other/DB_command.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Параметры автозаполнения поля">
+    <param name="Name" value="Автоматическое заполнение полей: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/03_ETLObjects/05_Links/UIEtl_Links_Autolink.htm">
+    <param name="Name" value="Связи между объектами: Задача ETL, веб-приложение">
+    <param name="Local" value="Web/03_ETLObjects/05_Links/uietl_links_create.htm#edit">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Дополнительные настройки">
+    <param name="Name" value="Дополнительные настройки: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/03_ETLObjects/02_Inputs/additional_settings.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Обработка событий">
+    <param name="Name" value="Обработка событий: Задача ETL, веб-приложение">
+    <param name="Local" value="Web/06_CreateETL/Event_Handling.htm">
+    <param name="Name" value="Настройка обработки событий: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/06_CreateETL/Event_Handling.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Разделение">
+    <param name="Name" value="Преобразователь «Разделение»: Задача ETL, веб-приложение">
+    <param name="Local" value="Web/03_ETLObjects/04_Transformers/01_Split/uietl_split.htm">
+    <param name="Name" value="Преобразователь «Разделение»: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/03_ETLObjects/04_Transformers/01_Split/uietl_split.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Задачи ETL">
+    <param name="Name" value="Начало работы с инструментом «Задача ETL» в настольном приложении">
+    <param name="Local" value="Desktop/01_General_Info/UiETL_StartingToWork.htm">
+    <param name="Name" value="Начало работы с инструментом «Задача ETL» в веб-приложении">
+    <param name="Local" value="Web/01_General_Info/UiETL_StartingToWork.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Построение задачи ETL">
+      <param name="Name" value="Построение задачи ETL: Веб-приложение">
+      <param name="Local" value="Web/03_ETLObjects/Construction_ETL.htm">
+      <param name="Name" value="Построение задачи ETL: Настольное приложение">
+      <param name="Local" value="Desktop/03_ETLObjects/Construction_ETL.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Работа с готовой задачей ETL">
+      <param name="Name" value="Работа с готовой задачей ETL: Веб-приложение">
+      <param name="Local" value="Web/05_PropertyETL/UIEtl_WorkVisualisation.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Выполнение задачи ETL">
+      <param name="Name" value="Выполнение задачи ETL: Настольное приложение">
+      <param name="Local" value="Desktop/05_PropertyETL/UIEtl_WorkVisualisation.htm">
+    </object>
+    </ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Текст">
+    <param name="Name" value="Приёмник данных «Текст»: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/03_ETLObjects/03_Outputs/Text/UiEtl_Outputs_Text.htm">
+    <param name="Name" value="Коннектор к приёмнику данных «Текст (txt, csv)»: Задача ETL, веб-приложение">
+    <param name="Local" value="Web/03_ETLObjects/03_Outputs/Text/UiEtl_Outputs_Text.htm">
+    <param name="Name" value="Настройка оформления задачи ETL: Веб-приложение">
+    <param name="Local" value="Web/04_Work/ETL_Decor.htm#settings_text">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Шаблоны пользовательских объектов">
+    <param name="Name" value="Шаблоны пользовательских объектов: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/04_Work/ETL_Templates.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Источник">
+      <param name="Name" value="Шаблон источника: Задача ETL, настольное приложение">
+      <param name="Local" value="Desktop/04_Work/Templates/Provider_Template.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Приёмник">
+      <param name="Name" value="Шаблон приёмника: Задача ETL, настольное приложение">
+      <param name="Local" value="Desktop/04_Work/Templates/Consumer_Template.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Преобразователь">
+      <param name="Name" value="Шаблон преобразователя: Задача ETL, настольное приложение">
+      <param name="Local" value="Desktop/04_Work/Templates/Transform_Template.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Процедуры">
+      <param name="Name" value="Шаблон процедуры: Задача ETL, настольное приложение">
+      <param name="Local" value="Desktop/04_Work/Templates/Other_Template.htm">
+    </object>
+    </ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Открытие задачи ETL">
+    <param name="Name" value="Начало работы с инструментом «Задача ETL» в веб-приложении">
+    <param name="Local" value="Web/01_General_Info/UiETL_StartingToWork.htm#edit_etl">
+    <param name="Name" value="Начало работы с инструментом «Задача ETL» в настольном приложении">
+    <param name="Local" value="Desktop/01_General_Info/UiETL_StartingToWork.htm#open_an_etl_task">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Отмена/повтор операции">
+    <param name="Name" value="Настройка рабочей области: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/04_Work/UiEtl_ObjWork.htm#undo_redo">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="JSON">
+    <param name="Name" value="Источник данных «JSON»: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/03_ETLObjects/02_Inputs/Inputs_JSON.htm">
+    <param name="Name" value="Приёмник данных «JSON»: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/03_ETLObjects/03_Outputs/JSON/JSON_Outputs.htm">
+    <param name="Name" value="Коннектор к источнику данных «JSON»: Задача ETL, веб-приложение">
+    <param name="Local" value="Web/03_ETLObjects/02_Inputs/Inputs_JSON.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="REST">
+    <param name="Name" value="Источник данных «REST»: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/03_ETLObjects/02_Inputs/Inputs_REST.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Настройка рабочей области">
+    <param name="Name" value="Настройка рабочей области: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/04_Work/UiEtl_ObjWork.htm">
+    <param name="Name" value="Настройка рабочей области: Задача ETL, веб-приложение">
+    <param name="Local" value="Web/04_Work/UiEtl_ObjWork.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Базовые настройки">
+    <param name="Name" value="Базовые настройки: Задача ETL, веб-приложение">
+    <param name="Local" value="Web/06_CreateETL/Basic_Settings_ETL.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Параметры">
+    <param name="Name" value="Параметры: Задача ETL, веб-приложение">
+    <param name="Local" value="Web/06_CreateETL/Relational_ETL_master_Param.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Очерёдность выполнения">
+    <param name="Name" value="Очерёдность выполнения: Задача ETL, веб-приложение">
+    <param name="Local" value="Web/05_PropertyETL/UiETL_Property_queue.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Управление параметрами">
+    <param name="Name" value="Управление параметрами вложенных объектов: Задача ETL, веб-приложение">
+    <param name="Local" value="Web/05_PropertyETL/paramscontrol.htm">
+    <param name="Name" value="Источник данных «Репозиторий»: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/03_ETLObjects/02_Inputs/UiEtl_Inputs_Repo.htm#parameter">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Ключевые возможности">
+    <param name="Name" value="Импорт, экспорт и преобразование данных">
+    <param name="Local" value="Desktop/01_General_Info/UiETL_General.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Настройки задачи">
+    <param name="Name" value="Настройки задачи: Задача ETL, веб-приложение">
+    <param name="Local" value="Web/04_Work/04_Jurnal/UiEtl_Jurnal.htm">
+    <param name="Name" value="Настройка протоколирования операций: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/04_Work/04_Jurnal/UiEtl_Jurnal.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Приёмник пользователя">
+    <param name="Name" value="Приёмник данных «Приёмник пользователя»: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/03_ETLObjects/03_Outputs/User/UiEtl_Outputs_User.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Пользовательский">
+    <param name="Name" value="Коннектор к источнику данных «Пользовательский»: Задача ETL, веб-приложение">
+    <param name="Local" value="Web/03_ETLObjects/02_Inputs/Uietl_Inputs_User.htm">
+    <param name="Name" value="Коннектор к приёмнику данных «Пользовательский»: Задача ETL, веб-приложение">
+    <param name="Local" value="Web/03_ETLObjects/03_Outputs/User/UiEtl_Outputs_User.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Коннектор">
+    <param name="Name" value="Создание коннекторов к исходным данным: Задача ETL, веб-приложение">
+    <param name="Local" value="Web/03_ETLObjects/02_Inputs/UiEtl_Inputs.htm">
+    <param name="Name" value="Создание коннекторов к приёмнику данных: Задача ETL, веб-приложение">
+    <param name="Local" value="Web/03_ETLObjects/03_Outputs/UiEtl_Outputs.htm">
+    <param name="Name" value="Создание коннекторов к исходным данным: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/03_ETLObjects/02_Inputs/UiEtl_Inputs.htm">
+    <param name="Name" value="Создание коннекторов к приёмнику данных: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/03_ETLObjects/03_Outputs/UiEtl_Outputs.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Excel">
+      <param name="Name" value="Коннектор к источнику данных «Excel»: Задача ETL, веб-приложение">
+      <param name="Local" value="Web/03_ETLObjects/02_Inputs/UiEtl_Inputs_Excel.htm">
+      <param name="Name" value="Коннектор к приёмнику данных «Excel»: Задача ETL, веб-приложение">
+      <param name="Local" value="Web/03_ETLObjects/03_Outputs/Excel/UiEtl_Outputs_Excel.htm">
+      <param name="Name" value="Источник данных «Excel»: Задача ETL, настольное приложение">
+      <param name="Local" value="Desktop/03_ETLObjects/02_Inputs/UiEtl_Inputs_Excel.htm">
+      <param name="Name" value="Приёмник данных «Excel»: Задача ETL, настольное приложение">
+      <param name="Local" value="Desktop/03_ETLObjects/03_Outputs/Excel/UiEtl_Outputs_Excel.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="JSON">
+      <param name="Name" value="Коннектор к источнику данных «JSON»: Задача ETL, веб-приложение">
+      <param name="Local" value="Web/03_ETLObjects/02_Inputs/Inputs_JSON.htm">
+      <param name="Name" value="Источник данных «JSON»: Задача ETL, настольное приложение">
+      <param name="Local" value="Desktop/03_ETLObjects/02_Inputs/Inputs_JSON.htm">
+      <param name="Name" value="Приёмник данных «JSON»: Задача ETL, настольное приложение">
+      <param name="Local" value="Desktop/03_ETLObjects/03_Outputs/JSON/JSON_Outputs.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="REST">
+      <param name="Name" value="Коннектор к источнику данных «REST»: Задача ETL, веб-приложение">
+      <param name="Local" value="Web/03_ETLObjects/02_Inputs/Inputs_REST.htm">
+      <param name="Name" value="Источник данных «REST»: Задача ETL, настольное приложение">
+      <param name="Local" value="Desktop/03_ETLObjects/02_Inputs/Inputs_REST.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="XML">
+      <param name="Name" value="Коннектор к источнику данных «XML»: Задача ETL, веб-приложение">
+      <param name="Local" value="Web/03_ETLObjects/02_Inputs/UiEtl_Inputs_XML.htm">
+      <param name="Name" value="Источник данных «XML»: Задача ETL, настольное приложение">
+      <param name="Local" value="Desktop/03_ETLObjects/02_Inputs/UiEtl_Inputs_XML.htm">
+      <param name="Name" value="Приёмник данных «XML»: Задача ETL, настольное приложение">
+      <param name="Local" value="Desktop/03_ETLObjects/03_Outputs/XML/UiEtl_outputs_XML.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Объект репозитория">
+      <param name="Name" value="Коннектор к источнику данных «Объект репозитория»: Задача ETL, веб-приложение">
+      <param name="Local" value="Web/03_ETLObjects/02_Inputs/UiEtl_Inputs_Repo.htm">
+      <param name="Name" value="Коннектор к приёмнику данных «Объект репозитория»: Задача ETL, веб-приложение">
+      <param name="Local" value="Web/03_ETLObjects/03_Outputs/Repositoriy/UiEtl_Outputs_Repo.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Пользовательский">
+      <param name="Name" value="Коннектор к источнику данных «Пользовательский»: Задача ETL, веб-приложение">
+      <param name="Local" value="Web/03_ETLObjects/02_Inputs/Uietl_Inputs_User.htm">
+      <param name="Name" value="Коннектор к приёмнику данных «Пользовательский»: Задача ETL, веб-приложение">
+      <param name="Local" value="Web/03_ETLObjects/03_Outputs/User/UiEtl_Outputs_User.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Текст">
+      <param name="Name" value="Коннектор к источнику данных «Текст (txt, csv)»: Задача ETL, веб-приложение">
+      <param name="Local" value="Web/03_ETLObjects/02_Inputs/UiEtl_Inputs_text.htm">
+      <param name="Name" value="Коннектор к приёмнику данных «Текст (txt, csv)»: Задача ETL, веб-приложение">
+      <param name="Local" value="Web/03_ETLObjects/03_Outputs/Text/UiEtl_Outputs_Text.htm">
+      <param name="Name" value="Источник данных «Текст»: Задача ETL, настольное приложение">
+      <param name="Local" value="Desktop/03_ETLObjects/02_Inputs/UiEtl_Inputs_Text.htm">
+      <param name="Name" value="Приёмник данных «Текст»: Задача ETL, настольное приложение">
+      <param name="Local" value="Desktop/03_ETLObjects/03_Outputs/Text/UiEtl_Outputs_Text.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Access">
+      <param name="Name" value="Источник данных «Access»: Задача ETL, настольное приложение">
+      <param name="Local" value="Desktop/03_ETLObjects/02_Inputs/UIetl_Inputs_Access.htm">
+      <param name="Name" value="Приёмник данных «Репозиторий»: Задача ETL, настольное приложение">
+      <param name="Local" value="Desktop/03_ETLObjects/03_Outputs/Repositoriy/UiEtl_Outputs_Repo.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Dbase">
+      <param name="Name" value="Источник данных «Dbase»: Задача ETL, настольное приложение">
+      <param name="Local" value="Desktop/03_ETLObjects/02_Inputs/uietl_inputs_dbase.htm">
+      <param name="Name" value="Приёмник данных «Репозиторий»: Задача ETL, настольное приложение">
+      <param name="Local" value="Desktop/03_ETLObjects/03_Outputs/Repositoriy/UiEtl_Outputs_Repo.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Репозиторий">
+      <param name="Name" value="Источник данных «Репозиторий»: Задача ETL, настольное приложение">
+      <param name="Local" value="Desktop/03_ETLObjects/02_Inputs/UiEtl_Inputs_Repo.htm">
+      <param name="Name" value="Приёмник данных «Репозиторий»: Задача ETL, настольное приложение">
+      <param name="Local" value="Desktop/03_ETLObjects/03_Outputs/Repositoriy/UiEtl_Outputs_Repo.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Visual FoxPro">
+      <param name="Name" value="Источник данных «Visual FoxPro»: Задача ETL, настольное приложение">
+      <param name="Local" value="Desktop/03_ETLObjects/02_Inputs/UiEtl_Inputs_VisualFoxPro.htm">
+      <param name="Name" value="Приёмник данных «Репозиторий»: Задача ETL, настольное приложение">
+      <param name="Local" value="Desktop/03_ETLObjects/03_Outputs/Repositoriy/UiEtl_Outputs_Repo.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Paradox">
+      <param name="Name" value="Источник данных «Paradox»: Задача ETL, настольное приложение">
+      <param name="Local" value="Desktop/03_ETLObjects/02_Inputs/UiEtl_Inputs_Paradox.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Веб-страница">
+      <param name="Name" value="Источник данных «Веб-страница»: Задача ETL, настольное приложение">
+      <param name="Local" value="Desktop/03_ETLObjects/02_Inputs/UiEtl_Inputs_Web.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="OLE DB">
+      <param name="Name" value="Источник данных «OLE DB»: Задача ETL, настольное приложение">
+      <param name="Local" value="Desktop/03_ETLObjects/02_Inputs/UiEtl_Inputs_OleDB.htm">
+      <param name="Name" value="Приёмник данных «OLE DB»: Задача ETL, настольное приложение">
+      <param name="Local" value="Desktop/03_ETLObjects/03_Outputs/OleDB/UiEtl_Outputs_OleDB.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Источник пользователя">
+      <param name="Name" value="Источник данных «Источник пользователя»: Задача ETL, настольное приложение">
+      <param name="Local" value="Desktop/03_ETLObjects/02_Inputs/Uietl_Inputs_User.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Приёмник пользователя">
+      <param name="Name" value="Приёмник данных «Приёмник пользователя»: Задача ETL, настольное приложение">
+      <param name="Local" value="Desktop/03_ETLObjects/03_Outputs/User/UiEtl_Outputs_User.htm">
+    </object>
+    </ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Настройки объекта">
+    <param name="Name" value="Коннектор к источнику данных «Объект репозитория»: Задача ETL, веб-приложение">
+    <param name="Local" value="Web/03_ETLObjects/02_Inputs/UiEtl_Inputs_Repo.htm#import">
+    <param name="Name" value="Коннектор к источнику данных «Excel»: Задача ETL, веб-приложение">
+    <param name="Local" value="Web/03_ETLObjects/02_Inputs/UiEtl_Inputs_Excel.htm#import">
+    <param name="Name" value="Коннектор к источнику данных «Текст (txt, csv)»: Задача ETL, веб-приложение">
+    <param name="Local" value="Web/03_ETLObjects/02_Inputs/UiEtl_Inputs_text.htm#import">
+    <param name="Name" value="Коннектор к источнику данных «JSON»: Задача ETL, веб-приложение">
+    <param name="Local" value="Web/03_ETLObjects/02_Inputs/Inputs_JSON.htm#import">
+    <param name="Name" value="Коннектор к источнику данных «REST»: Задача ETL, веб-приложение">
+    <param name="Local" value="Web/03_ETLObjects/02_Inputs/Inputs_REST.htm#import">
+    <param name="Name" value="Коннектор к источнику данных «XML»: Задача ETL, веб-приложение">
+    <param name="Local" value="Web/03_ETLObjects/02_Inputs/UiEtl_Inputs_XML.htm#import">
+    <param name="Name" value="Коннектор к источнику данных «Пользовательский»: Задача ETL, веб-приложение">
+    <param name="Local" value="Web/03_ETLObjects/02_Inputs/Uietl_Inputs_User.htm">
+    <param name="Name" value="Коннектор к приёмнику данных «Excel»: Задача ETL, веб-приложение">
+    <param name="Local" value="Web/03_ETLObjects/03_Outputs/Excel/UiEtl_Outputs_Excel.htm#export">
+    <param name="Name" value="Коннектор к приёмнику данных «Объект репозитория»: Задача ETL, веб-приложение">
+    <param name="Local" value="Web/03_ETLObjects/03_Outputs/Repositoriy/UiEtl_Outputs_Repo.htm#export">
+    <param name="Name" value="Коннектор к приёмнику данных «Текст (txt, csv)»: Задача ETL, веб-приложение">
+    <param name="Local" value="Web/03_ETLObjects/03_Outputs/Text/UiEtl_Outputs_Text.htm#export">
+    <param name="Name" value="Коннектор к приёмнику данных «Пользовательский»: Задача ETL, веб-приложение">
+    <param name="Local" value="Web/03_ETLObjects/03_Outputs/User/UiEtl_Outputs_User.htm#export">
+    <param name="Name" value="Преобразователь «Преобразование»: Задача ETL, веб-приложение">
+    <param name="Local" value="Web/03_ETLObjects/04_Transformers/07_Transform/UiEtl_Trfs_Transform.htm">
+    <param name="Name" value="Преобразователь «Группировка»: Задача ETL, веб-приложение">
+    <param name="Local" value="Web/03_ETLObjects/04_Transformers/05_Group/uietl_trfs_group.htm">
+    <param name="Name" value="Создание преобразователей данных: Задача ETL, веб-приложение">
+    <param name="Local" value="Web/03_ETLObjects/04_Transformers/UiEtl_Trfs.htm#settings_panel">
+    <param name="Name" value="Создание объектов из группы «Другое»: Задача ETL, веб-приложение">
+    <param name="Local" value="Web/03_ETLObjects/Other/Other_objects_group.htm#settings_panel">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Редактор выходов">
+    <param name="Name" value="Коннектор к источнику данных «Объект репозитория»: Задача ETL, веб-приложение">
+    <param name="Local" value="Web/03_ETLObjects/02_Inputs/UiEtl_Inputs_Repo.htm#output">
+    <param name="Name" value="Коннектор к источнику данных «Excel»: Задача ETL, веб-приложение">
+    <param name="Local" value="Web/03_ETLObjects/02_Inputs/UiEtl_Inputs_Excel.htm#output">
+    <param name="Name" value="Коннектор к источнику данных «Текст (txt, csv)»: Задача ETL, веб-приложение">
+    <param name="Local" value="Web/03_ETLObjects/02_Inputs/UiEtl_Inputs_text.htm#output">
+    <param name="Name" value="Коннектор к источнику данных «JSON»: Задача ETL, веб-приложение">
+    <param name="Local" value="Web/03_ETLObjects/02_Inputs/Inputs_JSON.htm#output">
+    <param name="Name" value="Коннектор к источнику данных «REST»: Задача ETL, веб-приложение">
+    <param name="Local" value="Web/03_ETLObjects/02_Inputs/Inputs_REST.htm#output">
+    <param name="Name" value="Коннектор к источнику данных «XML»: Задача ETL, веб-приложение">
+    <param name="Local" value="Web/03_ETLObjects/02_Inputs/UiEtl_Inputs_XML.htm#output">
+    <param name="Name" value="Коннектор к источнику данных «Пользовательский»: Задача ETL, веб-приложение">
+    <param name="Local" value="Web/03_ETLObjects/02_Inputs/Uietl_Inputs_User.htm#output">
+    <param name="Name" value="Коннектор к приёмнику данных «Excel»: Задача ETL, веб-приложение">
+    <param name="Local" value="Web/03_ETLObjects/03_Outputs/Excel/UiEtl_Outputs_Excel.htm#output">
+    <param name="Name" value="Коннектор к приёмнику данных «Объект репозитория»: Задача ETL, веб-приложение">
+    <param name="Local" value="Web/03_ETLObjects/03_Outputs/Repositoriy/UiEtl_Outputs_Repo.htm#output">
+    <param name="Name" value="Коннектор к приёмнику данных «Текст (txt, csv)»: Задача ETL, веб-приложение">
+    <param name="Local" value="Web/03_ETLObjects/03_Outputs/Text/UiEtl_Outputs_Text.htm#output">
+    <param name="Name" value="Коннектор к приёмнику данных «Пользовательский»: Задача ETL, веб-приложение">
+    <param name="Local" value="Web/03_ETLObjects/03_Outputs/User/UiEtl_Outputs_User.htm#output">
+    <param name="Name" value="Преобразователь «Преобразование»: Задача ETL, веб-приложение">
+    <param name="Local" value="Web/03_ETLObjects/04_Transformers/07_Transform/UiEtl_Trfs_Transform.htm">
+    <param name="Name" value="Преобразователь «Группировка»: Задача ETL, веб-приложение">
+    <param name="Local" value="Web/03_ETLObjects/04_Transformers/05_Group/uietl_trfs_group.htm">
+    <param name="Name" value="Создание преобразователей данных: Задача ETL, веб-приложение">
+    <param name="Local" value="Web/03_ETLObjects/04_Transformers/UiEtl_Trfs.htm#output_tab">
+    <param name="Name" value="Создание объектов из группы «Другое»: Задача ETL, веб-приложение">
+    <param name="Local" value="Web/03_ETLObjects/Other/Other_objects_group.htm#output_tab">
+    <param name="Name" value="Преобразователь «Разделение»: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/03_ETLObjects/04_Transformers/01_Split/uietl_split.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Редактор входов">
+    <param name="Name" value="Коннектор к приёмнику данных «Excel»: Задача ETL, веб-приложение">
+    <param name="Local" value="Web/03_ETLObjects/03_Outputs/Excel/UiEtl_Outputs_Excel.htm#input">
+    <param name="Name" value="Коннектор к приёмнику данных «Объект репозитория»: Задача ETL, веб-приложение">
+    <param name="Local" value="Web/03_ETLObjects/03_Outputs/Repositoriy/UiEtl_Outputs_Repo.htm#input">
+    <param name="Name" value="Коннектор к приёмнику данных «Текст (txt, csv)»: Задача ETL, веб-приложение">
+    <param name="Local" value="Web/03_ETLObjects/03_Outputs/Text/UiEtl_Outputs_Text.htm#input">
+    <param name="Name" value="Коннектор к приёмнику данных «Пользовательский»: Задача ETL, веб-приложение">
+    <param name="Local" value="Web/03_ETLObjects/03_Outputs/User/UiEtl_Outputs_User.htm#input">
+    <param name="Name" value="Преобразователь «Преобразование»: Задача ETL, веб-приложение">
+    <param name="Local" value="Web/03_ETLObjects/04_Transformers/07_Transform/UiEtl_Trfs_Transform.htm">
+    <param name="Name" value="Преобразователь «Группировка»: Задача ETL, веб-приложение">
+    <param name="Local" value="Web/03_ETLObjects/04_Transformers/05_Group/uietl_trfs_group.htm">
+    <param name="Name" value="Создание преобразователей данных: Задача ETL, веб-приложение">
+    <param name="Local" value="Web/03_ETLObjects/04_Transformers/UiEtl_Trfs.htm#input_tab">
+    <param name="Name" value="Создание объектов из группы «Другое»: Задача ETL, веб-приложение">
+    <param name="Local" value="Web/03_ETLObjects/Other/Other_objects_group.htm#input_tab">
+    <param name="Name" value="Преобразователь «Объединение»: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/03_ETLObjects/04_Transformers/02_Union/uietl_union.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Фильтр">
+    <param name="Name" value="Преобразователь «Фильтрация»: Задача ETL, веб-приложение">
+    <param name="Local" value="Web/03_ETLObjects/04_Transformers/06_Filter/UiEtl_Trfs_Filter.htm#condition">
+    <param name="Name" value="Преобразователь «Фильтрация»: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/03_ETLObjects/04_Transformers/06_Filter/UiEtl_Trfs_Filter.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Макрос">
+    <param name="Name" value="Преобразователь «Пользовательский»: Задача ETL, веб-приложение">
+    <param name="Local" value="Web/03_ETLObjects/04_Transformers/09_algorithm/UiEtl_Trfs_Algorithm.htm#macros">
+    <param name="Name" value="Преобразователь «Алгоритм пользователя»: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/03_ETLObjects/04_Transformers/09_algorithm/UiEtl_Trfs_Algorithm.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Индекс">
+    <param name="Name" value="Преобразователь «Соединение»: Задача ETL, веб-приложение">
+    <param name="Local" value="Web/03_ETLObjects/04_Transformers/03_Joint/uietl_joint.htm#index">
+    <param name="Name" value="Преобразователь «Соединение»: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/03_ETLObjects/04_Transformers/03_Joint/uietl_joint.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Связь полей">
+    <param name="Name" value="Преобразователь «Соединение»: Задача ETL, веб-приложение">
+    <param name="Local" value="Web/03_ETLObjects/04_Transformers/03_Joint/uietl_joint.htm#connection">
+    <param name="Name" value="Преобразователь «Соединение»: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/03_ETLObjects/04_Transformers/03_Joint/uietl_joint.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Тип соединения">
+    <param name="Name" value="Преобразователь «Соединение»: Задача ETL, веб-приложение">
+    <param name="Local" value="Web/03_ETLObjects/04_Transformers/03_Joint/uietl_joint.htm#joint_type">
+    <param name="Name" value="Преобразователь «Соединение»: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/03_ETLObjects/04_Transformers/03_Joint/uietl_joint.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Редактирование выхода с дубликатами">
+    <param name="Name" value="Преобразователь «Удаление дубликатов»: Задача ETL, веб-приложение">
+    <param name="Local" value="Web/03_ETLObjects/04_Transformers/08_Delete/uietl_trfs_delete.htm#duplicates_exit">
+    <param name="Name" value="Преобразователь «Группировка»: Задача ETL, веб-приложение">
+    <param name="Local" value="Web/03_ETLObjects/04_Transformers/05_Group/uietl_trfs_group.htm">
+    <param name="Name" value="Создание преобразователей данных: Задача ETL, веб-приложение">
+    <param name="Local" value="Web/03_ETLObjects/04_Transformers/UiEtl_Trfs.htm#error_output_tab">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Проверяемые поля">
+    <param name="Name" value="Преобразователь «Удаление дубликатов»: Задача ETL, веб-приложение">
+    <param name="Local" value="Web/03_ETLObjects/04_Transformers/08_Delete/uietl_trfs_delete.htm#fields">
+    <param name="Name" value="Преобразователь «Удаление дубликатов»: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/03_ETLObjects/04_Transformers/08_Delete/UiEtl_Trfs_Delete.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Дедупликатор">
+    <param name="Name" value="Преобразователь «Удаление дубликатов»: Задача ETL, веб-приложение">
+    <param name="Local" value="Web/03_ETLObjects/04_Transformers/08_Delete/uietl_trfs_delete.htm#deduplicator">
+    <param name="Name" value="Преобразователь «Удаление дубликатов»: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/03_ETLObjects/04_Transformers/08_Delete/UiEtl_Trfs_Delete.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Делитель">
+    <param name="Name" value="Преобразователь «Разделение»: Задача ETL, веб-приложение">
+    <param name="Local" value="Web/03_ETLObjects/04_Transformers/01_Split/uietl_split.htm#split">
+    <param name="Name" value="Преобразователь «Разделение»: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/03_ETLObjects/04_Transformers/01_Split/uietl_split.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Выход для записей с ошибками">
+    <param name="Name" value="Преобразователь «Преобразование»: Задача ETL, веб-приложение">
+    <param name="Local" value="Web/03_ETLObjects/04_Transformers/07_Transform/UiEtl_Trfs_Transform.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Преобразование данных">
+    <param name="Name" value="Преобразователь «Преобразование»: Задача ETL, веб-приложение">
+    <param name="Local" value="Web/03_ETLObjects/04_Transformers/07_Transform/UiEtl_Trfs_Transform.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Поля группировки">
+    <param name="Name" value="Преобразователь «Группировка»: Задача ETL, веб-приложение">
+    <param name="Local" value="Web/03_ETLObjects/04_Transformers/05_Group/uietl_trfs_group.htm#fields">
+    <param name="Name" value="Преобразователь «Группировка»: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/03_ETLObjects/04_Transformers/05_Group/UiEtl_Trfs_Group.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Настройка сортировки">
+    <param name="Name" value="Преобразователь «Сортировка»: Задача ETL, веб-приложение">
+    <param name="Local" value="Web/03_ETLObjects/04_Transformers/04_Sort/uietl_trfs_sort.htm#sort">
+    <param name="Name" value="Преобразователь «Сортировка»: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/03_ETLObjects/04_Transformers/04_Sort/UiEtl_Trfs_Sort.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Существующий объект репозитория">
+    <param name="Name" value="Существующий объект репозитория: Задача ETL, веб-приложение">
+    <param name="Local" value="Web/03_ETLObjects/Other/existing_object.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Настройка связей">
+    <param name="Name" value="Связи между объектами: Задача ETL, веб-приложение">
+    <param name="Local" value="Web/03_ETLObjects/05_Links/uietl_links_create.htm#edit">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Редактор выражения">
+    <param name="Name" value="Управление параметрами вложенных объектов: Задача ETL, веб-приложение#formula">
+    <param name="Local" value="Web/05_PropertyETL/paramscontrol.htm#formula">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Линия">
+    <param name="Name" value="Управление параметрами вложенных объектов: Задача ETL, веб-приложение">
+    <param name="Local" value="Web/05_PropertyETL/paramscontrol.htm">
+    <param name="Name" value="Настройка оформления задачи ETL: Веб-приложение">
+    <param name="Local" value="Web/04_Work/ETL_Decor.htm#insert_object">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Фигура">
+    <param name="Name" value="Управление параметрами вложенных объектов: Задача ETL, веб-приложение">
+    <param name="Local" value="Web/05_PropertyETL/paramscontrol.htm">
+    <param name="Name" value="Настройка оформления задачи ETL: Веб-приложение">
+    <param name="Local" value="Web/04_Work/ETL_Decor.htm#insert_object">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Изображение">
+    <param name="Name" value="Управление параметрами вложенных объектов: Задача ETL, веб-приложение">
+    <param name="Local" value="Web/05_PropertyETL/paramscontrol.htm">
+    <param name="Name" value="Настройка оформления задачи ETL: Веб-приложение">
+    <param name="Local" value="Web/04_Work/ETL_Decor.htm#insert_object">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Масштаб">
+    <param name="Name" value="Настройка рабочей области: Задача ETL, веб-приложение">
+    <param name="Local" value="Web/04_Work/UiEtl_ObjWork.htm#size">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Базовые свойства">
+    <param name="Name" value="Источник данных «Репозиторий»: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/03_ETLObjects/02_Inputs/UiEtl_Inputs_Repo.htm">
+    <param name="Name" value="Источник данных «Access»: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/03_ETLObjects/02_Inputs/UIetl_Inputs_Access.htm">
+    <param name="Name" value="Источник данных «Visual FoxPro»: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/03_ETLObjects/02_Inputs/UiEtl_Inputs_VisualFoxPro.htm">
+    <param name="Name" value="Источник данных «Dbase»: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/03_ETLObjects/02_Inputs/uietl_inputs_dbase.htm">
+    <param name="Name" value="Источник данных «Paradox»: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/03_ETLObjects/02_Inputs/UiEtl_Inputs_Paradox.htm">
+    <param name="Name" value="Источник данных «Excel»: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/03_ETLObjects/02_Inputs/UiEtl_Inputs_Excel.htm">
+    <param name="Name" value="Источник данных «XML»: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/03_ETLObjects/02_Inputs/UiEtl_Inputs_XML.htm">
+    <param name="Name" value="Источник данных «OLE DB»: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/03_ETLObjects/02_Inputs/UiEtl_Inputs_OleDB.htm">
+    <param name="Name" value="Источник данных «Текст»: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/03_ETLObjects/02_Inputs/UiEtl_Inputs_Text.htm">
+    <param name="Name" value="Источник данных «Веб-страница»: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/03_ETLObjects/02_Inputs/UiEtl_Inputs_Web.htm">
+    <param name="Name" value="Источник данных «Источник пользователя»: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/03_ETLObjects/02_Inputs/Uietl_Inputs_User.htm">
+    <param name="Name" value="Источник данных «JSON»: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/03_ETLObjects/02_Inputs/Inputs_JSON.htm">
+    <param name="Name" value="Источник данных «REST»: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/03_ETLObjects/02_Inputs/Inputs_REST.htm">
+    <param name="Name" value="Приёмник данных «Репозиторий»: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/03_ETLObjects/03_Outputs/Repositoriy/UiEtl_Outputs_Repo.htm">
+    <param name="Name" value="Приёмник данных «Access»: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/03_ETLObjects/03_Outputs/Access/UiEtl_Outputs_Access.htm">
+    <param name="Name" value="Приёмник данных «Visual FoxPro»: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/03_ETLObjects/03_Outputs/Visual_FoxPro/UiEtl_Outputs_VisualFoxPro.htm">
+    <param name="Name" value="Приёмник данных «Dbase»: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/03_ETLObjects/03_Outputs/Dbase/UiEtl_outputs_Dbase.htm">
+    <param name="Name" value="Приёмник данных «Excel»: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/03_ETLObjects/03_Outputs/Excel/UiEtl_Outputs_Excel.htm">
+    <param name="Name" value="Приёмник данных «Текст»: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/03_ETLObjects/03_Outputs/Text/UiEtl_Outputs_Text.htm">
+    <param name="Name" value="Приёмник данных «OLE DB»: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/03_ETLObjects/03_Outputs/OleDB/UiEtl_Outputs_OleDB.htm">
+    <param name="Name" value="Приёмник данных «XML»: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/03_ETLObjects/03_Outputs/XML/UiEtl_outputs_XML.htm">
+    <param name="Name" value="Приёмник данных «Приёмник пользователя»: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/03_ETLObjects/03_Outputs/User/UiEtl_Outputs_User.htm">
+    <param name="Name" value="Приёмник данных «JSON»: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/03_ETLObjects/03_Outputs/JSON/JSON_Outputs.htm">
+    <param name="Name" value="Преобразователь «Разделение»: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/03_ETLObjects/04_Transformers/01_Split/uietl_split.htm">
+    <param name="Name" value="Преобразователь «Объединение»: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/03_ETLObjects/04_Transformers/02_Union/uietl_union.htm">
+    <param name="Name" value="Преобразователь «Соединение»: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/03_ETLObjects/04_Transformers/03_Joint/uietl_joint.htm">
+    <param name="Name" value="Преобразователь «Сортировка»: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/03_ETLObjects/04_Transformers/04_Sort/UiEtl_Trfs_Sort.htm">
+    <param name="Name" value="Преобразователь «Группировка»: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/03_ETLObjects/04_Transformers/05_Group/UiEtl_Trfs_Group.htm">
+    <param name="Name" value="Преобразователь «Фильтрация»: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/03_ETLObjects/04_Transformers/06_Filter/UiEtl_Trfs_Filter.htm">
+    <param name="Name" value="Преобразователь «Преобразование»: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/03_ETLObjects/04_Transformers/07_Transform/UiEtl_Trfs_Transform.htm">
+    <param name="Name" value="Преобразователь «Удаление дубликатов»: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/03_ETLObjects/04_Transformers/08_Delete/UiEtl_Trfs_Delete.htm">
+    <param name="Name" value="Преобразователь «Алгоритм пользователя»: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/03_ETLObjects/04_Transformers/09_algorithm/UiEtl_Trfs_Algorithm.htm">
+    <param name="Name" value="Команда СУБД: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/03_ETLObjects/Other/DB_command.htm">
+    <param name="Name" value="Копирование данных: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/03_ETLObjects/02_Inputs/UiEtl_Inputs_CopyData.htm">
+    <param name="Name" value="Процедура: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/03_ETLObjects/Other/Procedure.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Источник данных">
+    <param name="Name" value="Источник данных «Репозиторий»: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/03_ETLObjects/02_Inputs/UiEtl_Inputs_Repo.htm#source">
+    <param name="Name" value="Копирование данных: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/03_ETLObjects/02_Inputs/UiEtl_Inputs_CopyData.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Настройка импорта">
+    <param name="Name" value="Источник данных «Репозиторий»: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/03_ETLObjects/02_Inputs/UiEtl_Inputs_Repo.htm#import">
+    <param name="Name" value="Источник данных «Access»: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/03_ETLObjects/02_Inputs/UIetl_Inputs_Access.htm">
+    <param name="Name" value="Источник данных «Visual FoxPro»: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/03_ETLObjects/02_Inputs/UiEtl_Inputs_VisualFoxPro.htm">
+    <param name="Name" value="Источник данных «Dbase»: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/03_ETLObjects/02_Inputs/uietl_inputs_dbase.htm">
+    <param name="Name" value="Источник данных «Paradox»: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/03_ETLObjects/02_Inputs/UiEtl_Inputs_Paradox.htm">
+    <param name="Name" value="Источник данных «Excel»: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/03_ETLObjects/02_Inputs/UiEtl_Inputs_Excel.htm">
+    <param name="Name" value="Источник данных «XML»: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/03_ETLObjects/02_Inputs/UiEtl_Inputs_XML.htm">
+    <param name="Name" value="Источник данных «Веб-страница»: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/03_ETLObjects/02_Inputs/UiEtl_Inputs_Web.htm">
+    <param name="Name" value="Источник данных «OLE DB»: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/03_ETLObjects/02_Inputs/UiEtl_Inputs_OleDB.htm">
+    <param name="Name" value="Источник данных «Текст»: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/03_ETLObjects/02_Inputs/UiEtl_Inputs_Text.htm">
+    <param name="Name" value="Источник данных «JSON»: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/03_ETLObjects/02_Inputs/Inputs_JSON.htm">
+    <param name="Name" value="Источник данных «REST»: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/03_ETLObjects/02_Inputs/Inputs_REST.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Редактирование выхода">
+    <param name="Name" value="Источник данных «Репозиторий»: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/03_ETLObjects/02_Inputs/UiEtl_Inputs_Repo.htm">
+    <param name="Name" value="Источник данных «Access»: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/03_ETLObjects/02_Inputs/UIetl_Inputs_Access.htm">
+    <param name="Name" value="Источник данных «Visual FoxPro»: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/03_ETLObjects/02_Inputs/UiEtl_Inputs_VisualFoxPro.htm">
+    <param name="Name" value="Источник данных «Dbase»: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/03_ETLObjects/02_Inputs/uietl_inputs_dbase.htm">
+    <param name="Name" value="Источник данных «Paradox»: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/03_ETLObjects/02_Inputs/UiEtl_Inputs_Paradox.htm">
+    <param name="Name" value="Источник данных «Excel»: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/03_ETLObjects/02_Inputs/UiEtl_Inputs_Excel.htm">
+    <param name="Name" value="Источник данных «XML»: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/03_ETLObjects/02_Inputs/UiEtl_Inputs_XML.htm">
+    <param name="Name" value="Источник данных «Текст»: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/03_ETLObjects/02_Inputs/UiEtl_Inputs_Text.htm">
+    <param name="Name" value="Источник данных «Веб-страница»: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/03_ETLObjects/02_Inputs/UiEtl_Inputs_Web.htm">
+    <param name="Name" value="Источник данных «OLE DB»: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/03_ETLObjects/02_Inputs/UiEtl_Inputs_OleDB.htm">
+    <param name="Name" value="Источник данных «Источник пользователя»: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/03_ETLObjects/02_Inputs/Uietl_Inputs_User.htm">
+    <param name="Name" value="Источник данных «JSON»: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/03_ETLObjects/02_Inputs/Inputs_JSON.htm">
+    <param name="Name" value="Источник данных «REST»: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/03_ETLObjects/02_Inputs/Inputs_REST.htm">
+    <param name="Name" value="Приёмник данных «Репозиторий»: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/03_ETLObjects/03_Outputs/Repositoriy/UiEtl_Outputs_Repo.htm">
+    <param name="Name" value="Приёмник данных «Access»: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/03_ETLObjects/03_Outputs/Access/UiEtl_Outputs_Access.htm">
+    <param name="Name" value="Приёмник данных «Visual FoxPro»: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/03_ETLObjects/03_Outputs/Visual_FoxPro/UiEtl_Outputs_VisualFoxPro.htm">
+    <param name="Name" value="Приёмник данных «Dbase»: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/03_ETLObjects/03_Outputs/Dbase/UiEtl_outputs_Dbase.htm">
+    <param name="Name" value="Приёмник данных «Excel»: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/03_ETLObjects/03_Outputs/Excel/UiEtl_Outputs_Excel.htm">
+    <param name="Name" value="Приёмник данных «Текст»: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/03_ETLObjects/03_Outputs/Text/UiEtl_Outputs_Text.htm">
+    <param name="Name" value="Приёмник данных «OLE DB»: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/03_ETLObjects/03_Outputs/OleDB/UiEtl_Outputs_OleDB.htm">
+    <param name="Name" value="Приёмник данных «XML»: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/03_ETLObjects/03_Outputs/XML/UiEtl_outputs_XML.htm">
+    <param name="Name" value="Приёмник данных «Приёмник пользователя»: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/03_ETLObjects/03_Outputs/User/UiEtl_Outputs_User.htm">
+    <param name="Name" value="Приёмник данных «JSON»: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/03_ETLObjects/03_Outputs/JSON/JSON_Outputs.htm">
+    <param name="Name" value="Преобразователь «Объединение»: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/03_ETLObjects/04_Transformers/02_Union/uietl_union.htm">
+    <param name="Name" value="Преобразователь «Соединение»: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/03_ETLObjects/04_Transformers/03_Joint/uietl_joint.htm">
+    <param name="Name" value="Преобразователь «Сортировка»: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/03_ETLObjects/04_Transformers/04_Sort/UiEtl_Trfs_Sort.htm">
+    <param name="Name" value="Преобразователь «Группировка»: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/03_ETLObjects/04_Transformers/05_Group/UiEtl_Trfs_Group.htm">
+    <param name="Name" value="Преобразователь «Фильтрация»: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/03_ETLObjects/04_Transformers/06_Filter/UiEtl_Trfs_Filter.htm">
+    <param name="Name" value="Преобразователь «Преобразование»: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/03_ETLObjects/04_Transformers/07_Transform/UiEtl_Trfs_Transform.htm">
+    <param name="Name" value="Преобразователь «Удаление дубликатов»: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/03_ETLObjects/04_Transformers/08_Delete/UiEtl_Trfs_Delete.htm">
+    <param name="Name" value="Команда СУБД: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/03_ETLObjects/Other/DB_command.htm">
+    <param name="Name" value="Копирование данных: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/03_ETLObjects/02_Inputs/UiEtl_Inputs_CopyData.htm">
+    <param name="Name" value="Процедура: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/03_ETLObjects/Other/Procedure.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Класс пользователя">
+    <param name="Name" value="Источник данных «Источник пользователя»: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/03_ETLObjects/02_Inputs/Uietl_Inputs_User.htm">
+    <param name="Name" value="Приёмник данных «Приёмник пользователя»: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/03_ETLObjects/03_Outputs/User/UiEtl_Outputs_User.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Объект репозитория">
+    <param name="Name" value="Приёмник данных «Репозиторий»: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/03_ETLObjects/03_Outputs/Repositoriy/UiEtl_Outputs_Repo.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Редактирование входа">
+    <param name="Name" value="Приёмник данных «Репозиторий»: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/03_ETLObjects/03_Outputs/Repositoriy/UiEtl_Outputs_Repo.htm">
+    <param name="Name" value="Приёмник данных «Access»: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/03_ETLObjects/03_Outputs/Access/UiEtl_Outputs_Access.htm">
+    <param name="Name" value="Приёмник данных «Visual FoxPro»: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/03_ETLObjects/03_Outputs/Visual_FoxPro/UiEtl_Outputs_VisualFoxPro.htm">
+    <param name="Name" value="Приёмник данных «Dbase»: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/03_ETLObjects/03_Outputs/Dbase/UiEtl_outputs_Dbase.htm">
+    <param name="Name" value="Приёмник данных «Excel»: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/03_ETLObjects/03_Outputs/Excel/UiEtl_Outputs_Excel.htm">
+    <param name="Name" value="Приёмник данных «Текст»: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/03_ETLObjects/03_Outputs/Text/UiEtl_Outputs_Text.htm">
+    <param name="Name" value="Приёмник данных «OLE DB»: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/03_ETLObjects/03_Outputs/OleDB/UiEtl_Outputs_OleDB.htm">
+    <param name="Name" value="Приёмник данных «XML»: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/03_ETLObjects/03_Outputs/XML/UiEtl_outputs_XML.htm">
+    <param name="Name" value="Приёмник данных «Приёмник пользователя»: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/03_ETLObjects/03_Outputs/User/UiEtl_Outputs_User.htm">
+    <param name="Name" value="Приёмник данных «JSON»: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/03_ETLObjects/03_Outputs/JSON/JSON_Outputs.htm">
+    <param name="Name" value="Преобразователь «Разделение»: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/03_ETLObjects/04_Transformers/01_Split/uietl_split.htm">
+    <param name="Name" value="Преобразователь «Сортировка»: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/03_ETLObjects/04_Transformers/04_Sort/UiEtl_Trfs_Sort.htm">
+    <param name="Name" value="Преобразователь «Группировка»: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/03_ETLObjects/04_Transformers/05_Group/UiEtl_Trfs_Group.htm">
+    <param name="Name" value="Преобразователь «Фильтрация»: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/03_ETLObjects/04_Transformers/06_Filter/UiEtl_Trfs_Filter.htm">
+    <param name="Name" value="Преобразователь «Преобразование»: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/03_ETLObjects/04_Transformers/07_Transform/UiEtl_Trfs_Transform.htm">
+    <param name="Name" value="Преобразователь «Удаление дубликатов»: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/03_ETLObjects/04_Transformers/08_Delete/UiEtl_Trfs_Delete.htm">
+    <param name="Name" value="Команда СУБД: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/03_ETLObjects/Other/DB_command.htm">
+    <param name="Name" value="Процедура: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/03_ETLObjects/Other/Procedure.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Приёмник данных">
+    <param name="Name" value="Приёмник данных «Репозиторий»: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/03_ETLObjects/03_Outputs/Repositoriy/UiEtl_Outputs_Repo.htm#receiver">
+    <param name="Name" value="Копирование данных: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/03_ETLObjects/02_Inputs/UiEtl_Inputs_CopyData.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Обработка ошибок">
+    <param name="Name" value="Приёмник данных «Репозиторий»: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/03_ETLObjects/03_Outputs/Repositoriy/UiEtl_Outputs_Repo.htm">
+    <param name="Name" value="Приёмник данных «Access»: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/03_ETLObjects/03_Outputs/Access/UiEtl_Outputs_Access.htm">
+    <param name="Name" value="Приёмник данных «Visual FoxPro»: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/03_ETLObjects/03_Outputs/Visual_FoxPro/UiEtl_Outputs_VisualFoxPro.htm">
+    <param name="Name" value="Приёмник данных «Dbase»: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/03_ETLObjects/03_Outputs/Dbase/UiEtl_outputs_Dbase.htm">
+    <param name="Name" value="Приёмник данных «Excel»: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/03_ETLObjects/03_Outputs/Excel/UiEtl_Outputs_Excel.htm">
+    <param name="Name" value="Приёмник данных «OLE DB»: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/03_ETLObjects/03_Outputs/OleDB/UiEtl_Outputs_OleDB.htm">
+    <param name="Name" value="Копирование данных: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/03_ETLObjects/02_Inputs/UiEtl_Inputs_CopyData.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Настройка экспорта">
+    <param name="Name" value="Приёмник данных «Репозиторий»: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/03_ETLObjects/03_Outputs/Repositoriy/UiEtl_Outputs_Repo.htm">
+    <param name="Name" value="Приёмник данных «Access»: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/03_ETLObjects/03_Outputs/Access/UiEtl_Outputs_Access.htm">
+    <param name="Name" value="Приёмник данных «Visual FoxPro»: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/03_ETLObjects/03_Outputs/Visual_FoxPro/UiEtl_Outputs_VisualFoxPro.htm">
+    <param name="Name" value="Приёмник данных «Dbase»: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/03_ETLObjects/03_Outputs/Dbase/UiEtl_outputs_Dbase.htm">
+    <param name="Name" value="Приёмник данных «Текст»: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/03_ETLObjects/03_Outputs/Text/UiEtl_Outputs_Text.htm">
+    <param name="Name" value="Приёмник данных «OLE DB»: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/03_ETLObjects/03_Outputs/OleDB/UiEtl_Outputs_OleDB.htm">
+    <param name="Name" value="Приёмник данных «XML»: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/03_ETLObjects/03_Outputs/XML/UiEtl_outputs_XML.htm">
+    <param name="Name" value="Приёмник данных «JSON»: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/03_ETLObjects/03_Outputs/JSON/JSON_Outputs.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Настройка измерений">
+    <param name="Name" value="Приёмник данных «Репозиторий»: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/03_ETLObjects/03_Outputs/Repositoriy/UiEtl_Outputs_Repo.htm">
+    <param name="Name" value="Копирование данных: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/03_ETLObjects/02_Inputs/UiEtl_Inputs_CopyData.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Сопоставление измерений">
+    <param name="Name" value="Приёмник данных «Репозиторий»: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/03_ETLObjects/03_Outputs/Repositoriy/UiEtl_Outputs_Repo.htm">
+    <param name="Name" value="Копирование данных: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/03_ETLObjects/02_Inputs/UiEtl_Inputs_CopyData.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Фиксация измерений приёмника">
+    <param name="Name" value="Приёмник данных «Репозиторий»: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/03_ETLObjects/03_Outputs/Repositoriy/UiEtl_Outputs_Repo.htm">
+    <param name="Name" value="Копирование данных: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/03_ETLObjects/02_Inputs/UiEtl_Inputs_CopyData.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Обновление записей">
+    <param name="Name" value="Приёмник данных «Репозиторий»: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/03_ETLObjects/03_Outputs/Repositoriy/UiEtl_Outputs_Repo.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Редактирование выхода с ошибочными записями">
+    <param name="Name" value="Преобразователь «Разделение»: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/03_ETLObjects/04_Transformers/01_Split/uietl_split.htm">
+    <param name="Name" value="Преобразователь «Соединение»: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/03_ETLObjects/04_Transformers/03_Joint/uietl_joint.htm">
+    <param name="Name" value="Преобразователь «Сортировка»: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/03_ETLObjects/04_Transformers/04_Sort/UiEtl_Trfs_Sort.htm">
+    <param name="Name" value="Преобразователь «Группировка»: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/03_ETLObjects/04_Transformers/05_Group/UiEtl_Trfs_Group.htm">
+    <param name="Name" value="Преобразователь «Фильтрация»: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/03_ETLObjects/04_Transformers/06_Filter/UiEtl_Trfs_Filter.htm">
+    <param name="Name" value="Преобразователь «Преобразование»: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/03_ETLObjects/04_Transformers/07_Transform/UiEtl_Trfs_Transform.htm">
+    <param name="Name" value="Преобразователь «Удаление дубликатов»: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/03_ETLObjects/04_Transformers/08_Delete/UiEtl_Trfs_Delete.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Редактирование выходов с ошибочными записями">
+    <param name="Name" value="Преобразователь «Объединение»: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/03_ETLObjects/04_Transformers/02_Union/uietl_union.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Другое">
+    <param name="Name" value="Создание объектов из группы «Другое»: Задача ETL, веб-приложение">
+    <param name="Local" value="Web/03_ETLObjects/Other/Other_objects_group.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Команда СУБД">
+      <param name="Name" value="Команда СУБД: Задача ETL, веб-приложение">
+      <param name="Local" value="Web/03_ETLObjects/Other/DB_command.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Процедура">
+      <param name="Name" value="Процедура: Задача ETL, веб-приложение">
+      <param name="Local" value="Web/03_ETLObjects/Other/Procedure.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Существующий объект репозитория">
+      <param name="Name" value="Существующий объект репозитория: Задача ETL, веб-приложение">
+      <param name="Local" value="Web/03_ETLObjects/Other/existing_object.htm">
+    </object>
+    </ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Другие">
+    <param name="Name" value="Создание объектов из группы «Другие»: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/03_ETLObjects/Other/Other_objects_group.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Копирование данных">
+      <param name="Name" value="Копирование данных: Задача ETL, настольное приложение">
+      <param name="Local" value="Desktop/03_ETLObjects/02_Inputs/UiEtl_Inputs_CopyData.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Команда СУБД">
+      <param name="Name" value="Команда СУБД: Задача ETL, настольное приложение">
+      <param name="Local" value="Desktop/03_ETLObjects/Other/DB_command.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Процедура">
+      <param name="Name" value="Процедура: Задача ETL, настольное приложение">
+      <param name="Local" value="Desktop/03_ETLObjects/Other/Procedure.htm">
+    </object>
+    </ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Поля приёмника">
+    <param name="Name" value="Копирование данных: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/03_ETLObjects/02_Inputs/UiEtl_Inputs_CopyData.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Связь">
+    <param name="Name" value="Копирование данных: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/03_ETLObjects/02_Inputs/UiEtl_Inputs_CopyData.htm">
+    <param name="Name" value="Связи между объектами: Задача ETL, веб-приложение">
+    <param name="Local" value="Web/03_ETLObjects/05_Links/uietl_links_create.htm">
+    <param name="Name" value="Связи между объектами: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/03_ETLObjects/05_Links/uietl_links_create.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Настройка выполнения">
+    <param name="Name" value="Процедура: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/03_ETLObjects/Other/Procedure.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Формат объекта">
+    <param name="Name" value="Оформление объектов: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/04_Work/01_ObjFormat/UiEtl_ObjFormat.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Очередность выполнения операций">
+    <param name="Name" value="Настройка очередности выполнения операций: Задача ETL, настольное приложение">
+    <param name="Local" value="Desktop/05_PropertyETL/UiETL_Property_queue.htm">
+  </object>
+</ul>
+</html>

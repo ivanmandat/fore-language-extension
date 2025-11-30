@@ -1,0 +1,408 @@
+<html>
+<!-- Sitemap 1.0 -->
+<object type="text/site properties">
+  <param name="SiteType" value="toc">
+  <param name="Image Width" value="16">
+  <param name="Window Styles" value="0x800027">
+  <param name="ExWindow Styles" value="0x100">
+</object>
+<ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ProjectPlanning">
+    <param name="Local" value="Intro/ProjectPlanning_TitlePage.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Введение в сборку ProjectPlanning">
+      <param name="Local" value="Intro/ProjectPlanning_Introduction.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Общие принципы программирования с использованием сборки ProjectPlanning">
+        <param name="Local" value="Intro/ProjectPlanning_Programming.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Иерархия сборки ProjectPlanning">
+        <param name="Local" value="Intro/ProjectPlanning_Hierarchy.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Интерфейсы сборки ProjectPlanning">
+      <param name="Local" value="Interface/ProjectPlanning_Interface.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IPrjCalendarOptions">
+        <param name="Local" value="Interface/IPrjCalendarOptions/IPrjCalendarOptions.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPrjCalendarOptions.ExcludedDates">
+          <param name="Local" value="Interface/IPrjCalendarOptions/IPrjCalendarOptions.ExcludedDates.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPrjCalendarOptions.IncludeWeekend">
+          <param name="Local" value="Interface/IPrjCalendarOptions/IPrjCalendarOptions.IncludeWeekend.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IPrjContradiction">
+        <param name="Local" value="Interface/IPrjContradiction/IPrjContradiction.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPrjContradiction.Dependency">
+          <param name="Local" value="Interface/IPrjContradiction/IPrjContradiction.Dependency.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPrjContradiction.Difference">
+          <param name="Local" value="Interface/IPrjContradiction/IPrjContradiction.Difference.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPrjContradiction.Follower">
+          <param name="Local" value="Interface/IPrjContradiction/IPrjContradiction.Follower.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPrjContradiction.Predecessor">
+          <param name="Local" value="Interface/IPrjContradiction/IPrjContradiction.Predecessor.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IPrjContradictionsCollection">
+        <param name="Local" value="Interface/IPrjContradictionsCollection/IPrjContradictionsCollection.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPrjContradictionsCollection.Clear">
+          <param name="Local" value="Interface/IPrjContradictionsCollection/IPrjContradictionsCollection.Clear.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPrjContradictionsCollection.Count">
+          <param name="Local" value="Interface/IPrjContradictionsCollection/IPrjContradictionsCollection.Count.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPrjContradictionsCollection.Item">
+          <param name="Local" value="Interface/IPrjContradictionsCollection/IPrjContradictionsCollection.Item.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPrjContradictionsCollection.Remove">
+          <param name="Local" value="Interface/IPrjContradictionsCollection/IPrjContradictionsCollection.Remove.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IPrjProject">
+        <param name="Local" value="Interface/IPrjProject/IPrjProject.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPrjProject.CalendarOptions">
+          <param name="Local" value="Interface/IPrjProject/IPrjProject.CalendarOptions.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPrjProject.CheckConstraints">
+          <param name="Local" value="Interface/IPrjProject/IPrjProject.CheckConstraints.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPrjProject.Contradictions">
+          <param name="Local" value="Interface/IPrjProject/IPrjProject.Contradictions.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPrjProject.EndDate">
+          <param name="Local" value="Interface/IPrjProject/IPrjProject.EndDate.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPrjProject.Plan">
+          <param name="Local" value="Interface/IPrjProject/IPrjProject.Plan.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPrjProject.StartDate">
+          <param name="Local" value="Interface/IPrjProject/IPrjProject.StartDate.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPrjProject.Status">
+          <param name="Local" value="Interface/IPrjProject/IPrjProject.Status.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPrjProject.Tasks">
+          <param name="Local" value="Interface/IPrjProject/IPrjProject.Tasks.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPrjProject.UseStartDate">
+          <param name="Local" value="Interface/IPrjProject/IPrjProject.UseStartDate.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IPrjStatus">
+        <param name="Local" value="Interface/IPrjStatus/IPrjStatus.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPrjStatus.Errors">
+          <param name="Local" value="Interface/IPrjStatus/IPrjStatus.Errors.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPrjStatus.Warnings">
+          <param name="Local" value="Interface/IPrjStatus/IPrjStatus.Warnings.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IPrjStatusCollection">
+        <param name="Local" value="Interface/IPrjStatusCollection/IPrjStatusCollection.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPrjStatusCollection.Count">
+          <param name="Local" value="Interface/IPrjStatusCollection/IPrjStatusCollection.Count.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPrjStatusCollection.Item">
+          <param name="Local" value="Interface/IPrjStatusCollection/IPrjStatusCollection.Item.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IPrjStatusItem">
+        <param name="Local" value="Interface/IPrjStatusItem/IPrjStatusItem.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPrjStatusItem.Code">
+          <param name="Local" value="Interface/IPrjStatusItem/IPrjStatusItem.Code.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPrjStatusItem.Keys">
+          <param name="Local" value="Interface/IPrjStatusItem/IPrjStatusItem.Keys.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPrjStatusItem.Message">
+          <param name="Local" value="Interface/IPrjStatusItem/IPrjStatusItem.Message.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IPrjTask">
+        <param name="Local" value="Interface/IPrjTask/IPrjTask.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPrjTask.ConstraintDate">
+          <param name="Local" value="Interface/IPrjTask/IPrjTask.ConstraintDate.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPrjTask.ConstraintType">
+          <param name="Local" value="Interface/IPrjTask/IPrjTask.ConstraintType.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPrjTask.Dependencies">
+          <param name="Local" value="Interface/IPrjTask/IPrjTask.Dependencies.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPrjTask.FactPeriod">
+          <param name="Local" value="Interface/IPrjTask/IPrjTask.FactPeriod.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPrjTask.ForecastPeriod">
+          <param name="Local" value="Interface/IPrjTask/IPrjTask.ForecastPeriod.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPrjTask.Key">
+          <param name="Local" value="Interface/IPrjTask/IPrjTask.Key.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPrjTask.Name">
+          <param name="Local" value="Interface/IPrjTask/IPrjTask.Name.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPrjTask.ParentKey">
+          <param name="Local" value="Interface/IPrjTask/IPrjTask.ParentKey.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPrjTask.PlanPeriod">
+          <param name="Local" value="Interface/IPrjTask/IPrjTask.PlanPeriod.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPrjTask.WorkOutType">
+          <param name="Local" value="Interface/IPrjTask/IPrjTask.WorkOutType.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IPrjTaskCollection">
+        <param name="Local" value="Interface/IPrjTaskCollection/IPrjTaskCollection.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPrjTaskCollection.Add">
+          <param name="Local" value="Interface/IPrjTaskCollection/IPrjTaskCollection.Add.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPrjTaskCollection.Clear">
+          <param name="Local" value="Interface/IPrjTaskCollection/IPrjTaskCollection.Clear.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPrjTaskCollection.Count">
+          <param name="Local" value="Interface/IPrjTaskCollection/IPrjTaskCollection.Count.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPrjTaskCollection.FindByKey">
+          <param name="Local" value="Interface/IPrjTaskCollection/IPrjTaskCollection.FindByKey.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPrjTaskCollection.Item">
+          <param name="Local" value="Interface/IPrjTaskCollection/IPrjTaskCollection.Item.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPrjTaskCollection.Remove">
+          <param name="Local" value="Interface/IPrjTaskCollection/IPrjTaskCollection.Remove.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IPrjTaskDependenciesCollection">
+        <param name="Local" value="Interface/IPrjTaskDependenciesCollection/IPrjTaskDependenciesCollection.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPrjTaskDependenciesCollection.Add">
+          <param name="Local" value="Interface/IPrjTaskDependenciesCollection/IPrjTaskDependenciesCollection.Add.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPrjTaskDependenciesCollection.Clear">
+          <param name="Local" value="Interface/IPrjTaskDependenciesCollection/IPrjTaskDependenciesCollection.Clear.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPrjTaskDependenciesCollection.Count">
+          <param name="Local" value="Interface/IPrjTaskDependenciesCollection/IPrjTaskDependenciesCollection.Count.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPrjTaskDependenciesCollection.Item">
+          <param name="Local" value="Interface/IPrjTaskDependenciesCollection/IPrjTaskDependenciesCollection.Item.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPrjTaskDependenciesCollection.Remove">
+          <param name="Local" value="Interface/IPrjTaskDependenciesCollection/IPrjTaskDependenciesCollection.Remove.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IPrjTaskDependency">
+        <param name="Local" value="Interface/IPrjTaskDependency/IPrjTaskDependency.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPrjTaskDependency.Lag">
+          <param name="Local" value="Interface/IPrjTaskDependency/IPrjTaskDependency.Lag.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPrjTaskDependency.PredecessorTaskKey">
+          <param name="Local" value="Interface/IPrjTaskDependency/IPrjTaskDependency.PredecessorTaskKey.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPrjTaskDependency.Type">
+          <param name="Local" value="Interface/IPrjTaskDependency/IPrjTaskDependency.Type.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IPrjTaskPeriod">
+        <param name="Local" value="Interface/IPrjTaskPeriod/IPrjTaskPeriod.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPrjTaskPeriod.Duration">
+          <param name="Local" value="Interface/IPrjTaskPeriod/IPrjTaskPeriod.Duration.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPrjTaskPeriod.FinishDate">
+          <param name="Local" value="Interface/IPrjTaskPeriod/IPrjTaskPeriod.FinishDate.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IPrjTaskPeriod.StartDate">
+          <param name="Local" value="Interface/IPrjTaskPeriod/IPrjTaskPeriod.StartDate.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Перечисления сборки ProjectPlanning">
+      <param name="Local" value="Enums/ProjectPlanning_Enums.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="PrjTaskConstraintType">
+        <param name="Local" value="Enums/PrjTaskConstraintType.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="PrjTaskDependencyType">
+        <param name="Local" value="Enums/PrjTaskDependencyType.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="PrjTaskWorkOutTypes">
+        <param name="Local" value="Enums/PrjTaskWorkOutTypes.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Классы сборки ProjectPlanning">
+      <param name="Local" value="Class/ProjectPlanning_Classes.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="PrjProject">
+        <param name="Local" value="Class/PrjProject/PrjProject.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      </ul>
+    </ul>
+</ul>
+</html>

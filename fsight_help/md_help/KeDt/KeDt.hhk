@@ -1,0 +1,2450 @@
+<html>
+<!-- Sitemap 1.0 -->
+<object type="text/site properties">
+  <param name="SiteType" value="index">
+</object>
+<ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtUserConsumer.UserData">
+    <param name="Name" value="IDtUserConsumer.UserData">
+    <param name="Local" value="Interface/IDtUserConsumer/IDtUserConsumer.UserData.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtUserProvider.UserData">
+    <param name="Name" value="IDtUserProvider.UserData">
+    <param name="Local" value="Interface/IDtUserProvider/IDtUserProvider.UserData.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Примеры">
+    <param name="Name" value="Примеры: Сборка Dt">
+    <param name="Local" value="Samples/Samples.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Проверка структуры файла формата XLS">
+      <param name="Name" value="Проверка структуры файла формата XLS">
+      <param name="Local" value="Samples/XLS_Structure.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Пользовательский алгоритм получения данных">
+      <param name="Name" value="Пример пользовательского алгоритма получения данных">
+      <param name="Local" value="Interface/IDtUserProviderEx/MyDtCustomProvider.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Пользовательский алгоритм выгрузки данных">
+      <param name="Name" value="Пример пользовательского алгоритма выгрузки данных">
+      <param name="Local" value="Interface/IDtUserConsumerEx/MyDtCustomConsumer.htm">
+    </object>
+    </ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtProvider.CalcFieldsErrors">
+    <param name="Name" value="IDtProvider.CalcFieldsErrors">
+    <param name="Local" value="Interface/IDtProvider/IDtProvider.CalcFieldsErrors.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtRecordsetUserData.UserData">
+    <param name="Name" value="IDtRecordsetUserData.UserData">
+    <param name="Local" value="Interface/IDtRecordsetUserData/IDtRecordsetUserData.UserData.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtRecordsetUserData">
+    <param name="Name" value="IDtRecordsetUserData">
+    <param name="Local" value="Interface/IDtRecordsetUserData/IDtRecordsetUserData.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtUnpivotProvider.DataWidth">
+    <param name="Name" value="IDtUnpivotProvider.DataWidth">
+    <param name="Local" value="Interface/IDtUnpivotProvider/IDtUnpivotProvider.DataWidth.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtTextProvider.TextCodePage">
+    <param name="Name" value="IDtTextProvider.TextCodePage">
+    <param name="Local" value="Interface/IDtTextProvider/IDtTextProvider.TextCodePage.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtDocument.Document">
+    <param name="Name" value="IDtDocument.Document">
+    <param name="Local" value="Interface/IDtDocument/IDtDocument.Document.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtDocument">
+    <param name="Name" value="IDtDocument">
+    <param name="Local" value="Interface/IDtDocument/IDtDocument.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ForceFullCalculation">
+    <param name="Name" value="IDtExcelConsumerEx.ForceFullCalculation">
+    <param name="Local" value="Interface/IDtExcelConsumerEx/IDtExcelConsumerEx.ForceFullCalculation.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtExcelConsumerEx.ForceFullCalculation">
+    <param name="Name" value="IDtExcelConsumerEx.ForceFullCalculation">
+    <param name="Local" value="Interface/IDtExcelConsumerEx/IDtExcelConsumerEx.ForceFullCalculation.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="StopLimit">
+    <param name="Name" value="IDtBulkPacket.StopLimit">
+    <param name="Local" value="Interface/IDtBulkPacket/IDtBulkPacket.StopLimit.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtBulkPacket.StopLimit">
+    <param name="Name" value="IDtBulkPacket.StopLimit">
+    <param name="Local" value="Interface/IDtBulkPacket/IDtBulkPacket.StopLimit.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ErrorMessage">
+    <param name="Name" value="IDtBulkPacket.ErrorMessage">
+    <param name="Local" value="Interface/IDtBulkPacket/IDtBulkPacket.ErrorMessage.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtBulkPacket.ErrorMessage">
+    <param name="Name" value="IDtBulkPacket.ErrorMessage">
+    <param name="Local" value="Interface/IDtBulkPacket/IDtBulkPacket.ErrorMessage.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="CatchAddRecordException">
+    <param name="Name" value="IDtMetabaseConsumer.CatchAddRecordException">
+    <param name="Local" value="Interface/IDtMetabaseConsumer/IDtMetabaseConsumer.CatchAddRecordException.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtMetabaseConsumer.CatchAddRecordException">
+    <param name="Name" value="IDtMetabaseConsumer.CatchAddRecordException">
+    <param name="Local" value="Interface/IDtMetabaseConsumer/IDtMetabaseConsumer.CatchAddRecordException.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ImplementPut">
+    <param name="Name" value="IDtCustomConsumer.ImplementPut">
+    <param name="Local" value="Interface/IDtCustomConsumer/IDtCustomConsumer.ImplementPut.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtCustomConsumer.ImplementPut">
+    <param name="Name" value="IDtCustomConsumer.ImplementPut">
+    <param name="Local" value="Interface/IDtCustomConsumer/IDtCustomConsumer.ImplementPut.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtCustomProvider.ImplementFetchRows">
+    <param name="Name" value="IDtCustomProvider.ImplementFetchRows">
+    <param name="Local" value="Interface/IDtCustomProvider/IDtCustomProvider.ImplementFetchRows.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ImplementFetchRows">
+    <param name="Name" value="IDtCustomProvider.ImplementFetchRows">
+    <param name="Local" value="Interface/IDtCustomProvider/IDtCustomProvider.ImplementFetchRows.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Load">
+    <param name="Name" value="IDtObject.Load">
+    <param name="Local" value="Interface/IDtObject/IDtObject.Load.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtObject.Load">
+    <param name="Name" value="IDtObject.Load">
+    <param name="Local" value="Interface/IDtObject/IDtObject.Load.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Save">
+    <param name="Name" value="IDtObject.Save">
+    <param name="Local" value="Interface/IDtObject/IDtObject.Save.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtObject.Save">
+    <param name="Name" value="IDtObject.Save">
+    <param name="Local" value="Interface/IDtObject/IDtObject.Save.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="CustomObject">
+    <param name="Name" value="IDtUserProviderEx.CustomObject">
+    <param name="Local" value="Interface/IDtUserProviderEx/IDtUserProviderEx.CustomObject.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtUserProviderEx.CustomObject">
+    <param name="Name" value="IDtUserProviderEx.CustomObject">
+    <param name="Local" value="Interface/IDtUserProviderEx/IDtUserProviderEx.CustomObject.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtConsumer.PutRow">
+    <param name="Name" value="IDtConsumer.PutRow">
+    <param name="Local" value="Interface/IDtConsumer/IDtConsumer.PutRow.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="DtUserConsumerEx">
+    <param name="Name" value="DtUserConsumerEx">
+    <param name="Local" value="Class/DtUserConsumerEx/DtUserConsumerEx.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="DtUserProviderEx">
+    <param name="Name" value="DtUserProviderEx">
+    <param name="Local" value="Class/DtUserProviderEx/DtUserProviderEx.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtError.Message">
+    <param name="Name" value="IDtError.Message">
+    <param name="Local" value="Interface/IDtError/IDtError.Message.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtCustomConsumer.PutRow">
+    <param name="Name" value="IDtCustomConsumer.PutRow">
+    <param name="Local" value="Interface/IDtCustomConsumer/IDtCustomConsumer.PutRow.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtErrors">
+    <param name="Name" value="IDtErrors">
+    <param name="Local" value="Interface/IDtErrors/IDtErrors.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtCustomConsumer.WritingRowsCount">
+    <param name="Name" value="IDtCustomConsumer.WritingRowsCount">
+    <param name="Local" value="Interface/IDtCustomConsumer/IDtCustomConsumer.WritingRowsCount.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtCustomConsumer.Put">
+    <param name="Name" value="IDtCustomConsumer.Put">
+    <param name="Local" value="Interface/IDtCustomConsumer/IDtCustomConsumer.Put.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtCustomConsumer.Clear">
+    <param name="Name" value="IDtCustomConsumer.Clear">
+    <param name="Local" value="Interface/IDtCustomConsumer/IDtCustomConsumer.Clear.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtCustomConsumer">
+    <param name="Name" value="IDtCustomConsumer">
+    <param name="Local" value="Interface/IDtCustomConsumer/IDtCustomConsumer.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="CustomConsumer">
+    <param name="Name" value="IDtUserConsumerEx.CustomConsumer">
+    <param name="Local" value="Interface/IDtUserConsumerEx/IDtUserConsumerEx.CustomConsumer.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtUserConsumerEx.CustomConsumer">
+    <param name="Name" value="IDtUserConsumerEx.CustomConsumer">
+    <param name="Local" value="Interface/IDtUserConsumerEx/IDtUserConsumerEx.CustomConsumer.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtUserConsumerEx">
+    <param name="Name" value="IDtUserConsumerEx">
+    <param name="Local" value="Interface/IDtUserConsumerEx/IDtUserConsumerEx.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtCustomProvider.ReadingRowsCount">
+    <param name="Name" value="IDtCustomProvider.ReadingRowsCount">
+    <param name="Local" value="Interface/IDtCustomProvider/IDtCustomProvider.ReadingRowsCount.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtCustomProvider.FetchRows">
+    <param name="Name" value="IDtCustomProvider.FetchRows">
+    <param name="Local" value="Interface/IDtCustomProvider/IDtCustomProvider.FetchRows.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtCustomProvider.Fetch">
+    <param name="Name" value="IDtCustomProvider.Fetch">
+    <param name="Local" value="Interface/IDtCustomProvider/IDtCustomProvider.Fetch.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtCustomProvider.Eof">
+    <param name="Name" value="IDtCustomProvider.Eof">
+    <param name="Local" value="Interface/IDtCustomProvider/IDtCustomProvider.Eof.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtCustomProvider">
+    <param name="Name" value="IDtCustomProvider">
+    <param name="Local" value="Interface/IDtCustomProvider/IDtCustomProvider.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="CustomProvider">
+    <param name="Name" value="IDtUserProviderEx.CustomProvider">
+    <param name="Local" value="Interface/IDtUserProviderEx/IDtUserProviderEx.CustomProvider.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtUserProviderEx.CustomProvider">
+    <param name="Name" value="IDtUserProviderEx.CustomProvider">
+    <param name="Local" value="Interface/IDtUserProviderEx/IDtUserProviderEx.CustomProvider.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtUserProviderEx">
+    <param name="Name" value="IDtUserProviderEx">
+    <param name="Local" value="Interface/IDtUserProviderEx/IDtUserProviderEx.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="DtFieldDefinition">
+    <param name="Name" value="DtFieldDefinition">
+    <param name="Local" value="Class/DtFieldDefinition/DtFieldDefinition.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtExcelConsumerEx">
+    <param name="Name" value="IDtExcelConsumerEx">
+    <param name="Local" value="Interface/IDtExcelConsumerEx/IDtExcelConsumerEx.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="DtExcelProviderEx">
+    <param name="Name" value="DtExcelProviderEx">
+    <param name="Local" value="Class/DtExcelProviderEx/DtExcelProviderEx.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="DataRow">
+    <param name="Name" value="IDtExcelProviderEx.DataRow">
+    <param name="Local" value="Interface/IDtExcelProviderEx/IDtExcelProviderEx.DataRow.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtExcelProviderEx.DataRow">
+    <param name="Name" value="IDtExcelProviderEx.DataRow">
+    <param name="Local" value="Interface/IDtExcelProviderEx/IDtExcelProviderEx.DataRow.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Format">
+    <param name="Name" value="IDtExcelProviderEx.Format">
+    <param name="Local" value="Interface/IDtExcelProviderEx/IDtExcelProviderEx.Format.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtExcelProviderEx.Format">
+    <param name="Name" value="IDtExcelProviderEx.Format">
+    <param name="Local" value="Interface/IDtExcelProviderEx/IDtExcelProviderEx.Format.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="AutoFillFieldsMode">
+    <param name="Name" value="IDtProvider.AutoFillFieldsMode">
+    <param name="Local" value="Interface/IDtProvider/IDtProvider.AutoFillFieldsMode.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtExcelProviderEx.HeaderRow">
+    <param name="Name" value="IDtExcelProviderEx.HeaderRow">
+    <param name="Local" value="Interface/IDtExcelProviderEx/IDtExcelProviderEx.HeaderRow.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtExcelProviderEx.HasHeader">
+    <param name="Name" value="IDtExcelProviderEx.HasHeader">
+    <param name="Local" value="Interface/IDtExcelProviderEx/IDtExcelProviderEx.HasHeader.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtExcelProviderEx.Sheet">
+    <param name="Name" value="IDtExcelProviderEx.Sheet">
+    <param name="Local" value="Interface/IDtExcelProviderEx/IDtExcelProviderEx.Sheet.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtExcelProviderEx.File">
+    <param name="Name" value="IDtExcelProviderEx.File">
+    <param name="Local" value="Interface/IDtExcelProviderEx/IDtExcelProviderEx.File.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtExcelProviderEx">
+    <param name="Name" value="IDtExcelProviderEx">
+    <param name="Local" value="Interface/IDtExcelProviderEx/IDtExcelProviderEx.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="DtExcelConsumerEx">
+    <param name="Name" value="DtExcelConsumerEx">
+    <param name="Local" value="Class/DtExcelConsumerEx/DtExcelConsumerEx.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtExcelConsumerEx.Sheet">
+    <param name="Name" value="IDtExcelConsumerEx.Sheet">
+    <param name="Local" value="Interface/IDtExcelConsumerEx/IDtExcelConsumerEx.Sheet.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtExcelConsumerEx.HasHeader">
+    <param name="Name" value="IDtExcelConsumerEx.HasHeader">
+    <param name="Local" value="Interface/IDtExcelConsumerEx/IDtExcelConsumerEx.HasHeader.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtExcelConsumerEx.File">
+    <param name="Name" value="IDtExcelConsumerEx.File">
+    <param name="Local" value="Interface/IDtExcelConsumerEx/IDtExcelConsumerEx.File.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ClearFields">
+    <param name="Name" value="IDtObject.ClearFields">
+    <param name="Local" value="Interface/IDtObject/IDtObject.ClearFields.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtObject.ClearFields">
+    <param name="Name" value="IDtObject.ClearFields">
+    <param name="Local" value="Interface/IDtObject/IDtObject.ClearFields.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GetType">
+    <param name="Name" value="IDtObject.GetType">
+    <param name="Local" value="Interface/IDtObject/IDtObject.GetType.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtObject.GetType">
+    <param name="Name" value="IDtObject.GetType">
+    <param name="Local" value="Interface/IDtObject/IDtObject.GetType.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="DtObjectType">
+    <param name="Name" value="DtObjectType">
+    <param name="Local" value="Enums/DtObjectType.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Precision">
+    <param name="Name" value="IDtFieldDefinition.Precision">
+    <param name="Local" value="Interface/IDtFieldDefinition/IDtFieldDefinition.Precision.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtFieldDefinition.Precision">
+    <param name="Name" value="IDtFieldDefinition.Precision">
+    <param name="Local" value="Interface/IDtFieldDefinition/IDtFieldDefinition.Precision.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtFieldDefinition.Size">
+    <param name="Name" value="IDtFieldDefinition.Size">
+    <param name="Local" value="Interface/IDtFieldDefinition/IDtFieldDefinition.Size.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="DelimitedColumnDelimiters">
+    <param name="Name" value="IDtTextProvider.DelimitedColumnDelimiters">
+    <param name="Local" value="Interface/IDtTextProvider/IDtTextProvider.DelimitedColumnDelimiters.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtTextProvider.DelimitedColumnDelimiters">
+    <param name="Name" value="IDtTextProvider.DelimitedColumnDelimiters">
+    <param name="Local" value="Interface/IDtTextProvider/IDtTextProvider.DelimitedColumnDelimiters.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="DataFromClipboard">
+    <param name="Name" value="IDtTextProvider.DataFromClipboard">
+    <param name="Local" value="Interface/IDtTextProvider/IDtTextProvider.DataFromClipboard.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtTextProvider.DataFromClipboard">
+    <param name="Name" value="IDtTextProvider.DataFromClipboard">
+    <param name="Local" value="Interface/IDtTextProvider/IDtTextProvider.DataFromClipboard.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="CheckFieldName">
+    <param name="Name" value="IDtExcelProvider.CheckFieldName">
+    <param name="Local" value="Interface/IDtExcelProvider/IDtExcelProvider.CheckFieldName.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtExcelProvider.CheckFieldName">
+    <param name="Name" value="IDtExcelProvider.CheckFieldName">
+    <param name="Local" value="Interface/IDtExcelProvider/IDtExcelProvider.CheckFieldName.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="AllowMuchColumnDelimiter">
+    <param name="Name" value="IDtTextProvider.AllowMuchColumnDelimiter">
+    <param name="Local" value="Interface/IDtTextProvider/IDtTextProvider.AllowMuchColumnDelimiter.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtTextProvider.AllowMuchColumnDelimiter">
+    <param name="Name" value="IDtTextProvider.AllowMuchColumnDelimiter">
+    <param name="Local" value="Interface/IDtTextProvider/IDtTextProvider.AllowMuchColumnDelimiter.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtTextProvider.HeaderRow">
+    <param name="Name" value="IDtTextProvider.HeaderRow">
+    <param name="Local" value="Interface/IDtTextProvider/IDtTextProvider.HeaderRow.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtExcelConsumer">
+    <param name="Name" value="IDtExcelConsumer">
+    <param name="Local" value="Interface/IDtExcelConsumer/IDtExcelConsumer.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="DtVfpConsumer">
+    <param name="Name" value="DtVfpConsumer">
+    <param name="Local" value="Class/DtVfpConsumer/DtVfpConsumer.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="DtXmlConsumer">
+    <param name="Name" value="DtXmlConsumer">
+    <param name="Local" value="Class/DtXmlConsumer/DtXmlConsumer.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="DtTextConsumer">
+    <param name="Name" value="DtTextConsumer">
+    <param name="Local" value="Class/DtTextConsumer/DtTextConsumer.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="DtUserConsumer">
+    <param name="Name" value="DtUserConsumer">
+    <param name="Local" value="Class/DtUserConsumer/DtUserConsumer.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="DtSqlCommandConsumer">
+    <param name="Name" value="DtSqlCommandConsumer">
+    <param name="Local" value="Class/DtSqlCommandConsumer/DtSqlCommandConsumer.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="DtExcelConsumer">
+    <param name="Name" value="DtExcelConsumer">
+    <param name="Local" value="Class/DtExcelConsumer/DtExcelConsumer.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="DtOleDbConsumer">
+    <param name="Name" value="DtOleDbConsumer">
+    <param name="Local" value="Class/DtOleDbConsumer/DtOleDbConsumer.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="DtMetabaseProvider">
+    <param name="Name" value="DtMetabaseProvider">
+    <param name="Local" value="Class/DtMetabaseProvider/DtMetabaseProvider.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="DtAccessProvider">
+    <param name="Name" value="DtAccessProvider">
+    <param name="Local" value="Class/DtAccessProvider/DtAccessProvider.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="DtExcelProvider">
+    <param name="Name" value="DtExcelProvider">
+    <param name="Local" value="Class/DtExcelProvider/DtExcelProvider.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="DtDbaseConsumer">
+    <param name="Name" value="DtDbaseConsumer">
+    <param name="Local" value="Class/DtDbaseConsumer/DtDbaseConsumer.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="DtParadoxProvider">
+    <param name="Name" value="DtParadoxProvider">
+    <param name="Local" value="Class/DtParadoxProvider/DtParadoxProvider.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="DtXmlProvider">
+    <param name="Name" value="DtXmlProvider">
+    <param name="Local" value="Class/DtXmlProvider/DtXmlProvider.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="DtWebProvider">
+    <param name="Name" value="DtWebProvider">
+    <param name="Local" value="Class/DtWebProvider/DtWebProvider.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="DtTextProvider">
+    <param name="Name" value="DtTextProvider">
+    <param name="Local" value="Class/DtTextProvider/DtTextProvider.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="DtOleDbProvider">
+    <param name="Name" value="DtOleDbProvider">
+    <param name="Local" value="Class/DtOleDbProvider/DtOleDbProvider.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="DtUserProvider">
+    <param name="Name" value="DtUserProvider">
+    <param name="Local" value="Class/DtUserProvider/DtUserProvider.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="DtVfpProvider">
+    <param name="Name" value="DtVfpProvider">
+    <param name="Local" value="Class/DtVfpProvider/DtVfpProvider.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="DtAccessConsumer">
+    <param name="Name" value="DtAccessConsumer">
+    <param name="Local" value="Class/DtAccessConsumer/DtAccessConsumer.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="DtMetabaseConsumer">
+    <param name="Name" value="DtMetabaseConsumer">
+    <param name="Local" value="Class/DtMetabaseConsumer/DtMetabaseConsumer.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="DtDbaseProvider">
+    <param name="Name" value="DtDbaseProvider">
+    <param name="Local" value="Class/DtDbaseProvider/DtDbaseProvider.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtObject.Metabase">
+    <param name="Name" value="IDtObject.Metabase">
+    <param name="Local" value="Interface/IDtObject/IDtObject.Metabase.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="RootNodeName">
+    <param name="Name" value="IDtXmlConsumer.RootNodeName">
+    <param name="Local" value="Interface/IDtXmlConsumer/IDtXmlConsumer.RootNodeName.htm">
+    <param name="Name" value="IDtJsonConsumer.RootNodeName">
+    <param name="Local" value="Interface/IDtJsonConsumer/IDtJsonConsumer.RootNodeName.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="DataNodeName">
+    <param name="Name" value="IDtXmlConsumer.DataNodeName">
+    <param name="Local" value="Interface/IDtXmlConsumer/IDtXmlConsumer.DataNodeName.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Url">
+    <param name="Name" value="IDtWebProvider.Url">
+    <param name="Local" value="Interface/IDtWebProvider/IDtWebProvider.Url.htm">
+    <param name="Name" value="IDtRestProvider.Url">
+    <param name="Local" value="Interface/IDtRestProvider/IDtRestProvider.Url.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="TableNumber">
+    <param name="Name" value="IDtWebProvider.TableNumber">
+    <param name="Local" value="Interface/IDtWebProvider/IDtWebProvider.TableNumber.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="TableIdentificationType">
+    <param name="Name" value="IDtWebProvider.TableIdentificationType">
+    <param name="Local" value="Interface/IDtWebProvider/IDtWebProvider.TableIdentificationType.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="TableAttributeValue">
+    <param name="Name" value="IDtWebProvider.TableAttributeValue">
+    <param name="Local" value="Interface/IDtWebProvider/IDtWebProvider.TableAttributeValue.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="TableAttributeName">
+    <param name="Name" value="IDtWebProvider.TableAttributeName">
+    <param name="Local" value="Interface/IDtWebProvider/IDtWebProvider.TableAttributeName.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="FixedStartPosition">
+    <param name="Name" value="IDtTextProviderField.FixedStartPosition">
+    <param name="Local" value="Interface/IDtTextProviderField/IDtTextProviderField.FixedStartPosition.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="FixedEndPosition">
+    <param name="Name" value="IDtTextProviderField.FixedEndPosition">
+    <param name="Local" value="Interface/IDtTextProviderField/IDtTextProviderField.FixedEndPosition.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="RangeHasHeader">
+    <param name="Name" value="IDtTextProvider.RangeHasHeader">
+    <param name="Local" value="Interface/IDtTextProvider/IDtTextProvider.RangeHasHeader.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="RangeFirstRow">
+    <param name="Name" value="IDtTextProvider.RangeFirstRow">
+    <param name="Local" value="Interface/IDtTextProvider/IDtTextProvider.RangeFirstRow.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GetFieldsFromFile">
+    <param name="Name" value="IDtTextProvider.GetFieldsFromFile">
+    <param name="Local" value="Interface/IDtTextProvider/IDtTextProvider.GetFieldsFromFile.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="FixedLength">
+    <param name="Name" value="IDtTextConsumerField.FixedLength">
+    <param name="Local" value="Interface/IDtTextConsumerField/IDtTextConsumerField.FixedLength.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="WriteHeader">
+    <param name="Name" value="IDtTextConsumer.WriteHeader">
+    <param name="Local" value="Interface/IDtTextConsumer/IDtTextConsumer.WriteHeader.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtBaseErrors">
+    <param name="Name" value="IDtBaseErrors">
+    <param name="Local" value="Interface/IDtBaseErrors/IDtBaseErrors.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtErrors.Item">
+    <param name="Name" value="IDtErrors.Item">
+    <param name="Local" value="Interface/IDtErrors/IDtErrors.Item.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="DecimalDelimiter">
+    <param name="Name" value="IDtObjectDataFormat.DecimalDelimiter">
+    <param name="Local" value="Interface/IDtObjectDataFormat/IDtObjectDataFormat.DecimalDelimiter.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtObjectDataFormat.DecimalDelimiter">
+    <param name="Name" value="IDtObjectDataFormat.DecimalDelimiter">
+    <param name="Local" value="Interface/IDtObjectDataFormat/IDtObjectDataFormat.DecimalDelimiter.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Command">
+    <param name="Name" value="IDtSqlCommandConsumer.Command">
+    <param name="Local" value="Interface/IDtSqlCommandConsumer/IDtSqlCommandConsumer.Command.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Views">
+    <param name="Name" value="IDtObjectMetaData.Views">
+    <param name="Local" value="Interface/IDtObjectMetaData/IDtObjectMetaData.Views.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Tables">
+    <param name="Name" value="IDtObjectMetaData.Tables">
+    <param name="Local" value="Interface/IDtObjectMetaData/IDtObjectMetaData.Tables.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="TableFields">
+    <param name="Name" value="IDtObjectMetaData.TableFields">
+    <param name="Local" value="Interface/IDtObjectMetaData/IDtObjectMetaData.TableFields.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Open">
+    <param name="Name" value="IDtObject.Open">
+    <param name="Local" value="Interface/IDtObject/IDtObject.Open.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="FieldsFromFile">
+    <param name="Name" value="IDtObject.FieldsFromFile">
+    <param name="Local" value="Interface/IDtObject/IDtObject.FieldsFromFile.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Fields">
+    <param name="Name" value="IDtObject.Fields">
+    <param name="Local" value="Interface/IDtObject/IDtObject.Fields.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Close">
+    <param name="Name" value="IDtObject.Close">
+    <param name="Local" value="Interface/IDtObject/IDtObject.Close.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Active">
+    <param name="Name" value="IDtObject.Active">
+    <param name="Local" value="Interface/IDtObject/IDtObject.Active.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="KeyFieldNames">
+    <param name="Name" value="IDtMetabaseConsumer.KeyFieldNames">
+    <param name="Local" value="Interface/IDtMetabaseConsumer/IDtMetabaseConsumer.KeyFieldNames.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="MaxErrors">
+    <param name="Name" value="IDtBaseErrors.MaxErrors">
+    <param name="Local" value="Interface/IDtBaseErrors/IDtBaseErrors.MaxErrors.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtBaseErrors.MaxErrors">
+    <param name="Name" value="IDtBaseErrors.MaxErrors">
+    <param name="Local" value="Interface/IDtBaseErrors/IDtBaseErrors.MaxErrors.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Delete">
+    <param name="Name" value="IDtFieldDefinitions.Delete">
+    <param name="Local" value="Interface/IDtFieldDefinitions/IDtFieldDefinitions.Delete.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Add">
+    <param name="Name" value="IDtFieldDefinitions.Add">
+    <param name="Local" value="Interface/IDtFieldDefinitions/IDtFieldDefinitions.Add.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Name">
+    <param name="Name" value="IDtFieldDefinition.Name">
+    <param name="Local" value="Interface/IDtFieldDefinition/IDtFieldDefinition.Name.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="DataType">
+    <param name="Name" value="IDtFieldDefinition.DataType">
+    <param name="Local" value="Interface/IDtFieldDefinition/IDtFieldDefinition.DataType.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ReadingRowsTotalCount">
+    <param name="Name" value="IDtProvider.ReadingRowsTotalCount">
+    <param name="Local" value="Interface/IDtProvider/IDtProvider.ReadingRowsTotalCount.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtProvider.ReadingRowsTotalCount">
+    <param name="Name" value="IDtProvider.ReadingRowsTotalCount">
+    <param name="Local" value="Interface/IDtProvider/IDtProvider.ReadingRowsTotalCount.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtObjectDataFormat">
+    <param name="Name" value="IDtObjectDataFormat">
+    <param name="Local" value="Interface/IDtObjectDataFormat/idtobjectdataformat.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="PutProvider">
+    <param name="Name" value="IDtConsumer.PutProvider">
+    <param name="Local" value="Interface/IDtConsumer/IDtConsumer.PutProvider.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtError">
+    <param name="Name" value="IDtError">
+    <param name="Local" value="Interface/IDtError/IDtError.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="MaxItems">
+    <param name="Name" value="IDtBaseErrors.MaxItems">
+    <param name="Local" value="Interface/IDtBaseErrors/IDtBaseErrors.MaxItems.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Successful">
+    <param name="Name" value="IDtBulkPacket.Successful">
+    <param name="Local" value="Interface/IDtBulkPacket/IDtBulkPacket.Successful.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="FailPolicy">
+    <param name="Name" value="IDtBulkPacket.FailPolicy">
+    <param name="Local" value="Interface/IDtBulkPacket/IDtBulkPacket.FailPolicy.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="FailedRows">
+    <param name="Name" value="IDtBulkPacket.FailedRows">
+    <param name="Local" value="Interface/IDtBulkPacket/IDtBulkPacket.FailedRows.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Failed">
+    <param name="Name" value="IDtBulkPacket.Failed">
+    <param name="Local" value="Interface/IDtBulkPacket/IDtBulkPacket.Failed.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Data">
+    <param name="Name" value="IDtBulkPacket.Data">
+    <param name="Local" value="Interface/IDtBulkPacket/IDtBulkPacket.Data.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="PutBulk">
+    <param name="Name" value="IDtBulkConsumer.PutBulk">
+    <param name="Local" value="Interface/IDtBulkConsumer/IDtBulkConsumer.PutBulk.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtBaseErrors.MaxItems">
+    <param name="Name" value="IDtBaseErrors.MaxItems">
+    <param name="Local" value="Interface/IDtBaseErrors/IDtBaseErrors.MaxItems.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="FilterIf">
+    <param name="Name" value="IDtProvider.FilterIf">
+    <param name="Local" value="Interface/IDtProvider/IDtProvider.FilterIf.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtWebProvider.TableAttributeValue">
+    <param name="Name" value="IDtWebProvider.TableAttributeValue">
+    <param name="Local" value="Interface/IDtWebProvider/IDtWebProvider.TableAttributeValue.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtUserConsumer.ForeModule">
+    <param name="Name" value="IDtUserConsumer.ForeModule">
+    <param name="Local" value="Interface/IDtUserConsumer/IDtUserConsumer.ForeModule.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtTextConsumer.File">
+    <param name="Name" value="IDtTextConsumer.File">
+    <param name="Local" value="Interface/IDtTextConsumer/IDtTextConsumer.File.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtSqlCommandConsumer.Command">
+    <param name="Name" value="IDtSqlCommandConsumer.Command">
+    <param name="Local" value="Interface/IDtSqlCommandConsumer/IDtSqlCommandConsumer.Command.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtParadoxProvider.Query">
+    <param name="Name" value="IDtParadoxProvider.Query">
+    <param name="Local" value="Interface/IDtParadoxProvider/IDtParadoxProvider.Query.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtMetabaseConsumer">
+    <param name="Name" value="IDtMetabaseConsumer">
+    <param name="Local" value="Interface/IDtMetabaseConsumer/IDtMetabaseConsumer.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtFieldDefinition.DataType">
+    <param name="Name" value="IDtFieldDefinition.DataType">
+    <param name="Local" value="Interface/IDtFieldDefinition/IDtFieldDefinition.DataType.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtDbaseProvider.Path">
+    <param name="Name" value="IDtDbaseProvider.Path">
+    <param name="Local" value="Interface/IDtDbaseProvider/IDtDbaseProvider.Path.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtWebProvider.TableNumber">
+    <param name="Name" value="IDtWebProvider.TableNumber">
+    <param name="Local" value="Interface/IDtWebProvider/IDtWebProvider.TableNumber.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtVfpConsumer">
+    <param name="Name" value="IDtVfpConsumer">
+    <param name="Local" value="Interface/IDtVfpConsumer/IDtVfpConsumer.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtUserProvider.ForeModule">
+    <param name="Name" value="IDtUserProvider.ForeModule">
+    <param name="Local" value="Interface/IDtUserProvider/IDtUserProvider.ForeModule.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtUserProvider.ForeClass">
+    <param name="Name" value="IDtUserProvider.ForeClass">
+    <param name="Local" value="Interface/IDtUserProvider/IDtUserProvider.ForeClass.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtTextProviderField">
+    <param name="Name" value="IDtTextProviderField">
+    <param name="Local" value="Interface/IDtTextProviderField/IDtTextProviderField.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtTextConsumerField.FixedLength">
+    <param name="Name" value="IDtTextConsumerField.FixedLength">
+    <param name="Local" value="Interface/IDtTextConsumerField/IDtTextConsumerField.FixedLength.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtParadoxProvider.DriverVersion">
+    <param name="Name" value="IDtParadoxProvider.DriverVersion">
+    <param name="Local" value="Interface/IDtParadoxProvider/IDtParadoxProvider.DriverVersion.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtOleDbProvider.Query">
+    <param name="Name" value="IDtOleDbProvider.Query">
+    <param name="Local" value="Interface/IDtOleDbProvider/IDtOleDbProvider.Query.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtObjectMetaData.TableFields">
+    <param name="Name" value="IDtObjectMetaData.TableFields">
+    <param name="Local" value="Interface/IDtObjectMetaData/IDtObjectMetaData.TableFields.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtAccessProvider.File">
+    <param name="Name" value="IDtAccessProvider.File">
+    <param name="Local" value="Interface/IDtAccessProvider/IDtAccessProvider.File.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtBulkPacket">
+    <param name="Name" value="IDtBulkPacket">
+    <param name="Local" value="Interface/IDtBulkPacket/IDtBulkPacket.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtProvider.Fetch">
+    <param name="Name" value="IDtProvider.Fetch">
+    <param name="Local" value="Interface/IDtProvider/IDtProvider.Fetch.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtConsumer.Put">
+    <param name="Name" value="IDtConsumer.Put">
+    <param name="Local" value="Interface/IDtConsumer/IDtConsumer.Put.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtWebProvider.HasHeader">
+    <param name="Name" value="IDtWebProvider.HasHeader">
+    <param name="Local" value="Interface/IDtWebProvider/IDtWebProvider.HasHeader.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtVfpProvider.Query">
+    <param name="Name" value="IDtVfpProvider.Query">
+    <param name="Local" value="Interface/IDtVfpProvider/IDtVfpProvider.Query.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtVfpConsumer.Table">
+    <param name="Name" value="IDtVfpConsumer.Table">
+    <param name="Local" value="Interface/IDtVfpConsumer/IDtVfpConsumer.Table.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtMetabaseProvider.Dataset">
+    <param name="Name" value="IDtMetabaseProvider.Dataset">
+    <param name="Local" value="Interface/IDtMetabaseProvider/IDtMetabaseProvider.Dataset.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtDbaseProvider">
+    <param name="Name" value="IDtDbaseProvider">
+    <param name="Local" value="Interface/IDtDbaseProvider/IDtDbaseProvider.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtProvider">
+    <param name="Name" value="IDtProvider">
+    <param name="Local" value="Interface/IDtProvider/IDtProvider.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="DtExcelRangeType">
+    <param name="Name" value="DtExcelRangeType">
+    <param name="Local" value="Enums/DtExcelRangeType.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="DtXmlFormatType">
+    <param name="Name" value="DtXmlFormatType">
+    <param name="Local" value="Enums/DtXmlFormatType.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtXmlProviderField.XPath">
+    <param name="Name" value="IDtXmlProviderField.XPath">
+    <param name="Local" value="Interface/IDtXmlProviderField/IDtXmlProviderField.XPath.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtXmlProvider">
+    <param name="Name" value="IDtXmlProvider">
+    <param name="Local" value="Interface/IDtXmlProvider/IDtXmlProvider.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtVfpConsumer.Path">
+    <param name="Name" value="IDtVfpConsumer.Path">
+    <param name="Local" value="Interface/IDtVfpConsumer/IDtVfpConsumer.Path.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtTextProvider.RangeHasHeader">
+    <param name="Name" value="IDtTextProvider.RangeHasHeader">
+    <param name="Local" value="Interface/IDtTextProvider/IDtTextProvider.RangeHasHeader.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtTextConsumer.DelimitedColumnDelimiter">
+    <param name="Name" value="IDtTextConsumer.DelimitedColumnDelimiter">
+    <param name="Local" value="Interface/IDtTextConsumer/IDtTextConsumer.DelimitedColumnDelimiter.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtSqlCommandConsumer">
+    <param name="Name" value="IDtSqlCommandConsumer">
+    <param name="Local" value="Interface/IDtSqlCommandConsumer/IDtSqlCommandConsumer.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtRecordsetProvider">
+    <param name="Name" value="IDtRecordsetProvider">
+    <param name="Local" value="Interface/IDtRecordsetProvider/IDtRecordsetProvider.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtMetabaseConsumer.Dataset">
+    <param name="Name" value="IDtMetabaseConsumer.Dataset">
+    <param name="Local" value="Interface/IDtMetabaseConsumer/IDtMetabaseConsumer.Dataset.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtFieldDefinition">
+    <param name="Name" value="IDtFieldDefinition">
+    <param name="Local" value="Interface/IDtFieldDefinition/IDtFieldDefinition.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtExcelProvider.ImexMode">
+    <param name="Name" value="IDtExcelProvider.ImexMode">
+    <param name="Local" value="Interface/IDtExcelProvider/IDtExcelProvider.ImexMode.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtDbaseConsumer.DriverVersion">
+    <param name="Name" value="IDtDbaseConsumer.DriverVersion">
+    <param name="Local" value="Interface/IDtDbaseConsumer/IDtDbaseConsumer.DriverVersion.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtVfpProvider.Path">
+    <param name="Name" value="IDtVfpProvider.Path">
+    <param name="Local" value="Interface/IDtVfpProvider/IDtVfpProvider.Path.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtUserConsumer.ForeClass">
+    <param name="Name" value="IDtUserConsumer.ForeClass">
+    <param name="Local" value="Interface/IDtUserConsumer/IDtUserConsumer.ForeClass.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtTextProvider.RowDelimiter">
+    <param name="Name" value="IDtTextProvider.RowDelimiter">
+    <param name="Local" value="Interface/IDtTextProvider/IDtTextProvider.RowDelimiter.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtTextProvider.DelimitedTextQualifier">
+    <param name="Name" value="IDtTextProvider.DelimitedTextQualifier">
+    <param name="Local" value="Interface/IDtTextProvider/IDtTextProvider.DelimitedTextQualifier.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtRecordsetConsumer.Clear">
+    <param name="Name" value="IDtRecordsetConsumer.Clear">
+    <param name="Local" value="Interface/IDtRecordsetConsumer/IDtRecordsetConsumer.Clear.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtObjectMetaData.Tables">
+    <param name="Name" value="IDtObjectMetaData.Tables">
+    <param name="Local" value="Interface/IDtObjectMetaData/IDtObjectMetaData.Tables.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtObjectMetaData">
+    <param name="Name" value="IDtObjectMetaData">
+    <param name="Local" value="Interface/IDtObjectMetaData/IDtObjectMetaData.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtMetabaseProvider">
+    <param name="Name" value="IDtMetabaseProvider">
+    <param name="Local" value="Interface/IDtMetabaseProvider/IDtMetabaseProvider.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtExcelProvider.DriverVersion">
+    <param name="Name" value="IDtExcelProvider.DriverVersion">
+    <param name="Local" value="Interface/IDtExcelProvider/IDtExcelProvider.DriverVersion.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtObject">
+    <param name="Name" value="IDtObject">
+    <param name="Local" value="Interface/IDtObject/IDtObject.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtXmlProviderField">
+    <param name="Name" value="IDtXmlProviderField">
+    <param name="Local" value="Interface/IDtXmlProviderField/IDtXmlProviderField.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtXmlProvider.XPath">
+    <param name="Name" value="IDtXmlProvider.XPath">
+    <param name="Local" value="Interface/IDtXmlProvider/IDtXmlProvider.XPath.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtTextProviderField.FixedStartPosition">
+    <param name="Name" value="IDtTextProviderField.FixedStartPosition">
+    <param name="Local" value="Interface/IDtTextProviderField/IDtTextProviderField.FixedStartPosition.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtTextProvider.File">
+    <param name="Name" value="IDtTextProvider.File">
+    <param name="Local" value="Interface/IDtTextProvider/IDtTextProvider.File.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtTextConsumer">
+    <param name="Name" value="IDtTextConsumer">
+    <param name="Local" value="Interface/IDtTextConsumer/IDtTextConsumer.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtParadoxProvider.Path">
+    <param name="Name" value="IDtParadoxProvider.Path">
+    <param name="Local" value="Interface/IDtParadoxProvider/IDtParadoxProvider.Path.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtOleDbProvider.ConnectionString">
+    <param name="Name" value="IDtOleDbProvider.ConnectionString">
+    <param name="Local" value="Interface/IDtOleDbProvider/IDtOleDbProvider.ConnectionString.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtOleDbConsumer.Table">
+    <param name="Name" value="IDtOleDbConsumer.Table">
+    <param name="Local" value="Interface/IDtOleDbConsumer/IDtOleDbConsumer.Table.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtOleDbConsumer.ConnectionString">
+    <param name="Name" value="IDtOleDbConsumer.ConnectionString">
+    <param name="Local" value="Interface/IDtOleDbConsumer/IDtOleDbConsumer.ConnectionString.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtAccessProvider">
+    <param name="Name" value="IDtAccessProvider">
+    <param name="Local" value="Interface/IDtAccessProvider/IDtAccessProvider.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtConsumer">
+    <param name="Name" value="IDtConsumer">
+    <param name="Local" value="Interface/IDtConsumer/IDtConsumer.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtTextConsumerField">
+    <param name="Name" value="IDtTextConsumerField">
+    <param name="Local" value="Interface/IDtTextConsumerField/IDtTextConsumerField.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtTextConsumer.WriteHeader">
+    <param name="Name" value="IDtTextConsumer.WriteHeader">
+    <param name="Local" value="Interface/IDtTextConsumer/IDtTextConsumer.WriteHeader.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtTextConsumer.DelimitedTextQualifier">
+    <param name="Name" value="IDtTextConsumer.DelimitedTextQualifier">
+    <param name="Local" value="Interface/IDtTextConsumer/IDtTextConsumer.DelimitedTextQualifier.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtFieldDefinitions.Delete">
+    <param name="Name" value="IDtFieldDefinitions.Delete">
+    <param name="Local" value="Interface/IDtFieldDefinitions/IDtFieldDefinitions.Delete.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtFieldDefinitions.Clear">
+    <param name="Name" value="IDtFieldDefinitions.Clear">
+    <param name="Local" value="Interface/IDtFieldDefinitions/IDtFieldDefinitions.Clear.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtBulkPacket.Failed">
+    <param name="Name" value="IDtBulkPacket.Failed">
+    <param name="Local" value="Interface/IDtBulkPacket/IDtBulkPacket.Failed.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtBulkConsumer">
+    <param name="Name" value="IDtBulkConsumer">
+    <param name="Local" value="Interface/IDtBulkConsumer/IDtBulkConsumer.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtObject.Close">
+    <param name="Name" value="IDtObject.Close">
+    <param name="Local" value="Interface/IDtObject/IDtObject.Close.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtUserConsumer">
+    <param name="Name" value="IDtUserConsumer">
+    <param name="Local" value="Interface/IDtUserConsumer/IDtUserConsumer.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtObjectMetaData.Views">
+    <param name="Name" value="IDtObjectMetaData.Views">
+    <param name="Local" value="Interface/IDtObjectMetaData/IDtObjectMetaData.Views.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtFieldDefinitions.Count">
+    <param name="Name" value="IDtFieldDefinitions.Count">
+    <param name="Local" value="Interface/IDtFieldDefinitions/IDtFieldDefinitions.Count.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtExcelProvider.HasHeader">
+    <param name="Name" value="IDtExcelProvider.HasHeader">
+    <param name="Local" value="Interface/IDtExcelProvider/IDtExcelProvider.HasHeader.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtAccessProvider.Query">
+    <param name="Name" value="IDtAccessProvider.Query">
+    <param name="Local" value="Interface/IDtAccessProvider/IDtAccessProvider.Query.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtDbaseConsumer.File">
+    <param name="Name" value="IDtDbaseConsumer.File">
+    <param name="Local" value="Interface/IDtDbaseConsumer/IDtDbaseConsumer.File.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtObject.FieldsFromFile">
+    <param name="Name" value="IDtObject.FieldsFromFile">
+    <param name="Local" value="Interface/IDtObject/IDtObject.FieldsFromFile.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="DtTextFormatType">
+    <param name="Name" value="DtTextFormatType">
+    <param name="Local" value="Enums/DtTextFormatType.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtXmlConsumer.DataNodeName">
+    <param name="Name" value="IDtXmlConsumer.DataNodeName">
+    <param name="Local" value="Interface/IDtXmlConsumer/IDtXmlConsumer.DataNodeName.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtWebProvider">
+    <param name="Name" value="IDtWebProvider">
+    <param name="Local" value="Interface/IDtWebProvider/IDtWebProvider.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtTextProvider.GetFieldsFromFile">
+    <param name="Name" value="IDtTextProvider.GetFieldsFromFile">
+    <param name="Local" value="Interface/IDtTextProvider/IDtTextProvider.GetFieldsFromFile.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtTextConsumer.FormatType">
+    <param name="Name" value="IDtTextConsumer.FormatType">
+    <param name="Local" value="Interface/IDtTextConsumer/IDtTextConsumer.FormatType.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtOleDbConsumer">
+    <param name="Name" value="IDtOleDbConsumer">
+    <param name="Local" value="Interface/IDtOleDbConsumer/IDtOleDbConsumer.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtFieldDefinition.Name">
+    <param name="Name" value="IDtFieldDefinition.Name">
+    <param name="Local" value="Interface/IDtFieldDefinition/IDtFieldDefinition.Name.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtDbaseProvider.DriverVersion">
+    <param name="Name" value="IDtDbaseProvider.DriverVersion">
+    <param name="Local" value="Interface/IDtDbaseProvider/IDtDbaseProvider.DriverVersion.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtWebProvider.TableIdentificationType">
+    <param name="Name" value="IDtWebProvider.TableIdentificationType">
+    <param name="Local" value="Interface/IDtWebProvider/IDtWebProvider.TableIdentificationType.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtTextProviderField.FixedEndPosition">
+    <param name="Name" value="IDtTextProviderField.FixedEndPosition">
+    <param name="Local" value="Interface/IDtTextProviderField/IDtTextProviderField.FixedEndPosition.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtTextProvider.FormatType">
+    <param name="Name" value="IDtTextProvider.FormatType">
+    <param name="Local" value="Interface/IDtTextProvider/IDtTextProvider.FormatType.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtBulkPacket.FailedRows">
+    <param name="Name" value="IDtBulkPacket.FailedRows">
+    <param name="Local" value="Interface/IDtBulkPacket/IDtBulkPacket.FailedRows.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtXmlConsumer.File">
+    <param name="Name" value="IDtXmlConsumer.File">
+    <param name="Local" value="Interface/IDtXmlConsumer/IDtXmlConsumer.File.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtXmlConsumer">
+    <param name="Name" value="IDtXmlConsumer">
+    <param name="Local" value="Interface/IDtXmlConsumer/IDtXmlConsumer.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtFieldDefinitions.Item">
+    <param name="Name" value="IDtFieldDefinitions.Item">
+    <param name="Local" value="Interface/IDtFieldDefinitions/IDtFieldDefinitions.Item.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtFieldDefinitions.Add">
+    <param name="Name" value="IDtFieldDefinitions.Add">
+    <param name="Local" value="Interface/IDtFieldDefinitions/IDtFieldDefinitions.Add.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtExcelProvider.File">
+    <param name="Name" value="IDtExcelProvider.File">
+    <param name="Local" value="Interface/IDtExcelProvider/IDtExcelProvider.File.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtObject.Fields">
+    <param name="Name" value="IDtObject.Fields">
+    <param name="Local" value="Interface/IDtObject/IDtObject.Fields.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtXmlProvider.File">
+    <param name="Name" value="IDtXmlProvider.File">
+    <param name="Local" value="Interface/IDtXmlProvider/IDtXmlProvider.File.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtWebProvider.TableAttributeName">
+    <param name="Name" value="IDtWebProvider.TableAttributeName">
+    <param name="Local" value="Interface/IDtWebProvider/IDtWebProvider.TableAttributeName.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtVfpProvider">
+    <param name="Name" value="IDtVfpProvider">
+    <param name="Local" value="Interface/IDtVfpProvider/IDtVfpProvider.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtRecordsetConsumer">
+    <param name="Name" value="IDtRecordsetConsumer">
+    <param name="Local" value="Interface/IDtRecordsetConsumer/IDtRecordsetConsumer.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtBulkPacket.FailPolicy">
+    <param name="Name" value="IDtBulkPacket.FailPolicy">
+    <param name="Local" value="Interface/IDtBulkPacket/IDtBulkPacket.FailPolicy.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtAccessConsumer">
+    <param name="Name" value="IDtAccessConsumer">
+    <param name="Local" value="Interface/IDtAccessConsumer/IDtAccessConsumer.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtXmlConsumer.RootNodeName">
+    <param name="Name" value="IDtXmlConsumer.RootNodeName">
+    <param name="Local" value="Interface/IDtXmlConsumer/IDtXmlConsumer.RootNodeName.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtParadoxProvider">
+    <param name="Name" value="IDtParadoxProvider">
+    <param name="Local" value="Interface/IDtParadoxProvider/IDtParadoxProvider.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtBulkPacket.Successful">
+    <param name="Name" value="IDtBulkPacket.Successful">
+    <param name="Local" value="Interface/IDtBulkPacket/IDtBulkPacket.Successful.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtBulkPacket.Data">
+    <param name="Name" value="IDtBulkPacket.Data">
+    <param name="Local" value="Interface/IDtBulkPacket/IDtBulkPacket.Data.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtDbaseConsumer">
+    <param name="Name" value="IDtDbaseConsumer">
+    <param name="Local" value="Interface/IDtDbaseConsumer/IDtDbaseConsumer.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtObject.Active">
+    <param name="Name" value="IDtObject.Active">
+    <param name="Local" value="Interface/IDtObject/IDtObject.Active.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtBulkConsumer.PutBulk">
+    <param name="Name" value="IDtBulkConsumer.PutBulk">
+    <param name="Local" value="Interface/IDtBulkConsumer/IDtBulkConsumer.PutBulk.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtConsumer.PutProvider">
+    <param name="Name" value="IDtConsumer.PutProvider">
+    <param name="Local" value="Interface/IDtConsumer/IDtConsumer.PutProvider.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="DtWebTableIdentificationType">
+    <param name="Name" value="DtWebTableIdentificationType">
+    <param name="Local" value="Enums/DtWebTableIdentificationType.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtProvider.FilterIf">
+    <param name="Name" value="IDtProvider.FilterIf">
+    <param name="Local" value="Interface/IDtProvider/IDtProvider.FilterIf.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtTextProvider.Encoding">
+    <param name="Name" value="IDtTextProvider.Encoding">
+    <param name="Local" value="Interface/IDtTextProvider/IDtTextProvider.Encoding.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtTextProvider">
+    <param name="Name" value="IDtTextProvider">
+    <param name="Local" value="Interface/IDtTextProvider/IDtTextProvider.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtFieldDefinitions">
+    <param name="Name" value="IDtFieldDefinitions">
+    <param name="Local" value="Interface/IDtFieldDefinitions/IDtFieldDefinitions.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtProvider.FetchRows">
+    <param name="Name" value="IDtProvider.FetchRows">
+    <param name="Local" value="Interface/IDtProvider/IDtProvider.FetchRows.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtConsumer.Clear">
+    <param name="Name" value="IDtConsumer.Clear">
+    <param name="Local" value="Interface/IDtConsumer/IDtConsumer.Clear.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtUserProvider">
+    <param name="Name" value="IDtUserProvider">
+    <param name="Local" value="Interface/IDtUserProvider/IDtUserProvider.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtRecordsetConsumer.Put">
+    <param name="Name" value="IDtRecordsetConsumer.Put">
+    <param name="Local" value="Interface/IDtRecordsetConsumer/IDtRecordsetConsumer.Put.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtOleDbProvider">
+    <param name="Name" value="IDtOleDbProvider">
+    <param name="Local" value="Interface/IDtOleDbProvider/IDtOleDbProvider.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtMetabaseConsumer.KeyFieldNames">
+    <param name="Name" value="IDtMetabaseConsumer.KeyFieldNames">
+    <param name="Local" value="Interface/IDtMetabaseConsumer/IDtMetabaseConsumer.KeyFieldNames.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtExcelProvider.Query">
+    <param name="Name" value="IDtExcelProvider.Query">
+    <param name="Local" value="Interface/IDtExcelProvider/IDtExcelProvider.Query.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtExcelProvider">
+    <param name="Name" value="IDtExcelProvider">
+    <param name="Local" value="Interface/IDtExcelProvider/IDtExcelProvider.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtDbaseProvider.Query">
+    <param name="Name" value="IDtDbaseProvider.Query">
+    <param name="Local" value="Interface/IDtDbaseProvider/IDtDbaseProvider.Query.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtObject.Open">
+    <param name="Name" value="IDtObject.Open">
+    <param name="Local" value="Interface/IDtObject/IDtObject.Open.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtXmlConsumer.FormatType">
+    <param name="Name" value="IDtXmlConsumer.FormatType">
+    <param name="Local" value="Interface/IDtXmlConsumer/IDtXmlConsumer.FormatType.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtTextConsumer.RowDelimiter">
+    <param name="Name" value="IDtTextConsumer.RowDelimiter">
+    <param name="Local" value="Interface/IDtTextConsumer/IDtTextConsumer.RowDelimiter.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtRecordsetProvider.Fetch">
+    <param name="Name" value="IDtRecordsetProvider.Fetch">
+    <param name="Local" value="Interface/IDtRecordsetProvider/IDtRecordsetProvider.Fetch.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtAccessConsumer.Table">
+    <param name="Name" value="IDtAccessConsumer.Table">
+    <param name="Local" value="Interface/IDtAccessConsumer/IDtAccessConsumer.Table.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtProvider.Eof">
+    <param name="Name" value="IDtProvider.Eof">
+    <param name="Local" value="Interface/IDtProvider/IDtProvider.Eof.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtWebProvider.Url">
+    <param name="Name" value="IDtWebProvider.Url">
+    <param name="Local" value="Interface/IDtWebProvider/IDtWebProvider.Url.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtTextProvider.RangeFirstRow">
+    <param name="Name" value="IDtTextProvider.RangeFirstRow">
+    <param name="Local" value="Interface/IDtTextProvider/IDtTextProvider.RangeFirstRow.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtTextProvider.DelimitedColumnDelimiter">
+    <param name="Name" value="IDtTextProvider.DelimitedColumnDelimiter">
+    <param name="Local" value="Interface/IDtTextProvider/IDtTextProvider.DelimitedColumnDelimiter.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtTextConsumer.Encoding">
+    <param name="Name" value="IDtTextConsumer.Encoding">
+    <param name="Local" value="Interface/IDtTextConsumer/IDtTextConsumer.Encoding.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtAccessConsumer.File">
+    <param name="Name" value="IDtAccessConsumer.File">
+    <param name="Local" value="Interface/IDtAccessConsumer/IDtAccessConsumer.File.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Классы сборки Dt">
+    <param name="Name" value="Классы сборки Dt">
+    <param name="Local" value="Class/KeDt_Class.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="DateFormat">
+    <param name="Name" value="IDtObjectDataFormat.DateFormat">
+    <param name="Local" value="Interface/IDtObjectDataFormat/IDtObjectDataFormat.DateFormat.htm">
+    <param name="Name" value="IDtFieldDefinition.DateFormat">
+    <param name="Local" value="Interface/IDtFieldDefinition/IDtFieldDefinition.DateFormat.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Перечисления сборки Dt">
+    <param name="Name" value="Перечисления сборки Dt">
+    <param name="Local" value="Enums/KeDt_Enums.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Интерфейсы сборки Dt">
+    <param name="Name" value="Интерфейсы сборки Dt">
+    <param name="Local" value="Interface/KeDt_Interface.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Введение">
+    <param name="Name" value="Введение: Сборка Dt">
+    <param name="Local" value="KeDt_Introduction.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtExcelConsumer.File">
+    <param name="Name" value="IDtExcelConsumer.File">
+    <param name="Local" value="Interface/IDtExcelConsumer/IDtExcelConsumer.File.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtExcelConsumer.DriverVersion">
+    <param name="Name" value="IDtExcelConsumer.DriverVersion">
+    <param name="Local" value="Interface/IDtExcelConsumer/IDtExcelConsumer.DriverVersion.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtExcelConsumer.HasHeader">
+    <param name="Name" value="IDtExcelConsumer.HasHeader">
+    <param name="Local" value="Interface/IDtExcelConsumer/IDtExcelConsumer.HasHeader.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtExcelConsumer.Table">
+    <param name="Name" value="IDtExcelConsumer.Table">
+    <param name="Local" value="Interface/IDtExcelConsumer/IDtExcelConsumer.Table.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtExcelConsumer.ImexMode">
+    <param name="Name" value="IDtExcelConsumer.ImexMode">
+    <param name="Local" value="Interface/IDtExcelConsumer/IDtExcelConsumer.ImexMode.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtXmlProvider.FormatType">
+    <param name="Name" value="IDtXmlProvider.FormatType">
+    <param name="Local" value="Interface/IDtXmlProvider/IDtXmlProvider.FormatType.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="DtExcelImexMode">
+    <param name="Name" value="DtExcelImexMode">
+    <param name="Local" value="Enums/DtExcelImexMode.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Size">
+    <param name="Name" value="IDtFieldDefinition.Size">
+    <param name="Local" value="Interface/IDtFieldDefinition/IDtFieldDefinition.Size.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="DtBulkPacket">
+    <param name="Name" value="DtBulkPacket">
+    <param name="Local" value="Class/DtBulkPacket/DtBulkPacket.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtObjectCreator">
+    <param name="Name" value="IDtObjectCreator">
+    <param name="Local" value="Interface/IDtObjectCreator/IDtObjectCreator.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="DtObjectCreator">
+    <param name="Name" value="DtObjectCreator">
+    <param name="Local" value="Class/DtObjectCreator/DtObjectCreator.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtExcelProviderEx.DataSheetRow">
+    <param name="Name" value="IDtExcelProviderEx.DataSheetRow">
+    <param name="Local" value="Interface/IDtExcelProviderEx/IDtExcelProviderEx.DataSheetRow.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="DataSheetRow">
+    <param name="Name" value="IDtExcelProviderEx.DataSheetRow">
+    <param name="Local" value="Interface/IDtExcelProviderEx/IDtExcelProviderEx.DataSheetRow.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtObjectCreator.CreateDtObjectFromFile">
+    <param name="Name" value="IDtObjectCreator.CreateDtObjectFromFile">
+    <param name="Local" value="Interface/IDtObjectCreator/IDtObjectCreator.CreateDtObjectFromFile.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="CreateDtObjectFromFile">
+    <param name="Name" value="IDtObjectCreator.CreateDtObjectFromFile">
+    <param name="Local" value="Interface/IDtObjectCreator/IDtObjectCreator.CreateDtObjectFromFile.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtObjectCreator.CreateDtObject">
+    <param name="Name" value="IDtObjectCreator.CreateDtObject">
+    <param name="Local" value="Interface/IDtObjectCreator/IDtObjectCreator.CreateDtObject.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="CreateDtObject">
+    <param name="Name" value="IDtObjectCreator.CreateDtObject">
+    <param name="Local" value="Interface/IDtObjectCreator/IDtObjectCreator.CreateDtObject.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="DtAutoFillFieldsMode">
+    <param name="Name" value="DtAutoFillFieldsMode">
+    <param name="Local" value="Enums/DtAutoFillFieldsMode.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtProvider.ReadingRowsCount">
+    <param name="Name" value="IDtProvider.ReadingRowsCount">
+    <param name="Local" value="Interface/IDtProvider/IDtProvider.ReadingRowsCount.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtConsumer.WritingRowsCount">
+    <param name="Name" value="IDtConsumer.WritingRowsCount">
+    <param name="Local" value="Interface/IDtConsumer/IDtConsumer.WritingRowsCount.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtProvider.FetchErrors">
+    <param name="Name" value="IDtProvider.FetchErrors">
+    <param name="Local" value="Interface/IDtProvider/IDtProvider.FetchErrors.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="FetchErrors">
+    <param name="Name" value="IDtProvider.FetchErrors">
+    <param name="Local" value="Interface/IDtProvider/IDtProvider.FetchErrors.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtBaseErrors.Count">
+    <param name="Name" value="IDtBaseErrors.Count">
+    <param name="Local" value="Interface/IDtBaseErrors/IDtBaseErrors.Count.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtError.Row">
+    <param name="Name" value="IDtError.Row">
+    <param name="Local" value="Interface/IDtError/IDtError.Row.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Row">
+    <param name="Name" value="IDtError.Row">
+    <param name="Local" value="Interface/IDtError/IDtError.Row.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtObjectDataFormat.DateFormat">
+    <param name="Name" value="IDtObjectDataFormat.DateFormat">
+    <param name="Local" value="Interface/IDtObjectDataFormat/IDtObjectDataFormat.DateFormat.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Message">
+    <param name="Name" value="IDtError.Message">
+    <param name="Local" value="Interface/IDtError/IDtError.Message.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Document">
+    <param name="Name" value="IDtDocument.Document">
+    <param name="Local" value="Interface/IDtDocument/IDtDocument.Document.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="HeadTop">
+    <param name="Name" value="IDtUnpivotProvider.HeadTop">
+    <param name="Local" value="Interface/IDtUnpivotProvider/IDtUnpivotProvider.HeadTop.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtUnpivotProvider.HeadTop">
+    <param name="Name" value="IDtUnpivotProvider.HeadTop">
+    <param name="Local" value="Interface/IDtUnpivotProvider/IDtUnpivotProvider.HeadTop.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="FixedCells">
+    <param name="Name" value="IDtUnpivotProvider.FixedCells">
+    <param name="Local" value="Interface/IDtUnpivotProvider/IDtUnpivotProvider.FixedCells.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtUnpivotProvider.FixedCells">
+    <param name="Name" value="IDtUnpivotProvider.FixedCells">
+    <param name="Local" value="Interface/IDtUnpivotProvider/IDtUnpivotProvider.FixedCells.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="LeftBegin">
+    <param name="Name" value="IDtUnpivotProvider.LeftBegin">
+    <param name="Local" value="Interface/IDtUnpivotProvider/IDtUnpivotProvider.LeftBegin.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtUnpivotProvider.LeftBegin">
+    <param name="Name" value="IDtUnpivotProvider.LeftBegin">
+    <param name="Local" value="Interface/IDtUnpivotProvider/IDtUnpivotProvider.LeftBegin.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="DataBottom">
+    <param name="Name" value="IDtUnpivotProvider.DataBottom">
+    <param name="Local" value="Interface/IDtUnpivotProvider/IDtUnpivotProvider.DataBottom.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtUnpivotProvider.DataBottom">
+    <param name="Name" value="IDtUnpivotProvider.DataBottom">
+    <param name="Local" value="Interface/IDtUnpivotProvider/IDtUnpivotProvider.DataBottom.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="FromSource">
+    <param name="Name" value="IDtUnpivotProvider.FromSource">
+    <param name="Local" value="Interface/IDtUnpivotProvider/IDtUnpivotProvider.FromSource.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtUnpivotProvider.FromSource">
+    <param name="Name" value="IDtUnpivotProvider.FromSource">
+    <param name="Local" value="Interface/IDtUnpivotProvider/IDtUnpivotProvider.FromSource.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="LeftEnd">
+    <param name="Name" value="IDtUnpivotProvider.LeftEnd">
+    <param name="Local" value="Interface/IDtUnpivotProvider/IDtUnpivotProvider.LeftEnd.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtUnpivotProvider.LeftEnd">
+    <param name="Name" value="IDtUnpivotProvider.LeftEnd">
+    <param name="Local" value="Interface/IDtUnpivotProvider/IDtUnpivotProvider.LeftEnd.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="DataRight">
+    <param name="Name" value="IDtUnpivotProvider.DataRight">
+    <param name="Local" value="Interface/IDtUnpivotProvider/IDtUnpivotProvider.DataRight.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtUnpivotProvider.DataRight">
+    <param name="Name" value="IDtUnpivotProvider.DataRight">
+    <param name="Local" value="Interface/IDtUnpivotProvider/IDtUnpivotProvider.DataRight.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="HeadBottom">
+    <param name="Name" value="IDtUnpivotProvider.HeadBottom">
+    <param name="Local" value="Interface/IDtUnpivotProvider/IDtUnpivotProvider.HeadBottom.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtUnpivotProvider.HeadBottom">
+    <param name="Name" value="IDtUnpivotProvider.HeadBottom">
+    <param name="Local" value="Interface/IDtUnpivotProvider/IDtUnpivotProvider.HeadBottom.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ToSource">
+    <param name="Name" value="IDtUnpivotProvider.ToSource">
+    <param name="Local" value="Interface/IDtUnpivotProvider/IDtUnpivotProvider.ToSource.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtUnpivotProvider.ToSource">
+    <param name="Name" value="IDtUnpivotProvider.ToSource">
+    <param name="Local" value="Interface/IDtUnpivotProvider/IDtUnpivotProvider.ToSource.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="DataTop">
+    <param name="Name" value="IDtUnpivotProvider.DataTop">
+    <param name="Local" value="Interface/IDtUnpivotProvider/IDtUnpivotProvider.DataTop.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtUnpivotProvider.DataTop">
+    <param name="Name" value="IDtUnpivotProvider.DataTop">
+    <param name="Local" value="Interface/IDtUnpivotProvider/IDtUnpivotProvider.DataTop.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="HeadColumn">
+    <param name="Name" value="IDtUnpivotProvider.HeadColumn">
+    <param name="Local" value="Interface/IDtUnpivotProvider/IDtUnpivotProvider.HeadColumn.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtUnpivotProvider.HeadColumn">
+    <param name="Name" value="IDtUnpivotProvider.HeadColumn">
+    <param name="Local" value="Interface/IDtUnpivotProvider/IDtUnpivotProvider.HeadColumn.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="DtUnpivotProvider">
+    <param name="Name" value="DtUnpivotProvider">
+    <param name="Local" value="Class/DtUnpivotProvider/DtUnpivotProvider.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtUnpivotProvider">
+    <param name="Name" value="IDtUnpivotProvider">
+    <param name="Local" value="Interface/IDtUnpivotProvider/IDtUnpivotProvider.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtProvider.AutoFillFieldsMode">
+    <param name="Name" value="IDtProvider.AutoFillFieldsMode">
+    <param name="Local" value="Interface/IDtProvider/IDtProvider.AutoFillFieldsMode.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="DataWidth">
+    <param name="Name" value="IDtUnpivotProvider.DataWidth">
+    <param name="Local" value="Interface/IDtUnpivotProvider/IDtUnpivotProvider.DataWidth.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtTextConsumer.TextCodePage">
+    <param name="Name" value="IDtTextConsumer.TextCodePage">
+    <param name="Local" value="Interface/IDtTextConsumer/IDtTextConsumer.TextCodePage.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtCalcFieldError.Field">
+    <param name="Name" value="IDtCalcFieldError.Field">
+    <param name="Local" value="Interface/IDtCalcFieldError/IDtCalcFieldError.Field.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtCalcFieldError">
+    <param name="Name" value="IDtCalcFieldError">
+    <param name="Local" value="Interface/IDtCalcFieldError/IDtCalcFieldError.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Expression">
+    <param name="Name" value="IDtFieldDefinition.Expression">
+    <param name="Local" value="Interface/IDtFieldDefinition/IDtFieldDefinition.Expression.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtFieldDefinition.Expression">
+    <param name="Name" value="IDtFieldDefinition.Expression">
+    <param name="Local" value="Interface/IDtFieldDefinition/IDtFieldDefinition.Expression.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtCalcFieldErrors">
+    <param name="Name" value="IDtCalcFieldErrors">
+    <param name="Local" value="Interface/IDtCalcFieldErrors/IDtCalcFieldErrors.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IsCalculated">
+    <param name="Name" value="IDtFieldDefinition.IsCalculated">
+    <param name="Local" value="Interface/IDtFieldDefinition/IDtFieldDefinition.IsCalculated.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtFieldDefinition.IsCalculated">
+    <param name="Name" value="IDtFieldDefinition.IsCalculated">
+    <param name="Local" value="Interface/IDtFieldDefinition/IDtFieldDefinition.IsCalculated.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtCalcFieldErrors.Item">
+    <param name="Name" value="IDtCalcFieldErrors.Item">
+    <param name="Local" value="Interface/IDtCalcFieldErrors/IDtCalcFieldErrors.Item.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="CalcFieldsErrors">
+    <param name="Name" value="IDtConsumer.CalcFieldsErrors">
+    <param name="Local" value="Interface/IDtConsumer/IDtConsumer.CalcFieldsErrors.htm">
+    <param name="Name" value="IDtProvider.CalcFieldsErrors">
+    <param name="Local" value="Interface/IDtProvider/IDtProvider.CalcFieldsErrors.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtConsumer.CalcFieldsErrors">
+    <param name="Name" value="IDtConsumer.CalcFieldsErrors">
+    <param name="Local" value="Interface/IDtConsumer/IDtConsumer.CalcFieldsErrors.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Provider">
+    <param name="Name" value="IDtUnpivotProvider.Provider">
+    <param name="Local" value="Interface/IDtUnpivotProvider/IDtUnpivotProvider.Provider.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtUnpivotProvider.Provider">
+    <param name="Name" value="IDtUnpivotProvider.Provider">
+    <param name="Local" value="Interface/IDtUnpivotProvider/IDtUnpivotProvider.Provider.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="TypeGuessRows">
+    <param name="Name" value="IDtProvider.TypeGuessRows">
+    <param name="Local" value="Interface/IDtProvider/IDtProvider.TypeGuessRows.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtProvider.TypeGuessRows">
+    <param name="Name" value="IDtProvider.TypeGuessRows">
+    <param name="Local" value="Interface/IDtProvider/IDtProvider.TypeGuessRows.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="StringDataFormat">
+    <param name="Name" value="IDtProvider.StringDataFormat">
+    <param name="Local" value="Interface/IDtProvider/IDtProvider.StringDataFormat.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="DtUnpivotCellPosition">
+    <param name="Name" value="DtUnpivotCellPosition">
+    <param name="Local" value="Enums/DtUnpivotCellPosition.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtUnpivotProvider.SourceCellPosition">
+    <param name="Name" value="IDtUnpivotProvider.SourceCellPosition">
+    <param name="Local" value="Interface/IDtUnpivotProvider/IDtUnpivotProvider.SourceCellPosition.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="SourceCellPosition">
+    <param name="Name" value="IDtUnpivotProvider.SourceCellPosition">
+    <param name="Local" value="Interface/IDtUnpivotProvider/IDtUnpivotProvider.SourceCellPosition.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtProvider.StringDataFormat">
+    <param name="Name" value="IDtProvider.StringDataFormat">
+    <param name="Local" value="Interface/IDtProvider/IDtProvider.StringDataFormat.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Field">
+    <param name="Name" value="IDtCalcFieldError.Field">
+    <param name="Local" value="Interface/IDtCalcFieldError/IDtCalcFieldError.Field.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="UserData">
+    <param name="Name" value="IDtRecordsetUserData.UserData">
+    <param name="Local" value="Interface/IDtRecordsetUserData/IDtRecordsetUserData.UserData.htm">
+    <param name="Name" value="IDtUserProvider.UserData">
+    <param name="Local" value="Interface/IDtUserProvider/IDtUserProvider.UserData.htm">
+    <param name="Name" value="IDtUserConsumer.UserData">
+    <param name="Local" value="Interface/IDtUserConsumer/IDtUserConsumer.UserData.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ReadingRowsCount">
+    <param name="Name" value="IDtCustomProvider.ReadingRowsCount">
+    <param name="Local" value="Interface/IDtCustomProvider/IDtCustomProvider.ReadingRowsCount.htm">
+    <param name="Name" value="IDtProvider.ReadingRowsCount">
+    <param name="Local" value="Interface/IDtProvider/IDtProvider.ReadingRowsCount.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="RowDelimiter">
+    <param name="Name" value="IDtTextConsumer.RowDelimiter">
+    <param name="Local" value="Interface/IDtTextConsumer/IDtTextConsumer.RowDelimiter.htm">
+    <param name="Name" value="IDtTextProvider.RowDelimiter">
+    <param name="Local" value="Interface/IDtTextProvider/IDtTextProvider.RowDelimiter.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Encoding">
+    <param name="Name" value="IDtTextConsumer.Encoding">
+    <param name="Local" value="Interface/IDtTextConsumer/IDtTextConsumer.Encoding.htm">
+    <param name="Name" value="IDtTextProvider.Encoding">
+    <param name="Local" value="Interface/IDtTextProvider/IDtTextProvider.Encoding.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="DelimitedTextQualifier">
+    <param name="Name" value="IDtTextConsumer.DelimitedTextQualifier">
+    <param name="Local" value="Interface/IDtTextConsumer/IDtTextConsumer.DelimitedTextQualifier.htm">
+    <param name="Name" value="IDtTextProvider.DelimitedTextQualifier">
+    <param name="Local" value="Interface/IDtTextProvider/IDtTextProvider.DelimitedTextQualifier.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="DelimitedColumnDelimiter">
+    <param name="Name" value="IDtTextConsumer.DelimitedColumnDelimiter">
+    <param name="Local" value="Interface/IDtTextConsumer/IDtTextConsumer.DelimitedColumnDelimiter.htm">
+    <param name="Name" value="IDtTextProvider.DelimitedColumnDelimiter">
+    <param name="Local" value="Interface/IDtTextProvider/IDtTextProvider.DelimitedColumnDelimiter.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="FetchRows">
+    <param name="Name" value="IDtProvider.FetchRows">
+    <param name="Local" value="Interface/IDtProvider/IDtProvider.FetchRows.htm">
+    <param name="Name" value="IDtCustomProvider.FetchRows">
+    <param name="Local" value="Interface/IDtCustomProvider/IDtCustomProvider.FetchRows.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Eof">
+    <param name="Name" value="IDtProvider.Eof">
+    <param name="Local" value="Interface/IDtProvider/IDtProvider.Eof.htm">
+    <param name="Name" value="IDtCustomProvider.Eof">
+    <param name="Local" value="Interface/IDtCustomProvider/IDtCustomProvider.Eof.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ImexMode">
+    <param name="Name" value="IDtExcelProvider.ImexMode">
+    <param name="Local" value="Interface/IDtExcelProvider/IDtExcelProvider.ImexMode.htm">
+    <param name="Name" value="IDtExcelConsumer.ImexMode">
+    <param name="Local" value="Interface/IDtExcelConsumer/IDtExcelConsumer.ImexMode.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Count">
+    <param name="Name" value="IDtFieldDefinitions.Count">
+    <param name="Local" value="Interface/IDtFieldDefinitions/IDtFieldDefinitions.Count.htm">
+    <param name="Name" value="IDtBaseErrors.Count">
+    <param name="Local" value="Interface/IDtBaseErrors/IDtBaseErrors.Count.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Dataset">
+    <param name="Name" value="IDtMetabaseConsumer.Dataset">
+    <param name="Local" value="Interface/IDtMetabaseConsumer/IDtMetabaseConsumer.Dataset.htm">
+    <param name="Name" value="IDtMetabaseProvider.Dataset">
+    <param name="Local" value="Interface/IDtMetabaseProvider/IDtMetabaseProvider.Dataset.htm">
+    <param name="Name" value="IDtRdsConsumer.Dataset">
+    <param name="Local" value="Interface/IDtRdsConsumer/IDtRdsConsumer.Dataset.htm">
+    <param name="Name" value="IDtRdsProvider.Dataset">
+    <param name="Local" value="Interface/IDtRdsProvider/IDtRdsProvider.Dataset.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="PutRow">
+    <param name="Name" value="IDtCustomConsumer.PutRow">
+    <param name="Local" value="Interface/IDtCustomConsumer/IDtCustomConsumer.PutRow.htm">
+    <param name="Name" value="IDtConsumer.PutRow">
+    <param name="Local" value="Interface/IDtConsumer/IDtConsumer.PutRow.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Sheet">
+    <param name="Name" value="IDtExcelConsumerEx.Sheet">
+    <param name="Local" value="Interface/IDtExcelConsumerEx/IDtExcelConsumerEx.Sheet.htm">
+    <param name="Name" value="IDtExcelProviderEx.Sheet">
+    <param name="Local" value="Interface/IDtExcelProviderEx/IDtExcelProviderEx.Sheet.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ConnectionString">
+    <param name="Name" value="IDtOleDbConsumer.ConnectionString">
+    <param name="Local" value="Interface/IDtOleDbConsumer/IDtOleDbConsumer.ConnectionString.htm">
+    <param name="Name" value="IDtOleDbProvider.ConnectionString">
+    <param name="Local" value="Interface/IDtOleDbProvider/IDtOleDbProvider.ConnectionString.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="TextCodePage">
+    <param name="Name" value="IDtTextProvider.TextCodePage">
+    <param name="Local" value="Interface/IDtTextProvider/IDtTextProvider.TextCodePage.htm">
+    <param name="Name" value="IDtTextConsumer.TextCodePage">
+    <param name="Local" value="Interface/IDtTextConsumer/IDtTextConsumer.TextCodePage.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="HeaderRow">
+    <param name="Name" value="IDtTextProvider.HeaderRow">
+    <param name="Local" value="Interface/IDtTextProvider/IDtTextProvider.HeaderRow.htm">
+    <param name="Name" value="IDtExcelProviderEx.HeaderRow">
+    <param name="Local" value="Interface/IDtExcelProviderEx/IDtExcelProviderEx.HeaderRow.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="XPath">
+    <param name="Name" value="IDtXmlProvider.XPath">
+    <param name="Local" value="Interface/IDtXmlProvider/IDtXmlProvider.XPath.htm">
+    <param name="Name" value="IDtXmlProviderField.XPath">
+    <param name="Local" value="Interface/IDtXmlProviderField/IDtXmlProviderField.XPath.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="WritingRowsCount">
+    <param name="Name" value="IDtCustomConsumer.WritingRowsCount">
+    <param name="Local" value="Interface/IDtCustomConsumer/IDtCustomConsumer.WritingRowsCount.htm">
+    <param name="Name" value="IDtConsumer.WritingRowsCount">
+    <param name="Local" value="Interface/IDtConsumer/IDtConsumer.WritingRowsCount.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Fetch">
+    <param name="Name" value="IDtProvider.Fetch">
+    <param name="Local" value="Interface/IDtProvider/IDtProvider.Fetch.htm">
+    <param name="Name" value="IDtRecordsetProvider.Fetch">
+    <param name="Local" value="Interface/IDtRecordsetProvider/IDtRecordsetProvider.Fetch.htm">
+    <param name="Name" value="IDtCustomProvider.Fetch">
+    <param name="Local" value="Interface/IDtCustomProvider/IDtCustomProvider.Fetch.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Metabase">
+    <param name="Name" value="IDtObject.Metabase">
+    <param name="Local" value="Interface/IDtObject/IDtObject.Metabase.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Item">
+    <param name="Name" value="IDtFieldDefinitions.Item">
+    <param name="Local" value="Interface/IDtFieldDefinitions/IDtFieldDefinitions.Item.htm">
+    <param name="Name" value="IDtErrors.Item">
+    <param name="Local" value="Interface/IDtErrors/IDtErrors.Item.htm">
+    <param name="Name" value="IDtCalcFieldErrors.Item">
+    <param name="Local" value="Interface/IDtCalcFieldErrors/IDtCalcFieldErrors.Item.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Put">
+    <param name="Name" value="IDtConsumer.Put">
+    <param name="Local" value="Interface/IDtConsumer/IDtConsumer.Put.htm">
+    <param name="Name" value="IDtRecordsetConsumer.Put">
+    <param name="Local" value="Interface/IDtRecordsetConsumer/IDtRecordsetConsumer.Put.htm">
+    <param name="Name" value="IDtCustomConsumer.Put">
+    <param name="Local" value="Interface/IDtCustomConsumer/IDtCustomConsumer.Put.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ForeModule">
+    <param name="Name" value="IDtUserConsumer.ForeModule">
+    <param name="Local" value="Interface/IDtUserConsumer/IDtUserConsumer.ForeModule.htm">
+    <param name="Name" value="IDtUserProvider.ForeModule">
+    <param name="Local" value="Interface/IDtUserProvider/IDtUserProvider.ForeModule.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Clear">
+    <param name="Name" value="IDtConsumer.Clear">
+    <param name="Local" value="Interface/IDtConsumer/IDtConsumer.Clear.htm">
+    <param name="Name" value="IDtFieldDefinitions.Clear">
+    <param name="Local" value="Interface/IDtFieldDefinitions/IDtFieldDefinitions.Clear.htm">
+    <param name="Name" value="IDtRecordsetConsumer.Clear">
+    <param name="Local" value="Interface/IDtRecordsetConsumer/IDtRecordsetConsumer.Clear.htm">
+    <param name="Name" value="IDtCustomConsumer.Clear">
+    <param name="Local" value="Interface/IDtCustomConsumer/IDtCustomConsumer.Clear.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Table">
+    <param name="Name" value="IDtAccessConsumer.Table">
+    <param name="Local" value="Interface/IDtAccessConsumer/IDtAccessConsumer.Table.htm">
+    <param name="Name" value="IDtOleDbConsumer.Table">
+    <param name="Local" value="Interface/IDtOleDbConsumer/IDtOleDbConsumer.Table.htm">
+    <param name="Name" value="IDtVfpConsumer.Table">
+    <param name="Local" value="Interface/IDtVfpConsumer/IDtVfpConsumer.Table.htm">
+    <param name="Name" value="IDtExcelConsumer.Table">
+    <param name="Local" value="Interface/IDtExcelConsumer/IDtExcelConsumer.Table.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Dt">
+    <param name="Name" value="Сборка Dt">
+    <param name="Local" value="KeDt_Title.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Примеры">
+      <param name="Name" value="Примеры: Сборка Dt">
+      <param name="Local" value="Samples/Samples.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Интерфейсы сборки Dt">
+      <param name="Name" value="Интерфейсы сборки Dt">
+      <param name="Local" value="Interface/KeDt_Interface.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Перечисления сборки Dt">
+      <param name="Name" value="Перечисления сборки Dt">
+      <param name="Local" value="Enums/KeDt_Enums.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Классы сборки Dt">
+      <param name="Name" value="Классы сборки Dt">
+      <param name="Local" value="Class/KeDt_Class.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Введение в сборку Dt">
+      <param name="Name" value="Введение: Сборка Dt">
+      <param name="Local" value="KeDt_Introduction.htm">
+    </object>
+    </ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Path">
+    <param name="Name" value="IDtDbaseProvider.Path">
+    <param name="Local" value="Interface/IDtDbaseProvider/IDtDbaseProvider.Path.htm">
+    <param name="Name" value="IDtParadoxProvider.Path">
+    <param name="Local" value="Interface/IDtParadoxProvider/IDtParadoxProvider.Path.htm">
+    <param name="Name" value="IDtVfpConsumer.Path">
+    <param name="Local" value="Interface/IDtVfpConsumer/IDtVfpConsumer.Path.htm">
+    <param name="Name" value="IDtVfpProvider.Path">
+    <param name="Local" value="Interface/IDtVfpProvider/IDtVfpProvider.Path.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Сборка Dt">
+    <param name="Name" value="Сборка Dt">
+    <param name="Local" value="KeDt_Title.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Перечисления сборки Dt">
+      <param name="Name" value="Перечисления сборки Dt">
+      <param name="Local" value="Enums/KeDt_Enums.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Классы сборки Dt">
+      <param name="Name" value="Классы сборки Dt">
+      <param name="Local" value="Class/KeDt_Class.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Примеры">
+      <param name="Name" value="Примеры: Сборка Dt">
+      <param name="Local" value="Samples/Samples.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Интерфейсы сборки Dt">
+      <param name="Name" value="Интерфейсы сборки Dt">
+      <param name="Local" value="Interface/KeDt_Interface.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Введение в сборку Dt">
+      <param name="Name" value="Введение: Сборка Dt">
+      <param name="Local" value="KeDt_Introduction.htm">
+    </object>
+    </ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ForeClass">
+    <param name="Name" value="IDtUserConsumer.ForeClass">
+    <param name="Local" value="Interface/IDtUserConsumer/IDtUserConsumer.ForeClass.htm">
+    <param name="Name" value="IDtUserProvider.ForeClass">
+    <param name="Local" value="Interface/IDtUserProvider/IDtUserProvider.ForeClass.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="FormatType">
+    <param name="Name" value="IDtTextConsumer.FormatType">
+    <param name="Local" value="Interface/IDtTextConsumer/IDtTextConsumer.FormatType.htm">
+    <param name="Name" value="IDtTextProvider.FormatType">
+    <param name="Local" value="Interface/IDtTextProvider/IDtTextProvider.FormatType.htm">
+    <param name="Name" value="IDtXmlConsumer.FormatType">
+    <param name="Local" value="Interface/IDtXmlConsumer/IDtXmlConsumer.FormatType.htm">
+    <param name="Name" value="IDtXmlProvider.FormatType">
+    <param name="Local" value="Interface/IDtXmlProvider/IDtXmlProvider.FormatType.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="DriverVersion">
+    <param name="Name" value="IDtDbaseConsumer.DriverVersion">
+    <param name="Local" value="Interface/IDtDbaseConsumer/IDtDbaseConsumer.DriverVersion.htm">
+    <param name="Name" value="IDtDbaseProvider.DriverVersion">
+    <param name="Local" value="Interface/IDtDbaseProvider/IDtDbaseProvider.DriverVersion.htm">
+    <param name="Name" value="IDtExcelProvider.DriverVersion">
+    <param name="Local" value="Interface/IDtExcelProvider/IDtExcelProvider.DriverVersion.htm">
+    <param name="Name" value="IDtParadoxProvider.DriverVersion">
+    <param name="Local" value="Interface/IDtParadoxProvider/IDtParadoxProvider.DriverVersion.htm">
+    <param name="Name" value="IDtExcelConsumer.DriverVersion">
+    <param name="Local" value="Interface/IDtExcelConsumer/IDtExcelConsumer.DriverVersion.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="HasHeader">
+    <param name="Name" value="IDtExcelProvider.HasHeader">
+    <param name="Local" value="Interface/IDtExcelProvider/IDtExcelProvider.HasHeader.htm">
+    <param name="Name" value="IDtWebProvider.HasHeader">
+    <param name="Local" value="Interface/IDtWebProvider/IDtWebProvider.HasHeader.htm">
+    <param name="Name" value="IDtExcelConsumer.HasHeader">
+    <param name="Local" value="Interface/IDtExcelConsumer/IDtExcelConsumer.HasHeader.htm">
+    <param name="Name" value="IDtExcelConsumerEx.HasHeader">
+    <param name="Local" value="Interface/IDtExcelConsumerEx/IDtExcelConsumerEx.HasHeader.htm">
+    <param name="Name" value="IDtExcelProviderEx.HasHeader">
+    <param name="Local" value="Interface/IDtExcelProviderEx/IDtExcelProviderEx.HasHeader.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Query">
+    <param name="Name" value="IDtAccessProvider.Query">
+    <param name="Local" value="Interface/IDtAccessProvider/IDtAccessProvider.Query.htm">
+    <param name="Name" value="IDtDbaseProvider.Query">
+    <param name="Local" value="Interface/IDtDbaseProvider/IDtDbaseProvider.Query.htm">
+    <param name="Name" value="IDtExcelProvider.Query">
+    <param name="Local" value="Interface/IDtExcelProvider/IDtExcelProvider.Query.htm">
+    <param name="Name" value="IDtOleDbProvider.Query">
+    <param name="Local" value="Interface/IDtOleDbProvider/IDtOleDbProvider.Query.htm">
+    <param name="Name" value="IDtParadoxProvider.Query">
+    <param name="Local" value="Interface/IDtParadoxProvider/IDtParadoxProvider.Query.htm">
+    <param name="Name" value="IDtVfpProvider.Query">
+    <param name="Local" value="Interface/IDtVfpProvider/IDtVfpProvider.Query.htm">
+    <param name="Name" value="IDtJsonProvider.Query">
+    <param name="Local" value="Interface/IDtJsonProvider/IDtJsonProvider.Query.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="File">
+    <param name="Name" value="IDtAccessConsumer.File">
+    <param name="Local" value="Interface/IDtAccessConsumer/IDtAccessConsumer.File.htm">
+    <param name="Name" value="IDtAccessProvider.File">
+    <param name="Local" value="Interface/IDtAccessProvider/IDtAccessProvider.File.htm">
+    <param name="Name" value="IDtDbaseConsumer.File">
+    <param name="Local" value="Interface/IDtDbaseConsumer/IDtDbaseConsumer.File.htm">
+    <param name="Name" value="IDtExcelProvider.File">
+    <param name="Local" value="Interface/IDtExcelProvider/IDtExcelProvider.File.htm">
+    <param name="Name" value="IDtTextConsumer.File">
+    <param name="Local" value="Interface/IDtTextConsumer/IDtTextConsumer.File.htm">
+    <param name="Name" value="IDtTextProvider.File">
+    <param name="Local" value="Interface/IDtTextProvider/IDtTextProvider.File.htm">
+    <param name="Name" value="IDtXmlConsumer.File">
+    <param name="Local" value="Interface/IDtXmlConsumer/IDtXmlConsumer.File.htm">
+    <param name="Name" value="IDtXmlProvider.File">
+    <param name="Local" value="Interface/IDtXmlProvider/IDtXmlProvider.File.htm">
+    <param name="Name" value="IDtExcelConsumer.File">
+    <param name="Local" value="Interface/IDtExcelConsumer/IDtExcelConsumer.File.htm">
+    <param name="Name" value="IDtExcelConsumerEx.File">
+    <param name="Local" value="Interface/IDtExcelConsumerEx/IDtExcelConsumerEx.File.htm">
+    <param name="Name" value="IDtExcelProviderEx.File">
+    <param name="Local" value="Interface/IDtExcelProviderEx/IDtExcelProviderEx.File.htm">
+    <param name="Name" value="IDtJsonConsumer.File">
+    <param name="Local" value="Interface/IDtJsonConsumer/IDtJsonConsumer.File.htm">
+    <param name="Name" value="IDtJsonProvider.File">
+    <param name="Local" value="Interface/IDtJsonProvider/IDtJsonProvider.File.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtFieldDefinition.DateFormat">
+    <param name="Name" value="IDtFieldDefinition.DateFormat">
+    <param name="Local" value="Interface/IDtFieldDefinition/IDtFieldDefinition.DateFormat.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtObjectDataFormat.UsePredefinedDateFormats">
+    <param name="Name" value="IDtObjectDataFormat.UsePredefinedDateFormats">
+    <param name="Local" value="Interface/IDtObjectDataFormat/IDtObjectDataFormat.UsePredefinedDateFormats.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="UsePredefinedDateFormats">
+    <param name="Name" value="IDtObjectDataFormat.UsePredefinedDateFormats">
+    <param name="Local" value="Interface/IDtObjectDataFormat/IDtObjectDataFormat.UsePredefinedDateFormats.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtUserConsumerEx.Module">
+    <param name="Name" value="IDtUserConsumerEx.Module">
+    <param name="Local" value="Interface/IDtUserConsumerEx/IDtUserConsumerEx.Module.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Module">
+    <param name="Name" value="IDtUserConsumerEx.Module">
+    <param name="Local" value="Interface/IDtUserConsumerEx/IDtUserConsumerEx.Module.htm">
+    <param name="Name" value="IDtUserProviderEx.Module">
+    <param name="Local" value="Interface/IDtUserProviderEx/IDtUserProviderEx.Module.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtUserConsumerEx.Macro">
+    <param name="Name" value="IDtUserConsumerEx.Macro">
+    <param name="Local" value="Interface/IDtUserConsumerEx/IDtUserConsumerEx.Macro.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Macro">
+    <param name="Name" value="IDtUserConsumerEx.Macro">
+    <param name="Local" value="Interface/IDtUserConsumerEx/IDtUserConsumerEx.Macro.htm">
+    <param name="Name" value="IDtUserProviderEx.Macro">
+    <param name="Local" value="Interface/IDtUserProviderEx/IDtUserProviderEx.Macro.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtUserProviderEx.Macro">
+    <param name="Name" value="IDtUserProviderEx.Macro">
+    <param name="Local" value="Interface/IDtUserProviderEx/IDtUserProviderEx.Macro.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtUserProviderEx.Module">
+    <param name="Name" value="IDtUserProviderEx.Module">
+    <param name="Local" value="Interface/IDtUserProviderEx/IDtUserProviderEx.Module.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtFieldSplitter">
+    <param name="Name" value="IDtFieldSplitter">
+    <param name="Local" value="Interface/IDtFieldSplitter/IDtFieldSplitter.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtFieldSplitter.Split">
+    <param name="Name" value="IDtFieldSplitter.Split">
+    <param name="Local" value="Interface/IDtFieldSplitter/IDtFieldSplitter.Split.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Split">
+    <param name="Name" value="IDtFieldSplitter.Split">
+    <param name="Local" value="Interface/IDtFieldSplitter/IDtFieldSplitter.Split.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtRdsConsumer">
+    <param name="Name" value="IDtRdsConsumer">
+    <param name="Local" value="Interface/IDtRdsConsumer/IDtRdsConsumer.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtRdsConsumer.Dataset">
+    <param name="Name" value="IDtRdsConsumer.Dataset">
+    <param name="Local" value="Interface/IDtRdsConsumer/IDtRdsConsumer.Dataset.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtRdsConsumer.UpdateMode">
+    <param name="Name" value="IDtRdsConsumer.UpdateMode">
+    <param name="Local" value="Interface/IDtRdsConsumer/IDtRdsConsumer.UpdateMode.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="UpdateMode">
+    <param name="Name" value="IDtRdsConsumer.UpdateMode">
+    <param name="Local" value="Interface/IDtRdsConsumer/IDtRdsConsumer.UpdateMode.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtRdsProvider">
+    <param name="Name" value="IDtRdsProvider">
+    <param name="Local" value="Interface/IDtRdsProvider/IDtRdsProvider.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtRdsProvider.Dataset">
+    <param name="Name" value="IDtRdsProvider.Dataset">
+    <param name="Local" value="Interface/IDtRdsProvider/IDtRdsProvider.Dataset.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtRestProvider">
+    <param name="Name" value="IDtRestProvider">
+    <param name="Local" value="Interface/IDtRestProvider/IDtRestProvider.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtRestProvider.Timeout">
+    <param name="Name" value="IDtRestProvider.Timeout">
+    <param name="Local" value="Interface/IDtRestProvider/IDtRestProvider.Timeout.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Timeout">
+    <param name="Name" value="IDtRestProvider.Timeout">
+    <param name="Local" value="Interface/IDtRestProvider/IDtRestProvider.Timeout.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtJsonConsumer">
+    <param name="Name" value="IDtJsonConsumer">
+    <param name="Local" value="Interface/IDtJsonConsumer/IDtJsonConsumer.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtJsonConsumer.File">
+    <param name="Name" value="IDtJsonConsumer.File">
+    <param name="Local" value="Interface/IDtJsonConsumer/IDtJsonConsumer.File.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtJsonConsumer.RootNodeName">
+    <param name="Name" value="IDtJsonConsumer.RootNodeName">
+    <param name="Local" value="Interface/IDtJsonConsumer/IDtJsonConsumer.RootNodeName.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtJsonProvider">
+    <param name="Name" value="IDtJsonProvider">
+    <param name="Local" value="Interface/IDtJsonProvider/IDtJsonProvider.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtJsonProvider.File">
+    <param name="Name" value="IDtJsonProvider.File">
+    <param name="Local" value="Interface/IDtJsonProvider/IDtJsonProvider.File.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtJsonProvider.Query">
+    <param name="Name" value="IDtJsonProvider.Query">
+    <param name="Local" value="Interface/IDtJsonProvider/IDtJsonProvider.Query.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="DtRestProviderResultType">
+    <param name="Name" value="DtRestProviderResultType">
+    <param name="Local" value="Enums/DtRestProviderResultType.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtRestProvider.Credentials">
+    <param name="Name" value="IDtRestProvider.Credentials">
+    <param name="Local" value="Interface/IDtRestProvider/IDtRestProvider.Credentials.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Credentials">
+    <param name="Name" value="IDtRestProvider.Credentials">
+    <param name="Local" value="Interface/IDtRestProvider/IDtRestProvider.Credentials.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtRestProvider.Headers">
+    <param name="Name" value="IDtRestProvider.Headers">
+    <param name="Local" value="Interface/IDtRestProvider/IDtRestProvider.Headers.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Headers">
+    <param name="Name" value="IDtRestProvider.Headers">
+    <param name="Local" value="Interface/IDtRestProvider/IDtRestProvider.Headers.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtRestProvider.ResultProvider">
+    <param name="Name" value="IDtRestProvider.ResultProvider">
+    <param name="Local" value="Interface/IDtRestProvider/IDtRestProvider.ResultProvider.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ResultProvider">
+    <param name="Name" value="IDtRestProvider.ResultProvider">
+    <param name="Local" value="Interface/IDtRestProvider/IDtRestProvider.ResultProvider.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtRestProvider.ResultType">
+    <param name="Name" value="IDtRestProvider.ResultType">
+    <param name="Local" value="Interface/IDtRestProvider/IDtRestProvider.ResultType.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ResultType">
+    <param name="Name" value="IDtRestProvider.ResultType">
+    <param name="Local" value="Interface/IDtRestProvider/IDtRestProvider.ResultType.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtRestProvider.Url">
+    <param name="Name" value="IDtRestProvider.Url">
+    <param name="Local" value="Interface/IDtRestProvider/IDtRestProvider.Url.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IDtRdsConsumer.AddCrossVersions">
+    <param name="Name" value="IDtRdsConsumer.AddCrossVersions">
+    <param name="Local" value="Interface/IDtRdsConsumer/IDtRdsConsumer.AddCrossVersions.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="AddCrossVersions">
+    <param name="Name" value="IDtRdsConsumer.AddCrossVersions">
+    <param name="Local" value="Interface/IDtRdsConsumer/IDtRdsConsumer.AddCrossVersions.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="DtRdsConsumer">
+    <param name="Name" value="DtRdsConsumer">
+    <param name="Local" value="Class/DtRdsConsumer/DtRdsConsumer.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="DtRdsProvider">
+    <param name="Name" value="DtRdsProvider">
+    <param name="Local" value="Class/DtRdsProvider/DtRdsProvider.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="DtJsonConsumer">
+    <param name="Name" value="DtJsonConsumer">
+    <param name="Local" value="Class/DtJsonConsumer/DtJsonConsumer.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="DtRestProvider">
+    <param name="Name" value="DtRestProvider">
+    <param name="Local" value="Class/DtRestProvider/DtRestProvider.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="DtJsonProvider">
+    <param name="Name" value="DtJsonProvider">
+    <param name="Local" value="Class/DtJsonProvider/DtJsonProvider.htm">
+  </object>
+</ul>
+</html>

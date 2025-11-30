@@ -1,0 +1,1073 @@
+<html>
+<!-- Sitemap 1.0 -->
+<object type="text/site properties">
+  <param name="SiteType" value="toc">
+  <param name="Image Width" value="16">
+  <param name="Window Styles" value="0x800027">
+  <param name="ExWindow Styles" value="0x100">
+</object>
+<ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Установка и настройка продукта «Форсайт. Аналитическая платформа»">
+    <param name="Local" value="Setup_TitlePage.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Конфигурации систем и принцип их работы">
+      <param name="Local" value="GeneralInfo.htm">
+      <param name="ImageNumber" value="11">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Системные требования">
+      <param name="Local" value="01_SysReq/SystemRequirement.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Системные требования к серверу баз данных">
+        <param name="Local" value="03_DB_Server_Config/Setup_DB_ServerSysReq.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Системные требования к клиентскому окружению">
+        <param name="Local" value="03_DB_Server_Config/Setup_DB_ServerSysReq.htm#client642b3b9347ca42c9b00b820c00c373fa=1">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Системные требования к BI-серверу и серверу приложений">
+        <param name="Local" value="03_DB_Server_Config/Setup_DB_ServerSysReq.htm#bi642b3b9347ca42c9b00b820c00c373fa=2">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Системные требования к серверу веб-приложения">
+        <param name="Local" value="03_DB_Server_Config/Setup_DB_ServerSysReq.htm#web642b3b9347ca42c9b00b820c00c373fa=3">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Требования к настройкам операционной системы">
+        <param name="Local" value="01_SysReq/EnviromentRequirements.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Поддерживаемые СУБД">
+        <param name="Local" value="01_SysReq/database_Support.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Поддерживаемые версии ОС Linux">
+        <param name="Local" value="UiWebSetup/02_SystemReq/system_requirments_Linux.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Рекомендации по повышению производительности">
+        <param name="Local" value="01_SysReq/Performance_Recommendations.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Поддержка работы в виртуальных средах">
+        <param name="Local" value="01_SysReq/virtualization_platform.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Поддержка работы с системами мониторинга">
+        <param name="Local" value="01_SysReq/Monitoring_platform.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Поддержка работы с системами резервного копирования и восстановления данных">
+        <param name="Local" value="01_SysReq/Backup_platform.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Поддержка работы с системами управления событиями информационной безопасности">
+        <param name="Local" value="01_SysReq/SIEM.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Пример импорта данных в Wazuh">
+          <param name="Local" value="01_SysReq/decoder_example.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Аутентификация в продукте">
+      <param name="Local" value="UiWebSetup/Authentication/Authentication.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Настройка доменной/интегрированной доменной аутентификации на веб-сервере Apache2">
+        <param name="Local" value="UiWebSetup/Authentication/Domain_Authentication_Apache.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Настройка доменной/интегрированной доменной аутентификации на веб-сервере IIS">
+        <param name="Local" value="UiWebSetup/Authentication/UiWebSetup_FAQ_1_DomainAuthorization.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Настройка доменной/интегрированной доменной аутентификации на веб-сервере Java">
+        <param name="Local" value="UiWebSetup/Authentication/setting_domain_on_tomcat.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Настройка двухфакторной аутентификации">
+        <param name="Local" value="UiWebSetup/Authentication/double_auth.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Настройка встроенной авторизации">
+        <param name="Local" value="UiWebSetup/Authentication/Integrated_Authorization.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Настройка аутентификации через внешние сервисы">
+        <param name="Local" value="UiWebSetup/Authentication/login_settings_using_external_services.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="OAuth 2.0 или OpenID Connect">
+          <param name="Local" value="UiWebSetup/Authentication/OAuth_OpenID_Connect.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="JWT-токен">
+          <param name="Local" value="UiWebSetup/Authentication/JWT.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="HTTP-заголовки">
+          <param name="Local" value="UiWebSetup/Authentication/HTTPHeaders.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Настройка гостевого входа">
+        <param name="Local" value="UiWebSetup/Authentication/Guest_login.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Комплект поставки продукта">
+      <param name="Local" value="02_AK_Install/DistributionKit.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Пререквизиты">
+        <param name="Local" value="01_SysReq/ISSetupPrerequisites.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Приложения в составе продукта">
+        <param name="Local" value="05_RepoMngr/Setup_RepoMngr_Main.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="PP.Util">
+          <param name="Local" value="05_RepoMngr/Service_Applications/PP_Util.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="UpdateManager">
+          <param name="Local" value="05_RepoMngr/Service_Applications/UpdateManager.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Подготовка серверной части СУБД">
+      <param name="Local" value="03_DB_Server_Config/Setup_DB_Server_Config.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Подготовка сервера Oracle">
+        <param name="Local" value="03_DB_Server_Config/Setup_DB_Server_Config_Oracle.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Дополнительные настройки Oracle">
+          <param name="Local" value="03_DB_Server_Config/Setup_DB_Server_Config_Oracle_Tuning.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Подготовка сервера Microsoft SQL Server">
+        <param name="Local" value="03_DB_Server_Config/Setup_DB_Server_Config_MSQL.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Подготовка сервера PostgreSQL">
+        <param name="Local" value="03_DB_Server_Config/Postgres_server_preparation.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Подготовка SQLite">
+        <param name="Local" value="03_DB_Server_Config/Config_SQLite.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Установка веб-приложения">
+      <param name="Local" value="UiWebSetup/Web_Application_Installation.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Установка веб-приложения «Форсайт. Аналитическая платформа» в ОС Linux (СУБД PostgreSQL)">
+        <param name="Local" value="UiWebSetup/Install_Web_on_Linux_PostgreSQL.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Расширенная установка веб-приложения «Форсайт. Аналитическая платформа» в ОС Linux (СУБД PostgreSQL)">
+        <param name="Local" value="UiWebSetup/InstallEx_Web_on_Linux_PostgreSQL.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="BI-сервер">
+        <param name="Local" value="UiWebSetup/UiWebSetup_TitlePage.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Установка в ОС Windows">
+          <param name="Local" value="UiWebSetup/Install_Web_on_Windows.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Добавление роли «Веб-сервер»">
+            <param name="Local" value="UiWebSetup/03_Setup_Web/Add_WebServer_Role.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Подключение служб IIS">
+            <param name="Local" value="UiWebSetup/03_Setup_Web/IIS_turn_on.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Установка в ОС Linux">
+          <param name="Local" value="UiWebSetup/Install_Web_on_Linux.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Ограничения при работе с BI-сервером на Linux">
+            <param name="Local" value="UiWebSetup/03_Setup_Web/Linux_constraints.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Установка и настройка BI-сервера в Debian-подобных дистрибутивах">
+            <param name="Local" value="UiWebSetup/03_Setup_Web/Debian/Install_BI_server_to_Debian.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Установка и настройка BI-сервера на RedHat-подобные дистрибутивы">
+            <param name="Local" value="UiWebSetup/03_Setup_Web/Setup_Linux.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Установка и настройка BI-сервера на ALT Linux">
+            <param name="Local" value="UiWebSetup/03_Setup_Web/Install_BI_ALT_Linux.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Дополнительные настройки для BI-сервера">
+            <param name="Local" value="UiWebSetup/03_Setup_Web/General_for_linux/Additional_settings.htm">
+          </object>
+          <ul>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Настройка подключения к прокси-серверу">
+              <param name="Local" value="UiWebSetup/03_Setup_Web/General_for_linux/Proxy.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Конфигурация и настройка">
+              <param name="Local" value="UiWebSetup/03_Setup_Web/config_and_setting.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Подготовка к печати">
+              <param name="Local" value="UiWebSetup/03_Setup_Web/preparing_for_printing.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Загрузка пользовательских шрифтов">
+              <param name="Local" value="UiWebSetup/03_Setup_Web/General_for_linux/Loading_Custom_Fonts.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            </ul>
+          </ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Проверка работы BI-сервера">
+          <param name="Local" value="UiWebSetup/01_BIServer/CheckBIServices.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Перезапуск BI-сервера">
+          <param name="Local" value="UiWebSetup/01_BIServer/bi-service_restart.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Создание кластера BI-серверов">
+          <param name="Local" value="UiWebSetup/01_BIServer/Cluster/Cluster_Of_BI_Server.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Рекомендации по созданию кластера BI-серверов">
+            <param name="Local" value="UiWebSetup/01_BIServer/Cluster/general_recommendations.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Сервер состояний">
+            <param name="Local" value="UiWebSetup/01_BIServer/StateServer/State_Server.htm">
+          </object>
+          <ul>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Настройка сервера состояний на базе Redis">
+              <param name="Local" value="UiWebSetup/01_BIServer/StateServer/Redis.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Настройка сервера состояний на базе Memcached">
+              <param name="Local" value="UiWebSetup/01_BIServer/StateServer/Memcached.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Настройка аутентификации на сервере состояний">
+              <param name="Local" value="UiWebSetup/01_BIServer/StateServer/Settings_Authentication_State_Server.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            </ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Настройка балансировщика HAProxy при использовании веб-форм">
+            <param name="Local" value="UiWebSetup/01_BIServer/Cluster/HAProxy_settings.htm">
+          </object>
+          <ul>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Настройка балансировщика HAProxy для работы по протоколу HTTPS">
+              <param name="Local" value="UiWebSetup/01_BIServer/Cluster/HAProxy_WebForms_by_https.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            </ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Настройка балансировщика HAProxy при использовании сервиса лицензирования">
+            <param name="Local" value="UiWebSetup/01_BIServer/Cluster/License_HAProxy_Settings.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Пул соединений">
+          <param name="Local" value="UiWebSetup/01_BIServer/PoolConnections.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Серверная часть веб-приложения">
+        <param name="Local" value="UiWebSetup/03_Setup_Web/Web_server_setup.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Установка на Apache2">
+          <param name="Local" value="UiWebSetup/03_Setup_Web/ApacheWebApp/Apache_WebApp.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Ручная установка и настройка Apache2 для доступа к ресурсам веб-приложения">
+            <param name="Local" value="UiWebSetup/03_Setup_Web/configure_apache.htm">
+          </object>
+          <ul>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Настройка на ОС Astra Linux">
+              <param name="Local" value="UiWebSetup/03_Setup_Web/Astra_Linux/configure_apache_to_access_resources_web_pp.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Настройка на RedHat-подобные дистрибутивы">
+              <param name="Local" value="UiWebSetup/03_Setup_Web/RHEL/configure_apache_to_access_resources_web_pp.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Настройка на ОС ALT Linux">
+              <param name="Local" value="UiWebSetup/03_Setup_Web/ALT_Linux/Configure_Apache_to_Access_Resources_Web_ALT_Linux.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            </ul>
+          </ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Установка на IIS">
+          <param name="Local" value="UiWebSetup/03_Setup_Web/WebSetup_Setup.htm">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Установка на Java">
+          <param name="Local" value="UiWebSetup/03_Setup_Web/Java_WebApp.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Установка на ОС Astra Linux">
+            <param name="Local" value="UiWebSetup/03_Setup_Web/Astra_Linux/Install_server_end_of_web_app_on_Astra_Linux.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Установка на ОС Windows">
+            <param name="Local" value="UiWebSetup/03_Setup_Web/Windows/Installing_Web_Application_Back_End_on_Windows_OS.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Установка и настройка веб-сервера Apache Tomcat">
+            <param name="Local" value="UiWebSetup/03_Setup_Web/General_for_linux/Install_Apache_Tomcat.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Настройка конфигурации веб-приложения">
+          <param name="Local" value="UiWebSetup/03_Setup_Web/PP_config_Java.htm">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Перезапуск серверной части веб-приложения">
+          <param name="Local" value="UiWebSetup/03_Setup_Web/Web_Server_Restart.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Открытие веб-приложения">
+          <param name="Local" value="UiWebSetup/03_Setup_Web/Opening_Web_Application.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Сервер приложений">
+        <param name="Local" value="UiWebSetup/AppServer.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Вопросы и ответы">
+        <param name="Local" value="UiWebSetup/04_FAQ/Setup_FAQ.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Проблемы при настройке веб-приложения продукта на IIS">
+          <param name="Local" value="UiWebSetup/04_FAQ/ProblemPP.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Создание правила авторизации для пользователей веб-приложения">
+          <param name="Local" value="UiWebSetup/04_FAQ/Create_Authorization_Rule.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Настройка запуска Apache Tomcat в качестве службы на Linux">
+          <param name="Local" value="UiWebSetup/04_FAQ/run_apache.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Настройка веб-приложения для работы в браузере Chromium-Gost">
+          <param name="Local" value="UiWebSetup/04_FAQ/Setting_Web_ChromiumGost.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Настройка веб-приложения для работы через HTTPS">
+          <param name="Local" value="UiWebSetup/04_FAQ/setting_https.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Настройка веб-форм при работе через HTTPS">
+          <param name="Local" value="UiWebSetup/04_FAQ/webforms_work_by_https.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Повышение безопасности веб-приложения">
+          <param name="Local" value="UiWebSetup/03_Setup_Web/Security_Enhancement.htm">
+          <param name="ImageNumber" value="11">
+          <param name="x-condition" value="Public">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Настройка протоколирования IP-адреса в ОС Linux">
+          <param name="Local" value="UiWebSetup/04_FAQ/Balancer_Additional_Settings.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Создание пользовательской темы веб-приложения">
+          <param name="Local" value="UiWebSetup/04_FAQ/Create_Custom_Web_Application_Theme.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Установка настольного приложения">
+      <param name="Local" value="02_AK_Install/Setup_AK_Install.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Особенности установки">
+        <param name="Local" value="02_AK_Install/Setup_AK_InstallFeature.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Запуск дистрибутива с параметрами">
+        <param name="Local" value="01_SysReq/Setup_SysReq_Client_Printer.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Использование командной строки">
+        <param name="Local" value="07_AK_Run_Additional/UsingCommandLine.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Запуск продукта с использованием ключей">
+          <param name="Local" value="07_AK_Run_Additional/UseKeys.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Активация продукта">
+      <param name="Local" value="08_Licensing/Admin_Licensing.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="О единицах лицензирования продукта">
+        <param name="Local" value="08_Licensing/AboutFeatures.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="О типе и времени действия лицензии">
+        <param name="Local" value="08_Licensing/Admin_Licensing_Variants.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Порядок проверки лицензии">
+        <param name="Local" value="08_Licensing/License_Check.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Активация продукта на базе Guardant">
+        <param name="Local" value="08_Licensing/Guardant/Activation_Product_Guardant.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Сервер лицензий Guardant и особенности его использования">
+          <param name="Local" value="08_Licensing/Guardant/License_Server_Guardant.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Сервис лицензирования и особенности его использования">
+          <param name="Local" value="08_Licensing/Service/Licensing_Service.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Настройка конфигурации сервиса лицензирования">
+            <param name="Local" value="08_Licensing/Service/Licensing_Service_Configuration.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Мастер лицензий Guardant">
+          <param name="Local" value="08_Licensing/Guardant/License_Activation_Guardant.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Активация лицензии при наличии доступа к сети Интернет">
+            <param name="Local" value="08_Licensing/Guardant/License_Activation_Internet_Access.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Активация лицензии при отсутствии доступа к сети Интернет">
+            <param name="Local" value="08_Licensing/Guardant/License_Activation_Internet_Access_Denied.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Обновление лицензии при наличии доступа к сети Интернет">
+            <param name="Local" value="08_Licensing/Guardant/License_Update_Internet_Access.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Обновление лицензии при отсутствии доступа к сети Интернет">
+            <param name="Local" value="08_Licensing/Guardant/License_Update_Internet_Access_Denied.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Перенос лицензии">
+            <param name="Local" value="08_Licensing/Guardant/License_Transfer.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Активация продукта на базе RMS">
+        <param name="Local" value="08_Licensing/RMS/Activation_Product_RMS.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Сервер лицензий RMS и особенности его использования">
+          <param name="Local" value="08_Licensing/RMS/LicenseServer.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Системные требования к серверу лицензий">
+            <param name="Local" value="08_Licensing/RMS/LicenseServer.htm#system_requirements642b3b9347ca42c9b00b820c00c373fa=1">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Принцип работы сервера лицензий">
+            <param name="Local" value="08_Licensing/RMS/LicenseServer.htm#principle642b3b9347ca42c9b00b820c00c373fa=2">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Установка сервера лицензий на Windows">
+            <param name="Local" value="08_Licensing/RMS/LicenseServer.htm#setuptowindows642b3b9347ca42c9b00b820c00c373fa=3">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Установка сервера лицензий на Linux">
+            <param name="Local" value="08_Licensing/RMS/LicenseServer.htm#setuptolinux642b3b9347ca42c9b00b820c00c373fa=4">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Обновление лицензии на сервере лицензий">
+            <param name="Local" value="08_Licensing/RMS/LicenseServer.htm#updatinglicense642b3b9347ca42c9b00b820c00c373fa=5">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Объединение лицензий, пополнение новыми единицами ">
+            <param name="Local" value="08_Licensing/RMS/LicenseServer.htm#merginglicenses642b3b9347ca42c9b00b820c00c373fa=6">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Проверка работоспособности сервера лицензий на Windows">
+            <param name="Local" value="08_Licensing/RMS/LicenseServer.htm#verifyingoperability642b3b9347ca42c9b00b820c00c373fa=7">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Проверка работоспособности сервера лицензий на Linux">
+            <param name="Local" value="08_Licensing/RMS/LicenseServer.htm#verifyingoperabilitylinux642b3b9347ca42c9b00b820c00c373fa=8">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Использование системных переменных LSHOST и LSFORCEHOST">
+            <param name="Local" value="08_Licensing/RMS/LicenseServer.htm#lshost642b3b9347ca42c9b00b820c00c373fa=9">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Резервирование лицензий на сервере лицензий для заданных пользователей">
+            <param name="Local" value="08_Licensing/RMS/LicenseServer.htm#reservation642b3b9347ca42c9b00b820c00c373fa=10">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Сервис лицензирования и особенности его использования">
+          <param name="Local" value="08_Licensing/Service/Licensing_Service.htm#642b3b9347ca42c9b00b820c00c373fa=1">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Настройка конфигурации сервиса лицензирования">
+            <param name="Local" value="08_Licensing/Service/Licensing_Service_Configuration.htm#642b3b9347ca42c9b00b820c00c373fa=1">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Работа с лицензией в ОС Windows">
+          <param name="Local" value="08_Licensing/RMS/Intro_LicMngr.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Настройки поиска лицензии">
+            <param name="Local" value="08_Licensing/RMS/Intro_LicMngr_SearchLic.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Информация о результатах поиска лицензии">
+            <param name="Local" value="08_Licensing/RMS/Intro_LicMngr_Info.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Менеджер лицензий">
+            <param name="Local" value="08_Licensing/RMS/Intro_LicenseManager.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Мастер активации продукта">
+            <param name="Local" value="08_Licensing/RMS/Intro_LicMngr_MasterActivation.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Активация модуля">
+            <param name="Local" value="08_Licensing/RMS/Intro_LicMngr_ActivateModule.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Работа с лицензией в ОС Linux">
+          <param name="Local" value="08_Licensing/RMS/LicensingLinux.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Получение цифрового отпечатка компьютера">
+          <param name="Local" value="08_Licensing/RMS/LockingCode.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Защита прикладных систем">
+          <param name="Local" value="08_Licensing/ApplicationSystemLicensing.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Создание и управление репозиториями метаданных">
+      <param name="Local" value="05_RepoMngr/Setup_RepoMngr_Work_Main.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Менеджер репозитория Windows">
+        <param name="Local" value="05_RepoMngr/RepoMngr_Windows.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Создание репозитория метаданных">
+          <param name="Local" value="05_RepoMngr/Setup_RepoMngr_CreateRepo.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Создание репозитория метаданных НСИ">
+          <param name="Local" value="05_RepoMngr/Setup_repoMngr_CreateRDSRepo.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Обновление версии репозитория метаданных">
+          <param name="Local" value="05_RepoMngr/Setup_RepoMngr_UpdateRepo.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Обновление версии репозитория метаданных НСИ">
+          <param name="Local" value="05_RepoMngr/Setup_RepoMngr_UpdateRDSRepo.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Создание резервной копии репозитория метаданных">
+          <param name="Local" value="05_RepoMngr/Setup_RepoMngr_CreateRepoBackup.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Восстановление репозитория метаданных из резервной копии">
+          <param name="Local" value="05_RepoMngr/Setup_RepoMngr_RestoreRepoBackup.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Создание служебного пользователя">
+          <param name="Local" value="05_RepoMngr/Setup_RepoMngr_Service_User.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Менеджер репозитория Linux">
+        <param name="Local" value="05_RepoMngr/RepoManager_Linux.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Создание репозитория метаданных">
+          <param name="Local" value="05_RepoMngr/Linux/Setup_CreateRepo_Linux.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Создание репозитория на сервере PostgreSQL">
+            <param name="Local" value="05_RepoMngr/Linux/CreateRepo_Linux_Postgre.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Обновление версии репозитория метаданных">
+          <param name="Local" value="05_RepoMngr/Linux/Update_Repository.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Создание служебного пользователя">
+          <param name="Local" value="05_RepoMngr/Linux/Setup_RepoMngr_Service_User_Linux.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Подключение репозитория, созданного в продукте FlyBI">
+        <param name="Local" value="05_RepoMngr/Connecting_Repository_FlyBI.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Настройка доступа к репозиторию">
+      <param name="Local" value="06_AK_Client_Config/UiNav_RepoConfig.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Настройка подключения к репозиторию">
+        <param name="Local" value="06_AK_Client_Config/UiNav_RepoConfig_repo1.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Настройка списка репозиториев">
+        <param name="Local" value="06_AK_Client_Config/Configuring_repository_list_in_the_system_registry.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Настройка текущего репозитория">
+        <param name="Local" value="06_AK_Client_Config/Current_Repository_Settings.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Настройка интерфейса">
+          <param name="Local" value="06_AK_Client_Config/Interface_settings.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Настройка интерфейса окна регистрации">
+        <param name="Local" value="06_AK_Client_Config/Setup_ClientConfig.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Управление отображением кнопки «Настройка» в окне регистрации">
+          <param name="Local" value="06_AK_Client_Config/Setup_SysReq_Client.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Замена заставки при запуске приложения">
+          <param name="Local" value="06_AK_Client_Config/Change_login_window_image.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Отключение изображения в окне регистрации">
+          <param name="Local" value="06_AK_Client_Config/Setup_ClientConfigOffImage.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Смена пиктограммы и изображения в окне регистрации">
+          <param name="Local" value="06_AK_Client_Config/ChangeIcon.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Установка расширений продукта">
+      <param name="Local" value="Extensions/install_or_update_extensions.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Установка расширений в репозитории">
+        <param name="Local" value="Extensions/install_extensions_in_repository.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Обновление расширений">
+        <param name="Local" value="Extensions/Update/update_extensions.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Серверная часть конструктора бизнес-приложений">
+        <param name="Local" value="Extensions/Backend_Designer_of_Business_Applications.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Установка серверной части конструктора бизнес-приложений на Apache2">
+          <param name="Local" value="Extensions/Apache2/Install_Backend_Designer_of_Business_Applications_Apache.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Ручная установка и настройка Apache2 для доступа к конструктору бизнес-приложений">
+            <param name="Local" value="Extensions/Apache2/Manual_Install_Designer_of_Business_Applications_Apache.htm">
+          </object>
+          <ul>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Настройка Apache2 для доступа к ресурсам конструктора бизнес-приложений на Debian-подобных">
+              <param name="Local" value="Extensions/Apache2/Configure_Apache_HTTP_Server_DBA_Debian.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Настройка Apache2 для доступа к ресурсам конструктора бизнес-приложений на RedHat-подобных">
+              <param name="Local" value="Extensions/Apache2/Configure_Apache_HTTP_Server_DBA_RHEL.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Настройка Apache2 для доступа к ресурсам конструктора бизнес-приложений на ОС ALT">
+              <param name="Local" value="Extensions/Apache2/Configure_Apache_HTTP_Server_DBA_ALT_Linux.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            </ul>
+          </ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Установка серверной части конструктора бизнес-приложений на IIS">
+          <param name="Local" value="Extensions/ASP_NET/Install_Backend_Designer_of_Business_Applications_ASP_NET.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Ручная установка и настройка IIS для доступа к конструктору бизнес-приложений">
+            <param name="Local" value="Extensions/ASP_NET/Manual_Install_Designer_of_Business_Applications_ASP_NET.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Установка серверной части конструктора бизнес-приложений на Java">
+          <param name="Local" value="Extensions/Java/Install_Backend_Designer_of_Business_Applications_Java.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Настройка конфигурации конструктора бизнес-приложений">
+          <param name="Local" value="Extensions/Configuration_Designer_of_Business_Applications.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Перезапуск серверной части конструктора бизнес-приложений">
+          <param name="Local" value="Extensions/Restart_Backend_Designer_of_Business_Applications.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Открытие бизнес-приложения">
+          <param name="Local" value="Extensions/Open_Business_Application.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Вопросы и ответы">
+        <param name="Local" value="Extensions/FAQ/Extensions_FAQ.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Создание пользовательской темы конструктора бизнес-приложений">
+          <param name="Local" value="Extensions/FAQ/Create_Custom_DBA_Theme.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Установка надстроек для Microsoft Office">
+      <param name="Local" value="AddIn/AddIn_Setup.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Обновление надстроек">
+        <param name="Local" value="AddIn/AddIn_Update.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Установка инструментов разработчика">
+      <param name="Local" value="02_AK_Install/DevTools.htm">
+      <param name="ImageNumber" value="11">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Системные настройки продукта">
+      <param name="Local" value="UiWebSetup/03_Setup_Web/BI_Server_Settings.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Настройки в системном реестре">
+        <param name="Local" value="UiWebSetup/03_Setup_Web/BI_Server_Registry_Key.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Настройки в settings.xml">
+        <param name="Local" value="UiWebSetup/03_Setup_Web/BI_Server_Settings_XML.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Настройка таймаутов работы">
+        <param name="Local" value="UiWebSetup/03_Setup_Web/setting_the_timeout.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Обновление продукта">
+      <param name="Local" value="Update/Update.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Обновление веб-приложения в ОС Linux">
+        <param name="Local" value="Update/Update_Web_Application_Linux.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Обновление инсталлятором">
+        <param name="Local" value="Update/ManualUpdate.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Автоматическое обновление">
+        <param name="Local" value="Update/AutomaticUpdate.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Особенности обновления">
+          <param name="Local" value="Update/UpdateFeature.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Создание пользователя PPUPDATE">
+          <param name="Local" value="Update/PPUPDATE.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Копирование MSI-версии дистрибутива на сервер БД">
+          <param name="Local" value="Update/CopyMSIDistr.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Структура Cfgconfig.xml">
+          <param name="Local" value="Update/StructureCFG.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Настройки репозиториев, автообновления, контактной информации и др. из файла">
+        <param name="Local" value="Update/Tuner.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Установка дополнительных сервисов и средств">
+      <param name="Local" value="02_AK_Install/Installing_additional_services_and_tools.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Установка справочной системы">
+        <param name="Local" value="02_AK_Install/Installing_help_system.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Установка и настройка сервиса BI-поиска">
+        <param name="Local" value="BISearch/BISearch_Setup.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Установка и настройка программного обеспечения">
+          <param name="Local" value="BISearch/software_installation.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Настройка экземпляров Solr">
+            <param name="Local" value="BISearch/Instance_Solr_Setting.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Подготовка файла с синонимами">
+            <param name="Local" value="BISearch/Prepare_file_with_synonyms.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Добавление языков в Solr">
+            <param name="Local" value="BISearch/Add_Language.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Настройка поиска и индексирования в репозитории">
+          <param name="Local" value="BISearch/Desktop_application_setting.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Индексация источников">
+          <param name="Local" value="BISearch/Indexing_DataSource.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      </ul>
+  </ul>
+  <object type="text/sitemap">
+    <param name="Name" value="Intro.chm::/Intro.hhc">
+    <param name="Merge" value="Intro.chm::/Intro.hhc" value2="../intro">
+  </object>
+  <ul>
+    </ul>
+</ul>
+</html>

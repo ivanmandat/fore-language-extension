@@ -1,0 +1,42 @@
+<html>
+<!-- Sitemap 1.0 -->
+<object type="text/site properties">
+  <param name="SiteType" value="toc">
+  <param name="Image Width" value="16">
+  <param name="Window Styles" value="0x800007">
+  <param name="ExWindow Styles" value="0x100">
+</object>
+<ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Вопросы и ответы">
+    <param name="Local" value="dhtml_FAQ.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Изменение времени ожидания до прерывания сессии">
+      <param name="Local" value="FAQ/Change_session_timeout.htm">
+      <param name="ImageNumber" value="11">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Создание документа">
+      <param name="Local" value="FAQ/Create_document.htm">
+      <param name="ImageNumber" value="11">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Создание соединения с репозиторием">
+      <param name="Local" value="FAQ/metabase_connection.htm">
+      <param name="ImageNumber" value="11">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Подключение пользовательской js-функции">
+      <param name="Local" value="FAQ/js_to_link.htm">
+      <param name="ImageNumber" value="11">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Подключение нестандартных шрифтов в Linux">
+      <param name="Local" value="FAQ/Custom_fonts.htm">
+      <param name="ImageNumber" value="11">
+    </object>
+    </ul>
+</ul>
+</html>

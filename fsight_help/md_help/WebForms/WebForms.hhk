@@ -1,0 +1,1104 @@
+<html>
+<!-- Sitemap 1.0 -->
+<object type="text/site properties">
+  <param name="SiteType" value="index">
+</object>
+<ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="WebButton">
+    <param name="Name" value="WebButton: Класс">
+    <param name="Local" value="Class/WebButton/WebButton.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="WebCheckBox">
+    <param name="Name" value="WebCheckBox: Класс">
+    <param name="Local" value="Class/WebCheckBox/WebCheckBox.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="WebComboBox">
+    <param name="Name" value="WebComboBox: Класс">
+    <param name="Local" value="Class/WebComboBox/WebComboBox.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="WebDimensionCombo">
+    <param name="Name" value="WebDimensionCombo: Класс">
+    <param name="Local" value="Class/WebDimensionCombo/WebDimensionCombo.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="WebForm">
+    <param name="Name" value="WebForm">
+    <param name="Local" value="Class/WebForm/WebForm.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="WebInput">
+    <param name="Name" value="WebInput: Класс">
+    <param name="Local" value="Class/WebInput/WebInput.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="WebLabel">
+    <param name="Name" value="WebLabel: Класс">
+    <param name="Local" value="Class/WebLabel/WebLabel.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="WebRadioButton">
+    <param name="Name" value="WebRadioButton: Класс">
+    <param name="Local" value="Class/WebRadioButton/WebRadioButton.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="WebCheckBoxState">
+    <param name="Name" value="WebCheckBoxState">
+    <param name="Local" value="Enums/WebCheckBoxState.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IWebButton">
+    <param name="Name" value="IWebButton">
+    <param name="Local" value="Interface/IWebButton/IWebButton.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IWebCheckBox">
+    <param name="Name" value="IWebCheckBox">
+    <param name="Local" value="Interface/IWebCheckBox/IWebCheckBox.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IWebCheckBox.Checked">
+    <param name="Name" value="IWebCheckBox.Checked">
+    <param name="Local" value="Interface/IWebCheckBox/IWebCheckBox.Checked.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Checked">
+    <param name="Name" value="IWebCheckBox.Checked">
+    <param name="Local" value="Interface/IWebCheckBox/IWebCheckBox.Checked.htm">
+    <param name="Name" value="IWebRadioButton.Checked">
+    <param name="Local" value="Interface/IWebRadioButton/IWebRadioButton.Checked.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IWebCheckBox.State">
+    <param name="Name" value="IWebCheckBox.State">
+    <param name="Local" value="Interface/IWebCheckBox/IWebCheckBox.State.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="State">
+    <param name="Name" value="IWebCheckBox.State">
+    <param name="Local" value="Interface/IWebCheckBox/IWebCheckBox.State.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IWebComboBox">
+    <param name="Name" value="IWebComboBox">
+    <param name="Local" value="Interface/IWebComboBox/IWebComboBox.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IWebComboBox.ItemIndex">
+    <param name="Name" value="IWebComboBox.ItemIndex">
+    <param name="Local" value="Interface/IWebComboBox/IWebComboBox.ItemIndex.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ItemIndex">
+    <param name="Name" value="IWebComboBox.ItemIndex">
+    <param name="Local" value="Interface/IWebComboBox/IWebComboBox.ItemIndex.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IWebComboBox.Items">
+    <param name="Name" value="IWebComboBox.Items">
+    <param name="Local" value="Interface/IWebComboBox/IWebComboBox.Items.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Items">
+    <param name="Name" value="IWebComboBox.Items">
+    <param name="Local" value="Interface/IWebComboBox/IWebComboBox.Items.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IWebComponent">
+    <param name="Name" value="IWebComponent">
+    <param name="Local" value="Interface/IWebComponent/IWebComponent.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IWebControl">
+    <param name="Name" value="IWebControl">
+    <param name="Local" value="Interface/IWebControl/IWebControl.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IWebControl.Color">
+    <param name="Name" value="IWebControl.Color">
+    <param name="Local" value="Interface/IWebControl/IWebControl.Color.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Color">
+    <param name="Name" value="IWebControl.Color">
+    <param name="Local" value="Interface/IWebControl/IWebControl.Color.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IWebControl.Enabled">
+    <param name="Name" value="IWebControl.Enabled">
+    <param name="Local" value="Interface/IWebControl/IWebControl.Enabled.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Enabled">
+    <param name="Name" value="IWebControl.Enabled">
+    <param name="Local" value="Interface/IWebControl/IWebControl.Enabled.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IWebControl.Text">
+    <param name="Name" value="IWebControl.Text">
+    <param name="Local" value="Interface/IWebControl/IWebControl.Text.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Text">
+    <param name="Name" value="IWebControl.Text">
+    <param name="Local" value="Interface/IWebControl/IWebControl.Text.htm">
+    <param name="Name" value="IWebTreeNode.Text">
+    <param name="Local" value="Interface/IWebTreeNode/IWebTreeNode.Text.htm">
+    <param name="Name" value="IWebClipboard.Text">
+    <param name="Local" value="Interface/IWebClipboard/IWebClipboard.Text.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IWebControl.Visible">
+    <param name="Name" value="IWebControl.Visible">
+    <param name="Local" value="Interface/IWebControl/IWebControl.Visible.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Visible">
+    <param name="Name" value="IWebControl.Visible">
+    <param name="Local" value="Interface/IWebControl/IWebControl.Visible.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IWebDimensionCombo">
+    <param name="Name" value="IWebDimensionCombo">
+    <param name="Local" value="Interface/IWebDimensionCombo/IWebDimensionCombo.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IWebDimensionCombo.DimInstance">
+    <param name="Name" value="IWebDimensionCombo.DimInstance">
+    <param name="Local" value="Interface/IWebDimensionCombo/IWebDimensionCombo.DimInstance.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="DimInstance">
+    <param name="Name" value="IWebDimensionCombo.DimInstance">
+    <param name="Local" value="Interface/IWebDimensionCombo/IWebDimensionCombo.DimInstance.htm">
+    <param name="Name" value="IWebDimensionTree.DimInstance">
+    <param name="Local" value="Interface/IWebDimensionTree/IWebDimensionTree.DimInstance.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IWebDimensionCombo.Selection">
+    <param name="Name" value="IWebDimensionCombo.Selection">
+    <param name="Local" value="Interface/IWebDimensionCombo/IWebDimensionCombo.Selection.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Selection">
+    <param name="Name" value="IWebDimensionCombo.Selection">
+    <param name="Local" value="Interface/IWebDimensionCombo/IWebDimensionCombo.Selection.htm">
+    <param name="Name" value="IWebDimensionTree.Selection">
+    <param name="Local" value="Interface/IWebDimensionTree/IWebDimensionTree.Selection.htm">
+    <param name="Name" value="IWebTreeControl.Selection">
+    <param name="Local" value="Interface/IWebTreeControl/IWebTreeControl.Selection.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IWebFormComponent">
+    <param name="Name" value="IWebFormComponent">
+    <param name="Local" value="Interface/IWebFormComponent/IWebFormComponent.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IWebInput">
+    <param name="Name" value="IWebInput">
+    <param name="Local" value="Interface/IWebInput/IWebInput.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IWebLabel">
+    <param name="Name" value="IWebLabel">
+    <param name="Local" value="Interface/IWebLabel/IWebLabel.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IWebRadioButton">
+    <param name="Name" value="IWebRadioButton">
+    <param name="Local" value="Interface/IWebRadioButton/IWebRadioButton.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IWebRadioButton.Checked">
+    <param name="Name" value="IWebRadioButton.Checked">
+    <param name="Local" value="Interface/IWebRadioButton/IWebRadioButton.Checked.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Сборка WebForms">
+    <param name="Name" value="Сборка WebForms">
+    <param name="Local" value="WebForms_Title.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Классы сборки WebForms">
+      <param name="Name" value="Классы сборки WebForms">
+      <param name="Local" value="Class/WebForms_Class.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Перечисления сборки WebForms">
+      <param name="Name" value="Перечисления сборки WebForms">
+      <param name="Local" value="Enums/WebForms_Enums.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Интерфейсы сборки WebForms">
+      <param name="Name" value="Интерфейсы сборки WebForms">
+      <param name="Local" value="Interface/WebForms_Interface.htm">
+    </object>
+    </ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="WebForms">
+    <param name="Name" value="Сборка WebForms">
+    <param name="Local" value="WebForms_Title.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Интерфейсы сборки WebForms">
+      <param name="Name" value="Интерфейсы сборки WebForms">
+      <param name="Local" value="Interface/WebForms_Interface.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Перечисления сборки WebForms">
+      <param name="Name" value="Перечисления сборки WebForms">
+      <param name="Local" value="Enums/WebForms_Enums.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Классы сборки WebForms">
+      <param name="Name" value="Классы сборки WebForms">
+      <param name="Local" value="Class/WebForms_Class.htm">
+    </object>
+    </ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IWebDimensionTree">
+    <param name="Name" value="IWebDimensionTree">
+    <param name="Local" value="Interface/IWebDimensionTree/IWebDimensionTree.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IWebDimensionTree.DimInstance">
+    <param name="Name" value="IWebDimensionTree.DimInstance">
+    <param name="Local" value="Interface/IWebDimensionTree/IWebDimensionTree.DimInstance.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IWebDimensionTree.Selection">
+    <param name="Name" value="IWebDimensionTree.Selection">
+    <param name="Local" value="Interface/IWebDimensionTree/IWebDimensionTree.Selection.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="WebDimensionTree">
+    <param name="Name" value="WebDimensionTree: Класс">
+    <param name="Local" value="Class/WebDimensionTree/WebDimensionTree.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IWebReportBox">
+    <param name="Name" value="IWebReportBox">
+    <param name="Local" value="Interface/IWebReportBox/IWebReportBox.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IWebReportBox.Report">
+    <param name="Name" value="IWebReportBox.Report">
+    <param name="Local" value="Interface/IWebReportBox/IWebReportBox.Report.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Report">
+    <param name="Name" value="IWebReportBox.Report">
+    <param name="Local" value="Interface/IWebReportBox/IWebReportBox.Report.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="WebReportBox">
+    <param name="Name" value="WebReportBox: Класс">
+    <param name="Local" value="Class/WebReportBox/WebReportBox.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="WebTreeCombo">
+    <param name="Name" value="WebTreeCombo: Класс">
+    <param name="Local" value="Class/WebTreeCombo/WebTreeCombo.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IWebTreeCombo">
+    <param name="Name" value="IWebTreeCombo">
+    <param name="Local" value="Interface/IWebTreeCombo/IWebTreeCombo.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IWebTreeControl">
+    <param name="Name" value="IWebTreeControl">
+    <param name="Local" value="Interface/IWebTreeControl/IWebTreeControl.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IWebTreeControl.Nodes">
+    <param name="Name" value="IWebTreeControl.Nodes">
+    <param name="Local" value="Interface/IWebTreeControl/IWebTreeControl.Nodes.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Nodes">
+    <param name="Name" value="IWebTreeControl.Nodes">
+    <param name="Local" value="Interface/IWebTreeControl/IWebTreeControl.Nodes.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IWebTreeNode">
+    <param name="Name" value="IWebTreeNode">
+    <param name="Local" value="Interface/IWebTreeNode/IWebTreeNode.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Delete">
+    <param name="Name" value="IWebTreeNodes.Delete">
+    <param name="Local" value="Interface/IWebTreeNodes/IWebTreeNodes.Delete.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IWebTreeNode.NextNode">
+    <param name="Name" value="IWebTreeNode.NextNode">
+    <param name="Local" value="Interface/IWebTreeNode/IWebTreeNode.NextNode.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="NextNode">
+    <param name="Name" value="IWebTreeNode.NextNode">
+    <param name="Local" value="Interface/IWebTreeNode/IWebTreeNode.NextNode.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IWebTreeNode.Parent">
+    <param name="Name" value="IWebTreeNode.Parent">
+    <param name="Local" value="Interface/IWebTreeNode/IWebTreeNode.Parent.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Parent">
+    <param name="Name" value="IWebTreeNode.Parent">
+    <param name="Local" value="Interface/IWebTreeNode/IWebTreeNode.Parent.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IWebTreeNode.PreviousNode">
+    <param name="Name" value="IWebTreeNode.PreviousNode">
+    <param name="Local" value="Interface/IWebTreeNode/IWebTreeNode.PreviousNode.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="PreviousNode">
+    <param name="Name" value="IWebTreeNode.PreviousNode">
+    <param name="Local" value="Interface/IWebTreeNode/IWebTreeNode.PreviousNode.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IWebTreeNode.Selected">
+    <param name="Name" value="IWebTreeNode.Selected">
+    <param name="Local" value="Interface/IWebTreeNode/IWebTreeNode.Selected.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Selected">
+    <param name="Name" value="IWebTreeNode.Selected">
+    <param name="Local" value="Interface/IWebTreeNode/IWebTreeNode.Selected.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IWebTreeNode.Text">
+    <param name="Name" value="IWebTreeNode.Text">
+    <param name="Local" value="Interface/IWebTreeNode/IWebTreeNode.Text.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IWebTreeNodes">
+    <param name="Name" value="IWebTreeNodes">
+    <param name="Local" value="Interface/IWebTreeNodes/IWebTreeNodes.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IWebTreeNodes.Add">
+    <param name="Name" value="IWebTreeNodes.Add">
+    <param name="Local" value="Interface/IWebTreeNodes/IWebTreeNodes.Add.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Add">
+    <param name="Name" value="IWebTreeNodes.Add">
+    <param name="Local" value="Interface/IWebTreeNodes/IWebTreeNodes.Add.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IWebTreeNodes.AddChild">
+    <param name="Name" value="IWebTreeNodes.AddChild">
+    <param name="Local" value="Interface/IWebTreeNodes/IWebTreeNodes.AddChild.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="AddChild">
+    <param name="Name" value="IWebTreeNodes.AddChild">
+    <param name="Local" value="Interface/IWebTreeNodes/IWebTreeNodes.AddChild.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IWebTreeNodes.Clear">
+    <param name="Name" value="IWebTreeNodes.Clear">
+    <param name="Local" value="Interface/IWebTreeNodes/IWebTreeNodes.Clear.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Clear">
+    <param name="Name" value="IWebTreeNodes.Clear">
+    <param name="Local" value="Interface/IWebTreeNodes/IWebTreeNodes.Clear.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IWebTreeNodes.Count">
+    <param name="Name" value="IWebTreeNodes.Count">
+    <param name="Local" value="Interface/IWebTreeNodes/IWebTreeNodes.Count.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Count">
+    <param name="Name" value="IWebTreeNodes.Count">
+    <param name="Local" value="Interface/IWebTreeNodes/IWebTreeNodes.Count.htm">
+    <param name="Name" value="IWebTreeSelection.Count">
+    <param name="Local" value="Interface/IWebTreeSelection/IWebTreeSelection.Count.htm">
+    <param name="Name" value="IWebMetabaseTreeCombo.Count">
+    <param name="Local" value="Interface/IWebMetabaseTreeCombo/IWebMetabaseTreeCombo.Count.htm">
+    <param name="Name" value="IWebTabPages.Count">
+    <param name="Local" value="Interface/IWebTabPages/IWebTabPages.Count.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IWebTreeNodes.Delete">
+    <param name="Name" value="IWebTreeNodes.Delete">
+    <param name="Local" value="Interface/IWebTreeNodes/IWebTreeNodes.Delete.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IWebTreeNodes.FindByText">
+    <param name="Name" value="IWebTreeNodes.FindByText">
+    <param name="Local" value="Interface/IWebTreeNodes/IWebTreeNodes.FindByText.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="FindByText">
+    <param name="Name" value="IWebTreeNodes.FindByText">
+    <param name="Local" value="Interface/IWebTreeNodes/IWebTreeNodes.FindByText.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IWebTreeNodes.FirstNode">
+    <param name="Name" value="IWebTreeNodes.FirstNode">
+    <param name="Local" value="Interface/IWebTreeNodes/IWebTreeNodes.FirstNode.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="FirstNode">
+    <param name="Name" value="IWebTreeNodes.FirstNode">
+    <param name="Local" value="Interface/IWebTreeNodes/IWebTreeNodes.FirstNode.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IWebTreeNodes.Insert">
+    <param name="Name" value="IWebTreeNodes.Insert">
+    <param name="Local" value="Interface/IWebTreeNodes/IWebTreeNodes.Item.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Insert">
+    <param name="Name" value="IWebTreeNodes.Insert">
+    <param name="Local" value="Interface/IWebTreeNodes/IWebTreeNodes.Item.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IWebTreeNodes.SelectAll">
+    <param name="Name" value="IWebTreeNodes.SelectAll">
+    <param name="Local" value="Interface/IWebTreeNodes/IWebTreeNodes.SelectAll.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="SelectAll">
+    <param name="Name" value="IWebTreeNodes.SelectAll">
+    <param name="Local" value="Interface/IWebTreeNodes/IWebTreeNodes.SelectAll.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IWebTreeNode.Data">
+    <param name="Name" value="IWebTreeNode.Data">
+    <param name="Local" value="Interface/IWebTreeNode/IWebTreeNode.Data.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Data">
+    <param name="Name" value="IWebTreeNode.Data">
+    <param name="Local" value="Interface/IWebTreeNode/IWebTreeNode.Data.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IWebTreeNode.Id">
+    <param name="Name" value="IWebTreeNode.Id">
+    <param name="Local" value="Interface/IWebTreeNode/IWebTreeNode.Id.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Id">
+    <param name="Name" value="IWebTreeNode.Id">
+    <param name="Local" value="Interface/IWebTreeNode/IWebTreeNode.Id.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="WebInsertMode">
+    <param name="Name" value="WebInsertMode">
+    <param name="Local" value="Enums/WebInsertMode.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IWebTreeNodes.AddToRoot">
+    <param name="Name" value="IWebTreeNodes.AddToRoot">
+    <param name="Local" value="Interface/IWebTreeNodes/IWebTreeNodes.AddToRoot.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="AddToRoot">
+    <param name="Name" value="IWebTreeNodes.AddToRoot">
+    <param name="Local" value="Interface/IWebTreeNodes/IWebTreeNodes.AddToRoot.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IWebTreeNodes.FindById">
+    <param name="Name" value="IWebTreeNodes.FindById">
+    <param name="Local" value="Interface/IWebTreeNodes/IWebTreeNodes.FindById.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="FindById">
+    <param name="Name" value="IWebTreeNodes.FindById">
+    <param name="Local" value="Interface/IWebTreeNodes/IWebTreeNodes.FindById.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IWebTreeControl.Selection">
+    <param name="Name" value="IWebTreeControl.Selection">
+    <param name="Local" value="Interface/IWebTreeControl/IWebTreeControl.Selection.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IWebTreeSelection">
+    <param name="Name" value="IWebTreeSelection">
+    <param name="Local" value="Interface/IWebTreeSelection/IWebTreeSelection.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IWebTreeSelection.Count">
+    <param name="Name" value="IWebTreeSelection.Count">
+    <param name="Local" value="Interface/IWebTreeSelection/IWebTreeSelection.Count.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IWebTreeSelection.Item">
+    <param name="Name" value="IWebTreeSelection.Item">
+    <param name="Local" value="Interface/IWebTreeSelection/IWebTreeSelection.Item.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Item">
+    <param name="Name" value="IWebTreeSelection.Item">
+    <param name="Local" value="Interface/IWebTreeSelection/IWebTreeSelection.Item.htm">
+    <param name="Name" value="IWebTabPages.Item">
+    <param name="Local" value="Interface/IWebTabPages/IWebTabPages.Item.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IWebTreeNodes.DeselectAll">
+    <param name="Name" value="IWebTreeNodes.DeselectAll">
+    <param name="Local" value="Interface/IWebTreeNodes/IWebTreeNodes.DeselectAll.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="DeselectAll">
+    <param name="Name" value="IWebTreeNodes.DeselectAll">
+    <param name="Local" value="Interface/IWebTreeNodes/IWebTreeNodes.DeselectAll.htm">
+    <param name="Name" value="IWebMetabaseTreeCombo.DeselectAll">
+    <param name="Local" value="Interface/IWebMetabaseTreeCombo/IWebMetabaseTreeCombo.DeselectAll.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IWebTreeList">
+    <param name="Name" value="IWebTreeList">
+    <param name="Local" value="Interface/IWebTreeList/IWebTreeList.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="WebTreeList">
+    <param name="Name" value="WebTreeList: Класс">
+    <param name="Local" value="Class/WebTreeList/WebTreeList.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IWebCommandEventArgs">
+    <param name="Name" value="IWebCommandEventArgs">
+    <param name="Local" value="Interface/IWebCommandEventArgs/IWebCommandEventArgs.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IWebCommandEventArgs.Argument">
+    <param name="Name" value="IWebCommandEventArgs.Argument">
+    <param name="Local" value="Interface/IWebCommandEventArgs/IWebCommandEventArgs.Argument.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Argument">
+    <param name="Name" value="IWebCommandEventArgs.Argument">
+    <param name="Local" value="Interface/IWebCommandEventArgs/IWebCommandEventArgs.Argument.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IWebCommandEventArgs.Command">
+    <param name="Name" value="IWebCommandEventArgs.Command">
+    <param name="Local" value="Interface/IWebCommandEventArgs/IWebCommandEventArgs.Command.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Command">
+    <param name="Name" value="IWebCommandEventArgs.Command">
+    <param name="Local" value="Interface/IWebCommandEventArgs/IWebCommandEventArgs.Command.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IWebCommandEventArgs.Result">
+    <param name="Name" value="IWebCommandEventArgs.Result">
+    <param name="Local" value="Interface/IWebCommandEventArgs/IWebCommandEventArgs.Result.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Result">
+    <param name="Name" value="IWebCommandEventArgs.Result">
+    <param name="Local" value="Interface/IWebCommandEventArgs/IWebCommandEventArgs.Result.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IWebPanel">
+    <param name="Name" value="IWebPanel">
+    <param name="Local" value="Interface/IWebPanel/IWebPanel.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="WebPanel">
+    <param name="Name" value="WebPanel: Класс">
+    <param name="Local" value="Class/WebPanel/WebPanel.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IWebTextArea">
+    <param name="Name" value="IWebTextArea">
+    <param name="Local" value="Interface/IWebTextArea/IWebTextArea.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IWebTextArea.Lines">
+    <param name="Name" value="IWebTextArea.Lines">
+    <param name="Local" value="Interface/IWebTextArea/IWebTextArea.Lines.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Lines">
+    <param name="Name" value="IWebTextArea.Lines">
+    <param name="Local" value="Interface/IWebTextArea/IWebTextArea.Lines.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="WebTextArea">
+    <param name="Name" value="WebTextArea: Класс">
+    <param name="Local" value="Class/WebTextArea/WebTextArea.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IWebFileDialog">
+    <param name="Name" value="IWebFileDialog">
+    <param name="Local" value="Interface/IWebFileDialog/IWebFileDialog.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IWebFileDialog.Execute">
+    <param name="Name" value="IWebFileDialog.Execute">
+    <param name="Local" value="Interface/IWebFileDialog/IWebFileDialog.Execute.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Execute">
+    <param name="Name" value="IWebFileDialog.Execute">
+    <param name="Local" value="Interface/IWebFileDialog/IWebFileDialog.Execute.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IWebFileDialog.FileData">
+    <param name="Name" value="IWebFileDialog.FileData">
+    <param name="Local" value="Interface/IWebFileDialog/IWebFileDialog.FileData.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="FileData">
+    <param name="Name" value="IWebFileDialog.FileData">
+    <param name="Local" value="Interface/IWebFileDialog/IWebFileDialog.FileData.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IWebFileDialog.FileName">
+    <param name="Name" value="IWebFileDialog.FileName">
+    <param name="Local" value="Interface/IWebFileDialog/IWebFileDialog.FileName.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="FileName">
+    <param name="Name" value="IWebFileDialog.FileName">
+    <param name="Local" value="Interface/IWebFileDialog/IWebFileDialog.FileName.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IWebFileOpenDialog">
+    <param name="Name" value="IWebFileOpenDialog">
+    <param name="Local" value="Interface/IWebFileOpenDialog/IWebFileOpenDialog.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IWebFileOpenDialog.Filter">
+    <param name="Name" value="IWebFileOpenDialog.Filter">
+    <param name="Local" value="Interface/IWebFileOpenDialog/IWebFileOpenDialog.Filter.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Filter">
+    <param name="Name" value="IWebFileOpenDialog.Filter">
+    <param name="Local" value="Interface/IWebFileOpenDialog/IWebFileOpenDialog.Filter.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IWebFileSaveDialog">
+    <param name="Name" value="IWebFileSaveDialog">
+    <param name="Local" value="Interface/IWebFileSaveDialog/IWebFileSaveDialog.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="WebFileOpenDialog">
+    <param name="Name" value="WebFileOpenDialog: Класс">
+    <param name="Local" value="Class/WebFileOpenDialog/WebFileOpenDialog.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="WebFileSaveDialog">
+    <param name="Name" value="WebFileSaveDialog: Класс">
+    <param name="Local" value="Class/WebFileSaveDialog/WebFileSaveDialog.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IWebFormComponent.Close">
+    <param name="Name" value="IWebFormComponent.Close">
+    <param name="Local" value="Interface/IWebFormComponent/IWebFormComponent.Close.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Close">
+    <param name="Name" value="IWebFormComponent.Close">
+    <param name="Local" value="Interface/IWebFormComponent/IWebFormComponent.Close.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="WebMetabaseTreeCombo">
+    <param name="Name" value="WebMetabaseTreeCombo">
+    <param name="Local" value="Class/WebMetabaseTreeCombo/WebMetabaseTreeCombo.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IWebFloatEdit">
+    <param name="Name" value="IWebFloatEdit">
+    <param name="Local" value="Interface/IWebFloatEdit/IWebFloatEdit.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IWebFloatEdit.MaxValue">
+    <param name="Name" value="IWebFloatEdit.MaxValue">
+    <param name="Local" value="Interface/IWebFloatEdit/IWebFloatEdit.MaxValue.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="MaxValue">
+    <param name="Name" value="IWebFloatEdit.MaxValue">
+    <param name="Local" value="Interface/IWebFloatEdit/IWebFloatEdit.MaxValue.htm">
+    <param name="Name" value="IWebIntegerEdit.MaxValue">
+    <param name="Local" value="Interface/IWebIntegerEdit/IWebIntegerEdit.MaxValue.htm">
+    <param name="Name" value="IWebDateTimePicker.MaxValue">
+    <param name="Local" value="Interface/IWebDateTimePicker/IWebDateTimePicker.MaxValue.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IWebFloatEdit.MinValue">
+    <param name="Name" value="IWebFloatEdit.MinValue">
+    <param name="Local" value="Interface/IWebFloatEdit/IWebFloatEdit.MinValue.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="MinValue">
+    <param name="Name" value="IWebFloatEdit.MinValue">
+    <param name="Local" value="Interface/IWebFloatEdit/IWebFloatEdit.MinValue.htm">
+    <param name="Name" value="IWebIntegerEdit.MinValue">
+    <param name="Local" value="Interface/IWebIntegerEdit/IWebIntegerEdit.MinValue.htm">
+    <param name="Name" value="IWebDateTimePicker.MinValue">
+    <param name="Local" value="Interface/IWebDateTimePicker/IWebDateTimePicker.MinValue.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IWebFloatEdit.Valid">
+    <param name="Name" value="IWebFloatEdit.Valid">
+    <param name="Local" value="Interface/IWebFloatEdit/IWebFloatEdit.Valid.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Valid">
+    <param name="Name" value="IWebFloatEdit.Valid">
+    <param name="Local" value="Interface/IWebFloatEdit/IWebFloatEdit.Valid.htm">
+    <param name="Name" value="IWebIntegerEdit.Valid">
+    <param name="Local" value="Interface/IWebIntegerEdit/IWebIntegerEdit.Valid.htm">
+    <param name="Name" value="IWebDateTimePicker.Valid">
+    <param name="Local" value="Interface/IWebDateTimePicker/IWebDateTimePicker.Valid.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IWebFloatEdit.Value">
+    <param name="Name" value="IWebFloatEdit.Value">
+    <param name="Local" value="Interface/IWebFloatEdit/IWebFloatEdit.Value.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Value">
+    <param name="Name" value="IWebFloatEdit.Value">
+    <param name="Local" value="Interface/IWebFloatEdit/IWebFloatEdit.Value.htm">
+    <param name="Name" value="IWebIntegerEdit.Value">
+    <param name="Local" value="Interface/IWebIntegerEdit/IWebIntegerEdit.Value.htm">
+    <param name="Name" value="IWebDateTimePicker.Value">
+    <param name="Local" value="Interface/IWebDateTimePicker/IWebDateTimePicker.Value.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IWebIntegerEdit">
+    <param name="Name" value="IWebIntegerEdit">
+    <param name="Local" value="Interface/IWebIntegerEdit/IWebIntegerEdit.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IWebIntegerEdit.MaxValue">
+    <param name="Name" value="IWebIntegerEdit.MaxValue">
+    <param name="Local" value="Interface/IWebIntegerEdit/IWebIntegerEdit.MaxValue.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IWebIntegerEdit.MinValue">
+    <param name="Name" value="IWebIntegerEdit.MinValue">
+    <param name="Local" value="Interface/IWebIntegerEdit/IWebIntegerEdit.MinValue.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IWebIntegerEdit.Valid">
+    <param name="Name" value="IWebIntegerEdit.Valid">
+    <param name="Local" value="Interface/IWebIntegerEdit/IWebIntegerEdit.Valid.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IWebIntegerEdit.Value">
+    <param name="Name" value="IWebIntegerEdit.Value">
+    <param name="Local" value="Interface/IWebIntegerEdit/IWebIntegerEdit.Value.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="WebFloatEdit">
+    <param name="Name" value="WebFloatEdit: Класс">
+    <param name="Local" value="Class/WebFloatEdit/WebFloatEdit.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="WebIntegerEdit">
+    <param name="Name" value="WebIntegerEdit: Класс">
+    <param name="Local" value="Class/WebIntegerEdit/WebIntegerEdit.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IWebMessageBox">
+    <param name="Name" value="IWebMessageBox">
+    <param name="Local" value="Interface/IWebMessageBox/IWebMessageBox.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IWebMessageBox.Show">
+    <param name="Name" value="IWebMessageBox.Show">
+    <param name="Local" value="Interface/IWebMessageBox/IWebMessageBox.Show.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Show">
+    <param name="Name" value="IWebMessageBox.Show">
+    <param name="Local" value="Interface/IWebMessageBox/IWebMessageBox.Show.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="WebDialogResult">
+    <param name="Name" value="WebDialogResult">
+    <param name="Local" value="Enums/WebDialogResult.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="WebMessageBoxButtons">
+    <param name="Name" value="WebMessageBoxButtons">
+    <param name="Local" value="Enums/WebMessageBoxButtons.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="WebMessageBoxIcon">
+    <param name="Name" value="WebMessageBoxIcon">
+    <param name="Local" value="Enums/WebMessageBoxIcon.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="WebMessageBox">
+    <param name="Name" value="WebMessageBox">
+    <param name="Local" value="Class/WebMessageBox/WebMessageBox.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IWebMetabaseTreeCombo.SelectElementKey">
+    <param name="Name" value="IWebMetabaseTreeCombo.SelectElementKey">
+    <param name="Local" value="Interface/IWebMetabaseTreeCombo/IWebMetabaseTreeCombo.SelectElementKey.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="SelectElementKey">
+    <param name="Name" value="IWebMetabaseTreeCombo.SelectElementKey">
+    <param name="Local" value="Interface/IWebMetabaseTreeCombo/IWebMetabaseTreeCombo.SelectElementKey.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IWebMetabaseTreeCombo.SelectElement">
+    <param name="Name" value="IWebMetabaseTreeCombo.SelectElement">
+    <param name="Local" value="Interface/IWebMetabaseTreeCombo/IWebMetabaseTreeCombo.SelectElement.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="SelectElement">
+    <param name="Name" value="IWebMetabaseTreeCombo.SelectElement">
+    <param name="Local" value="Interface/IWebMetabaseTreeCombo/IWebMetabaseTreeCombo.SelectElement.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IWebMetabaseTreeCombo.SelectedObjects">
+    <param name="Name" value="IWebMetabaseTreeCombo.SelectedObjects">
+    <param name="Local" value="Interface/IWebMetabaseTreeCombo/IWebMetabaseTreeCombo.SelectedObjects.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="SelectedObjects">
+    <param name="Name" value="IWebMetabaseTreeCombo.SelectedObjects">
+    <param name="Local" value="Interface/IWebMetabaseTreeCombo/IWebMetabaseTreeCombo.SelectedObjects.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IWebMetabaseTreeCombo.Root">
+    <param name="Name" value="IWebMetabaseTreeCombo.Root">
+    <param name="Local" value="Interface/IWebMetabaseTreeCombo/IWebMetabaseTreeCombo.Root.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Root">
+    <param name="Name" value="IWebMetabaseTreeCombo.Root">
+    <param name="Local" value="Interface/IWebMetabaseTreeCombo/IWebMetabaseTreeCombo.Root.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IWebMetabaseTreeCombo">
+    <param name="Name" value="IWebMetabaseTreeCombo">
+    <param name="Local" value="Interface/IWebMetabaseTreeCombo/IWebMetabaseTreeCombo.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IWebMetabaseTreeCombo.DeselectAll">
+    <param name="Name" value="IWebMetabaseTreeCombo.DeselectAll">
+    <param name="Local" value="Interface/IWebMetabaseTreeCombo/IWebMetabaseTreeCombo.DeselectAll.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IWebMetabaseTreeCombo.Count">
+    <param name="Name" value="IWebMetabaseTreeCombo.Count">
+    <param name="Local" value="Interface/IWebMetabaseTreeCombo/IWebMetabaseTreeCombo.Count.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IWebTabControl">
+    <param name="Name" value="IWebTabControl">
+    <param name="Local" value="Interface/IWebTabControl/IWebTabControl.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IWebTabControl.ActiveTab">
+    <param name="Name" value="IWebTabControl.ActiveTab">
+    <param name="Local" value="Interface/IWebTabControl/IWebTabControl.ActiveTab.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ActiveTab">
+    <param name="Name" value="IWebTabControl.ActiveTab">
+    <param name="Local" value="Interface/IWebTabControl/IWebTabControl.ActiveTab.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IWebTabControl.Pages">
+    <param name="Name" value="IWebTabControl.Pages">
+    <param name="Local" value="Interface/IWebTabControl/IWebTabControl.Pages.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Pages">
+    <param name="Name" value="IWebTabControl.Pages">
+    <param name="Local" value="Interface/IWebTabControl/IWebTabControl.Pages.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IWebTabPage">
+    <param name="Name" value="IWebTabPage">
+    <param name="Local" value="Interface/IWebTabPage/IWebTabPage.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IWebTabPages">
+    <param name="Name" value="IWebTabPages">
+    <param name="Local" value="Interface/IWebTabPages/IWebTabPages.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IWebTabPages.Count">
+    <param name="Name" value="IWebTabPages.Count">
+    <param name="Local" value="Interface/IWebTabPages/IWebTabPages.Count.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IWebTabPages.Item">
+    <param name="Name" value="IWebTabPages.Item">
+    <param name="Local" value="Interface/IWebTabPages/IWebTabPages.Item.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="WebTabControl">
+    <param name="Name" value="WebTabControl">
+    <param name="Local" value="Class/WebTabControl/WebTabControl.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="WebTabPage">
+    <param name="Name" value="WebTabPage">
+    <param name="Local" value="Class/WebTabPage/WebTabPage.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IWebPopupMenu">
+    <param name="Name" value="IWebPopupMenu">
+    <param name="Local" value="Interface/IWebPopupMenu/IWebPopupMenu.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="WebPopupMenu">
+    <param name="Name" value="WebPopupMenu">
+    <param name="Local" value="Class/WebPopupMenu/WebPopupMenu.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IWebControl.PopupMenu">
+    <param name="Name" value="IWebControl.PopupMenu">
+    <param name="Local" value="Interface/IWebControl/IWebControl.PopupMenu.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="PopupMenu">
+    <param name="Name" value="IWebControl.PopupMenu">
+    <param name="Local" value="Interface/IWebControl/IWebControl.PopupMenu.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IWebFrame">
+    <param name="Name" value="IWebFrame">
+    <param name="Local" value="Interface/IWebFrame/IWebFrame.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IWebFrame.Form">
+    <param name="Name" value="IWebFrame.Form">
+    <param name="Local" value="Interface/IWebFrame/IWebFrame.Form.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Form">
+    <param name="Name" value="IWebFrame.Form">
+    <param name="Local" value="Interface/IWebFrame/IWebFrame.Form.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="WebFrame">
+    <param name="Name" value="WebFrame">
+    <param name="Local" value="Class/WebFrame/WebFrame.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IWebFormComponent.ShowObject">
+    <param name="Name" value="IWebFormComponent.ShowObject">
+    <param name="Local" value="Interface/IWebFormComponent/IWebFormComponent.ShowObject.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ShowObject">
+    <param name="Name" value="IWebFormComponent.ShowObject">
+    <param name="Local" value="Interface/IWebFormComponent/IWebFormComponent.ShowObject.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IWebDateTimePicker">
+    <param name="Name" value="IWebDateTimePicker">
+    <param name="Local" value="Interface/IWebDateTimePicker/IWebDateTimePicker.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IWebDateTimePicker.MaxValue">
+    <param name="Name" value="IWebDateTimePicker.MaxValue">
+    <param name="Local" value="Interface/IWebDateTimePicker/IWebDateTimePicker.MaxValue.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IWebDateTimePicker.MinValue">
+    <param name="Name" value="IWebDateTimePicker.MinValue">
+    <param name="Local" value="Interface/IWebDateTimePicker/IWebDateTimePicker.MinValue.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IWebDateTimePicker.Valid">
+    <param name="Name" value="IWebDateTimePicker.Valid">
+    <param name="Local" value="Interface/IWebDateTimePicker/IWebDateTimePicker.Valid.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IWebDateTimePicker.Value">
+    <param name="Name" value="IWebDateTimePicker.Value">
+    <param name="Local" value="Interface/IWebDateTimePicker/IWebDateTimePicker.Value.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="WebDateTimePicker">
+    <param name="Name" value="WebDateTimePicker: Класс">
+    <param name="Local" value="Class/WebDateTimePicker/WebDateTimePicker.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IWebControl.BorderColor">
+    <param name="Name" value="IWebControl.BorderColor">
+    <param name="Local" value="Interface/IWebControl/IWebControl.BorderColor.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="BorderColor">
+    <param name="Name" value="IWebControl.BorderColor">
+    <param name="Local" value="Interface/IWebControl/IWebControl.BorderColor.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IWebComboBox.BeginUpdate">
+    <param name="Name" value="IWebComboBox.BeginUpdate">
+    <param name="Local" value="Interface/IWebComboBox/IWebComboBox.BeginUpdate.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="BeginUpdate">
+    <param name="Name" value="IWebComboBox.BeginUpdate">
+    <param name="Local" value="Interface/IWebComboBox/IWebComboBox.BeginUpdate.htm">
+    <param name="Name" value="IWebTreeControl.BeginUpdate">
+    <param name="Local" value="Interface/IWebTreeControl/IWebTreeControl.BeginUpdate.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IWebComboBox.EndUpdate">
+    <param name="Name" value="IWebComboBox.EndUpdate">
+    <param name="Local" value="Interface/IWebComboBox/IWebComboBox.EndUpdate.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="EndUpdate">
+    <param name="Name" value="IWebComboBox.EndUpdate">
+    <param name="Local" value="Interface/IWebComboBox/IWebComboBox.EndUpdate.htm">
+    <param name="Name" value="IWebTreeControl.EndUpdate">
+    <param name="Local" value="Interface/IWebTreeControl/IWebTreeControl.EndUpdate.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IWebTreeControl.BeginUpdate">
+    <param name="Name" value="IWebTreeControl.BeginUpdate">
+    <param name="Local" value="Interface/IWebTreeControl/IWebTreeControl.BeginUpdate.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IWebTreeControl.EndUpdate">
+    <param name="Name" value="IWebTreeControl.EndUpdate">
+    <param name="Local" value="Interface/IWebTreeControl/IWebTreeControl.EndUpdate.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IWebClipboard">
+    <param name="Name" value="IWebClipboard">
+    <param name="Local" value="Interface/IWebClipboard/IWebClipboard.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IWebClipboard.Text">
+    <param name="Name" value="IWebClipboard.Text">
+    <param name="Local" value="Interface/IWebClipboard/IWebClipboard.Text.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IWebFormComponent.Clipboard">
+    <param name="Name" value="IWebFormComponent.Clipboard">
+    <param name="Local" value="Interface/IWebFormComponent/IWebFormComponent.Clipboard.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Clipboard">
+    <param name="Name" value="IWebFormComponent.Clipboard">
+    <param name="Local" value="Interface/IWebFormComponent/IWebFormComponent.Clipboard.htm">
+  </object>
+</ul>
+</html>

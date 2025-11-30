@@ -1,0 +1,1664 @@
+<html>
+<!-- Sitemap 1.0 -->
+<object type="text/site properties">
+  <param name="SiteType" value="toc">
+  <param name="Image Width" value="16">
+  <param name="Window Styles" value="0x800027">
+  <param name="ExWindow Styles" value="0x100">
+</object>
+<ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Подключение к данным и их подготовка">
+    <param name="Local" value="DataWarehousing.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Импорт данных без подготовки">
+      <param name="Local" value="Data_import_wizard/Data_import_wizard.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Выбор источника">
+        <param name="Local" value="Data_import_wizard/Select_and_configure_the_data_source.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Требования и рекомендации к источникам данных">
+          <param name="Local" value="Data_import_wizard/file_requirements.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Дополнительные настройки">
+          <param name="Local" value="Data_import_wizard/additional_settings.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Настройка кросс-таблицы">
+          <param name="Local" value="Data_import_wizard/Cross_Table.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Преобразование данных">
+        <param name="Local" value="Data_import_wizard/Adjust_Data.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Настройка многомерной структуры преобразованных данных ">
+        <param name="Local" value="Data_import_wizard/Adjust_Dimensions.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Выбор приёмника и импорт данных">
+        <param name="Local" value="Data_import_wizard/Select_consumer.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Связь измерений с существующими справочниками">
+          <param name="Local" value="Data_import_wizard/Compare_source_fields_with_consumer_fields.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Сопоставление полей источника с полями существующего приёмника">
+          <param name="Local" value="Data_import_wizard/Map_source_fields_with_existing_consumer_fields.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Фиксация несопоставленных измерений">
+            <param name="Local" value="Data_import_wizard/Fix_unmapped_dimensions.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Особенности импорта в существующие справочники">
+          <param name="Local" value="Data_import_wizard/Features_Import_Into_An_Existing_Dimensions.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Просмотр конфликтов импорта данных">
+        <param name="Local" value="Data_import_wizard/conflict_imports.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Редактирование структуры и содержимого созданных справочников">
+        <param name="Local" value="Data_import_wizard/Directories_Result.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Примеры импорта">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Из таблицы">
+          <param name="Local" value="Data_import_wizard/Data_Import_Sample.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Из кросс-таблицы">
+          <param name="Local" value="Data_import_wizard/Data_Import_Sample.htm#cross_table642b3b9347ca42c9b00b820c00c373fa=1">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Подключение к внешним базам данных">
+      <param name="Local" value="connect_to_database.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Подключение к реляционным базам данных">
+        <param name="Local" value="database/UiDb_database.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Базовые настройки">
+          <param name="Local" value="database/base_settings.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Свойства базы данных">
+          <param name="Local" value="database/UiDb_database_master_property.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Использование глобальных переменных">
+            <param name="Local" value="database/UiDb_database_master_property1.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Дополнительные настройки">
+            <param name="Local" value="database/database_additional_adjustment.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Авторизация в базе данных">
+          <param name="Local" value="database/UiDb_database_authorization.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Работа с источником данных Hive">
+          <param name="Local" value="database/UiDb_Hive.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Подключение к другому репозиторию">
+        <param name="Local" value="Link_with/UiDb_relational_LinkWith.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Базовые настройки">
+          <param name="Local" value="Link_with/base_settings.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Свойства базы данных">
+          <param name="Local" value="Link_with/UiDb_relational_LinkWith_master_property.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Дополнительные настройки">
+          <param name="Local" value="Link_with/AdvancedSettings.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Ярлык">
+          <param name="Local" value="UiNavObj_label.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Подключение к Microsoft Analysis Services">
+        <param name="Local" value="ADOMD/Connect_to_Microsoft_Analysis_Services.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Подключение к SAP">
+        <param name="Local" value="ADOMD/UiDb_relational_ADOMD.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="SAP NetWeaver BW">
+          <param name="Local" value="ADOMD/Connect_to_SAP_NetWeaver_BW.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="SAP HANA">
+          <param name="Local" value="ADOMD/Connect_to_SAP_HANA.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Структурирование наборов данных">
+      <param name="Local" value="TimeSeriesDatabase/Structure_data_set.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Создание табличных наборов данных">
+        <param name="Local" value="Table/Master/object_type_page.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Таблица">
+          <param name="Local" value="Table/UiDb_relational_table.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Базовые настройки">
+            <param name="Local" value="Table/Master/base_settings.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Свойства таблицы">
+            <param name="Local" value="Table/Master/UiDb_relational_table_master_Property.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Параметры">
+            <param name="Local" value="Table/Master/parameters.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Поля таблицы">
+            <param name="Local" value="Table/Master/UiDb_relational_table_master_field.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Индексы таблицы">
+            <param name="Local" value="Table/Master/UiDb_relational_table_master_Index.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Ограничения таблицы">
+            <param name="Local" value="Table/Master/UiDb_relational_table_master_contingencies.htm">
+          </object>
+          <ul>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Встроенные SQL-функции">
+              <param name="Local" value="Table/Master/Function/UiDb_relational_table_funct.htm">
+            </object>
+            <ul>
+              <li><object type="text/sitemap">
+                <param name="Name" value="Функции, возвращающие системные переменные">
+                <param name="Local" value="Table/Master/Function/UiDb_relational_table_funct_sys_var.htm">
+                <param name="ImageNumber" value="11">
+              </object>
+              <li><object type="text/sitemap">
+                <param name="Name" value="Числовые функции">
+                <param name="Local" value="Table/Master/Function/UiDb_relational_table_funct_num.htm">
+                <param name="ImageNumber" value="11">
+              </object>
+              <li><object type="text/sitemap">
+                <param name="Name" value="Текстовые функции">
+                <param name="Local" value="Table/Master/Function/UiDb_relational_table_funct_text.htm">
+                <param name="ImageNumber" value="11">
+              </object>
+              <li><object type="text/sitemap">
+                <param name="Name" value="Функции для работы с датами">
+                <param name="Local" value="Table/Master/Function/UiDb_relational_table_funct_date.htm">
+                <param name="ImageNumber" value="11">
+              </object>
+              <li><object type="text/sitemap">
+                <param name="Name" value="Функции преобразования данных">
+                <param name="Local" value="Table/Master/Function/UiDb_relational_table_funct_data_conv.htm">
+                <param name="ImageNumber" value="11">
+              </object>
+              <li><object type="text/sitemap">
+                <param name="Name" value="Прочие функции">
+                <param name="Local" value="Table/Master/Function/UiDb_relational_table_funct_other.htm">
+                <param name="ImageNumber" value="11">
+              </object>
+              </ul>
+            </ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Триггеры таблицы">
+            <param name="Local" value="Table/Master/UiDb_relational_table_master_trigger.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Пример создания таблицы">
+            <param name="Local" value="Table/Db_relational_table_example.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Присоединенная таблица">
+          <param name="Local" value="Attach_table/UiDb_relational_AttachTable.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Базовые настройки">
+            <param name="Local" value="Attach_table/Master/base_settings.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Параметры">
+            <param name="Local" value="Attach_table/Master/parameters.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Свойства/Выбор базы данных">
+            <param name="Local" value="Attach_table/Master/UiDb_relational_AttachTable_master_database.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Выбор таблиц">
+            <param name="Local" value="Attach_table/Master/UiDb_relational_AttachTable_master_table.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Поля таблицы">
+            <param name="Local" value="Attach_table/Master/fields.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Индексы присоединенной таблицы">
+            <param name="Local" value="Attach_table/Master/Attach_table_master_Index.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Ограничения таблицы">
+            <param name="Local" value="Attach_table/Master/Attach_table_master_contingencies.htm">
+          </object>
+          <ul>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Встроенные SQL-функции">
+              <param name="Local" value="Table/Master/Function/UiDb_relational_table_funct.htm#642b3b9347ca42c9b00b820c00c373fa=1">
+            </object>
+            <ul>
+              <li><object type="text/sitemap">
+                <param name="Name" value="Функции, возвращающие системные переменные">
+                <param name="Local" value="Table/Master/Function/UiDb_relational_table_funct_sys_var.htm#642b3b9347ca42c9b00b820c00c373fa=1">
+                <param name="ImageNumber" value="11">
+              </object>
+              <li><object type="text/sitemap">
+                <param name="Name" value="Числовые функции">
+                <param name="Local" value="Table/Master/Function/UiDb_relational_table_funct_num.htm#642b3b9347ca42c9b00b820c00c373fa=1">
+                <param name="ImageNumber" value="11">
+              </object>
+              <li><object type="text/sitemap">
+                <param name="Name" value="Текстовые функции">
+                <param name="Local" value="Table/Master/Function/UiDb_relational_table_funct_text.htm#642b3b9347ca42c9b00b820c00c373fa=1">
+                <param name="ImageNumber" value="11">
+              </object>
+              <li><object type="text/sitemap">
+                <param name="Name" value="Функции для работы с датами">
+                <param name="Local" value="Table/Master/Function/UiDb_relational_table_funct_date.htm#642b3b9347ca42c9b00b820c00c373fa=1">
+                <param name="ImageNumber" value="11">
+              </object>
+              <li><object type="text/sitemap">
+                <param name="Name" value="Функции преобразования данных">
+                <param name="Local" value="Table/Master/Function/UiDb_relational_table_funct_data_conv.htm#642b3b9347ca42c9b00b820c00c373fa=1">
+                <param name="ImageNumber" value="11">
+              </object>
+              <li><object type="text/sitemap">
+                <param name="Name" value="Прочие функции">
+                <param name="Local" value="Table/Master/Function/UiDb_relational_table_funct_other.htm#642b3b9347ca42c9b00b820c00c373fa=1">
+                <param name="ImageNumber" value="11">
+              </object>
+              </ul>
+            </ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Триггеры присоединенной таблицы">
+            <param name="Local" value="Attach_table/Master/Attach_table_master_trigger.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Представление">
+          <param name="Local" value="conception/UiDb_relational_conception.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Базовые настройки">
+            <param name="Local" value="conception/Master/base_settings.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Параметры">
+            <param name="Local" value="conception/Master/parameters.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Свойства представления">
+            <param name="Local" value="conception/Master/UiDb_relational_conception_master_Property.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Индексы таблицы">
+            <param name="Local" value="conception/Master/UiDb_relational_conception_master_index.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Запрос">
+          <param name="Local" value="Query/Query.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Базовые настройки">
+            <param name="Local" value="Query/Master/base_settings.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Параметры">
+            <param name="Local" value="Query/Master/parameters.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Свойства запроса">
+            <param name="Local" value="Query/Master/UiDb_relational_query_master_Property.htm">
+          </object>
+          <ul>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Поиск и замена в тексте запроса">
+              <param name="Local" value="Query/Master/UiDb_relational_query_master_PropertySearch.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            </ul>
+          </ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Источник данных ODBC">
+          <param name="Local" value="ODBC/UiDb_relational_ODBC.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Базовые свойства">
+            <param name="Local" value="ODBC/Master/base_settings.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Параметры">
+            <param name="Local" value="ODBC/Master/parameters.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Источник данных ODBC">
+            <param name="Local" value="ODBC/Master/UiDb_relational_ODBC_master_databaseODBC.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Настройка">
+            <param name="Local" value="ODBC/Master/UiDb_relational_ODBC_master_tuning.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Пример создания источника данных ODBC">
+            <param name="Local" value="ODBC/UiDb_relational_ODBC_example.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Журнал">
+          <param name="Local" value="journal/UiDb_relational_journal.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Базовые настройки">
+            <param name="Local" value="journal/Master/base_settings.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Свойства журнала">
+            <param name="Local" value="journal/Master/UiDb_relational_journal_master_Property.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Поля журнала">
+            <param name="Local" value="journal/Master/UiDb_relational_journal_master_Field.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Работа с табличным набором данных">
+          <param name="Local" value="Table/Work/UiDb_relational_table_work.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Редактирование данных">
+            <param name="Local" value="Table/Work/UiDb_relational_table_work_edit_data.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Изменение запроса к базе данных">
+            <param name="Local" value="Table/Work/Changing_Database_Query.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Поиск данных">
+            <param name="Local" value="Table/Work/UiDb_relational_table_work_search.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Фильтрация данных">
+            <param name="Local" value="Table/Work/UiDb_relational_table_work_Filter.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Использование автофильтра">
+            <param name="Local" value="Table/Work/UiDb_relational_table_work_AutoFilter.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Выбор столбцов">
+            <param name="Local" value="Table/Work/UiDb_relational_table_work_pic_row.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Сортировка столбцов">
+            <param name="Local" value="Table/Work/UiDb_relational_table_work_sort.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Создание справочников">
+        <param name="Local" value="reference_book/Create.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Табличный справочник">
+          <param name="Local" value="reference_book/Master_Table_reference_book/Master_Table.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Упрощённый режим">
+          </object>
+          <ul>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Базовые настройки">
+              <param name="Local" value="reference_book/Master_Table_reference_book/base_settings_simple.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Параметры">
+              <param name="Local" value="reference_book/Master_Table_reference_book/parameters_simple.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Источник данных">
+              <param name="Local" value="reference_book/Master_Table_reference_book/DataSource.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Атрибуты">
+              <param name="Local" value="reference_book/Master_Table_reference_book/Attributes_Simple.htm">
+            </object>
+            <ul>
+              <li><object type="text/sitemap">
+                <param name="Name" value="Свойства атрибута">
+                <param name="Local" value="reference_book/Master_Table_reference_book/UiMd_reference_book_Master_Table_page1_AttProps.htm">
+                <param name="ImageNumber" value="11">
+              </object>
+              </ul>
+            </ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Расширенный режим">
+          </object>
+          <ul>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Базовые настройки">
+              <param name="Local" value="reference_book/Master_Table_reference_book/base_settings.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Параметры">
+              <param name="Local" value="reference_book/Master_Table_reference_book/parameters.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Атрибуты">
+              <param name="Local" value="reference_book/Master_Table_reference_book/UiMd_reference_book_Master_Table_page1.htm">
+            </object>
+            <ul>
+              <li><object type="text/sitemap">
+                <param name="Name" value="Свойства атрибута">
+                <param name="Local" value="reference_book/Master_Table_reference_book/UiMd_reference_book_Master_Table_page1_AttProps.htm#642b3b9347ca42c9b00b820c00c373fa=1">
+                <param name="ImageNumber" value="11">
+              </object>
+              </ul>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Сортировка">
+              <param name="Local" value="reference_book/Master_Table_reference_book/UiMd_reference_book_Master_Table_Sorting.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Структура">
+              <param name="Local" value="reference_book/Master_Table_reference_book/UiMd_reference_book_Master_Table_page2.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Привязки блоков">
+              <param name="Local" value="reference_book/Master_Table_reference_book/UiMd_reference_book_Master_Table_page3.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Уровни">
+              <param name="Local" value="reference_book/Master_Table_reference_book/UiMd_reference_book_Master_Table_page4.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Управление параметрами">
+              <param name="Local" value="reference_book/Master_Table_reference_book/UiMd_reference_book_Master_Table_page5.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Схемы отметки">
+              <param name="Local" value="reference_book/look-and-feel_Reference_book/UiMd_reference_book_look-and-feel_Scheme.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Группы элементов">
+              <param name="Local" value="reference_book/look-and-feel_Reference_book/UiMd_reference_book_look-and-feel_Group.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Альтернативная иерархия на основе справочников">
+              <param name="Local" value="reference_book/look-and-feel_Reference_book/Use_AlterHier_ForRefBook.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            </ul>
+          </ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Календарный справочник">
+          <param name="Local" value="reference_book/Master_Calendar_reference_book/Master_Calendar.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Базовые настройки">
+            <param name="Local" value="reference_book/Master_Calendar_reference_book/base_settings.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Тип/актуальность">
+            <param name="Local" value="reference_book/Master_Calendar_reference_book/UiMd_reference_book_Master_Calendar_page1.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Структура">
+            <param name="Local" value="reference_book/Master_Calendar_reference_book/UiMd_reference_book_Master_Calendar_page2.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Атрибуты">
+            <param name="Local" value="reference_book/Master_Calendar_reference_book/UiMd_reference_book_Master_Calendar_page3.htm">
+          </object>
+          <ul>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Свойства атрибута">
+              <param name="Local" value="reference_book/Master_Calendar_reference_book/UiMd_reference_book_Master_Calendar_page3Attr.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Форматы даты и времени, определенные пользователем">
+              <param name="Local" value="reference_book/Master_Calendar_reference_book/UiMd_reference_book_Master_Calendar_page3Dataformat.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Примеры выражений">
+              <param name="Local" value="reference_book/Master_Calendar_reference_book/UiMd_reference_book_Master_Calendar_page3Example.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            </ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Схемы отметки">
+            <param name="Local" value="reference_book/look-and-feel_Reference_book/UiMd_reference_book_look-and-feel_Scheme.htm#642b3b9347ca42c9b00b820c00c373fa=1">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Группы элементов">
+            <param name="Local" value="reference_book/look-and-feel_Reference_book/UiMd_reference_book_look-and-feel_Group.htm#642b3b9347ca42c9b00b820c00c373fa=1">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Альтернативная иерархия на основе справочников">
+            <param name="Local" value="reference_book/look-and-feel_Reference_book/Use_AlterHier_ForRefBook.htm#642b3b9347ca42c9b00b820c00c373fa=1">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Вычисляемый справочник">
+          <param name="Local" value="reference_book/Master_Calculation_reference_book/Master_Calculation.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Базовые настройки">
+            <param name="Local" value="reference_book/Master_Calculation_reference_book/base_settings.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Параметры">
+            <param name="Local" value="reference_book/Master_Calculation_reference_book/parameters.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Атрибуты">
+            <param name="Local" value="reference_book/Master_Calculation_reference_book/UiMd_reference_book_Master_Calculation_Atribute.htm">
+          </object>
+          <ul>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Свойства атрибута справочника">
+              <param name="Local" value="reference_book/Master_Table_reference_book/UiMd_reference_book_Master_Table_page1_AttProps.htm#642b3b9347ca42c9b00b820c00c373fa=2">
+              <param name="ImageNumber" value="11">
+            </object>
+            </ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Сортировка">
+            <param name="Local" value="reference_book/Master_Calculation_reference_book/UiMd_reference_book_Master_Calculation_Sorting.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Структура">
+            <param name="Local" value="reference_book/Master_Calculation_reference_book/UiMd_reference_book_Master_Calculation_page1.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Уровни">
+            <param name="Local" value="reference_book/Master_Calculation_reference_book/UiMd_reference_book_Master_Calculation_page3.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Макрос">
+            <param name="Local" value="reference_book/Master_Calculation_reference_book/UiMd_reference_book_Master_Calculation_page2.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Схемы отметки">
+            <param name="Local" value="reference_book/look-and-feel_Reference_book/UiMd_reference_book_look-and-feel_Scheme.htm#642b3b9347ca42c9b00b820c00c373fa=2">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Группы элементов">
+            <param name="Local" value="reference_book/look-and-feel_Reference_book/UiMd_reference_book_look-and-feel_Group.htm#642b3b9347ca42c9b00b820c00c373fa=2">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Альтернативная иерархия на основе справочников">
+            <param name="Local" value="reference_book/look-and-feel_Reference_book/Use_AlterHier_ForRefBook.htm#642b3b9347ca42c9b00b820c00c373fa=2">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Справочник НСИ">
+          <param name="Local" value="reference_book/Master_RDS_reference_book/Master_RDS.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Базовые настройки">
+            <param name="Local" value="reference_book/Master_RDS_reference_book/base_settings.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Выбор базы данных">
+            <param name="Local" value="reference_book/Master_RDS_reference_book/Database.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Добавление атрибутов">
+            <param name="Local" value="reference_book/Master_RDS_reference_book/Attributes.htm">
+          </object>
+          <ul>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Свойства обычного атрибута">
+              <param name="Local" value="reference_book/Master_RDS_reference_book/Attributes/Attribute.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Свойства заимствованного атрибута">
+              <param name="Local" value="reference_book/Master_RDS_reference_book/Attributes/Imported_Attribute.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Настройка прав доступа">
+              <param name="Local" value="reference_book/Master_RDS_reference_book/Attributes/Access_Permissions.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            </ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Добавление параметров">
+            <param name="Local" value="reference_book/Master_RDS_reference_book/Parameters.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Создание связей">
+            <param name="Local" value="reference_book/Master_RDS_reference_book/Link.htm">
+          </object>
+          <ul>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Свойства связи">
+              <param name="Local" value="reference_book/Master_RDS_reference_book/Link_Property.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            </ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Добавление уникальных ключей">
+            <param name="Local" value="reference_book/Master_RDS_reference_book/Unique_Keys.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Добавление неуникальных ключей">
+            <param name="Local" value="reference_book/Master_RDS_reference_book/Non_Unique_Keys.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Создание схем импорта/экспорта">
+            <param name="Local" value="reference_book/Master_RDS_reference_book/Import.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Создание уровней">
+            <param name="Local" value="reference_book/Master_RDS_reference_book/Level.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Схемы отметки">
+            <param name="Local" value="reference_book/look-and-feel_Reference_book/UiMd_reference_book_look-and-feel_Scheme.htm#642b3b9347ca42c9b00b820c00c373fa=3">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Группы элементов">
+            <param name="Local" value="reference_book/look-and-feel_Reference_book/UiMd_reference_book_look-and-feel_Group.htm#642b3b9347ca42c9b00b820c00c373fa=3">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Альтернативная иерархия на основе справочников">
+            <param name="Local" value="reference_book/look-and-feel_Reference_book/Use_AlterHier_ForRefBook.htm#642b3b9347ca42c9b00b820c00c373fa=3">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Управление субъектами доступа">
+            <param name="Local" value="reference_book/Master_RDS_reference_book/Access_Subjects.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Управление параметрами вложенных элементов">
+            <param name="Local" value="reference_book/Master_RDS_reference_book/Manage_Nested_Object_Parameters.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Замена предустановленного вида диалога">
+            <param name="Local" value="reference_book/Master_RDS_reference_book/Element_Card.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Составной справочник НСИ">
+          <param name="Local" value="reference_book/Master_Composite_Table_reference_book/Master_CompositeTable.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Базовые настройки">
+            <param name="Local" value="reference_book/Master_Composite_Table_reference_book/base_settings.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Выбор базы данных">
+            <param name="Local" value="reference_book/Master_Composite_Table_reference_book/Database.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Добавление атрибутов">
+            <param name="Local" value="reference_book/Master_Composite_Table_reference_book/Attributes.htm">
+          </object>
+          <ul>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Свойства обычного атрибута">
+              <param name="Local" value="reference_book/Master_RDS_reference_book/Attributes/Attribute.htm#642b3b9347ca42c9b00b820c00c373fa=1">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Свойства заимствованного атрибута">
+              <param name="Local" value="reference_book/Master_RDS_reference_book/Attributes/Imported_Attribute.htm#642b3b9347ca42c9b00b820c00c373fa=1">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Настройка прав доступа">
+              <param name="Local" value="reference_book/Master_RDS_reference_book/Attributes/Access_Permissions.htm#642b3b9347ca42c9b00b820c00c373fa=1">
+              <param name="ImageNumber" value="11">
+            </object>
+            </ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Добавление параметров">
+            <param name="Local" value="reference_book/Master_Composite_Table_reference_book/Parameters.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Создание связей">
+            <param name="Local" value="reference_book/Master_Composite_Table_reference_book/Link_composite.htm">
+          </object>
+          <ul>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Свойства связи">
+              <param name="Local" value="reference_book/Master_RDS_reference_book/Link_Property.htm#642b3b9347ca42c9b00b820c00c373fa=1">
+              <param name="ImageNumber" value="11">
+            </object>
+            </ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Добавление уникальных ключей">
+            <param name="Local" value="reference_book/Master_Composite_Table_reference_book/Unique_Keys.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Добавление неуникальных ключей">
+            <param name="Local" value="reference_book/Master_Composite_Table_reference_book/Non_Unique_Keys.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Создание схем импорта/экспорта">
+            <param name="Local" value="reference_book/Master_RDS_reference_book/Import.htm#642b3b9347ca42c9b00b820c00c373fa=1">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Создание уровней">
+            <param name="Local" value="reference_book/Master_Composite_Table_reference_book/Level.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Схемы отметки">
+            <param name="Local" value="reference_book/look-and-feel_Reference_book/UiMd_reference_book_look-and-feel_Scheme.htm#642b3b9347ca42c9b00b820c00c373fa=4">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Группы элементов">
+            <param name="Local" value="reference_book/look-and-feel_Reference_book/UiMd_reference_book_look-and-feel_Group.htm#642b3b9347ca42c9b00b820c00c373fa=4">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Альтернативная иерархия на основе справочников">
+            <param name="Local" value="reference_book/look-and-feel_Reference_book/Use_AlterHier_ForRefBook.htm#642b3b9347ca42c9b00b820c00c373fa=4">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Управление параметрами вложенных элементов">
+            <param name="Local" value="reference_book/Master_RDS_reference_book/Manage_Nested_Object_Parameters.htm#642b3b9347ca42c9b00b820c00c373fa=1">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Выбор источников данных">
+            <param name="Local" value="reference_book/Master_Composite_Table_reference_book/Sources.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Управление субъектами доступа">
+            <param name="Local" value="reference_book/Master_Composite_Table_reference_book/Access_Subjects.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Замена предустановленного вида диалога">
+            <param name="Local" value="reference_book/Master_RDS_reference_book/Element_Card.htm#642b3b9347ca42c9b00b820c00c373fa=1">
+          </object>
+          </ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Примеры создания справочников">
+          <param name="Local" value="reference_book/UiMd_reference_book_Examples.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Справочник «Социально-экономические показатели»">
+            <param name="Local" value="reference_book/UiMd_reference_book_example.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Справочник «Типы данных»">
+            <param name="Local" value="reference_book/UiMd_reference_book_example_Type.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Справочник «Территориальные образования»">
+            <param name="Local" value="reference_book/UiMd_reference_book_example_Terr.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Календарный справочник «Календарь»">
+            <param name="Local" value="reference_book/Calendar.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Работа со справочником">
+          <param name="Local" value="reference_book/Work/Work_Dictionary.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Выполнение операций с элементами">
+            <param name="Local" value="reference_book/Work/Operations_Elements.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Поиск элементов справочника">
+            <param name="Local" value="reference_book/Work/Search_Elements.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Сортировка элементов справочника">
+            <param name="Local" value="reference_book/Work/Sort_Elements.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Наполнение справочника данными">
+            <param name="Local" value="reference_book/Work/Work_Elements.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Работа с элементами справочника НСИ через буфер обмена">
+            <param name="Local" value="reference_book/Work/Copy_Elements.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Разграничение прав доступа на элементы справочника">
+            <param name="Local" value="reference_book/Work/Access_Elements.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Настройка отображения справочника">
+            <param name="Local" value="reference_book/Work/Setting_Directory_View.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Управление иерархией справочника">
+            <param name="Local" value="reference_book/UiMd_reference_book_Hierarchy.htm">
+          </object>
+          <ul>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Альтернативная иерархия на основе атрибутов справочника">
+              <param name="Local" value="reference_book/look-and-feel_Reference_book/Attributes_as_alt_hier.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            </ul>
+          </ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Вопросы и ответы">
+          <param name="Local" value="reference_book/FAQ/FAQ.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Как управлять версиями элементов?">
+            <param name="Local" value="reference_book/FAQ/UiRds_Work_RDS_Elements_work_2.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Как управлять параметрами справочника?">
+            <param name="Local" value="reference_book/FAQ/Dictionary_parameters_control.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Как создать заимствованный атрибут?">
+            <param name="Local" value="reference_book/FAQ/ImportedAttribute_Create.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Как создать пользовательский вид диалога «Свойства элемента справочника»?">
+            <param name="Local" value="reference_book/FAQ/Create_custom_view.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Создание многомерных структур данных">
+        <param name="Local" value="Cube/UiMd_Cube_Type.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Куб">
+          <param name="Local" value="Cube/CreateCube/UiMd_Cube_CreateCube.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Стандартный куб">
+            <param name="Local" value="Cube/CreateCube/Master_Standart/UiMd_Cube_CreateCube_Master_Standart.htm">
+          </object>
+          <ul>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Базовые настройки">
+              <param name="Local" value="Cube/CreateCube/Master_Standart/base_settings.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Параметры">
+              <param name="Local" value="Cube/CreateCube/Master_Standart/parameters.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Варианты отображения">
+              <param name="Local" value="Cube/CreateCube/Master_Standart/Display_Version_Options.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Факты куба">
+              <param name="Local" value="Cube/CreateCube/Master_Standart/UiMd_Cube_CreateCube_Master_Standart_1.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Привязка фактов куба">
+              <param name="Local" value="Cube/CreateCube/Master_Standart/UiMd_Cube_CreateCube_Master_Standart_2.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Измерения куба">
+              <param name="Local" value="Cube/CreateCube/Master_Standart/UiMd_Cube_CreateCube_Master_Standart_3.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Единицы измерения и показатели">
+              <param name="Local" value="Cube/CreateCube/Master_Standart/UiMd_Cube_CreateCube_Master_Standart_unit_dim.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Отношения">
+              <param name="Local" value="Cube/CreateCube/Master_Standart/UiMd_Cube_CreateCube_Master_Standart_4.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Вычисляемые факты">
+              <param name="Local" value="Cube/CreateCube/Master_Standart/UiMd_Cube_CreateCube_Master_Standart_5.htm">
+            </object>
+            <ul>
+              <li><object type="text/sitemap">
+                <param name="Name" value="Специальные функции">
+                <param name="Local" value="Cube/CreateCube/Master_Standart/UiMd_Cube_CreateCube_Master_Standart_5Function.htm">
+                <param name="ImageNumber" value="11">
+              </object>
+              </ul>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Дополнительные настройки">
+              <param name="Local" value="Cube/CreateCube/Master_Standart/Additional_Settings.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Управление параметрами">
+              <param name="Local" value="Cube/CreateCube/Master_Standart/UiMd_Cube_CreateCube_Master_Standart_manage_param.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Управляющие измерения">
+              <param name="Local" value="Cube/CreateCube/Master_Standart/UiMd_Cube_CreateCube_Master_Standart_managed_dim.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Агрегация данных">
+              <param name="Local" value="Cube/CreateCube/Master_Standart/UiMd_Cube_CreateCube_Master_Standart_7.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Обработчик событий">
+              <param name="Local" value="Cube/CreateCube/Master_Standart/uimd_cube_createcube_master_standart_8.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            </ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Представление-куб">
+            <param name="Local" value="Cube/CreateCube/Master_Conception/UiMd_Cube_CreateCube_Master_Conception.htm">
+          </object>
+          <ul>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Базовые настройки">
+              <param name="Local" value="Cube/CreateCube/Master_Conception/base_settings.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Параметры">
+              <param name="Local" value="Cube/CreateCube/Master_Conception/parameters.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Исходный куб">
+              <param name="Local" value="Cube/CreateCube/Master_Conception/UiMd_Cube_CreateCube_Master_Conception_1.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Фиксация измерений">
+              <param name="Local" value="Cube/CreateCube/Master_Conception/UiMd_Cube_CreateCube_Master_Conception_2.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Единицы измерения и показатели">
+              <param name="Local" value="Cube/CreateCube/Master_Conception/UiMd_Cube_CreateCube_Master_Conception_unit.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Управление параметрами">
+              <param name="Local" value="Cube/CreateCube/Master_Conception/UiMd_Cube_CreateCube_Master_Conception_manage_dim.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Управляющие измерения">
+              <param name="Local" value="Cube/CreateCube/Master_Conception/UiMd_Cube_CreateCube_Master_Conception_managed_dim.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            </ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Виртуальный куб">
+            <param name="Local" value="Cube/CreateCube/Master_Virtual_Cube/UiMd_Cube_CreateCube_Master_Virtual.htm">
+          </object>
+          <ul>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Базовые настройки">
+              <param name="Local" value="Cube/CreateCube/Master_Virtual_Cube/base_settings.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Параметры">
+              <param name="Local" value="Cube/CreateCube/Master_Virtual_Cube/parameters.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Источники">
+              <param name="Local" value="Cube/CreateCube/Master_Virtual_Cube/UiMd_Cube_CreateCube_Master_Virtual_1.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Управление параметрами">
+              <param name="Local" value="Cube/CreateCube/Master_Virtual_Cube/UiMd_Cube_CreateCube_Master_Virtual_managed_param.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Фиксация измерений">
+              <param name="Local" value="Cube/CreateCube/Master_Virtual_Cube/UiMd_Cube_CreateCube_Master_Virtual_2.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Единицы измерения и показатели">
+              <param name="Local" value="Cube/CreateCube/Master_Virtual_Cube/UiMd_Cube_CreateCube_Master_Virtual_unit.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Управляющие измерения">
+              <param name="Local" value="Cube/CreateCube/Master_Virtual_Cube/UiMd_Cube_CreateCube_Master_Virtual_manage_dim.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            </ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Вычисляемый куб">
+            <param name="Local" value="Cube/CreateCube/Master_Calculation/UiMd_Cube_CreateCube_Master_Calculation.htm">
+          </object>
+          <ul>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Базовые настройки">
+              <param name="Local" value="Cube/CreateCube/Master_Calculation/base_settings.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Параметры">
+              <param name="Local" value="Cube/CreateCube/Master_Calculation/parameters.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Факты куба">
+              <param name="Local" value="Cube/CreateCube/Master_Calculation/UiMd_Cube_CreateCube_Master_Calculation_1.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Структура кубов">
+              <param name="Local" value="Cube/CreateCube/Master_Calculation/UiMd_Cube_CreateCube_Master_Calculation_2.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Альтернативный куб">
+              <param name="Local" value="Cube/CreateCube/Master_Calculation/UiMd_Cube_CreateCube_Master_Calculation_alternative_cube.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Единицы измерения и показатели">
+              <param name="Local" value="Cube/CreateCube/Master_Calculation/UiMd_Cube_CreateCube_Master_Calculation_unit.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Управление формулами">
+              <param name="Local" value="Cube/CreateCube/Master_Calculation/UiMd_Cube_CreateCube_Master_Calculation_3.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Управление параметрами">
+              <param name="Local" value="Cube/CreateCube/Master_Calculation/UiMd_Cube_CreateCube_Master_Calculation_manage_param.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Управляющие измерения">
+              <param name="Local" value="Cube/CreateCube/Master_Calculation/UiMd_Cube_CreateCube_Master_Calculation_managed_dim.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Редактор формул вычисляемого куба">
+              <param name="Local" value="equation_editor/UiMd_Equation_editor_CalculationCube.htm">
+            </object>
+            <ul>
+              <li><object type="text/sitemap">
+                <param name="Name" value="Примеры">
+                <param name="Local" value="equation_editor/EE_samples.htm">
+                <param name="ImageNumber" value="11">
+              </object>
+              <li><object type="text/sitemap">
+                <param name="Name" value="Редактор формул">
+                <param name="Local" value="equation_editor/UiMd_Equation_editor.htm">
+                <param name="ImageNumber" value="11">
+              </object>
+              </ul>
+            </ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Автоматический куб">
+            <param name="Local" value="Cube/CreateCube/Master_Auto/UiMd_Cube_CreateCube_Master_Auto.htm">
+          </object>
+          <ul>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Базовые свойства">
+              <param name="Local" value="Cube/CreateCube/Master_Auto/base_settings.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Параметры">
+              <param name="Local" value="Cube/CreateCube/Master_Auto/parameters.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Структура измерений куба">
+              <param name="Local" value="Cube/CreateCube/Master_Auto/UiMd_Cube_CreateCube_Master_Auto_1.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Единицы измерения и показатели">
+              <param name="Local" value="Cube/CreateCube/Master_Auto/uimd_cube_createcube_common_page4.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Управляющие измерения">
+              <param name="Local" value="Cube/CreateCube/Master_Auto/uimd_cube_createcube_common_page3.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Агрегация данных">
+              <param name="Local" value="Cube/CreateCube/Master_Auto/UiMd_Cube_CreateCube_Master_Auto_Aggreg.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Источник данных">
+              <param name="Local" value="Cube/CreateCube/Master_Auto/UiMd_Cube_CreateCube_Master_Auto_2.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Управление параметрами">
+              <param name="Local" value="Cube/CreateCube/Master_Auto/uimd_cube_createcube_common_page2.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Фиксация измерений">
+              <param name="Local" value="Cube/CreateCube/Master_Auto/UiMd_Cube_CreateCube_Master_Auto_3.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            </ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Работа с кубами">
+            <param name="Local" value="Cube/Work_Cube/UiMd_Cube_Work_Cube.htm">
+          </object>
+          <ul>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Сохранение куба в файл">
+              <param name="Local" value="Cube/Work_Cube/UiMd_Cube_Work_Cube_Save.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Агрегация данных">
+              <param name="Local" value="Cube/Agregation.htm">
+            </object>
+            <ul>
+              <li><object type="text/sitemap">
+                <param name="Name" value="Основной механизм агрегации">
+                <param name="Local" value="Cube/Work_Cube/Tuning_agr/UiMd_Cube_Work_Cube_Tuning_agr_Basic.htm">
+                <param name="ImageNumber" value="11">
+              </object>
+              <li><object type="text/sitemap">
+                <param name="Name" value="Хронологический механизм агрегации">
+                <param name="Local" value="Cube/Work_Cube/Tuning_agr/UiMd_Cube_Work_Cube_Tuning_agr_chronological.htm">
+                <param name="ImageNumber" value="11">
+              </object>
+              </ul>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Загрузчик данных">
+              <param name="Local" value="Cube/Work_Cube/Loader/UiMd_Cube_Work_Cube_Loader.htm">
+            </object>
+            <ul>
+              <li><object type="text/sitemap">
+                <param name="Name" value="Базовые свойства">
+                <param name="Local" value="Cube/Work_Cube/Loader/base_settings.htm">
+                <param name="ImageNumber" value="11">
+              </object>
+              <li><object type="text/sitemap">
+                <param name="Name" value="Параметры">
+                <param name="Local" value="Cube/Work_Cube/Loader/parameters.htm">
+                <param name="ImageNumber" value="11">
+              </object>
+              <li><object type="text/sitemap">
+                <param name="Name" value="Источник и приёмник">
+                <param name="Local" value="Cube/Work_Cube/Loader/UiMd_Cube_Work_Cube_Loader_Master_1.htm">
+                <param name="ImageNumber" value="11">
+              </object>
+              <li><object type="text/sitemap">
+                <param name="Name" value="Связи измерений">
+                <param name="Local" value="Cube/Work_Cube/Loader/UiMd_Cube_Work_Cube_Loader_Master_2.htm">
+                <param name="ImageNumber" value="11">
+              </object>
+              <li><object type="text/sitemap">
+                <param name="Name" value="Фиксация измерений">
+                <param name="Local" value="Cube/Work_Cube/Loader/UiMd_Cube_Work_Cube_Loader_Master_3.htm">
+                <param name="ImageNumber" value="11">
+              </object>
+              <li><object type="text/sitemap">
+                <param name="Name" value="Управление параметрами">
+                <param name="Local" value="Cube/Work_Cube/Loader/UiMd_Cube_Work_Cube_Loader_Master_Parameters_Managemetn.htm">
+                <param name="ImageNumber" value="11">
+              </object>
+              </ul>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Многомерный расчет на сервере БД">
+              <param name="Local" value="Cube/Work_Cube/UiMd_CubeWork_MultivariateAccount.htm">
+            </object>
+            <ul>
+              <li><object type="text/sitemap">
+                <param name="Name" value="Базовые свойства">
+                <param name="Local" value="Cube/Work_Cube/base_settings.htm">
+                <param name="ImageNumber" value="11">
+              </object>
+              <li><object type="text/sitemap">
+                <param name="Name" value="Параметры">
+                <param name="Local" value="Cube/Work_Cube/parameters.htm">
+                <param name="ImageNumber" value="11">
+              </object>
+              <li><object type="text/sitemap">
+                <param name="Name" value="Свойства">
+                <param name="Local" value="Cube/Work_Cube/UiMd_CubeWork_MultivariateAccount_MDProps.htm">
+                <param name="ImageNumber" value="11">
+              </object>
+              <li><object type="text/sitemap">
+                <param name="Name" value="Источники данных">
+                <param name="Local" value="Cube/Work_Cube/UiMd_CubeWork_MultivariateAccount_Source.htm">
+                <param name="ImageNumber" value="11">
+              </object>
+              <li><object type="text/sitemap">
+                <param name="Name" value="Структура">
+                <param name="Local" value="Cube/Work_Cube/UiMd_CubeWork_MultivariateAccount_Structure.htm">
+                <param name="ImageNumber" value="11">
+              </object>
+              <li><object type="text/sitemap">
+                <param name="Name" value="Таблица формул">
+                <param name="Local" value="Cube/Work_Cube/UiMd_CubeWork_MultivariateAccount_Tables.htm">
+              </object>
+              <ul>
+                <li><object type="text/sitemap">
+                  <param name="Name" value="Расшифровка таблицы формул">
+                  <param name="Local" value="Cube/Work_Cube/UiMd_CubeWork_MultivariateAccount_TablesFormul.htm">
+                  <param name="ImageNumber" value="11">
+                </object>
+                </ul>
+              <li><object type="text/sitemap">
+                <param name="Name" value="Управление параметрами вложенных объектов">
+                <param name="Local" value="Cube/UiMd_CubeWork_MultivariateAccount_ParamsControl.htm">
+                <param name="ImageNumber" value="11">
+              </object>
+              <li><object type="text/sitemap">
+                <param name="Name" value="Управляющие измерения">
+                <param name="Local" value="Cube/Work_Cube/UiMd_CubeWork_MultivariateAccount_ControlDims.htm">
+                <param name="ImageNumber" value="11">
+              </object>
+              <li><object type="text/sitemap">
+                <param name="Name" value="Редактирование формул многомерного расчета">
+                <param name="Local" value="Cube/Work_Cube/UiMd_CubeWork_MultivariateAccount_EditFormula.htm">
+              </object>
+              <ul>
+                <li><object type="text/sitemap">
+                  <param name="Name" value="Параметры расчета">
+                  <param name="Local" value="Cube/Work_Cube/UiMd_CubeWork_MultivariateAccount_Account.htm">
+                  <param name="ImageNumber" value="11">
+                </object>
+                <li><object type="text/sitemap">
+                  <param name="Name" value="Специальные функции">
+                  <param name="Local" value="Cube/Work_Cube/UiMd_CubeWork_MultivariateAccount_Functions.htm">
+                  <param name="ImageNumber" value="11">
+                </object>
+                <li><object type="text/sitemap">
+                  <param name="Name" value="Особенности и примеры использования различных типов суммирования">
+                  <param name="Local" value="Cube/Work_Cube/UiMd_CubeWork_MultivariateAccount_Example.htm">
+                  <param name="ImageNumber" value="11">
+                </object>
+                </ul>
+              </ul>
+            </ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Сегменты куба">
+            <param name="Local" value="Cube/segments/segments.htm">
+          </object>
+          <ul>
+            <li><object type="text/sitemap">
+              <param name="Name" value="База данных">
+              <param name="Local" value="Cube/segments/seg_bd.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Сегменты">
+              <param name="Local" value="Cube/segments/seg_list.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            </ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Пример создания куба">
+            <param name="Local" value="Cube/UiMd_Cube_Example.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Пример создания куба с управляемым измерением">
+            <param name="Local" value="Cube/Work_Cube/UiMd_Cube_Example_Param_Agency.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Пример настройки агрегации данных в кубах и отчётах">
+            <param name="Local" value="Cube/Cube_Example_Aggregation.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="База данных временных рядов">
+          <param name="Local" value="TimeSeriesDatabase/CreateTimeSeriesDatabase.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Задание базовых свойств">
+            <param name="Local" value="TimeSeriesDatabase/base_settings.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Выбор репозитория НСИ">
+            <param name="Local" value="TimeSeriesDatabase/ChooseNSI.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Настройка атрибутов">
+            <param name="Local" value="TimeSeriesDatabase/TS_Attributes.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Создание индексов">
+            <param name="Local" value="TimeSeriesDatabase/TS_Indexes.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Настройка календаря">
+            <param name="Local" value="TimeSeriesDatabase/TS_Calendar.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Создание прочих объектов">
+        <param name="Local" value="UiNavObj_Other_objects.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Единицы измерения и меры">
+          <param name="Local" value="Units/Units.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Единицы измерения в кубах">
+            <param name="Local" value="Units/Units_Cube.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Единицы измерения в базе данных временных рядов">
+            <param name="Local" value="Units/Units_dbts.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Обработчики данных в СУБД">
+          <param name="Local" value="database/data_handler.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Команда СУБД">
+            <param name="Local" value="CUBD/UiDb_relationa_CUBD.htm">
+          </object>
+          <ul>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Базовые настройки">
+              <param name="Local" value="CUBD/base_settings.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Параметры">
+              <param name="Local" value="CUBD/parameters.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Команда СУБД">
+              <param name="Local" value="CUBD/UiDb_relationa_CUBD_master_command.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Пример создания команды СУБД">
+              <param name="Local" value="CUBD/UiDb_relationa_CUBD_Example.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            </ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Процедура">
+            <param name="Local" value="procedure/UiDb_relationa_procedure.htm">
+          </object>
+          <ul>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Базовые настройки">
+              <param name="Local" value="procedure/base_settings.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Параметры">
+              <param name="Local" value="procedure/parameters.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Процедура/Функция">
+              <param name="Local" value="procedure/UiDb_relational_procedure_master_procedure.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Пример создания процедуры">
+              <param name="Local" value="procedure/UiDb_relationa_procedure_Example.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            </ul>
+          </ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Репозиторий НСИ">
+          <param name="Local" value="repository_RDS/RepositoryRDS.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Документ">
+          <param name="Local" value="UiNavObj_document.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Папка">
+          <param name="Local" value="UiNavObj_Folder.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Контейнер">
+          <param name="Local" value="Container/Container.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      </ul>
+  </ul>
+  <object type="text/sitemap">
+    <param name="Name" value="UiETL.chm::/UiETL.hhc">
+    <param name="Merge" value="UiETL.chm::/UiETL.hhc" value2="../uietl">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Вопросы и ответы">
+      <param name="Local" value="DataWarehouse_FAQ.htm">
+      <param name="ImageNumber" value="11">
+    </object>
+    </ul>
+</ul>
+</html>

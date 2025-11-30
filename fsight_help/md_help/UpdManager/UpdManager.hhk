@@ -1,0 +1,315 @@
+<html>
+<!-- Sitemap 1.0 -->
+<object type="text/site properties">
+  <param name="SiteType" value="index">
+</object>
+<ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Добавление прав доступа">
+    <param name="Name" value="Добавление прав доступа">
+    <param name="Local" value="CreateUpdate/AddAccessPermissions.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Конфликты мандатного доступа">
+    <param name="Name" value="Конфликты мандатного доступа">
+    <param name="Local" value="Mandatory_access_conflicts.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Субъекты обновления">
+    <param name="Name" value="Субъекты обновления">
+    <param name="Local" value="Update_subjects.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Объекты обновления">
+    <param name="Name" value="Объекты обновления">
+    <param name="Local" value="Update_Objects.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Конфликты">
+    <param name="Name" value="Конфликты">
+    <param name="Local" value="Conflicts.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Открытие обновления">
+    <param name="Name" value="Начало работы с менеджером обновлений#Open_update">
+    <param name="Local" value="Admin_UpMBObj_RunManager.htm#open_update">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Пропустить объект">
+    <param name="Name" value="Параметры обновления объекта">
+    <param name="Local" value="Admin_UpMBObj_OBJUpdateParameters.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Просмотр текста объекта">
+    <param name="Name" value="Просмотр текста объекта">
+    <param name="Local" value="Admin_Update_ViewText.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Параметры SQL-оператора">
+    <param name="Name" value="Параметры SQL-оператора">
+    <param name="Local" value="CreateUpdate/Admin_ParamSQL.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Условие обновления">
+    <param name="Name" value="Параметры обновления объекта">
+    <param name="Local" value="Admin_UpMBObj_OBJUpdateParameters.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Флаги обновления">
+    <param name="Name" value="Флаги обновления">
+    <param name="Local" value="Admin_UpdateFlags.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Обновление версии">
+    <param name="Name" value="Обновление версии">
+    <param name="Local" value="Admin_UpdateVersion.htm">
+    <param name="Name" value="Открытие менеджера обновлений">
+    <param name="Local" value="Admin_UpMBObj_RunManager.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Установка обновления">
+    <param name="Name" value="Произвести обновление">
+    <param name="Local" value="Admin_UpMBObj_DoUpdate.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Файл обновления">
+    <param name="Name" value="Файл обновления">
+    <param name="Local" value="Admin_UpMBObj_DoUpdateFile.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Субъект безопасности">
+    <param name="Name" value="Добавление субъекта безопасности">
+    <param name="Local" value="CreateUpdate/Admin_CreateUpdate_AddUser.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Добавить субъект безопасности">
+    <param name="Name" value="Добавление субъекта безопасности">
+    <param name="Local" value="CreateUpdate/Admin_CreateUpdate_AddUser.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Добавление субъекта безопасности">
+    <param name="Name" value="Добавление субъекта безопасности">
+    <param name="Local" value="CreateUpdate/Admin_CreateUpdate_AddUser.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Произвести обновление">
+    <param name="Name" value="Произвести обновление">
+    <param name="Local" value="Admin_UpMBObj_DoUpdate.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Сохранение обновления в файл">
+    <param name="Name" value="Сохранение обновления#in_file">
+    <param name="Local" value="SaveUpdate/Admin_SaveUpdate.htm#in_file">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Сохранение обновления в репозиторий">
+    <param name="Name" value="Сохранение обновления#in_repository">
+    <param name="Local" value="SaveUpdate/Admin_SaveUpdate.htm#in_repository">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Сохранение обновления">
+    <param name="Name" value="Сохранение обновления">
+    <param name="Local" value="SaveUpdate/Admin_SaveUpdate.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Удаление объектов из обновления">
+    <param name="Name" value="Удаление объектов из обновления">
+    <param name="Local" value="CreateUpdate/Admin_CreateUpdate_DelObjects.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Создание обновления">
+    <param name="Name" value="Создание обновления">
+    <param name="Local" value="CreateUpdate/Admin_CreateUpdate.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Поиск объекта в обновлении">
+    <param name="Name" value="Поиск объекта в обновлении">
+    <param name="Local" value="CreateUpdate/Admin_CreateUpdate_SerchObjects.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Добавление SQL-оператора">
+    <param name="Name" value="Добавление SQL-оператора">
+    <param name="Local" value="CreateUpdate/Admin_CreateUpdate_AddSQL.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Добавление удаления объекта">
+    <param name="Name" value="Добавление удаления объекта ">
+    <param name="Local" value="CreateUpdate/Admin_CreateUpdate_AddDel.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Добавление объектов репозитория">
+    <param name="Name" value="Добавление объектов репозитория">
+    <param name="Local" value="CreateUpdate/Admin_CreateUpdate_AddObjects.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Рабочая станция">
+    <param name="Name" value="Анализ изменений">
+    <param name="Local" value="Admin_UpMBObj_ChangeAnalysis.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Добавление специальных объектов">
+    <param name="Name" value="Добавление специального объекта">
+    <param name="Local" value="CreateUpdate/Admin_CreateUpdate_SpecialObjects.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Параметры обновления">
+    <param name="Name" value="Настройка параметров процесса обновления">
+    <param name="Local" value="UpdateProcess_Parameters.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Сообщения в процессе обновления">
+    <param name="Name" value="Возможные сообщения в процессе обновления">
+    <param name="Local" value="Admin_UpdateResult.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Ошибки при обновлении">
+    <param name="Name" value="Сообщения в процессе обновления">
+    <param name="Local" value="Admin_UpdateResult.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Флаг обновления">
+    <param name="Name" value="Флаги обновления">
+    <param name="Local" value="Admin_UpdateFlags.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Мастер установки обновления">
+    <param name="Name" value="Информация">
+    <param name="Local" value="Admin_UpMBObj_DoUpdateFile.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Особенности установки обновления">
+    <param name="Name" value="Особенности установки обновления">
+    <param name="Local" value="UPD_features.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Перенос объектов между репозиториями и их обновление">
+    <param name="Name" value="Перенос объектов между репозиториями и их обновление">
+    <param name="Local" value="Admin_UpdateTitle.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Менеджер обновлений">
+    <param name="Name" value="Перенос объектов между репозиториями и их обновление">
+    <param name="Local" value="Admin_UpdateTitle.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Начало работы с менеджером обновлений">
+    <param name="Name" value="Начало работы с менеджером обновлений">
+    <param name="Local" value="Admin_UpMBObj_RunManager.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Создание папки в обновлении">
+    <param name="Name" value="Создание папки в обновлении">
+    <param name="Local" value="CreateUpdate/Admin_CreateUpdate_CreateFolder.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Анализ изменений объектов">
+    <param name="Name" value="Анализ изменений объектов">
+    <param name="Local" value="Admin_UpMBObj_ChangeAnalysis.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Добавление комментария к обновлению">
+    <param name="Name" value="Добавление комментария к обновлению">
+    <param name="Local" value="CreateUpdate/Admin_CreateUpdate_AddComent.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Экспорт обновления">
+    <param name="Name" value="Экспорт обновления">
+    <param name="Local" value="Admin_UpMBObj_Export.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Процесс обновления">
+    <param name="Name" value="Процесс обновления">
+    <param name="Local" value="Admin_UpMBObj_DoUpdateFile.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Вопросы и ответы">
+    <param name="Name" value="Вопросы и ответы">
+    <param name="Local" value="FAQ/FAQ.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Как происходит процесс обновления при использовании разделения ролей администраторов?">
+    <param name="Name" value="Как происходит процесс обновления при использовании разделения ролей администраторов?">
+    <param name="Local" value="FAQ/Administrator_role_separation.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Как происходит процесс обновления при использовании разных методов разграничения">
+    <param name="Name" value="Как происходит процесс обновления при использовании разных методов разграничения">
+    <param name="Local" value="FAQ/Access_control_methods.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Работа с готовым обновлением">
+    <param name="Name" value="Работа с готовым обновлением">
+    <param name="Local" value="Working_with_update.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Настройка отображения объектов">
+    <param name="Name" value="Настройка отображения объектов">
+    <param name="Local" value="Admin_UpMBObj_ObjView.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Создание модуля обновления">
+    <param name="Name" value="Создание модуля обновления">
+    <param name="Local" value="CreateUpdate/Features/Admin_CreateUpdate_Features_Module.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Параметры обновления выбранного объекта">
+    <param name="Name" value="Параметры обновления выбранного объекта">
+    <param name="Local" value="Admin_UpMBObj_OBJUpdateParameters.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Особенности при открытии обновления">
+    <param name="Name" value="Особенности при открытии обновления">
+    <param name="Local" value="OpenUpdate/Admin_OpenUpdate.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Фильтрация объектов обновления">
+    <param name="Name" value="Фильтрация объектов обновления">
+    <param name="Local" value="CreateUpdate/Filtering.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Настройка параметров процесса обновления">
+    <param name="Name" value="Настройка параметров процесса обновления">
+    <param name="Local" value="UpdateProcess_Parameters.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Добавление правил атрибутного метода">
+    <param name="Name" value="Добавление правил атрибутного метода">
+    <param name="Local" value="CreateUpdate/Admin_CreateUpdate_ABACRule.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Атрибутный метод">
+    <param name="Name" value="Добавление правил атрибутного метода">
+    <param name="Local" value="CreateUpdate/Admin_CreateUpdate_ABACRule.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Добавление флагов обновления">
+    <param name="Name" value="Добавление флагов обновления">
+    <param name="Local" value="Admin_UpdateFlags.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Модуль обновления">
+    <param name="Name" value="Создание модуля обновления">
+    <param name="Local" value="CreateUpdate/Features/Admin_CreateUpdate_Features_Module.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Обновление процессов">
+    <param name="Name" value="Бизнес-процессы">
+    <param name="Local" value="CreateUpdate/Features/AuthorizationObject_and_BusinessProcesses.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Обновление бизнес-процессов">
+    <param name="Name" value="Бизнес-процессы">
+    <param name="Local" value="CreateUpdate/Features/AuthorizationObject_and_BusinessProcesses.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Добавление в обновление">
+    <param name="Name" value="Табличные наборы данных, справочники НСИ, автоматические кубы и базы данных">
+    <param name="Local" value="CreateUpdate/Features/Admin_CreateUpdate_Features_Tables.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Параметры обновления объекта">
+    <param name="Name" value="Табличные наборы данных, справочники НСИ, автоматические кубы и базы данных">
+    <param name="Local" value="CreateUpdate/Features/Admin_CreateUpdate_Features_Tables.htm">
+  </object>
+</ul>
+</html>

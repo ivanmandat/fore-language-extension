@@ -1,0 +1,679 @@
+<html>
+<!-- Sitemap 1.0 -->
+<object type="text/site properties">
+  <param name="SiteType" value="index">
+</object>
+<ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="OnSelectionChanged">
+    <param name="Name" value="WorkspaceBox.OnSelectionChanged">
+    <param name="Local" value="Class/WorkspaceBox/WorkspaceBox.OnSelectionChanged.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="OnBeforeMoveCP">
+    <param name="Name" value="WorkspaceBox.OnBeforeMoveCP">
+    <param name="Local" value="Class/WorkspaceBox/WorkspaceBox.OnBeforeMoveCP.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="OnAfterMoveCP">
+    <param name="Name" value="WorkspaceBox.OnAfterMoveCP">
+    <param name="Local" value="Class/WorkspaceBox/WorkspaceBox.OnAfterMoveCP.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Create">
+    <param name="Name" value="MoveCPEventArgs.Create">
+    <param name="Local" value="Class/MoveCPEventArgs/MoveCPEventArgs.Create.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="CreateArgs">
+    <param name="Name" value="AttachCPEventArgs.CreateArgs">
+    <param name="Local" value="Class/AttachCPEventArgs/AttachCPEventArgs.CreateArgs.htm">
+    <param name="Name" value="ShapeChangedEventArgs.CreateArgs">
+    <param name="Local" value="Class/ShapeChangedEventArgs/ShapeChangedEventArgs.CreateArgs.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="PreviousMetabaseObjectsCount">
+    <param name="Name" value="IWxMetabaseObject.PreviousMetabaseObjectsCount">
+    <param name="Local" value="Interface/IWxMetabaseObject/IWxMetabaseObject.PreviousMetabaseObjectsCount.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="PreviousMetabaseObjects">
+    <param name="Name" value="IWxMetabaseObject.PreviousMetabaseObjects">
+    <param name="Local" value="Interface/IWxMetabaseObject/IWxMetabaseObject.PreviousMetabaseObjects.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="NextMetabaseObjectsCount">
+    <param name="Name" value="IWxMetabaseObject.NextMetabaseObjectsCount">
+    <param name="Local" value="Interface/IWxMetabaseObject/IWxMetabaseObject.NextMetabaseObjectsCount.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="NextMetabaseObjects">
+    <param name="Name" value="IWxMetabaseObject.NextMetabaseObjects">
+    <param name="Local" value="Interface/IWxMetabaseObject/IWxMetabaseObject.NextMetabaseObjects.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="MetabaseObject">
+    <param name="Name" value="IWxMetabaseObject.MetabaseObject">
+    <param name="Local" value="Interface/IWxMetabaseObject/IWxMetabaseObject.MetabaseObject.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="View">
+    <param name="Name" value="IWorkspaceBox.View">
+    <param name="Local" value="Interface/IWorkspaceBox/IWorkspaceBox.View.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Source">
+    <param name="Name" value="IWorkspaceBox.Source">
+    <param name="Local" value="Interface/IWorkspaceBox/IWorkspaceBox.Source.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="GetShapeByPt">
+    <param name="Name" value="IWorkspaceBox.GetShapeByPt">
+    <param name="Local" value="Interface/IWorkspaceBox/IWorkspaceBox.GetShapeByPt.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="DisplaySelections">
+    <param name="Name" value="IWorkspaceBox.DisplaySelections">
+    <param name="Local" value="Interface/IWorkspaceBox/IWorkspaceBox.DisplaySelections.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="DisplayScrollBars">
+    <param name="Name" value="IWorkspaceBox.DisplayScrollBars">
+    <param name="Local" value="Interface/IWorkspaceBox/IWorkspaceBox.DisplayScrollBars.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="DisplayIntersections">
+    <param name="Name" value="IWorkspaceBox.DisplayIntersections">
+    <param name="Local" value="Interface/IWorkspaceBox/IWorkspaceBox.DisplayIntersections.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="DisplayGrid">
+    <param name="Name" value="IWorkspaceBox.DisplayGrid">
+    <param name="Local" value="Interface/IWorkspaceBox/IWorkspaceBox.DisplayGrid.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="DisplayFocusFrame">
+    <param name="Name" value="IWorkspaceBox.DisplayFocusFrame">
+    <param name="Local" value="Interface/IWorkspaceBox/IWorkspaceBox.DisplayFocusFrame.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="DisplayConnectionPoints">
+    <param name="Name" value="IWorkspaceBox.DisplayConnectionPoints">
+    <param name="Local" value="Interface/IWorkspaceBox/IWorkspaceBox.DisplayConnectionPoints.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ConvertPtToView">
+    <param name="Name" value="IWorkspaceBox.ConvertPtToView">
+    <param name="Local" value="Interface/IWorkspaceBox/IWorkspaceBox.ConvertPtToView.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ActiveTool">
+    <param name="Name" value="IWorkspaceBox.ActiveTool">
+    <param name="Local" value="Interface/IWorkspaceBox/IWorkspaceBox.ActiveTool.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Metabase">
+    <param name="Name" value="IWorkspace.Metabase">
+    <param name="Local" value="Interface/IWorkspace/IWorkspace.Metabase.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Data">
+    <param name="Name" value="IWorkspace.Data">
+    <param name="Local" value="Interface/IWorkspace/IWorkspace.Data.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Workspace">
+    <param name="Name" value="IUiWorkspaceObject.Workspace">
+    <param name="Local" value="Interface/IUiWorkspaceObject/IUiWorkspaceObject.Workspace.htm">
+    <param name="Name" value="Сборка Worspace">
+    <param name="Local" value="KeWsp_Title.htm">
+    <param name="Name" value="IWxAssemblies.Workspace">
+    <param name="Local" value="Interface/IWxAssemblies/IWxAssemblies.Workspace.htm">
+    <param name="Name" value="IUiWorkspaceEventArgs.Workspace">
+    <param name="Local" value="Interface/IUiWorkspaceEventArgs/IUiWorkspaceEventArgs.Workspace.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Интерфейсы сборки Workspace">
+      <param name="Name" value="Интерфейсы сборки Workspace">
+      <param name="Local" value="Interface/Workspace_Interface.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Классы сборки Workspace">
+      <param name="Name" value="Классы сборки Workspace">
+      <param name="Local" value="Class/Workspace_Class.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Введение">
+      <param name="Name" value="Введение: Сборка Worspace">
+      <param name="Local" value="KeWsp_Introduction.htm">
+    </object>
+    </ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="WxWorkspace">
+    <param name="Name" value="IUiWorkspace.WxWorkspace">
+    <param name="Local" value="Interface/IUiWorkspace/IUiWorkspace.WxWorkspace.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Shape">
+    <param name="Name" value="IMoveCPEventArgs.Shape">
+    <param name="Local" value="Interface/IMoveCPEventArgs/IMoveCPEventArgs.Shape.htm">
+    <param name="Name" value="IShapeChangedEventArgs.Shape">
+    <param name="Local" value="Interface/IShapeChangedEventArgs/IShapeChangedEventArgs.Shape.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="CPIndex">
+    <param name="Name" value="IMoveCPEventArgs.CPIndex">
+    <param name="Local" value="Interface/IMoveCPEventArgs/IMoveCPEventArgs.CPIndex.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Cancel">
+    <param name="Name" value="IMoveCPEventArgs.Cancel">
+    <param name="Local" value="Interface/IMoveCPEventArgs/IMoveCPEventArgs.Cancel.htm">
+    <param name="Name" value="IUiWorkspaceCancelEventArgs.Cancel">
+    <param name="Local" value="Interface/IUiWorkspaceCancelEventArgs/IUiWorkspaceCancelEventArgs.Cancel.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ShapeToAttach">
+    <param name="Name" value="IAttachCPEventArgs.ShapeToAttach">
+    <param name="Local" value="Interface/IAttachCPEventArgs/IAttachCPEventArgs.ShapeToAttach.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="CPIndexToAttach">
+    <param name="Name" value="IAttachCPEventArgs.CPIndexToAttach">
+    <param name="Local" value="Interface/IAttachCPEventArgs/IAttachCPEventArgs.CPIndexToAttach.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IUiWorkspaceObject.Workspace">
+    <param name="Name" value="IUiWorkspaceObject.Workspace">
+    <param name="Local" value="Interface/IUiWorkspaceObject/IUiWorkspaceObject.Workspace.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IWorkspaceBox.GetShapeByPt">
+    <param name="Name" value="IWorkspaceBox.GetShapeByPt">
+    <param name="Local" value="Interface/IWorkspaceBox/IWorkspaceBox.GetShapeByPt.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IWorkspaceBox.DisplaySelections">
+    <param name="Name" value="IWorkspaceBox.DisplaySelections">
+    <param name="Local" value="Interface/IWorkspaceBox/IWorkspaceBox.DisplaySelections.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IMoveCPEventArgs.Cancel">
+    <param name="Name" value="IMoveCPEventArgs.Cancel">
+    <param name="Local" value="Interface/IMoveCPEventArgs/IMoveCPEventArgs.Cancel.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IWorkspaceBox.DisplayIntersections">
+    <param name="Name" value="IWorkspaceBox.DisplayIntersections">
+    <param name="Local" value="Interface/IWorkspaceBox/IWorkspaceBox.DisplayIntersections.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IWorkspaceBox.ActiveTool">
+    <param name="Name" value="IWorkspaceBox.ActiveTool">
+    <param name="Local" value="Interface/IWorkspaceBox/IWorkspaceBox.ActiveTool.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IUiWorkspaceObject">
+    <param name="Name" value="IUiWorkspaceObject">
+    <param name="Local" value="Interface/IUiWorkspaceObject/IUiWorkspaceObject.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IWorkspaceBox.View">
+    <param name="Name" value="IWorkspaceBox.View">
+    <param name="Local" value="Interface/IWorkspaceBox/IWorkspaceBox.View.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IUiWorkspace">
+    <param name="Name" value="IUiWorkspace">
+    <param name="Local" value="Interface/IUiWorkspace/IUiWorkspace.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IAttachCPEventArgs.CPIndexToAttach">
+    <param name="Name" value="IAttachCPEventArgs.CPIndexToAttach">
+    <param name="Local" value="Interface/IAttachCPEventArgs/IAttachCPEventArgs.CPIndexToAttach.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IAttachCPEventArgs">
+    <param name="Name" value="IAttachCPEventArgs">
+    <param name="Local" value="Interface/IAttachCPEventArgs/IAttachCPEventArgs.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IWxMetabaseObject.NextMetabaseObjects">
+    <param name="Name" value="IWxMetabaseObject.NextMetabaseObjects">
+    <param name="Local" value="Interface/IWxMetabaseObject/IWxMetabaseObject.NextMetabaseObjects.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IWxMetabaseObject.MetabaseObject">
+    <param name="Name" value="IWxMetabaseObject.MetabaseObject">
+    <param name="Local" value="Interface/IWxMetabaseObject/IWxMetabaseObject.MetabaseObject.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IWxMetabaseObject">
+    <param name="Name" value="IWxMetabaseObject">
+    <param name="Local" value="Interface/IWxMetabaseObject/IWxMetabaseObject.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IWorkspace.Metabase">
+    <param name="Name" value="IWorkspace.Metabase">
+    <param name="Local" value="Interface/IWorkspace/IWorkspace.Metabase.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IMoveCPEventArgs.Shape">
+    <param name="Name" value="IMoveCPEventArgs.Shape">
+    <param name="Local" value="Interface/IMoveCPEventArgs/IMoveCPEventArgs.Shape.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IWxMetabaseObject.PreviousMetabaseObjects">
+    <param name="Name" value="IWxMetabaseObject.PreviousMetabaseObjects">
+    <param name="Local" value="Interface/IWxMetabaseObject/IWxMetabaseObject.PreviousMetabaseObjects.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IUiWorkspace.WxWorkspace">
+    <param name="Name" value="IUiWorkspace.WxWorkspace">
+    <param name="Local" value="Interface/IUiWorkspace/IUiWorkspace.WxWorkspace.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IWorkspaceBox.DisplayFocusFrame">
+    <param name="Name" value="IWorkspaceBox.DisplayFocusFrame">
+    <param name="Local" value="Interface/IWorkspaceBox/IWorkspaceBox.DisplayFocusFrame.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IWorkspaceBox">
+    <param name="Name" value="IWorkspaceBox">
+    <param name="Local" value="Interface/IWorkspaceBox/IWorkspaceBox.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IWorkspaceBox.DisplayGrid">
+    <param name="Name" value="IWorkspaceBox.DisplayGrid">
+    <param name="Local" value="Interface/IWorkspaceBox/IWorkspaceBox.DisplayGrid.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IWxMetabaseObject.PreviousMetabaseObjectsCount">
+    <param name="Name" value="IWxMetabaseObject.PreviousMetabaseObjectsCount">
+    <param name="Local" value="Interface/IWxMetabaseObject/IWxMetabaseObject.PreviousMetabaseObjectsCount.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IWorkspaceSource">
+    <param name="Name" value="IWorkspaceSource">
+    <param name="Local" value="Interface/IWorkspaceSource/IWorkspaceSource.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IWorkspaceBox.Source">
+    <param name="Name" value="IWorkspaceBox.Source">
+    <param name="Local" value="Interface/IWorkspaceBox/IWorkspaceBox.Source.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IWorkspace.Data">
+    <param name="Name" value="IWorkspace.Data">
+    <param name="Local" value="Interface/IWorkspace/IWorkspace.Data.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IAttachCPEventArgs.ShapeToAttach">
+    <param name="Name" value="IAttachCPEventArgs.ShapeToAttach">
+    <param name="Local" value="Interface/IAttachCPEventArgs/IAttachCPEventArgs.ShapeToAttach.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IMoveCPEventArgs">
+    <param name="Name" value="IMoveCPEventArgs">
+    <param name="Local" value="Interface/IMoveCPEventArgs/IMoveCPEventArgs.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IWorkspaceBox.DisplayScrollBars">
+    <param name="Name" value="IWorkspaceBox.DisplayScrollBars">
+    <param name="Local" value="Interface/IWorkspaceBox/IWorkspaceBox.DisplayScrollBars.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IWorkspaceBox.DisplayConnectionPoints">
+    <param name="Name" value="IWorkspaceBox.DisplayConnectionPoints">
+    <param name="Local" value="Interface/IWorkspaceBox/IWorkspaceBox.DisplayConnectionPoints.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IWorkspace">
+    <param name="Name" value="IWorkspace">
+    <param name="Local" value="Interface/IWorkspace/IWorkspace.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IWorkspaceBox.ConvertPtToView">
+    <param name="Name" value="IWorkspaceBox.ConvertPtToView">
+    <param name="Local" value="Interface/IWorkspaceBox/IWorkspaceBox.ConvertPtToView.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IMoveCPEventArgs.CPIndex">
+    <param name="Name" value="IMoveCPEventArgs.CPIndex">
+    <param name="Local" value="Interface/IMoveCPEventArgs/IMoveCPEventArgs.CPIndex.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IWxMetabaseObject.NextMetabaseObjectsCount">
+    <param name="Name" value="IWxMetabaseObject.NextMetabaseObjectsCount">
+    <param name="Local" value="Interface/IWxMetabaseObject/IWxMetabaseObject.NextMetabaseObjectsCount.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Интерфейсы сборки Workspace">
+    <param name="Name" value="Интерфейсы сборки Workspace">
+    <param name="Local" value="Interface/Workspace_Interface.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Сборка Workspace">
+    <param name="Name" value="Сборка Worspace">
+    <param name="Local" value="KeWsp_Title.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Интерфейсы сборки Workspace">
+      <param name="Name" value="Интерфейсы сборки Workspace">
+      <param name="Local" value="Interface/Workspace_Interface.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Классы сборки Workspace">
+      <param name="Name" value="Классы сборки Workspace">
+      <param name="Local" value="Class/Workspace_Class.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Введение">
+      <param name="Name" value="Введение: Сборка Worspace">
+      <param name="Local" value="KeWsp_Introduction.htm">
+    </object>
+    </ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="UiWorkspaceObject">
+    <param name="Name" value="UiWorkspaceObject">
+    <param name="Local" value="Class/UiWorkspaceObject/UiWorkspaceObject.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="AttachCPEventArgs">
+    <param name="Name" value="AttachCPEventArgs">
+    <param name="Local" value="Class/AttachCPEventArgs/AttachCPEventArgs.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="MoveCPEventArgs.Create">
+    <param name="Name" value="MoveCPEventArgs.Create">
+    <param name="Local" value="Class/MoveCPEventArgs/MoveCPEventArgs.Create.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="AttachCPEventArgs.CreateArgs">
+    <param name="Name" value="AttachCPEventArgs.CreateArgs">
+    <param name="Local" value="Class/AttachCPEventArgs/AttachCPEventArgs.CreateArgs.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="WorkspaceBox">
+    <param name="Name" value="WorkspaceBox">
+    <param name="Local" value="Class/WorkspaceBox/WorkspaceBox.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="WorkspaceBox.OnAfterMoveCP">
+    <param name="Name" value="WorkspaceBox.OnAfterMoveCP">
+    <param name="Local" value="Class/WorkspaceBox/WorkspaceBox.OnAfterMoveCP.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="WorkspaceBox.OnSelectionChanged">
+    <param name="Name" value="WorkspaceBox.OnSelectionChanged">
+    <param name="Local" value="Class/WorkspaceBox/WorkspaceBox.OnSelectionChanged.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="MoveCPEventArgs">
+    <param name="Name" value="MoveCPEventArgs">
+    <param name="Local" value="Class/MoveCPEventArgs/MoveCPEventArgs.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="WorkspaceBox.OnBeforeMoveCP">
+    <param name="Name" value="WorkspaceBox.OnBeforeMoveCP">
+    <param name="Local" value="Class/WorkspaceBox/WorkspaceBox.OnBeforeMoveCP.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="UiWorkspace">
+    <param name="Name" value="UiWorkspace">
+    <param name="Local" value="Class/UiWorkspace/UiWorkspace.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Классы сборки Workspace">
+    <param name="Name" value="Классы сборки Workspace">
+    <param name="Local" value="Class/Workspace_Class.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IWorkspaceBox.BorderStyle">
+    <param name="Name" value="IWorkspaceBox.BorderStyle">
+    <param name="Local" value="Interface/IWorkspaceBox/IWorkspaceBox.BorderStyle.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="BorderStyle">
+    <param name="Name" value="IWorkspaceBox.BorderStyle">
+    <param name="Local" value="Interface/IWorkspaceBox/IWorkspaceBox.BorderStyle.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="WorkspaceBox.OnShapeChanged">
+    <param name="Name" value="WorkspaceBox.OnShapeChanged">
+    <param name="Local" value="Class/WorkspaceBox/WorkspaceBox.OnShapeChanged.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="OnShapeChanged">
+    <param name="Name" value="WorkspaceBox.OnShapeChanged">
+    <param name="Local" value="Class/WorkspaceBox/WorkspaceBox.OnShapeChanged.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IShapeChangedEventArgs">
+    <param name="Name" value="IShapeChangedEventArgs">
+    <param name="Local" value="Interface/IShapeChangedEventArgs/IShapeChangedEventArgs.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IShapeChangedEventArgs.Shape">
+    <param name="Name" value="IShapeChangedEventArgs.Shape">
+    <param name="Local" value="Interface/IShapeChangedEventArgs/IShapeChangedEventArgs.Shape.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IShapeChangedEventArgs.ShapeOperation">
+    <param name="Name" value="IShapeChangedEventArgs.ShapeOperation">
+    <param name="Local" value="Interface/IShapeChangedEventArgs/IShapeChangedEventArgs.ShapeOperation.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ShapeOperation">
+    <param name="Name" value="IShapeChangedEventArgs.ShapeOperation">
+    <param name="Local" value="Interface/IShapeChangedEventArgs/IShapeChangedEventArgs.ShapeOperation.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ShapeChangedEventArgs.CreateArgs">
+    <param name="Name" value="ShapeChangedEventArgs.CreateArgs">
+    <param name="Local" value="Class/ShapeChangedEventArgs/ShapeChangedEventArgs.CreateArgs.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ShapeChangedEventArgs">
+    <param name="Name" value="ShapeChangedEventArgs">
+    <param name="Local" value="Class/ShapeChangedEventArgs/ShapeChangedEventArgs.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IWorkspaceBox.DefaultHandlers">
+    <param name="Name" value="IWorkspaceBox.DefaultHandlers">
+    <param name="Local" value="Interface/IWorkspaceBox/IWorkspaceBox.DefaultHandlers.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="DefaultHandlers">
+    <param name="Name" value="IWorkspaceBox.DefaultHandlers">
+    <param name="Local" value="Interface/IWorkspaceBox/IWorkspaceBox.DefaultHandlers.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IWorkspaceBox.DefaultMenu">
+    <param name="Name" value="IWorkspaceBox.DefaultMenu">
+    <param name="Local" value="Interface/IWorkspaceBox/IWorkspaceBox.DefaultMenu.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="DefaultMenu">
+    <param name="Name" value="IWorkspaceBox.DefaultMenu">
+    <param name="Local" value="Interface/IWorkspaceBox/IWorkspaceBox.DefaultMenu.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IWxMetabaseObject.ShowDependencies">
+    <param name="Name" value="IWxMetabaseObject.ShowDependencies">
+    <param name="Local" value="Interface/IWxMetabaseObject/IWxMetabaseObject.ShowDependencies.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ShowDependencies">
+    <param name="Name" value="IWxMetabaseObject.ShowDependencies">
+    <param name="Local" value="Interface/IWxMetabaseObject/IWxMetabaseObject.ShowDependencies.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IWxMetabaseObject.ShowDependents">
+    <param name="Name" value="IWxMetabaseObject.ShowDependents">
+    <param name="Local" value="Interface/IWxMetabaseObject/IWxMetabaseObject.ShowDependents.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ShowDependents">
+    <param name="Name" value="IWxMetabaseObject.ShowDependents">
+    <param name="Local" value="Interface/IWxMetabaseObject/IWxMetabaseObject.ShowDependents.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IWorkspace.Assemblies">
+    <param name="Name" value="IWorkspace.Assemblies">
+    <param name="Local" value="Interface/IWorkspace/IWorkspace.Assemblies.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Assemblies">
+    <param name="Name" value="IWorkspace.Assemblies">
+    <param name="Local" value="Interface/IWorkspace/IWorkspace.Assemblies.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IWxAssemblies">
+    <param name="Name" value="IWxAssemblies">
+    <param name="Local" value="Interface/IWxAssemblies/IWxAssemblies.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IWxAssemblies.Add">
+    <param name="Name" value="IWxAssemblies.Add">
+    <param name="Local" value="Interface/IWxAssemblies/IWxAssemblies.Add.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Add">
+    <param name="Name" value="IWxAssemblies.Add">
+    <param name="Local" value="Interface/IWxAssemblies/IWxAssemblies.Add.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IWxAssemblies.Clear">
+    <param name="Name" value="IWxAssemblies.Clear">
+    <param name="Local" value="Interface/IWxAssemblies/IWxAssemblies.Clear.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Clear">
+    <param name="Name" value="IWxAssemblies.Clear">
+    <param name="Local" value="Interface/IWxAssemblies/IWxAssemblies.Clear.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IWxAssemblies.Count">
+    <param name="Name" value="IWxAssemblies.Count">
+    <param name="Local" value="Interface/IWxAssemblies/IWxAssemblies.Count.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Count">
+    <param name="Name" value="IWxAssemblies.Count">
+    <param name="Local" value="Interface/IWxAssemblies/IWxAssemblies.Count.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IWxAssemblies.Edit">
+    <param name="Name" value="IWxAssemblies.Edit">
+    <param name="Local" value="Interface/IWxAssemblies/IWxAssemblies.Edit.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Edit">
+    <param name="Name" value="IWxAssemblies.Edit">
+    <param name="Local" value="Interface/IWxAssemblies/IWxAssemblies.Edit.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IWxAssemblies.EventsAssembly">
+    <param name="Name" value="IWxAssemblies.EventsAssembly">
+    <param name="Local" value="Interface/IWxAssemblies/IWxAssemblies.EventsAssembly.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="EventsAssembly">
+    <param name="Name" value="IWxAssemblies.EventsAssembly">
+    <param name="Local" value="Interface/IWxAssemblies/IWxAssemblies.EventsAssembly.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IWxAssemblies.EventsClass">
+    <param name="Name" value="IWxAssemblies.EventsClass">
+    <param name="Local" value="Interface/IWxAssemblies/IWxAssemblies.EventsClass.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="EventsClass">
+    <param name="Name" value="IWxAssemblies.EventsClass">
+    <param name="Local" value="Interface/IWxAssemblies/IWxAssemblies.EventsClass.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IWxAssemblies.Item">
+    <param name="Name" value="IWxAssemblies.Item">
+    <param name="Local" value="Interface/IWxAssemblies/IWxAssemblies.Item.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Item">
+    <param name="Name" value="IWxAssemblies.Item">
+    <param name="Local" value="Interface/IWxAssemblies/IWxAssemblies.Item.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IWxAssemblies.Remove">
+    <param name="Name" value="IWxAssemblies.Remove">
+    <param name="Local" value="Interface/IWxAssemblies/IWxAssemblies.Remove.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Remove">
+    <param name="Name" value="IWxAssemblies.Remove">
+    <param name="Local" value="Interface/IWxAssemblies/IWxAssemblies.Remove.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IWxAssemblies.Save">
+    <param name="Name" value="IWxAssemblies.Save">
+    <param name="Local" value="Interface/IWxAssemblies/IWxAssemblies.Save.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Save">
+    <param name="Name" value="IWxAssemblies.Save">
+    <param name="Local" value="Interface/IWxAssemblies/IWxAssemblies.Save.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IWxAssemblies.Workspace">
+    <param name="Name" value="IWxAssemblies.Workspace">
+    <param name="Local" value="Interface/IWxAssemblies/IWxAssemblies.Workspace.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Revert">
+    <param name="Name" value="IWxAssemblies.Revert">
+    <param name="Local" value="Interface/IWxAssemblies/IWxAssemblies.Revert.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IWxAssemblies.Revert">
+    <param name="Name" value="IWxAssemblies.Revert">
+    <param name="Local" value="Interface/IWxAssemblies/IWxAssemblies.Revert.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IUiWorkspaceBaseEventArgs.UiWs">
+    <param name="Name" value="IUiWorkspaceBaseEventArgs.UiWs">
+    <param name="Local" value="Interface/IUiWorkspaceBaseEventArgs/IUiWorkspaceBaseEventArgs.UiWs.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="UiWs">
+    <param name="Name" value="IUiWorkspaceBaseEventArgs.UiWs">
+    <param name="Local" value="Interface/IUiWorkspaceBaseEventArgs/IUiWorkspaceBaseEventArgs.UiWs.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IUiWorkspaceBaseEventArgs">
+    <param name="Name" value="IUiWorkspaceBaseEventArgs">
+    <param name="Local" value="Interface/IUiWorkspaceBaseEventArgs/IUiWorkspaceBaseEventArgs.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IUiWorkspaceEventArgs">
+    <param name="Name" value="IUiWorkspaceEventArgs">
+    <param name="Local" value="Interface/IUiWorkspaceEventArgs/IUiWorkspaceEventArgs.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IUiWorkspaceEventArgs.Workspace">
+    <param name="Name" value="IUiWorkspaceEventArgs.Workspace">
+    <param name="Local" value="Interface/IUiWorkspaceEventArgs/IUiWorkspaceEventArgs.Workspace.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IUiWorkspaceCancelEventArgs">
+    <param name="Name" value="IUiWorkspaceCancelEventArgs">
+    <param name="Local" value="Interface/IUiWorkspaceCancelEventArgs/IUiWorkspaceCancelEventArgs.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IUiWorkspaceCancelEventArgs.Cancel">
+    <param name="Name" value="IUiWorkspaceCancelEventArgs.Cancel">
+    <param name="Local" value="Interface/IUiWorkspaceCancelEventArgs/IUiWorkspaceCancelEventArgs.Cancel.htm">
+  </object>
+</ul>
+</html>

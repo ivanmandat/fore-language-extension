@@ -1,0 +1,637 @@
+<html>
+<!-- Sitemap 1.0 -->
+<object type="text/site properties">
+  <param name="SiteType" value="toc">
+  <param name="Image Width" value="16">
+  <param name="Window Styles" value="0x800027">
+  <param name="ExWindow Styles" value="0x100">
+</object>
+<ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Net">
+    <param name="Local" value="ModNet_Title.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Интерфейсы сборки Net">
+      <param name="Local" value="Interface/KeNet_Interface.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="INetAttachment">
+        <param name="Local" value="Interface/INetAttachment/INetAttachment.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="INetAttachment.ContentName">
+          <param name="Local" value="Interface/INetAttachment/INetAttachment.ContentName.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="INetAttachment.ReleaseResource">
+          <param name="Local" value="Interface/INetAttachment/INetAttachment.ReleaseResource.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="INetAttachmentCollection">
+        <param name="Local" value="Interface/INetAttachmentCollection/INetAttachmentCollection.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="INetAttachmentCollection.Add">
+          <param name="Local" value="Interface/INetAttachmentCollection/INetAttachmentCollection.Add.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="INetAttachmentCollection.Contains">
+          <param name="Local" value="Interface/INetAttachmentCollection/INetAttachmentCollection.Contains.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="INetAttachmentCollection.IndexOf">
+          <param name="Local" value="Interface/INetAttachmentCollection/INetAttachmentCollection.IndexOf.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="INetAttachmentCollection.Insert">
+          <param name="Local" value="Interface/INetAttachmentCollection/INetAttachmentCollection.Insert.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="INetAttachmentCollection.Item">
+          <param name="Local" value="Interface/INetAttachmentCollection/INetAttachmentCollection.Item.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="INetAttachmentCollection.Remove">
+          <param name="Local" value="Interface/INetAttachmentCollection/INetAttachmentCollection.Remove.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="INetCollection">
+        <param name="Local" value="Interface/INetCollection/INetCollection.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="INetCollection.Clear">
+          <param name="Local" value="Interface/INetCollection/INetCollection.Clear.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="INetCollection.Count">
+          <param name="Local" value="Interface/INetCollection/INetCollection.Count.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="INetCollection.RemoveAt">
+          <param name="Local" value="Interface/INetCollection/INetCollection.RemoveAt.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="INetCommand">
+        <param name="Local" value="Interface/INetCommand/INetCommand.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="INetCommand.IsReady">
+          <param name="Local" value="Interface/INetCommand/INetCommand.IsReady.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="INetCommand.Result">
+          <param name="Local" value="Interface/INetCommand/INetCommand.Result.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="INetCommand.Start">
+          <param name="Local" value="Interface/INetCommand/INetCommand.Start.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="INetCommand.Stop">
+          <param name="Local" value="Interface/INetCommand/INetCommand.Stop.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="INetCredentialCache">
+        <param name="Local" value="Interface/INetCredentialCache/INetCredentialCache.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="INetCredentialCache.Add">
+          <param name="Local" value="Interface/INetCredentialCache/INetCredentialCache.Add.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="INetCredentialCache.Remove">
+          <param name="Local" value="Interface/INetCredentialCache/INetCredentialCache.Remove.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="INetCredentialsByHost">
+        <param name="Local" value="Interface/INetCredentialsByHost/INetCredentialsByHost.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="INetCredentialsByHost.GetCredential">
+          <param name="Local" value="Interface/INetCredentialsByHost/INetCredentialsByHost.GetCredential.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="INetHttpCommand">
+        <param name="Local" value="Interface/INetHttpCommand/INetHttpCommand.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="INetHttpCommand.AcceptLanguage">
+          <param name="Local" value="Interface/INetHttpCommand/INetHttpCommand.AcceptLanguage.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="INetHttpCommand.Command">
+          <param name="Local" value="Interface/INetHttpCommand/INetHttpCommand.Command.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="INetHttpCommand.ConnectionTimeout">
+          <param name="Local" value="Interface/INetHttpCommand/INetHttpCommand.ConnectionTimeout.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="INetHttpCommand.ContentType">
+          <param name="Local" value="Interface/INetHttpCommand/INetHttpCommand.ContentType.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="INetHttpCommand.Credential">
+          <param name="Local" value="Interface/INetHttpCommand/INetHttpCommand.Credential.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="INetHttpCommand.Headers">
+          <param name="Local" value="Interface/INetHttpCommand/INetHttpCommand.Headers.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="INetHttpCommand.OuterBody">
+          <param name="Local" value="Interface/INetHttpCommand/INetHttpCommand.OuterBody.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="INetHttpCommand.SOAPAction">
+          <param name="Local" value="Interface/INetHttpCommand/INetHttpCommand.SOAPAction.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="INetHttpCommand.Timeout">
+          <param name="Local" value="Interface/INetHttpCommand/INetHttpCommand.Timeout.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="INetHttpCommandCredential">
+        <param name="Local" value="Interface/INetHttpCommandCredential/INetHttpCommandCredential.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="INetHttpCommandCredential.Method">
+          <param name="Local" value="Interface/INetHttpCommandCredential/INetHttpCommandCredential.Method.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="INetHttpCommandCredential.Password">
+          <param name="Local" value="Interface/INetHttpCommandCredential/INetHttpCommandCredential.Password.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="INetHttpCommandCredential.User">
+          <param name="Local" value="Interface/INetHttpCommandCredential/INetHttpCommandCredential.User.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="INetHttpService">
+        <param name="Local" value="Interface/INetHttpService/INetHttpService.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="INetHttpService.Url">
+          <param name="Local" value="Interface/INetHttpService/INetHttpService.Url.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="INetMailAddress">
+        <param name="Local" value="Interface/INetMailAddress/INetMailAddress.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="INetMailAddress.Address">
+          <param name="Local" value="Interface/INetMailAddress/INetMailAddress.Address.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="INetMailAddress.DisplayName">
+          <param name="Local" value="Interface/INetMailAddress/INetMailAddress.DisplayName.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="INetMailAddress.Host">
+          <param name="Local" value="Interface/INetMailAddress/INetMailAddress.Host.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="INetMailAddress.User">
+          <param name="Local" value="Interface/INetMailAddress/INetMailAddress.User.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="INetMailAddressCollection">
+        <param name="Local" value="Interface/INetMailAddressCollection/INetMailAddressCollection.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="INetMailAddressCollection.Add">
+          <param name="Local" value="Interface/INetMailAddressCollection/INetMailAddressCollection.Add.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="INetMailAddressCollection.AddString">
+          <param name="Local" value="Interface/INetMailAddressCollection/INetMailAddressCollection.AddString.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="INetMailAddressCollection.Contains">
+          <param name="Local" value="Interface/INetMailAddressCollection/INetMailAddressCollection.Contains.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="INetMailAddressCollection.IndexOf">
+          <param name="Local" value="Interface/INetMailAddressCollection/INetMailAddressCollection.IndexOf.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="INetMailAddressCollection.Insert">
+          <param name="Local" value="Interface/INetMailAddressCollection/INetMailAddressCollection.Insert.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="INetMailAddressCollection.Item">
+          <param name="Local" value="Interface/INetMailAddressCollection/INetMailAddressCollection.Item.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="INetMailAddressCollection.Remove">
+          <param name="Local" value="Interface/INetMailAddressCollection/INetMailAddressCollection.Remove.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="INetMailAddressCollection.ToString">
+          <param name="Local" value="Interface/INetMailAddressCollection/INetMailAddressCollection.ToString.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="INetMailMessage">
+        <param name="Local" value="Interface/INetMailMessage/INetMailMessage.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="INetMailMessage.Attachments">
+          <param name="Local" value="Interface/INetMailMessage/INetMailMessage.Attachments.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="INetMailMessage.Bcc">
+          <param name="Local" value="Interface/INetMailMessage/INetMailMessage.Bcc.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="INetMailMessage.Body">
+          <param name="Local" value="Interface/INetMailMessage/INetMailMessage.Body.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="INetMailMessage.BodyEncoding">
+          <param name="Local" value="Interface/INetMailMessage/INetMailMessage.BodyEncoding.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="INetMailMessage.CC">
+          <param name="Local" value="Interface/INetMailMessage/INetMailMessage.CC.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="INetMailMessage.From_">
+          <param name="Local" value="Interface/INetMailMessage/INetMailMessage.From_.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="INetMailMessage.IsBodyHtml">
+          <param name="Local" value="Interface/INetMailMessage/INetMailMessage.IsBodyHtml.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="INetMailMessage.Priority">
+          <param name="Local" value="Interface/INetMailMessage/INetMailMessage.Priority.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="INetMailMessage.ReplyTo">
+          <param name="Local" value="Interface/INetMailMessage/INetMailMessage.ReplyTo.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="INetMailMessage.Sender">
+          <param name="Local" value="Interface/INetMailMessage/INetMailMessage.Sender.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="INetMailMessage.Subject">
+          <param name="Local" value="Interface/INetMailMessage/INetMailMessage.Subject.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="INetMailMessage.SubjectEncoding">
+          <param name="Local" value="Interface/INetMailMessage/INetMailMessage.SubjectEncoding.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="INetMailMessage.To_">
+          <param name="Local" value="Interface/INetMailMessage/INetMailMessage.To_.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="INetNetworkCredential">
+        <param name="Local" value="Interface/INetNetworkCredential/INetNetworkCredential.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="INetNetworkCredential.CreateWithUserPassword">
+          <param name="Local" value="Interface/INetNetworkCredential/INetNetworkCredential.CreateWithUserPassword.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="INetNetworkCredential.Domain">
+          <param name="Local" value="Interface/INetNetworkCredential/INetNetworkCredential.Domain.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="INetNetworkCredential.Password">
+          <param name="Local" value="Interface/INetNetworkCredential/INetNetworkCredential.Password.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="INetNetworkCredential.UserName">
+          <param name="Local" value="Interface/INetNetworkCredential/INetNetworkCredential.UserName.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="INetService">
+        <param name="Local" value="Interface/INetService/INetService.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="INetService.Connect">
+          <param name="Local" value="Interface/INetService/INetService.Connect.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="INetServiceProxy">
+        <param name="Local" value="Interface/INetServiceProxy/INetServiceProxy.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="INetServiceProxy.Active">
+          <param name="Local" value="Interface/INetServiceProxy/INetServiceProxy.Active.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="INetServiceProxy.Address">
+          <param name="Local" value="Interface/INetServiceProxy/INetServiceProxy.Address.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="INetServiceProxy.ConnectionString">
+          <param name="Local" value="Interface/INetServiceProxy/INetServiceProxy.ConnectionString.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="INetServiceProxy.Integrated">
+          <param name="Local" value="Interface/INetServiceProxy/INetServiceProxy.Integrated.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="INetServiceProxy.NeedAuthentication">
+          <param name="Local" value="Interface/INetServiceProxy/INetServiceProxy.NeedAuthentication.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="INetServiceProxy.NoProxyString">
+          <param name="Local" value="Interface/INetServiceProxy/INetServiceProxy.NoProxyString.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="INetServiceProxy.NoProxyStringOriginal">
+          <param name="Local" value="Interface/INetServiceProxy/INetServiceProxy.NoProxyStringOriginal.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="INetServiceProxy.Password">
+          <param name="Local" value="Interface/INetServiceProxy/INetServiceProxy.Password.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="INetServiceProxy.Port">
+          <param name="Local" value="Interface/INetServiceProxy/INetServiceProxy.Port.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="INetServiceProxy.Save">
+          <param name="Local" value="Interface/INetServiceProxy/INetServiceProxy.Save.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="INetServiceProxy.User">
+          <param name="Local" value="Interface/INetServiceProxy/INetServiceProxy.User.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="INetSmtpClient">
+        <param name="Local" value="Interface/INetSmtpClient/INetSmtpClient.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="INetSmtpClient.Credentials">
+          <param name="Local" value="Interface/INetSmtpClient/INetSmtpClient.Credentials.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="INetSmtpClient.EnableSsl">
+          <param name="Local" value="Interface/INetSmtpClient/INetSmtpClient.EnableSsl.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="INetSmtpClient.Host">
+          <param name="Local" value="Interface/INetSmtpClient/INetSmtpClient.Host.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="INetSmtpClient.Port">
+          <param name="Local" value="Interface/INetSmtpClient/INetSmtpClient.Port.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="INetSmtpClient.Send">
+          <param name="Local" value="Interface/INetSmtpClient/INetSmtpClient.Send.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="INetSmtpClient.ThisHostCredentials">
+          <param name="Local" value="Interface/INetSmtpClient/INetSmtpClient.ThisHostCredentials.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="INetSmtpClient.Timeout">
+          <param name="Local" value="Interface/INetSmtpClient/INetSmtpClient.Timeout.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="INetSmtpClient.UseDefaultCredentials">
+          <param name="Local" value="Interface/INetSmtpClient/INetSmtpClient.UseDefaultCredentials.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Перечисления сборки Net">
+      <param name="Local" value="Enums/KeNet_Enums.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="NetHttpCommandAuthentication">
+        <param name="Local" value="Enums/NetHttpCommandAuthentication.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="NetHttpCommandType">
+        <param name="Local" value="Enums/NetHttpCommandType.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="NetMailPriority">
+        <param name="Local" value="Enums/NetMailPriority.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Классы сборки Net">
+      <param name="Local" value="Class/KeNet_Classes.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="CurlAttachment">
+        <param name="Local" value="Class/CurlAttachment/CurlAttachment.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="CurlAttachment.Create">
+          <param name="Local" value="Class/CurlAttachment/CurlAttachment.Create.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="CurlCredentialCache">
+        <param name="Local" value="Class/CurlCredentialCache/CurlCredentialCache.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="CurlMailAddress">
+        <param name="Local" value="Class/CurlMailAddress/CurlMailAddress.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="CurlMailAddress.Create">
+          <param name="Local" value="Class/CurlMailAddress/CurlMailAddress.Create.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="CurlMailAddress.CreateWithName">
+          <param name="Local" value="Class/CurlMailAddress/CurlMailAddress.CreateWithName.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="CurlMailMessage">
+        <param name="Local" value="Class/CurlMailMessage/CurlMailMessage.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="CurlMailMessage.CreateWithFromAndTo">
+          <param name="Local" value="Class/CurlMailMessage/CurlMailMessage.CreateWithFromAndTo.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="CurlNetworkCredential">
+        <param name="Local" value="Class/CurlNetworkCredential/CurlNetworkCredential.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="CurlNetworkCredential.Create">
+          <param name="Local" value="Class/CurlNetworkCredential/CurlNetworkCredential.Create.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="CurlSmtpClient">
+        <param name="Local" value="Class/CurlSmtpClient/CurlSmtpClient.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="CurlSmtpClient.CreateWithHost">
+          <param name="Local" value="Class/CurlSmtpClient/CurlSmtpClient.CreateWithHost.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="CurlSmtpClient.CreateWithHostAndPort">
+          <param name="Local" value="Class/CurlSmtpClient/CurlSmtpClient.CreateWithHostAndPort.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="NetHttpService">
+        <param name="Local" value="Class/NetHttpService/NetHttpService.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="NetServiceProxy">
+        <param name="Local" value="Class/NetServiceProxy/NetServiceProxy.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Примеры">
+      <param name="Local" value="Samples/Samples.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Отправка писем через различные SMTP-клиенты">
+        <param name="Local" value="Samples/SMTP_Client_Send_MailMessage.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      </ul>
+    </ul>
+</ul>
+</html>

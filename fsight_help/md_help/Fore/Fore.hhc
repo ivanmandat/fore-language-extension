@@ -1,0 +1,701 @@
+<html>
+<!-- Sitemap 1.0 -->
+<object type="text/site properties">
+  <param name="SiteType" value="toc">
+  <param name="Image Width" value="16">
+  <param name="Window Styles" value="0x800027">
+  <param name="ExWindow Styles" value="0x100">
+</object>
+<ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Руководство по языку Fore">
+    <param name="Local" value="Fore_Title.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Комментарии">
+      <param name="Local" value="01_Dictionary/Fore_Coment.htm">
+      <param name="ImageNumber" value="11">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Константы">
+      <param name="Local" value="02_GeneralInfo/Fore_GenIng_Const.htm">
+      <param name="ImageNumber" value="11">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Переменные">
+      <param name="Local" value="02_GeneralInfo/Fore_GenInf_Vars.htm">
+      <param name="ImageNumber" value="11">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Область видимости">
+      <param name="Local" value="06_SyntRules/Fore_Synt_Visible.htm">
+      <param name="ImageNumber" value="11">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Типы данных">
+      <param name="Local" value="03_dataTypes/Fore_DataTypes.htm">
+      <param name="ImageNumber" value="11">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Преобразования типов">
+      <param name="Local" value="07_Operations/Operations_of_the_creation_object.htm">
+      <param name="ImageNumber" value="11">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Унарные операции">
+      <param name="Local" value="07_Operations/Unary_operations.htm">
+      <param name="ImageNumber" value="11">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Арифметические операции">
+      <param name="Local" value="07_Operations/Arithmetical_operations.htm">
+      <param name="ImageNumber" value="11">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Операции отношения">
+      <param name="Local" value="07_Operations/Operations_relations.htm">
+      <param name="ImageNumber" value="11">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Логические операции">
+      <param name="Local" value="07_Operations/Logical_operations.htm">
+      <param name="ImageNumber" value="11">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Условные операторы">
+      <param name="Local" value="08_Operators/Fore_If.htm">
+      <param name="ImageNumber" value="11">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Циклические операторы">
+      <param name="Local" value="08_Operators/Fore_For.htm">
+      <param name="ImageNumber" value="11">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Операторы перехода">
+      <param name="Local" value="08_Operators/Fore_Break.htm">
+      <param name="ImageNumber" value="11">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Оператор With">
+      <param name="Local" value="08_Operators/Fore_With.htm">
+      <param name="ImageNumber" value="11">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Оператор Comimport">
+      <param name="Local" value="06_SyntRules/Fore_Comimport.htm">
+      <param name="ImageNumber" value="11">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Оператор Pyimport">
+      <param name="Local" value="08_Operators/Pyimport.htm">
+      <param name="ImageNumber" value="11">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Оператор Dispose">
+      <param name="Local" value="08_Operators/fore_dispose.htm">
+      <param name="ImageNumber" value="11">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Пространства имён">
+      <param name="Local" value="06_SyntRules/Fore_Namespace.htm">
+      <param name="ImageNumber" value="11">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Процедуры и функции">
+      <param name="Local" value="06_SyntRules/Fore_Synt_ProcAndFunc.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Формальные параметры">
+        <param name="Local" value="06_SyntRules/Fore_FormalParams.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Классы и объекты">
+      <param name="Local" value="02_GeneralInfo/Fore_ClassesAndObjects.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Конструкторы">
+        <param name="Local" value="05_Classes/NewObject.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Свойства">
+        <param name="Local" value="06_SyntRules/Description_Property.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Делегаты и события">
+        <param name="Local" value="06_SyntRules/Fore_Deleg.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Интерфейсы">
+      <param name="Local" value="06_SyntRules/Fore_Interfaces.htm">
+      <param name="ImageNumber" value="11">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Перечисления">
+      <param name="Local" value="06_SyntRules/Fore_Enums.htm">
+      <param name="ImageNumber" value="11">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Массивы">
+      <param name="Local" value="06_SyntRules/Fore_SyntArrays.htm">
+      <param name="ImageNumber" value="11">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Сообщения компилятора Fore">
+      <param name="Local" value="11_Compiler_Errors/compiler_errors.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Предупреждение: Переменная/Константа &lt;наименование&gt; не используется">
+        <param name="Local" value="11_Compiler_Errors/msghint_31501.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Информация: Свойство/метод &lt;имяЧлена&gt; является устаревшим">
+        <param name="Local" value="11_Compiler_Errors/msgwarning_31403.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Ошибка: Компиляция сборки 'идентификатор сборки' завершилась с ошибкой">
+        <param name="Local" value="11_Compiler_Errors/sysmsgerror_errorcompilation.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Ошибка: Ожидается выражение">
+        <param name="Local" value="11_Compiler_Errors/msgerror_1005.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Ошибка: Константное выражение должно быть не меньше &lt;значение&gt;">
+        <param name="Local" value="11_Compiler_Errors/msgerror_1006.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Ошибка: Выражение не может быть присвоено списку переменных">
+        <param name="Local" value="11_Compiler_Errors/msgerror_1007.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Ошибка: Объект класса &lt;имяКласса1&gt; не может быть приведен к классу &lt;имяКласса2&gt;">
+        <param name="Local" value="11_Compiler_Errors/MsgError_1008.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Ошибка: Операция &lt;имяОперации&gt; недопустима для операнда типа &lt;имяТипа&gt;">
+        <param name="Local" value="11_Compiler_Errors/msgerror_1009.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Ошибка: По левую сторону от . должен быть объект, класс, перечисление или модуль">
+        <param name="Local" value="11_Compiler_Errors/msgerror_1010.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Ошибка: &lt;имяТипа&gt; не является классом или перечислением, либо в описании используется директива private">
+        <param name="Local" value="11_Compiler_Errors/msgerror_1012.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Ошибка: Метод, реализующий индексированное свойство не может содержать параметры, передаваемые по ссылке">
+        <param name="Local" value="11_Compiler_Errors/MsgError_1013.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Ошибка: Параметр &lt;имяПараметра&gt; уже встречался в списке">
+        <param name="Local" value="11_Compiler_Errors/msgerror_1017.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Ошибка: Для данного объекта класса &lt;имяКласса&gt; отсутствует свойство 'по умолчанию'">
+        <param name="Local" value="11_Compiler_Errors/msgerror_1019.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Ошибка: Индексированному свойству нельзя ставить в соответствие поля">
+        <param name="Local" value="11_Compiler_Errors/msgerror_1020.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Ошибка: Интерфейс может наследоваться только от интерфейса">
+        <param name="Local" value="11_Compiler_Errors/msgerror_1021.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Ошибка: Интерфейс &lt;имяИнтерфейса&gt; не определен">
+        <param name="Local" value="11_Compiler_Errors/msgerror_1022.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Ошибка: Класс не может наследоваться от интерфейса">
+        <param name="Local" value="11_Compiler_Errors/MsgError_1023.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Ошибка: Константа типа &lt;типДанных&gt; вышла за пределы допустимых значений">
+        <param name="Local" value="11_Compiler_Errors/MsgError_1024.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Ошибка: Конструктор с именем &lt;имяКонструктора&gt; не найден">
+        <param name="Local" value="11_Compiler_Errors/msgerror_1025.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Ошибка: Метод &lt;имяМетода&gt; должен содержать &lt;количествоПараметров&gt; параметр(а,ов)">
+        <param name="Local" value="11_Compiler_Errors/msgerror_1026.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Ошибка: Нельзя вызвать нестатический метод из статического">
+        <param name="Local" value="11_Compiler_Errors/msgerror_1027.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Ошибка: Тип параметра &lt;имяПараметра&gt; метода &lt;имяМетода&gt; не совместим с типом индекса &lt;индекс&gt; свойства &lt;имяСвойства&gt;">
+        <param name="Local" value="11_Compiler_Errors/MsgError_1028.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Ошибка: Тип параметра &lt;имяПараметра&gt; метода &lt;имяМетода&gt; не совместим с типом свойства &lt;имяСвойства&gt;">
+        <param name="Local" value="11_Compiler_Errors/msgerror_1029.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Ошибка: В классе может быть только одно свойство 'по умолчанию'">
+        <param name="Local" value="11_Compiler_Errors/msgerror_1030.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Ошибка: Типы &lt;имяТипа1&gt; и &lt;имяТипа2&gt; не совместимы">
+        <param name="Local" value="11_Compiler_Errors/MsgError_1033.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Ошибка: Не удалось загрузить библиотеку &lt;имяБиблиотеки&gt;. Текст ошибки: &lt;ошибка&gt;">
+        <param name="Local" value="11_Compiler_Errors/MsgError_1034.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Ошибка: Ожидается константное выражение">
+        <param name="Local" value="11_Compiler_Errors/msgerror_1035.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Ошибка: Ожидается выражение простого типа">
+        <param name="Local" value="11_Compiler_Errors/msgerror_1036.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Ошибка: Операция &lt;имяОперации&gt; недопустима для операндов типа &lt;имяТипа1&gt; и типа &lt;имяТипа2&gt;">
+        <param name="Local" value="11_Compiler_Errors/msgerror_1037.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Ошибка: &lt;имяТипа&gt; не является подпрограммой">
+        <param name="Local" value="11_Compiler_Errors/MsgError_1038.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Ошибка: Недопустимое использование inherited вне тела нестатического метода">
+        <param name="Local" value="11_Compiler_Errors/msgerror_1039.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Ошибка: Метод &lt;имяМетода&gt; в базовом классе не найден">
+        <param name="Local" value="11_Compiler_Errors/msgerror_1040.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Ошибка: Переопределение метода с директивой Final недопустимо">
+        <param name="Local" value="11_Compiler_Errors/msgerror_1041.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Ошибка: Для параметра по ссылке ожидается поле или переменная типа &lt;тип&gt;">
+        <param name="Local" value="11_Compiler_Errors/msgerror_1042.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Ошибка: Недопустимое использование оператора &lt;оператор&gt; в блоке finally">
+        <param name="Local" value="11_Compiler_Errors/MsgError_1043.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Ошибка: Недопустимое использование оператора &lt;оператор&gt; вне цикла">
+        <param name="Local" value="11_Compiler_Errors/MsgError_1044.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Ошибка: Недопустимое использование свойства, доступного только для записи">
+        <param name="Local" value="11_Compiler_Errors/msgerror_1045.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Ошибка: Недопустимое использование счетчика цикла &lt;имяПеременной&gt;">
+        <param name="Local" value="11_Compiler_Errors/msgerror_1046.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Ошибка: Левая часть оператора := не допускает присваивания">
+        <param name="Local" value="11_Compiler_Errors/MsgError_1048.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Ошибка: Директива &lt;имяДирективы&gt; недопустима для &lt;имяЧлена&gt;">
+        <param name="Local" value="11_Compiler_Errors/msgerror_1049.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Ошибка: Неизвестный идентификатор &lt;идентификатор&gt;">
+        <param name="Local" value="11_Compiler_Errors/msgerror_1051.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Ошибка: Нельзя наследовать от класса &lt;имяКласса&gt;">
+        <param name="Local" value="11_Compiler_Errors/msgerror_1056.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Ошибка: Метод &lt;имяМетода&gt; интерфейса &lt;имяИнтерфейса&gt; не реализован">
+        <param name="Local" value="11_Compiler_Errors/msgerror_1057.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Ошибка: Ожидается определение блока модуля">
+        <param name="Local" value="11_Compiler_Errors/MsgError_1058.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Ошибка: Ожидается get или set">
+        <param name="Local" value="11_Compiler_Errors/msgerror_1059.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Ошибка: Ожидается выражение логического типа">
+        <param name="Local" value="11_Compiler_Errors/msgerror_1060.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Ошибка: Ожидается выражение целого типа">
+        <param name="Local" value="11_Compiler_Errors/msgerror_1061.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Ошибка: Ожидается идентификатор &lt;идентификатор&gt;">
+        <param name="Local" value="11_Compiler_Errors/msgerror_1062.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Ошибка: Ожидается имя класса">
+        <param name="Local" value="11_Compiler_Errors/MsgError_1063.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Ошибка: После &lt;спецификаторДоступа&gt; ожидается идентификатор поля или метода">
+        <param name="Local" value="11_Compiler_Errors/MsgError_1064.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Ошибка: После set ожидается идентификатор процедуры">
+        <param name="Local" value="11_Compiler_Errors/msgerror_1065.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Ошибка: Ожидается идентификатор">
+        <param name="Local" value="11_Compiler_Errors/msgerror_1066.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Ошибка: Ожидается ключевое слово &lt;ключевоеСлово&gt;">
+        <param name="Local" value="11_Compiler_Errors/msgerror_1067.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Ошибка: В качестве счетчика цикла ожидается локальная переменная">
+        <param name="Local" value="11_Compiler_Errors/MsgError_1068.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Ошибка: Ожидается оператор">
+        <param name="Local" value="11_Compiler_Errors/MsgError_1069.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Ошибка: Ожидается переменная типа &lt;тип&gt;">
+        <param name="Local" value="11_Compiler_Errors/msgerror_1072.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Ошибка: Ожидается символ 'символ'">
+        <param name="Local" value="11_Compiler_Errors/MsgError_1073.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Ошибка: Ожидается строка с GUID библиотеки">
+        <param name="Local" value="11_Compiler_Errors/msgerror_1075.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Ошибка: Оператор new недопустим для интерфейсов">
+        <param name="Local" value="11_Compiler_Errors/msgerror_1076.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Ошибка: Оператор new недопустим для простых типов">
+        <param name="Local" value="11_Compiler_Errors/msgerror_1077.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Ошибка: Определение процедуры &lt;имяЧлена&gt; в классе &lt;имяКласса1&gt; отличается от предыдущего">
+        <param name="Local" value="11_Compiler_Errors/MsgError_1078.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Ошибка: Определены не все обязательные индексы при записи свойства &lt;имяСвойства&gt;">
+        <param name="Local" value="11_Compiler_Errors/msgerror_1079.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Ошибка: В методе &lt;имяМетода&gt; отсутствует параметр с именем &lt;имяПараметра&gt;">
+        <param name="Local" value="11_Compiler_Errors/msgerror_1080.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Ошибка: Параметр, передаваемый по ссылке, не может иметь значения по умолчанию">
+        <param name="Local" value="11_Compiler_Errors/msgerror_1082.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Ошибка: Повторное определение идентификатора">
+        <param name="Local" value="11_Compiler_Errors/MsgError_1083.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Ошибка: Из статического метода нельзя обратиться к нестатическому полю">
+        <param name="Local" value="11_Compiler_Errors/MsgError_1084.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Ошибка: Свойство &lt;имяСвойства&gt; доступно только для чтения">
+        <param name="Local" value="11_Compiler_Errors/msgerror_1087.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Ошибка: Определены не все обязательные параметры &lt;метод&gt; &lt;имя&gt;">
+        <param name="Local" value="11_Compiler_Errors/msgerror_1091.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Ошибка: Многострочный комментарий не завершен. Ожидается символ }">
+        <param name="Local" value="11_Compiler_Errors/MsgError_1093.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Ошибка: Неоконченная строка. Ожидается символ &lt;&quot;&gt;">
+        <param name="Local" value="11_Compiler_Errors/MsgError_1094.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Ошибка: Синтаксическая ошибка в символьной константе">
+        <param name="Local" value="11_Compiler_Errors/msgerror_1095.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Ошибка: Идентификатор превышает максимальную допустимую длину 255 символов">
+        <param name="Local" value="11_Compiler_Errors/msgerror_1097.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Ошибка: Недопустимая директива default для неиндексированного свойства">
+        <param name="Local" value="11_Compiler_Errors/MsgError_1098.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Ошибка: Избыточное количество индексов">
+        <param name="Local" value="11_Compiler_Errors/msgerror_1101.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Ошибка: Несовместимые размерности массивов">
+        <param name="Local" value="11_Compiler_Errors/msgerror_1102.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Ошибка: Перечисление должно содержать определение хотя бы одной константы">
+        <param name="Local" value="11_Compiler_Errors/msgerror_1105.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Ошибка: Недопустимое сочетание статических и нестатических членов класса">
+        <param name="Local" value="11_Compiler_Errors/msgerror_1107.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Ошибка: Сборка &lt;имяСборки1&gt; подключается циклически: &lt;имяСборки1&gt;-&lt;имяСборки2&gt;-&lt;имяСборки1&gt;">
+        <param name="Local" value="11_Compiler_Errors/msgerror_1109.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Ошибка: Слишком много методов в импортируемом интерфейсе">
+        <param name="Local" value="11_Compiler_Errors/msgerror_1110.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Ошибка: Недопустимый тип &lt;имяТипа&gt;">
+        <param name="Local" value="11_Compiler_Errors/msgerror_1113.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Ошибка: Оператор new[] допустим только для простых типов">
+        <param name="Local" value="11_Compiler_Errors/MsgError_1114.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Ошибка: Тип &lt;имяТипа&gt; не поддерживается оператором For Each">
+        <param name="Local" value="11_Compiler_Errors/msgerror_1116.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Ошибка: Ожидается имя делегата">
+        <param name="Local" value="11_Compiler_Errors/msgerror_1118.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Ошибка: Недопустимое использование делегата">
+        <param name="Local" value="11_Compiler_Errors/msgerror_1119.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Ошибка: Делегат ссылается на метод, не принадлежащий классу">
+        <param name="Local" value="11_Compiler_Errors/MsgError_1120.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Ошибка: Встретился недопустимый символ &lt;символ&gt;">
+        <param name="Local" value="11_Compiler_Errors/msgerror_1122.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Ошибка: Недопустимая директива default для статического свойства">
+        <param name="Local" value="11_Compiler_Errors/msgerror_1123.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Ошибка: Повторное определение константы">
+        <param name="Local" value="11_Compiler_Errors/MsgError_1124.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Ошибка: Ожидается определение метода, поля или свойства класса">
+        <param name="Local" value="11_Compiler_Errors/msgerror_1130.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Ошибка: Идентификатор &lt;идентификатор&gt; встречается в сборках &lt;имяСборки1&gt; и &lt;имяСборки2&gt;">
+        <param name="Local" value="11_Compiler_Errors/msgerror_1131.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Ошибка: Типом параметра ParamArray должен быть указан массив без указания размера">
+        <param name="Local" value="11_Compiler_Errors/msgerror_1132.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Ошибка: Параметр ParamArray не может быть использован в качестве именованного">
+        <param name="Local" value="11_Compiler_Errors/msgerror_1133.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Ошибка: Блок Imports должен предшествовать всем другим блокам">
+        <param name="Local" value="11_Compiler_Errors/MsgError_1134.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Ошибка: &lt;имяТипа&gt; не является пространством имен">
+        <param name="Local" value="11_Compiler_Errors/msgerror_1136.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Ошибка: Операторы для пользовательских классов не поддерживаются">
+        <param name="Local" value="11_Compiler_Errors/msgerror_1138.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Ошибка: Пользовательский интерфейс не может наследоваться от системного интерфейса">
+        <param name="Local" value="11_Compiler_Errors/msgerror_1139.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Ошибка: В теле функции не найден оператор return">
+        <param name="Local" value="11_Compiler_Errors/msgerror_1140.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Ошибка: Определение процедуры в классе отличается от определения события в классе">
+        <param name="Local" value="11_Compiler_Errors/msgerror_1141.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Ошибка: Используется циклическое наследование класса &lt;имяКласса&gt; от самого себя">
+        <param name="Local" value="11_Compiler_Errors/msgerror_1142.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Ошибка: Недопустимое переопределение метода в интерфейсе">
+        <param name="Local" value="11_Compiler_Errors/MsgError_1144.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Ошибка: Недоступно для использования в веб">
+        <param name="Local" value="11_Compiler_Errors/msgerror_1145.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Ошибка: В сборке &lt;имяСборки&gt; используется модуль с именем системного модуля &lt;имяСистемнойСборки&gt;">
+        <param name="Local" value="11_Compiler_Errors/msgerror_1146.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Ошибка: Ожидается определение метода или свойства интерфейса">
+        <param name="Local" value="11_Compiler_Errors/msgerror_1147.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Ошибка: После get ожидается идентификатор функции">
+        <param name="Local" value="11_Compiler_Errors/msgerror_1148.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Ошибка: Определены не все обязательные индексы при чтении свойства &lt;имяСвойства&gt;">
+        <param name="Local" value="11_Compiler_Errors/msgerror_1149.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Ошибка: Метод &lt;имяМетода&gt; не может содержать параметры, передаваемые по ссылке">
+        <param name="Local" value="11_Compiler_Errors/MsgError_1152.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Исключительные ситуации">
+      <param name="Local" value="10_Processing_Exceptions/processing_the_exceptions.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Системные классы исключительных ситуаций">
+        <param name="Local" value="10_Processing_Exceptions/built_in_classes_of_the_exceptions.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      </ul>
+    </ul>
+</ul>
+</html>

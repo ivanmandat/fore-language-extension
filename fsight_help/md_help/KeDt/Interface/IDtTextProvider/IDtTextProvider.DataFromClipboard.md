@@ -1,0 +1,164 @@
+﻿# IDtTextProvider.DataFromClipboard
+
+IDtTextProvider.DataFromClipboard
+-
+
+
+# IDtTextProvider.DataFromClipboard
+
+
+## Синтаксис
+
+
+DataFromClipboard: Boolean;
+
+
+## Описание
+
+
+Свойство DataFromClipboard определяет,
+ использовать ли буфер обмена в качестве источника данных для импорта.
+
+
+## Комментарии
+
+
+Допустимые значения:
+
+
+	- True. Буфер обмена служит
+	 источником данных для импорта;
+
+
+	- False. Буфер обмена
+	 не используется как источник данных.
+
+
+## Пример
+
+
+Для выполнения примера предполагается наличие базы данных временных
+ рядов с идентификатором OBJ_RUBRICATOR.
+
+
+	Sub UserProc;
+
+	Var
+
+	    TextProvider: IDtTextProvider;
+
+	    Provider: IDatasetDataProvider;
+
+	    Mb: IMetabase;
+
+	    RubDesc: IMetabaseObjectDescriptor;
+
+	    CrInfo: IMetabaseObjectCreateInfo;
+
+	    Obj: IMetabaseObject;
+
+	    ObjDesc: IMetabaseObjectDescriptor;
+
+	    ImportRequestDef: IImportRequestDefinition;
+
+	    ImportRequestProviderParams: IImportRequestProviderParams;
+
+	    Binding: ICubeMetaLoaderBinding;
+
+	Begin
+
+	    // Источник данных для импорта из буфера обмена
+
+	    TextProvider := New DtTextProvider.Create;
+
+	    TextProvider.DataFromClipboard := True;
+
+	    TextProvider.FormatType := DtTextFormatType.Delimited;
+
+	    TextProvider.DelimitedColumnDelimiter := ";";
+
+	    TextProvider.DelimitedTextQualifier := """";
+
+	    TextProvider.Encoding := "WIN";
+
+	    TextProvider.RangeHasHeader := True;
+
+	    TextProvider.Open;
+
+	    Mb := MetabaseClass.Active;
+
+	    RubDesc := Mb.ItemById("OBJ_RUBRICATOR");
+
+	    Provider := (TextProvider As IDatasetDataProvider);
+
+	    // Объект импорта
+
+	    CrInfo := Mb.CreateCreateInfo;
+
+	    CrInfo.ClassId := MetabaseObjectClass.KE_CLASS_IMPORTREQUEST;
+
+	    CrInfo.Id := "OBJ_IMPORTREQUEST_P";
+
+	    CrInfo.Name := "Объект импорта";
+
+	    CrInfo.Permanent := True;
+
+	    CrInfo.Parent := RubDesc.Bind;
+
+	    ObjDesc := Mb.CreateObject(CrInfo);
+
+	    Obj := ObjDesc.Edit;
+
+	    // Настройка источника
+
+	    ImportRequestDef := Obj As IImportRequestDefinition;
+
+	    ImportRequestDef.SourceType := ImportRequestSourceType.Provider;
+
+	    ImportRequestDef.DestinationRubricator := RubDesc.Bind As IRubricator;
+
+	    // Параметры импорта
+
+	    ImportRequestProviderParams := ImportRequestDef.ProviderParams;
+
+	    ImportRequestProviderParams.Provider := Provider;
+
+	    ImportRequestProviderParams.NewRevisionName := "Импорт показателей";
+
+	    ImportRequestProviderParams.ImportObjectKey := Obj.Key;
+
+	    ImportRequestProviderParams.LoadType := CubeMetaLoaderLoadType.CreateAndUpdate;
+
+	    Binding := ImportRequestProviderParams.Bindings.Add;
+
+	    Binding.BindingType := CubeMetaLoaderBindingType.Calendar;
+
+	    Binding.CalendarOptions.Levels := DimCalendarLevelSet.Year;
+
+	    Binding.ByColumns := False;
+
+	    Binding.CalendarDateFormat := "$Year$";
+
+	    Obj.Save;
+
+	End Sub UserProc;
+
+
+После выполнения примера в базе данных временных рядов будет создан
+ объект импорта показателей из буфера обмена. В данном объекте будут настроены
+ параметры календаря. При импорте в качестве разделителя полей будет использоваться
+ знак «;», в качестве ограничителя текста - знак двойные кавычки. Подряд
+ идущие разделители будут пропущены. Из второй строки файла будут импортироваться
+ наименования полей.
+
+
+См. также:
+
+
+[IDtTextProvider](IDtTextProvider.htm)
+
+
+		Справочная
+		 система на версию 10.9
+		 от 18/08/2025,
+		 © ООО «ФОРСАЙТ»,

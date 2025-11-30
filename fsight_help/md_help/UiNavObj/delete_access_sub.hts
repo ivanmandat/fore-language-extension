@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="topic-comment" content="" />
+<meta name="generator" content="Adobe RoboHelp 11" />
+<title>delete_access_sub</title>
+</head>
+
+<body>
+<p>Для удаления&#160;выбранного субъекта:</p>
+<ul style="list-style: disc;">
+	<li><p><span>в веб-приложении нажмите кнопку <img src="Table/Work/b_delete_web.png" 
+														 alt="" style="border: none;" 
+														 border="0" />&#160;«</span><span 
+	 style="font-weight: bold;">Удалить</span><span>»;</span></p></li>
+	<li><p>в настольном приложении:</p></li>
+	<ul style="list-style: square;">
+		<li><p>нажмите кнопку «<span style="font-weight: bold;">Удалить</span>»;</p></li>
+		<li><p>выполните команду «<span style="font-weight: bold;">Удалить</span>» 
+		 в контекстном меню субъекта;</p></li>
+		<li><p>нажмите сочетание клавиш CTRL+DELETE.</p></li>
+	</ul>
+</ul>
+<p>Будет запрошено подтверждение о выполняемом действии.</p>
+<p class="Comment"><span style="font-weight: bold;">Примечание</span>. 
+ Рекомендуется не удалять субъекты, а <a href="reference_book/Master_RDS_reference_book/Access_Subjects.htm#replace">заменять</a> 
+ их. Подробное описание приведено в разделе «<span style="font-weight: bold;"><?rh-cbt_start condition="Chm, Public" ?><a 
+	 href="Admin.chm::/03_Admin/Admin_AdminObjects_Marks.htm" style="font-weight: bold;">Метки 
+ безопасности</a><?rh-cbt_end ?><?rh-cbt_start condition="Online, Web" ?><a 
+	 href="../admin/03_admin/admin_adminobjects_marks.htm" style="font-weight: bold;">Метки 
+ безопасности</a><?rh-cbt_end ?></span>».</p>
+</body>
+</html>

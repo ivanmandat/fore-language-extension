@@ -1,0 +1,3195 @@
+<html>
+<!-- Sitemap 1.0 -->
+<object type="text/site properties">
+  <param name="SiteType" value="toc">
+  <param name="Image Width" value="16">
+  <param name="Window Styles" value="0x800007">
+  <param name="ExWindow Styles" value="0x100">
+</object>
+<ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Работа с диаграммами">
+    <param name="Local" value="Classes/Chart/Chart.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Компоненты">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Chart">
+        <param name="Local" value="Components/Chart/Chart.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Пример создания гистограммы">
+          <param name="Local" value="Components/Chart/Chart_Example.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Пример создания диаграммы с областями">
+          <param name="Local" value="Components/Chart/ChartArea_Example.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Пример создания круговой диаграммы">
+          <param name="Local" value="Components/Chart/ChartPie.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Пример создания гистограммы с накоплением">
+          <param name="Local" value="Components/Chart/ChartPoint.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Пример создания сглаженной диаграммы">
+          <param name="Local" value="Components/Chart/ChartSplineSerie.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Пример создания точечной диаграммы">
+          <param name="Local" value="Components/Chart/ChartScatter.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Пример создания линейной диаграммы">
+          <param name="Local" value="Components/Chart/ChartLine.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="ChartMaster">
+        <param name="Local" value="Components/ChartMaster/ChartMaster.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Пример совместного размещения ChartMaster и ChartBox">
+          <param name="Local" value="Components/ChartMaster/ChartMaster_and_ChartBox.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="ParallelCoordinates">
+        <param name="Local" value="Components/ParallelCoordinates/ParallelCoordinates.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Пример создания компонента ParallelCoordinates">
+          <param name="Local" value="Components/ParallelCoordinates/Example_ParallelCoordinates.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="RatingChart">
+        <param name="Local" value="Components/RatingChart/RatingChart.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Пример создания компонента RatingChart">
+          <param name="Local" value="Components/RatingChart/RatingChart_Example.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="TreeGantDiagram">
+        <param name="Local" value="Components/TreeGantDiagram/TreeGantDiagram.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="GantDiagram">
+          <param name="Local" value="Components/GantDiagram/GantDiagram.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Пример создания компонента TreeGantDiagram">
+          <param name="Local" value="Components/TreeGantDiagram/TreeGantExample.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Классы">
+      <param name="Local" value="Classes/Chart/Chart.htm#642b3b9347ca42c9b00b820c00c373fa=1">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Chart">
+        <param name="Local" value="Classes/Chart/Chart/Chart.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Конструктор Chart">
+          <param name="Local" value="Classes/Chart/Chart/Constructor_Chart.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Chart.addSerie">
+          <param name="Local" value="Classes/Chart/Chart/Chart.addSerie.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Chart.AutoRotateMarker">
+          <param name="Local" value="Classes/Chart/Chart/Chart.AutoRotateMarker.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Chart.BackgroundColor">
+          <param name="Local" value="Classes/Chart/Chart/Chart.BackgroundColor.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Chart.beginUpdate">
+          <param name="Local" value="Classes/Chart/Chart/Chart.beginUpdate.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Chart.BorderColor">
+          <param name="Local" value="Classes/Chart/Chart/Chart.BorderColor.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Chart.BorderEnabled">
+          <param name="Local" value="Classes/Chart/Chart/Chart.BorderEnabled.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Chart.BorderStyle">
+          <param name="Local" value="Classes/Chart/Chart/Chart.BorderStyle.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Chart.BorderWidth">
+          <param name="Local" value="Classes/Chart/Chart/Chart.BorderWidth.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Chart.Center">
+          <param name="Local" value="Classes/Chart/Chart/Chart.Center.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Chart.CircleSize">
+          <param name="Local" value="Classes/Chart/Chart/Chart.CircleSize.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Chart.CircleSizeInPercent">
+          <param name="Local" value="Classes/Chart/Chart/Chart.CircleSizeInPercent.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Chart.CustomData">
+          <param name="Local" value="Classes/Chart/Chart/Chart.CustomData.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Chart.Deep">
+          <param name="Local" value="Classes/Chart/Chart/Chart.Deep.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Chart.Deselected">
+          <param name="Local" value="Classes/Chart/Chart/Chart.Deselected.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Chart.destroy">
+          <param name="Local" value="Classes/Chart/Chart/Chart.destroy.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Chart.Draggable">
+          <param name="Local" value="Classes/Chart/Chart/Chart.Draggable.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Chart.EditMode">
+          <param name="Local" value="Classes/Chart/Chart/Chart.EditMode.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Chart.endUpdate">
+          <param name="Local" value="Classes/Chart/Chart/Chart.endUpdate.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Chart.ExcludeInvisibleSeries">
+          <param name="Local" value="Classes/Chart/Chart/Chart.ExcludeInvisibleSeries.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Chart.getChartBounds">
+          <param name="Local" value="Classes/Chart/Chart/Chart.getChartBounds.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Chart.getColumnSeriesCount">
+          <param name="Local" value="Classes/Chart/Chart/Chart.getColumnSeriesCount.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Chart.getForecastRange">
+          <param name="Local" value="Classes/Chart/Chart/Chart.getForecastRange.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Chart.getFreeArea">
+          <param name="Local" value="Classes/Chart/Chart/Chart.getFreeArea.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Chart.getIsCartesianChart">
+          <param name="Local" value="Classes/Chart/Chart/Chart.getIsCartesianChart.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Chart.getIsResizing">
+          <param name="Local" value="Classes/Chart/Chart/Chart.getIsResizing.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Chart.getPaddings">
+          <param name="Local" value="Classes/Chart/Chart/Chart.getPaddings.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Chart.getPaddingWasApplied">
+          <param name="Local" value="Classes/Chart/Chart/Chart.getPaddingWasApplied.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Chart.getPieSeriesCount">
+          <param name="Local" value="Classes/Chart/Chart/Chart.getPieSeriesCount.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Chart.getPlotBorders">
+          <param name="Local" value="Classes/Chart/Chart/Chart.getPlotBorders.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Chart.getSerie">
+          <param name="Local" value="Classes/Chart/Chart/Chart.getSerie.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Chart.getSerieByDataIndex">
+          <param name="Local" value="Classes/Chart/Chart/Chart.getSerieByDataIndex.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Chart.getSeriesByStackId">
+          <param name="Local" value="Classes/Chart/Chart/Chart.getSeriesByStackId.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Chart.getSeriesStacks">
+          <param name="Local" value="Classes/Chart/Chart/Chart.getSeriesStacks.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Chart.getSeriesTypes">
+          <param name="Local" value="Classes/Chart/Chart/Chart.getSeriesTypes.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Chart.getStackExtrems">
+          <param name="Local" value="Classes/Chart/Chart/Chart.getStackExtrems.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Chart.getStackGroups">
+          <param name="Local" value="Classes/Chart/Chart/Chart.getStackGroups.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Chart.getStats">
+          <param name="Local" value="Classes/Chart/Chart/Chart.getStats.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Chart.getZoom">
+          <param name="Local" value="Classes/Chart/Chart/Chart.getZoom.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Chart.hoverItems">
+          <param name="Local" value="Classes/Chart/Chart/Chart.hoverItems.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Chart.InnerCircleSize">
+          <param name="Local" value="Classes/Chart/Chart/Chart.InnerCircleSize.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Chart.InnerCircleSizeInPercent">
+          <param name="Local" value="Classes/Chart/Chart/Chart.InnerCircleSizeInPercent.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Chart.Inverted">
+          <param name="Local" value="Classes/Chart/Chart/Chart.Inverted.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Chart.Is3D">
+          <param name="Local" value="Classes/Chart/Chart/Chart.Is3D.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Chart.IsManhattan">
+          <param name="Local" value="Classes/Chart/Chart/Chart.IsManhattan.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Chart.IsMixed">
+          <param name="Local" value="Classes/Chart/Chart/Chart.IsMixed.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Chart.isWidthDataSupported">
+          <param name="Local" value="Classes/Chart/Chart/Chart.isWidthDataSupported.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Chart.ItemsHovered">
+          <param name="Local" value="Classes/Chart/Chart/Chart.ItemsHovered.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Chart.ItemsSelected">
+          <param name="Local" value="Classes/Chart/Chart/Chart.ItemsSelected.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Chart.ItemsVisibilityChanged">
+          <param name="Local" value="Classes/Chart/Chart/Chart.ItemsVisibilityChanged.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Chart.LabelsLayer">
+          <param name="Local" value="Classes/Chart/Chart/Chart.LabelsLayer.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Chart.Legend">
+          <param name="Local" value="Classes/Chart/Chart/Chart.Legend.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Chart.LegendFormatter">
+          <param name="Local" value="Classes/Chart/Chart/Chart.LegendFormatter.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Chart.MarkersEnabled">
+          <param name="Local" value="Classes/Chart/Chart/Chart.MarkersEnabled.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Chart.MarkersSymbol">
+          <param name="Local" value="Classes/Chart/Chart/Chart.MarkersSymbol.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Chart.Options">
+          <param name="Local" value="Classes/Chart/Chart/Chart.Options.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Chart.PaddingBottom">
+          <param name="Local" value="Classes/Chart/Chart/Chart.PaddingBottom.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Chart.PaddingLeft">
+          <param name="Local" value="Classes/Chart/Chart/Chart.PaddingLeft.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Chart.PaddingRight">
+          <param name="Local" value="Classes/Chart/Chart/Chart.PaddingRight.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Chart.PaddingTop">
+          <param name="Local" value="Classes/Chart/Chart/Chart.PaddingTop.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Chart.PlotArea">
+          <param name="Local" value="Classes/Chart/Chart/Chart.PlotArea.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Chart.PointMouseOut">
+          <param name="Local" value="Classes/Chart/Chart/Chart.PointMouseOut.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Chart.PointMouseOver">
+          <param name="Local" value="Classes/Chart/Chart/Chart.PointMouseOver.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Chart.Polar">
+          <param name="Local" value="Classes/Chart/Chart/Chart.Polar.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Chart.redraw">
+          <param name="Local" value="Classes/Chart/Chart/Chart.redraw.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Chart.redrawSeries">
+          <param name="Local" value="Classes/Chart/Chart/Chart.redrawSeries.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Chart.removeAllSeries">
+          <param name="Local" value="Classes/Chart/Chart/Chart.removeAllSeries.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Chart.removeSerie">
+          <param name="Local" value="Classes/Chart/Chart/Chart.removeSerie.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Chart.Rendered">
+          <param name="Local" value="Classes/Chart/Chart/Chart.Rendered.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Chart.resize">
+          <param name="Local" value="Classes/Chart/Chart/Chart.resize.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Chart.Rotation">
+          <param name="Local" value="Classes/Chart/Chart/Chart.Rotation.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Chart.Scroll">
+          <param name="Local" value="Classes/Chart/Chart/Chart.Scroll.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Chart.Scroller">
+          <param name="Local" value="Classes/Chart/Chart/Chart.Scroller.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Chart.Selected">
+          <param name="Local" value="Classes/Chart/Chart/Chart.Selected.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Chart.Selection">
+          <param name="Local" value="Classes/Chart/Chart/Chart.Selection.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Chart.selectItems">
+          <param name="Local" value="Classes/Chart/Chart/Chart.selectItems.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Chart.Series">
+          <param name="Local" value="Classes/Chart/Chart/Chart.Series.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Chart.setHeight">
+          <param name="Local" value="Classes/Chart/Chart/Chart.setHeight.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Chart.setHoverPoint">
+          <param name="Local" value="Classes/Chart/Chart/Chart.setHoverPoint.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Chart.setInteractivity">
+          <param name="Local" value="Classes/Chart/Chart/Chart.setInteractivity.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Chart.setWidth">
+          <param name="Local" value="Classes/Chart/Chart/Chart.setWidth.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Chart.Stacking">
+          <param name="Local" value="Classes/Chart/Chart/Chart.Stacking.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Chart.Subtitle">
+          <param name="Local" value="Classes/Chart/Chart/Chart.Subtitle.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Chart.Title">
+          <param name="Local" value="Classes/Chart/Chart/Chart.Title.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Chart.ToolTip">
+          <param name="Local" value="Classes/Chart/Chart/Chart.ToolTip.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Chart.ToolTipDataFormat">
+          <param name="Local" value="Classes/Chart/Chart/Chart.ToolTipDataFormat.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Chart.ToolTipDelay">
+          <param name="Local" value="Classes/Chart/Chart/Chart.ToolTipDelay.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Chart.ToolTipFollowPointer">
+          <param name="Local" value="Classes/Chart/Chart/Chart.ToolTipFollowPointer.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Chart.ToolTipFormatter">
+          <param name="Local" value="Classes/Chart/Chart/Chart.ToolTipFormatter.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Chart.Type">
+          <param name="Local" value="Classes/Chart/Chart/Chart.Type.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Chart.updateLegendHighlightMode">
+          <param name="Local" value="Classes/Chart/Chart/Chart.updateLegendHighlightMode.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Chart.UseIndicatorColorForToolTipBorder">
+          <param name="Local" value="Classes/Chart/Chart/Chart.UseIndicatorColorForToolTipBorder.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Chart.UseMarkersThinning">
+          <param name="Local" value="Classes/Chart/Chart/Chart.UseMarkersThinning.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Chart.UseSelectOnRightClick">
+          <param name="Local" value="Classes/Chart/Chart/Chart.UseSelectOnRightClick.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Chart.UseSoftPadding">
+          <param name="Local" value="Classes/Chart/Chart/Chart.UseSoftPadding.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Chart.UseZeroSubstitution">
+          <param name="Local" value="Classes/Chart/Chart/Chart.UseZeroSubstitution.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Chart.XAxis">
+          <param name="Local" value="Classes/Chart/Chart/Chart.XAxis.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Chart.YAxis">
+          <param name="Local" value="Classes/Chart/Chart/Chart.YAxis.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Chart.YSAxis">
+          <param name="Local" value="Classes/Chart/Chart/Chart.YSAxis.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Chart.ZAxis">
+          <param name="Local" value="Classes/Chart/Chart/Chart.ZAxis.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="ChartAreaPoint">
+        <param name="Local" value="Classes/Chart/ChartAreaPoint/ChartAreaPoint.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Конструктор ChartAreaPoint">
+          <param name="Local" value="Classes/Chart/ChartAreaPoint/Constructor_ChartAreaPoint.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartAreaPoint.BottomDataLabel">
+          <param name="Local" value="Classes/Chart/ChartAreaPoint/ChartAreaPoint.BottomDataLabel.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartAreaPoint.PlotXBottom">
+          <param name="Local" value="Classes/Chart/ChartAreaPoint/ChartAreaPoint.PlotXBottom.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartAreaPoint.PlotYBottom">
+          <param name="Local" value="Classes/Chart/ChartAreaPoint/ChartAreaPoint.PlotYBottom.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartAreaPoint.TopIsHovered">
+          <param name="Local" value="Classes/Chart/ChartAreaPoint/ChartAreaPoint.TopIsHovered.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartAreaPoint.YBottom">
+          <param name="Local" value="Classes/Chart/ChartAreaPoint/ChartAreaPoint.YBottom.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="ChartAreaSerie">
+        <param name="Local" value="Classes/Chart/ChartAreaSerie/ChartAreaSerie.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Конструктор ChartAreaSerie">
+          <param name="Local" value="Classes/Chart/ChartAreaSerie/Constructor_ChartAreaSerie.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartAreaSerie.getIsAreaRange">
+          <param name="Local" value="Classes/Chart/ChartAreaSerie/ChartAreaSerie.getIsAreaRange.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartAreaSerie.getPolyInRange">
+          <param name="Local" value="Classes/Chart/ChartAreaSerie/ChartAreaSerie.getPolyInRange.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="ChartPoint">
+        <param name="Local" value="Classes/Chart/ChartPoint/ChartPoint.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Конструктор ChartPoint">
+          <param name="Local" value="Classes/Chart/ChartPoint/Constructor_ChartPoint.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartPoint.Color">
+          <param name="Local" value="Classes/Chart/ChartPoint/ChartPoint.Color.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartPoint.ColorValue">
+          <param name="Local" value="Classes/Chart/ChartPoint/ChartPoint.ColorValue.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartPoint.CustomData">
+          <param name="Local" value="Classes/Chart/ChartPoint/ChartPoint.CustomData.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartPoint.DataLabel">
+          <param name="Local" value="Classes/Chart/ChartPoint/ChartPoint.DataLabel.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartPoint.DataLabels">
+          <param name="Local" value="Classes/Chart/ChartPoint/ChartPoint.DataLabels.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartPoint.EnableEdit">
+          <param name="Local" value="Classes/Chart/ChartPoint/ChartPoint.EnableEdit.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartPoint.IsAfterNull">
+          <param name="Local" value="Classes/Chart/ChartPoint/ChartPoint.IsAfterNull.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartPoint.IsFictive">
+          <param name="Local" value="Classes/Chart/ChartPoint/ChartPoint.IsFictive.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartPoint.IsSelected">
+          <param name="Local" value="Classes/Chart/ChartPoint/ChartPoint.IsSelected.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartPoint.IsVisible">
+          <param name="Local" value="Classes/Chart/ChartPoint/ChartPoint.IsVisible.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartPoint.LineColor">
+          <param name="Local" value="Classes/Chart/ChartPoint/ChartPoint.LineColor.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartPoint.LinkedPoints">
+          <param name="Local" value="Classes/Chart/ChartPoint/ChartPoint.LinkedPoints.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartPoint.Name">
+          <param name="Local" value="Classes/Chart/ChartPoint/ChartPoint.Name.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartPoint.Parent">
+          <param name="Local" value="Classes/Chart/ChartPoint/ChartPoint.Parent.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartPoint.Percentage">
+          <param name="Local" value="Classes/Chart/ChartPoint/ChartPoint.Percentage.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartPoint.PercentPart">
+          <param name="Local" value="Classes/Chart/ChartPoint/ChartPoint.PercentPart.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartPoint.PlotX">
+          <param name="Local" value="Classes/Chart/ChartPoint/ChartPoint.PlotX.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartPoint.PlotY">
+          <param name="Local" value="Classes/Chart/ChartPoint/ChartPoint.PlotY.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartPoint.SizeValue">
+          <param name="Local" value="Classes/Chart/ChartPoint/ChartPoint.SizeValue.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartPoint.StackY">
+          <param name="Local" value="Classes/Chart/ChartPoint/ChartPoint.StackY.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartPoint.State">
+          <param name="Local" value="Classes/Chart/ChartPoint/ChartPoint.State.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartPoint.TangentAngle">
+          <param name="Local" value="Classes/Chart/ChartPoint/ChartPoint.TangentAngle.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartPoint.TextValue">
+          <param name="Local" value="Classes/Chart/ChartPoint/ChartPoint.TextValue.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartPoint.X">
+          <param name="Local" value="Classes/Chart/ChartPoint/ChartPoint.X.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartPoint.Y">
+          <param name="Local" value="Classes/Chart/ChartPoint/ChartPoint.Y.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartPoint.Click">
+          <param name="Local" value="Classes/Chart/ChartPoint/ChartPoint.Click.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartPoint.MouseOut">
+          <param name="Local" value="Classes/Chart/ChartPoint/ChartPoint.MouseOut.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartPoint.MouseOver">
+          <param name="Local" value="Classes/Chart/ChartPoint/ChartPoint.MouseOver.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartPoint.getAnimParams">
+          <param name="Local" value="Classes/Chart/ChartPoint/ChartPoint.getAnimParams.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartPoint.getOriginalColorIsRGBA">
+          <param name="Local" value="Classes/Chart/ChartPoint/ChartPoint.getOriginalColorIsRGBA.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartPoint.getOriginalLineColorIsRGBA">
+          <param name="Local" value="Classes/Chart/ChartPoint/ChartPoint.getOriginalLineColorIsRGBA.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartPoint.resetAnimParams">
+          <param name="Local" value="Classes/Chart/ChartPoint/ChartPoint.resetAnimParams.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="ChartPieSerie">
+        <param name="Local" value="Classes/Chart/ChartPieSerie/ChartPieSerie.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Конструктор ChartPieSerie">
+          <param name="Local" value="Classes/Chart/ChartPieSerie/Constructor_ChartPieSerie.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="ChartCanvasSerie">
+        <param name="Local" value="Classes/Chart/ChartCanvasSerie/ChartCanvasSerie.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Конструктор ChartCanvasSerie">
+          <param name="Local" value="Classes/Chart/ChartCanvasSerie/Constructor_ChartCanvasSerie.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartCanvasSerie.addPoint">
+          <param name="Local" value="Classes/Chart/ChartCanvasSerie/ChartCanvasSerie.addPoint.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartCanvasSerie.ApproximationPixelCoef">
+          <param name="Local" value="Classes/Chart/ChartCanvasSerie/ChartCanvasSerie.ApproximationPixelCoef.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartCanvasSerie.AutoRotateMarker">
+          <param name="Local" value="Classes/Chart/ChartCanvasSerie/ChartCanvasSerie.AutoRotateMarker.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartCanvasSerie.BorderPenEnabled">
+          <param name="Local" value="Classes/Chart/ChartCanvasSerie/ChartCanvasSerie.BorderPenEnabled.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartCanvasSerie.Center">
+          <param name="Local" value="Classes/Chart/ChartCanvasSerie/ChartCanvasSerie.Center.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartCanvasSerie.ChildSeries">
+          <param name="Local" value="Classes/Chart/ChartCanvasSerie/ChartCanvasSerie.ChildSeries.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartCanvasSerie.EmptyLine">
+          <param name="Local" value="Classes/Chart/ChartCanvasSerie/ChartCanvasSerie.EmptyLine.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartCanvasSerie.getXAxis">
+          <param name="Local" value="Classes/Chart/ChartCanvasSerie/ChartCanvasSerie.getXAxis.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartCanvasSerie.getXData">
+          <param name="Local" value="Classes/Chart/ChartCanvasSerie/ChartCanvasSerie.getXData.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartCanvasSerie.getYAxis">
+          <param name="Local" value="Classes/Chart/ChartCanvasSerie/ChartCanvasSerie.getYAxis.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartCanvasSerie.getYData">
+          <param name="Local" value="Classes/Chart/ChartCanvasSerie/ChartCanvasSerie.getYData.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartCanvasSerie.redraw">
+          <param name="Local" value="Classes/Chart/ChartCanvasSerie/ChartCanvasSerie.redraw.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartCanvasSerie.redrawConnectors">
+          <param name="Local" value="Classes/Chart/ChartCanvasSerie/ChartCanvasSerie.redrawConnectors.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartCanvasSerie.redrawHoverPoint">
+          <param name="Local" value="Classes/Chart/ChartCanvasSerie/ChartCanvasSerie.redrawHoverPoint.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartCanvasSerie.removePoint">
+          <param name="Local" value="Classes/Chart/ChartCanvasSerie/ChartCanvasSerie.removePoint.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartCanvasSerie.Threshold">
+          <param name="Local" value="Classes/Chart/ChartCanvasSerie/ChartCanvasSerie.Threshold.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartCanvasSerie.State">
+          <param name="Local" value="Classes/Chart/ChartCanvasSerie/ChartCanvasSerie.State.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartCanvasSerie.ShowInLegend">
+          <param name="Local" value="Classes/Chart/ChartCanvasSerie/ChartCanvasSerie.ShowInLegend.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartCanvasSerie.SecondaryAxis">
+          <param name="Local" value="Classes/Chart/ChartCanvasSerie/ChartCanvasSerie.SecondaryAxis.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartCanvasSerie.PointAdd">
+          <param name="Local" value="Classes/Chart/ChartCanvasSerie/ChartCanvasSerie.PointAdd.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartCanvasSerie.OnContextMenu">
+          <param name="Local" value="Classes/Chart/ChartCanvasSerie/ChartCanvasSerie.OnContextMenu.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartCanvasSerie.Name">
+          <param name="Local" value="Classes/Chart/ChartCanvasSerie/ChartCanvasSerie.Name.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartCanvasSerie.IsVisible">
+          <param name="Local" value="Classes/Chart/ChartCanvasSerie/ChartCanvasSerie.IsVisible.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartCanvasSerie.IsSelected">
+          <param name="Local" value="Classes/Chart/ChartCanvasSerie/ChartCanvasSerie.IsSelected.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartCanvasSerie.Index">
+          <param name="Local" value="Classes/Chart/ChartCanvasSerie/ChartCanvasSerie.Index.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartCanvasSerie.InsetColor">
+          <param name="Local" value="Classes/Chart/ChartCanvasSerie/ChartCanvasSerie.InsetColor.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartCanvasSerie.InsetLineWidth">
+          <param name="Local" value="Classes/Chart/ChartCanvasSerie/ChartCanvasSerie.InsetLineWidth.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartCanvasSerie.IsMasterSerie">
+          <param name="Local" value="Classes/Chart/ChartCanvasSerie/ChartCanvasSerie.IsMasterSerie.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartCanvasSerie.IsNewborn">
+          <param name="Local" value="Classes/Chart/ChartCanvasSerie/ChartCanvasSerie.IsNewborn.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartCanvasSerie.LegendIndex">
+          <param name="Local" value="Classes/Chart/ChartCanvasSerie/ChartCanvasSerie.LegendIndex.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartCanvasSerie.LegendTextWidth">
+          <param name="Local" value="Classes/Chart/ChartCanvasSerie/ChartCanvasSerie.LegendTextWidth.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartCanvasSerie.LegendText">
+          <param name="Local" value="Classes/Chart/ChartCanvasSerie/ChartCanvasSerie.LegendText.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartCanvasSerie.LineBreak">
+          <param name="Local" value="Classes/Chart/ChartCanvasSerie/ChartCanvasSerie.LineBreak.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartCanvasSerie.LineDashStyle">
+          <param name="Local" value="Classes/Chart/ChartCanvasSerie/ChartCanvasSerie.LineDashStyle.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartCanvasSerie.LineColor">
+          <param name="Local" value="Classes/Chart/ChartCanvasSerie/ChartCanvasSerie.LineColor.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartCanvasSerie.LinePenEnabled">
+          <param name="Local" value="Classes/Chart/ChartCanvasSerie/ChartCanvasSerie.LinePenEnabled.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartCanvasSerie.LineWidth">
+          <param name="Local" value="Classes/Chart/ChartCanvasSerie/ChartCanvasSerie.LineWidth.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartCanvasSerie.MarkedForDeath">
+          <param name="Local" value="Classes/Chart/ChartCanvasSerie/ChartCanvasSerie.MarkedForDeath.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartCanvasSerie.Highlighted">
+          <param name="Local" value="Classes/Chart/ChartCanvasSerie/ChartCanvasSerie.Highlighted.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartCanvasSerie.getPoints">
+          <param name="Local" value="Classes/Chart/ChartCanvasSerie/ChartCanvasSerie.getPoints.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartCanvasSerie.getPointByPosition">
+          <param name="Local" value="Classes/Chart/ChartCanvasSerie/ChartCanvasSerie.getPointByPosition.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartCanvasSerie.getPoint">
+          <param name="Local" value="Classes/Chart/ChartCanvasSerie/ChartCanvasSerie.getPoint.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartCanvasSerie.drawDataLabels">
+          <param name="Local" value="Classes/Chart/ChartCanvasSerie/ChartCanvasSerie.drawDataLabels.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartCanvasSerie.DrawContext">
+          <param name="Local" value="Classes/Chart/ChartCanvasSerie/ChartCanvasSerie.DrawContext.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartCanvasSerie.Data">
+          <param name="Local" value="Classes/Chart/ChartCanvasSerie/ChartCanvasSerie.Data.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartCanvasSerie.CustomData">
+          <param name="Local" value="Classes/Chart/ChartCanvasSerie/ChartCanvasSerie.CustomData.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartCanvasSerie.Color">
+          <param name="Local" value="Classes/Chart/ChartCanvasSerie/ChartCanvasSerie.Color.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartCanvasSerie.Click">
+          <param name="Local" value="Classes/Chart/ChartCanvasSerie/ChartCanvasSerie.Click.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartCanvasSerie.checkPointOnPlot">
+          <param name="Local" value="Classes/Chart/ChartCanvasSerie/ChartCanvasSerie.checkPointOnPlot.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartCanvasSerie.checkMouseCoords">
+          <param name="Local" value="Classes/Chart/ChartCanvasSerie/ChartCanvasSerie.checkMouseCoords.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartCanvasSerie.Type">
+          <param name="Local" value="Classes/Chart/ChartCanvasSerie/ChartCanvasSerie.Type.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartCanvasSerie.Parent">
+          <param name="Local" value="Classes/Chart/ChartCanvasSerie/ChartCanvasSerie.Parent.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartCanvasSerie.ParentSerieIndex">
+          <param name="Local" value="Classes/Chart/ChartCanvasSerie/ChartCanvasSerie.ParentSerieIndex.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartCanvasSerie.ReversedIndex">
+          <param name="Local" value="Classes/Chart/ChartCanvasSerie/ChartCanvasSerie.ReversedIndex.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartCanvasSerie.Scatter">
+          <param name="Local" value="Classes/Chart/ChartCanvasSerie/ChartCanvasSerie.Scatter.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartCanvasSerie.SerieGroupName">
+          <param name="Local" value="Classes/Chart/ChartCanvasSerie/ChartCanvasSerie.SerieGroupName.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartCanvasSerie.Shadow">
+          <param name="Local" value="Classes/Chart/ChartCanvasSerie/ChartCanvasSerie.Shadow.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartCanvasSerie.StartAngle">
+          <param name="Local" value="Classes/Chart/ChartCanvasSerie/ChartCanvasSerie.StartAngle.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartCanvasSerie.Marker">
+          <param name="Local" value="Classes/Chart/ChartCanvasSerie/ChartCanvasSerie.Marker.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartCanvasSerie.States">
+          <param name="Local" value="Classes/Chart/ChartCanvasSerie/ChartCanvasSerie.States.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartCanvasSerie.RemovePoint">
+          <param name="Local" value="Classes/Chart/ChartCanvasSerie/ChartCanvasSerie.RemovePoint_E.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartCanvasSerie.Editable">
+          <param name="Local" value="Classes/Chart/ChartCanvasSerie/ChartCanvasSerie.Editable.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartCanvasSerie.DataIndex">
+          <param name="Local" value="Classes/Chart/ChartCanvasSerie/ChartCanvasSerie.DataIndex.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartCanvasSerie.DataLabels">
+          <param name="Local" value="Classes/Chart/ChartCanvasSerie/ChartCanvasSerie.DataLabels.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartCanvasSerie.MasterSerieIdx">
+          <param name="Local" value="Classes/Chart/ChartCanvasSerie/ChartCanvasSerie.MasterSerieIdx.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartCanvasSerie.StackId">
+          <param name="Local" value="Classes/Chart/ChartCanvasSerie/ChartCanvasSerie.StackId.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartCanvasSerie.IsEditingNow">
+          <param name="Local" value="Classes/Chart/ChartCanvasSerie/ChartCanvasSerie.IsEditingNow.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartCanvasSerie.Trend">
+          <param name="Local" value="Classes/Chart/ChartCanvasSerie/ChartCanvasSerie.Trend.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartCanvasSerie.TrendLine">
+          <param name="Local" value="Classes/Chart/ChartCanvasSerie/ChartCanvasSerie.TrendLine.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="ChartPiePoint">
+        <param name="Local" value="Classes/Chart/ChartPiePoint/ChartPiePoint.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Конструктор ChartPiePoint">
+          <param name="Local" value="Classes/Chart/ChartPiePoint/Constructor_ChartPiePoint.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartPiePoint.EndAngle">
+          <param name="Local" value="Classes/Chart/ChartPiePoint/ChartPiePoint.EndAngle.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartPiePoint.InnerRadius">
+          <param name="Local" value="Classes/Chart/ChartPiePoint/ChartPiePoint.InnerRadius.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartPiePoint.Radius">
+          <param name="Local" value="Classes/Chart/ChartPiePoint/ChartPiePoint.Radius.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartPiePoint.StartAngle">
+          <param name="Local" value="Classes/Chart/ChartPiePoint/ChartPiePoint.StartAngle.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="ChartCanvasAxis">
+        <param name="Local" value="Classes/Chart/ChartCanvasAxis/ChartCanvasAxis.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Конструктор ChartCanvasAxis">
+          <param name="Local" value="Classes/Chart/ChartCanvasAxis/Constructor_ChartCanvasAxis.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartCanvasAxis.AllowDecimals">
+          <param name="Local" value="Classes/Chart/ChartCanvasAxis/ChartCanvasAxis.AllowDecimals.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartCanvasAxis.AlternateColor">
+          <param name="Local" value="Classes/Chart/ChartCanvasAxis/ChartCanvasAxis.AlternateColor.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartCanvasAxis.AutoHideValue">
+          <param name="Local" value="Classes/Chart/ChartCanvasAxis/ChartCanvasAxis.AutoHideValue.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartCanvasAxis.AxisCross">
+          <param name="Local" value="Classes/Chart/ChartCanvasAxis/ChartCanvasAxis.AxisCross.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartCanvasAxis.BottomIntervals">
+          <param name="Local" value="Classes/Chart/ChartCanvasAxis/ChartCanvasAxis.BottomIntervals.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartCanvasAxis.Max">
+          <param name="Local" value="Classes/Chart/ChartCanvasAxis/ChartCanvasAxis.Max.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartCanvasAxis.Min">
+          <param name="Local" value="Classes/Chart/ChartCanvasAxis/ChartCanvasAxis.Min.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartCanvasAxis.Opposite">
+          <param name="Local" value="Classes/Chart/ChartCanvasAxis/ChartCanvasAxis.Opposite.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartCanvasAxis.TickIntervalsCount">
+          <param name="Local" value="Classes/Chart/ChartCanvasAxis/ChartCanvasAxis.TickIntervalsCount.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartCanvasAxis.Title">
+          <param name="Local" value="Classes/Chart/ChartCanvasAxis/ChartCanvasAxis.Title.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartCanvasAxis.UseDefaultExtremes">
+          <param name="Local" value="Classes/Chart/ChartCanvasAxis/ChartCanvasAxis.UseDefaultExtremes.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartCanvasAxis.Categories">
+          <param name="Local" value="Classes/Chart/ChartCanvasAxis/ChartCanvasAxis.Categories.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartCanvasAxis.DisplayUnit">
+          <param name="Local" value="Classes/Chart/ChartCanvasAxis/ChartCanvasAxis.DisplayUnit.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartCanvasAxis.DrawBackgroundContext">
+          <param name="Local" value="Classes/Chart/ChartCanvasAxis/ChartCanvasAxis.DrawBackgroundContext.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartCanvasAxis.EditModeContetx">
+          <param name="Local" value="Classes/Chart/ChartCanvasAxis/ChartCanvasAxis.EditModeContetx.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartCanvasAxis.ExactIntervals">
+          <param name="Local" value="Classes/Chart/ChartCanvasAxis/ChartCanvasAxis.ExactIntervals.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartCanvasAxis.LabelClick">
+          <param name="Local" value="Classes/Chart/ChartCanvasAxis/ChartCanvasAxis.LabelClick.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartCanvasAxis.LabelMouseOut">
+          <param name="Local" value="Classes/Chart/ChartCanvasAxis/ChartCanvasAxis.LabelMouseOut.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartCanvasAxis.LabelMouseOver">
+          <param name="Local" value="Classes/Chart/ChartCanvasAxis/ChartCanvasAxis.LabelMouseOver.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartCanvasAxis.TitleDblClick">
+          <param name="Local" value="Classes/Chart/ChartCanvasAxis/ChartCanvasAxis.TitleDblClick.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartCanvasAxis.addPlotBand">
+          <param name="Local" value="Classes/Chart/ChartCanvasAxis/ChartCanvasAxis.addPlotBand.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartCanvasAxis.checkMouseCoords">
+          <param name="Local" value="Classes/Chart/ChartCanvasAxis/ChartCanvasAxis.checkMouseCoords.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartCanvasAxis.drawVisualLines">
+          <param name="Local" value="Classes/Chart/ChartCanvasAxis/ChartCanvasAxis.drawVisualLines.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartCanvasAxis.getAxisValue">
+          <param name="Local" value="Classes/Chart/ChartCanvasAxis/ChartCanvasAxis.getAxisValue.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartCanvasAxis.getDataExtremes">
+          <param name="Local" value="Classes/Chart/ChartCanvasAxis/ChartCanvasAxis.getDataExtremes.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartCanvasAxis.getLinkedSeries">
+          <param name="Local" value="Classes/Chart/ChartCanvasAxis/ChartCanvasAxis.getLinkedSeries.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartCanvasAxis.getPixelLength">
+          <param name="Local" value="Classes/Chart/ChartCanvasAxis/ChartCanvasAxis.getPixelLength.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartCanvasAxis.getPixelValue">
+          <param name="Local" value="Classes/Chart/ChartCanvasAxis/ChartCanvasAxis.getPixelValue.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartCanvasAxis.getPlotBorders">
+          <param name="Local" value="Classes/Chart/ChartCanvasAxis/ChartCanvasAxis.getPlotBorders.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartCanvasAxis.getRoundedMax">
+          <param name="Local" value="Classes/Chart/ChartCanvasAxis/ChartCanvasAxis.getRoundedMax.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartCanvasAxis.getRoundedMin">
+          <param name="Local" value="Classes/Chart/ChartCanvasAxis/ChartCanvasAxis.getRoundedMin.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartCanvasAxis.getSeriesExtremes">
+          <param name="Local" value="Classes/Chart/ChartCanvasAxis/ChartCanvasAxis.getSeriesExtremes.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartCanvasAxis.getSize">
+          <param name="Local" value="Classes/Chart/ChartCanvasAxis/ChartCanvasAxis.getSize.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartCanvasAxis.GridEnabled">
+          <param name="Local" value="Classes/Chart/ChartCanvasAxis/ChartCanvasAxis.GridEnabled.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartCanvasAxis.GridLineColor">
+          <param name="Local" value="Classes/Chart/ChartCanvasAxis/ChartCanvasAxis.GridLineColor.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartCanvasAxis.GridLineDashStyle">
+          <param name="Local" value="Classes/Chart/ChartCanvasAxis/ChartCanvasAxis.GridLineDashStyle.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartCanvasAxis.GridLineWidth">
+          <param name="Local" value="Classes/Chart/ChartCanvasAxis/ChartCanvasAxis.GridLineWidth.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartCanvasAxis.handleClick">
+          <param name="Local" value="Classes/Chart/ChartCanvasAxis/ChartCanvasAxis.handleClick.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartCanvasAxis.handleDblClick">
+          <param name="Local" value="Classes/Chart/ChartCanvasAxis/ChartCanvasAxis.handleDblClick.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartCanvasAxis.lin2log">
+          <param name="Local" value="Classes/Chart/ChartCanvasAxis/ChartCanvasAxis.lin2log.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartCanvasAxis.log2lin">
+          <param name="Local" value="Classes/Chart/ChartCanvasAxis/ChartCanvasAxis.log2lin.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartCanvasAxis.redraw">
+          <param name="Local" value="Classes/Chart/ChartCanvasAxis/ChartCanvasAxis.redraw.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartCanvasAxis.removePlotBand">
+          <param name="Local" value="Classes/Chart/ChartCanvasAxis/ChartCanvasAxis.removePlotBand.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartCanvasAxis.removeVisualLines">
+          <param name="Local" value="Classes/Chart/ChartCanvasAxis/ChartCanvasAxis.removeVisualLines.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartCanvasAxis.setAxisOffset">
+          <param name="Local" value="Classes/Chart/ChartCanvasAxis/ChartCanvasAxis.setAxisOffset.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartCanvasAxis.Enabled">
+          <param name="Local" value="Classes/Chart/ChartCanvasAxis/ChartCanvasAxis.Enabled.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartCanvasAxis.Inverted">
+          <param name="Local" value="Classes/Chart/ChartCanvasAxis/ChartCanvasAxis.Inverted.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartCanvasAxis.Labels">
+          <param name="Local" value="Classes/Chart/ChartCanvasAxis/ChartCanvasAxis.Labels.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartCanvasAxis.PlotBands">
+          <param name="Local" value="Classes/Chart/ChartCanvasAxis/ChartCanvasAxis.PlotBands.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartCanvasAxis.DrawContext">
+          <param name="Local" value="Classes/Chart/ChartCanvasAxis/ChartCanvasAxis.DrawContext.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartCanvasAxis.IsX">
+          <param name="Local" value="Classes/Chart/ChartCanvasAxis/ChartCanvasAxis.IsX.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartCanvasAxis.IsZ">
+          <param name="Local" value="Classes/Chart/ChartCanvasAxis/ChartCanvasAxis.IsZ.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartCanvasAxis.IsLogarithmic">
+          <param name="Local" value="Classes/Chart/ChartCanvasAxis/ChartCanvasAxis.IsLogarithmic.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartCanvasAxis.LineColor">
+          <param name="Local" value="Classes/Chart/ChartCanvasAxis/ChartCanvasAxis.LineColor.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartCanvasAxis.LineEnabled">
+          <param name="Local" value="Classes/Chart/ChartCanvasAxis/ChartCanvasAxis.LineEnabled.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartCanvasAxis.LineWidth">
+          <param name="Local" value="Classes/Chart/ChartCanvasAxis/ChartCanvasAxis.LineWidth.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartCanvasAxis.MinorGridEnabled">
+          <param name="Local" value="Classes/Chart/ChartCanvasAxis/ChartCanvasAxis.MinorGridEnabled.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartCanvasAxis.MinorGridLineColor">
+          <param name="Local" value="Classes/Chart/ChartCanvasAxis/ChartCanvasAxis.MinorGridLineColor.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartCanvasAxis.MinorGridLineDashStyle">
+          <param name="Local" value="Classes/Chart/ChartCanvasAxis/ChartCanvasAxis.MinorGridLineDashStyle.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartCanvasAxis.MinorGridLineWidth">
+          <param name="Local" value="Classes/Chart/ChartCanvasAxis/ChartCanvasAxis.MinorGridLineWidth.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartCanvasAxis.MinorIntervals">
+          <param name="Local" value="Classes/Chart/ChartCanvasAxis/ChartCanvasAxis.MinorIntervals.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartCanvasAxis.MinorTickColor">
+          <param name="Local" value="Classes/Chart/ChartCanvasAxis/ChartCanvasAxis.MinorTickColor.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartCanvasAxis.MinorTickLength">
+          <param name="Local" value="Classes/Chart/ChartCanvasAxis/ChartCanvasAxis.MinorTickLength.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartCanvasAxis.MinorTickPlacement">
+          <param name="Local" value="Classes/Chart/ChartCanvasAxis/ChartCanvasAxis.MinorTickPlacement.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartCanvasAxis.MinorTicksEnabled">
+          <param name="Local" value="Classes/Chart/ChartCanvasAxis/ChartCanvasAxis.MinorTicksEnabled.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartCanvasAxis.MinorTickWidth">
+          <param name="Local" value="Classes/Chart/ChartCanvasAxis/ChartCanvasAxis.MinorTickWidth.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartCanvasAxis.Parent">
+          <param name="Local" value="Classes/Chart/ChartCanvasAxis/ChartCanvasAxis.Parent.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartCanvasAxis.Position">
+          <param name="Local" value="Classes/Chart/ChartCanvasAxis/ChartCanvasAxis.Position.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartCanvasAxis.PositionValue">
+          <param name="Local" value="Classes/Chart/ChartCanvasAxis/ChartCanvasAxis.PositionValue.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartCanvasAxis.Primary">
+          <param name="Local" value="Classes/Chart/ChartCanvasAxis/ChartCanvasAxis.Primary.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartCanvasAxis.PlotLines">
+          <param name="Local" value="Classes/Chart/ChartCanvasAxis/ChartCanvasAxis.PlotLines.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartCanvasAxis.ShowMarksForHiddenLabels">
+          <param name="Local" value="Classes/Chart/ChartCanvasAxis/ChartCanvasAxis.ShowMarksForHiddenLabels.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartCanvasAxis.StrictLabelsThinning">
+          <param name="Local" value="Classes/Chart/ChartCanvasAxis/ChartCanvasAxis.StrictLabelsThinning.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartCanvasAxis.TickCross">
+          <param name="Local" value="Classes/Chart/ChartCanvasAxis/ChartCanvasAxis.TickCross.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartCanvasAxis.TickMarksInterval">
+          <param name="Local" value="Classes/Chart/ChartCanvasAxis/ChartCanvasAxis.TickMarksInterval.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartCanvasAxis.TickInterval">
+          <param name="Local" value="Classes/Chart/ChartCanvasAxis/ChartCanvasAxis.TickInterval.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartCanvasAxis.TickPixelInterval">
+          <param name="Local" value="Classes/Chart/ChartCanvasAxis/ChartCanvasAxis.TickPixelInterval.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartCanvasAxis.TickPlacement">
+          <param name="Local" value="Classes/Chart/ChartCanvasAxis/ChartCanvasAxis.TickPlacement.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartCanvasAxis.TickColor">
+          <param name="Local" value="Classes/Chart/ChartCanvasAxis/ChartCanvasAxis.TicksColor.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartCanvasAxis.TicksEnabled">
+          <param name="Local" value="Classes/Chart/ChartCanvasAxis/ChartCanvasAxis.TicksEnabled.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartCanvasAxis.TickLength">
+          <param name="Local" value="Classes/Chart/ChartCanvasAxis/ChartCanvasAxis.TicksLength.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartCanvasAxis.TickWidth">
+          <param name="Local" value="Classes/Chart/ChartCanvasAxis/ChartCanvasAxis.TicksWidth.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartCanvasAxis.TopIntervals">
+          <param name="Local" value="Classes/Chart/ChartCanvasAxis/ChartCanvasAxis.TopIntervals.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="ChartCommon">
+        <param name="Local" value="Classes/ChartCommon/ChartCommon.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Конструктор ChartCommon">
+          <param name="Local" value="Classes/ChartCommon/Constructor_ChartCommon.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartCommon.ShowUnsupportedTypes">
+          <param name="Local" value="Classes/ChartCommon/ChartCommon.ShowUnsupportedTypes.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="ChartColumnSerie">
+        <param name="Local" value="Classes/Chart/ChartColumnSerie/ChartColumnSerie.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Конструктор ChartColumnSerie">
+          <param name="Local" value="Classes/Chart/ChartColumnSerie/Constructor_ChartColumnSerie.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartColumnSerie.CornerRadius">
+          <param name="Local" value="Classes/Chart/ChartColumnSerie/ChartColumnSerie.CornerRadius.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartColumnSerie.Preview">
+          <param name="Local" value="Classes/Chart/ChartColumnSerie/ChartColumnSerie.Preview.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartColumnSerie.SecondaryAxisIndex">
+          <param name="Local" value="Classes/Chart/ChartColumnSerie/ChartColumnSerie.SecondaryAxisIndex.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartColumnSerie.Template">
+          <param name="Local" value="Classes/Chart/ChartColumnSerie/ChartColumnSerie.Template.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartColumnSerie.WidthData">
+          <param name="Local" value="Classes/Chart/ChartColumnSerie/ChartColumnSerie.WidthData.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="ChartEditMode">
+        <param name="Local" value="Classes/Chart/ChartEditMode/ChartEditMode.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Конструктор ChartEditMode">
+          <param name="Local" value="Classes/Chart/ChartEditMode/Constructor_ChartEditMode.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartEditMode.activateSerie">
+          <param name="Local" value="Classes/Chart/ChartEditMode/ChartEditMode.activateSerie.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartEditMode.handleMouseDown">
+          <param name="Local" value="Classes/Chart/ChartEditMode/ChartEditMode.handleMouseDown.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartEditMode.handleMouseMove">
+          <param name="Local" value="Classes/Chart/ChartEditMode/ChartEditMode.handleMouseMove.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartEditMode.handleMouseUp">
+          <param name="Local" value="Classes/Chart/ChartEditMode/ChartEditMode.handleMouseUp.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartEditMode.Enabled">
+          <param name="Local" value="Classes/Chart/ChartEditMode/ChartEditMode.Enabled.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartEditMode.getCursorOnMarker">
+          <param name="Local" value="Classes/Chart/ChartEditMode/ChartEditMode.getCursorOnMarker.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartEditMode.Edited">
+          <param name="Local" value="Classes/Chart/ChartEditMode/ChartEditMode.Edited.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartEditMode.EditStarted">
+          <param name="Local" value="Classes/Chart/ChartEditMode/ChartEditMode.EditStarted.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartEditMode.State">
+          <param name="Local" value="Classes/Chart/ChartEditMode/ChartEditMode.State.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartEditMode.DomNode">
+          <param name="Local" value="Classes/Chart/ChartEditMode/ChartEditMode.DomNode.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartEditMode.DrawContext">
+          <param name="Local" value="Classes/Chart/ChartEditMode/ChartEditMode.DrawContext.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartEditMode.redraw">
+          <param name="Local" value="Classes/Chart/ChartEditMode/ChartEditMode.redraw.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartEditMode.getIsEditing">
+          <param name="Local" value="Classes/Chart/ChartEditMode/ChartEditMode.getIsEditing.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartEditMode.Mode">
+          <param name="Local" value="Classes/Chart/ChartEditMode/ChartEditMode.Mode.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="ChartText">
+        <param name="Local" value="Classes/Chart/ChartText/ChartText.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Конструктор ChartText">
+          <param name="Local" value="Classes/Chart/ChartText/Constructor_ChartText.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartText.Click">
+          <param name="Local" value="Classes/Chart/ChartText/ChartText.Click.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartText.MouseOut">
+          <param name="Local" value="Classes/Chart/ChartText/ChartText.MouseOut.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartText.MouseOver">
+          <param name="Local" value="Classes/Chart/ChartText/ChartText.MouseOver.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="ChartTooltip">
+        <param name="Local" value="Classes/Chart/ChartTooltip/ChartTooltip.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="AxisCommon">
+        <param name="Local" value="Classes/Chart/AxisCommon/AxisCommon.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="LevelCommon">
+        <param name="Local" value="Classes/Chart/LevelCommon/LevelCommon.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="SerieCommon">
+        <param name="Local" value="Classes/Chart/SerieCommon/SerieCommon.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="ChartScroller">
+        <param name="Local" value="Classes/Chart/ChartScroller/ChartScroller.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Конструктор ChartScroller">
+          <param name="Local" value="Classes/Chart/ChartScroller/Constructor_ChartScroller.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartScroller.Enabled">
+          <param name="Local" value="Classes/Chart/ChartScroller/ChartScroller.Enabled.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartScroller.MaxPointsInSight">
+          <param name="Local" value="Classes/Chart/ChartScroller/ChartScroller.MaxPointsInSight.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartScroller.Position">
+          <param name="Local" value="Classes/Chart/ChartScroller/ChartScroller.Position.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartScroller.IsActual">
+          <param name="Local" value="Classes/Chart/ChartScroller/ChartScroller.IsActual.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartScroller.getRealXLength">
+          <param name="Local" value="Classes/Chart/ChartScroller/ChartScroller.getRealXLength.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartScroller.redraw">
+          <param name="Local" value="Classes/Chart/ChartScroller/ChartScroller.redraw.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartScroller.handleMouseDown">
+          <param name="Local" value="Classes/Chart/ChartScroller/ChartScroller.handleMouseDown.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartScroller.handleMouseMove">
+          <param name="Local" value="Classes/Chart/ChartScroller/ChartScroller.handleMouseMove.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartScroller.handleMouseUp">
+          <param name="Local" value="Classes/Chart/ChartScroller/ChartScroller.handleMouseUp.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartScroller.Scrolled">
+          <param name="Local" value="Classes/Chart/ChartScroller/ChartScroller.Scrolled.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartScroller.ScrollMove">
+          <param name="Local" value="Classes/Chart/ChartScroller/ChartScroller.ScrollMove.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartScroller.ScrollStart">
+          <param name="Local" value="Classes/Chart/ChartScroller/ChartScroller.ScrollStart.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartScroller.getSize">
+          <param name="Local" value="Classes/Chart/ChartScroller/ChartScroller.getSize.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartScroller.Resized">
+          <param name="Local" value="Classes/Chart/ChartScroller/ChartScroller.Resized.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartScroller.handleClick">
+          <param name="Local" value="Classes/Chart/ChartScroller/ChartScroller.handleClick.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="ChartColumnPoint">
+        <param name="Local" value="Classes/Chart/ChartColumnPoint/ChartColumnPoint.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Конструктор ChartColumnPoint">
+          <param name="Local" value="Classes/Chart/ChartColumnPoint/Constructor_ChartColumnPoint.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartColumnPoint.PlotYBottom">
+          <param name="Local" value="Classes/Chart/ChartColumnPoint/ChartColumnPoint.PlotYBottom.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartColumnPoint.Width">
+          <param name="Local" value="Classes/Chart/ChartColumnPoint/ChartColumnPoint.Width.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartColumnPoint.YBottom">
+          <param name="Local" value="Classes/Chart/ChartColumnPoint/ChartColumnPoint.YBottom.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="ChartPolarXAxis">
+        <param name="Local" value="Classes/Chart/ChartPolarXAxis/ChartPolarXAxis.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Конструктор ChartPolarXAxis">
+          <param name="Local" value="Classes/Chart/ChartPolarXAxis/Constructor_ChartPolarXAxis.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="ChartPolarYAxis">
+        <param name="Local" value="Classes/Chart/ChartPolarYAxis/ChartPolarYAxis.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Конструктор ChartPolarYAxis">
+          <param name="Local" value="Classes/Chart/ChartPolarYAxis/Constructor_ChartPolarYAxis.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="ChartAxisTick">
+        <param name="Local" value="Classes/Chart/ChartAxisTick/ChartAxisTick.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Конструктор ChartAxisTick">
+          <param name="Local" value="Classes/Chart/ChartAxisTick/Constructor_ChartAxisTick.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartAxisTick.drawSelf">
+          <param name="Local" value="Classes/Chart/ChartAxisTick/ChartAxisTick.drawSelf.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartAxisTick.Left">
+          <param name="Local" value="Classes/Chart/ChartAxisTick/ChartAxisTick.Left.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartAxisTick.Top">
+          <param name="Local" value="Classes/Chart/ChartAxisTick/ChartAxisTick.Top.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartAxisTick.setText">
+          <param name="Local" value="Classes/Chart/ChartAxisTick/ChartAxisTick.setText.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartAxisTick.getHeight">
+          <param name="Local" value="Classes/Chart/ChartAxisTick/ChartAxisTick.getHeight.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartAxisTick.getWidth">
+          <param name="Local" value="Classes/Chart/ChartAxisTick/ChartAxisTick.getWidth.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartAxisTick.getMeasures">
+          <param name="Local" value="Classes/Chart/ChartAxisTick/ChartAxisTick.getMeasures.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartAxisTick.setMaxWidth">
+          <param name="Local" value="Classes/Chart/ChartAxisTick/ChartAxisTick.setMaxWidth.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartAxisTick.getOriginalSize">
+          <param name="Local" value="Classes/Chart/ChartAxisTick/ChartAxisTick.getOriginalSize.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartAxisTick.setAngle">
+          <param name="Local" value="Classes/Chart/ChartAxisTick/ChartAxisTick.setAngle.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartAxisTick.getOverflow">
+          <param name="Local" value="Classes/Chart/ChartAxisTick/ChartAxisTick.getOverflow.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartAxisTick.Click">
+          <param name="Local" value="Classes/Chart/ChartAxisTick/ChartAxisTick.Click.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartAxisTick.MouseOut">
+          <param name="Local" value="Classes/Chart/ChartAxisTick/ChartAxisTick.MouseOut.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartAxisTick.MouseOver">
+          <param name="Local" value="Classes/Chart/ChartAxisTick/ChartAxisTick.MouseOver.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartAxisTick.getAngleSize">
+          <param name="Local" value="Classes/Chart/ChartAxisTick/ChartAxisTick.getAngleSize.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartAxisTick.AxisValue">
+          <param name="Local" value="Classes/Chart/ChartAxisTick/ChartAxisTick.AxisValue.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartAxisTick.getLineHeight">
+          <param name="Local" value="Classes/Chart/ChartAxisTick/ChartAxisTick.getLineHeight.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartAxisTick.DrawContext">
+          <param name="Local" value="Classes/Chart/ChartAxisTick/ChartAxisTick.DrawContext.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="ChartSplineSerie">
+        <param name="Local" value="Classes/Chart/ChartSplineSerie/ChartSplineSerie.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Конструктор ChartSplineSerie">
+          <param name="Local" value="Classes/Chart/ChartSplineSerie/Constructor_ChartSplineSerie.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="ChartPlotArea">
+        <param name="Local" value="Classes/Chart/ChartPlotArea/ChartPlotArea.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Конструктор ChartPlotArea">
+          <param name="Local" value="Classes/Chart/ChartPlotArea/Constuctor_ChartPlotArea.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartPlotArea.getContext">
+          <param name="Local" value="Classes/Chart/ChartPlotArea/ChartPlotArea.getContext.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartPlotArea.redraw">
+          <param name="Local" value="Classes/Chart/ChartPlotArea/ChartPlotArea.redraw.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="ChartLabel">
+        <param name="Local" value="Classes/ChartLabel/ChartLabel.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Конструктор ChartLabel">
+          <param name="Local" value="Classes/ChartLabel/Constructor_ChartLabel.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartLabel.Alignment">
+          <param name="Local" value="Classes/ChartLabel/ChartLabel.Alignment.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartLabel.Direction">
+          <param name="Local" value="Classes/ChartLabel/ChartLabel.Direction.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartLabel.MaskText">
+          <param name="Local" value="Classes/ChartLabel/ChartLabel.MaskText.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartLabel.NoDataText">
+          <param name="Local" value="Classes/ChartLabel/ChartLabel.NoDataText.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartLabel.ShowHandCursor">
+          <param name="Local" value="Classes/ChartLabel/ChartLabel.ShowHandCursor.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartLabel.Text">
+          <param name="Local" value="Classes/ChartLabel/ChartLabel.text.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartLabel.TextWrapping">
+          <param name="Local" value="Classes/ChartLabel/ChartLabel.TextWrapping.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="ChartMaster">
+        <param name="Local" value="Classes/ChartMaster/ChartMaster.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Конструктор ChartMaster">
+          <param name="Local" value="Classes/ChartMaster/Constructor_ChartMaster.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="ChartMasterFoundation">
+        <param name="Local" value="Classes/ChartMasterFoundation/ChartMasterFoundation.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartMasterFoundation.Chart">
+          <param name="Local" value="Classes/ChartMasterFoundation/ChartMasterFoundation.Chart.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartMasterFoundation.PropertyChanged">
+          <param name="Local" value="Classes/ChartMasterFoundation/ChartMasterFoundation.PropertyChanged.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartMasterFoundation.Options">
+          <param name="Local" value="Classes/ChartMasterFoundation/ChartMasterFoundation.Options.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartMasterFoundation.DataView">
+          <param name="Local" value="Classes/ChartMasterFoundation/ChartMasterFoundation.DataView.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="ChartTooltipCommon">
+        <param name="Local" value="Classes/ChartTooltipCommon/ChartTooltipCommon.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartTooltipCommon.refreshHeaderControl">
+          <param name="Local" value="Classes/ChartTooltipCommon/ChartTooltipCommon.refreshHeaderControl.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="ParallelCoordinates">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ParallelCoordinates">
+          <param name="Local" value="Classes/ParallelCoordinates/ParallelCoordinates/ParallelCoordinates.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Конструктор ParallelCoordinates">
+            <param name="Local" value="Classes/ParallelCoordinates/ParallelCoordinates/Constructor_ParallelCoordinates.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="ParallelCoordinates.Axes">
+            <param name="Local" value="Classes/ParallelCoordinates/ParallelCoordinates/ParallelCoordinates.Axes.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="ParallelCoordinates.requestRenderFrame">
+            <param name="Local" value="Classes/ParallelCoordinates/ParallelCoordinates/ParallelCoordinates.requestRenderFrame.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="ParallelCoordinates.Lines">
+            <param name="Local" value="Classes/ParallelCoordinates/ParallelCoordinates/ParallelCoordinates.Lines.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="ParallelCoordinates.LinesColors">
+            <param name="Local" value="Classes/ParallelCoordinates/ParallelCoordinates/ParallelCoordinates.LinesColors.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="ParallelCoordinates.ChartArea">
+            <param name="Local" value="Classes/ParallelCoordinates/ParallelCoordinates/ParallelCoordinates.ChartArea.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="ParallelCoordinates.AxisDragEnabled">
+            <param name="Local" value="Classes/ParallelCoordinates/ParallelCoordinates/ParallelCoordinates.AxisDragEnabled.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="ParallelCoordinates.setService">
+            <param name="Local" value="Classes/ParallelCoordinates/ParallelCoordinates/ParallelCoordinates.setService.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="ParallelCoordinates.setSource">
+            <param name="Local" value="Classes/ParallelCoordinates/ParallelCoordinates/ParallelCoordinates.setSource.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="ParallelCoordinates.getState">
+            <param name="Local" value="Classes/ParallelCoordinates/ParallelCoordinates/ParallelCoordinates.getState.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="ParallelCoordinates.isLoaded">
+            <param name="Local" value="Classes/ParallelCoordinates/ParallelCoordinates/ParallelCoordinates.isLoaded.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="ParallelCoordinates.RenderToCanvas">
+            <param name="Local" value="Classes/ParallelCoordinates/ParallelCoordinates/ParallelCoordinates.RenderToCanvas.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="ParallelCoordinates.getTooltipColor">
+            <param name="Local" value="Classes/ParallelCoordinates/ParallelCoordinates/ParallelCoordinates.getTooltipColor.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="ParallelCoordinates.getInstance">
+            <param name="Local" value="Classes/ParallelCoordinates/ParallelCoordinates/ParallelCoordinates.getInstance.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="ParallelCoordinates.SelectedAxis">
+            <param name="Local" value="Classes/ParallelCoordinates/ParallelCoordinates/ParallelCoordinates.SelectedAxis.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="ParallelCoordinates.AxisSelectionEnabled">
+            <param name="Local" value="Classes/ParallelCoordinates/ParallelCoordinates/ParallelCoordinates.AxisSelectionEnabled.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="ParallelCoordinates.getColorVisual">
+            <param name="Local" value="Classes/ParallelCoordinates/ParallelCoordinates/ParallelCoordinates.getColorVisual.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="ParallelCoordinates.Axis">
+            <param name="Local" value="Classes/ParallelCoordinates/ParallelCoordinates/ParallelCoordinates.Axis.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="ParallelCoordinates.hoverItems">
+            <param name="Local" value="Classes/ParallelCoordinates/ParallelCoordinates/ParallelCoordinates.hoverItems.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="ParallelCoordinates.selectItems">
+            <param name="Local" value="Classes/ParallelCoordinates/ParallelCoordinates/ParallelCoordinates.selectItems.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="ParallelCoordinates.refreshView">
+            <param name="Local" value="Classes/ParallelCoordinates/ParallelCoordinates/ParallelCoordinates.refreshView.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="ParallelCoordinates.ItemsHovered">
+            <param name="Local" value="Classes/ParallelCoordinates/ParallelCoordinates/ParallelCoordinates.ItemsHovered.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="ParallelCoordinates.Line">
+            <param name="Local" value="Classes/ParallelCoordinates/ParallelCoordinates/ParallelCoordinates.Line.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="ParallelCoordinates.FiltrationEnabled">
+            <param name="Local" value="Classes/ParallelCoordinates/ParallelCoordinates/ParallelCoordinates.FiltrationEnabled.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="ParallelCoordinates.FilterInactiveEffects">
+            <param name="Local" value="Classes/ParallelCoordinates/ParallelCoordinates/ParallelCoordinates.FilterInactiveEffects.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="ParallelCoordinates.FilterActiveEffects">
+            <param name="Local" value="Classes/ParallelCoordinates/ParallelCoordinates/ParallelCoordinates.FilterActiveEffects.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="PCArea">
+          <param name="Local" value="Classes/ParallelCoordinates/PCArea/PCArea.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Конструктор PCArea">
+            <param name="Local" value="Classes/ParallelCoordinates/PCArea/Constructor_PCArea.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="PCArea.PaperArea">
+            <param name="Local" value="Classes/ParallelCoordinates/PCArea/PCArea.PaperArea.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="PCArea.AxesLayer">
+            <param name="Local" value="Classes/ParallelCoordinates/PCArea/PCArea.AxesLayer.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="PCArea.LinesLayer">
+            <param name="Local" value="Classes/ParallelCoordinates/PCArea/PCArea.LinesLayer.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="PCArea.LabelsLayer">
+            <param name="Local" value="Classes/ParallelCoordinates/PCArea/PCArea.LabelsLayer.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="PCArea.getPaper">
+            <param name="Local" value="Classes/ParallelCoordinates/PCArea/PCArea.getPaper.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="PCArea.Header">
+            <param name="Local" value="Classes/ParallelCoordinates/PCArea/PCArea.Header.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="PCArea.Footer">
+            <param name="Local" value="Classes/ParallelCoordinates/PCArea/PCArea.Footer.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="PCArea.Chart">
+            <param name="Local" value="Classes/ParallelCoordinates/PCArea/PCArea.Chart.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="PCAxis">
+          <param name="Local" value="Classes/ParallelCoordinates/PCAxis/PCAxis.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Конструктор PCAxis">
+            <param name="Local" value="Classes/ParallelCoordinates/PCAxis/Constructor_PCAxis.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="PCAxis.Mapping">
+            <param name="Local" value="Classes/ParallelCoordinates/PCAxis/PCAxis.Mapping.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="PCAxis.RangeThickness">
+            <param name="Local" value="Classes/ParallelCoordinates/PCAxis/PCAxis.RangeThickness.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="PCAxis.BaseThickness">
+            <param name="Local" value="Classes/ParallelCoordinates/PCAxis/PCAxis.BaseThickness.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="PCAxis.RangeStroke">
+            <param name="Local" value="Classes/ParallelCoordinates/PCAxis/PCAxis.RangeStroke.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="PCAxis.RangeStrokeThickness">
+            <param name="Local" value="Classes/ParallelCoordinates/PCAxis/PCAxis.RangeStrokeThickness.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="PCAxis.X">
+            <param name="Local" value="Classes/ParallelCoordinates/PCAxis/PCAxis.X.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="PCAxis.BaseStroke">
+            <param name="Local" value="Classes/ParallelCoordinates/PCAxis/PCAxis.BaseStroke.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="PCAxis.RangeFill">
+            <param name="Local" value="Classes/ParallelCoordinates/PCAxis/PCAxis.RangeFill.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="PCAxis.RangeMaxValue">
+            <param name="Local" value="Classes/ParallelCoordinates/PCAxis/PCAxis.RangeMaxValue.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="PCAxis.RangeMinValue">
+            <param name="Local" value="Classes/ParallelCoordinates/PCAxis/PCAxis.RangeMinValue.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="PCAxis.isFiltered">
+            <param name="Local" value="Classes/ParallelCoordinates/PCAxis/PCAxis.isFiltered.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="PCAxis.getWidth">
+            <param name="Local" value="Classes/ParallelCoordinates/PCAxis/PCAxis.getWidth.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="PCAxis.isFiltrationActive">
+            <param name="Local" value="Classes/ParallelCoordinates/PCAxis/PCAxis.isFiltrationActive.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="PCAxis.activateResizer">
+            <param name="Local" value="Classes/ParallelCoordinates/PCAxis/PCAxis.activateResizer.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="PCAxis.moveResizerTo">
+            <param name="Local" value="Classes/ParallelCoordinates/PCAxis/PCAxis.moveResizerTo.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="PCAxis.moveRangeBy">
+            <param name="Local" value="Classes/ParallelCoordinates/PCAxis/PCAxis.moveRangeBy.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="PCAxis.Header">
+            <param name="Local" value="Classes/ParallelCoordinates/PCAxis/PCAxis.Header.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="PCAxis.RangeMaxLabel">
+            <param name="Local" value="Classes/ParallelCoordinates/PCAxis/PCAxis.RangeMaxLabel.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="PCAxis.RangeMinLabel">
+            <param name="Local" value="Classes/ParallelCoordinates/PCAxis/PCAxis.RangeMinLabel.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="PCLine">
+          <param name="Local" value="Classes/ParallelCoordinates/PCLine/PCLine.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Конструктор PCLine">
+            <param name="Local" value="Classes/ParallelCoordinates/PCLine/Constructor_PCLine.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="PCLine.IsFiltered">
+            <param name="Local" value="Classes/ParallelCoordinates/PCLine/PCLine.IsFiltered.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="PCLine.Color">
+            <param name="Local" value="Classes/ParallelCoordinates/PCLine/PCLine.Color.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="PCLine.Thickness">
+            <param name="Local" value="Classes/ParallelCoordinates/PCLine/PCLine.Thickness.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="PCLine.toggleTooltip">
+            <param name="Local" value="Classes/ParallelCoordinates/PCLine/PCLine.toggleTooltip.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="PCLine.Tooltip">
+            <param name="Local" value="Classes/ParallelCoordinates/PCLine/PCLine.Tooltip.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="PCLine.getTooltipColor">
+            <param name="Local" value="Classes/ParallelCoordinates/PCLine/PCLine.getTooltipColor.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="PCLine.getTooltipValues">
+            <param name="Local" value="Classes/ParallelCoordinates/PCLine/PCLine.getTooltipValues.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="PCObject">
+          <param name="Local" value="Classes/ParallelCoordinates/PCObject/PCObject.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Конструктор PCObject">
+            <param name="Local" value="Classes/ParallelCoordinates/PCObject/Constructor_PCObject.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="PCObject.draw">
+            <param name="Local" value="Classes/ParallelCoordinates/PCObject/PCObject.draw.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="PCObject.Chart">
+            <param name="Local" value="Classes/ParallelCoordinates/PCObject/PCObject.Chart.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="PCObject.getName">
+            <param name="Local" value="Classes/ParallelCoordinates/PCObject/PCObject.getName.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="PCObject.renderFrame">
+            <param name="Local" value="Classes/ParallelCoordinates/PCObject/PCObject.renderFrame.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="PCObject.isCoordsInside">
+            <param name="Local" value="Classes/ParallelCoordinates/PCObject/PCObject.isCoordsInside.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="PCObject.IsVisible">
+            <param name="Local" value="Classes/ParallelCoordinates/PCObject/PCObject.IsVisible.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="PCObject.hide">
+            <param name="Local" value="Classes/ParallelCoordinates/PCObject/PCObject.hide.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="PCObject.animate">
+            <param name="Local" value="Classes/ParallelCoordinates/PCObject/PCObject.animate.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="PCVisual">
+          <param name="Local" value="Classes/ParallelCoordinates/PCVisual/PCVisual.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Конструктор PCVisual">
+            <param name="Local" value="Classes/ParallelCoordinates/PCVisual/Constructor_PCVisual.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="PCVisual.Mappings">
+            <param name="Local" value="Classes/ParallelCoordinates/PCVisual/PCVisual.Mappings.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="RatingChart">
+        <param name="Local" value="Classes/RatingChart/RatingChart.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Конструктор RatingChart">
+          <param name="Local" value="Classes/RatingChart/RatingChart_Example.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="RatingChart.ActiveColumn">
+          <param name="Local" value="Classes/RatingChart/RatingChart.ActiveColumn.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="RatingChart.AggregatedSerie">
+          <param name="Local" value="Classes/RatingChart/RatingChart.AggregatedSerie.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="RatingChart.AggregationAfter">
+          <param name="Local" value="Classes/RatingChart/RatingChart.AggregationAfter.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="RatingChart.AllowMultipleSelection">
+          <param name="Local" value="Classes/RatingChart/RatingChart.AllowMultipleSelection.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="RatingChart.AreDataColumnsResizable">
+          <param name="Local" value="Classes/RatingChart/RatingChart.AreDataColumnsResizable.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="RatingChart.beginUpdate">
+          <param name="Local" value="Classes/RatingChart/RatingChart.beginUpdate.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="RatingChart.ColumnSpacing">
+          <param name="Local" value="Classes/RatingChart/RatingChart.ColumnSpacing.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="RatingChart.DataColumns">
+          <param name="Local" value="Classes/RatingChart/RatingChart.DataColumns.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="RatingChart.DataSource">
+          <param name="Local" value="Classes/RatingChart/RatingChart.DataSource.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="RatingChart.DateChanged">
+          <param name="Local" value="Classes/RatingChart/RatingChart.DateChanged.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="RatingChart.DelayDuration">
+          <param name="Local" value="Classes/RatingChart/RatingChart.DelayDuration.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="RatingChart.deselectAll">
+          <param name="Local" value="Classes/RatingChart/RatingChart.deselectAll.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="RatingChart.draw">
+          <param name="Local" value="Classes/RatingChart/RatingChart.draw.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="RatingChart.drawHeader">
+          <param name="Local" value="Classes/RatingChart/RatingChart.drawHeader.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="RatingChart.endUpdate">
+          <param name="Local" value="Classes/RatingChart/RatingChart.endUpdate.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="RatingChart.getDataColumn">
+          <param name="Local" value="Classes/RatingChart/RatingChart.getDataColumn.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="RatingChart.getSelection">
+          <param name="Local" value="Classes/RatingChart/RatingChart.getSelection.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="RatingChart.getSerie">
+          <param name="Local" value="Classes/RatingChart/RatingChart.getSerie.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="RatingChart.getSerieByVerticalOffset">
+          <param name="Local" value="Classes/RatingChart/RatingChart.getSerieByVerticalOffset.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="RatingChart.getVisibleSeriesCount">
+          <param name="Local" value="Classes/RatingChart/RatingChart.getVisibleSeriesCount.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="RatingChart.getVisibleSeriesHeight">
+          <param name="Local" value="Classes/RatingChart/RatingChart.getVisibleSeriesHeight.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="RatingChart.GraphColumn">
+          <param name="Local" value="Classes/RatingChart/RatingChart.GraphColumn.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="RatingChart.Header">
+          <param name="Local" value="Classes/RatingChart/RatingChart.Header.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="RatingChart.IndexBrush">
+          <param name="Local" value="Classes/RatingChart/RatingChart.IndexBrush.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="RatingChart.IndexColumn">
+          <param name="Local" value="Classes/RatingChart/RatingChart.IndexColumn.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="RatingChart.isAggregatedSerieVisible">
+          <param name="Local" value="Classes/RatingChart/RatingChart.isAggregatedSerieVisible.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="RatingChart.LineBrush">
+          <param name="Local" value="Classes/RatingChart/RatingChart.LineBrush.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="RatingChart.Max">
+          <param name="Local" value="Classes/RatingChart/RatingChart.Max.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="RatingChart.Min">
+          <param name="Local" value="Classes/RatingChart/RatingChart.Min.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="RatingChart.MinColumnWidth">
+          <param name="Local" value="Classes/RatingChart/RatingChart.MinColumnWidth.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="RatingChart.MoveActiveToEnd">
+          <param name="Local" value="Classes/RatingChart/RatingChart.MoveActiveToEnd.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="RatingChart.MoveColumn">
+          <param name="Local" value="Classes/RatingChart/RatingChart.MoveColumn.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="RatingChart.MoveItemsTimeout">
+          <param name="Local" value="Classes/RatingChart/RatingChart.MoveItemsTimeout.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="RatingChart.NameColumn">
+          <param name="Local" value="Classes/RatingChart/RatingChart.NameColumn.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="RatingChart.NegativeLineBrush">
+          <param name="Local" value="Classes/RatingChart/RatingChart.NegativeLineBrush.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="RatingChart.NumberFormat">
+          <param name="Local" value="Classes/RatingChart/RatingChart.NumberFormat.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="RatingChart.PointClick">
+          <param name="Local" value="Classes/RatingChart/RatingChart.PointClick.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="RatingChart.selectAll">
+          <param name="Local" value="Classes/RatingChart/RatingChart.selectAll.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="RatingChart.Selected">
+          <param name="Local" value="Classes/RatingChart/RatingChart.Selected.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="RatingChart.SelectionStart">
+          <param name="Local" value="Classes/RatingChart/RatingChart.SelectionStart.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="RatingChart.Series">
+          <param name="Local" value="Classes/RatingChart/RatingChart.Series.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="RatingChart.ShowSplitter">
+          <param name="Local" value="Classes/RatingChart/RatingChart.ShowSplitter.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="RatingChart.ShowToolTip">
+          <param name="Local" value="Classes/RatingChart/RatingChart.ShowToolTip.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="RatingChart.showToolTip">
+          <param name="Local" value="Classes/RatingChart/RatingChart.showToolTip_M.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="RatingChart.ShowValueTimeout">
+          <param name="Local" value="Classes/RatingChart/RatingChart.ShowValueTimeout.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="RatingChart.Sorted">
+          <param name="Local" value="Classes/RatingChart/RatingChart.Sorted.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="RatingChart.Sorting">
+          <param name="Local" value="Classes/RatingChart/RatingChart.Sorting.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="RatingChart.SortMethod">
+          <param name="Local" value="Classes/RatingChart/RatingChart.SortMethod.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="RatingChart.SplittedTop">
+          <param name="Local" value="Classes/RatingChart/RatingChart.SplittedTop.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="RatingChart.Timeline">
+          <param name="Local" value="Classes/RatingChart/RatingChart.Timeline.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="RatingChart.TimelinePosition">
+          <param name="Local" value="Classes/RatingChart/RatingChart.TimelinePosition.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="RatingChart.TrendLine">
+          <param name="Local" value="Classes/RatingChart/RatingChart.TrendLine.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="RatingChart.update">
+          <param name="Local" value="Classes/RatingChart/RatingChart.update.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="RatingChart.UseAnimation">
+          <param name="Local" value="Classes/RatingChart/RatingChart.UseAnimation.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="RatingChartColumn">
+        <param name="Local" value="Classes/RatingChartColumn/RatingChartColumn.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="RatingChartColumn.Chart">
+          <param name="Local" value="Classes/RatingChartColumn/RatingChartColumn.Chart.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="RatingChartColumn.IsActive">
+          <param name="Local" value="Classes/RatingChartColumn/RatingChartColumn.IsActive.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="RatingChartColumn.IsHeaderVisible">
+          <param name="Local" value="Classes/RatingChartColumn/RatingChartColumn.IsHeaderVisible.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="RatingChartColumn.IsResizable">
+          <param name="Local" value="Classes/RatingChartColumn/RatingChartColumn.IsResizable.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="RatingChartColumn.IsVisible">
+          <param name="Local" value="Classes/RatingChartColumn/RatingChartColumn.IsVisible.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="RatingChartColumn.Left">
+          <param name="Local" value="Classes/RatingChartColumn/RatingChartColumn.Left.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="RatingChartColumn.Title">
+          <param name="Local" value="Classes/RatingChartColumn/RatingChartColumn.Title.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="RatingChartColumn.Width">
+          <param name="Local" value="Classes/RatingChartColumn/RatingChartColumn.Width.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="RatingChartDataColumn">
+        <param name="Local" value="Classes/RatingChartDataColumn/RatingChartDataColumn.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="RatingChartHeader">
+        <param name="Local" value="Classes/RatingChartHeader/RatingChartHeader.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="RatingChartHeader.Chart">
+          <param name="Local" value="Classes/RatingChartHeader/RatingChartHeader.Chart.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="RatingChartHeader.draw">
+          <param name="Local" value="Classes/RatingChartHeader/RatingChartHeader.draw.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="RatingChartHeader.ExpandLastColumn">
+          <param name="Local" value="Classes/RatingChartHeader/RatingChartHeader.ExpandLastColumn.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="RatingChartHeader.getVisibleDataColumnWidth">
+          <param name="Local" value="Classes/RatingChartHeader/RatingChartHeader.getVisibleDataColumnWidth.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="RatingChartHeader.getVisibleIndexColumnWidth">
+          <param name="Local" value="Classes/RatingChartHeader/RatingChartHeader.getVisibleIndexColumnWidth.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="RatingChartHeader.getVisibleMoveColumnWidth">
+          <param name="Local" value="Classes/RatingChartHeader/RatingChartHeader.getVisibleMoveColumnWidth.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="RatingChartHeader.getVisibleNameColumnWidth">
+          <param name="Local" value="Classes/RatingChartHeader/RatingChartHeader.getVisibleNameColumnWidth.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="RatingChartSerie">
+        <param name="Local" value="Classes/RatingChartSerie/RatingChartSerie.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="RatingChartSerie.animateGraph">
+          <param name="Local" value="Classes/RatingChartSerie/RatingChartSerie.animateGraph.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="RatingChartSerie.animatePosition">
+          <param name="Local" value="Classes/RatingChartSerie/RatingChartSerie.animatePosition.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="RatingChartSerie.Chart">
+          <param name="Local" value="Classes/RatingChartSerie/RatingChartSerie.Chart.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="RatingChartSerie.draw">
+          <param name="Local" value="Classes/RatingChartSerie/RatingChartSerie.draw.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="RatingChartSerie.getToolTipValues">
+          <param name="Local" value="Classes/RatingChartSerie/RatingChartSerie.getToolTipValues.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="RatingChartSerie.Index">
+          <param name="Local" value="Classes/RatingChartSerie/RatingChartSerie.Index.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="RatingChartSerie.IndexBrush">
+          <param name="Local" value="Classes/RatingChartSerie/RatingChartSerie.IndexBrush.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="RatingChartSerie.IsSelected">
+          <param name="Local" value="Classes/RatingChartSerie/RatingChartSerie.IsSelected.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="RatingChartSerie.LineBrush">
+          <param name="Local" value="Classes/RatingChartSerie/RatingChartSerie.LineBrush.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="RatingChartSerie.Move">
+          <param name="Local" value="Classes/RatingChartSerie/RatingChartSerie.Move.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="RatingChartSerie.Name">
+          <param name="Local" value="Classes/RatingChartSerie/RatingChartSerie.Name.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="RatingChartSerie.NegativeLineBrush">
+          <param name="Local" value="Classes/RatingChartSerie/RatingChartSerie.NegativeLineBrush.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="RatingChartSerie.resetAsAggregated">
+          <param name="Local" value="Classes/RatingChartSerie/RatingChartSerie.resetAsAggregated.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="RatingChartSerie.updateAsAggregated">
+          <param name="Local" value="Classes/RatingChartSerie/RatingChartSerie.updateAsAggregated.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="RatingChartSerie.updateData">
+          <param name="Local" value="Classes/RatingChartSerie/RatingChartSerie.updateData.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="TreeGantDiagram">
+        <param name="Local" value="Classes/TreeGantDiagram/TreeGantDiagram.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TreeGantDiagram.clear">
+          <param name="Local" value="Classes/TreeGantDiagram/TreeGantDiagram.clear.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TreeGantDiagram.DTimelineEndTime">
+          <param name="Local" value="Classes/TreeGantDiagram/TreeGantDiagram.DTimelineEndTime.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TreeGantDiagram.DTimelineStartTime">
+          <param name="Local" value="Classes/TreeGantDiagram/TreeGantDiagram.DTimelineStartTime.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TreeGantDiagram.getDiagram">
+          <param name="Local" value="Classes/TreeGantDiagram/TreeGantDiagram.getDiagram.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TreeGantDiagram.getSplitter">
+          <param name="Local" value="Classes/TreeGantDiagram/TreeGantDiagram.getSplitter.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TreeGantDiagram.getTreeList">
+          <param name="Local" value="Classes/TreeGantDiagram/TreeGantDiagram.getTreeList.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TreeGantDiagram.loadFrom">
+          <param name="Local" value="Classes/TreeGantDiagram/TreeGantDiagram.loadFrom.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TreeGantDiagram.setTimeStep">
+          <param name="Local" value="Classes/TreeGantDiagram/TreeGantDiagram.setTimeStep.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TreeGantDiagram.TColumns">
+          <param name="Local" value="Classes/TreeGantDiagram/TreeGantDiagram.TColumns.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="GantDiagram">
+        <param name="Local" value="Classes/GantDiagram/GantDiagram.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="GantDiagram.HintShowing">
+          <param name="Local" value="Classes/GantDiagram/GantDiagram.HintShowing.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="GantDiagram.LineClick">
+          <param name="Local" value="Classes/GantDiagram/GantDiagram.LineClick.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="GantDiagram.LineHovered">
+          <param name="Local" value="Classes/GantDiagram/GantDiagram.LineHovered.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="GantDiagram.setShowStartTimeLabel">
+          <param name="Local" value="Classes/GantDiagram/GantDiagram.setShowStartTimeLabel.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="GantDiagram.setTimeAxisShift">
+          <param name="Local" value="Classes/GantDiagram/GantDiagram.setTimeAxisShift.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="GantLine">
+        <param name="Local" value="Classes/GantLine/GantLine.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="GantLine.Value">
+          <param name="Local" value="Classes/GantLine/GantLine.Value.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="EaxRadiusAngleChartView">
+        <param name="Local" value="Classes/EaxRadiusAngleChartView/EaxRadiusAngleChartView.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Пример использования диаграммы с изменяемым радиусом">
+          <param name="Local" value="Classes/EaxRadiusAngleChartView/EaxRadiusAngleChartView_Example.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="EaxRadiusAngleChartView.Props">
+          <param name="Local" value="Classes/EaxRadiusAngleChartView/EaxRadiusAngleChartView.Props.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="PP.Ui.TrellisPlugin">
+        <param name="Local" value="Classes/TrellisChart/PP.Ui.TrellisPlugin.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      </ul>
+    </ul>
+</ul>
+</html>

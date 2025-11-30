@@ -1,0 +1,314 @@
+<html>
+<!-- Sitemap 1.0 -->
+<object type="text/site properties">
+  <param name="SiteType" value="index">
+</object>
+<ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Валидация данных">
+    <param name="See Also" value="Валидация данных">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Группировка правил">
+      <param name="Name" value="Настройка группы правил валидации">
+      <param name="Local" value="Grouping_types.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Группировка правил валидации">
+      <param name="Name" value="Настройка группы правил валидации">
+      <param name="Local" value="Grouping_types.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Работа с результатами валидации">
+      <param name="Name" value="Работа с результатами валидации">
+      <param name="Local" value="Calculation_result.htm">
+    </object>
+    </ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Группировка правил валидации">
+    <param name="Name" value="Настройка группы правил валидации">
+    <param name="Local" value="Grouping_types.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Настройка группы правил валидации">
+    <param name="Name" value="Настройка группы правил валидации">
+    <param name="Local" value="Grouping_types.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Работа с группами правил">
+    <param name="Name" value="Настройка группы правил валидации">
+    <param name="Local" value="Grouping_types.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Работа с группами правил валидации">
+    <param name="Name" value="Настройка группы правил валидации">
+    <param name="Local" value="Grouping_types.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Выбор календарной динамики проверяемых данных">
+    <param name="Name" value="Настройка правила валидации">
+    <param name="Local" value="Data_Validation_Types.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Выбор типа валидации">
+    <param name="Name" value="Настройка правила валидации">
+    <param name="Local" value="Data_Validation_Types.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Анализ корреляционной зависимости">
+      <param name="Name" value="Анализ корреляционной зависимости: Правило валидации">
+      <param name="Local" value="Validation_types/Correlation_analysis.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Анализ отклонений в компонентах">
+      <param name="Name" value="Анализ отклонений в компонентах: Правило валидации">
+      <param name="Local" value="Validation_types/Component_mismatch.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Анализ статистических выбросов">
+      <param name="Name" value="Анализ статистических выбросов: Правило валидации">
+      <param name="Local" value="Validation_types/Statistical_outlier.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Анализ темпа роста">
+      <param name="Name" value="Анализ темпа роста: Правило валидации">
+      <param name="Local" value="Validation_types/Growth_rate_analysis.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Пропуски в данных">
+      <param name="Name" value="Пропуски в данных: Правило валидации">
+      <param name="Local" value="Validation_types/Missing_data.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Пропуски в метаданных">
+      <param name="Name" value="Пропуски в метаданных: Правило валидации">
+      <param name="Local" value="Validation_types/Missing_metadata.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Сравнение версий данных">
+      <param name="Name" value="Сравнение версий данных: Правило валидации">
+      <param name="Local" value="Validation_types/Cross-Version_data_comparison.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Сравнение версий метаданных">
+      <param name="Name" value="Сравнение версий метаданных: Правило валидации">
+      <param name="Local" value="Validation_types/Cross-Version_metadata_comparison.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Сравнение отношения наблюдений">
+      <param name="Name" value="Сравнение отношения наблюдений: Правило валидации">
+      <param name="Local" value="Validation_types/Ratio.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Сравнение по выражению">
+      <param name="Name" value="Сравнение по выражению: Правило валидации">
+      <param name="Local" value="Validation_types/Custom_analysis.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Сравнение с базой данных временных рядов">
+      <param name="Name" value="Сравнение с базой данных временных рядов: Правило валидации">
+      <param name="Local" value="Validation_types/Cross-Database_comparison.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Сравнение с числом">
+      <param name="Name" value="Сравнение с числом: Правило валидации">
+      <param name="Local" value="Validation_types/Level_analysis.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Сравнение трендов">
+      <param name="Name" value="Сравнение трендов: Правило валидации">
+      <param name="Local" value="Validation_types/Trend_analysis.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Сравнение уровней динамики">
+      <param name="Name" value="Сравнение уровней динамики: Правило валидации">
+      <param name="Local" value="Validation_types/Cross-Frequency_comparison.htm">
+    </object>
+    </ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Настройка периода расчёта валидации">
+    <param name="Name" value="Настройка правила валидации">
+    <param name="Local" value="Data_Validation_Types.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Настройка правила валидации">
+    <param name="Name" value="Настройка правила валидации">
+    <param name="Local" value="Data_Validation_Types.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Выбор типа валидации">
+      <param name="Name" value="Настройка правила валидации">
+      <param name="Local" value="Data_Validation_Types.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Настройка периода расчёта валидации">
+      <param name="Name" value="Настройка правила валидации">
+      <param name="Local" value="Data_Validation_Types.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Настройка стиля оформления ошибок валидации">
+      <param name="Name" value="Настройка правила валидации">
+      <param name="Local" value="Data_Validation_Types.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Ограничение проверяемых данных">
+      <param name="Name" value="Настройка правила валидации">
+      <param name="Local" value="Data_Validation_Types.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Редактирование наименования и описания">
+      <param name="Name" value="Настройка правила валидации">
+      <param name="Local" value="Data_Validation_Types.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Установка уровня важности">
+      <param name="Name" value="Настройка правила валидации">
+      <param name="Local" value="Data_Validation_Types.htm">
+    </object>
+    </ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Настройка стиля оформления ошибок валидации">
+    <param name="Name" value="Настройка правила валидации">
+    <param name="Local" value="Data_Validation_Types.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Ограничение проверяемых данных">
+    <param name="Name" value="Настройка правила валидации">
+    <param name="Local" value="Data_Validation_Types.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Редактирование наименования и описания">
+    <param name="Name" value="Настройка правила валидации">
+    <param name="Local" value="Data_Validation_Types.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Установка уровня важности">
+    <param name="Name" value="Настройка правила валидации">
+    <param name="Local" value="Data_Validation_Types.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Объяснить ошибку валидации">
+    <param name="Name" value="Работа с результатами валидации">
+    <param name="Local" value="Calculation_result.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Работа с результатами валидации">
+    <param name="Name" value="Работа с результатами валидации">
+    <param name="Local" value="Calculation_result.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Сопоставление атрибутов">
+    <param name="Name" value="Сопоставление атрибутов">
+    <param name="Local" value="CrossDatabaseMappings.htm">
+    <param name="Name" value="Сравнение с базой данных временных рядов: Правило валидации">
+    <param name="Local" value="Validation_types/Cross-Database_comparison.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Сравнение с базой данных временных рядов">
+    <param name="Name" value="Сравнение с базой данных временных рядов: Правило валидации">
+    <param name="Local" value="Validation_types/Cross-Database_comparison.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Сопоставление атрибутов">
+      <param name="Name" value="Сопоставление атрибутов">
+      <param name="Local" value="CrossDatabaseMappings.htm">
+    </object>
+    </ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Анализ статистических выбросов">
+    <param name="Name" value="Анализ статистических выбросов: быстрая валидация данных">
+    <param name="Local" value="Fast_Validation/FastVLA_Statistical_outlier.htm">
+    <param name="Name" value="Анализ статистических выбросов: Правило валидации">
+    <param name="Local" value="Validation_types/Statistical_outlier.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Быстрая валидация данных">
+    <param name="See Also" value="Быстрая валидация данных">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Анализ статистических выбросов">
+      <param name="Name" value="Анализ статистических выбросов: быстрая валидация данных">
+      <param name="Local" value="Fast_Validation/FastVLA_Statistical_outlier.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Сравнение версий данных">
+      <param name="Name" value="Сравнение версий данных: быстрая валидация данных">
+      <param name="Local" value="Fast_Validation/FastVLA_RevisionComparison.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Сравнение с числом">
+      <param name="Name" value="Сравнение с числом: быстрая валидация данных">
+      <param name="Local" value="Fast_Validation/FastVLA_ComparisonValue.htm">
+    </object>
+    </ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Сравнение версий данных">
+    <param name="Name" value="Сравнение версий данных: быстрая валидация данных">
+    <param name="Local" value="Fast_Validation/FastVLA_RevisionComparison.htm">
+    <param name="Name" value="Сравнение версий данных: Правило валидации">
+    <param name="Local" value="Validation_types/Cross-Version_data_comparison.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Сравнение с числом">
+    <param name="Name" value="Сравнение с числом: быстрая валидация данных">
+    <param name="Local" value="Fast_Validation/FastVLA_ComparisonValue.htm">
+    <param name="Name" value="Сравнение с числом: Правило валидации">
+    <param name="Local" value="Validation_types/Level_analysis.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Анализ корреляционной зависимости">
+    <param name="Name" value="Анализ корреляционной зависимости: Правило валидации">
+    <param name="Local" value="Validation_types/Correlation_analysis.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Анализ отклонений в компонентах">
+    <param name="Name" value="Анализ отклонений в компонентах: Правило валидации">
+    <param name="Local" value="Validation_types/Component_mismatch.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Анализ темпа роста">
+    <param name="Name" value="Анализ темпа роста: Правило валидации">
+    <param name="Local" value="Validation_types/Growth_rate_analysis.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Пропуски в данных">
+    <param name="Name" value="Пропуски в данных: Правило валидации">
+    <param name="Local" value="Validation_types/Missing_data.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Пропуски в метаданных">
+    <param name="Name" value="Пропуски в метаданных: Правило валидации">
+    <param name="Local" value="Validation_types/Missing_metadata.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Сравнение версий метаданных">
+    <param name="Name" value="Сравнение версий метаданных: Правило валидации">
+    <param name="Local" value="Validation_types/Cross-Version_metadata_comparison.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Сравнение отношения наблюдений">
+    <param name="Name" value="Сравнение отношения наблюдений: Правило валидации">
+    <param name="Local" value="Validation_types/Ratio.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Сравнение по выражению">
+    <param name="Name" value="Сравнение по выражению: Правило валидации">
+    <param name="Local" value="Validation_types/Custom_analysis.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Сравнение трендов">
+    <param name="Name" value="Сравнение трендов: Правило валидации">
+    <param name="Local" value="Validation_types/Trend_analysis.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Сравнение уровней динамики">
+    <param name="Name" value="Сравнение уровней динамики: Правило валидации">
+    <param name="Local" value="Validation_types/Cross-Frequency_comparison.htm">
+  </object>
+</ul>
+</html>

@@ -1,0 +1,1314 @@
+<html>
+<!-- Sitemap 1.0 -->
+<object type="text/site properties">
+  <param name="SiteType" value="toc">
+  <param name="Image Width" value="16">
+  <param name="Window Styles" value="0x800027">
+  <param name="ExWindow Styles" value="0x100">
+</object>
+<ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Разработка прикладного приложения">
+    <param name="Local" value="01_Development_Environment/01_Purpose_of_the_constructor/Purpose_of_the_constructor.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Создание сборки">
+      <param name="Local" value="01_Development_Environment/02_Work_in_Development_Environment/DevEnv_Object/DevEnv_Assembly.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Точка входа">
+        <param name="Local" value="01_Development_Environment/02_Work_in_Development_Environment/DevEnv_Object/entry_point.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Выбор главного модуля">
+        <param name="Local" value="01_Development_Environment/03_Windows_of_Development_Environment/Choice_main_module.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Инспектор сборок">
+        <param name="Local" value="01_Development_Environment/03_Windows_of_Development_Environment/Inspector_assemblies.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Создание веб-формы и размещение компонентов">
+      <param name="Local" value="01_Development_Environment/02_Work_in_Development_Environment/DevEnv_Object/Web_Form.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Особенности работы веб-форм">
+        <param name="Local" value="Web/features_web_form.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Выделение компонентов формы">
+        <param name="Local" value="01_Development_Environment/02_Work_in_Development_Environment/Separation_component_forms.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Компоненты веб-форм">
+        <param name="Local" value="Web_components/web_components.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Button">
+          <param name="Local" value="Web_components/Button.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="CheckBox">
+          <param name="Local" value="Web_components/CheckBox.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ComboBox">
+          <param name="Local" value="Web_components/ComboBox.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="DateTimePicker">
+          <param name="Local" value="Web_components/DateTimePicker.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="DimensionCombo">
+          <param name="Local" value="Web_components/DimensionCombo.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="DimensionTree">
+          <param name="Local" value="Web_components/DimensionTree.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="FileOpenDialog">
+          <param name="Local" value="Web_components/FileOpenDialog.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="FileSaveDialog">
+          <param name="Local" value="Web_components/FileSaveDialog.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="FloatEdit">
+          <param name="Local" value="Web_components/FloatEdit.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Frame">
+          <param name="Local" value="Web_components/Frame.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Input">
+          <param name="Local" value="Web_components/Input.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IntegerEdit">
+          <param name="Local" value="Web_components/IntegerEdit.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Label">
+          <param name="Local" value="Web_components/Label.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MetabaseTreeCombo">
+          <param name="Local" value="Web_components/MetabaseTreeCombo.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Panel">
+          <param name="Local" value="Web_components/Panel.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="PopupMenu">
+          <param name="Local" value="Web_components/PopupMenu.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="RadioButton">
+          <param name="Local" value="Web_components/RadioButton.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ReportBox">
+          <param name="Local" value="Web_components/ReportBox.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TabControl">
+          <param name="Local" value="Web_components/TabControl.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TextArea">
+          <param name="Local" value="Web_components/TextArea.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TreeCombo">
+          <param name="Local" value="Web_components/TreeCombo.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TreeList">
+          <param name="Local" value="Web_components/TreeList.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Создание формы и размещение компонентов">
+      <param name="Local" value="01_Development_Environment/02_Work_in_Development_Environment/DevEnv_Object/DevEnv_Form.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Панели компонентов">
+        <param name="Local" value="01_Development_Environment/03_Windows_of_Development_Environment/Panels_component.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Порядок обхода компонентов">
+        <param name="Local" value="01_Development_Environment/03_Windows_of_Development_Environment/Order_avoid_component.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Инспектор объектов">
+        <param name="Local" value="01_Development_Environment/03_Windows_of_Development_Environment/Object_Inspector.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Динамическое создание компонентов">
+        <param name="Local" value="01_Development_Environment/02_Work_in_Development_Environment/DevEnv_Object/Dynamic_component_creation.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Генерация событий">
+        <param name="Local" value="01_Development_Environment/02_Work_in_Development_Environment/DevEnv_Object/event_generation.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Компоненты среды разработки">
+        <param name="Local" value="01_Development_Environment/Development_environment_components.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Форма">
+          <param name="Local" value="02_Components_constructor_forms/Form.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Размещение компонентов на форме">
+          <param name="Local" value="01_Development_Environment/02_Work_in_Development_Environment/Accomodation_component_on_form.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Выделение компонентов формы">
+          <param name="Local" value="01_Development_Environment/02_Work_in_Development_Environment/Separation_component_forms.htm#642b3b9347ca42c9b00b820c00c373fa=1">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Стандартные компоненты">
+          <param name="Local" value="02_Components_constructor_forms/01_Standart_Components/Standart_Components.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="ActionList">
+            <param name="Local" value="02_Components_constructor_forms/01_Standart_Components/ActionList.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Button">
+            <param name="Local" value="02_Components_constructor_forms/01_Standart_Components/Button.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="CheckBox">
+            <param name="Local" value="02_Components_constructor_forms/01_Standart_Components/CheckBox.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="ColorDialog">
+            <param name="Local" value="02_Components_constructor_forms/01_Standart_Components/ColorDialog.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="ComboBox">
+            <param name="Local" value="02_Components_constructor_forms/01_Standart_Components/ComboBox.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="EditBox">
+            <param name="Local" value="02_Components_constructor_forms/01_Standart_Components/EditBox.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="FileOpenDialog">
+            <param name="Local" value="02_Components_constructor_forms/01_Standart_Components/FileOpenDialog.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="FileSaveDialog">
+            <param name="Local" value="02_Components_constructor_forms/01_Standart_Components/FileSaveDialog.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="FolderBrowserDialog">
+            <param name="Local" value="02_Components_constructor_forms/01_Standart_Components/FolderBrowserDialog.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="FontDialog">
+            <param name="Local" value="02_Components_constructor_forms/01_Standart_Components/FontDialog.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Frame">
+            <param name="Local" value="02_Components_constructor_forms/01_Standart_Components/Frame.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="GroupBox">
+            <param name="Local" value="02_Components_constructor_forms/01_Standart_Components/GroupBox.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Hyperlink">
+            <param name="Local" value="02_Components_constructor_forms/01_Standart_Components/Hyperlink.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Label">
+            <param name="Local" value="02_Components_constructor_forms/01_Standart_Components/Label.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="ListBox">
+            <param name="Local" value="02_Components_constructor_forms/01_Standart_Components/ListBox.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="MainMenu">
+            <param name="Local" value="02_Components_constructor_forms/01_Standart_Components/MainMenu.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Memo">
+            <param name="Local" value="02_Components_constructor_forms/01_Standart_Components/Memo.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Panel">
+            <param name="Local" value="02_Components_constructor_forms/01_Standart_Components/Panel.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="PopupMenu">
+            <param name="Local" value="02_Components_constructor_forms/01_Standart_Components/PopupMenu.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="RadioButton">
+            <param name="Local" value="02_Components_constructor_forms/01_Standart_Components/RadioButton.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Splitter">
+            <param name="Local" value="02_Components_constructor_forms/01_Standart_Components/Splitter.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Timer">
+            <param name="Local" value="02_Components_constructor_forms/01_Standart_Components/Timer.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Дополнительные компоненты">
+          <param name="Local" value="02_Components_constructor_forms/02_Additional_components/Additional_components.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="BannerBar">
+            <param name="Local" value="02_Components_constructor_forms/02_Additional_components/BannerBar.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Bevel">
+            <param name="Local" value="02_Components_constructor_forms/02_Additional_components/Bevel.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Breadcrumb">
+            <param name="Local" value="02_Components_constructor_forms/02_Additional_components/Breadcrumb.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="CalcCubeFormulaEdit">
+            <param name="Local" value="02_Components_constructor_forms/02_Additional_components/CalcCubeFormulaEdit.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="CalcCubeFormulaEditEx">
+            <param name="Local" value="02_Components_constructor_forms/02_Additional_components/CalcCubeFormulaEditEx.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Chart3DBox">
+            <param name="Local" value="02_Components_constructor_forms/02_Additional_components/Chart3DBox.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="ControlBar">
+            <param name="Local" value="02_Components_constructor_forms/02_Additional_components/ControlBar.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="CtrlGroupConditions">
+            <param name="Local" value="02_Components_constructor_forms/02_Additional_components/CtrlGroupConditions.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="DateTimePicker">
+            <param name="Local" value="02_Components_constructor_forms/02_Additional_components/DateTimePicker.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="DateTimePickerEx">
+            <param name="Local" value="02_Components_constructor_forms/02_Additional_components/DateTimePickerEx.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="DropForm">
+            <param name="Local" value="02_Components_constructor_forms/02_Additional_components/DropForm.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="ExpressionEdit">
+            <param name="Local" value="02_Components_constructor_forms/02_Additional_components/ExpressionEdit.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="ExpressionEditEx">
+            <param name="Local" value="02_Components_constructor_forms/02_Additional_components/ExpressionEditEx.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="FloatEdit">
+            <param name="Local" value="02_Components_constructor_forms/02_Additional_components/FloatEdit.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="DecimalEdit">
+            <param name="Local" value="02_Components_constructor_forms/02_Additional_components/DecimalEdit.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="GlobalImageList">
+            <param name="Local" value="02_Components_constructor_forms/02_Additional_components/GlobalImageList.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="ImageBox">
+            <param name="Local" value="02_Components_constructor_forms/02_Additional_components/ImageBox.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="ImageButton">
+            <param name="Local" value="02_Components_constructor_forms/02_Additional_components/ImageButton.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="ImageList">
+            <param name="Local" value="02_Components_constructor_forms/02_Additional_components/ImageList.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="IntegerEdit">
+            <param name="Local" value="02_Components_constructor_forms/02_Additional_components/IntegerEdit.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="ListView">
+            <param name="Local" value="02_Components_constructor_forms/02_Additional_components/ListView.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="MaskEdit">
+            <param name="Local" value="02_Components_constructor_forms/02_Additional_components/MaskEdit.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="MenuButton">
+            <param name="Local" value="02_Components_constructor_forms/02_Additional_components/MenuButton.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="MetabaseListView">
+            <param name="Local" value="02_Components_constructor_forms/02_Additional_components/MetabaseListView.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="MetabaseOpenDialog">
+            <param name="Local" value="02_Components_constructor_forms/02_Additional_components/MetabaseOpenDialog.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="MetabaseSaveDialog">
+            <param name="Local" value="02_Components_constructor_forms/02_Additional_components/MetabaseSaveDialog.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="MetabaseTreeCombo">
+            <param name="Local" value="02_Components_constructor_forms/02_Additional_components/MetabaseTreeCombo.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="MetabaseTreeList">
+            <param name="Local" value="02_Components_constructor_forms/02_Additional_components/MetabaseTreeList.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="MonthCalendar">
+            <param name="Local" value="02_Components_constructor_forms/02_Additional_components/MonthCalendar.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="NavigationBar">
+            <param name="Local" value="02_Components_constructor_forms/02_Additional_components/NavigationBar.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="OleDocumentBox">
+            <param name="Local" value="02_Components_constructor_forms/02_Additional_components/OleDocumentBox.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="PageControl">
+            <param name="Local" value="02_Components_constructor_forms/02_Additional_components/PageControl.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="ProgressBar">
+            <param name="Local" value="02_Components_constructor_forms/02_Additional_components/ProgressBar.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Ribbon">
+            <param name="Local" value="02_Components_constructor_forms/02_Additional_components/Ribbon.htm">
+          </object>
+          <ul>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Редактор ленты">
+              <param name="Local" value="02_Components_constructor_forms/02_Additional_components/Ribbon_Designer.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            </ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="ScrollBox">
+            <param name="Local" value="02_Components_constructor_forms/02_Additional_components/ScrollBox.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="SearchDataSourcesBox">
+            <param name="Local" value="02_Components_constructor_forms/02_Additional_components/SearchDataSourcesBox.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="SearchEdit">
+            <param name="Local" value="02_Components_constructor_forms/02_Additional_components/SearchEdit.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="SpeedometerBox">
+            <param name="Local" value="02_Components_constructor_forms/02_Additional_components/SpeedometerBox.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="SpinEdit">
+            <param name="Local" value="02_Components_constructor_forms/02_Additional_components/SpinEdit.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="StatusBar">
+            <param name="Local" value="02_Components_constructor_forms/02_Additional_components/StatusBar.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="TermEdit">
+            <param name="Local" value="02_Components_constructor_forms/02_Additional_components/TermEdit.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="TermEditEx">
+            <param name="Local" value="02_Components_constructor_forms/02_Additional_components/TermEditEx.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="ToolBar">
+            <param name="Local" value="02_Components_constructor_forms/02_Additional_components/ToolBar.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="TrackBar">
+            <param name="Local" value="02_Components_constructor_forms/02_Additional_components/TrackBar.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="TreeCombo">
+            <param name="Local" value="02_Components_constructor_forms/02_Additional_components/TreeCombo.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="TreeList">
+            <param name="Local" value="02_Components_constructor_forms/02_Additional_components/TreeList.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="WebBrowserBox">
+            <param name="Local" value="02_Components_constructor_forms/02_Additional_components/WebBrowserBox.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Wizard">
+            <param name="Local" value="02_Components_constructor_forms/02_Additional_components/Wizard.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="WizardSplash">
+            <param name="Local" value="02_Components_constructor_forms/02_Additional_components/WizardSplash.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Компоненты доступа к данным">
+          <param name="Local" value="02_Components_constructor_forms/03_Components_of_the_access_to_data/03_components_of_the_access_to_data.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="ChartBox">
+            <param name="Local" value="02_Components_constructor_forms/03_Components_of_the_access_to_data/ChartBox.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="DashboardDocumentViewerBox">
+            <param name="Local" value="02_Components_constructor_forms/03_Components_of_the_access_to_data/DashboardDocumentViewerBox.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="DataGrid">
+            <param name="Local" value="02_Components_constructor_forms/03_Components_of_the_access_to_data/DataGrid.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="DBComboBox">
+            <param name="Local" value="02_Components_constructor_forms/03_Components_of_the_access_to_data/DBComboBox.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="DBEditBox">
+            <param name="Local" value="02_Components_constructor_forms/03_Components_of_the_access_to_data/DBEditBox.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="DBListBox">
+            <param name="Local" value="02_Components_constructor_forms/03_Components_of_the_access_to_data/DBListBox.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="DBLookupComboBox">
+            <param name="Local" value="02_Components_constructor_forms/03_Components_of_the_access_to_data/DBLookupComboBox.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="DBLookupListBox">
+            <param name="Local" value="02_Components_constructor_forms/03_Components_of_the_access_to_data/DBLookupListBox.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="DBMemo">
+            <param name="Local" value="02_Components_constructor_forms/03_Components_of_the_access_to_data/DBMemo.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="DescStatsBox">
+            <param name="Local" value="02_Components_constructor_forms/03_Components_of_the_access_to_data/DescStatsBox.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="DimensionCombo">
+            <param name="Local" value="02_Components_constructor_forms/03_Components_of_the_access_to_data/DimensionCombo.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="DimensionTree">
+            <param name="Local" value="02_Components_constructor_forms/03_Components_of_the_access_to_data/DimensionTree.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="DocumentPrinter">
+            <param name="Local" value="02_Components_constructor_forms/03_Components_of_the_access_to_data/DocumentPrinter.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="EaxBubbleChartBox">
+            <param name="Local" value="02_Components_constructor_forms/03_Components_of_the_access_to_data/EaxBubbleChartBox.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="EaxConfigurationPanel">
+            <param name="Local" value="02_Components_constructor_forms/03_Components_of_the_access_to_data/EaxConfigurationPanel.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="EaxDocumentViewerBox">
+            <param name="Local" value="02_Components_constructor_forms/03_Components_of_the_access_to_data/EaxDocumentViewerBox.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="EaxMapBox">
+            <param name="Local" value="02_Components_constructor_forms/03_Components_of_the_access_to_data/EaxMapBox.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="ErAnalyzerDimPanel">
+            <param name="Local" value="02_Components_constructor_forms/03_Components_of_the_access_to_data/ErAnalyzerDimPanel.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="ErAnalyzerTitle">
+            <param name="Local" value="02_Components_constructor_forms/03_Components_of_the_access_to_data/ErAnalyzerTitle.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="EtlBox">
+            <param name="Local" value="02_Components_constructor_forms/03_Components_of_the_access_to_data/EtlBox.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="EtlObjectPanelBox">
+            <param name="Local" value="02_Components_constructor_forms/03_Components_of_the_access_to_data/EtlObjectPanelBox.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="LanerBox">
+            <param name="Local" value="02_Components_constructor_forms/03_Components_of_the_access_to_data/LanerBox.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="LanerResultsBox">
+            <param name="Local" value="02_Components_constructor_forms/03_Components_of_the_access_to_data/LanerResultsBox.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="MapBox">
+            <param name="Local" value="02_Components_constructor_forms/03_Components_of_the_access_to_data/MapBox.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="MetaAttributesBreadcrumb">
+            <param name="Local" value="02_Components_constructor_forms/03_Components_of_the_access_to_data/MetaAttributesBreadcrumb.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="MetaAttributesEdit">
+            <param name="Local" value="02_Components_constructor_forms/03_Components_of_the_access_to_data/MetaAttributesEdit.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="MetaAttributesTreeList">
+            <param name="Local" value="02_Components_constructor_forms/03_Components_of_the_access_to_data/MetaAttributesTreeList.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="MetabaseObjectParamsBox">
+            <param name="Local" value="02_Components_constructor_forms/03_Components_of_the_access_to_data/MetabaseObjectParamsBox.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="ModelBox">
+            <param name="Local" value="02_Components_constructor_forms/03_Components_of_the_access_to_data/ModelBox.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="MsExpressionEdit">
+            <param name="Local" value="02_Components_constructor_forms/03_Components_of_the_access_to_data/MsExpressionEdit.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="PCABox">
+            <param name="Local" value="02_Components_constructor_forms/03_Components_of_the_access_to_data/PCABox.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="RdsDictionaryBox">
+            <param name="Local" value="02_Components_constructor_forms/03_Components_of_the_access_to_data/RdsDictionaryBox.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="ReportBox">
+            <param name="Local" value="02_Components_constructor_forms/03_Components_of_the_access_to_data/ReportBox.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="ReportControlPanel">
+            <param name="Local" value="02_Components_constructor_forms/03_Components_of_the_access_to_data/ReportControlPanel.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="ReportFormulaBar">
+            <param name="Local" value="02_Components_constructor_forms/03_Components_of_the_access_to_data/ReportFormulaBar.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="TabFootnotesBox">
+            <param name="Local" value="02_Components_constructor_forms/03_Components_of_the_access_to_data/TabFootnotesBox.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="TableWidget">
+            <param name="Local" value="02_Components_constructor_forms/03_Components_of_the_access_to_data/TableWidget.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="TabSheetBox">
+            <param name="Local" value="02_Components_constructor_forms/03_Components_of_the_access_to_data/TabSheetBox.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="UiChart">
+            <param name="Local" value="02_Components_constructor_forms/03_Components_of_the_access_to_data/UiChart.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="UiDashboard">
+            <param name="Local" value="02_Components_constructor_forms/03_Components_of_the_access_to_data/UiDashboard.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="UiDataSource">
+            <param name="Local" value="02_Components_constructor_forms/03_Components_of_the_access_to_data/UiDataSource.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="UiDimension">
+            <param name="Local" value="02_Components_constructor_forms/03_Components_of_the_access_to_data/UiDimension.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="UiEaxBubbleChart">
+            <param name="Local" value="02_Components_constructor_forms/03_Components_of_the_access_to_data/UiEaxBubbleChart.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="UiEaxMap">
+            <param name="Local" value="02_Components_constructor_forms/03_Components_of_the_access_to_data/UiEaxMap.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="UiErAnalyzer">
+            <param name="Local" value="02_Components_constructor_forms/03_Components_of_the_access_to_data/UiErAnalyzer.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="UiEtlObject">
+            <param name="Local" value="02_Components_constructor_forms/03_Components_of_the_access_to_data/UiEtlObject.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="UiMap">
+            <param name="Local" value="02_Components_constructor_forms/03_Components_of_the_access_to_data/UiMap.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="UiMemoryTable">
+            <param name="Local" value="02_Components_constructor_forms/03_Components_of_the_access_to_data/UiMemoryTable.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="UiMetabaseDataset">
+            <param name="Local" value="02_Components_constructor_forms/03_Components_of_the_access_to_data/UiMetabaseDataset.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="UiMetabaseObjectParams">
+            <param name="Local" value="02_Components_constructor_forms/03_Components_of_the_access_to_data/UiMetabaseObjectParams.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="UiModel">
+            <param name="Local" value="02_Components_constructor_forms/03_Components_of_the_access_to_data/UiModel.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="UiQuery">
+            <param name="Local" value="02_Components_constructor_forms/03_Components_of_the_access_to_data/UiQuery.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="UiRdsDictionary">
+            <param name="Local" value="02_Components_constructor_forms/03_Components_of_the_access_to_data/UiRdsDictionary.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="UiReport">
+            <param name="Local" value="02_Components_constructor_forms/03_Components_of_the_access_to_data/UiReport.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="UiTable">
+            <param name="Local" value="02_Components_constructor_forms/03_Components_of_the_access_to_data/UiTable.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="UiTabSheet">
+            <param name="Local" value="02_Components_constructor_forms/03_Components_of_the_access_to_data/UiTabSheet.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="UiWorkspace">
+            <param name="Local" value="02_Components_constructor_forms/03_Components_of_the_access_to_data/UiWorkspace.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="UiWorkspaceObject">
+            <param name="Local" value="02_Components_constructor_forms/03_Components_of_the_access_to_data/UiWorkspaceObject.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="ValidationLegendBox">
+            <param name="Local" value="02_Components_constructor_forms/03_Components_of_the_access_to_data/ValidationLegendBox.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="WorkbookConfigurationPanel">
+            <param name="Local" value="02_Components_constructor_forms/03_Components_of_the_access_to_data/WorkbookConfigurationPanel.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="WorkbookDocumentViewerBox">
+            <param name="Local" value="02_Components_constructor_forms/03_Components_of_the_access_to_data/WorkbookDocumentViewerBox.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="WorkbookStatisticsPanel">
+            <param name="Local" value="02_Components_constructor_forms/03_Components_of_the_access_to_data/WorkbookStatisticsPanel.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="WorkspaceBox">
+            <param name="Local" value="02_Components_constructor_forms/03_Components_of_the_access_to_data/WorkspaceBox.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Компоненты платформы">
+          <param name="Local" value="02_Components_constructor_forms/04_PPControls/04_components_pp7.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="PPButton">
+            <param name="Local" value="02_Components_constructor_forms/04_PPControls/PPButton.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="PPButtonGroup">
+            <param name="Local" value="02_Components_constructor_forms/04_PPControls/PPButtonGroup.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="PPCheckBox">
+            <param name="Local" value="02_Components_constructor_forms/04_PPControls/PPCheckBox.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="PPComboBox">
+            <param name="Local" value="02_Components_constructor_forms/04_PPControls/PPComboBox.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="PPGroupBox">
+            <param name="Local" value="02_Components_constructor_forms/04_PPControls/PPGroupBox.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="PPListBox">
+            <param name="Local" value="02_Components_constructor_forms/04_PPControls/PPListBox.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="PPMemo ">
+            <param name="Local" value="02_Components_constructor_forms/04_PPControls/PPMemo.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="PPMonthCalendar">
+            <param name="Local" value="02_Components_constructor_forms/04_PPControls/PPMonthCalendar.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="PPPageControl">
+            <param name="Local" value="02_Components_constructor_forms/04_PPControls/PPPageControl.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="PPProgressBar">
+            <param name="Local" value="02_Components_constructor_forms/04_PPControls/PPProgressBar.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="PPRadioButton">
+            <param name="Local" value="02_Components_constructor_forms/04_PPControls/PPRadioButton.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="PPTrackBar">
+            <param name="Local" value="02_Components_constructor_forms/04_PPControls/PPTrackBar.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        </ul>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Создание модулей">
+      <param name="Local" value="01_Development_Environment/02_Work_in_Development_Environment/DevEnv_Object/DevEnv_Module.htm">
+      <param name="ImageNumber" value="11">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Создание Python-модулей">
+      <param name="Local" value="01_Development_Environment/02_Work_in_Development_Environment/DevEnv_Object/python_module.htm">
+      <param name="ImageNumber" value="11">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Создание Java-модулей">
+      <param name="Local" value="01_Development_Environment/02_Work_in_Development_Environment/DevEnv_Object/Java_module.htm">
+      <param name="ImageNumber" value="11">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Наполнение кодом">
+      <param name="Local" value="01_Development_Environment/03_Windows_of_Development_Environment/Window_Macros.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Автоматические подстановки">
+        <param name="Local" value="01_Development_Environment/03_Windows_of_Development_Environment/Automatic_substitutions.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IntelliSense">
+        <param name="Local" value="01_Development_Environment/02_Work_in_Development_Environment/IntelliSense.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Инспекторы классов">
+        <param name="Local" value="01_Development_Environment/03_Windows_of_Development_Environment/Inspector_class.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Инспектор кода">
+        <param name="Local" value="01_Development_Environment/03_Windows_of_Development_Environment/Inspector_Code.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Поиск и замена">
+        <param name="Local" value="01_Development_Environment/02_Work_in_Development_Environment/Search.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Горячие клавиши">
+        <param name="Local" value="01_Development_Environment/02_Work_in_Development_Environment/Development_Environment_hot_keys.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Запуск и отладка">
+      <param name="Local" value="01_Development_Environment/02_Work_in_Development_Environment/Run_Debug.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Способ компиляции сборок">
+        <param name="Local" value="01_Development_Environment/02_Work_in_Development_Environment/Way_to_compiling.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Запуск модулей">
+        <param name="Local" value="01_Development_Environment/02_Work_in_Development_Environment/Run_Debug/RunDebug_Module.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Запуск Python-модулей">
+        <param name="Local" value="01_Development_Environment/02_Work_in_Development_Environment/Run_Debug/Run_Python_Module.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Запуск форм">
+        <param name="Local" value="01_Development_Environment/02_Work_in_Development_Environment/Run_Debug/RunDebug_Form.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Запуск сборок">
+        <param name="Local" value="01_Development_Environment/02_Work_in_Development_Environment/Run_Debug/RunDebug_Assembly.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Окно вычисления выражения">
+        <param name="Local" value="01_Development_Environment/04_Debugging_the_program/Window_calc_expression.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Сообщения компилятора">
+        <param name="Local" value="01_Development_Environment/03_Windows_of_Development_Environment/Compiler_send.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Параметры точки останова">
+        <param name="Local" value="01_Development_Environment/03_Windows_of_Development_Environment/Parameters_point_stop.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Окно консоли">
+        <param name="Local" value="01_Development_Environment/03_Windows_of_Development_Environment/Console_window.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Инспектор значений">
+        <param name="Local" value="01_Development_Environment/03_Windows_of_Development_Environment/Inspector_Value.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Стек вызовов">
+        <param name="Local" value="01_Development_Environment/03_Windows_of_Development_Environment/Stack_of_the_call.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Переменные">
+        <param name="Local" value="01_Development_Environment/03_Windows_of_Development_Environment/Variables.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Параметры исключений">
+        <param name="Local" value="01_Development_Environment/03_Windows_of_Development_Environment/exception_parameters.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Открытие объектов для отладки">
+        <param name="Local" value="01_Development_Environment/03_Windows_of_Development_Environment/debug_object.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Работа с отладочной информацией">
+        <param name="Local" value="01_Development_Environment/02_Work_in_Development_Environment/Debugging/working_with_debugging_information.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Выявление утечек памяти">
+        <param name="Local" value="01_Development_Environment/02_Work_in_Development_Environment/detecting_leaks.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Объекты в памяти">
+          <param name="Local" value="01_Development_Environment/03_Windows_of_Development_Environment/Object_In_Memory.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Экспорт и импорт объектов среды разработки">
+      <param name="Local" value="01_Development_Environment/02_Work_in_Development_Environment/Load_ObjectDE_From_External_File.htm">
+      <param name="ImageNumber" value="11">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Защита объектов репозитория от редактирования">
+      <param name="Local" value="01_Development_Environment/Objects_protection.htm">
+      <param name="ImageNumber" value="11">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Примеры кода на Fore">
+      <param name="Local" value="Project_Development/fore_sample.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Доступ к репозиторию и объектам">
+        <param name="Local" value="Project_Development/Access_to_repository_and_objects.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Настройка свойств и параметров объектов">
+        <param name="Local" value="Project_Development/setting_object_properties_and_parameters.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Получение и работа с данными объектов">
+        <param name="Local" value="Project_Development/Work_with_data.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Работа с коллекциями">
+        <param name="Local" value="Project_Development/working_with_collections.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Работа с потоками">
+        <param name="Local" value="Project_Development/working_with_threads.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Выполнение команд над объектами репозитория">
+        <param name="Local" value="Project_Development/execute_plugin_command.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Работа с COM-объектами в Fore">
+        <param name="Local" value="Project_Development/COM/Working_with_COM_objects.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Работа с Microsoft Excel">
+          <param name="Local" value="Project_Development/COM/ExcelThroughCom.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      </ul>
+    </ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Расширение функциональности приложения">
+    <param name="Local" value="01_Development_Environment/extention_functionality.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Создание пользовательских классов">
+      <param name="Local" value="04_NavigatorSetting/Classes_Object/UiNav_Classes_Object.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Описание пользовательского класса">
+        <param name="Local" value="04_NavigatorSetting/Classes_Object/ObjectsClasses.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Добавление изображений пользовательского класса">
+        <param name="Local" value="04_NavigatorSetting/Classes_Object/Adding_Custom_Class_Images.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Настройка операций пользовательского класса">
+        <param name="Local" value="04_NavigatorSetting/Classes_Object/User_Class_Operation.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Создание объектов пользовательского класса">
+        <param name="Local" value="04_NavigatorSetting/Classes_Object/object_custom_class.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Глобальные обработчики событий">
+      <param name="Local" value="04_NavigatorSetting/EventHandler.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Обработка ошибок">
+        <param name="Local" value="04_NavigatorSetting/Feedback.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Настраиваемые события">
+      <param name="Local" value="04_NavigatorSetting/Classes_Object/Classes_Events.htm">
+      <param name="ImageNumber" value="11">
+    </object>
+    </ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Разработка приложений в команде">
+    <param name="Local" value="01_Development_Environment/06_Version_Control_System/VSC_Introduction.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Подключение к системе управления версиями в ОС Windows">
+      <param name="Local" value="04_NavigatorSetting/VCS/Add_In_VCS.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Отключение репозитория от системы управления версиями">
+        <param name="Local" value="04_NavigatorSetting/VCS/Delete_From_VCS.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Подключение к системе управления версиями в ОС Linux">
+      <param name="Local" value="04_NavigatorSetting/VCS/connecting_to_vcs_on_linux.htm">
+      <param name="ImageNumber" value="11">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Добавление объектов в систему управления версиями">
+      <param name="Local" value="01_Development_Environment/06_Version_Control_System/VSC_Add_Object.htm">
+      <param name="ImageNumber" value="11">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Проверка изменений в последней версии объектов">
+      <param name="Local" value="01_Development_Environment/06_Version_Control_System/VCS_changes_to_last_version.htm">
+      <param name="ImageNumber" value="11">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Получение последней версии объектов">
+      <param name="Local" value="01_Development_Environment/06_Version_Control_System/VSC_get_latest_version.htm">
+      <param name="ImageNumber" value="11">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Извлечение объекта для редактирования">
+      <param name="Local" value="01_Development_Environment/06_Version_Control_System/VSC_CheckOut_Object.htm">
+      <param name="ImageNumber" value="11">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Сравнение версий объекта">
+      <param name="Local" value="01_Development_Environment/06_Version_Control_System/VCS_Comparison_version_object.htm">
+      <param name="ImageNumber" value="11">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Публикация изменений объектов">
+      <param name="Local" value="01_Development_Environment/06_Version_Control_System/VSC_CheckIn_Object.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Ожидающие изменения">
+        <param name="Local" value="01_Development_Environment/03_Windows_of_Development_Environment/Executed_Change.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Отмена изменений объектов">
+      <param name="Local" value="01_Development_Environment/06_Version_Control_System/VCS_Cancel_Change.htm">
+      <param name="ImageNumber" value="11">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Журнал изменений объектов">
+      <param name="Local" value="01_Development_Environment/06_Version_Control_System/VCS_History_object.htm">
+      <param name="ImageNumber" value="11">
+    </object>
+    </ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Разработка мультиязычных приложений">
+    <param name="Local" value="01_Development_Environment/07_MultiLng_Applications/UiDevEnv_MLng_Applications.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Подключение ресурсов к форме">
+      <param name="Local" value="01_Development_Environment/07_MultiLng_Applications/UiDevEnv_MLng_Append_Res.htm">
+      <param name="ImageNumber" value="11">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Пример создания мультиязычной формы">
+      <param name="Local" value="01_Development_Environment/07_MultiLng_Applications/UiDevEnv_MLng_Res_Example.htm">
+      <param name="ImageNumber" value="11">
+    </object>
+    </ul>
+</ul>
+</html>

@@ -1,0 +1,143 @@
+<html>
+<!-- Sitemap 1.0 -->
+<object type="text/site properties">
+  <param name="SiteType" value="toc">
+  <param name="Image Width" value="16">
+  <param name="Window Styles" value="0x800027">
+  <param name="ExWindow Styles" value="0x100">
+</object>
+<ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="DBA">
+    <param name="Local" value="ModDBA_Title.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Введение">
+      <param name="Local" value="Intro/ModDBA_Introduction.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Общие принципы программирования с использованием сборки DBA">
+        <param name="Local" value="Intro/ModDBA_Programming.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Интерфейсы сборки DBA">
+      <param name="Local" value="Interface/ModDBA_Interface.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IBusinessApplication">
+        <param name="Local" value="Interface/IBusinessApplication/IBusinessApplication.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IBusinessApplication.Database">
+          <param name="Local" value="Interface/IBusinessApplication/IBusinessApplication.Database.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IBusinessApplication.Descriptor">
+          <param name="Local" value="Interface/IBusinessApplication/IBusinessApplication.Descriptor.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IBusinessApplication.IsEdited">
+          <param name="Local" value="Interface/IBusinessApplication/IBusinessApplication.IsEdited.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IBusinessApplication.SaveObject">
+          <param name="Local" value="Interface/IBusinessApplication/IBusinessApplication.SaveObject.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IMenuIconEditor">
+        <param name="Local" value="Interface/IMenuIconEditor/IMenuIconEditor.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMenuIconEditor.Changed">
+          <param name="Local" value="Interface/IMenuIconEditor/IMenuIconEditor.Changed.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMenuIconEditor.Stream">
+          <param name="Local" value="Interface/IMenuIconEditor/IMenuIconEditor.Stream.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMenuIconEditor.IsSvg">
+          <param name="Local" value="Interface/IMenuIconEditor/IMenuIconEditor.IsSvg.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMenuIconEditor.Initialize">
+          <param name="Local" value="Interface/IMenuIconEditor/IMenuIconEditor.Initialize.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMenuIconEditor.SaveToBase64">
+          <param name="Local" value="Interface/IMenuIconEditor/IMenuIconEditor.SaveToBase64.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IMenuIconEditor.LoadFromBase64">
+          <param name="Local" value="Interface/IMenuIconEditor/IMenuIconEditor.LoadFromBase64.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IObjectIconsEditor">
+        <param name="Local" value="Interface/IObjectIconsEditor/IObjectIconsEditor.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IObjectIconsEditor.Initialize">
+          <param name="Local" value="Interface/IObjectIconsEditor/IObjectIconsEditor.Initialize.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IObjectIconsEditor.Large">
+          <param name="Local" value="Interface/IObjectIconsEditor/IObjectIconsEditor.Large.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IObjectIconsEditor.Medium">
+          <param name="Local" value="Interface/IObjectIconsEditor/IObjectIconsEditor.Medium.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IObjectIconsEditor.Save">
+          <param name="Local" value="Interface/IObjectIconsEditor/IObjectIconsEditor.Save.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IObjectIconsEditor.Small">
+          <param name="Local" value="Interface/IObjectIconsEditor/IObjectIconsEditor.Small.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Классы сборки DBA">
+      <param name="Local" value="Class/ModDBA_Class.htm.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="MenuIconEditor">
+        <param name="Local" value="Class/MenuIconEditor/MenuIconEditor.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="ObjectIconsEditor">
+        <param name="Local" value="Class/ObjectIconsEditor/ObjectIconsEditor.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      </ul>
+    </ul>
+</ul>
+</html>

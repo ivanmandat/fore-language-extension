@@ -1,0 +1,55 @@
+﻿# TabSheetRange.eachVisibleRealCell
+
+TabSheetRange.eachVisibleRealCell
+-
+
+
+**
+
+
+# TabSheetRange.eachVisibleRealCell
+
+
+## Синтаксис
+
+
+eachVisibleRealCell(action: function, context: Object);
+
+
+## Параметры
+
+
+*action.* Функция, вызываемая для каждой видимой реальной ячейки данного диапазона;
+
+
+*context.* Контекст, из которого вызван данный метод. Необязательный параметр, по умолчанию равен текущему контексту this.
+
+
+## Описание
+
+
+Метод eachVisibleRealCell** выполняет указанную функцию для каждой видимой реальной ячейки данного диапазона.
+
+
+## Комментарии
+
+
+Под реальной ячейкой в таблице подразумевается непосредственно сама ячейка, а не её отображение в кеше.
+
+
+## Пример
+
+
+Пример использования приведён на странице описания метода [TabSheetRange.eachVisibleCoord](TabSheetRange.eachVisibleCoord.htm).
+
+
+См. также:
+
+
+[TabSheetRange](TabSheetRange.htm)
+
+
+		Справочная
+		 система на версию 10.9
+		 от 18/08/2025,
+		 © ООО «ФОРСАЙТ»,

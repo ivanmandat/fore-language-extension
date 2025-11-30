@@ -1,0 +1,1191 @@
+<html>
+<!-- Sitemap 1.0 -->
+<object type="text/site properties">
+  <param name="SiteType" value="toc">
+  <param name="Image Width" value="16">
+  <param name="Window Styles" value="0x800007">
+  <param name="ExWindow Styles" value="0x100">
+</object>
+<ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Работа с пузырьковой диаграммой">
+    <param name="Local" value="Classes/BubbleChart.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Компоненты">
+      <param name="Local" value="Components/Components.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="BubbleChart">
+        <param name="Local" value="Components/BubbleChart/BubbleChart.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Пример создания компонента BubbleChart">
+          <param name="Local" value="Components/BubbleChart/BubbleChart_Example.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="JSON структура BubbleChart">
+          <param name="Local" value="Components/BubbleChart/BubbleChart_JSON.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Классы">
+      <param name="Local" value="Classes/BubbleChart.htm#642b3b9347ca42c9b00b820c00c373fa=1">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="BubbleChart">
+        <param name="Local" value="Classes/BubbleChart/BubbleChart/BubbleChart.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Конструктор BubbleChart">
+          <param name="Local" value="Classes/BubbleChart/BubbleChart/Constructor_BubbleChart.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="BubbleChart.BubbleStyle">
+          <param name="Local" value="Classes/BubbleChart/BubbleChart/BubbleChart.BubbleStyle.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="BubbleChart.CaptionClick">
+          <param name="Local" value="Classes/BubbleChart/BubbleChart/BubbleChart.CaptionClick.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="BubbleChart.ChartArea">
+          <param name="Local" value="Classes/BubbleChart/BubbleChart/BubbleChart.ChartArea.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="BubbleChart.ColorVisual">
+          <param name="Local" value="Classes/BubbleChart/BubbleChart/BubbleChart.ColorVisual.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="BubbleChart.DataSource">
+          <param name="Local" value="Classes/BubbleChart/BubbleChart/BubbleChart.DataSource.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="BubbleChart.getInstance">
+          <param name="Local" value="Classes/BubbleChart/BubbleChart/BubbleChart.getInstance.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="BubbleChart.getLegend">
+          <param name="Local" value="Classes/BubbleChart/BubbleChart/BubbleChart.getLegend.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="BubbleChart.getMapping">
+          <param name="Local" value="Classes/BubbleChart/BubbleChart/BubbleChart.getMapping.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="BubbleChart.getMappingMax">
+          <param name="Local" value="Classes/BubbleChart/BubbleChart/BubbleChart.getMappingMax.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="BubbleChart.getMappingMin">
+          <param name="Local" value="Classes/BubbleChart/BubbleChart/BubbleChart.getMappingMin.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="BubbleChart.getSizeLegend">
+          <param name="Local" value="Classes/BubbleChart/BubbleChart/BubbleChart.getSizeLegend.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="BubbleChart.getState">
+          <param name="Local" value="Classes/BubbleChart/BubbleChart/BubbleChart.getState.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="BubbleChart.HistoryMode">
+          <param name="Local" value="Classes/BubbleChart/BubbleChart/BubbleChart.HistoryMode.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="BubbleChart.InactiveItemsOpacity">
+          <param name="Local" value="Classes/BubbleChart/BubbleChart/BubbleChart.InactiveItemsOpacity.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="BubbleChart.isLoaded">
+          <param name="Local" value="Classes/BubbleChart/BubbleChart/BubbleChart.isLoaded.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="BubbleChart.NoDataVisualType">
+          <param name="Local" value="Classes/BubbleChart/BubbleChart/BubbleChart.NoDataVisualType.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="BubbleChart.OffsetX">
+          <param name="Local" value="Classes/BubbleChart/BubbleChart/BubbleChart.OffsetX.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="BubbleChart.OffsetY">
+          <param name="Local" value="Classes/BubbleChart/BubbleChart/BubbleChart.OffsetY.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="BubbleChart.Palette">
+          <param name="Local" value="Classes/BubbleChart/BubbleChart/BubbleChart.Palette.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="BubbleChart.PreserveAspect">
+          <param name="Local" value="Classes/BubbleChart/BubbleChart/BubbleChart.PreserveAspect.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="BubbleChart.rebuildAll">
+          <param name="Local" value="Classes/BubbleChart/BubbleChart/BubbleChart.rebuildAll.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="BubbleChart.Refreshed">
+          <param name="Local" value="Classes/BubbleChart/BubbleChart/BubbleChart.Refreshed.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="BubbleChart.refreshView">
+          <param name="Local" value="Classes/BubbleChart/BubbleChart/BubbleChart.refreshView.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="BubbleChart.RVisual">
+          <param name="Local" value="Classes/BubbleChart/BubbleChart/BubbleChart.RVisual.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="BubbleChart.Series">
+          <param name="Local" value="Classes/BubbleChart/BubbleChart/BubbleChart.Series.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="BubbleChart.ShowBubbleHistory">
+          <param name="Local" value="Classes/BubbleChart/BubbleChart/BubbleChart.ShowBubbleHistory.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="BubbleChart.ShowBubbleHistoryLabels">
+          <param name="Local" value="Classes/BubbleChart/BubbleChart/BubbleChart.ShowBubbleHistoryLabels.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="BubbleChart.ShowBubblesWithNoData">
+          <param name="Local" value="Classes/BubbleChart/BubbleChart/BubbleChart.ShowBubblesWithNoData.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="BubbleChart.ShowHistoryBubbleTooltip">
+          <param name="Local" value="Classes/BubbleChart/BubbleChart/BubbleChart.ShowHistoryBubbleTooltip.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="BubbleChart.ShowHistoryMode">
+          <param name="Local" value="Classes/BubbleChart/BubbleChart/BubbleChart.ShowHistoryMode.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="BubbleChart.ShowHistoryPreviousStepsOnly">
+          <param name="Local" value="Classes/BubbleChart/BubbleChart/BubbleChart.ShowHistoryPreviousStepsOnly.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="BubbleChart.ToolTipDelay">
+          <param name="Local" value="Classes/BubbleChart/BubbleChart/BubbleChart.ToolTipDelay.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="BubbleChart.UseBubbleFillForTooltip">
+          <param name="Local" value="Classes/BubbleChart/BubbleChart/BubbleChart.UseBubbleFillForTooltip.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="BubbleChart.UseInactiveItemsOpacity">
+          <param name="Local" value="Classes/BubbleChart/BubbleChart/BubbleChart.UseInactiveItemsOpacity.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="BubbleChart.XVisual">
+          <param name="Local" value="Classes/BubbleChart/BubbleChart/BubbleChart.XVisual.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="BubbleChart.YVisual">
+          <param name="Local" value="Classes/BubbleChart/BubbleChart/BubbleChart.YVisual.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="BubbleChart.hoverItems">
+          <param name="Local" value="Classes/BubbleChart/BubbleChart/BubbleChart.hoverItems.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="BubbleChart.selectItems">
+          <param name="Local" value="Classes/BubbleChart/BubbleChart/BubbleChart.selectItems.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="BubbleChart.UseBubbleColorForHistoryLines">
+          <param name="Local" value="Classes/BubbleChart/BubbleChart/BubbleChart.UseBubbleColorForHistoryLines.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="BubbleChart.applyColorScheme">
+          <param name="Local" value="Classes/BubbleChart/BubbleChart/BubbleChart.applyColorScheme.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="BubbleChart.HistoryBubbleStyle">
+          <param name="Local" value="Classes/BubbleChart/BubbleChart/BubbleChart.HistoryBubbleStyle.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="BubbleChart.requestRenderFrame">
+          <param name="Local" value="Classes/BubbleChart/BubbleChart/BubbleChart.requestRenderFrame.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="BubbleChart.ItemHovered">
+          <param name="Local" value="Classes/BubbleChart/BubbleChart/BubbleChart.ItemHovered.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="BubbleChartMasterGrid">
+        <param name="Local" value="Classes/BubbleChart/BubbleChartMasterGrid/BubbleChartMasterGrid.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="BubbleChartMasterTooltips">
+        <param name="Local" value="Classes/BubbleChart/BubbleChartMasterTooltips/BubbleChartMasterTooltips.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="BubbleChartObject">
+        <param name="Local" value="Classes/BubbleChart/BubbleChartObject/BubbleChartObject.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Конструктор BubbleChartObject">
+          <param name="Local" value="Classes/BubbleChart/BubbleChartObject/Constructor_BubbleChartObject.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="BubbleChartObject.Chart">
+          <param name="Local" value="Classes/BubbleChart/BubbleChartObject/BubbleChartObject.Chart.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="BubbleChartObject.IsVisible">
+          <param name="Local" value="Classes/BubbleChart/BubbleChartObject/BubbleChartObject.IsVisible.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="BubbleChartObject.draw">
+          <param name="Local" value="Classes/BubbleChart/BubbleChartObject/BubbleChartObject.draw.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="BubbleChartObject.hide">
+          <param name="Local" value="Classes/BubbleChart/BubbleChartObject/BubbleChartObject.hide.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="BubbleChartObject.renderFrame">
+          <param name="Local" value="Classes/BubbleChart/BubbleChartObject/BubbleChartObject.renderFrame.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="BubbleChartObjectCollection">
+        <param name="Local" value="Classes/BubbleChart/BubbleChartObjectCollection/BubbleChartObjectCollection.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Конструктор BubbleChartObjectCollection">
+          <param name="Local" value="Classes/BubbleChart/BubbleChartObjectCollection/Constructor_BubbleChartObjectCollection.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="BubbleChartObjectCollection.Chart">
+          <param name="Local" value="Classes/BubbleChart/BubbleChartObjectCollection/BubbleChartObjectCollection.Chart.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="BubbleChartObjectCollection.draw">
+          <param name="Local" value="Classes/BubbleChart/BubbleChartObjectCollection/BubbleChartObjectCollection.draw.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="BubbleChartObjectCollection.hide">
+          <param name="Local" value="Classes/BubbleChart/BubbleChartObjectCollection/BubbleChartObjectCollection.hide.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="BubbleChartObjectCollection.IntervalsCount">
+          <param name="Local" value="Classes/BubbleChart/BubbleChartObjectCollection/BubbleChartObjectCollection.IntervalsCount.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="BubbleChartObjectCollection.IsVisible">
+          <param name="Local" value="Classes/BubbleChart/BubbleChartObjectCollection/BubbleChartObjectCollection.IsVisible.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="BubbleChartObjectCollection.Max">
+          <param name="Local" value="Classes/BubbleChart/BubbleChartObjectCollection/BubbleChartObjectCollection.Max.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="BubbleChartObjectCollection.Min">
+          <param name="Local" value="Classes/BubbleChart/BubbleChartObjectCollection/BubbleChartObjectCollection.Min.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="BubbleChartObjectCollection.rebuild">
+          <param name="Local" value="Classes/BubbleChart/BubbleChartObjectCollection/BubbleChartObjectCollection.rebuild.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="ChartArea">
+        <param name="Local" value="Classes/BubbleChart/ChartArea/ChartArea.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Конструктор ChartArea">
+          <param name="Local" value="Classes/BubbleChart/ChartArea/Constructor_ChartArea.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartArea.Axes">
+          <param name="Local" value="Classes/BubbleChart/ChartArea/ChartArea.Axes.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartArea.AxisX">
+          <param name="Local" value="Classes/BubbleChart/ChartArea/ChartArea.AxisX.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartArea.AxisY">
+          <param name="Local" value="Classes/BubbleChart/ChartArea/ChartArea.AxisY.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartArea.drawWithoutResize">
+          <param name="Local" value="Classes/BubbleChart/ChartArea/ChartArea.drawWithoutResize.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartArea.Footer">
+          <param name="Local" value="Classes/BubbleChart/ChartArea/ChartArea.Footer.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartArea.getHistoryLayer">
+          <param name="Local" value="Classes/BubbleChart/ChartArea/ChartArea.getHistoryLayer.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartArea.getPaper">
+          <param name="Local" value="Classes/BubbleChart/ChartArea/ChartArea.getPaper.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartArea.getPaperArea">
+          <param name="Local" value="Classes/BubbleChart/ChartArea/ChartArea.getPaperArea.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartArea.getSymbolLayer">
+          <param name="Local" value="Classes/BubbleChart/ChartArea/ChartArea.getSymbolLayer.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartArea.getTooltipLayer">
+          <param name="Local" value="Classes/BubbleChart/ChartArea/ChartArea.getTooltipLayer.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartArea.Grid">
+          <param name="Local" value="Classes/BubbleChart/ChartArea/ChartArea.Grid.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartArea.Header">
+          <param name="Local" value="Classes/BubbleChart/ChartArea/ChartArea.Header.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartArea.IsGridBefore">
+          <param name="Local" value="Classes/BubbleChart/ChartArea/ChartArea.IsGridBefore.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartArea.updateAxis">
+          <param name="Local" value="Classes/BubbleChart/ChartArea/ChartArea.updateAxis.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartArea.Chart">
+          <param name="Local" value="Classes/BubbleChart/ChartArea/ChartArea.Chart.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartArea.getLeftLabelLayer">
+          <param name="Local" value="Classes/BubbleChart/ChartArea/ChartArea.getLeftLabelLayer.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartArea.getLeftLabelLayerWidth">
+          <param name="Local" value="Classes/BubbleChart/ChartArea/ChartArea.getLeftLabelLayerWidth.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartArea.getInnerPaperArea">
+          <param name="Local" value="Classes/BubbleChart/ChartArea/ChartArea.getInnerPaperArea.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartArea.getGridLayer">
+          <param name="Local" value="Classes/BubbleChart/ChartArea/ChartArea.getGridLayer.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartArea.AngleLines">
+          <param name="Local" value="Classes/BubbleChart/ChartArea/ChartArea.AngleLines.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartArea.renderFrame">
+          <param name="Local" value="Classes/BubbleChart/ChartArea/ChartArea.renderFrame.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartArea.getCrosshairLayer">
+          <param name="Local" value="Classes/BubbleChart/ChartArea/ChartArea.getCrosshairLayer.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartArea.getCrosshairLabelsLayer">
+          <param name="Local" value="Classes/BubbleChart/ChartArea/ChartArea.getCrosshairLabelsLayer.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartArea.setAreaFill">
+          <param name="Local" value="Classes/BubbleChart/ChartArea/ChartArea.setAreaFill.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartArea.getHistoryLabelsLayer">
+          <param name="Local" value="Classes/BubbleChart/ChartArea/ChartArea.getHistoryLabelsLayer.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartArea.getBackgroundLabel">
+          <param name="Local" value="Classes/BubbleChart/ChartArea/ChartArea.getBackgroundLabel.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="ChartAreaFill">
+        <param name="Local" value="Classes/BubbleChart/ChartAreaFill/ChartAreaFill.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="ChartAxis">
+        <param name="Local" value="Classes/BubbleChart/ChartAxis/ChartAxis.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Конструктор ChartAxis">
+          <param name="Local" value="Classes/BubbleChart/ChartAxis/Constructor_ChartAxis.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartAxis.AutoMax">
+          <param name="Local" value="Classes/BubbleChart/ChartAxis/ChartAxis.AutoMax.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartAxis.AutoMin">
+          <param name="Local" value="Classes/BubbleChart/ChartAxis/ChartAxis.AutoMin.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartAxis.AxisCrossValue">
+          <param name="Local" value="Classes/BubbleChart/ChartAxis/ChartAxis.AxisCrossValue.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartAxis.calcOffset">
+          <param name="Local" value="Classes/BubbleChart/ChartAxis/ChartAxis.calcOffset.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartAxis.Caption">
+          <param name="Local" value="Classes/BubbleChart/ChartAxis/ChartAxis.Caption.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartAxis.Labels">
+          <param name="Local" value="Classes/BubbleChart/ChartAxis/ChartAxis.Labels.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartAxis.Markers">
+          <param name="Local" value="Classes/BubbleChart/ChartAxis/ChartAxis.Markers.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartAxis.MaxValue">
+          <param name="Local" value="Classes/BubbleChart/ChartAxis/ChartAxis.MaxValue.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartAxis.MinValue">
+          <param name="Local" value="Classes/BubbleChart/ChartAxis/ChartAxis.MinValue.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartAxis.setShowBubblesWithNoData">
+          <param name="Local" value="Classes/BubbleChart/ChartAxis/ChartAxis.setShowBubblesWithNoData.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartAxis.Stroke">
+          <param name="Local" value="Classes/BubbleChart/ChartAxis/ChartAxis.Stroke.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartAxis.Thickness">
+          <param name="Local" value="Classes/BubbleChart/ChartAxis/ChartAxis.Thickness.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartAxis.Type">
+          <param name="Local" value="Classes/BubbleChart/ChartAxis/ChartAxis.Type.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="ChartGrid">
+        <param name="Local" value="Classes/BubbleChart/ChartGrid/ChartGrid.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Конструктор ChartGrid">
+          <param name="Local" value="Classes/BubbleChart/ChartGrid/Constructor_ChartGrid.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartGrid.BorderBrush">
+          <param name="Local" value="Classes/BubbleChart/ChartGrid/ChartGrid.BorderBrush.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartGrid.BorderThickness">
+          <param name="Local" value="Classes/BubbleChart/ChartGrid/ChartGrid.BorderThickness.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartGrid.Bottom">
+          <param name="Local" value="Classes/BubbleChart/ChartGrid/ChartGrid.Bottom.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartGrid.getLinesCollectionAtLevel">
+          <param name="Local" value="Classes/BubbleChart/ChartGrid/ChartGrid.getLinesCollectionAtLevel.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartGrid.Horizontals">
+          <param name="Local" value="Classes/BubbleChart/ChartGrid/ChartGrid.Horizontals.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartGrid.Left">
+          <param name="Local" value="Classes/BubbleChart/ChartGrid/ChartGrid.Left.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartGrid.Right">
+          <param name="Local" value="Classes/BubbleChart/ChartGrid/ChartGrid.Right.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartGrid.Top">
+          <param name="Local" value="Classes/BubbleChart/ChartGrid/ChartGrid.Top.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartGrid.Verticals">
+          <param name="Local" value="Classes/BubbleChart/ChartGrid/ChartGrid.Verticals.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartGrid.getBottomBorderWidth">
+          <param name="Local" value="Classes/BubbleChart/ChartGrid/ChartGrid.getBottomBorderWidth.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartGrid.getLeftBorderWidth">
+          <param name="Local" value="Classes/BubbleChart/ChartGrid/ChartGrid.getLeftBorderWidth.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartGrid.getRightBorderWidth">
+          <param name="Local" value="Classes/BubbleChart/ChartGrid/ChartGrid.getRightBorderWidth.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartGrid.getTopBorderWidth">
+          <param name="Local" value="Classes/BubbleChart/ChartGrid/ChartGrid.getTopBorderWidth.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartGrid.SmoothDisappear">
+          <param name="Local" value="Classes/BubbleChart/ChartGrid/ChartGrid.SmoothDisappear.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="ChartGridLineCollection">
+        <param name="Local" value="Classes/BubbleChart/ChartGridLineCollection/ChartGridLineCollection.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Конструктор ChartGridLineCollection">
+          <param name="Local" value="Classes/BubbleChart/ChartGridLineCollection/Constructor_ChartGridLineCollection.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="ChartHistory">
+        <param name="Local" value="Classes/BubbleChart/ChartHistory/ChartHistory.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Конструктор ChartHistory">
+          <param name="Local" value="Classes/BubbleChart/ChartHistory/Constructor_ChartHistory.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartHistory.setIsRTL">
+          <param name="Local" value="Classes/BubbleChart/ChartHistory/ChartHistory.setIsRTL.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartHistory.getPointUnderMouse">
+          <param name="Local" value="Classes/BubbleChart/ChartHistory/ChartHistory.getPointUnderMouse.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartHistory.Point">
+          <param name="Local" value="Classes/BubbleChart/ChartHistory/ChartHistory.Point.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartHistory.animate">
+          <param name="Local" value="Classes/BubbleChart/ChartHistory/ChartHistory.animate.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="ChartLabelCollection">
+        <param name="Local" value="Classes/BubbleChart/ChartLabelCollection/ChartLabelCollection.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Конструктор ChartLabelCollection">
+          <param name="Local" value="Classes/BubbleChart/ChartLabelCollection/Constructor_ChartLabelCollection.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartLabelCollection.getMaxHeight">
+          <param name="Local" value="Classes/BubbleChart/ChartLabelCollection/ChartLabelCollection.getMaxHeight.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartLabelCollection.getMaxWidth">
+          <param name="Local" value="Classes/BubbleChart/ChartLabelCollection/ChartLabelCollection.getMaxWidth.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartLabelCollection.MaskText">
+          <param name="Local" value="Classes/BubbleChart/ChartLabelCollection/ChartLabelCollection.MaskText.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartLabelCollection.Style">
+          <param name="Local" value="Classes/BubbleChart/ChartLabelCollection/ChartLabelCollection.Style.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="ChartLine">
+        <param name="Local" value="Classes/BubbleChart/ChartLine/ChartLine.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Конструктор ChartLine">
+          <param name="Local" value="Classes/BubbleChart/ChartLine/Constructor_ChartLine.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartLine.getPrimaryCoord">
+          <param name="Local" value="Classes/BubbleChart/ChartLine/ChartLine.getPrimaryCoord.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartLine.Stroke">
+          <param name="Local" value="Classes/BubbleChart/ChartLine/ChartLine.Stroke.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartLine.Thickness">
+          <param name="Local" value="Classes/BubbleChart/ChartLine/ChartLine.Thickness.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartLine.Value">
+          <param name="Local" value="Classes/BubbleChart/ChartLine/ChartLine.Value.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="ChartLineCollection">
+        <param name="Local" value="Classes/BubbleChart/ChartLineCollection/ChartLineCollection.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Конструктор ChartLineCollection">
+          <param name="Local" value="Classes/BubbleChart/ChartLineCollection/Constructor_ChartLineCollection.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartLineCollection.LineType">
+          <param name="Local" value="Classes/BubbleChart/ChartLineCollection/ChartLineCollection.LineType.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartLineCollection.Stroke">
+          <param name="Local" value="Classes/BubbleChart/ChartLineCollection/ChartLineCollection.Stroke.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartLineCollection.SubLines">
+          <param name="Local" value="Classes/BubbleChart/ChartLineCollection/ChartLineCollection.SubLines.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartLineCollection.Thickness">
+          <param name="Local" value="Classes/BubbleChart/ChartLineCollection/ChartLineCollection.Thickness.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartLineCollection.Grid">
+          <param name="Local" value="Classes/BubbleChart/ChartLineCollection/ChartLineCollection.Grid.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="ChartMarker">
+        <param name="Local" value="Classes/BubbleChart/ChartMarker/ChartMarker.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Конструктор ChartMarker">
+          <param name="Local" value="Classes/BubbleChart/ChartMarker/Constructor_ChartMarker.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartMarker.getLength">
+          <param name="Local" value="Classes/BubbleChart/ChartMarker/ChartMarker.getLength.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="ChartSectorFill">
+        <param name="Local" value="Classes/BubbleChart/ChartSectorFill/ChartSectorFill.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="ChartSelection">
+        <param name="Local" value="Classes/BubbleChart/ChartSelection/ChartSelection.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Конструктор ChartSelection">
+          <param name="Local" value="Classes/BubbleChart/ChartSelection/Constructor_ChartSelection.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartSelection.draw">
+          <param name="Local" value="Classes/BubbleChart/ChartSelection/ChartSelection.draw.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartSelection.hide">
+          <param name="Local" value="Classes/BubbleChart/ChartSelection/ChartSelection.hide.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartSelection.HorizontalLine">
+          <param name="Local" value="Classes/BubbleChart/ChartSelection/ChartSelection.HorizontalLine.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartSelection.HorizontalLineExtension">
+          <param name="Local" value="Classes/BubbleChart/ChartSelection/ChartSelection.HorizontalLineExtension.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartSelection.LineType">
+          <param name="Local" value="Classes/BubbleChart/ChartSelection/ChartSelection.LineType.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartSelection.Offset">
+          <param name="Local" value="Classes/BubbleChart/ChartSelection/ChartSelection.Offset.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartSelection.Stroke">
+          <param name="Local" value="Classes/BubbleChart/ChartSelection/ChartSelection.Stroke.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartSelection.Thickness">
+          <param name="Local" value="Classes/BubbleChart/ChartSelection/ChartSelection.Thickness.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartSelection.VerticalLine">
+          <param name="Local" value="Classes/BubbleChart/ChartSelection/ChartSelection.VerticalLine.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartSelection.VerticalLineExtension">
+          <param name="Local" value="Classes/BubbleChart/ChartSelection/ChartSelection.VerticalLineExtension.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartSelection.XLabel">
+          <param name="Local" value="Classes/BubbleChart/ChartSelection/ChartSelection.XLabel.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartSelection.YLabel">
+          <param name="Local" value="Classes/BubbleChart/ChartSelection/ChartSelection.YLabel.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="ChartSerie">
+        <param name="Local" value="Classes/BubbleChart/ChartSerie/ChartSerie.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Конструктор ChartSerie">
+          <param name="Local" value="Classes/BubbleChart/ChartSerie/Constructor_ChartSerie.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartSerie.animate">
+          <param name="Local" value="Classes/BubbleChart/ChartSerie/ChartSerie.animate.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartSerie.draw">
+          <param name="Local" value="Classes/BubbleChart/ChartSerie/ChartSerie.draw.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartSerie.Index">
+          <param name="Local" value="Classes/BubbleChart/ChartSerie/ChartSerie.Index.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartSerie.Label">
+          <param name="Local" value="Classes/BubbleChart/ChartSerie/ChartSerie.Label.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartSerie.MasterSerieIdx">
+          <param name="Local" value="Classes/BubbleChart/ChartSerie/ChartSerie.MasterSerieIdx.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartSerie.Points">
+          <param name="Local" value="Classes/BubbleChart/ChartSerie/ChartSerie.Points.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartSerie.setColors">
+          <param name="Local" value="Classes/BubbleChart/ChartSerie/ChartSerie.setColors.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartSerie.Symbol">
+          <param name="Local" value="Classes/BubbleChart/ChartSerie/ChartSerie.Symbol.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartSerie.Title">
+          <param name="Local" value="Classes/BubbleChart/ChartSerie/ChartSerie.Title.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartSerie.Tooltip">
+          <param name="Local" value="Classes/BubbleChart/ChartSerie/ChartSerie.Tooltip.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="ChartSeriePoint">
+        <param name="Local" value="Classes/BubbleChart/ChartSeriePoint/ChartSeriePoint.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Конструктор ChartSeriePoint">
+          <param name="Local" value="Classes/BubbleChart/ChartSeriePoint/Constructor_ChartSeriePoint.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartSeriePoint.animate">
+          <param name="Local" value="Classes/BubbleChart/ChartSeriePoint/ChartSeriePoint.animate.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartSeriePoint.Crosshair">
+          <param name="Local" value="Classes/BubbleChart/ChartSeriePoint/ChartSeriePoint.Crosshair.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartSeriePoint.getTooltipMask">
+          <param name="Local" value="Classes/BubbleChart/ChartSeriePoint/ChartSeriePoint.getTooltipMask.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartSeriePoint.getTooltipValues">
+          <param name="Local" value="Classes/BubbleChart/ChartSeriePoint/ChartSeriePoint.getTooltipValues.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartSeriePoint.History">
+          <param name="Local" value="Classes/BubbleChart/ChartSeriePoint/ChartSeriePoint.History.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartSeriePoint.isColorSet">
+          <param name="Local" value="Classes/BubbleChart/ChartSeriePoint/ChartSeriePoint.isColorSet.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartSeriePoint.Opacity">
+          <param name="Local" value="Classes/BubbleChart/ChartSeriePoint/ChartSeriePoint.Opacity.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartSeriePoint.Symbol">
+          <param name="Local" value="Classes/BubbleChart/ChartSeriePoint/ChartSeriePoint.Symbol.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartSeriePoint.Tooltip">
+          <param name="Local" value="Classes/BubbleChart/ChartSeriePoint/ChartSeriePoint.Tooltip.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartSeriePoint.Value">
+          <param name="Local" value="Classes/BubbleChart/ChartSeriePoint/ChartSeriePoint.Value.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="ChartSVGLabel">
+        <param name="Local" value="Classes/BubbleChart/ChartSVGLabel/ChartSVGLabel.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Конструктор ChartSVGLabel">
+          <param name="Local" value="Classes/BubbleChart/ChartSVGLabel/Constructor_ChartSVGLabel.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartSVGLabel.setPosition">
+          <param name="Local" value="Classes/BubbleChart/ChartSVGLabel/ChartSVGLabel.setPosition.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="ChartSymbol">
+        <param name="Local" value="Classes/BubbleChart/ChartSymbol/ChartSymbol.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Конструктор ChartSymbol">
+          <param name="Local" value="Classes/BubbleChart/ChartSymbol/Constructor_ChartSymbol.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartSymbol.getDomNode">
+          <param name="Local" value="Classes/BubbleChart/ChartSymbol/ChartSymbol.getDomNode.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartSymbol.MarkerShape">
+          <param name="Local" value="Classes/BubbleChart/ChartSymbol/ChartSymbol.MarkerShape.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartSymbol.Thickness">
+          <param name="Local" value="Classes/BubbleChart/ChartSymbol/ChartSymbol.Thickness.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartSymbol.X">
+          <param name="Local" value="Classes/BubbleChart/ChartSymbol/ChartSymbol.X.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartSymbol.Y">
+          <param name="Local" value="Classes/BubbleChart/ChartSymbol/ChartSymbol.Y.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartSymbol.R">
+          <param name="Local" value="Classes/BubbleChart/ChartSymbol/ChartSymbol.R.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartSymbol.Opacity">
+          <param name="Local" value="Classes/BubbleChart/ChartSymbol/ChartSymbol.Opacity.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartSymbol.Color">
+          <param name="Local" value="Classes/BubbleChart/ChartSymbol/ChartSymbol.Color.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartSymbol.getPath">
+          <param name="Local" value="Classes/BubbleChart/ChartSymbol/ChartSymbol.getPath.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartSymbol.isCoordsInside">
+          <param name="Local" value="Classes/BubbleChart/ChartSymbol/ChartSymbol.isCoordsInside.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="ChartTooltip">
+        <param name="Local" value="Classes/BubbleChart/ChartTooltip/ChartTooltip.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Конструктор ChartTooltip">
+          <param name="Local" value="Classes/BubbleChart/ChartTooltip/Constructor_ChartTooltip.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartTooltip.HasMask">
+          <param name="Local" value="Classes/BubbleChart/ChartTooltip/ChartTooltip.HasMask.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="ChartTooltipBase">
+        <param name="Local" value="Classes/BubbleChart/ChartTooltipBase/ChartTooltipBase.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Конструктор ChartTooltipBase">
+          <param name="Local" value="Classes/BubbleChart/ChartTooltipBase/Constructor_ChartTooltipBase.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartTooltipBase.HoverMode">
+          <param name="Local" value="Classes/BubbleChart/ChartTooltipBase/ChartTooltipBase.HoverMode.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartTooltipBase.TargetX">
+          <param name="Local" value="Classes/BubbleChart/ChartTooltipBase/ChartTooltipBase.TargetX.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartTooltipBase.TargetY">
+          <param name="Local" value="Classes/BubbleChart/ChartTooltipBase/ChartTooltipBase.TargetY.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ChartTooltipBase.setPosition">
+          <param name="Local" value="Classes/BubbleChart/ChartTooltipBase/ChartTooltipBase.setPosition.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="ChartAngleLineCollection">
+        <param name="Local" value="Classes/BubbleChart/ChartAngleLineCollection/ChartAngleLineCollection.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Конструктор ChartAngleLineCollection">
+          <param name="Local" value="Classes/BubbleChart/ChartAngleLineCollection/Constructor_ChartAngleLineCollection.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Перечисления">
+      <param name="Local" value="Classes/BubbleChart.htm#enum642b3b9347ca42c9b00b820c00c373fa=2">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IntervalsLegendMarkerShape">
+        <param name="Local" value="Enums/IntervalsLegendMarkerShape.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="NoDataHistoryMode">
+        <param name="Local" value="Enums/NoDataHistoryMode.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="PP.HoverMode">
+        <param name="Local" value="Enums/PP.HoverMode.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="VisualizerItemStyle">
+        <param name="Local" value="Enums/VisualizerItemStyle.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="VisualType">
+        <param name="Local" value="Enums/VisualType.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      </ul>
+    </ul>
+</ul>
+</html>

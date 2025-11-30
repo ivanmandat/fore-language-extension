@@ -1,0 +1,1164 @@
+<html>
+<!-- Sitemap 1.0 -->
+<object type="text/site properties">
+  <param name="SiteType" value="toc">
+  <param name="Image Width" value="16">
+  <param name="Window Styles" value="0x800007">
+  <param name="ExWindow Styles" value="0x100">
+</object>
+<ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Работа с регламентным отчётом">
+    <param name="Local" value="Components/Components.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Компоненты">
+      <param name="Local" value="Components/Components.htm#642b3b9347ca42c9b00b820c00c373fa=1">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Диалоги">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="DataSaveDialog">
+          <param name="Local" value="Components/RegularReport/Dialogs/DataSaveDialog.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="EmfExportDialog">
+          <param name="Local" value="Components/RegularReport/Dialogs/EmfExportDialog.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ExportDialog">
+          <param name="Local" value="Components/RegularReport/Dialogs/ExportDialog.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="HtmlExportDialog">
+          <param name="Local" value="Components/RegularReport/Dialogs/HtmlExportDialog.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MhtExportDialog">
+          <param name="Local" value="Components/RegularReport/Dialogs/MhtExportDialog.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="PdfExportDialog">
+          <param name="Local" value="Components/RegularReport/Dialogs/PdfExportDialog.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="RtfExportDialog">
+          <param name="Local" value="Components/RegularReport/Dialogs/RtfExportDialog.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="XlsExportDialog">
+          <param name="Local" value="Components/RegularReport/Dialogs/XlsExportDialog.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="ControlBar">
+        <param name="Local" value="Components/RegularReport/ControlBar/ControlBar.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Пример размещения компонента ControlBar">
+          <param name="Local" value="Components/RegularReport/ControlBar/ControlBar_Example.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="DataArea">
+        <param name="Local" value="Components/RegularReport/DataArea/DataArea.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Пример размещения компонента DataArea">
+          <param name="Local" value="Components/RegularReport/DataArea/DataArea_Example.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="GridBox">
+        <param name="Local" value="Components/RegularReport/GridBox/GridBox.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Пример размещения компонента GridBox">
+          <param name="Local" value="Components/RegularReport/GridBox/GridBox_example.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="ReportBox">
+        <param name="Local" value="Components/RegularReport/ReportBox/ReportBox.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Пример размещения компонента ReportBox">
+          <param name="Local" value="Components/RegularReport/ReportBox/ReportBox_Example.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="RibbonView">
+        <param name="Local" value="Components/RegularReport/RibbonView/RibbonView.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Пример размещения компонента RibbonView">
+          <param name="Local" value="Components/RegularReport/RibbonView/RibbonView_Example.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="PP.Prx.Ui">
+      <param name="Local" value="Classes/PP.Prx.Ui.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Классы">
+        <param name="Local" value="Classes/PP.Prx.Ui.htm#642b3b9347ca42c9b00b820c00c373fa=1">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="AdvAnalyticsCatView">
+          <param name="Local" value="Classes/RegularReport/AdvAnalyticsCatView/AdvAnalyticsCatView.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="AdvAnalyticsCatView.ControlsCreated">
+            <param name="Local" value="Classes/RegularReport/AdvAnalyticsCatView/AdvAnalyticsCatView.ControlsCreated.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="AdvAnalyticsCatView.DataView">
+            <param name="Local" value="Classes/RegularReport/AdvAnalyticsCatView/AdvAnalyticsCatView.DataView.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="AdvAnalyticsCatView.getCanGetWbk">
+            <param name="Local" value="Classes/RegularReport/AdvAnalyticsCatView/AdvAnalyticsCatView.getCanGetWbk.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="AdvAnalyticsCatView.getContentRendered">
+            <param name="Local" value="Classes/RegularReport/AdvAnalyticsCatView/AdvAnalyticsCatView.getContentRendered.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="AdvAnalyticsCatView.getOptions">
+            <param name="Local" value="Classes/RegularReport/AdvAnalyticsCatView/AdvAnalyticsCatView.getOptions.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="AdvAnalyticsCatView.MetadataChanged">
+            <param name="Local" value="Classes/RegularReport/AdvAnalyticsCatView/AdvAnalyticsCatView.MetadataChanged.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="AdvAnalyticsCatView.ModellingGenerated">
+            <param name="Local" value="Classes/RegularReport/AdvAnalyticsCatView/AdvAnalyticsCatView.ModellingGenerated.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="AdvAnalyticsCatView.OnGetDataMiningResult">
+            <param name="Local" value="Classes/RegularReport/AdvAnalyticsCatView/AdvAnalyticsCatView.OnGetDataMiningResult.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="AdvAnalyticsCatView.PropertyChanged">
+            <param name="Local" value="Classes/RegularReport/AdvAnalyticsCatView/AdvAnalyticsCatView.PropertyChanged.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="AdvAnalyticsCatView.PropertyChanging">
+            <param name="Local" value="Classes/RegularReport/AdvAnalyticsCatView/AdvAnalyticsCatView.PropertyChanging.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="AdvAnalyticsCatView.refresh">
+            <param name="Local" value="Classes/RegularReport/AdvAnalyticsCatView/AdvAnalyticsCatView.refresh.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="AdvAnalyticsCatView.refreshAll">
+            <param name="Local" value="Classes/RegularReport/AdvAnalyticsCatView/AdvAnalyticsCatView.refreshAll.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="AdvAnalyticsCatView.renderContent">
+            <param name="Local" value="Classes/RegularReport/AdvAnalyticsCatView/AdvAnalyticsCatView.renderContent.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="AdvAnalyticsCatView.RequestMetadata">
+            <param name="Local" value="Classes/RegularReport/AdvAnalyticsCatView/AdvAnalyticsCatView.RequestMetadata.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="AdvAnalyticsCatView.setPropertyValue">
+            <param name="Local" value="Classes/RegularReport/AdvAnalyticsCatView/AdvAnalyticsCatView.setPropertyValue.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="AdvAnalyticsCatView.Source">
+            <param name="Local" value="Classes/RegularReport/AdvAnalyticsCatView/AdvAnalyticsCatView.Source.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="AdvAnalyticsCatView.TimeSeriesGenerated">
+            <param name="Local" value="Classes/RegularReport/AdvAnalyticsCatView/AdvAnalyticsCatView.TimeSeriesGenerated.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ComboBoxControlView">
+          <param name="Local" value="Classes/RegularReport/ComboBoxControlView/ComboBoxControlView.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ControlBar">
+          <param name="Local" value="Classes/RegularReport/ControlBar/ControlBar.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Конструктор ControlBar">
+            <param name="Local" value="Classes/RegularReport/ControlBar/Constructor_ControlBar.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ControlBarView">
+          <param name="Local" value="Classes/RegularReport/ControlBarView/ControlBarView.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="ControlBarView.add">
+            <param name="Local" value="Classes/RegularReport/ControlBarView/ControlBarView.add.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="ControlBarView.clear">
+            <param name="Local" value="Classes/RegularReport/ControlBarView/ControlBarView.clear.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="ControlBarView.ControlsRenderState">
+            <param name="Local" value="Classes/RegularReport/ControlBarView/ControlBarView.ControlsRenderState.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="ControlBarView.getControl">
+            <param name="Local" value="Classes/RegularReport/ControlBarView/ControlBarView.getControl.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="ControlBarView.getControlAt">
+            <param name="Local" value="Classes/RegularReport/ControlBarView/ControlBarView.getControlAt.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="ControlBarView.getControls">
+            <param name="Local" value="Classes/RegularReport/ControlBarView/ControlBarView.getControls.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="ControlBarView.Orientation">
+            <param name="Local" value="Classes/RegularReport/ControlBarView/ControlBarView.Orientation.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="ControlBarView.PropertyChanged">
+            <param name="Local" value="Classes/RegularReport/ControlBarView/ControlBarView.PropertyChanged.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="ControlBarView.refresh">
+            <param name="Local" value="Classes/RegularReport/ControlBarView/ControlBarView.refresh.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="ControlBarView.refreshAll">
+            <param name="Local" value="Classes/RegularReport/ControlBarView/ControlBarView.refreshAll.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="ControlBarView.remove">
+            <param name="Local" value="Classes/RegularReport/ControlBarView/ControlBarView.remove.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="ControlBarView.save">
+            <param name="Local" value="Classes/RegularReport/ControlBarView/ControlBarView.save.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="ControlBarView.Source">
+            <param name="Local" value="Classes/RegularReport/ControlBarView/ControlBarView.Source.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="DataArea">
+          <param name="Local" value="Classes/RegularReport/DataArea/DataArea.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Конструктор DataArea">
+            <param name="Local" value="Classes/RegularReport/DataArea/Constructor_DataArea.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="DataAreaView">
+          <param name="Local" value="Classes/RegularReport/DataAreaView/DataAreaView.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="DataAreaView.ActiveSheetChanged">
+            <param name="Local" value="Classes/RegularReport/DataAreaView/DataAreaView.ActiveSheetChanged.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="DataAreaView.ControlBarPosition">
+            <param name="Local" value="Classes/RegularReport/DataAreaView/DataAreaView.ControlBarPosition.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="DataAreaView.getControlBar">
+            <param name="Local" value="Classes/RegularReport/DataAreaView/DataAreaView.getControlBar.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="DataAreaView.getDocument">
+            <param name="Local" value="Classes/RegularReport/DataAreaView/DataAreaView.getDocument.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="DataAreaView.getGridView">
+            <param name="Local" value="Classes/RegularReport/DataAreaView/DataAreaView.getGridView.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="DataAreaView.getStackPanel">
+            <param name="Local" value="Classes/RegularReport/DataAreaView/DataAreaView.getStackPanel.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="DataAreaView.PropertyChanged">
+            <param name="Local" value="Classes/RegularReport/DataAreaView/DataAreaView.PropertyChanged.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="DataAreaView.refresh">
+            <param name="Local" value="Classes/RegularReport/DataAreaView/DataAreaView.refresh.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="DataAreaView.refreshAll">
+            <param name="Local" value="Classes/RegularReport/DataAreaView/DataAreaView.refreshAll.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="DataAreaView.setActiveSheet">
+            <param name="Local" value="Classes/RegularReport/DataAreaView/DataAreaView.setActiveSheet.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="DataAreaView.showControlBar">
+            <param name="Local" value="Classes/RegularReport/DataAreaView/DataAreaView.showControlBar.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="DataAreaView.showTabControl">
+            <param name="Local" value="Classes/RegularReport/DataAreaView/DataAreaView.showTabControl.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="DataAreaView.Source">
+            <param name="Local" value="Classes/RegularReport/DataAreaView/DataAreaView.Source.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="DataSaveDialog">
+          <param name="Local" value="Classes/RegularReport/DataSaveDialog/DataSaveDialog.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Конструктор DataSaveDialog">
+            <param name="Local" value="Classes/RegularReport/DataSaveDialog/Constructor_DataSaveDialog.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="DateTimePickerControlView">
+          <param name="Local" value="Classes/RegularReport/DateTimePickerControlView/DateTimePickerControlView.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="DimComboControlView">
+          <param name="Local" value="Classes/RegularReport/DimComboControlView/DimComboControlView.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="EmfExportDialog">
+          <param name="Local" value="Classes/RegularReport/EmfExportDialog/EmfExportDialog.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="GridBox">
+          <param name="Local" value="Classes/RegularReport/GridBox/GridBox.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Конструктор GridBox">
+            <param name="Local" value="Classes/RegularReport/GridBox/Constructor_GridBox.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="GridView">
+          <param name="Local" value="Classes/RegularReport/GridView/GridView.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Конструктор GridView">
+            <param name="Local" value="Classes/RegularReport/GridView/Constructor_GridView.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="GridView.AutoSendSelection">
+            <param name="Local" value="Classes/RegularReport/GridView/GridView.AutoSendSelection.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="GridView.AutoUpdateByHandler">
+            <param name="Local" value="Classes/RegularReport/GridView/GridView.AutoUpdateByHandler.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="GridView.AutoUpdateObjects">
+            <param name="Local" value="Classes/RegularReport/GridView/GridView.AutoUpdateObjects.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="GridView.Edited">
+            <param name="Local" value="Classes/RegularReport/GridView/GridView.Edited.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="GridView.emulateHyperlinkClick">
+            <param name="Local" value="Classes/RegularReport/GridView/GridView.emulateHyperlinkClick.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="GridView.getChangedCells">
+            <param name="Local" value="Classes/RegularReport/GridView/GridView.getChangedCells.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="GridView.getTabObject">
+            <param name="Local" value="Classes/RegularReport/GridView/GridView.getTabObject.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="GridView.refresh">
+            <param name="Local" value="Classes/RegularReport/GridView/GridView.refresh.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="GridView.refreshAll">
+            <param name="Local" value="Classes/RegularReport/GridView/GridView.refreshAll.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="GridView.Rendered">
+            <param name="Local" value="Classes/RegularReport/GridView/GridView.Rendered.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="GridView.Selection">
+            <param name="Local" value="Classes/RegularReport/GridView/GridView.Selection.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="GridView.SelectionChanged">
+            <param name="Local" value="Classes/RegularReport/GridView/GridView.SelectionChanged.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="GridView.Source">
+            <param name="Local" value="Classes/RegularReport/GridView/GridView.Source.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="GridView.setIsEditable">
+            <param name="Local" value="Classes/RegularReport/GridView/GridView.setIsEditable.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="GridView.TableSource">
+            <param name="Local" value="Classes/RegularReport/GridView/GridView.TableSource.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="HtmlExportDialog">
+          <param name="Local" value="Classes/RegularReport/HtmlExportDialog/HtmlExportDialog.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MaskEditControlView">
+          <param name="Local" value="Classes/RegularReport/MaskEditControlView/MaskEditControlView.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MhtExportDialog">
+          <param name="Local" value="Classes/RegularReport/MhtExportDialog/MhtExportDialog.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="NumberEditControlView">
+          <param name="Local" value="Classes/RegularReport/NumberEditControlView/NumberEditControlView.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="PdfExportDialog">
+          <param name="Local" value="Classes/RegularReport/PdfExportDialog/PdfExportDialog.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="PrxControl">
+          <param name="Local" value="Classes/RegularReport/PrxControl/PrxControl.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="PrxControl.ControlChanged">
+            <param name="Local" value="Classes/RegularReport/PrxControl/PrxControl.ControlChanged.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="PrxControl.create">
+            <param name="Local" value="Classes/RegularReport/PrxControl/PrxControl.create.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="PrxControl.getControl">
+            <param name="Local" value="Classes/RegularReport/PrxControl/PrxControl.getControl.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="PrxControl.getLabel">
+            <param name="Local" value="Classes/RegularReport/PrxControl/PrxControl.getLabel.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="PrxControl.getMetadata">
+            <param name="Local" value="Classes/RegularReport/PrxControl/PrxControl.getMetadata.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="PrxControl.LabelPosition">
+            <param name="Local" value="Classes/RegularReport/PrxControl/PrxControl.LabelPosition.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="PrxControl.MetadataChanged">
+            <param name="Local" value="Classes/RegularReport/PrxControl/PrxControl.MetadataChanged.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="PrxControl.Name">
+            <param name="Local" value="Classes/RegularReport/PrxControl/PrxControl.Name.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="PrxControl.PropertyChanged">
+            <param name="Local" value="Classes/RegularReport/PrxControl/PrxControl.PropertyChanged.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="PrxControl.refresh">
+            <param name="Local" value="Classes/RegularReport/PrxControl/PrxControl.refresh.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="PrxControl.refreshAll">
+            <param name="Local" value="Classes/RegularReport/PrxControl/PrxControl.refreshAll.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="PrxControl.Refreshed">
+            <param name="Local" value="Classes/RegularReport/PrxControl/PrxControl.Refreshed.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="PrxControl.Report">
+            <param name="Local" value="Classes/RegularReport/PrxControl/PrxControl.Report.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="PrxControl.Service">
+            <param name="Local" value="Classes/RegularReport/PrxControl/PrxControl.Service.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="PrxControl.Source">
+            <param name="Local" value="Classes/RegularReport/PrxControl/PrxControl.Source.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="PrxDocument">
+          <param name="Local" value="Classes/RegularReport/PrxDocument/PrxDocument.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="PrxDocument.DocumentHtml">
+            <param name="Local" value="Classes/RegularReport/PrxDocument/PrxDocument.DocumentHtml.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="PrxDocument.MetadataChanged">
+            <param name="Local" value="Classes/RegularReport/PrxDocument/PrxDocument.MetadataChanged.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="PrxDocument.refresh">
+            <param name="Local" value="Classes/RegularReport/PrxDocument/PrxDocument.refresh.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="PrxDocument.refreshAll">
+            <param name="Local" value="Classes/RegularReport/PrxDocument/PrxDocument.refreshAll.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="PrxDocument.Service">
+            <param name="Local" value="Classes/RegularReport/PrxDocument/PrxDocument.Service.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="PrxDocument.Source">
+            <param name="Local" value="Classes/RegularReport/PrxDocument/PrxDocument.Source.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ReportBox">
+          <param name="Local" value="Classes/RegularReport/ReportBox/ReportBox.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Конструктор ReportBox">
+            <param name="Local" value="Classes/RegularReport/ReportBox/Constructor_ReportBox.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ReportView">
+          <param name="Local" value="Classes/RegularReport/ReportView/ReportView.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="ReportView.getDataAreaView">
+            <param name="Local" value="Classes/RegularReport/ReportView/ReportView.getDataAreaView.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="ReportView.getDataView">
+            <param name="Local" value="Classes/RegularReport/ReportView/ReportView.getDataView.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="ReportView.PropertyChanged">
+            <param name="Local" value="Classes/RegularReport/ReportView/ReportView.PropertyChanged.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="ReportView.refresh">
+            <param name="Local" value="Classes/RegularReport/ReportView/ReportView.refresh.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="ReportView.refreshAll">
+            <param name="Local" value="Classes/RegularReport/ReportView/ReportView.refreshAll.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="ReportView.RibbonView">
+            <param name="Local" value="Classes/RegularReport/ReportView/ReportView.RibbonView.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="ReportView.Source">
+            <param name="Local" value="Classes/RegularReport/ReportView/ReportView.Source.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="RibbonView">
+          <param name="Local" value="Classes/RegularReport/RibbonView/RibbonView.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="RibbonView.Closed">
+            <param name="Local" value="Classes/RegularReport/RibbonView/RibbonView.Closed.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="RibbonView.Collapsed">
+            <param name="Local" value="Classes/RegularReport/RibbonView/RibbonView.Collapsed.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="RibbonView.Discuss">
+            <param name="Local" value="Classes/RegularReport/RibbonView/RibbonView.Discuss.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="RibbonView.Exited">
+            <param name="Local" value="Classes/RegularReport/RibbonView/RibbonView.Exited.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="RibbonView.Expanded">
+            <param name="Local" value="Classes/RegularReport/RibbonView/RibbonView.Expanded.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="RibbonView.Exported">
+            <param name="Local" value="Classes/RegularReport/RibbonView/RibbonView.Exported.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="RibbonView.Opened">
+            <param name="Local" value="Classes/RegularReport/RibbonView/RibbonView.Opened.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="RibbonView.Printing">
+            <param name="Local" value="Classes/RegularReport/RibbonView/RibbonView.Printing.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="RibbonView.PropertyChanged">
+            <param name="Local" value="Classes/RegularReport/RibbonView/RibbonView.PropertyChanged.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="RibbonView.PropertyChanging">
+            <param name="Local" value="Classes/RegularReport/RibbonView/RibbonView.PropertyChanging.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="RibbonView.refresh">
+            <param name="Local" value="Classes/RegularReport/RibbonView/RibbonView.refresh.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="RibbonView.refreshAll">
+            <param name="Local" value="Classes/RegularReport/RibbonView/RibbonView.refreshAll.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="RibbonView.setPropertyValue">
+            <param name="Local" value="Classes/RegularReport/RibbonView/RibbonView.setPropertyValue.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="RibbonView.showDataSaveDialog">
+            <param name="Local" value="Classes/RegularReport/RibbonView/RibbonView.showDataSaveDialog.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="RibbonView.showPrintPreview">
+            <param name="Local" value="Classes/RegularReport/RibbonView/RibbonView.showPrintPreview.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="RibbonView.Source">
+            <param name="Local" value="Classes/RegularReport/RibbonView/RibbonView.Source.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="RtfExportDialog">
+          <param name="Local" value="Classes/RegularReport/RtfExportDialog/RtfExportDialog.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Конструктор RtfExportDialog">
+            <param name="Local" value="Classes/RegularReport/RtfExportDialog/Constructor_RtfExportDialog.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="SimpleControlView">
+          <param name="Local" value="Classes/RegularReport/SimpleControlView/SimpleControlView.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TimePickerControlView">
+          <param name="Local" value="Classes/RegularReport/TimePickerControlView/TimePickerControlView.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TreeComboControlView">
+          <param name="Local" value="Classes/RegularReport/TreeComboControlView/TreeComboControlView.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="XlsExportDialog">
+          <param name="Local" value="Classes/RegularReport/XlsExportDialog/XlsExportDialog.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Конструктор XlsExportDialog">
+            <param name="Local" value="Classes/RegularReport/XlsExportDialog/Consructor_XlsExportDialog.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Перечисления">
+        <param name="Local" value="Classes/PP.Prx.Ui.htm#enum642b3b9347ca42c9b00b820c00c373fa=2">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="DataSaveDlgMode">
+          <param name="Local" value="Enums/DataSaveDlgMode.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="RibbonProperty">
+          <param name="Local" value="Enums/RibbonProperty.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="PP.Prx.Ui.ChartEditMode">
+          <param name="Local" value="Enums/PP.Prx.Ui.ChartEditMode.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="PP.Prx.Ui.SelectionMode">
+          <param name="Local" value="Enums/PP.Prx.Ui.SelectionMode.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="PP.Prx">
+      <param name="Local" value="Classes/PP.Prx.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Классы">
+        <param name="Local" value="Classes/PP.Prx.htm#642b3b9347ca42c9b00b820c00c373fa=1">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Control">
+          <param name="Local" value="Classes/RegularReport/Control/Control.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Control.ControlModel">
+            <param name="Local" value="Classes/RegularReport/Control/Control.ControlModel.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Control.ControlType">
+            <param name="Local" value="Classes/RegularReport/Control/Control.ControlType.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Control.isVisibleOnSheet">
+            <param name="Local" value="Classes/RegularReport/Control/Control.isVisibleOnSheet.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Control.VisibleForReport">
+            <param name="Local" value="Classes/RegularReport/Control/Control.VisibleForReport.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Control.VisibleOnSheets">
+            <param name="Local" value="Classes/RegularReport/Control/Control.VisibleOnSheets.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="DimControl">
+          <param name="Local" value="Classes/RegularReport/DimControl/DimControl.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="DimControl.DimModel">
+            <param name="Local" value="Classes/RegularReport/DimControl/DimControl.DimModel.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="DimControl.getIsContentChanged">
+            <param name="Local" value="Classes/RegularReport/DimControl/DimControl.getIsContentChanged.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="DimControl.getIsStructureChanged">
+            <param name="Local" value="Classes/RegularReport/DimControl/DimControl.getIsStructureChanged.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="DimControl.getMultiSelect">
+            <param name="Local" value="Classes/RegularReport/DimControl/DimControl.getMultiSelect.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="DimControl.getSelectionMode">
+            <param name="Local" value="Classes/RegularReport/DimControl/DimControl.getSelectionMode.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="PrxMdService">
+          <param name="Local" value="Classes/RegularReport/PrxMdService/PrxMdService.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="PrxMdService.EndMetabaseRequest">
+            <param name="Local" value="Classes/RegularReport/PrxMdService/PrxMdService.EndMetabaseRequest.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="PrxMdService.Export">
+            <param name="Local" value="Classes/RegularReport/PrxMdService/PrxMdService.Export.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="PrxMdService.generateProblem">
+            <param name="Local" value="Classes/RegularReport/PrxMdService/PrxMdService.generateProblem.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="PrxMdService.generateWbk">
+            <param name="Local" value="Classes/RegularReport/PrxMdService/PrxMdService.generateWbk.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="PrxMdService.getBinaryUrl">
+            <param name="Local" value="Classes/RegularReport/PrxMdService/PrxMdService.getBinaryUrl.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="PrxMdService.getDocumentData">
+            <param name="Local" value="Classes/RegularReport/PrxMdService/PrxMdService.getDocumentData.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="PrxMdService.getMetabase">
+            <param name="Local" value="Classes/RegularReport/PrxMdService/prxMdService.getMetabase.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="PrxMdService.getMetadata">
+            <param name="Local" value="Classes/RegularReport/PrxMdService/PrxMdService.getMetadata.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="PrxMdService.loadPrxMd">
+            <param name="Local" value="Classes/RegularReport/PrxMdService/PrxMdService.loadPrxMd.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="PrxMdService.open">
+            <param name="Local" value="Classes/RegularReport/PrxMdService/PrxMdService.open.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="PrxMdService.Opened">
+            <param name="Local" value="Classes/RegularReport/PrxMdService/PrxMdService.Opened.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="PrxMdService.openReport">
+            <param name="Local" value="Classes/RegularReport/PrxMdService/PrxMdService.openReport.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="PrxMdService.saveData">
+            <param name="Local" value="Classes/RegularReport/PrxMdService/PrxMdService.saveData.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="PrxMdService.setActiveSheet">
+            <param name="Local" value="Classes/RegularReport/PrxMdService/PrxMdService.setActiveSheet.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="PrxMdService.setAutoUpdate">
+            <param name="Local" value="Classes/RegularReport/PrxMdService/PrxMdService.setAutoUpdate.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="PrxMdService.setControlsValue">
+            <param name="Local" value="Classes/RegularReport/PrxMdService/PrxMdService.setControlsValue.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="PrxMdService.setHyperLink">
+            <param name="Local" value="Classes/RegularReport/PrxMdService/PrxMdService.setHyperLink.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="PrxMdService.setTabSheetAction">
+            <param name="Local" value="Classes/RegularReport/PrxMdService/PrxMdService.setTabSheetAction.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="PrxMdService.setTabSheetData">
+            <param name="Local" value="Classes/RegularReport/PrxMdService/PrxMdService.setTabSheetData.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="PrxMdService.setTabSheetSelection">
+            <param name="Local" value="Classes/RegularReport/PrxMdService/PrxMdService.setTabSheetSelection.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="PrxMdService.StartMetabaseRequest">
+            <param name="Local" value="Classes/RegularReport/PrxMdService/PrxMdService.StartMetabaseRequest.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Конструктор PrxMdService">
+            <param name="Local" value="Classes/RegularReport/PrxMdService/Constructor_PrxMdService.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Report">
+          <param name="Local" value="Classes/RegularReport/Report/Report.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Report.ActiveSheetKey">
+            <param name="Local" value="Classes/RegularReport/Report/Report.ActiveSheetKey.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Report.Control">
+            <param name="Local" value="Classes/RegularReport/Report/Report.Control.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Report.EnabledRanges">
+            <param name="Local" value="Classes/RegularReport/Report/Report.EnabledRanges.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Report.ForceShowControls">
+            <param name="Local" value="Classes/RegularReport/Report/Report.ForceShowControls.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Report.getActiveSheetIndex">
+            <param name="Local" value="Classes/RegularReport/Report/Report.getActiveSheetIndex.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Report.getControls">
+            <param name="Local" value="Classes/RegularReport/Report/Report.getControls.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Report.getDisplayTabs">
+            <param name="Local" value="Classes/RegularReport/Report/Report.getDisplayTabs.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Report.getSheetIndexByKey">
+            <param name="Local" value="Classes/RegularReport/Report/Report.getSheetIndexByKey.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Report.getSheets">
+            <param name="Local" value="Classes/RegularReport/Report/Report.getSheets.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Report.getTabId">
+            <param name="Local" value="Classes/RegularReport/Report/Report.getTabId.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Report.isAnyControlVisible">
+            <param name="Local" value="Classes/RegularReport/Report/Report.isAnyControlVisible.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Report.isAnyTableSheetExists">
+            <param name="Local" value="Classes/RegularReport/Report/Report.isAnyTableSheetExists.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Report.IsDataChanged">
+            <param name="Local" value="Classes/RegularReport/Report/Report.IsDataChanged.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Report.Selection">
+            <param name="Local" value="Classes/RegularReport/Report/Report.Selection.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Report.TabFocusedCell">
+            <param name="Local" value="Classes/RegularReport/Report/Report.TabFocusedCell.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TableDataSource">
+          <param name="Local" value="Classes/RegularReport/TableDataSource/TableDataSource.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="TableDataSource.setAutoFilter">
+            <param name="Local" value="Classes/RegularReport/TableDataSource/TableDataSource.setAutoFilter.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Конструктор TableDataSource">
+            <param name="Local" value="Classes/RegularReport/TableDataSource/TableDataSource_constructor.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Перечисления">
+        <param name="Local" value="Classes/PP.Prx.htm#642b3b9347ca42c9b00b820c00c373fa=2">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ControlType">
+          <param name="Local" value="Enums/ControlType.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Property">
+          <param name="Local" value="Enums/PP.Prx.Property.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      </ul>
+    </ul>
+</ul>
+</html>

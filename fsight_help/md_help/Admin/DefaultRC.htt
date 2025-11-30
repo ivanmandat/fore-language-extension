@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="topic-comment" content="" />
+<meta name="generator" content="Adobe RoboHelp 11" />
+<title>DefaultRC</title>
+<link rel="StyleSheet" href="default.css" type="text/css" />
+</head>
+
+<body>
+<?rh-region_start type="header" style="width: 100%; position: relative;" ?>
+<?rh-region_end type="header" ?>
+<?rh-region_start type="body" ?>
+	<p>&#160;</p>
+<?rh-region_end type="body" ?>
+<?rh-region_start type="footer" style="width: 100%; position: relative; 
+					 margin-top: 10px;" ?>
+	<div class="tooltip" id="tt">
+		<button id="CopyBtn" class="NoScript" onclick="copyLink()"> <img src="../../Copy.svg" 
+														 alt="" border="0" /> 
+		 <span class="tooltiptext">Копировать ссылку на страницу</span> 
+		 </button> 
+	</div>
+	<div class="tooltip">
+		<button onclick="topFunction()" id="TopBtn"> <img src="../../Top.svg" 
+															 alt="" border="0" /> 
+		 <span class="tooltiptext" style="top: 17.35px; right: 118%;">Наверх</span> 
+		 </button> 
+	</div>
+	<div style="float: left; margin-left: 0; margin-top: 0px; width: 100%; 
+		 right: 37px; left: 0; padding-bottom: 0px;">
+		Справочная информация на разрабатываемую версию может быть неполной, 
+		 содержать ошибки и неточности. 
+	</div>
+	<div style="float: left; width: 40%;">
+		<span id="WebSpan" class="NoScript" style="top: 9px; left: 0px; position: relative; 
+				 color: #919393; text-align: left;">Нашли ошибку? Выделите 
+		 текст с ошибкой и нажмите кнопку &quot;Сообщить об ошибке&quot; 
+		 или CTRL+ENTER.</span> 
+	</div>
+	<div style="float: right; width: 40%; text-align: right;">
+		<span style="top: 9px; right: 37px; position: relative; color: #919393;">Разрабатываемая 
+		 версия 10.10 от <?rh-variable_start name="date" format="dd/MM/yyyy" 
+											 value="45335.448218" ?>14/02/2024<?rh-variable_end ?>, 
+		 © ООО «ФОРСАЙТ», <script type="text/javascript">var tD = new Date();var datestr = tD.getFullYear();document.write(""+datestr+"");</script></span> 
+		 
+	</div>
+	<br />
+	
+	<div id="oContainer" class="NoScript" style="float: left; margin-left: 0pt; margin-top: 18px; 
+		 width: 100%;">
+		<script src="../../subdefRC.js" type="text/javascript" style="x-condition: Web, ;"></script>
+	</div>
+	<script src="../../help.js" type="text/javascript"></script>
+<?rh-region_end type="footer" ?>
+</body>
+</html>

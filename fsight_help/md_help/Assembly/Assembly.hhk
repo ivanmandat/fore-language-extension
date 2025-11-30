@@ -1,0 +1,29 @@
+<html>
+<!-- Sitemap 1.0 -->
+<object type="text/site properties">
+  <param name="SiteType" value="index">
+</object>
+<ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Системные сборки">
+    <param name="Name" value="Системные сборки">
+    <param name="Local" value="System_Assembly.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Расширения продукта «Форсайт. Аналитическая платформа»">
+    <param name="See Also" value="Расширения продукта «Форсайт. Аналитическая платформа»">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="API расширений">
+      <param name="Name" value="Описание API расширений">
+      <param name="Local" value="API_Extentions.htm">
+    </object>
+    </ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="API расширений">
+    <param name="Name" value="Описание API расширений">
+    <param name="Local" value="API_Extentions.htm">
+  </object>
+</ul>
+</html>

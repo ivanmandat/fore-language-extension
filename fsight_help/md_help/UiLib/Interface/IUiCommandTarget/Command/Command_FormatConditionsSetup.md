@@ -1,0 +1,86 @@
+﻿# FormatConditionsSetup: Плагин Express
+
+FormatConditionsSetup: Плагин Express
+-
+
+
+# Команда FormatConditionsSetup
+
+
+## Назначение
+
+
+Вызов стандартного диалога настройки параметров условного форматирования
+ данных.
+
+
+## Параметры использования
+
+
+Параметры команды передаются в свойстве [Data](../../IUiCommandExecutionContext/IUiCommandExecutionContext.Data.htm).
+ Для работы команды в данном свойстве необходимо указать следующее значение:
+
+
+		 Тип значения
+		 Описание
+
+
+		 [IEaxAnalyzer](KeExpress.chm::/Interface/IEaxAnalyzer/IEaxAnalyzer.htm) или
+		 [IEaxGrid](KeExpress.chm::/Interface/IEaxGrid/IEaxGrid.htm)
+		 Экспресс-отчет или таблица экспресс-отчета, для которой необходимо
+		 настроить параметры условных форматов.
+
+
+## Особенности применения
+
+
+Команда может применяться только для экспресс-отчетов.
+
+
+## Пример
+
+
+Для выполнения примера предполагается наличие формы, расположенной на
+ ней кнопки с наименованием "Button1", компонента TabSheetBox
+ и компонента UiErAnalyzer с наименованием "UiErAnalyzer1", являющегося
+ источником данных для TabSheetBox.
+
+
+Добавьте ссылки на системные сборки: Forms, Express, UI.
+
+
+	Sub Button1OnClick(Sender: Object; Args: IMouseEventArgs);
+
+	Var
+
+	    Target: IUiCommandTarget;
+
+	    Context: IUiCommandExecutionContext;
+
+	Begin
+
+	    Target := WinApplication.Instance.GetPluginTarget("Express");
+
+	    Context := Target.CreateExecutionContext;
+
+	    Context.Data := UiErAnalyzer1.ErAnalyzer;
+
+	    Target.Execute("FormatConditionsSetup", Context);
+
+	End Sub Button1OnClick;
+
+
+При нажатии на кнопку будет выведен стандартный диалог настройки параметров
+ условного форматирования для экспресс-отчета установленного в UiErAnalyzer1.
+
+
+См. также:
+
+
+[IUiCommandTarget.Execute](../IUiCommandTarget.Execute.htm)
+
+
+		Справочная
+		 система на версию 10.9
+		 от 18/08/2025,
+		 © ООО «ФОРСАЙТ»,

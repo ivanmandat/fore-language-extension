@@ -1,0 +1,46 @@
+﻿# IValidationUserComponents.Count
+
+IValidationUserComponents.Count
+-
+
+
+# IValidationUserComponents.Count
+
+
+## Синтаксис
+
+
+Count: Integer;
+
+
+## Описание
+
+
+Свойство Count возвращает количество компонентов в коллекции.
+
+
+## Комментарии
+
+
+Емкость коллекции - это количество элементов, которое может содержать коллекция. Свойство Count - это количество элементов, которое в действительности содержится в коллекции.
+
+
+Емкость всегда больше или равна значению свойства Count. Если при добавлении элементов в коллекцию значение свойства Count превышает емкость, то она автоматически увеличивается.
+
+
+## Пример
+
+
+Использование свойства приведено в примере для [IValidationFilter.UserComponents](../IValidationFilter/IValidationFilter.UserComponents.htm).
+
+
+См. также:
+
+
+[IValidationUserComponents](IValidationUserComponents.htm)
+
+
+		Справочная
+		 система на версию 10.9
+		 от 18/08/2025,
+		 © ООО «ФОРСАЙТ»,

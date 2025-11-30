@@ -1,0 +1,476 @@
+<html>
+<!-- Sitemap 1.0 -->
+<object type="text/site properties">
+  <param name="SiteType" value="toc">
+  <param name="Image Width" value="16">
+  <param name="Window Styles" value="0x800007">
+  <param name="ExWindow Styles" value="0x100">
+</object>
+<ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Работа со списками">
+    <param name="Local" value="Classes/Classes.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Компоненты">
+      <param name="Local" value="Components/Components.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="ListBox">
+        <param name="Local" value="Components/ListBox/ListBox.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Пример создания компонента ListBox с механизмом DragAndDrop">
+          <param name="Local" value="Components/ListBox/ListBoxExample.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Пример создания компонента ListBox">
+          <param name="Local" value="Components/ListBox/Example_ListBox.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="ListItem">
+        <param name="Local" value="Components/ListItem/ListItem.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="LongListBox">
+        <param name="Local" value="Components/LongListBox/LongListBox.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Пример создания компонента LongListBox">
+          <param name="Local" value="Components/LongListBox/Example_LongListBox.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="LongListItem">
+        <param name="Local" value="Components/LongListItem/LongListItem.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Классы">
+      <param name="Local" value="Classes/Classes.htm#642b3b9347ca42c9b00b820c00c373fa=1">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="List">
+        <param name="Local" value="Classes/List/List.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="List.getCount">
+          <param name="Local" value="Classes/List/List.getCount.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="List.getItem">
+          <param name="Local" value="Classes/List/List.getItem.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="List.setItem">
+          <param name="Local" value="Classes/List/List.setItem.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="List.add">
+          <param name="Local" value="Classes/List/list.add.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="List.insert">
+          <param name="Local" value="Classes/List/List.insert.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="List.insertBefore">
+          <param name="Local" value="Classes/List/List.insertBefore.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="List.remove">
+          <param name="Local" value="Classes/List/List.remove.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="List.clear">
+          <param name="Local" value="Classes/List/List.clear.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="List.contains">
+          <param name="Local" value="Classes/List/list.contains.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="List.indexOf">
+          <param name="Local" value="Classes/List/List.indexOf.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="List.Items">
+          <param name="Local" value="Classes/List/List.Items.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="List.Changed">
+          <param name="Local" value="Classes/List/List.Changed.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="List.Changing">
+          <param name="Local" value="Classes/List/List.Changing.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="ListBox">
+        <param name="Local" value="Classes/ListBox/ListBox.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Конструктор ListBox">
+          <param name="Local" value="Classes/ListBox/Constructor_ListBox.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ListBox.getLayoutItems">
+          <param name="Local" value="Classes/ListBox/ListBox.getLayoutItems.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ListBox.scrollToSelected">
+          <param name="Local" value="Classes/ListBox/ListBox.scrollToSelected.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ListBox.scrollToItem">
+          <param name="Local" value="Classes/ListBox/ListBox.scrollToItem.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ListBox.getItemByPoint">
+          <param name="Local" value="Classes/ListBox/ListBox.getItemByPoint.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ListBox.Items">
+          <param name="Local" value="Classes/ListBox/ListBox.Items.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ListBox.SelectOnMouseDown">
+          <param name="Local" value="Classes/ListBox/ListBox.SelectOnMouseDown.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ListBox.EnableEdit">
+          <param name="Local" value="Classes/ListBox/ListBox.EnableEdit.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ListBox.EmptySelection">
+          <param name="Local" value="Classes/ListBox/ListBox.EmptySelection.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ListBox.IsScrollToSelected">
+          <param name="Local" value="Classes/ListBox/ListBox.IsScrollToSelected.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ListBox.SelectableSelected">
+          <param name="Local" value="Classes/ListBox/ListBox.SelectableSelected.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ListBox.ItemMouseDown">
+          <param name="Local" value="Classes/ListBox/ListBox.ItemMouseDown.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ListBox.ItemEditing">
+          <param name="Local" value="Classes/ListBox/ListBox.ItemEditing.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ListBox.ItemEdited">
+          <param name="Local" value="Classes/ListBox/ListBox.ItemEdited.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ListBox.setSelectedFocus">
+          <param name="Local" value="Classes/ListBox/ListBox.setSelectedFocus.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ListBox.selectItemById">
+          <param name="Local" value="Classes/ListBox/ListBox.selectItemById.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ListBox.getLastItemClick">
+          <param name="Local" value="Classes/ListBox/ListBox.getLastItemClick.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ListBox.getActiveItem">
+          <param name="Local" value="Classes/ListBox/ListBox.getActiveItem.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ListBox.clear">
+          <param name="Local" value="Classes/ListBox/ListBox.clear.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ListBox.getScrollBox">
+          <param name="Local" value="Classes/ListBox/ListBox.getScrollBox.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ListBox.endUpdate">
+          <param name="Local" value="Classes/ListBox/ListBox.endUpdate.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ListBox.ItemClick">
+          <param name="Local" value="Classes/ListBox/ListBox.ItemClick.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ListBox.beginUpdate">
+          <param name="Local" value="Classes/ListBox/ListBox.beginUpdate.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ListBox.SelectedItem">
+          <param name="Local" value="Classes/ListBox/ListBox.SelectedItem.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ListBox.SelectedIndex">
+          <param name="Local" value="Classes/ListBox/ListBox.SelectedIndex.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ListBox.Orientation">
+          <param name="Local" value="Classes/ListBox/ListBox.Orientation.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ListBox.ImageList">
+          <param name="Local" value="Classes/ListBox/ListBox.ImageList.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ListBox.EnableKeyboard">
+          <param name="Local" value="Classes/ListBox/ListBox.EnableKeyboard.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ListBox.addItem">
+          <param name="Local" value="Classes/ListBox/ListBox.addItem.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ListBox.insertItem">
+          <param name="Local" value="Classes/ListBox/ListBox.insertItem.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ListBox.removeItem">
+          <param name="Local" value="Classes/ListBox/ListBox.removeItem.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ListBox.filterByText">
+          <param name="Local" value="Classes/ListBox/ListBox.filterByText.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ListBox.clearSelection">
+          <param name="Local" value="Classes/ListBox/ListBox.clearSelection.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ListBox.ItemSelected">
+          <param name="Local" value="Classes/ListBox/ListBox.ItemSelected.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ListBox.ItemDeselected">
+          <param name="Local" value="Classes/ListBox/ListBox.ItemDeselected.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ListBox.getSelectedItems">
+          <param name="Local" value="Classes/ListBox/ListBox.getSelectedItems.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Listbox.MultiSelect">
+          <param name="Local" value="Classes/ListBox/Listbox.Multiselect.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="ListItem">
+        <param name="Local" value="Classes/ListItem/ListItem.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ListItem.ColumnIndex">
+          <param name="Local" value="Classes/ListItem/ListItem.ColumnIndex.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ListItem.getParent">
+          <param name="Local" value="Classes/ListItem/ListItem.getParent.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ListItem.ImageURL">
+          <param name="Local" value="Classes/ListItem/ListItem.ImageURL.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ListItem.RowIndex">
+          <param name="Local" value="Classes/ListItem/ListItem.RowIndex.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ListItem.Selected">
+          <param name="Local" value="Classes/ListItem/ListItem.Selected.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ListItem.setIsHovered">
+          <param name="Local" value="Classes/ListItem/ListItem.setIsHovered.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ListItem.toString">
+          <param name="Local" value="Classes/ListItem/ListItem.toString.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Конструктор ListItem">
+          <param name="Local" value="Classes/ListItem/Constructor_ListItem.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="LongListBox">
+        <param name="Local" value="Classes/LongListBox/LongListBox.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Конструктор LongListBox">
+          <param name="Local" value="Classes/LongListBox/Constructor_LongListBox.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="LongListBox.calcItemsContainerHeight">
+          <param name="Local" value="Classes/LongListBox/LongListBox.calcItemsContainerHeight.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="LongListBox.Groups">
+          <param name="Local" value="Classes/LongListBox/LongListBox.Groups.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="LongListBox.GroupsHeight">
+          <param name="Local" value="Classes/LongListBox/LongListBox.GroupsHeight.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="LongListBox.ItemsHeight">
+          <param name="Local" value="Classes/LongListBox/LongListBox.ItemsHeight.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="LongListBox.GroupsTemplate">
+          <param name="Local" value="Classes/LongListBox/LongListBox.GroupsTemplate.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="LongListBox.ItemsTemplate">
+          <param name="Local" value="Classes/LongListBox/LongListBox.ItemsTemplate.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="LongListBox.isAllLoaded">
+          <param name="Local" value="Classes/LongListBox/LongListBox.isAllLoaded.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="LongListBox.addGroups">
+          <param name="Local" value="Classes/LongListBox/LongListBox.addGroups.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="LongListBox.beginUpdate">
+          <param name="Local" value="Classes/LongListBox/LongListBox.beginUpdate.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="LongListBox.endUpdate">
+          <param name="Local" value="Classes/LongListBox/LongListBox.endUpdate.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="LongListBox.getItems">
+          <param name="Local" value="Classes/LongListBox/LongListBox.getItems.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="LongListBox.getScrollBar">
+          <param name="Local" value="Classes/LongListBox/LongListBox.getScrollBar.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="LongListBox.getVisibleItems">
+          <param name="Local" value="Classes/LongListBox/LongListBox.getVisibleItems.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="LongListBox.getMultiSelect">
+          <param name="Local" value="Classes/LongListBox/LongListBox.getMultiSelect.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="LongListBox.setChildProps">
+          <param name="Local" value="Classes/LongListBox/LongListBox.setChildProps.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="LongListItem">
+        <param name="Local" value="Classes/LongListItem/LongListItem.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Конструктор LongListItem">
+          <param name="Local" value="Classes/LongListItem/Constructor_LongListItem.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="LongListItem.Template">
+          <param name="Local" value="Classes/LongListItem/LongListItem.Template.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      </ul>
+    </ul>
+</ul>
+</html>

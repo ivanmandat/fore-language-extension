@@ -1,0 +1,52 @@
+﻿# WbkPropertyBarView.hideAllMasters
+
+WbkPropertyBarView.hideAllMasters
+-
+
+
+# WbkPropertyBarView.hideAllMasters
+
+
+## Синтаксис
+
+
+hideAllMasters(withSelf: Boolean, group: Array);
+
+
+## Параметры
+
+
+withSelf. Определяет видимость компонента;
+
+
+group. Массив групп мастеров.
+
+
+## Описание
+
+
+Метод hideAllMasters скрывает все мастера, принадлежащие группам.
+
+
+## Комментарии
+
+
+Если параметр withSelf принимает значение true - то и сам компонент скрывается. Параметр group является массивом объектов PP.TS.Ui.[PropertyGroups](../../../Enums/PP.TS.Ui.PropertyGroups.htm).
+
+
+## Пример
+
+
+Пример использования приведён на странице описания метода [WbkPropertyBarView.getChartMaster](WbkPropertyBarView.getChartMaster.htm).
+
+
+См. также:
+
+
+[WbkPropertyBarView](WbkPropertyBarView.htm)
+
+
+		Справочная
+		 система на версию 10.9
+		 от 18/08/2025,
+		 © ООО «ФОРСАЙТ»,

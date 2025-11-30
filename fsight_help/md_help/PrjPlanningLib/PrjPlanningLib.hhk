@@ -1,0 +1,624 @@
+<html>
+<!-- Sitemap 1.0 -->
+<object type="text/site properties">
+  <param name="SiteType" value="index">
+</object>
+<ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Введение">
+    <param name="Name" value="Введение: Сборка ProjectPlanning">
+    <param name="Local" value="Intro/ProjectPlanning_Introduction.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Сборка ProjectPlanning">
+    <param name="Name" value="Сборка ProjectPlanning">
+    <param name="Local" value="Intro/ProjectPlanning_TitlePage.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Введение">
+      <param name="Name" value="Введение: Сборка ProjectPlanning">
+      <param name="Local" value="Intro/ProjectPlanning_Introduction.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Иерархия сборки ProjectPlanning">
+      <param name="Name" value="Иерархия сборки ProjectPlanning">
+      <param name="Local" value="Intro/ProjectPlanning_Hierarchy.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Интерфейсы сборки ProjectPlanning">
+      <param name="Name" value="Интерфейсы сборки ProjectPlanning">
+      <param name="Local" value="Interface/ProjectPlanning_Interface.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Классы сборки ProjectPlanning">
+      <param name="Name" value="Классы сборки ProjectPlanning">
+      <param name="Local" value="Class/ProjectPlanning_Classes.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Перечисления сборки ProjectPlanning">
+      <param name="Name" value="Перечисления сборки ProjectPlanning">
+      <param name="Local" value="Enums/ProjectPlanning_Enums.htm">
+    </object>
+    </ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ProjectPlanning">
+    <param name="Name" value="Сборка ProjectPlanning">
+    <param name="Local" value="Intro/ProjectPlanning_TitlePage.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Введение">
+      <param name="Name" value="Введение: Сборка ProjectPlanning">
+      <param name="Local" value="Intro/ProjectPlanning_Introduction.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Интерфейсы сборки ProjectPlanning">
+      <param name="Name" value="Интерфейсы сборки ProjectPlanning">
+      <param name="Local" value="Interface/ProjectPlanning_Interface.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Перечисления сборки ProjectPlanning">
+      <param name="Name" value="Перечисления сборки ProjectPlanning">
+      <param name="Local" value="Enums/ProjectPlanning_Enums.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Классы сборки ProjectPlanning">
+      <param name="Name" value="Классы сборки ProjectPlanning">
+      <param name="Local" value="Class/ProjectPlanning_Classes.htm">
+    </object>
+    </ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Иерархия сборки ProjectPlanning">
+    <param name="Name" value="Иерархия сборки ProjectPlanning">
+    <param name="Local" value="Intro/ProjectPlanning_Hierarchy.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Интерфейсы сборки ProjectPlanning">
+    <param name="Name" value="Интерфейсы сборки ProjectPlanning">
+    <param name="Local" value="Interface/ProjectPlanning_Interface.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IPrjCalendarOptions">
+    <param name="Name" value="IPrjCalendarOptions">
+    <param name="Local" value="Interface/IPrjCalendarOptions/IPrjCalendarOptions.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IPrjContradiction">
+    <param name="Name" value="IPrjContradiction">
+    <param name="Local" value="Interface/IPrjContradiction/IPrjContradiction.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IPrjProject">
+    <param name="Name" value="IPrjProject">
+    <param name="Local" value="Interface/IPrjProject/IPrjProject.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IPrjTask">
+    <param name="Name" value="IPrjTask">
+    <param name="Local" value="Interface/IPrjTask/IPrjTask.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IPrjTaskCollection">
+    <param name="Name" value="IPrjTaskCollection">
+    <param name="Local" value="Interface/IPrjTaskCollection/IPrjTaskCollection.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IPrjTaskDependenciesCollection">
+    <param name="Name" value="IPrjTaskDependenciesCollection">
+    <param name="Local" value="Interface/IPrjTaskDependenciesCollection/IPrjTaskDependenciesCollection.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IPrjTaskDependency">
+    <param name="Name" value="IPrjTaskDependency">
+    <param name="Local" value="Interface/IPrjTaskDependency/IPrjTaskDependency.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IPrjTaskPeriod">
+    <param name="Name" value="IPrjTaskPeriod">
+    <param name="Local" value="Interface/IPrjTaskPeriod/IPrjTaskPeriod.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Классы сборки ProjectPlanning">
+    <param name="Name" value="Классы сборки ProjectPlanning">
+    <param name="Local" value="Class/ProjectPlanning_Classes.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="PrjProject">
+    <param name="Name" value="PrjProject">
+    <param name="Local" value="Class/PrjProject/PrjProject.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Перечисления сборки ProjectPlanning">
+    <param name="Name" value="Перечисления сборки ProjectPlanning">
+    <param name="Local" value="Enums/ProjectPlanning_Enums.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="PrjTaskConstraintType">
+      <param name="Name" value="PrjTaskConstraintType">
+      <param name="Local" value="Enums/PrjTaskConstraintType.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="PrjTaskDependencyType">
+      <param name="Name" value="PrjTaskDependencyType">
+      <param name="Local" value="Enums/PrjTaskDependencyType.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="PrjTaskWorkOutTypes">
+      <param name="Name" value="PrjTaskWorkOutTypes">
+      <param name="Local" value="Enums/PrjTaskWorkOutTypes.htm">
+    </object>
+    </ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="PrjTaskConstraintType">
+    <param name="Name" value="PrjTaskConstraintType">
+    <param name="Local" value="Enums/PrjTaskConstraintType.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="PrjTaskDependencyType">
+    <param name="Name" value="PrjTaskDependencyType">
+    <param name="Local" value="Enums/PrjTaskDependencyType.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="PrjTaskWorkOutTypes">
+    <param name="Name" value="PrjTaskWorkOutTypes">
+    <param name="Local" value="Enums/PrjTaskWorkOutTypes.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IPrjContradictionsCollection">
+    <param name="Name" value="IPrjContradictionsCollection">
+    <param name="Local" value="Interface/IPrjContradictionsCollection/IPrjContradictionsCollection.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IPrjCalendarOptions.ExcludedDates">
+    <param name="Name" value="IPrjCalendarOptions.ExcludedDates">
+    <param name="Local" value="Interface/IPrjCalendarOptions/IPrjCalendarOptions.ExcludedDates.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IPrjCalendarOptions.IncludeWeekend">
+    <param name="Name" value="IPrjCalendarOptions.IncludeWeekend">
+    <param name="Local" value="Interface/IPrjCalendarOptions/IPrjCalendarOptions.IncludeWeekend.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IncludeWeekend">
+    <param name="Name" value="IPrjCalendarOptions.IncludeWeekend">
+    <param name="Local" value="Interface/IPrjCalendarOptions/IPrjCalendarOptions.IncludeWeekend.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ExcludedDates">
+    <param name="Name" value="IPrjCalendarOptions.ExcludedDates">
+    <param name="Local" value="Interface/IPrjCalendarOptions/IPrjCalendarOptions.ExcludedDates.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IPrjContradiction.Dependency">
+    <param name="Name" value="IPrjContradiction.Dependency">
+    <param name="Local" value="Interface/IPrjContradiction/IPrjContradiction.Dependency.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Dependency">
+    <param name="Name" value="IPrjContradiction.Dependency">
+    <param name="Local" value="Interface/IPrjContradiction/IPrjContradiction.Dependency.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IPrjContradiction.Difference">
+    <param name="Name" value="IPrjContradiction.Difference">
+    <param name="Local" value="Interface/IPrjContradiction/IPrjContradiction.Difference.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Difference">
+    <param name="Name" value="IPrjContradiction.Difference">
+    <param name="Local" value="Interface/IPrjContradiction/IPrjContradiction.Difference.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IPrjContradiction.Follower">
+    <param name="Name" value="IPrjContradiction.Follower">
+    <param name="Local" value="Interface/IPrjContradiction/IPrjContradiction.Follower.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Follower">
+    <param name="Name" value="IPrjContradiction.Follower">
+    <param name="Local" value="Interface/IPrjContradiction/IPrjContradiction.Follower.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IPrjContradiction.Predecessor">
+    <param name="Name" value="IPrjContradiction.Predecessor">
+    <param name="Local" value="Interface/IPrjContradiction/IPrjContradiction.Predecessor.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Predecessor">
+    <param name="Name" value="IPrjContradiction.Predecessor">
+    <param name="Local" value="Interface/IPrjContradiction/IPrjContradiction.Predecessor.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IPrjContradictionsCollection.Count">
+    <param name="Name" value="IPrjContradictionsCollection.Count">
+    <param name="Local" value="Interface/IPrjContradictionsCollection/IPrjContradictionsCollection.Count.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IPrjContradictionsCollection.Item">
+    <param name="Name" value="IPrjContradictionsCollection.Item">
+    <param name="Local" value="Interface/IPrjContradictionsCollection/IPrjContradictionsCollection.Item.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IPrjContradictionsCollection.Clear">
+    <param name="Name" value="IPrjContradictionsCollection.Clear">
+    <param name="Local" value="Interface/IPrjContradictionsCollection/IPrjContradictionsCollection.Clear.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IPrjContradictionsCollection.Remove">
+    <param name="Name" value="IPrjContradictionsCollection.Remove">
+    <param name="Local" value="Interface/IPrjContradictionsCollection/IPrjContradictionsCollection.Remove.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IPrjProject.CalendarOptions">
+    <param name="Name" value="IPrjProject.CalendarOptions">
+    <param name="Local" value="Interface/IPrjProject/IPrjProject.CalendarOptions.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="CalendarOptions">
+    <param name="Name" value="IPrjProject.CalendarOptions">
+    <param name="Local" value="Interface/IPrjProject/IPrjProject.CalendarOptions.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IPrjProject.Contradictions">
+    <param name="Name" value="IPrjProject.Contradictions">
+    <param name="Local" value="Interface/IPrjProject/IPrjProject.Contradictions.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Contradictions">
+    <param name="Name" value="IPrjProject.Contradictions">
+    <param name="Local" value="Interface/IPrjProject/IPrjProject.Contradictions.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IPrjProject.EndDate">
+    <param name="Name" value="IPrjProject.EndDate">
+    <param name="Local" value="Interface/IPrjProject/IPrjProject.EndDate.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="EndDate">
+    <param name="Name" value="IPrjProject.EndDate">
+    <param name="Local" value="Interface/IPrjProject/IPrjProject.EndDate.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IPrjProject.StartDate">
+    <param name="Name" value="IPrjProject.StartDate">
+    <param name="Local" value="Interface/IPrjProject/IPrjProject.StartDate.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="StartDate">
+    <param name="Name" value="IPrjProject.StartDate">
+    <param name="Local" value="Interface/IPrjProject/IPrjProject.StartDate.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IPrjProject.Tasks">
+    <param name="Name" value="IPrjProject.Tasks">
+    <param name="Local" value="Interface/IPrjProject/IPrjProject.Tasks.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Tasks">
+    <param name="Name" value="IPrjProject.Tasks">
+    <param name="Local" value="Interface/IPrjProject/IPrjProject.Tasks.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IPrjProject.UseStartDate">
+    <param name="Name" value="IPrjProject.UseStartDate">
+    <param name="Local" value="Interface/IPrjProject/IPrjProject.UseStartDate.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="UseStartDate">
+    <param name="Name" value="IPrjProject.UseStartDate">
+    <param name="Local" value="Interface/IPrjProject/IPrjProject.UseStartDate.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IPrjProject.CheckConstraints">
+    <param name="Name" value="IPrjProject.CheckConstraints">
+    <param name="Local" value="Interface/IPrjProject/IPrjProject.CheckConstraints.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="CheckConstraints">
+    <param name="Name" value="IPrjProject.CheckConstraints">
+    <param name="Local" value="Interface/IPrjProject/IPrjProject.CheckConstraints.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IPrjProject.Plan">
+    <param name="Name" value="IPrjProject.Plan">
+    <param name="Local" value="Interface/IPrjProject/IPrjProject.Plan.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Plan">
+    <param name="Name" value="IPrjProject.Plan">
+    <param name="Local" value="Interface/IPrjProject/IPrjProject.Plan.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IPrjTask.ConstraintDate">
+    <param name="Name" value="IPrjTask.ConstraintDate">
+    <param name="Local" value="Interface/IPrjTask/IPrjTask.ConstraintDate.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ConstraintDate">
+    <param name="Name" value="IPrjTask.ConstraintDate">
+    <param name="Local" value="Interface/IPrjTask/IPrjTask.ConstraintDate.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IPrjTask.ConstraintType">
+    <param name="Name" value="IPrjTask.ConstraintType">
+    <param name="Local" value="Interface/IPrjTask/IPrjTask.ConstraintType.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ConstraintType">
+    <param name="Name" value="IPrjTask.ConstraintType">
+    <param name="Local" value="Interface/IPrjTask/IPrjTask.ConstraintType.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IPrjTask.Dependencies">
+    <param name="Name" value="IPrjTask.Dependencies">
+    <param name="Local" value="Interface/IPrjTask/IPrjTask.Dependencies.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Dependencies">
+    <param name="Name" value="IPrjTask.Dependencies">
+    <param name="Local" value="Interface/IPrjTask/IPrjTask.Dependencies.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IPrjTask.FactPeriod">
+    <param name="Name" value="IPrjTask.FactPeriod">
+    <param name="Local" value="Interface/IPrjTask/IPrjTask.FactPeriod.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="FactPeriod">
+    <param name="Name" value="IPrjTask.FactPeriod">
+    <param name="Local" value="Interface/IPrjTask/IPrjTask.FactPeriod.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IPrjTask.ForecastPeriod">
+    <param name="Name" value="IPrjTask.ForecastPeriod">
+    <param name="Local" value="Interface/IPrjTask/IPrjTask.ForecastPeriod.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ForecastPeriod">
+    <param name="Name" value="IPrjTask.ForecastPeriod">
+    <param name="Local" value="Interface/IPrjTask/IPrjTask.ForecastPeriod.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IPrjTask.Key">
+    <param name="Name" value="IPrjTask.Key">
+    <param name="Local" value="Interface/IPrjTask/IPrjTask.Key.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IPrjTask.Name">
+    <param name="Name" value="IPrjTask.Name">
+    <param name="Local" value="Interface/IPrjTask/IPrjTask.Name.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IPrjTask.ParentKey">
+    <param name="Name" value="IPrjTask.ParentKey">
+    <param name="Local" value="Interface/IPrjTask/IPrjTask.ParentKey.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ParentKey">
+    <param name="Name" value="IPrjTask.ParentKey">
+    <param name="Local" value="Interface/IPrjTask/IPrjTask.ParentKey.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IPrjTask.PlanPeriod">
+    <param name="Name" value="IPrjTask.PlanPeriod">
+    <param name="Local" value="Interface/IPrjTask/IPrjTask.PlanPeriod.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="PlanPeriod">
+    <param name="Name" value="IPrjTask.PlanPeriod">
+    <param name="Local" value="Interface/IPrjTask/IPrjTask.PlanPeriod.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IPrjTask.WorkOutType">
+    <param name="Name" value="IPrjTask.WorkOutType">
+    <param name="Local" value="Interface/IPrjTask/IPrjTask.WorkOutType.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="WorkOutType">
+    <param name="Name" value="IPrjTask.WorkOutType">
+    <param name="Local" value="Interface/IPrjTask/IPrjTask.WorkOutType.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IPrjTaskCollection.Count">
+    <param name="Name" value="IPrjTaskCollection.Count">
+    <param name="Local" value="Interface/IPrjTaskCollection/IPrjTaskCollection.Count.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IPrjTaskCollection.Item">
+    <param name="Name" value="IPrjTaskCollection.Item">
+    <param name="Local" value="Interface/IPrjTaskCollection/IPrjTaskCollection.Item.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IPrjTaskCollection.Add">
+    <param name="Name" value="IPrjTaskCollection.Add">
+    <param name="Local" value="Interface/IPrjTaskCollection/IPrjTaskCollection.Add.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IPrjTaskCollection.Clear">
+    <param name="Name" value="IPrjTaskCollection.Clear">
+    <param name="Local" value="Interface/IPrjTaskCollection/IPrjTaskCollection.Clear.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IPrjTaskCollection.Remove">
+    <param name="Name" value="IPrjTaskCollection.Remove">
+    <param name="Local" value="Interface/IPrjTaskCollection/IPrjTaskCollection.Remove.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IPrjTaskDependenciesCollection.Count">
+    <param name="Name" value="IPrjTaskDependenciesCollection.Count">
+    <param name="Local" value="Interface/IPrjTaskDependenciesCollection/IPrjTaskDependenciesCollection.Count.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IPrjTaskDependenciesCollection.Item">
+    <param name="Name" value="IPrjTaskDependenciesCollection.Item">
+    <param name="Local" value="Interface/IPrjTaskDependenciesCollection/IPrjTaskDependenciesCollection.Item.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IPrjTaskDependenciesCollection.Add">
+    <param name="Name" value="IPrjTaskDependenciesCollection.Add">
+    <param name="Local" value="Interface/IPrjTaskDependenciesCollection/IPrjTaskDependenciesCollection.Add.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IPrjTaskDependenciesCollection.Clear">
+    <param name="Name" value="IPrjTaskDependenciesCollection.Clear">
+    <param name="Local" value="Interface/IPrjTaskDependenciesCollection/IPrjTaskDependenciesCollection.Clear.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IPrjTaskDependenciesCollection.Remove">
+    <param name="Name" value="IPrjTaskDependenciesCollection.Remove">
+    <param name="Local" value="Interface/IPrjTaskDependenciesCollection/IPrjTaskDependenciesCollection.Remove.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IPrjTaskDependency.Lag">
+    <param name="Name" value="IPrjTaskDependency.Lag">
+    <param name="Local" value="Interface/IPrjTaskDependency/IPrjTaskDependency.Lag.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Lag">
+    <param name="Name" value="IPrjTaskDependency.Lag">
+    <param name="Local" value="Interface/IPrjTaskDependency/IPrjTaskDependency.Lag.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IPrjTaskDependency.PredecessorTaskKey">
+    <param name="Name" value="IPrjTaskDependency.PredecessorTaskKey">
+    <param name="Local" value="Interface/IPrjTaskDependency/IPrjTaskDependency.PredecessorTaskKey.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="PredecessorTaskKey">
+    <param name="Name" value="IPrjTaskDependency.PredecessorTaskKey">
+    <param name="Local" value="Interface/IPrjTaskDependency/IPrjTaskDependency.PredecessorTaskKey.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IPrjTaskDependency.Type">
+    <param name="Name" value="IPrjTaskDependency.Type">
+    <param name="Local" value="Interface/IPrjTaskDependency/IPrjTaskDependency.Type.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Type">
+    <param name="Name" value="IPrjTaskDependency.Type">
+    <param name="Local" value="Interface/IPrjTaskDependency/IPrjTaskDependency.Type.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IPrjTaskPeriod.Duration">
+    <param name="Name" value="IPrjTaskPeriod.Duration">
+    <param name="Local" value="Interface/IPrjTaskPeriod/IPrjTaskPeriod.Duration.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Duration">
+    <param name="Name" value="IPrjTaskPeriod.Duration">
+    <param name="Local" value="Interface/IPrjTaskPeriod/IPrjTaskPeriod.Duration.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IPrjTaskPeriod.FinishDate">
+    <param name="Name" value="IPrjTaskPeriod.FinishDate">
+    <param name="Local" value="Interface/IPrjTaskPeriod/IPrjTaskPeriod.FinishDate.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IPrjTaskPeriod.StartDate">
+    <param name="Name" value="IPrjTaskPeriod.StartDate">
+    <param name="Local" value="Interface/IPrjTaskPeriod/IPrjTaskPeriod.StartDate.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Общие принципы программирования с использованием сборки ProjectPlanning">
+    <param name="Name" value="Общие принципы программирования с использованием сборки ProjectPlanning">
+    <param name="Local" value="Intro/ProjectPlanning_Programming.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IPrjProject.Status">
+    <param name="Name" value="IPrjProject.Status">
+    <param name="Local" value="Interface/IPrjProject/IPrjProject.Status.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Status">
+    <param name="Name" value="IPrjProject.Status">
+    <param name="Local" value="Interface/IPrjProject/IPrjProject.Status.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IPrjStatus">
+    <param name="Name" value="IPrjStatus">
+    <param name="Local" value="Interface/IPrjStatus/IPrjStatus.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IPrjStatusCollection">
+    <param name="Name" value="IPrjStatusCollection">
+    <param name="Local" value="Interface/IPrjStatusCollection/IPrjStatusCollection.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IPrjStatusItem">
+    <param name="Name" value="IPrjStatusItem">
+    <param name="Local" value="Interface/IPrjStatusItem/IPrjStatusItem.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IPrjStatus.Errors">
+    <param name="Name" value="IPrjStatus.Errors">
+    <param name="Local" value="Interface/IPrjStatus/IPrjStatus.Errors.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Errors">
+    <param name="Name" value="IPrjStatus.Errors">
+    <param name="Local" value="Interface/IPrjStatus/IPrjStatus.Errors.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IPrjStatus.Warnings">
+    <param name="Name" value="IPrjStatus.Warnings">
+    <param name="Local" value="Interface/IPrjStatus/IPrjStatus.Warnings.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Warnings">
+    <param name="Name" value="IPrjStatus.Warnings">
+    <param name="Local" value="Interface/IPrjStatus/IPrjStatus.Warnings.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IPrjStatusCollection.Count">
+    <param name="Name" value="IPrjStatusCollection.Count">
+    <param name="Local" value="Interface/IPrjStatusCollection/IPrjStatusCollection.Count.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IPrjStatusCollection.Item">
+    <param name="Name" value="IPrjStatusCollection.Item">
+    <param name="Local" value="Interface/IPrjStatusCollection/IPrjStatusCollection.Item.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IPrjStatusItem.Code">
+    <param name="Name" value="IPrjStatusItem.Code">
+    <param name="Local" value="Interface/IPrjStatusItem/IPrjStatusItem.Code.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Code">
+    <param name="Name" value="IPrjStatusItem.Code">
+    <param name="Local" value="Interface/IPrjStatusItem/IPrjStatusItem.Code.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IPrjStatusItem.Keys">
+    <param name="Name" value="IPrjStatusItem.Keys">
+    <param name="Local" value="Interface/IPrjStatusItem/IPrjStatusItem.Keys.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Keys">
+    <param name="Name" value="IPrjStatusItem.Keys">
+    <param name="Local" value="Interface/IPrjStatusItem/IPrjStatusItem.Keys.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IPrjStatusItem.Message">
+    <param name="Name" value="IPrjStatusItem.Message">
+    <param name="Local" value="Interface/IPrjStatusItem/IPrjStatusItem.Message.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Message">
+    <param name="Name" value="IPrjStatusItem.Message">
+    <param name="Local" value="Interface/IPrjStatusItem/IPrjStatusItem.Message.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IPrjTaskCollection.FindByKey">
+    <param name="Name" value="IPrjTaskCollection.FindByKey">
+    <param name="Local" value="Interface/IPrjTaskCollection/IPrjTaskCollection.FindByKey.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="FindByKey">
+    <param name="Name" value="IPrjTaskCollection.FindByKey">
+    <param name="Local" value="Interface/IPrjTaskCollection/IPrjTaskCollection.FindByKey.htm">
+  </object>
+</ul>
+</html>

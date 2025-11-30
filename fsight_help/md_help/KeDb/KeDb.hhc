@@ -1,0 +1,1895 @@
+<html>
+<!-- Sitemap 1.0 -->
+<object type="text/site properties">
+  <param name="SiteType" value="toc">
+  <param name="Image Width" value="16">
+  <param name="Window Styles" value="0x800027">
+  <param name="ExWindow Styles" value="0x100">
+</object>
+<ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Db">
+    <param name="Local" value="KeDb_Title.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Введение в сборку Db">
+      <param name="Local" value="KeDb_Introduction.htm">
+      <param name="ImageNumber" value="11">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Интерфейсы сборки Db">
+      <param name="Local" value="Interface/KeDb_Interface.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="ICachedDataset">
+        <param name="Local" value="Interface/ICachedDataset/ICachedDataset.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ICachedDataset.AddCalculatedField">
+          <param name="Local" value="Interface/ICachedDataset/ICachedDataset.AddCalculatedField.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ICachedDataset.Append">
+          <param name="Local" value="Interface/ICachedDataset/ICachedDataset.Append.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ICachedDataset.Bof">
+          <param name="Local" value="Interface/ICachedDataset/ICachedDataset.Bof.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ICachedDataset.Cancel">
+          <param name="Local" value="Interface/ICachedDataset/ICachedDataset.Cancel.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ICachedDataset.CreateLookup">
+          <param name="Local" value="Interface/ICachedDataset/ICachedDataset.CreateLookup.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ICachedDataset.Delete">
+          <param name="Local" value="Interface/ICachedDataset/ICachedDataset.Delete.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ICachedDataset.Edit">
+          <param name="Local" value="Interface/ICachedDataset/ICachedDataset.Edit.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ICachedDataset.EofData">
+          <param name="Local" value="Interface/ICachedDataset/ICachedDataset.EofData.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ICachedDataset.FetchToRecord">
+          <param name="Local" value="Interface/ICachedDataset/ICachedDataset.FetchToRecord.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ICachedDataset.Filter">
+          <param name="Local" value="Interface/ICachedDataset/ICachedDataset.Filter.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ICachedDataset.Filtered">
+          <param name="Local" value="Interface/ICachedDataset/ICachedDataset.Filtered.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ICachedDataset.GetFieldValue">
+          <param name="Local" value="Interface/ICachedDataset/ICachedDataset.GetFieldValue.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ICachedDataset.IndexFields">
+          <param name="Local" value="Interface/ICachedDataset/ICachedDataset.IndexFields.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ICachedDataset.Insert">
+          <param name="Local" value="Interface/ICachedDataset/ICachedDataset.Insert.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ICachedDataset.Instance">
+          <param name="Local" value="Interface/ICachedDataset/ICachedDataset.Instance.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ICachedDataset.Last">
+          <param name="Local" value="Interface/ICachedDataset/ICachedDataset.Last.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ICachedDataset.MasterFields">
+          <param name="Local" value="Interface/ICachedDataset/ICachedDataset.MasterFields.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ICachedDataset.MasterSource">
+          <param name="Local" value="Interface/ICachedDataset/ICachedDataset.MasterSource.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ICachedDataset.Post">
+          <param name="Local" value="Interface/ICachedDataset/ICachedDataset.Post.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ICachedDataset.Prior">
+          <param name="Local" value="Interface/ICachedDataset/ICachedDataset.Prior.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ICachedDataset.ReadOnly">
+          <param name="Local" value="Interface/ICachedDataset/ICachedDataset.ReadOnly.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ICachedDataset.RecNo">
+          <param name="Local" value="Interface/ICachedDataset/ICachedDataset.RecNo.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ICachedDataset.RecordCount">
+          <param name="Local" value="Interface/ICachedDataset/ICachedDataset.RecordCount.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ICachedDataset.RecordCountAll">
+          <param name="Local" value="Interface/ICachedDataset/ICachedDataset.RecordCountAll.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ICachedDataset.RecordsBufferThreshold">
+          <param name="Local" value="Interface/ICachedDataset/ICachedDataset.RecordsBufferThreshold.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ICachedDataset.RecRange">
+          <param name="Local" value="Interface/ICachedDataset/ICachedDataset.RecRange.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ICachedDataset.State">
+          <param name="Local" value="Interface/ICachedDataset/ICachedDataset.State.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ICachedDataset.Truncate">
+          <param name="Local" value="Interface/ICachedDataset/ICachedDataset.Truncate.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="ICachedDatasetLookup">
+        <param name="Local" value="Interface/ICachedDatasetLookup/ICachedDatasetLookup.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ICachedDatasetLookup.Dataset">
+          <param name="Local" value="Interface/ICachedDatasetLookup/ICachedDatasetLookup.Dataset.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ICachedDatasetLookup.Fields">
+          <param name="Local" value="Interface/ICachedDatasetLookup/ICachedDatasetLookup.Fields.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ICachedDatasetLookup.Locate">
+          <param name="Local" value="Interface/ICachedDatasetLookup/ICachedDatasetLookup.Locate.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ICachedDatasetLookup.Lookup">
+          <param name="Local" value="Interface/ICachedDatasetLookup/ICachedDatasetLookup.Lookup.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IDatabase">
+        <param name="Local" value="Interface/IDatabase/IDatabase.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IDatabase.Authentication">
+          <param name="Local" value="Interface/IDatabase/IDatabase.Authentication.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IDatabase.AutoAdjustRights">
+          <param name="Local" value="Interface/IDatabase/IDatabase.AutoAdjustRights.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IDatabase.Credentials">
+          <param name="Local" value="Interface/IDatabase/IDatabase.Credentials.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IDatabase.DriverId">
+          <param name="Local" value="Interface/IDatabase/IDatabase.DriverId.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IDatabase.GrantCurrentRights">
+          <param name="Local" value="Interface/IDatabase/IDatabase.GrantCurrentRights.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IDatabase.LoginPrompt">
+          <param name="Local" value="Interface/IDatabase/IDatabase.LoginPrompt.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IDatabase.LogonData">
+          <param name="Local" value="Interface/IDatabase/IDatabase.LogonData.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IDatabase.ODBC">
+          <param name="Local" value="Interface/IDatabase/IDatabase.ODBC.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IDatabase.RevokeGrantedRights">
+          <param name="Local" value="Interface/IDatabase/IDatabase.RevokeGrantedRights.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IDatabase.Role">
+          <param name="Local" value="Interface/IDatabase/IDatabase.Role.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IDatabase.SecurityPackage">
+          <param name="Local" value="Interface/IDatabase/IDatabase.SecurityPackage.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IDatabase.SupportBinaryProtocol">
+          <param name="Local" value="Interface/IDatabase/IDatabase.SupportBinaryProtocol.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IDatabase.SupportDecimal">
+          <param name="Local" value="Interface/IDatabase/IDatabase.SupportDecimal.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IDatabase.Unicode">
+          <param name="Local" value="Interface/IDatabase/IDatabase.Unicode.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IDatabase.UseMetabaseCredentials">
+          <param name="Local" value="Interface/IDatabase/IDatabase.UseMetabaseCredentials.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IDatabase.UseMetabaseLogonData">
+          <param name="Local" value="Interface/IDatabase/IDatabase.UseMetabaseLogonData.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IDatabase.UseServiceLogonData">
+          <param name="Local" value="Interface/IDatabase/IDatabase.UseServiceLogonData.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IDatabaseApplicationRole">
+        <param name="Local" value="Interface/IDatabaseApplicationRole/IDatabaseApplicationRole.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IDatabaseApplicationRole.Alter">
+          <param name="Local" value="Interface/IDatabaseApplicationRole/IDatabaseApplicationRole.Alter.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IDatabaseApplicationRole.DerivedPassword">
+          <param name="Local" value="Interface/IDatabaseApplicationRole/IDatabaseApplicationRole.DerivedPassword.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IDatabaseApplicationRole.Mode">
+          <param name="Local" value="Interface/IDatabaseApplicationRole/IDatabaseApplicationRole.Mode.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IDatabaseApplicationRole.Name">
+          <param name="Local" value="Interface/IDatabaseApplicationRole/IDatabaseApplicationRole.Name.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IDatabaseApplicationRole.Password">
+          <param name="Local" value="Interface/IDatabaseApplicationRole/IDatabaseApplicationRole.Password.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IDatabaseInstance">
+        <param name="Local" value="Interface/IDatabaseInstance/IDatabaseInstance.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IDatabaseInstance.Connection">
+          <param name="Local" value="Interface/IDatabaseInstance/IDatabaseInstance.Connection.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IDatabaseInstance.Database">
+          <param name="Local" value="Interface/IDatabaseInstance/IDatabaseInstance.Database.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IDatabaseInstance.Tables">
+          <param name="Local" value="Interface/IDatabaseInstance/IDatabaseInstance.Tables.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IDatabaseInstance.Views">
+          <param name="Local" value="Interface/IDatabaseInstance/IDatabaseInstance.Views.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IDatabaseTables">
+        <param name="Local" value="Interface/IDatabaseTables/IDatabaseTables.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IDatabaseTables.TableName">
+          <param name="Local" value="Interface/IDatabaseTables/IDatabaseTables.TableName.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IDatabaseViews">
+        <param name="Local" value="Interface/IDatabaseViews/IDatabaseViews.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IDatabaseViews.Text">
+          <param name="Local" value="Interface/IDatabaseViews/IDatabaseViews.Text.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IDatabaseViews.ViewName">
+          <param name="Local" value="Interface/IDatabaseViews/IDatabaseViews.ViewName.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IDatasetBatchUpdate">
+        <param name="Local" value="Interface/IDatasetBatchUpdate/IDatasetBatchUpdate.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IDatasetBatchUpdate.AddRecord">
+          <param name="Local" value="Interface/IDatasetBatchUpdate/IDatasetBatchUpdate.AddRecord.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IDatasetBatchUpdate.BatchCommand">
+          <param name="Local" value="Interface/IDatasetBatchUpdate/IDatasetBatchUpdate.BatchCommand.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IDatasetBatchUpdate.BeginUpdate">
+          <param name="Local" value="Interface/IDatasetBatchUpdate/IDatasetBatchUpdate.BeginUpdate.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IDatasetBatchUpdate.Commit">
+          <param name="Local" value="Interface/IDatasetBatchUpdate/IDatasetBatchUpdate.Commit.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IDatasetBatchUpdate.Connection">
+          <param name="Local" value="Interface/IDatasetBatchUpdate/IDatasetBatchUpdate.Connection.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IDatasetBatchUpdate.Failed">
+          <param name="Local" value="Interface/IDatasetBatchUpdate/IDatasetBatchUpdate.Failed.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IDatasetBatchUpdate.FailPolicy">
+          <param name="Local" value="Interface/IDatasetBatchUpdate/IDatasetBatchUpdate.FailPolicy.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IDatasetBatchUpdate.FastInsert">
+          <param name="Local" value="Interface/IDatasetBatchUpdate/IDatasetBatchUpdate.FastInsert.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IDatasetBatchUpdate.Fields">
+          <param name="Local" value="Interface/IDatasetBatchUpdate/IDatasetBatchUpdate.Fields.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IDatasetBatchUpdate.KeyFieldNames">
+          <param name="Local" value="Interface/IDatasetBatchUpdate/IDatasetBatchUpdate.KeyFieldNames.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IDatasetBatchUpdate.RecordCount">
+          <param name="Local" value="Interface/IDatasetBatchUpdate/IDatasetBatchUpdate.RecordCount.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IDatasetBatchUpdate.RecordFields">
+          <param name="Local" value="Interface/IDatasetBatchUpdate/IDatasetBatchUpdate.RecordFields.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IDatasetBatchUpdate.Rollback">
+          <param name="Local" value="Interface/IDatasetBatchUpdate/IDatasetBatchUpdate.Rollback.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IDatasetDataAbstractProvider">
+        <param name="Local" value="Interface/IDatasetDataAbstractProvider/IDatasetDataAbstractProvider.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IDatasetDataAbstractProvider.AddField">
+          <param name="Local" value="Interface/IDatasetDataAbstractProvider/IDatasetDataAbstractProvider.AddField.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IDatasetDataAbstractProvider.DataFields">
+          <param name="Local" value="Interface/IDatasetDataAbstractProvider/IDatasetDataAbstractProvider.DataFields.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IDatasetDataArrayProvider">
+        <param name="Local" value="Interface/IDatasetDataArrayProvider/IDatasetDataArrayProvider.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IDatasetDataArrayProvider.AttachArray">
+          <param name="Local" value="Interface/IDatasetDataArrayProvider/IDatasetDataArrayProvider.AttachArray.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IDatasetDataProvider">
+        <param name="Local" value="Interface/IDatasetDataProvider/IDatasetDataProvider.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IDatasetDataProvider.FieldDefs">
+          <param name="Local" value="Interface/IDatasetDataProvider/IDatasetDataProvider.FieldDefs.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IDatasetDataTransform">
+        <param name="Local" value="Interface/IDatasetDataTransform/IDatasetDataTransform.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IDatasetDataTransform.OnFetch">
+          <param name="Local" value="Interface/IDatasetDataTransform/IDatasetDataTransform.OnFetch.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IDatasetDataTransformProvider">
+        <param name="Local" value="Interface/IDatasetDataTransformProvider/IDatasetDataTransformProvider.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IDatasetDataTransformProvider.Source">
+          <param name="Local" value="Interface/IDatasetDataTransformProvider/IDatasetDataTransformProvider.Source.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IDatasetDataTransformProvider.Transform">
+          <param name="Local" value="Interface/IDatasetDataTransformProvider/IDatasetDataTransformProvider.Transform.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IDatasetInstance">
+        <param name="Local" value="Interface/IDatasetInstance/IDatasetInstance.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IDatasetInstance.Close">
+          <param name="Local" value="Interface/IDatasetInstance/IDatasetInstance.Close.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IDatasetInstance.CreateBatchUpdate">
+          <param name="Local" value="Interface/IDatasetInstance/IDatasetInstance.CreateBatchUpdate.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IDatasetInstance.Dataset">
+          <param name="Local" value="Interface/IDatasetInstance/IDatasetInstance.Dataset.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IDatasetInstance.Eof">
+          <param name="Local" value="Interface/IDatasetInstance/IDatasetInstance.Eof.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IDatasetInstance.Execute">
+          <param name="Local" value="Interface/IDatasetInstance/IDatasetInstance.Execute.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IDatasetInstance.FieldDefs">
+          <param name="Local" value="Interface/IDatasetInstance/IDatasetInstance.FieldDefs.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IDatasetInstance.Fields">
+          <param name="Local" value="Interface/IDatasetInstance/IDatasetInstance.Fields.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IDatasetInstance.First">
+          <param name="Local" value="Interface/IDatasetInstance/IDatasetInstance.First.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IDatasetInstance.Next">
+          <param name="Local" value="Interface/IDatasetInstance/IDatasetInstance.Next.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IDatasetInstance.OpenCached">
+          <param name="Local" value="Interface/IDatasetInstance/IDatasetInstance.OpenCached.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IDatasetInstanceField">
+        <param name="Local" value="Interface/IDatasetInstanceField/IDatasetInstanceField.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IDatasetInstanceField.OldValue">
+          <param name="Local" value="Interface/IDatasetInstanceField/IDatasetInstanceField.OldValue.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IDatasetInstanceField.Value">
+          <param name="Local" value="Interface/IDatasetInstanceField/IDatasetInstanceField.Value.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IDatasetInstanceFields">
+        <param name="Local" value="Interface/IDatasetInstanceFields/IDatasetInstanceFields.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IDatasetInstanceFields.Count">
+          <param name="Local" value="Interface/IDatasetInstanceFields/IDatasetInstanceFields.Count.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IDatasetInstanceFields.FindById">
+          <param name="Local" value="Interface/IDatasetInstanceFields/IDatasetInstanceFields.FindById.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IDatasetInstanceFields.FindByKey">
+          <param name="Local" value="Interface/IDatasetInstanceFields/IDatasetInstanceFields.FindByKey.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IDatasetInstanceFields.IndexOf">
+          <param name="Local" value="Interface/IDatasetInstanceFields/IDatasetInstanceFields.IndexOf.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IDatasetInstanceFields.Item">
+          <param name="Local" value="Interface/IDatasetInstanceFields/IDatasetInstanceFields.Item.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IDatasetModel">
+        <param name="Local" value="Interface/IDatasetModel/IDatasetModel.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IDatasetModel.Database">
+          <param name="Local" value="Interface/IDatasetModel/IDatasetModel.Database.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IDatasetModel.Fields">
+          <param name="Local" value="Interface/IDatasetModel/IDatasetModel.Fields.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IDatasetModel.Open">
+          <param name="Local" value="Interface/IDatasetModel/IDatasetModel.Open.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IDatasetModel.OpenWhere">
+          <param name="Local" value="Interface/IDatasetModel/IDatasetModel.OpenWhere.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IDatasetModelField">
+        <param name="Local" value="Interface/IDatasetModelField/IDatasetModelField.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IDatasetModelField.DataDomain">
+          <param name="Local" value="Interface/IDatasetModelField/IDatasetModelField.DataDomain.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IDatasetModelField.DataType">
+          <param name="Local" value="Interface/IDatasetModelField/IDatasetModelField.DataType.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IDatasetModelField.DefaultValue">
+          <param name="Local" value="Interface/IDatasetModelField/IDatasetModelField.DefaultValue.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IDatasetModelField.Expression">
+          <param name="Local" value="Interface/IDatasetModelField/IDatasetModelField.Expression.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IDatasetModelField.IdWithOutCase">
+          <param name="Local" value="Interface/IDatasetModelField/IDatasetModelField.IdWithOutCase.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IDatasetModelField.IsCalculated">
+          <param name="Local" value="Interface/IDatasetModelField/IDatasetModelField.IsCalculated.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IDatasetModelField.IsCaseSensitive">
+          <param name="Local" value="Interface/IDatasetModelField/IDatasetModelField.IsCaseSensitive.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IDatasetModelField.IsData">
+          <param name="Local" value="Interface/IDatasetModelField/IDatasetModelField.IsData.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IDatasetModelField.IsKey">
+          <param name="Local" value="Interface/IDatasetModelField/IDatasetModelField.IsKey.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IDatasetModelField.IsSparse">
+          <param name="Local" value="Interface/IDatasetModelField/IDatasetModelField.IsSparse.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IDatasetModelField.Mandatory">
+          <param name="Local" value="Interface/IDatasetModelField/IDatasetModelField.Mandatory.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IDatasetModelField.Precision">
+          <param name="Local" value="Interface/IDatasetModelField/IDatasetModelField.Precision.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IDatasetModelField.ReadOnly">
+          <param name="Local" value="Interface/IDatasetModelField/IDatasetModelField.ReadOnly.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IDatasetModelField.Size">
+          <param name="Local" value="Interface/IDatasetModelField/IDatasetModelField.Size.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IDatasetModelFields">
+        <param name="Local" value="Interface/IDatasetModelFields/IDatasetModelFields.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IDatasetModelFields.Count">
+          <param name="Local" value="Interface/IDatasetModelFields/IDatasetModelFields.Count.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IDatasetModelFields.FindById">
+          <param name="Local" value="Interface/IDatasetModelFields/IDatasetModelFields.FindById.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IDatasetModelFields.FindByKey">
+          <param name="Local" value="Interface/IDatasetModelFields/IDatasetModelFields.FindByKey.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IDatasetModelFields.Item">
+          <param name="Local" value="Interface/IDatasetModelFields/IDatasetModelFields.Item.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="ILog">
+        <param name="Local" value="Interface/ILog/ILog.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ILog.AlterLog">
+          <param name="Local" value="Interface/ILog/ILog.AlterLog.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ILog.CreateLog">
+          <param name="Local" value="Interface/ILog/ILog.CreateLog.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ILog.Database">
+          <param name="Local" value="Interface/ILog/ILog.Database.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ILog.DropLog">
+          <param name="Local" value="Interface/ILog/ILog.DropLog.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ILog.Fields">
+          <param name="Local" value="Interface/ILog/ILog.Fields.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ILog.NativeName">
+          <param name="Local" value="Interface/ILog/ILog.NativeName.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ILog.PutRecord">
+          <param name="Local" value="Interface/ILog/ILog.PutRecord.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ILog.UpdateLog">
+          <param name="Local" value="Interface/ILog/ILog.UpdateLog.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IOdbcDataset">
+        <param name="Local" value="Interface/IOdbcDataset/IOdbcDataset.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IOdbcDataset.Catalog">
+          <param name="Local" value="Interface/IOdbcDataset/IOdbcDataset.Catalog.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IOdbcDataset.DataSource">
+          <param name="Local" value="Interface/IOdbcDataset/IOdbcDataset.DataSource.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IOdbcDataset.DataSourceName">
+          <param name="Local" value="Interface/IOdbcDataset/IOdbcDataset.DataSourceName.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IOdbcDataset.Location">
+          <param name="Local" value="Interface/IOdbcDataset/IOdbcDataset.Location.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IOdbcDataset.Password">
+          <param name="Local" value="Interface/IOdbcDataset/IOdbcDataset.Password.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IOdbcDataset.ProviderString">
+          <param name="Local" value="Interface/IOdbcDataset/IOdbcDataset.ProviderString.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IOdbcDataset.UserId">
+          <param name="Local" value="Interface/IOdbcDataset/IOdbcDataset.UserId.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IProcedure">
+        <param name="Local" value="Interface/IProcedure/IProcedure.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IProcedure.AlterProcedure">
+          <param name="Local" value="Interface/IProcedure/IProcedure.AlterProcedure.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IProcedure.AttachProcedure">
+          <param name="Local" value="Interface/IProcedure/IProcedure.AttachProcedure.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IProcedure.CreateProcedure">
+          <param name="Local" value="Interface/IProcedure/IProcedure.CreateProcedure.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IProcedure.DropProcedure">
+          <param name="Local" value="Interface/IProcedure/IProcedure.DropProcedure.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IProcedure.External">
+          <param name="Local" value="Interface/IProcedure/IProcedure.External.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IProcedure.ForceCreate">
+          <param name="Local" value="Interface/IProcedure/IProcedure.ForceCreate.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IProcedure.Kind">
+          <param name="Local" value="Interface/IProcedure/IProcedure.Kind.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IProcedure.NativeName">
+          <param name="Local" value="Interface/IProcedure/IProcedure.NativeName.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IProcedure.Refresh">
+          <param name="Local" value="Interface/IProcedure/IProcedure.Refresh.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IProcedure.UpdateProcedure">
+          <param name="Local" value="Interface/IProcedure/IProcedure.UpdateProcedure.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IQuery">
+        <param name="Local" value="Interface/IQuery/IQuery.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IQuery.AutoDefineStorage">
+          <param name="Local" value="Interface/IQuery/IQuery.AutoDefineStorage.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IQuery.ClearSqlText">
+          <param name="Local" value="Interface/IQuery/IQuery.ClearSqlText.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IQuery.Database">
+          <param name="Local" value="Interface/IQuery/IQuery.Database.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IQuery.ParamsCheck">
+          <param name="Local" value="Interface/IQuery/IQuery.ParamsCheck.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IQuery.RefreshFields">
+          <param name="Local" value="Interface/IQuery/IQuery.RefreshFields.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IQuery.Sql">
+          <param name="Local" value="Interface/IQuery/IQuery.Sql.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IQuery.SqlText">
+          <param name="Local" value="Interface/IQuery/IQuery.SqlText.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IQuery.Storage">
+          <param name="Local" value="Interface/IQuery/IQuery.Storage.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IQuery.SubstituteAllParamsInQuery">
+          <param name="Local" value="Interface/IQuery/IQuery.SubstituteAllParamsInQuery.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IQueryStorage">
+        <param name="Local" value="Interface/IQueryStorage/IQueryStorage.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IQueryStorage.DefineBySql">
+          <param name="Local" value="Interface/IQueryStorage/IQueryStorage.DefineBySql.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IQueryStorage.Enabled">
+          <param name="Local" value="Interface/IQueryStorage/IQueryStorage.Enabled.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IQueryStorage.Table">
+          <param name="Local" value="Interface/IQueryStorage/IQueryStorage.Table.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IQueryStorage.TableName">
+          <param name="Local" value="Interface/IQueryStorage/IQueryStorage.TableName.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="ISequence">
+        <param name="Local" value="Interface/ISequence/ISequence.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISequence.Database">
+          <param name="Local" value="Interface/ISequence/ISequence.Database.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISequence.IncrementStep">
+          <param name="Local" value="Interface/ISequence/ISequence.IncrementStep.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISequence.NativeName">
+          <param name="Local" value="Interface/ISequence/ISequence.NativeName.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISequence.StartValue">
+          <param name="Local" value="Interface/ISequence/ISequence.StartValue.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="ISequenceInstance">
+        <param name="Local" value="Interface/ISequenceInstance/ISequenceInstance.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISequenceInstance.Next">
+          <param name="Local" value="Interface/ISequenceInstance/ISequenceInstance.Next.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="ISQLCallback">
+        <param name="Local" value="Interface/ISQLCallback/ISQLCallback.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISQLCallback.AfterConstruction">
+          <param name="Local" value="Interface/ISQLCallback/ISQLCallback.AfterConstruction.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISQLCallback.BeforeConstruction">
+          <param name="Local" value="Interface/ISQLCallback/ISQLCallback.BeforeConstruction.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="ISQLCommand">
+        <param name="Local" value="Interface/ISQLCommand/ISQLCommand.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISQLCommand.ClearText">
+          <param name="Local" value="Interface/ISQLCommand/ISQLCommand.ClearText.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISQLCommand.Database">
+          <param name="Local" value="Interface/ISQLCommand/ISQLCommand.Database.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISQLCommand.Text">
+          <param name="Local" value="Interface/ISQLCommand/ISQLCommand.Text.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="ISQLCommandInstance">
+        <param name="Local" value="Interface/ISQLCommandInstance/ISQLCommandInstance.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISQLCommandInstance.Database">
+          <param name="Local" value="Interface/ISQLCommandInstance/ISQLCommandInstance.Database.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISQLCommandInstance.Execute">
+          <param name="Local" value="Interface/ISQLCommandInstance/ISQLCommandInstance.Execute.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="ISQLComponents">
+        <param name="Local" value="Interface/ISQLComponents/ISQLComponents.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISQLComponents.Aggregation">
+          <param name="Local" value="Interface/ISQLComponents/ISQLComponents.Aggregation.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISQLComponents.Condition">
+          <param name="Local" value="Interface/ISQLComponents/ISQLComponents.Condition.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISQLComponents.ConditionCount">
+          <param name="Local" value="Interface/ISQLComponents/ISQLComponents.ConditionCount.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISQLComponents.DalCommandOption">
+          <param name="Local" value="Interface/ISQLComponents/ISQLComponents.DalCommandOption.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISQLComponents.From_">
+          <param name="Local" value="Interface/ISQLComponents/ISQLComponents.From_.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISQLComponents.GroupBy">
+          <param name="Local" value="Interface/ISQLComponents/ISQLComponents.GroupBy.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISQLComponents.OrderBy">
+          <param name="Local" value="Interface/ISQLComponents/ISQLComponents.OrderBy.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISQLComponents.Select_">
+          <param name="Local" value="Interface/ISQLComponents/ISQLComponents.Select_.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISQLComponents.SubQuery">
+          <param name="Local" value="Interface/ISQLComponents/ISQLComponents.SubQuery.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISQLComponents.TableAlias">
+          <param name="Local" value="Interface/ISQLComponents/ISQLComponents.TableAlias.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISQLComponents.Where">
+          <param name="Local" value="Interface/ISQLComponents/ISQLComponents.Where.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="ISQLCondition">
+        <param name="Local" value="Interface/ISQLCondition/ISQLCondition.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISQLCondition.Condition">
+          <param name="Local" value="Interface/ISQLCondition/ISQLCondition.Condition.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISQLCondition.Fields">
+          <param name="Local" value="Interface/ISQLCondition/ISQLCondition.Fields.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISQLCondition.TempTable">
+          <param name="Local" value="Interface/ISQLCondition/ISQLCondition.TempTable.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISQLCondition.TempTableAlias">
+          <param name="Local" value="Interface/ISQLCondition/ISQLCondition.TempTableAlias.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISQLCondition.TempTableAttrLinkedFields">
+          <param name="Local" value="Interface/ISQLCondition/ISQLCondition.TempTableAttrLinkedFields.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISQLCondition.TempTableFields">
+          <param name="Local" value="Interface/ISQLCondition/ISQLCondition.TempTableFields.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISQLCondition.TempTableHasNulls">
+          <param name="Local" value="Interface/ISQLCondition/ISQLCondition.TempTableHasNulls.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ISQLCondition.TempTableRecCount">
+          <param name="Local" value="Interface/ISQLCondition/ISQLCondition.TempTableRecCount.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="ITable">
+        <param name="Local" value="Interface/ITable/ITable.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ITable.AlterTable">
+          <param name="Local" value="Interface/ITable/ITable.AlterTable.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ITable.AttachTable">
+          <param name="Local" value="Interface/ITable/ITable.AttachTable.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ITable.CaseSensitiveNativeName">
+          <param name="Local" value="Interface/ITable/ITable.CaseSensitiveNativeName.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ITable.Checks">
+          <param name="Local" value="Interface/ITable/ITable.Checks.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ITable.CreateTable">
+          <param name="Local" value="Interface/ITable/ITable.CreateTable.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ITable.Database">
+          <param name="Local" value="Interface/ITable/ITable.Database.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ITable.DropTable">
+          <param name="Local" value="Interface/ITable/ITable.DropTable.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ITable.External">
+          <param name="Local" value="Interface/ITable/ITable.External.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ITable.Fields">
+          <param name="Local" value="Interface/ITable/ITable.Fields.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ITable.ForeignKeys">
+          <param name="Local" value="Interface/ITable/ITable.ForeignKeys.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ITable.Indexes">
+          <param name="Local" value="Interface/ITable/ITable.Indexes.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ITable.IsRecreateFL">
+          <param name="Local" value="Interface/ITable/ITable.IsRecreateFL.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ITable.NativeName">
+          <param name="Local" value="Interface/ITable/ITable.NativeName.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ITable.Triggers">
+          <param name="Local" value="Interface/ITable/ITable.Triggers.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ITable.UpdateTable">
+          <param name="Local" value="Interface/ITable/ITable.UpdateTable.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="ITableCheck">
+        <param name="Local" value="Interface/ITableCheck/ITableCheck.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ITableCheck.Check">
+          <param name="Local" value="Interface/ITableCheck/ITableCheck.Check.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ITableCheck.Text">
+          <param name="Local" value="Interface/ITableCheck/ITableCheck.Text.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="ITableChecks">
+        <param name="Local" value="Interface/ITableChecks/ITableChecks.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ITableChecks.Add">
+          <param name="Local" value="Interface/ITableChecks/ITableChecks.Add.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ITableChecks.Clear">
+          <param name="Local" value="Interface/ITableChecks/ITableChecks.Clear.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ITableChecks.Count">
+          <param name="Local" value="Interface/ITableChecks/ITableChecks.Count.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ITableChecks.FindById">
+          <param name="Local" value="Interface/ITableChecks/ITableChecks.FindById.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ITableChecks.FindByKey">
+          <param name="Local" value="Interface/ITableChecks/ITableChecks.FindByKey.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ITableChecks.Item">
+          <param name="Local" value="Interface/ITableChecks/ITableChecks.Item.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ITableChecks.Remove">
+          <param name="Local" value="Interface/ITableChecks/ITableChecks.Remove.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ITableChecks.RemoveByKey">
+          <param name="Local" value="Interface/ITableChecks/ITableChecks.RemoveByKey.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="ITableField">
+        <param name="Local" value="Interface/ITableField/ITableField.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ITableField.CaseSensitiveId">
+          <param name="Local" value="Interface/ITableField/ITableField.CaseSensitiveId.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ITableField.DataDomain">
+          <param name="Local" value="Interface/ITableField/ITableField.DataDomain.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ITableField.DataType">
+          <param name="Local" value="Interface/ITableField/ITableField.DataType.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ITableField.DefaultValue">
+          <param name="Local" value="Interface/ITableField/ITableField.DefaultValue.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ITableField.Expression">
+          <param name="Local" value="Interface/ITableField/ITableField.Expression.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ITableField.IsCalculated">
+          <param name="Local" value="Interface/ITableField/ITableField.IsCalculated.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ITableField.IsIdentity">
+          <param name="Local" value="Interface/ITableField/ITableField.IsIdentity.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ITableField.IsSparse">
+          <param name="Local" value="Interface/ITableField/ITableField.IsSparse.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ITableField.Mandatory">
+          <param name="Local" value="Interface/ITableField/ITableField.Mandatory.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ITableField.Precision">
+          <param name="Local" value="Interface/ITableField/ITableField.Precision.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ITableField.Size">
+          <param name="Local" value="Interface/ITableField/ITableField.Size.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="ITableFields">
+        <param name="Local" value="Interface/ITableFields/ITableFields.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ITableFields.Add">
+          <param name="Local" value="Interface/ITableFields/ITableFields.Add.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ITableFields.Clear">
+          <param name="Local" value="Interface/ITableFields/ITableFields.Clear.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ITableFields.Count">
+          <param name="Local" value="Interface/ITableFields/ITableFields.Count.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ITableFields.FieldByKey">
+          <param name="Local" value="Interface/ITableFields/ITableFields.FieldByKey.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ITableFields.FindById">
+          <param name="Local" value="Interface/ITableFields/ITableFields.FindById.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ITableFields.FindByKey">
+          <param name="Local" value="Interface/ITableFields/ITableFields.FindByKey.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ITableFields.Item">
+          <param name="Local" value="Interface/ITableFields/ITableFields.Item.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ITableFields.Remove">
+          <param name="Local" value="Interface/ITableFields/ITableFields.Remove.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ITableFields.RemoveByKey">
+          <param name="Local" value="Interface/ITableFields/ITableFields.RemoveByKey.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="ITableForeignKey">
+        <param name="Local" value="Interface/ITableForeignKey/ITableForeignKey.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ITableForeignKey.AlterType">
+          <param name="Local" value="Interface/ITableForeignKey/ITableForeignKey.AlterType.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ITableForeignKey.Columns">
+          <param name="Local" value="Interface/ITableForeignKey/ITableForeignKey.Columns.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ITableForeignKey.ComparedWith">
+          <param name="Local" value="Interface/ITableForeignKey/ITableForeignKey.ComparedWith.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ITableForeignKey.IsCascade">
+          <param name="Local" value="Interface/ITableForeignKey/ITableForeignKey.IsCascade.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ITableForeignKey.RColumns">
+          <param name="Local" value="Interface/ITableForeignKey/ITableForeignKey.RColumns.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ITableForeignKey.RTable">
+          <param name="Local" value="Interface/ITableForeignKey/ITableForeignKey.RTable.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ITableForeignKey.RTableObject">
+          <param name="Local" value="Interface/ITableForeignKey/ITableForeignKey.RTableObject.htm">
+          <param name="ImageNumber" value="19">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="ITableForeignKeys">
+        <param name="Local" value="Interface/ITableForeignKeys/ITableForeignKeys.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ITableForeignKeys.Add">
+          <param name="Local" value="Interface/ITableForeignKeys/ITableForeignKeys.Add.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ITableForeignKeys.Clear">
+          <param name="Local" value="Interface/ITableForeignKeys/ITableForeignKeys.Clear.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ITableForeignKeys.Count">
+          <param name="Local" value="Interface/ITableForeignKeys/ITableForeignKeys.Count.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ITableForeignKeys.FindById">
+          <param name="Local" value="Interface/ITableForeignKeys/ITableForeignKeys.FindById.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ITableForeignKeys.FindByKey">
+          <param name="Local" value="Interface/ITableForeignKeys/ITableForeignKeys.FindByKey.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ITableForeignKeys.Item">
+          <param name="Local" value="Interface/ITableForeignKeys/ITableForeignKeys.Item.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ITableForeignKeys.Remove">
+          <param name="Local" value="Interface/ITableForeignKeys/ITableForeignKeys.Remove.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ITableForeignKeys.RemoveByKey">
+          <param name="Local" value="Interface/ITableForeignKeys/ITableForeignKeys.RemoveByKey.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="ITableIndex">
+        <param name="Local" value="Interface/ITableIndex/ITableIndex.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ITableIndex.AllowNulls">
+          <param name="Local" value="Interface/ITableIndex/ITableIndex.AllowNulls.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ITableIndex.FieldNames">
+          <param name="Local" value="Interface/ITableIndex/ITableIndex.FieldNames.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ITableIndex.FieldNamesWithSeparator">
+          <param name="Local" value="Interface/ITableIndex/ITableIndex.FieldNamesWithSeparator.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ITableIndex.Fields">
+          <param name="Local" value="Interface/ITableIndex/ITableIndex.Fields.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ITableIndex.Primary">
+          <param name="Local" value="Interface/ITableIndex/ITableIndex.Primary.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ITableIndex.Unique">
+          <param name="Local" value="Interface/ITableIndex/ITableIndex.Unique.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="ITableIndexes">
+        <param name="Local" value="Interface/ITableIndexes/ITableIndexes.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ITableIndexes.Add">
+          <param name="Local" value="Interface/ITableIndexes/ITableIndexes.Add.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ITableIndexes.Clear">
+          <param name="Local" value="Interface/ITableIndexes/ITableIndexes.Clear.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ITableIndexes.Count">
+          <param name="Local" value="Interface/ITableIndexes/ITableIndexes.Count.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ITableIndexes.FindById">
+          <param name="Local" value="Interface/ITableIndexes/ITableIndexes.FindById.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ITableIndexes.FindByKey">
+          <param name="Local" value="Interface/ITableIndexes/ITableIndexes.FindByKey.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ITableIndexes.Item">
+          <param name="Local" value="Interface/ITableIndexes/ITableIndexes.Item.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ITableIndexes.Primary">
+          <param name="Local" value="Interface/ITableIndexes/ITableIndexes.Primary.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ITableIndexes.Remove">
+          <param name="Local" value="Interface/ITableIndexes/ITableIndexes.Remove.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ITableIndexes.RemoveByKey">
+          <param name="Local" value="Interface/ITableIndexes/ITableIndexes.RemoveByKey.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="ITableIndexFields">
+        <param name="Local" value="Interface/ITableIndexFields/ITableIndexFields.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ITableIndexFields.Add">
+          <param name="Local" value="Interface/ITableIndexFields/ITableIndexFields.Add.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ITableIndexFields.Count">
+          <param name="Local" value="Interface/ITableIndexFields/ITableIndexFields.Count.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ITableIndexFields.Item">
+          <param name="Local" value="Interface/ITableIndexFields/ITableIndexFields.Item.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ITableIndexFields.Move">
+          <param name="Local" value="Interface/ITableIndexFields/ITableIndexFields.Move.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ITableIndexFields.Remove">
+          <param name="Local" value="Interface/ITableIndexFields/ITableIndexFields.Remove.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ITableIndexFields.RemoveByKey">
+          <param name="Local" value="Interface/ITableIndexFields/ITableIndexFields.RemoveByKey.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="ITableTrigger">
+        <param name="Local" value="Interface/ITableTrigger/ITableTrigger.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ITableTrigger.Body">
+          <param name="Local" value="Interface/ITableTrigger/ITableTrigger.Body.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ITableTrigger.FireEvent">
+          <param name="Local" value="Interface/ITableTrigger/ITableTrigger.FireEvent.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ITableTrigger.FireTime">
+          <param name="Local" value="Interface/ITableTrigger/ITableTrigger.FireTime.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ITableTrigger.ForEachRow">
+          <param name="Local" value="Interface/ITableTrigger/ITableTrigger.ForEachRow.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ITableTrigger.Text">
+          <param name="Local" value="Interface/ITableTrigger/ITableTrigger.Text.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="ITableTriggers">
+        <param name="Local" value="Interface/ITableTriggers/ITableTriggers.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ITableTriggers.Add">
+          <param name="Local" value="Interface/ITableTriggers/ITableTriggers.Add.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ITableTriggers.Clear">
+          <param name="Local" value="Interface/ITableTriggers/ITableTriggers.Clear.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ITableTriggers.Count">
+          <param name="Local" value="Interface/ITableTriggers/ITableTriggers.Count.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ITableTriggers.FindById">
+          <param name="Local" value="Interface/ITableTriggers/ITableTriggers.FindById.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ITableTriggers.FindByKey">
+          <param name="Local" value="Interface/ITableTriggers/ITableTriggers.FindByKey.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ITableTriggers.Item">
+          <param name="Local" value="Interface/ITableTriggers/ITableTriggers.Item.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ITableTriggers.Remove">
+          <param name="Local" value="Interface/ITableTriggers/ITableTriggers.Remove.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ITableTriggers.RemoveByKey">
+          <param name="Local" value="Interface/ITableTriggers/ITableTriggers.RemoveByKey.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IView">
+        <param name="Local" value="Interface/IView/IView.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IView.AlterView">
+          <param name="Local" value="Interface/IView/IView.AlterView.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IView.ClearSqlText">
+          <param name="Local" value="Interface/IView/IView.ClearSqlText.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IView.CreateView">
+          <param name="Local" value="Interface/IView/IView.CreateView.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IView.Database">
+          <param name="Local" value="Interface/IView/IView.Database.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IView.DropView">
+          <param name="Local" value="Interface/IView/IView.DropView.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IView.ForceCreate">
+          <param name="Local" value="Interface/IView/IView.ForceCreate.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IView.NativeName">
+          <param name="Local" value="Interface/IView/IView.NativeName.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IView.RecreateView">
+          <param name="Local" value="Interface/IView/IView.RecreateView.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IView.Sql">
+          <param name="Local" value="Interface/IView/IView.Sql.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IView.SQLText">
+          <param name="Local" value="Interface/IView/IView.SQLText.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IView.TableCreate">
+          <param name="Local" value="Interface/IView/IView.TableCreate.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IView.UpdateData">
+          <param name="Local" value="Interface/IView/IView.UpdateData.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IView.UpdateView">
+          <param name="Local" value="Interface/IView/IView.UpdateView.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Перечисления сборки Db">
+      <param name="Local" value="Enums/KeDb_Enums.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="CachedDatasetState">
+        <param name="Local" value="Enums/CachedDatasetState.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="DatabaseApplicationRoleMode">
+        <param name="Local" value="Enums/DatabaseApplicationRoleMode.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="DatasetBatchCommand">
+        <param name="Local" value="Enums/DatasetBatchCommand.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="DatasetFailPolicy">
+        <param name="Local" value="Enums/DatasetFailPolicy.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="DbAlterType">
+        <param name="Local" value="Enums/DbAlterType.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="DbIndexType">
+        <param name="Local" value="Enums/DbIndexType.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="ProcedureKind">
+        <param name="Local" value="Enums/ProcedureKind.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="TableTriggerFireEvent">
+        <param name="Local" value="Enums/TableTriggerFireEvent.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="TableTriggerFireTime">
+        <param name="Local" value="Enums/TableTriggerFireTime.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Классы сборки Db">
+      <param name="Local" value="Class/KeDb_Classes.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="DatasetDataArrayProvider">
+        <param name="Local" value="Class/DatasetDataArrayProvider/DatasetDataArrayProvider.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="DatasetDataTransformProvider">
+        <param name="Local" value="Class/DatasetDataTransformProvider/DatasetDataTransformProvider.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Примеры">
+      <param name="Local" value="Samples/KeDb_Sample.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Создание базы данных">
+        <param name="Local" value="Samples/KeDb_Sample1.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Создание таблицы">
+        <param name="Local" value="Samples/KeDb_Sample2.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Создание представления">
+        <param name="Local" value="Samples/KeDb_Sample3.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Создание запроса">
+        <param name="Local" value="Samples/KeDb_Sample4.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Создание источника данных ODBC">
+        <param name="Local" value="Samples/KeDb_Sample5.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Создание команды СУБД">
+        <param name="Local" value="Samples/KeDb_Sample6.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Создание процедуры">
+        <param name="Local" value="Samples/KeDb_Sample7.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Создание журнала">
+        <param name="Local" value="Samples/KeDb_Sample8.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Извлечение данных">
+        <param name="Local" value="Samples/KeDb_Sample_ExtractData.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Работа с кешем источника данных">
+        <param name="Local" value="Samples/KeDb_Sample_EditData.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      </ul>
+    </ul>
+</ul>
+</html>

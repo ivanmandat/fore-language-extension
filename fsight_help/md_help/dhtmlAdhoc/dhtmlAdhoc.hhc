@@ -1,0 +1,319 @@
+<html>
+<!-- Sitemap 1.0 -->
+<object type="text/site properties">
+  <param name="SiteType" value="toc">
+  <param name="Image Width" value="16">
+  <param name="Window Styles" value="0x800027">
+  <param name="ExWindow Styles" value="0x100">
+</object>
+<ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Работа с аналитической панелью">
+    <param name="Local" value="Components/Components.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Компоненты">
+      <param name="Local" value="Components/Components.htm#642b3b9347ca42c9b00b820c00c373fa=1">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="KapBox">
+        <param name="Local" value="Components/KapBox/KapBox.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Пример размещения компонента KapBox">
+          <param name="Local" value="Components/KapBox/KapBox_example.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Kap">
+      <param name="Local" value="Kap.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Классы">
+        <param name="Local" value="Kap.htm#642b3b9347ca42c9b00b820c00c373fa=1">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Dashboard">
+          <param name="Local" value="Classes/Dashboard/Dashboard.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Конструктор KapBox">
+            <param name="Local" value="Classes/Dashboard/Constructor_KapBox.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Dashboard.addSlide">
+            <param name="Local" value="Classes/Dashboard/Dashboard.addSlide.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Dashboard.addToNode">
+            <param name="Local" value="Classes/Dashboard/Dashboard.addToNode.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Dashboard.close">
+            <param name="Local" value="Classes/Dashboard/Dashboard.close.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Dashboard.dispose">
+            <param name="Local" value="Classes/Dashboard/Dashboard.dispose.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Dashboard.exportTo">
+            <param name="Local" value="Classes/Dashboard/Dashboard.exportTo.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Dashboard.getActiveSlideIndex">
+            <param name="Local" value="Classes/Dashboard/Dashboard.getActiveSlideIndex.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Dashboard.getAutoSyncNewDso">
+            <param name="Local" value="Classes/Dashboard/Dashboard.getAutoSyncNewDso.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Dashboard.getBlock">
+            <param name="Local" value="Classes/Dashboard/Dashboard.getBlock.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Dashboard.getIsDirty">
+            <param name="Local" value="Classes/Dashboard/Dashboard.getIsDirty.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Dashboard.getIsRTL">
+            <param name="Local" value="Classes/Dashboard/Dashboard.getIsRTL.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Dashboard.getMeta">
+            <param name="Local" value="Classes/Dashboard/Dashboard.getMeta.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Dashboard.getMode">
+            <param name="Local" value="Classes/Dashboard/Dashboard.getMode.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Dashboard.getMoniker">
+            <param name="Local" value="Classes/Dashboard/Dashboard.getMoniker.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Dashboard.getMultiLanguage">
+            <param name="Local" value="Classes/Dashboard/Dashboard.getMultiLanguage.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Dashboard.getNavBar">
+            <param name="Local" value="Classes/Dashboard/Dashboard.getNavBar.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Dashboard.getOpenDialog">
+            <param name="Local" value="Classes/Dashboard/Dashboard.getOpenDialog.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Dashboard.getRibbon">
+            <param name="Local" value="Classes/Dashboard/Dashboard.getRibbon.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Dashboard.getSaveDialog">
+            <param name="Local" value="Classes/Dashboard/Dashboard.getSaveDialog.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Dashboard.getSlidePanel">
+            <param name="Local" value="Classes/Dashboard/Dashboard.getSlidePanel.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Dashboard.getSlidesCount">
+            <param name="Local" value="Classes/Dashboard/Dashboard.getSlidesCount.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Dashboard.getSource">
+            <param name="Local" value="Classes/Dashboard/Dashboard.getSource.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Dashboard.moveSlideBottom">
+            <param name="Local" value="Classes/Dashboard/Dashboard.moveSlideBottom.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Dashboard.moveSlideDown">
+            <param name="Local" value="Classes/Dashboard/Dashboard.moveSlideDown.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Dashboard.moveSlideTop">
+            <param name="Local" value="Classes/Dashboard/Dashboard.moveSlideTop.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Dashboard.moveSlideToPosition">
+            <param name="Local" value="Classes/Dashboard/Dashboard.moveSlideToPosition.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Dashboard.moveSlideUp">
+            <param name="Local" value="Classes/Dashboard/Dashboard.moveSlideUp.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Dashboard.open">
+            <param name="Local" value="Classes/Dashboard/Dashboard.open.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Dashboard.print">
+            <param name="Local" value="Classes/Dashboard/Dashboard.print.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Dashboard.refresh">
+            <param name="Local" value="Classes/Dashboard/Dashboard.refresh.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Dashboard.refreshBlocksWithChilds">
+            <param name="Local" value="Classes/Dashboard/Dashboard.refreshBlocksWithChilds.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Dashboard.setAutoSyncNewDso">
+            <param name="Local" value="Classes/Dashboard/Dashboard.setAutoSyncNewDso.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Dashboard.setIsDirty">
+            <param name="Local" value="Classes/Dashboard/Dashboard.setIsDirty.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Dashboard.setMultiLanguage">
+            <param name="Local" value="Classes/Dashboard/Dashboard.setMultiLanguage.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Dashboard.setPageSettings">
+            <param name="Local" value="Classes/Dashboard/Dashboard.setPageSettings.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Dashboard.showSlide">
+            <param name="Local" value="Classes/Dashboard/Dashboard.showSlide.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Dashboard.toImage">
+            <param name="Local" value="Classes/Dashboard/Dashboard.toImage.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Dashboard.updateSelection">
+            <param name="Local" value="Classes/Dashboard/Dashboard.updateSelection.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="JsBlock">
+          <param name="Local" value="Classes/JsBlock/JsBlock.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="JsBlock.exportTo">
+            <param name="Local" value="Classes/JsBlock/JsBlock.exportTo.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="JsBlock.getBlockType">
+            <param name="Local" value="Classes/JsBlock/JsBlock.getBlockType.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="JsBlock.getDataBox">
+            <param name="Local" value="Classes/JsBlock/JsBlock.getDataBox.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="JsBlock.getNavBar">
+            <param name="Local" value="Classes/JsBlock/JsBlock.getNavBar.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="JsBlock.getService">
+            <param name="Local" value="Classes/JsBlock/JsBlock.getService.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="JsBlock.getSource">
+            <param name="Local" value="Classes/JsBlock/JsBlock.getSource.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="JsBlock.print">
+            <param name="Local" value="Classes/JsBlock/JsBlock.print.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="JsBlock.refresh">
+            <param name="Local" value="Classes/JsBlock/JsBlock.refresh.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="JsBlock.setBlockTitileVisible">
+            <param name="Local" value="Classes/JsBlock/JsBlock.setBlockTitileVisible.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="JsBlock.setBlockType">
+            <param name="Local" value="Classes/JsBlock/JsBlock.setBlockType.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="JsBlock.setEaxTitleVisible">
+            <param name="Local" value="Classes/JsBlock/JsBlock.setEaxTitleVisible.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="JsBlock.setHidden">
+            <param name="Local" value="Classes/JsBlock/JsBlock.setHidden.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Статические методы">
+        <param name="Local" value="Kap.htm#642b3b9347ca42c9b00b820c00c373fa=2">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Kap.regPluginBlock">
+          <param name="Local" value="Kap.regPluginBlock.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      </ul>
+    </ul>
+</ul>
+</html>

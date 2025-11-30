@@ -1,0 +1,2037 @@
+<html>
+<!-- Sitemap 1.0 -->
+<object type="text/site properties">
+  <param name="SiteType" value="index">
+</object>
+<ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Импорт из кросс-таблицы">
+    <param name="Name" value="Примеры импорта">
+    <param name="Local" value="Data_import_wizard/Data_Import_Sample.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Импорт из таблицы">
+    <param name="Name" value="Примеры импорта">
+    <param name="Local" value="Data_import_wizard/Data_Import_Sample.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Альтернативная иерархия на основе атрибутов справочника">
+    <param name="Name" value="Использование атрибута справочника для построения альтернативной иерархии">
+    <param name="Local" value="reference_book/look-and-feel_Reference_book/Attributes_as_alt_hier.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Альтернативная иерархия на основе справочников">
+    <param name="Name" value="Использование альтернативной иерархии для справочников">
+    <param name="Local" value="reference_book/look-and-feel_Reference_book/Use_AlterHier_ForRefBook.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Требования и рекомендации к файлам Microsoft Excel">
+    <param name="Name" value="Требования и рекомендации к источникам данных">
+    <param name="Local" value="Data_import_wizard/file_requirements.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Требования и рекомендации к источникам данных">
+    <param name="Name" value="Требования и рекомендации к источникам данных">
+    <param name="Local" value="Data_import_wizard/file_requirements.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Сортировка таблицы">
+    <param name="Name" value="Сортировка столбцов таблицы">
+    <param name="Local" value="Table/Work/UiDb_relational_table_work_sort.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Тип агрегации">
+    <param name="Name" value="Страница «Привязка фактов куба»">
+    <param name="Local" value="Cube/CreateCube/Master_Standart/UiMd_Cube_CreateCube_Master_Standart_2.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Настройка агрегации">
+    <param name="Name" value="Страница «Привязка фактов куба»: Стандартный куб">
+    <param name="Local" value="Cube/CreateCube/Master_Standart/UiMd_Cube_CreateCube_Master_Standart_2.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="@">
+    <param name="Name" value="Редактор формул вычисляемого куба">
+    <param name="Local" value="equation_editor/UiMd_Equation_editor_CalculationCube.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Работа с альтернативной иерархией">
+    <param name="Name" value="Иерархия справочника">
+    <param name="Local" value="reference_book/UiMd_reference_book_Hierarchy.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Альтернативные иерархии">
+    <param name="Name" value="Иерархия справочника">
+    <param name="Local" value="reference_book/UiMd_reference_book_Hierarchy.htm">
+    <param name="Name" value="Альтернативная иерархия на основе справочников">
+    <param name="Local" value="reference_book/look-and-feel_Reference_book/Use_AlterHier_ForRefBook.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="DIV">
+    <param name="Name" value="Примеры: Редактор формул">
+    <param name="Local" value="equation_editor/EE_samples.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="MOD">
+    <param name="Name" value="Примеры: Редактор формул">
+    <param name="Local" value="equation_editor/EE_samples.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="AND">
+    <param name="Name" value="Примеры: Редактор формул">
+    <param name="Local" value="equation_editor/EE_samples.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="OR">
+    <param name="Name" value="Примеры: Редактор формул">
+    <param name="Local" value="equation_editor/EE_samples.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="NOT">
+    <param name="Name" value="Примеры: Редактор формул">
+    <param name="Local" value="equation_editor/EE_samples.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Использование союза NOT">
+    <param name="Name" value="Примеры: Редактор формул">
+    <param name="Local" value="equation_editor/EE_samples.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Использование союзов AND и OR">
+    <param name="Name" value="Примеры: Редактор формул">
+    <param name="Local" value="equation_editor/EE_samples.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Использование операций DIV и MOD">
+    <param name="Name" value="Примеры: Редактор формул">
+    <param name="Local" value="equation_editor/EE_samples.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Использование условного оператора">
+    <param name="Name" value="Примеры: Редактор формул">
+    <param name="Local" value="equation_editor/EE_samples.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Использование функций">
+    <param name="Name" value="Примеры: Редактор формул">
+    <param name="Local" value="equation_editor/EE_samples.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Использование статических методов прикладных и системных классов">
+    <param name="Name" value="Примеры: Редактор формул">
+    <param name="Local" value="equation_editor/EE_samples.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Использование прикладных функций">
+    <param name="Name" value="Примеры: Редактор формул">
+    <param name="Local" value="equation_editor/EE_samples.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Использование глобальных переменных">
+    <param name="Name" value="Примеры: Редактор формул">
+    <param name="Local" value="equation_editor/EE_samples.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Примеры">
+    <param name="Name" value="Примеры: Редактор формул">
+    <param name="Local" value="equation_editor/EE_samples.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Выбор приёмника и импорт данных">
+    <param name="Name" value="Выбор приёмника и импорт данных: Мастер импорта данных">
+    <param name="Local" value="Data_import_wizard/Select_consumer.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="OPE">
+    <param name="Name" value="Расшифровка таблицы формул">
+    <param name="Local" value="Cube/Work_Cube/UiMd_CubeWork_MultivariateAccount_TablesFormul.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Общий мастер создания таблицы">
+    <param name="Name" value="Общий мастер создания таблицы">
+    <param name="Local" value="Table/Master/object_type_page.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Создание справочников">
+    <param name="Name" value="Назначение и основные возможности: Справочники">
+    <param name="Local" value="reference_book/Create.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Тип объекта">
+    <param name="Name" value="Куб">
+    <param name="Local" value="Cube/CreateCube/UiMd_Cube_CreateCube.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Общий мастер создания куба">
+    <param name="Name" value="Куб">
+    <param name="Local" value="Cube/CreateCube/UiMd_Cube_CreateCube.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Назначение и основные возможности">
+    <param name="Name" value="Назначение и основные возможности: Таблица">
+    <param name="Local" value="Table/UiDb_relational_table.htm">
+    <param name="Name" value="Назначение и основные возможности: База данных">
+    <param name="Local" value="database/UiDb_database.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Репозиторий НСИ">
+    <param name="Name" value="Назначение и основные возможности: Репозиторий НСИ">
+    <param name="Local" value="repository_RDS/RepositoryRDS.htm">
+    <param name="Name" value="Выбор репозитория НСИ: База данных временных рядов">
+    <param name="Local" value="TimeSeriesDatabase/ChooseNSI.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Мастер создания репозитория НСИ">
+      <param name="Name" value="Назначение и основные возможности: Репозиторий НСИ">
+      <param name="Local" value="repository_RDS/RepositoryRDS.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Назначение и основные возможности: Репозиторий НСИ">
+      <param name="Name" value="Назначение и основные возможности: Репозиторий НСИ">
+      <param name="Local" value="repository_RDS/RepositoryRDS.htm">
+    </object>
+    </ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Справочник «Типы данных»">
+    <param name="Name" value="Справочник «Типы данных»">
+    <param name="Local" value="reference_book/UiMd_reference_book_example_Type.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Справочник «Территориальные образования»">
+    <param name="Name" value="Справочник «Территориальные образования»">
+    <param name="Local" value="reference_book/UiMd_reference_book_example_Terr.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Справочник «Социально-экономические показатели»">
+    <param name="Name" value="Справочник «Социально-экономические показатели»">
+    <param name="Local" value="reference_book/UiMd_reference_book_example.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Сортировка элементов справочника">
+    <param name="Name" value="Сортировка элементов справочника">
+    <param name="Local" value="reference_book/Work/Sort_Elements.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Примеры создания справочников">
+    <param name="Name" value="Примеры создания справочников">
+    <param name="Local" value="reference_book/UiMd_reference_book_Examples.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Поиск элемента справочника">
+    <param name="Name" value="Поиск элемента справочника">
+    <param name="Local" value="reference_book/Work/Search_Elements.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Справочники">
+    <param name="Name" value="Назначение и основные возможности: Справочники">
+    <param name="Local" value="reference_book/Create.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Календарный справочник «Календарь»">
+    <param name="Name" value="Календарный справочник «Календарь»">
+    <param name="Local" value="reference_book/Calendar.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Иерархия справочника">
+    <param name="Name" value="Иерархия справочника">
+    <param name="Local" value="reference_book/UiMd_reference_book_Hierarchy.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Управление параметрами">
+    <param name="Name" value="Страница «Управление параметрами»: Табличный справочник">
+    <param name="Local" value="reference_book/Master_Table_reference_book/UiMd_reference_book_Master_Table_page5.htm">
+    <param name="Name" value="Страница «Управление параметрами»: Вычисляемый куб">
+    <param name="Local" value="Cube/CreateCube/Master_Calculation/UiMd_Cube_CreateCube_Master_Calculation_manage_param.htm">
+    <param name="Name" value="Страница «Управление параметрами»: Представление-куб">
+    <param name="Local" value="Cube/CreateCube/Master_Conception/UiMd_Cube_CreateCube_Master_Conception_manage_dim.htm">
+    <param name="Name" value="Страница «Управление параметрами»: Стандартный куб">
+    <param name="Local" value="Cube/CreateCube/Master_Standart/UiMd_Cube_CreateCube_Master_Standart_manage_param.htm">
+    <param name="Name" value="Страница «Управление параметрами»: Виртуальный куб">
+    <param name="Local" value="Cube/CreateCube/Master_Virtual_Cube/UiMd_Cube_CreateCube_Master_Virtual_managed_param.htm">
+    <param name="Name" value="Страница «Управление параметрами»: Загрузчик данных">
+    <param name="Local" value="Cube/Work_Cube/Loader/UiMd_Cube_Work_Cube_Loader_Master_Parameters_Managemetn.htm">
+    <param name="Name" value="Страница «Управление параметрами»: Автоматический куб">
+    <param name="Local" value="Cube/CreateCube/Master_Auto/uimd_cube_createcube_common_page2.htm">
+    <param name="Name" value="Управление параметрами">
+    <param name="Local" value="Cube/UiMd_CubeWork_MultivariateAccount_ParamsControl.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Привязки блоков">
+    <param name="Name" value="Страница «Привязки блоков»: Табличный справочник">
+    <param name="Local" value="reference_book/Master_Table_reference_book/UiMd_reference_book_Master_Table_page3.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Свойства атрибута справочника">
+    <param name="Name" value="Свойства атрибута справочника">
+    <param name="Local" value="reference_book/Master_Table_reference_book/UiMd_reference_book_Master_Table_page1_AttProps.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Мастер табличного справочника">
+    <param name="Name" value="Мастер создания табличного справочника">
+    <param name="Local" value="reference_book/Master_Table_reference_book/Master_Table.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Тип и период актуальности календаря">
+    <param name="Name" value="Страница «Тип и период актуальности календаря»">
+    <param name="Local" value="reference_book/Master_Calendar_reference_book/UiMd_reference_book_Master_Calendar_page1.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Свойства атрибута">
+    <param name="Name" value="Свойства атрибута">
+    <param name="Local" value="reference_book/Master_Calendar_reference_book/UiMd_reference_book_Master_Calendar_page3Attr.htm">
+    <param name="Name" value="Свойства обычного атрибута">
+    <param name="Local" value="reference_book/Master_RDS_reference_book/Attributes/Attribute.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Примеры выражений">
+    <param name="Name" value="Примеры выражений">
+    <param name="Local" value="reference_book/Master_Calendar_reference_book/UiMd_reference_book_Master_Calendar_page3Example.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Мастер календарного справочника">
+    <param name="Name" value="Мастер создания календарного справочника">
+    <param name="Local" value="reference_book/Master_Calendar_reference_book/Master_Calendar.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Уровни справочника">
+    <param name="Name" value="Страница «Атрибуты справочника»: Вычисляемый справочник">
+    <param name="Local" value="reference_book/Master_Calculation_reference_book/UiMd_reference_book_Master_Calculation_page3.htm">
+    <param name="Name" value="Страница «Атрибуты справочника»: Табличный справочник">
+    <param name="Local" value="reference_book/Master_Table_reference_book/UiMd_reference_book_Master_Table_page4.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Структура справочника">
+    <param name="Name" value="Страница «Структура»: Вычисляемый справочник">
+    <param name="Local" value="reference_book/Master_Calculation_reference_book/UiMd_reference_book_Master_Calculation_page1.htm">
+    <param name="Name" value="Страница «Структура»: Табличный справочник">
+    <param name="Local" value="reference_book/Master_Table_reference_book/UiMd_reference_book_Master_Table_page2.htm">
+    <param name="Name" value="Страница «Структура»: Календарный справочник">
+    <param name="Local" value="reference_book/Master_Calendar_reference_book/UiMd_reference_book_Master_Calendar_page2.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Сортировка справочника">
+    <param name="Name" value="Страница «Сортировка»: Вычисляемый справочник">
+    <param name="Local" value="reference_book/Master_Calculation_reference_book/UiMd_reference_book_Master_Calculation_Sorting.htm">
+    <param name="Name" value="Страница «Сортировка»: Табличный справочник">
+    <param name="Local" value="reference_book/Master_Table_reference_book/UiMd_reference_book_Master_Table_Sorting.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Макрос">
+    <param name="Name" value="Страница «Макрос»: Вычисляемый справочник">
+    <param name="Local" value="reference_book/Master_Calculation_reference_book/UiMd_reference_book_Master_Calculation_page2.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Атрибуты справочника">
+    <param name="Name" value="Страница «Атрибуты»: Вычисляемый справочник">
+    <param name="Local" value="reference_book/Master_Calculation_reference_book/UiMd_reference_book_Master_Calculation_Atribute.htm">
+    <param name="Name" value="Страница «Атрибуты» (Расширенная): Табличный справочник">
+    <param name="Local" value="reference_book/Master_Table_reference_book/UiMd_reference_book_Master_Table_page1.htm">
+    <param name="Name" value="Страница «Атрибуты»: Календарный справочник">
+    <param name="Local" value="reference_book/Master_Calendar_reference_book/UiMd_reference_book_Master_Calendar_page3.htm">
+    <param name="Name" value="Страница «Атрибуты» (Упрощенная): Табличный справочник">
+    <param name="Local" value="reference_book/Master_Table_reference_book/Attributes_Simple.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Мастер вычисляемого справочника">
+    <param name="Name" value="Мастер создания вычисляемого справочника">
+    <param name="Local" value="reference_book/Master_Calculation_reference_book/Master_Calculation.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Схемы отметки">
+    <param name="Name" value="Схемы отметки: Справочники">
+    <param name="Local" value="reference_book/look-and-feel_Reference_book/UiMd_reference_book_look-and-feel_Scheme.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Группы элементов">
+    <param name="Name" value="Группы элементов: Справочники">
+    <param name="Local" value="reference_book/look-and-feel_Reference_book/UiMd_reference_book_look-and-feel_Group.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Запрос">
+    <param name="Name" value="Назначение и основные возможности: Запрос">
+    <param name="Local" value="Query/Query.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Мастер создания запросов">
+      <param name="Name" value="Назначение и основные возможности: Запрос">
+      <param name="Local" value="Query/Query.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Поиск и замена в тексте запроса">
+      <param name="Name" value="Поиск и замена в тексте запроса">
+      <param name="Local" value="Query/Master/UiDb_relational_query_master_PropertySearch.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Свойства запроса">
+      <param name="Name" value="Страница «Свойства запроса»">
+      <param name="Local" value="Query/Master/UiDb_relational_query_master_Property.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Пример создания процедуры">
+      <param name="Name" value="Пример создания процедуры">
+      <param name="Local" value="procedure/UiDb_relationa_procedure_Example.htm">
+    </object>
+    </ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Свойства запроса">
+    <param name="Name" value="Страница «Свойства запроса»">
+    <param name="Local" value="Query/Master/UiDb_relational_query_master_Property.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Поиск и замена в тексте запроса">
+    <param name="Name" value="Поиск и замена в тексте запроса">
+    <param name="Local" value="Query/Master/UiDb_relational_query_master_PropertySearch.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Процедура/Функция">
+    <param name="Name" value="Страница «Процедура/Функция»">
+    <param name="Local" value="procedure/UiDb_relational_procedure_master_procedure.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Пример создания процедуры">
+    <param name="Name" value="Пример создания процедуры">
+    <param name="Local" value="procedure/UiDb_relationa_procedure_Example.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Процедура">
+    <param name="Name" value="Назначение и основные возможности: Процедура">
+    <param name="Local" value="procedure/UiDb_relationa_procedure.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Пример создания процедуры">
+      <param name="Name" value="Пример создания процедуры">
+      <param name="Local" value="procedure/UiDb_relationa_procedure_Example.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Мастер создания процедуры">
+      <param name="Name" value="Назначение и основные возможности: Процедура">
+      <param name="Local" value="procedure/UiDb_relationa_procedure.htm">
+    </object>
+    </ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Пример создания источника данных ODBC">
+    <param name="Name" value="Пример создания источника данных ODBC">
+    <param name="Local" value="ODBC/UiDb_relational_ODBC_example.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Настройка источника данных ODBC">
+    <param name="Name" value="Страница «Настройка источника данных ODBC»: Источник данных ODBC">
+    <param name="Local" value="ODBC/Master/UiDb_relational_ODBC_master_tuning.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Источник данных ODBC">
+    <param name="Name" value="Страница «Источник данных ODBC»">
+    <param name="Local" value="ODBC/Master/UiDb_relational_ODBC_master_databaseODBC.htm">
+    <param name="Name" value="Назначение и основные возможности: Источник данных ODBC">
+    <param name="Local" value="ODBC/UiDb_relational_ODBC.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Мастер источника данных ODBC">
+    <param name="Name" value="Назначение и основные возможности: Источник данных ODBC#Master">
+    <param name="Local" value="ODBC/UiDb_relational_ODBC.htm#master">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Связь с репозиторием">
+    <param name="Name" value="Назначение и основные возможности: Связь с репозиторием">
+    <param name="Local" value="Link_with/UiDb_relational_LinkWith.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Журнал">
+    <param name="Name" value="Назначение и основные возможности: Журнал">
+    <param name="Local" value="journal/UiDb_relational_journal.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Мастер создания журнала">
+      <param name="Name" value="Назначение и основные возможности: Журнал">
+      <param name="Local" value="journal/UiDb_relational_journal.htm">
+    </object>
+    </ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Свойства журнала">
+    <param name="Name" value="Страница «Свойства журнала»">
+    <param name="Local" value="journal/Master/UiDb_relational_journal_master_Property.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Поля журнала">
+    <param name="Name" value="Страница «Поля журнала»">
+    <param name="Local" value="journal/Master/UiDb_relational_journal_master_Field.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Редактор формул для вычисляемого куба">
+    <param name="Name" value="Редактор формул вычисляемого куба">
+    <param name="Local" value="equation_editor/UiMd_Equation_editor_CalculationCube.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Пример создания куба">
+    <param name="Name" value="Пример создания куба">
+    <param name="Local" value="Cube/UiMd_Cube_Example.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Кубы">
+    <param name="Name" value="Назначение и основные возможности: Кубы">
+    <param name="Local" value="Cube/UiMd_Cube_Type.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Пример создания куба">
+      <param name="Name" value="Пример создания куба">
+      <param name="Local" value="Cube/UiMd_Cube_Example.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Работа с кубами">
+      <param name="Name" value="Работа с кубами">
+      <param name="Local" value="Cube/Work_Cube/UiMd_Cube_Work_Cube.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Пример создания куба с управляемым измерением">
+      <param name="Name" value="Пример создания куба с управляемым измерением">
+      <param name="Local" value="Cube/Work_Cube/UiMd_Cube_Example_Param_Agency.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Общий мастер создания куба">
+      <param name="Name" value="Куб">
+      <param name="Local" value="Cube/CreateCube/UiMd_Cube_CreateCube.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Создание кубов">
+      <param name="Name" value="Создание кубов">
+      <param name="Local" value="Cube/CreateCube/UiMd_Cube_CreateCube.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Виртуальный куб">
+      <param name="Name" value="Мастер создания виртуального куба">
+      <param name="Local" value="Cube/CreateCube/Master_Virtual_Cube/UiMd_Cube_CreateCube_Master_Virtual.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Стандартный куб">
+      <param name="Name" value="Мастер создания стандартного куба">
+      <param name="Local" value="Cube/CreateCube/Master_Standart/UiMd_Cube_CreateCube_Master_Standart.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Представление-куб">
+      <param name="Name" value="Мастер создания представления-куба">
+      <param name="Local" value="Cube/CreateCube/Master_Conception/UiMd_Cube_CreateCube_Master_Conception.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Вычисляемый куб">
+      <param name="Name" value="Мастер создания вычисляемого куба">
+      <param name="Local" value="Cube/CreateCube/Master_Calculation/UiMd_Cube_CreateCube_Master_Calculation.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Автоматический куб">
+      <param name="Name" value="Мастер создания автоматического куба">
+      <param name="Local" value="Cube/CreateCube/Master_Auto/UiMd_Cube_CreateCube_Master_Auto.htm">
+    </object>
+    </ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Таблица формул">
+    <param name="Name" value="Таблица формул">
+    <param name="Local" value="Cube/Work_Cube/UiMd_CubeWork_MultivariateAccount_Tables.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Сохранение куба в файл">
+    <param name="Name" value="Сохранение куба в файл">
+    <param name="Local" value="Cube/Work_Cube/UiMd_Cube_Work_Cube_Save.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Свойства">
+    <param name="Name" value="Страница «Свойства»: Многомерный расчет на сервере БД">
+    <param name="Local" value="Cube/Work_Cube/UiMd_CubeWork_MultivariateAccount_MDProps.htm">
+    <param name="Name" value="Страница «Свойства»: Таблица">
+    <param name="Local" value="Table/Master/UiDb_relational_table_master_Property.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Редактирование формул многомерного расчета">
+    <param name="Name" value="Редактор формул многомерного расчета на сервере БД">
+    <param name="Local" value="Cube/Work_Cube/UiMd_CubeWork_MultivariateAccount_EditFormula.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Расшифровка таблицы формул">
+    <param name="Name" value="Расшифровка таблицы формул">
+    <param name="Local" value="Cube/Work_Cube/UiMd_CubeWork_MultivariateAccount_TablesFormul.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Работа с кубами">
+    <param name="Name" value="Работа с кубами">
+    <param name="Local" value="Cube/Work_Cube/UiMd_Cube_Work_Cube.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Пример создания куба с управляемым измерением">
+    <param name="Name" value="Пример создания куба с управляемым измерением">
+    <param name="Local" value="Cube/Work_Cube/UiMd_Cube_Example_Param_Agency.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Параметры расчёта">
+    <param name="Name" value="Параметры расчёта">
+    <param name="Local" value="Cube/Work_Cube/UiMd_CubeWork_MultivariateAccount_Account.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Особенности и примеры использования различных типов суммирования">
+    <param name="Name" value="Особенности и примеры суммирования">
+    <param name="Local" value="Cube/Work_Cube/UiMd_CubeWork_MultivariateAccount_Example.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Многомерный расчет на сервере БД">
+    <param name="Name" value="Многомерный расчет на сервере БД">
+    <param name="Local" value="Cube/Work_Cube/UiMd_CubeWork_MultivariateAccount.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Источники данных">
+    <param name="Name" value="Страница «Источники данных»: Многомерный расчет на сервере БД">
+    <param name="Local" value="Cube/Work_Cube/UiMd_CubeWork_MultivariateAccount_Source.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Хронологический механизм агрегации">
+    <param name="Name" value="Хронологический механизм агрегации">
+    <param name="Local" value="Cube/Work_Cube/Tuning_agr/UiMd_Cube_Work_Cube_Tuning_agr_chronological.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Основной механизм агрегации">
+    <param name="Name" value="Основной механизм агрегации">
+    <param name="Local" value="Cube/Work_Cube/Tuning_agr/UiMd_Cube_Work_Cube_Tuning_agr_Basic.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Связи измерений">
+    <param name="Name" value="Страница «Связи измерений»">
+    <param name="Local" value="Cube/Work_Cube/Loader/UiMd_Cube_Work_Cube_Loader_Master_2.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Источник и приёмник">
+    <param name="Name" value="Страница «Источник и приёмник»: Загрузчик данных">
+    <param name="Local" value="Cube/Work_Cube/Loader/UiMd_Cube_Work_Cube_Loader_Master_1.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Загрузчик данных">
+    <param name="Name" value="Загрузчик данных">
+    <param name="Local" value="Cube/Work_Cube/Loader/UiMd_Cube_Work_Cube_Loader.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Кубы-источники">
+    <param name="Name" value="Страница «Источники»: Виртуальный куб">
+    <param name="Local" value="Cube/CreateCube/Master_Virtual_Cube/UiMd_Cube_CreateCube_Master_Virtual_1.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Мастер виртуального куба">
+    <param name="Name" value="Мастер создания виртуального куба">
+    <param name="Local" value="Cube/CreateCube/Master_Virtual_Cube/UiMd_Cube_CreateCube_Master_Virtual.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Привязка фактов">
+    <param name="Name" value="Страница «Привязка фактов»: Стандартный куб">
+    <param name="Local" value="Cube/CreateCube/Master_Standart/UiMd_Cube_CreateCube_Master_Standart_2.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Отношения">
+    <param name="Name" value="Страница «Отношения»">
+    <param name="Local" value="Cube/CreateCube/Master_Standart/UiMd_Cube_CreateCube_Master_Standart_4.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Вычисляемые факты">
+    <param name="Name" value="Страница «Вычисляемые факты»: Стандартный куб">
+    <param name="Local" value="Cube/CreateCube/Master_Standart/UiMd_Cube_CreateCube_Master_Standart_5.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="LAST_S">
+    <param name="Name" value="Специальные функции">
+    <param name="Local" value="Cube/CreateCube/Master_Standart/UiMd_Cube_CreateCube_Master_Standart_5Function.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="DIF_S">
+    <param name="Name" value="Специальные функции">
+    <param name="Local" value="Cube/CreateCube/Master_Standart/UiMd_Cube_CreateCube_Master_Standart_5Function.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="FILL_S">
+    <param name="Name" value="Специальные функции">
+    <param name="Local" value="Cube/CreateCube/Master_Standart/UiMd_Cube_CreateCube_Master_Standart_5Function.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="FIRST_S">
+    <param name="Name" value="Специальные функции">
+    <param name="Local" value="Cube/CreateCube/Master_Standart/UiMd_Cube_CreateCube_Master_Standart_5Function.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="SUM_S">
+    <param name="Name" value="Специальные функции">
+    <param name="Local" value="Cube/CreateCube/Master_Standart/UiMd_Cube_CreateCube_Master_Standart_5Function.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="LAST">
+    <param name="Name" value="Специальные функции">
+    <param name="Local" value="Cube/CreateCube/Master_Standart/UiMd_Cube_CreateCube_Master_Standart_5Function.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="DIF">
+    <param name="Name" value="Специальные функции">
+    <param name="Local" value="Cube/CreateCube/Master_Standart/UiMd_Cube_CreateCube_Master_Standart_5Function.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="FILL">
+    <param name="Name" value="Специальные функции">
+    <param name="Local" value="Cube/CreateCube/Master_Standart/UiMd_Cube_CreateCube_Master_Standart_5Function.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="FIRST">
+    <param name="Name" value="Специальные функции">
+    <param name="Local" value="Cube/CreateCube/Master_Standart/UiMd_Cube_CreateCube_Master_Standart_5Function.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="SUM">
+    <param name="Name" value="Специальные функции">
+    <param name="Local" value="Cube/CreateCube/Master_Standart/UiMd_Cube_CreateCube_Master_Standart_5Function.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Специальные функции">
+    <param name="Name" value="Специальные функции">
+    <param name="Local" value="Cube/CreateCube/Master_Standart/UiMd_Cube_CreateCube_Master_Standart_5Function.htm">
+    <param name="Name" value="Специальные функции">
+    <param name="Local" value="Cube/Work_Cube/UiMd_CubeWork_MultivariateAccount_Functions.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Мастер стандартного куба">
+    <param name="Name" value="Мастер создания стандартного куба">
+    <param name="Local" value="Cube/CreateCube/Master_Standart/UiMd_Cube_CreateCube_Master_Standart.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Исходный куб">
+    <param name="Name" value="Страница «Исходный куб»: Представление-куб">
+    <param name="Local" value="Cube/CreateCube/Master_Conception/UiMd_Cube_CreateCube_Master_Conception_1.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Мастер представления-куба">
+    <param name="Name" value="Мастер создания представления-куба">
+    <param name="Local" value="Cube/CreateCube/Master_Conception/UiMd_Cube_CreateCube_Master_Conception.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Факты">
+    <param name="Name" value="Страница «Факты»: Вычисляемый куб">
+    <param name="Local" value="Cube/CreateCube/Master_Calculation/UiMd_Cube_CreateCube_Master_Calculation_1.htm">
+    <param name="Name" value="Страница «Факты»: Стандартный куб">
+    <param name="Local" value="Cube/CreateCube/Master_Standart/UiMd_Cube_CreateCube_Master_Standart_1.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Структура кубов">
+    <param name="Name" value="Страница «Структура кубов»">
+    <param name="Local" value="Cube/CreateCube/Master_Calculation/UiMd_Cube_CreateCube_Master_Calculation_2.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Альтернативный куб">
+    <param name="Name" value="Страница «Альтернативный куб»: Вычисляемый куб">
+    <param name="Local" value="Cube/CreateCube/Master_Calculation/UiMd_Cube_CreateCube_Master_Calculation_alternative_cube.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Мастер вычисляемого куба">
+    <param name="Name" value="Мастер создания вычисляемого куба">
+    <param name="Local" value="Cube/CreateCube/Master_Calculation/UiMd_Cube_CreateCube_Master_Calculation.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Фиксация измерений">
+    <param name="Name" value="Страница «Фиксация измерений»: Автоматический куб">
+    <param name="Local" value="Cube/CreateCube/Master_Auto/UiMd_Cube_CreateCube_Master_Auto_3.htm">
+    <param name="Name" value="Страница «Фиксация измерений»: Представление-куб">
+    <param name="Local" value="Cube/CreateCube/Master_Conception/UiMd_Cube_CreateCube_Master_Conception_2.htm">
+    <param name="Name" value="Страница «Фиксация измерений»: Виртуальный куб">
+    <param name="Local" value="Cube/CreateCube/Master_Virtual_Cube/UiMd_Cube_CreateCube_Master_Virtual_2.htm">
+    <param name="Name" value="Страница «Фиксация измерений»: Загрузчик данных">
+    <param name="Local" value="Cube/Work_Cube/Loader/UiMd_Cube_Work_Cube_Loader_Master_3.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Управляющие измерения">
+    <param name="Name" value="Страница «Управляющие измерения»: Автоматический куб">
+    <param name="Local" value="Cube/CreateCube/Master_Auto/uimd_cube_createcube_common_page3.htm">
+    <param name="Name" value="Страница «Управляющие измерения»: Представление-куб">
+    <param name="Local" value="Cube/CreateCube/Master_Conception/UiMd_Cube_CreateCube_Master_Conception_managed_dim.htm">
+    <param name="Name" value="Страница «Управляющие измерения»: Стандартный куб">
+    <param name="Local" value="Cube/CreateCube/Master_Standart/UiMd_Cube_CreateCube_Master_Standart_managed_dim.htm">
+    <param name="Name" value="Страница «Управляющие измерения»: Виртуальный куб">
+    <param name="Local" value="Cube/CreateCube/Master_Virtual_Cube/UiMd_Cube_CreateCube_Master_Virtual_manage_dim.htm">
+    <param name="Name" value="Страница «Управляющие измерения»: Многомерный расчет на сервере БД">
+    <param name="Local" value="Cube/Work_Cube/UiMd_CubeWork_MultivariateAccount_ControlDims.htm">
+    <param name="Name" value="Страница «Управляющие измерения»: Вычисляемый куб">
+    <param name="Local" value="Cube/CreateCube/Master_Calculation/UiMd_Cube_CreateCube_Master_Calculation_managed_dim.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Структура">
+    <param name="Name" value="Страница «Структура»: Автоматический куб">
+    <param name="Local" value="Cube/CreateCube/Master_Auto/UiMd_Cube_CreateCube_Master_Auto_1.htm">
+    <param name="Name" value="Страница «Структура»: Многомерный расчет на сервере БД">
+    <param name="Local" value="Cube/Work_Cube/UiMd_CubeWork_MultivariateAccount_Structure.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Источник данных">
+    <param name="Name" value="Страница «Источник данных»: Автоматический куб">
+    <param name="Local" value="Cube/CreateCube/Master_Auto/UiMd_Cube_CreateCube_Master_Auto_2.htm">
+    <param name="Name" value="Страница «Источник данных»: Табличный справочник">
+    <param name="Local" value="reference_book/Master_Table_reference_book/DataSource.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Единицы измерения и показатели">
+    <param name="Name" value="Страница «Единицы измерения и показатели»: Автоматический куб">
+    <param name="Local" value="Cube/CreateCube/Master_Auto/uimd_cube_createcube_common_page4.htm">
+    <param name="Name" value="Страница «Единицы измерения и показатели»: Вычисляемый куб">
+    <param name="Local" value="Cube/CreateCube/Master_Calculation/UiMd_Cube_CreateCube_Master_Calculation_unit.htm">
+    <param name="Name" value="Страница «Единицы измерения и показатели»: Представление куб">
+    <param name="Local" value="Cube/CreateCube/Master_Conception/UiMd_Cube_CreateCube_Master_Conception_unit.htm">
+    <param name="Name" value="Страница «Единицы измерения и показатели»: Стандартный куб">
+    <param name="Local" value="Cube/CreateCube/Master_Standart/UiMd_Cube_CreateCube_Master_Standart_unit_dim.htm">
+    <param name="Name" value="Страница «Единицы измерения и показатели»: Виртуальный куб">
+    <param name="Local" value="Cube/CreateCube/Master_Virtual_Cube/UiMd_Cube_CreateCube_Master_Virtual_unit.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Агрегация данных">
+    <param name="Name" value="Страница «Агрегация»: Автоматический куб">
+    <param name="Local" value="Cube/CreateCube/Master_Auto/UiMd_Cube_CreateCube_Master_Auto_Aggreg.htm">
+    <param name="Name" value="Страница «Агрегация»: Стандартный куб">
+    <param name="Local" value="Cube/CreateCube/Master_Standart/UiMd_Cube_CreateCube_Master_Standart_7.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Мастер автоматического куба">
+    <param name="Name" value="Мастер создания автоматического куба">
+    <param name="Local" value="Cube/CreateCube/Master_Auto/UiMd_Cube_CreateCube_Master_Auto.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Пример создания команды СУБД">
+    <param name="Name" value="Пример создания команды СУБД">
+    <param name="Local" value="CUBD/UiDb_relationa_CUBD_Example.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Команда СУБД">
+    <param name="Name" value="Назначение и основные возможности: Команда СУБД">
+    <param name="Local" value="CUBD/UiDb_relationa_CUBD.htm">
+    <param name="Name" value="Страница «Команда СУБД»: Команда СУБД">
+    <param name="Local" value="CUBD/UiDb_relationa_CUBD_master_command.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Мастер создания команды СУБД">
+      <param name="Name" value="Назначение и основные возможности: Команда СУБД">
+      <param name="Local" value="CUBD/UiDb_relationa_CUBD.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Пример создания команды СУБД">
+      <param name="Name" value="Пример создания команды СУБД">
+      <param name="Local" value="CUBD/UiDb_relationa_CUBD_Example.htm">
+    </object>
+    </ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Представление">
+    <param name="Name" value="Назначение и основные возможности: Представление">
+    <param name="Local" value="conception/UiDb_relational_conception.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Мастер создания представления">
+      <param name="Name" value="Назначение и основные возможности: Представление">
+      <param name="Local" value="conception/UiDb_relational_conception.htm">
+    </object>
+    </ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Свойства представления">
+    <param name="Name" value="Страница «Свойства представления»">
+    <param name="Local" value="conception/Master/UiDb_relational_conception_master_Property.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Выбор таблиц">
+    <param name="Name" value="Страница «Выбор таблиц»: Присоединенная таблица">
+    <param name="Local" value="Attach_table/Master/UiDb_relational_AttachTable_master_table.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Выбор базы данных">
+    <param name="Name" value="Страница «Выбор базы данных»: Присоединенная таблица">
+    <param name="Local" value="Attach_table/Master/UiDb_relational_AttachTable_master_database.htm">
+    <param name="Name" value="Страница «База данных»: Справочник НСИ">
+    <param name="Local" value="reference_book/Master_RDS_reference_book/Database.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Каталог ADOMD">
+    <param name="Name" value="Подключение к SAP">
+    <param name="Local" value="ADOMD/UiDb_relational_ADOMD.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Ярлык">
+    <param name="Name" value="Ярлык">
+    <param name="Local" value="UiNavObj_label.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Папка">
+    <param name="Name" value="Папка">
+    <param name="Local" value="UiNavObj_Folder.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Документ">
+    <param name="Name" value="Документ: Объект репозитория">
+    <param name="Local" value="UiNavObj_document.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Пример создания таблицы">
+    <param name="Name" value="Пример создания таблицы">
+    <param name="Local" value="Table/Db_relational_table_example.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Авторизация в базе данных">
+    <param name="Name" value="Авторизация в базе данных">
+    <param name="Local" value="database/UiDb_database_authorization.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Свойства базы данных">
+    <param name="Name" value="Страница «Свойства базы данных»: База данных">
+    <param name="Local" value="database/UiDb_database_master_property.htm">
+    <param name="Name" value="Страница «Свойства базы данных»: Связь с репозиторием">
+    <param name="Local" value="Link_with/UiDb_relational_LinkWith_master_property.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Дополнительные настройки">
+      <param name="Name" value="Дополнительные настройки">
+      <param name="Local" value="database/database_additional_adjustment.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Использование глобальных переменных">
+      <param name="Name" value="Использование глобальных переменных">
+      <param name="Local" value="database/UiDb_database_master_property1.htm">
+    </object>
+    </ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Присоединенная таблица">
+    <param name="Name" value="Назначение и основные возможности: Присоединенная таблица">
+    <param name="Local" value="Attach_table/UiDb_relational_AttachTable.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Мастер создания присоединенной таблицы">
+      <param name="Name" value="Назначение и основные возможности: Присоединенная таблица">
+      <param name="Local" value="Attach_table/UiDb_relational_AttachTable.htm">
+    </object>
+    </ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Функции преобразования данных">
+    <param name="Name" value="Функции преобразования данных">
+    <param name="Local" value="Table/Master/Function/UiDb_relational_table_funct_data_conv.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Функции для работы с датами">
+    <param name="Name" value="Функции для работы с датами">
+    <param name="Local" value="Table/Master/Function/UiDb_relational_table_funct_date.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Числовые функции">
+    <param name="Name" value="Числовые функции">
+    <param name="Local" value="Table/Master/Function/UiDb_relational_table_funct_num.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Прочие функции">
+    <param name="Name" value="Прочие функции">
+    <param name="Local" value="Table/Master/Function/UiDb_relational_table_funct_other.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Функции, возвращающие системные переменные">
+    <param name="Name" value="Функции, возвращающие системные переменные">
+    <param name="Local" value="Table/Master/Function/UiDb_relational_table_funct_sys_var.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Текстовые функции">
+    <param name="Name" value="Текстовые функции">
+    <param name="Local" value="Table/Master/Function/UiDb_relational_table_funct_text.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Встроенные SQL-функции">
+    <param name="Name" value="Встроенные SQL-функции">
+    <param name="Local" value="Table/Master/Function/UiDb_relational_table_funct.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Мастер таблицы">
+    <param name="Name" value="Назначение и основные возможности: Таблица">
+    <param name="Local" value="Table/UiDb_relational_table.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Свойства поля таблицы">
+    <param name="Name" value="Страница «Поля таблицы»: Таблица">
+    <param name="Local" value="Table/Master/UiDb_relational_table_master_field.htm">
+    <param name="Name" value="Страница «Поля таблицы»: Присоединенная таблица">
+    <param name="Local" value="Attach_table/Master/fields.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Индексы">
+    <param name="Name" value="Страница «Индексы»: Таблица">
+    <param name="Local" value="Table/Master/UiDb_relational_table_master_Index.htm">
+    <param name="Name" value="Создание индексов: База данных временных рядов">
+    <param name="Local" value="TimeSeriesDatabase/TS_Indexes.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Ограничения">
+    <param name="Name" value="Страница «Ограничения»: Таблица">
+    <param name="Local" value="Table/Master/UiDb_relational_table_master_contingencies.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Поля таблицы">
+    <param name="Name" value="Страница «Поля»: Таблица">
+    <param name="Local" value="Table/Master/UiDb_relational_table_master_field.htm">
+    <param name="Name" value="Страница «Поля таблицы»: Присоединенная таблица">
+    <param name="Local" value="Attach_table/Master/fields.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Триггеры">
+    <param name="Name" value="Страница «Триггеры»: Таблица">
+    <param name="Local" value="Table/Master/UiDb_relational_table_master_trigger.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Выбор столбцов таблицы">
+    <param name="Name" value="Выбор столбцов таблицы">
+    <param name="Local" value="Table/Work/UiDb_relational_table_work_pic_row.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Использование автофильтра">
+    <param name="Name" value="Использование автофильтра">
+    <param name="Local" value="Table/Work/UiDb_relational_table_work_AutoFilter.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Поиск данных таблицы">
+    <param name="Name" value="Поиск данных таблицы">
+    <param name="Local" value="Table/Work/UiDb_relational_table_work_search.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Редактирование данных">
+    <param name="Name" value="Редактирование данных">
+    <param name="Local" value="Table/Work/UiDb_relational_table_work_edit_data.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Создание кубов">
+    <param name="Name" value="Создание кубов">
+    <param name="Local" value="Cube/CreateCube/UiMd_Cube_CreateCube.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Форматы даты и времени, определенные пользователем">
+    <param name="Name" value="Форматы даты и времени, определенные пользователем">
+    <param name="Local" value="reference_book/Master_Calendar_reference_book/UiMd_reference_book_Master_Calendar_page3Dataformat.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Настройки">
+    <param name="Name" value="Cоставной табличный справочник НСИ">
+    <param name="Local" value="reference_book/Master_Composite_Table_reference_book/Master_CompositeTable.htm">
+    <param name="Name" value="Страница «База данных»: Справочник НСИ">
+    <param name="Local" value="reference_book/Master_RDS_reference_book/Database.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Группа элементов">
+    <param name="Name" value="Группы элементов: Справочники">
+    <param name="Local" value="reference_book/look-and-feel_Reference_book/UiMd_reference_book_look-and-feel_Group.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Схемы отметки">
+    <param name="Name" value="Схемы отметки: Справочники">
+    <param name="Local" value="reference_book/look-and-feel_Reference_book/UiMd_reference_book_look-and-feel_Scheme.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="База данных">
+    <param name="Name" value="Назначение и основные возможности: База данных">
+    <param name="Local" value="database/UiDb_database.htm">
+    <param name="Name" value="Страница «База данных»: Справочник НСИ">
+    <param name="Local" value="reference_book/Master_RDS_reference_book/Database.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Мастер создания базы данных">
+      <param name="Name" value="Назначение и основные возможности: База данных">
+      <param name="Local" value="database/UiDb_database.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Свойства базы данных">
+      <param name="Name" value="Страница «Свойства базы данных»">
+      <param name="Local" value="database/UiDb_database_master_property.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Авторизация в базе данных">
+      <param name="Name" value="Авторизация в базе данных">
+      <param name="Local" value="database/UiDb_database_authorization.htm">
+    </object>
+    </ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Измерения">
+    <param name="Name" value="Страница «Измерения»: Стандартный куб">
+    <param name="Local" value="Cube/CreateCube/Master_Standart/UiMd_Cube_CreateCube_Master_Standart_3.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Таблица">
+    <param name="Name" value="Назначение и основные возможности: Таблица">
+    <param name="Local" value="Table/UiDb_relational_table.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Автоматический куб">
+    <param name="Name" value="Мастер создания автоматического куба">
+    <param name="Local" value="Cube/CreateCube/Master_Auto/UiMd_Cube_CreateCube_Master_Auto.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Вычисляемый куб">
+    <param name="Name" value="Мастер создания вычисляемого куба">
+    <param name="Local" value="Cube/CreateCube/Master_Calculation/UiMd_Cube_CreateCube_Master_Calculation.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Представление-куб">
+    <param name="Name" value="Мастер создания представления-куба">
+    <param name="Local" value="Cube/CreateCube/Master_Conception/UiMd_Cube_CreateCube_Master_Conception.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Стандартный куб">
+    <param name="Name" value="Мастер создания стандартного куба">
+    <param name="Local" value="Cube/CreateCube/Master_Standart/UiMd_Cube_CreateCube_Master_Standart.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Виртуальный куб">
+    <param name="Name" value="Виртуальный куб">
+    <param name="Local" value="Cube/CreateCube/Master_Virtual_Cube/UiMd_Cube_CreateCube_Master_Virtual.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Hive">
+    <param name="Name" value="Работа с источником данных Hive">
+    <param name="Local" value="database/UiDb_Hive.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Импорт данных">
+    <param name="Name" value="Импорт данных">
+    <param name="Local" value="Data_import_wizard/Data_import_wizard.htm">
+    <param name="Name" value="Наполнение справочника данными">
+    <param name="Local" value="reference_book/Work/Work_Elements.htm#import">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Выбор источника">
+      <param name="Name" value="Выбор источника: Импорт данных">
+      <param name="Local" value="Data_import_wizard/Select_and_configure_the_data_source.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Настройка кросс-таблицы">
+      <param name="Name" value="Настройка кросс-таблицы: Импорт данных">
+      <param name="Local" value="Data_import_wizard/Cross_Table.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Дополнительные настройки">
+      <param name="Name" value="Дополнительные настройки: Импорт данных">
+      <param name="Local" value="Data_import_wizard/additional_settings.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Выбор приёмника и импорт данных">
+      <param name="Name" value="Выбор приёмника данных: Импорт данных">
+      <param name="Local" value="Data_import_wizard/Select_consumer.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Преобразование данных">
+      <param name="Name" value="Корректировка данных: Импорт данных">
+      <param name="Local" value="Data_import_wizard/Adjust_Data.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Настройка многомерной структуры">
+      <param name="Name" value="Корректировка измерений: Импорт данных">
+      <param name="Local" value="Data_import_wizard/Adjust_Dimensions.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Связь измерений с существующими справочниками">
+      <param name="Name" value="Связь измерений с существующими справочниками: Импорт данных">
+      <param name="Local" value="Data_import_wizard/Compare_source_fields_with_consumer_fields.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Просмотр конфликтов импорта данных">
+      <param name="Name" value="Конфликты импорта данных: Импорт данных">
+      <param name="Local" value="Data_import_wizard/conflict_imports.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Требования к файлам">
+      <param name="Name" value="Требования к файлам: Импорт данных">
+      <param name="Local" value="Data_import_wizard/file_requirements.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Фиксация несопоставленных измерений">
+      <param name="Name" value="Фиксация несопоставленных измерений: Импорт данных">
+      <param name="Local" value="Data_import_wizard/Fix_unmapped_dimensions.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Особенности импорта в существующие справочники">
+      <param name="Name" value="Особенности импорта в существующие справочники: Импорт данных">
+      <param name="Local" value="Data_import_wizard/Features_Import_Into_An_Existing_Dimensions.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Сопоставление полей источника с полями существующего приёмника">
+      <param name="Name" value="Сопоставление полей с полями существующего приёмника: Импорт данных">
+      <param name="Local" value="Data_import_wizard/Map_source_fields_with_existing_consumer_fields.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Настройка справочников">
+      <param name="Name" value="Настройка справочников: Импорт данных">
+      <param name="Local" value="Data_import_wizard/Directories_Result.htm">
+    </object>
+    </ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Кросс-таблица">
+    <param name="Name" value="Настройка кросс-таблицы: Импорт данных">
+    <param name="Local" value="Data_import_wizard/Cross_Table.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Дополнительные настройки">
+    <param name="Name" value="Дополнительные настройки: Импорт данных">
+    <param name="Local" value="Data_import_wizard/additional_settings.htm">
+    <param name="Name" value="Дополнительные настройки: База данных">
+    <param name="Local" value="database/database_additional_adjustment.htm">
+    <param name="Name" value="Дополнительные настройки: Стандартный куб">
+    <param name="Local" value="Cube/CreateCube/Master_Standart/Additional_Settings.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Требования к файлам">
+    <param name="Name" value="Требования к файлам: Импорт данных">
+    <param name="Local" value="Data_import_wizard/file_requirements.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Конфликты импорта данных">
+    <param name="Name" value="Конфликты импорта данных: Импорт данных">
+    <param name="Local" value="Data_import_wizard/conflict_imports.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Выбор источника">
+    <param name="Name" value="Выбор источника: Импорт данных">
+    <param name="Local" value="Data_import_wizard/Select_and_configure_the_data_source.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Индексы таблицы">
+    <param name="Name" value="Страница «Индексы таблицы»">
+    <param name="Local" value="conception/Master/UiDb_relational_conception_master_index.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ADOMD">
+    <param name="Name" value="Подключение к SAP">
+    <param name="Local" value="ADOMD/UiDb_relational_ADOMD.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Единицы измерения">
+    <param name="Name" value="Единицы измерения и меры">
+    <param name="Local" value="Units/Units.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Агрегация">
+    <param name="Name" value="Агрегация данных">
+    <param name="Local" value="Cube/Agregation.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Вычисляемые поля">
+    <param name="Name" value="Корректировка данных: Импорт данных">
+    <param name="Local" value="Data_import_wizard/Adjust_Data.htm#calculated_fields">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Существующий приёмник">
+    <param name="Name" value="Выбор приёмника данных: Импорт данных">
+    <param name="Local" value="Data_import_wizard/Select_consumer.htm#existing_receiver">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Новый приёмник">
+    <param name="Name" value="Выбор приёмника данных: Импорт данных">
+    <param name="Local" value="Data_import_wizard/Select_consumer.htm#new_receiver">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Импорт в куб">
+    <param name="Name" value="Мастер импорта данных">
+    <param name="Local" value="Data_import_wizard/Data_import_wizard.htm#import_cube">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Импорт в базу данных временных рядов">
+    <param name="Name" value="Мастер импорта данных">
+    <param name="Local" value="Data_import_wizard/Data_import_wizard.htm#import_tsdb">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Альтернативная иерархия">
+    <param name="Name" value="Иерархия справочника">
+    <param name="Local" value="reference_book/UiMd_reference_book_Hierarchy.htm#alternativehierarchy">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Мастер составного табличного справочника НСИ">
+    <param name="Name" value="Мастер составного табличного справочника НСИ">
+    <param name="Local" value="reference_book/Master_Composite_Table_reference_book/Master_CompositeTable.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Управление формулами">
+    <param name="Name" value="Страница «Управление формулами»: Вычисляемый куб">
+    <param name="Local" value="Cube/CreateCube/Master_Calculation/UiMd_Cube_CreateCube_Master_Calculation_3.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Наборы данных">
+    <param name="Name" value="Наборы данных">
+    <param name="Local" value="Table/Master/object_type_page.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Фильтрация данных">
+    <param name="Name" value="Фильтрация данных">
+    <param name="Local" value="Table/Work/UiDb_relational_table_work_Filter.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Мастер создания присоединенной таблицы">
+    <param name="Name" value="Назначение и основные возможности: Присоединенная таблица">
+    <param name="Local" value="Attach_table/UiDb_relational_AttachTable.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Мастер создания представления">
+    <param name="Name" value="Назначение и основные возможности: Представление">
+    <param name="Local" value="conception/UiDb_relational_conception.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Мастер создания запросов">
+    <param name="Name" value="Назначение и основные возможности: Запрос">
+    <param name="Local" value="Query/Query.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Мастер создания журнала">
+    <param name="Name" value="Назначение и основные возможности: Журнал">
+    <param name="Local" value="journal/UiDb_relational_journal.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Мастер создания базы данных">
+    <param name="Name" value="Назначение и основные возможности: База данных">
+    <param name="Local" value="database/UiDb_database.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Мастер создания команды СУБД">
+    <param name="Name" value="Назначение и основные возможности: Команда СУБД">
+    <param name="Local" value="CUBD/UiDb_relationa_CUBD.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Мастер создания процедуры">
+    <param name="Name" value="Назначение и основные возможности: Процедура">
+    <param name="Local" value="procedure/UiDb_relationa_procedure.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Мастер создания репозитория НСИ">
+    <param name="Name" value="Назначение и основные возможности: Репозиторий НСИ">
+    <param name="Local" value="repository_RDS/RepositoryRDS.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Настройка справочников">
+    <param name="Name" value="Настройка справочников: Импорт данных">
+    <param name="Local" value="Data_import_wizard/Directories_Result.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Other_objects">
+    <param name="Name" value="UiNavObj_Other_objects">
+    <param name="Local" value="UiNavObj_Other_objects.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Куб">
+    <param name="Name" value="Кубы">
+    <param name="Local" value="Cube/CreateCube/UiMd_Cube_CreateCube.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="База данных временных рядов">
+    <param name="Name" value="База данных временных рядов">
+    <param name="Local" value="TimeSeriesDatabase/CreateTimeSeriesDatabase.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Выбор репозитория НСИ">
+      <param name="Name" value="Выбор репозитория НСИ: База данных временных рядов">
+      <param name="Local" value="TimeSeriesDatabase/ChooseNSI.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Настройка атрибутов">
+      <param name="Name" value="Настройка атрибутов: База данных временных рядов">
+      <param name="Local" value="TimeSeriesDatabase/TS_Attributes.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Настройка календаря">
+      <param name="Name" value="Настройка календаря: База данных временных рядов">
+      <param name="Local" value="TimeSeriesDatabase/TS_Calendar.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Создание индексов">
+      <param name="Name" value="Создание индексов: База данных временных рядов">
+      <param name="Local" value="TimeSeriesDatabase/TS_Indexes.htm">
+    </object>
+    </ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Атрибуты">
+    <param name="Name" value="Настройка атрибутов: База данных временных рядов">
+    <param name="Local" value="TimeSeriesDatabase/TS_Attributes.htm">
+    <param name="Name" value="Страница «Атрибуты»: Справочник НСИ">
+    <param name="Local" value="reference_book/Master_RDS_reference_book/Attributes.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Календарь">
+    <param name="Name" value="Настройка календаря: База данных временных рядов">
+    <param name="Local" value="TimeSeriesDatabase/TS_Calendar.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Табличный справочник">
+    <param name="Name" value="Табличный справочник">
+    <param name="Local" value="reference_book/Master_Table_reference_book/Master_Table.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Календарный справочник">
+    <param name="Name" value="Мастер календарного справочника">
+    <param name="Local" value="reference_book/Master_Calendar_reference_book/Master_Calendar.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Вычисляемый справочник">
+    <param name="Name" value="Вычисляемый справочник">
+    <param name="Local" value="reference_book/Master_Calculation_reference_book/Master_Calculation.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Справочник НСИ">
+    <param name="Name" value="Справочник НСИ">
+    <param name="Local" value="reference_book/Master_RDS_reference_book/Master_RDS.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Составной справочник НСИ">
+    <param name="Name" value="Составной справочник НСИ">
+    <param name="Local" value="reference_book/Master_Composite_Table_reference_book/Master_CompositeTable.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Контейнер">
+    <param name="Name" value="Контейнер">
+    <param name="Local" value="Container/Container.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="НСИ">
+    <param name="Name" value="Справочник НСИ">
+    <param name="Local" value="reference_book/Master_RDS_reference_book/Master_RDS.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Microsoft Analysis Services">
+    <param name="Name" value="Подключение к Microsoft Analysis Services">
+    <param name="Local" value="ADOMD/Connect_to_Microsoft_Analysis_Services.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="SAP NetWeaver BW">
+    <param name="Name" value="Подключение к SAP NetWeaver BW">
+    <param name="Local" value="ADOMD/Connect_to_SAP_NetWeaver_BW.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="SAP HANA">
+    <param name="Name" value="Подключение к SAP HANA">
+    <param name="Local" value="ADOMD/Connect_to_SAP_HANA.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IIF">
+    <param name="Name" value="Редактор формул вычисляемого куба">
+    <param name="Local" value="equation_editor/UiMd_Equation_editor_CalculationCube.htm">
+    <param name="Name" value="Примеры: Редактор формул">
+    <param name="Local" value="equation_editor/EE_samples.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="LAGVAL">
+    <param name="Name" value="Редактор формул вычисляемого куба">
+    <param name="Local" value="equation_editor/UiMd_Equation_editor_CalculationCube.htm">
+    <param name="Name" value="Примеры: Редактор формул">
+    <param name="Local" value="equation_editor/EE_samples.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Подключение к SAP">
+    <param name="Name" value="Подключение к SAP">
+    <param name="Local" value="ADOMD/UiDb_relational_ADOMD.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="SAP HANA">
+      <param name="Name" value="Подключение к SAP HANA">
+      <param name="Local" value="ADOMD/Connect_to_SAP_HANA.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="SAP NetWeaver BW">
+      <param name="Name" value="Подключение к SAP NetWeaver BW">
+      <param name="Local" value="ADOMD/Connect_to_SAP_NetWeaver_BW.htm">
+    </object>
+    </ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Использование операций +, -, *, /">
+    <param name="Name" value="Примеры: Редактор формул">
+    <param name="Local" value="equation_editor/EE_samples.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Редактор формул">
+    <param name="Name" value="Редактор формул">
+    <param name="Local" value="equation_editor/UiMd_Equation_editor.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Сегменты куба">
+    <param name="Name" value="Сегменты куба">
+    <param name="Local" value="Cube/segments/segments.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="База данных">
+      <param name="Name" value="База данных: Сегменты куба">
+      <param name="Local" value="Cube/segments/seg_bd.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Сегменты">
+      <param name="Name" value="Сегменты: Сегменты куба">
+      <param name="Local" value="Cube/segments/seg_list.htm">
+    </object>
+    </ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Базовые свойства">
+    <param name="Name" value="Страница «Базовые свойства»: Загрузчик данных">
+    <param name="Local" value="Cube/Work_Cube/Loader/base_settings.htm">
+    <param name="Name" value="Страница «Базовые свойства»: Многомерный расчет на сервере БД">
+    <param name="Local" value="Cube/Work_Cube/base_settings.htm">
+    <param name="Name" value="Страница «Базовые свойства»: Автоматический куб">
+    <param name="Local" value="Cube/CreateCube/Master_Auto/base_settings.htm">
+    <param name="Name" value="Страница «Базовые настройки»: Вычисляемый куб">
+    <param name="Local" value="Cube/CreateCube/Master_Calculation/base_settings.htm">
+    <param name="Name" value="Страница «Базовые настройки»: Стандартный куб">
+    <param name="Local" value="Cube/CreateCube/Master_Standart/base_settings.htm">
+    <param name="Name" value="Страница «Базовые настройки»: Виртуальный куб">
+    <param name="Local" value="Cube/CreateCube/Master_Virtual_Cube/base_settings.htm">
+    <param name="Name" value="Страница «Базовые настройки»: Представление-куб">
+    <param name="Local" value="Cube/CreateCube/Master_Conception/base_settings.htm">
+    <param name="Name" value="Страница «Базовые настройки»: Вычисляемый справочник">
+    <param name="Local" value="reference_book/Master_Calculation_reference_book/base_settings.htm">
+    <param name="Name" value="Страница «Базовые настройки»: Календарный справочник">
+    <param name="Local" value="reference_book/Master_Calendar_reference_book/base_settings.htm">
+    <param name="Name" value="Страница «Базовые настройки»: Табличный справочник">
+    <param name="Local" value="reference_book/Master_Table_reference_book/base_settings.htm">
+    <param name="Name" value="Страница «Базовые свойства»: Справочник НСИ">
+    <param name="Local" value="reference_book/Master_RDS_reference_book/base_settings.htm">
+    <param name="Name" value="Страница «Базовые свойства»: Составной справочник НСИ">
+    <param name="Local" value="reference_book/Master_Composite_Table_reference_book/base_settings.htm">
+    <param name="Name" value="Базовые настройки: База данных">
+    <param name="Local" value="database/base_settings.htm">
+    <param name="Name" value="Страница «Базовые настройки»: Журнал">
+    <param name="Local" value="journal/Master/base_settings.htm">
+    <param name="Name" value="Страница «Базовые настройки»: Процедура">
+    <param name="Local" value="procedure/base_settings.htm">
+    <param name="Name" value="Страница «Базовые настройки»: Таблица">
+    <param name="Local" value="Table/Master/base_settings.htm">
+    <param name="Name" value="Страница «Базовые настройки»: Присоединенная таблица">
+    <param name="Local" value="Attach_table/Master/base_settings.htm">
+    <param name="Name" value="Страница «Базовые свойства»: Источник данных ODBC">
+    <param name="Local" value="ODBC/Master/base_settings.htm">
+    <param name="Name" value="Страница «Базовые настройки»: Запрос">
+    <param name="Local" value="Query/Master/base_settings.htm">
+    <param name="Name" value="Страница «Базовые настройки»: Представление">
+    <param name="Local" value="conception/Master/base_settings.htm">
+    <param name="Name" value="Страница «Базовые настройки»: Команда СУБД">
+    <param name="Local" value="CUBD/base_settings.htm">
+    <param name="Name" value="Задание базовых свойств: База данных временных рядов">
+    <param name="Local" value="TimeSeriesDatabase/base_settings.htm">
+    <param name="Name" value="Страница «Базовые настройки»: Связь с репозиторием">
+    <param name="Local" value="Link_with/base_settings.htm">
+    <param name="Name" value="Страница «Базовые настройки» (Упрощённый режим): Табличный справочник">
+    <param name="Local" value="reference_book/Master_Table_reference_book/base_settings_simple.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Параметры">
+    <param name="Name" value="Страница «Параметры»: Загрузчик данных">
+    <param name="Local" value="Cube/Work_Cube/Loader/parameters.htm">
+    <param name="Name" value="Страница «Параметры»: Многомерный расчет на сервере БД">
+    <param name="Local" value="Cube/Work_Cube/parameters.htm">
+    <param name="Name" value="Страница «Параметры»: Автоматический куб">
+    <param name="Local" value="Cube/CreateCube/Master_Auto/parameters.htm">
+    <param name="Name" value="Страница «Параметры»: Вычисляемый куб">
+    <param name="Local" value="Cube/CreateCube/Master_Calculation/parameters.htm">
+    <param name="Name" value="Страница «Параметры»: Стандартный куб">
+    <param name="Local" value="Cube/CreateCube/Master_Standart/parameters.htm">
+    <param name="Name" value="Страница «Параметры»: Виртуальный куб">
+    <param name="Local" value="Cube/CreateCube/Master_Virtual_Cube/parameters.htm">
+    <param name="Name" value="Страница «Параметры»: Представление-куб">
+    <param name="Local" value="Cube/CreateCube/Master_Conception/parameters.htm">
+    <param name="Name" value="Страница «Параметры»: Вычисляемый справочник">
+    <param name="Local" value="reference_book/Master_Calculation_reference_book/parameters.htm">
+    <param name="Name" value="Страница «Параметры»: Табличный справочник">
+    <param name="Local" value="reference_book/Master_Table_reference_book/parameters.htm">
+    <param name="Name" value="Страница «Параметры»: Процедура">
+    <param name="Local" value="procedure/parameters.htm">
+    <param name="Name" value="Страница «Параметры»: Таблица">
+    <param name="Local" value="Table/Master/parameters.htm">
+    <param name="Name" value="Страница «Параметры»: Присоединенная таблица">
+    <param name="Local" value="Attach_table/Master/parameters.htm">
+    <param name="Name" value="Страница «Параметры»: Источник данных ODBC">
+    <param name="Local" value="ODBC/Master/parameters.htm">
+    <param name="Name" value="Страница «Параметры»: Запрос">
+    <param name="Local" value="Query/Master/parameters.htm">
+    <param name="Name" value="Страница «Параметры»: Представление">
+    <param name="Local" value="conception/Master/parameters.htm">
+    <param name="Name" value="Страница «Параметры»: Команда СУБД">
+    <param name="Local" value="CUBD/parameters.htm">
+    <param name="Name" value="Страница «Параметры» (Упрощённый режим): Табличный справочник">
+    <param name="Local" value="reference_book/Master_Table_reference_book/parameters_simple.htm">
+    <param name="Name" value="Страница «Параметры»: Справочник НСИ">
+    <param name="Local" value="reference_book/Master_RDS_reference_book/Parameters.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Базовые настройки">
+    <param name="Name" value="Страница «Базовые настройки»: Вычисляемый куб">
+    <param name="Local" value="Cube/CreateCube/Master_Calculation/base_settings.htm">
+    <param name="Name" value="Страница «Базовые настройки»: Стандартный куб">
+    <param name="Local" value="Cube/CreateCube/Master_Standart/base_settings.htm">
+    <param name="Name" value="Страница «Базовые настройки»: Виртуальный куб">
+    <param name="Local" value="Cube/CreateCube/Master_Virtual_Cube/base_settings.htm">
+    <param name="Name" value="Страница «Базовые настройки»: Предствление-куб">
+    <param name="Local" value="Cube/CreateCube/Master_Conception/base_settings.htm">
+    <param name="Name" value="Страница «Базовые настройки»: Вычисляемый справочник">
+    <param name="Local" value="reference_book/Master_Calculation_reference_book/base_settings.htm">
+    <param name="Name" value="Страница «Базовые настройки»: Календарный справочник">
+    <param name="Local" value="reference_book/Master_Calendar_reference_book/base_settings.htm">
+    <param name="Name" value="Страница «Базовые настройки»: Табличный справочник">
+    <param name="Local" value="reference_book/Master_Table_reference_book/base_settings.htm">
+    <param name="Name" value="Базовые настройки: База данных">
+    <param name="Local" value="database/base_settings.htm">
+    <param name="Name" value="Страница «Базовые настройки»: Журнал">
+    <param name="Local" value="journal/Master/base_settings.htm">
+    <param name="Name" value="Страница «Базовые настройки»: Процедура">
+    <param name="Local" value="procedure/base_settings.htm">
+    <param name="Name" value="Страница «Базовые настройки»: Таблица">
+    <param name="Local" value="Table/Master/base_settings.htm">
+    <param name="Name" value="Страница «Базовые настройки»: Присоединенная таблица">
+    <param name="Local" value="Attach_table/Master/base_settings.htm">
+    <param name="Name" value="Страница «Базовые свойства»: Источник данных ODBC">
+    <param name="Local" value="ODBC/Master/base_settings.htm">
+    <param name="Name" value="Страница «Базовые настройки»: Запрос">
+    <param name="Local" value="Query/Master/base_settings.htm">
+    <param name="Name" value="Страница «Базовые настройки»: Представление">
+    <param name="Local" value="conception/Master/base_settings.htm">
+    <param name="Name" value="Страница «Базовые настройки»: Команда СУБД">
+    <param name="Local" value="CUBD/base_settings.htm">
+    <param name="Name" value="Страница «Базовые настройки»: Связь с репозиторием">
+    <param name="Local" value="Link_with/base_settings.htm">
+    <param name="Name" value="Страница «Базовые настройки» (Упрощённый режим): Табличный справочник">
+    <param name="Local" value="reference_book/Master_Table_reference_book/base_settings_simple.htm">
+    <param name="Name" value="Страница «Базовые настройки»: Справочник НСИ">
+    <param name="Local" value="reference_book/Master_RDS_reference_book/base_settings.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Изменение запроса к базе данных">
+    <param name="Name" value="Изменение запроса к базе данных">
+    <param name="Local" value="Table/Work/Changing_Database_Query.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Работа со справочником">
+    <param name="Name" value="Работа со справочником">
+    <param name="Local" value="reference_book/Work/Work_Dictionary.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Мастер создания справочника">
+    <param name="Name" value="Создание справочников">
+    <param name="Local" value="reference_book/Create.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Добавление атрибутов">
+    <param name="Name" value="Страница «Атрибуты»: Справочник НСИ">
+    <param name="Local" value="reference_book/Master_RDS_reference_book/Attributes.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Обычный атрибут">
+    <param name="Name" value="Свойства обычного атрибута">
+    <param name="Local" value="reference_book/Master_RDS_reference_book/Attributes/Attribute.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Добавление атрибута">
+    <param name="Name" value="Свойства обычного атрибута">
+    <param name="Local" value="reference_book/Master_RDS_reference_book/Attributes/Attribute.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Атрибут">
+    <param name="Name" value="Страница «Атрибуты»: Справочник НСИ">
+    <param name="Local" value="reference_book/Master_RDS_reference_book/Attributes.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Заимствованный атрибут">
+    <param name="Name" value="Свойства заимствованного атрибута">
+    <param name="Local" value="reference_book/Master_RDS_reference_book/Attributes/Imported_Attribute.htm">
+    <param name="Name" value="Как создать заимствованный атрибут?">
+    <param name="Local" value="reference_book/FAQ/ImportedAttribute_Create.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Свойства заимствованного атрибута">
+    <param name="Name" value="Свойства заимствованного атрибута">
+    <param name="Local" value="reference_book/Master_RDS_reference_book/Attributes/Imported_Attribute.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Добавление заимствованного атрибута">
+    <param name="Name" value="Свойства заимствованного атрибута">
+    <param name="Local" value="reference_book/Master_RDS_reference_book/Attributes/Imported_Attribute.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Настройка прав доступа">
+    <param name="Name" value="Настройка прав доступа">
+    <param name="Local" value="reference_book/Master_RDS_reference_book/Attributes/Access_Permissions.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Права доступа">
+    <param name="Name" value="Настройка прав доступа">
+    <param name="Local" value="reference_book/Master_RDS_reference_book/Attributes/Access_Permissions.htm">
+    <param name="Name" value="Разграничение прав доступа">
+    <param name="Local" value="reference_book/Work/Access_Elements.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Работа с табличным набором данных">
+    <param name="Name" value="Работа с табличным набором данных">
+    <param name="Local" value="Table/Work/UiDb_relational_table_work.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Добавление параметров">
+    <param name="Name" value="Страница «Параметры»: Справочник НСИ">
+    <param name="Local" value="reference_book/Master_RDS_reference_book/Parameters.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Связи">
+    <param name="Name" value="Страница «Связи»: Справочник НСИ">
+    <param name="Local" value="reference_book/Master_RDS_reference_book/Link.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Создание связей">
+    <param name="Name" value="Страница «Связи»: Справочник НСИ">
+    <param name="Local" value="reference_book/Master_RDS_reference_book/Link.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Свойства связи">
+    <param name="Name" value="Свойства связи">
+    <param name="Local" value="reference_book/Master_RDS_reference_book/Link_Property.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Связь">
+    <param name="Name" value="Свойства связи">
+    <param name="Local" value="reference_book/Master_RDS_reference_book/Link_Property.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Уникальные ключи">
+    <param name="Name" value="Страница «Уникальные ключи»: Справочник НСИ">
+    <param name="Local" value="reference_book/Master_RDS_reference_book/Unique_Keys.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Добавление уникальных ключей">
+    <param name="Name" value="Страница «Уникальные ключи»: Справочник НСИ">
+    <param name="Local" value="reference_book/Master_RDS_reference_book/Unique_Keys.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Неуникальные ключи">
+    <param name="Name" value="Страница «Неуникальные ключи»: Справочник НСИ">
+    <param name="Local" value="reference_book/Master_RDS_reference_book/Non_Unique_Keys.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Добавление неуникальных ключей">
+    <param name="Name" value="Страница «Неуникальные ключи»: Справочник НСИ">
+    <param name="Local" value="reference_book/Master_RDS_reference_book/Non_Unique_Keys.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Создание схем импорта/экспорта">
+    <param name="Name" value="Создание схем импорта/экспорта">
+    <param name="Local" value="reference_book/Master_RDS_reference_book/Import.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Импорт">
+    <param name="Name" value="Создание схем импорта/экспорта">
+    <param name="Local" value="reference_book/Master_RDS_reference_book/Import.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Экспорт">
+    <param name="Name" value="Создание схем импорта/экспорта">
+    <param name="Local" value="reference_book/Master_RDS_reference_book/Import.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Уровни">
+    <param name="Name" value="Страница «Уровни»: Справочник НСИ">
+    <param name="Local" value="reference_book/Master_RDS_reference_book/Level.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Создание уровней">
+    <param name="Name" value="Страница «Уровни»: Справочник НСИ">
+    <param name="Local" value="reference_book/Master_RDS_reference_book/Level.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Управление параметрами вложенных элементов">
+    <param name="Name" value="Управление параметрами вложенных элементов">
+    <param name="Local" value="reference_book/Master_RDS_reference_book/Manage_Nested_Object_Parameters.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Управление субъектами доступа">
+    <param name="Name" value="Управление субъектами доступа">
+    <param name="Local" value="reference_book/Master_RDS_reference_book/Access_Subjects.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Субъекты доступа">
+    <param name="Name" value="Управление субъектами доступа">
+    <param name="Local" value="reference_book/Master_RDS_reference_book/Access_Subjects.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Выбор источников данных">
+    <param name="Name" value="Выбор источников данных">
+    <param name="Local" value="reference_book/Master_Composite_Table_reference_book/Sources.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Источники">
+    <param name="Name" value="Выбор источников данных">
+    <param name="Local" value="reference_book/Master_Composite_Table_reference_book/Sources.htm">
+    <param name="Name" value="Страница «Источники»: Виртуальный куб">
+    <param name="Local" value="Cube/CreateCube/Master_Virtual_Cube/UiMd_Cube_CreateCube_Master_Virtual_1.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Замена предустановленного вида диалога">
+    <param name="Name" value="Замена предустановленного вида диалога">
+    <param name="Local" value="reference_book/Master_RDS_reference_book/Element_Card.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Карточка">
+    <param name="Name" value="Замена предустановленного вида диалога">
+    <param name="Local" value="reference_book/Master_RDS_reference_book/Element_Card.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Как создать заимствованный атрибут?">
+    <param name="Name" value="Как создать заимствованный атрибут?">
+    <param name="Local" value="reference_book/FAQ/ImportedAttribute_Create.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Пользовательский вид диалога «Свойства элемента справочника»">
+    <param name="Name" value="Как создать пользовательский вид диалога «Свойства элемента справочника»?">
+    <param name="Local" value="reference_book/FAQ/Create_custom_view.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Свойства элемента справочника">
+    <param name="Name" value="Как создать пользовательский вид диалога «Свойства элемента справочника»?">
+    <param name="Local" value="reference_book/FAQ/Create_custom_view.htm">
+    <param name="Name" value="Наполнение справочника данными">
+    <param name="Local" value="reference_book/Work/Work_Elements.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Как управлять версиями элементов?">
+    <param name="Name" value="Как управлять версиями элементов?">
+    <param name="Local" value="reference_book/FAQ/UiRds_Work_RDS_Elements_work_2.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Версии элементов">
+    <param name="Name" value="Как управлять версиями элементов?">
+    <param name="Local" value="reference_book/FAQ/UiRds_Work_RDS_Elements_work_2.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Как управлять параметрами справочника?">
+    <param name="Name" value="Как управлять параметрами справочника?">
+    <param name="Local" value="reference_book/FAQ/Dictionary_parameters_control.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Параметры справочника">
+    <param name="Name" value="Как управлять параметрами справочника?">
+    <param name="Local" value="reference_book/FAQ/Dictionary_parameters_control.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Версионный справочник">
+    <param name="Name" value="Как управлять версиями элементов?">
+    <param name="Local" value="reference_book/FAQ/UiRds_Work_RDS_Elements_work_2.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Дата актуальности">
+    <param name="Name" value="Как управлять версиями элементов?">
+    <param name="Local" value="reference_book/FAQ/UiRds_Work_RDS_Elements_work_2.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Изменение периода действия версии">
+    <param name="Name" value="Как управлять версиями элементов?">
+    <param name="Local" value="reference_book/FAQ/UiRds_Work_RDS_Elements_work_2.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Работа с версионным справочником">
+    <param name="Name" value="Как управлять версиями элементов?">
+    <param name="Local" value="reference_book/FAQ/UiRds_Work_RDS_Elements_work_2.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Ручное формирование периода действия элементов">
+    <param name="Name" value="Как управлять версиями элементов?">
+    <param name="Local" value="reference_book/FAQ/UiRds_Work_RDS_Elements_work_2.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Элементы могут изменяться во времени">
+    <param name="Name" value="Страница «Базовые настройки»: Справочник НСИ">
+    <param name="Local" value="reference_book/Master_RDS_reference_book/base_settings.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Элементы имеют иерархию">
+    <param name="Name" value="Страница «Базовые настройки»: Справочник НСИ">
+    <param name="Local" value="reference_book/Master_RDS_reference_book/base_settings.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Переводить справочник на другие языки">
+    <param name="Name" value="Страница «Базовые настройки»: Справочник НСИ">
+    <param name="Local" value="reference_book/Master_RDS_reference_book/base_settings.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Элементы имеют GUID">
+    <param name="Name" value="Страница «Базовые настройки»: Справочник НСИ">
+    <param name="Local" value="reference_book/Master_RDS_reference_book/base_settings.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Элементы имеют дискреционные права доступа">
+    <param name="Name" value="Страница «Базовые настройки»: Справочник НСИ">
+    <param name="Local" value="reference_book/Master_RDS_reference_book/base_settings.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Элементы имеют мандатные права доступа">
+    <param name="Name" value="Страница «Базовые настройки»: Справочник НСИ">
+    <param name="Local" value="reference_book/Master_RDS_reference_book/base_settings.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Элементы имеют атрибутные права доступа">
+    <param name="Name" value="Страница «Базовые настройки»: Справочник НСИ">
+    <param name="Local" value="reference_book/Master_RDS_reference_book/base_settings.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Элементы имеют признак скрытости">
+    <param name="Name" value="Страница «Базовые настройки»: Справочник НСИ">
+    <param name="Local" value="reference_book/Master_RDS_reference_book/base_settings.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Отслеживать ссылки на элементы из других объектов">
+    <param name="Name" value="Страница «Базовые настройки»: Справочник НСИ">
+    <param name="Local" value="reference_book/Master_RDS_reference_book/base_settings.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Разрешить добавление дубликатов из источников">
+    <param name="Name" value="Страница «Базовые настройки»: Справочник НСИ">
+    <param name="Local" value="reference_book/Master_RDS_reference_book/base_settings.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Работа с элементами через буфер обмена">
+    <param name="Name" value="Работа с элементами через буфер обмена">
+    <param name="Local" value="reference_book/Work/Copy_Elements.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Операции с элементами">
+    <param name="Name" value="Работа с элементами через буфер обмена">
+    <param name="Local" value="reference_book/Work/Copy_Elements.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Удаление элемента">
+    <param name="Name" value="Наполнение справочника данными">
+    <param name="Local" value="reference_book/Work/Work_Elements.htm#del_element">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Разграничение прав доступа">
+    <param name="Name" value="Разграничение прав доступа">
+    <param name="Local" value="reference_book/Work/Access_Elements.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Пример настройки агрегации данных в кубах и отчётах">
+    <param name="Name" value="Пример настройки агрегации данных в кубах и отчётах">
+    <param name="Local" value="Cube/Cube_Example_Aggregation.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Настройка агрегации данных в кубах и отчётах">
+    <param name="Name" value="Пример настройки агрегации данных в кубах и отчётах">
+    <param name="Local" value="Cube/Cube_Example_Aggregation.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Настройка агрегации данных">
+    <param name="Name" value="Пример настройки агрегации данных в кубах и отчётах">
+    <param name="Local" value="Cube/Cube_Example_Aggregation.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Добавление элемента">
+    <param name="Name" value="Наполнение справочника данными">
+    <param name="Local" value="reference_book/Work/Work_Elements.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Экспорт данных">
+    <param name="Name" value="Наполнение справочника данными">
+    <param name="Local" value="reference_book/Work/Work_Elements.htm#export">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Редактирование элемента">
+    <param name="Name" value="Наполнение справочника данными">
+    <param name="Local" value="reference_book/Work/Work_Elements.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Экспорт справочника">
+    <param name="Name" value="Наполнение справочника данными">
+    <param name="Local" value="reference_book/Work/Work_Elements.htm#export">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Выбор схемы экспорта">
+    <param name="Name" value="Наполнение справочника данными">
+    <param name="Local" value="reference_book/Work/Work_Elements.htm#export">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Выбор схемы импорта">
+    <param name="Name" value="Наполнение справочника данными">
+    <param name="Local" value="reference_book/Work/Work_Elements.htm#import">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Наполнение справочника">
+    <param name="Name" value="Наполнение справочника данными">
+    <param name="Local" value="reference_book/Work/Work_Elements.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Вставка элемента">
+    <param name="Name" value="Работа с элементами справочника НСИ через буфер обмена">
+    <param name="Local" value="reference_book/Work/Copy_Elements.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Копирование элемента">
+    <param name="Name" value="Работа с элементами справочника НСИ через буфер обмена">
+    <param name="Local" value="reference_book/Work/Copy_Elements.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Перемещение элемента">
+    <param name="Name" value="Работа с элементами справочника НСИ через буфер обмена">
+    <param name="Local" value="reference_book/Work/Copy_Elements.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Очистка справочника">
+    <param name="Name" value="Наполнение справочника данными">
+    <param name="Local" value="reference_book/Work/Work_Elements.htm#rds_clean">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Поиск элементов справочника">
+    <param name="Name" value="Поиск элементов справочника">
+    <param name="Local" value="reference_book/Work/Search_Elements.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Результаты поиска">
+    <param name="Name" value="Поиск элементов справочника">
+    <param name="Local" value="reference_book/Work/Search_Elements.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Настройка отображения справочника">
+    <param name="Name" value="Настройка отображения справочника">
+    <param name="Local" value="reference_book/Work/Setting_Directory_View.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Выделение элемента">
+    <param name="Name" value="Выполнение операций с элементами">
+    <param name="Local" value="reference_book/Work/Operations_Elements.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Отметка элементов">
+    <param name="Name" value="Выполнение операций с элементами">
+    <param name="Local" value="reference_book/Work/Operations_Elements.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Обновление элементов">
+    <param name="Name" value="Выполнение операций с элементами">
+    <param name="Local" value="reference_book/Work/Operations_Elements.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Перемещение элементов">
+    <param name="Name" value="Выполнение операций с элементами">
+    <param name="Local" value="reference_book/Work/Operations_Elements.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Добавление элемента в обновление">
+    <param name="Name" value="Выполнение операций с элементами">
+    <param name="Local" value="reference_book/Work/Operations_Elements.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Варианты отображения">
+    <param name="Name" value="Страница «Варианты отображения»: Стандартный куб">
+    <param name="Local" value="Cube/CreateCube/Master_Standart/Display_Version_Options.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Извлечение данных">
+    <param name="Name" value="Страница «Дополнительные настройки»">
+    <param name="Local" value="Cube/CreateCube/Master_Standart/Additional_Settings.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Комментарии">
+    <param name="Name" value="Страница «Дополнительные настройки»">
+    <param name="Local" value="Cube/CreateCube/Master_Standart/Additional_Settings.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Хранить комментарии к данным">
+    <param name="Name" value="Страница «Дополнительные настройки»">
+    <param name="Local" value="Cube/CreateCube/Master_Standart/Additional_Settings.htm">
+  </object>
+</ul>
+</html>

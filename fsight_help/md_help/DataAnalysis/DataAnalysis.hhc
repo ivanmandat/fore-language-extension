@@ -1,0 +1,152 @@
+<html>
+<!-- Sitemap 1.0 -->
+<object type="text/site properties">
+  <param name="SiteType" value="toc">
+  <param name="Image Width" value="16">
+  <param name="Window Styles" value="0x800002">
+  <param name="ExWindow Styles" value="0x100">
+</object>
+<ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Анализ данных и построение отчётов">
+    <param name="Local" value="DataAnalysis_Title.htm">
+    <param name="x-condition" value="Online">
+  </object>
+  <ul>
+  </ul>
+  <object type="text/sitemap">
+    <param name="Name" value="DataEntryForms.chm::/DataEntryForms.hhc">
+    <param name="Merge" value="DataEntryForms.chm::/DataEntryForms.hhc" value2="../dataentryforms">
+  </object>
+  <ul>
+  </ul>
+  <object type="text/sitemap">
+    <param name="Name" value="CalculationAlgorithm.chm::/CalculationAlgorithm.hhc">
+    <param name="Merge" value="CalculationAlgorithm.chm::/CalculationAlgorithm.hhc" value2="../calculationalgorithm">
+  </object>
+  <ul>
+  </ul>
+  <object type="text/sitemap">
+    <param name="Name" value="UIReport.chm::/UIReport.hhc">
+    <param name="Merge" value="UIReport.chm::/UIReport.hhc" value2="../uireport">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Построение информационных панелей">
+      <param name="Local" value="Dashboard.htm">
+      <param name="x-condition" value="Online">
+    </object>
+    <ul>
+    </ul>
+    <object type="text/sitemap">
+      <param name="Name" value="UIDashboard.chm::/UIDashboard.hhc">
+      <param name="Merge" value="UIDashboard.chm::/UIDashboard.hhc" value2="../uidashboard">
+    </object>
+    <ul>
+      </ul>
+  </ul>
+  <object type="text/sitemap">
+    <param name="Name" value="UIExpress.chm::/UIExpress.hhc">
+    <param name="Merge" value="UIExpress.chm::/UIExpress.hhc" value2="../uiexpress">
+  </object>
+  <ul>
+  </ul>
+  <object type="text/sitemap">
+    <param name="Name" value="UIAdhoc.chm::/UIAdhoc.hhc">
+    <param name="Merge" value="UIAdhoc.chm::/UIAdhoc.hhc" value2="../uiadhoc">
+  </object>
+  <ul>
+  </ul>
+  <object type="text/sitemap">
+    <param name="Name" value="UiDw.chm::/UiDw.hhc">
+    <param name="Merge" value="UiDw.chm::/UiDw.hhc" value2="../uidw">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Визуализаторы данных">
+      <param name="Local" value="Visualizators.htm">
+      <param name="x-condition" value="Online">
+    </object>
+    <ul>
+    </ul>
+    <object type="text/sitemap">
+      <param name="Name" value="UiAnalyticalArea.chm::/UiAnalyticalArea.hhc">
+      <param name="Merge" value="UiAnalyticalArea.chm::/UiAnalyticalArea.hhc" value2="../uianalyticalarea">
+    </object>
+    <ul>
+    </ul>
+    <object type="text/sitemap">
+      <param name="Name" value="UiDiagrams.chm::/UiDiagrams.hhc">
+      <param name="Merge" value="UiDiagrams.chm::/UiDiagrams.hhc" value2="../uidiagrams">
+    </object>
+    <ul>
+    </ul>
+    <object type="text/sitemap">
+      <param name="Name" value="UiMaps.chm::/UiMaps.hhc">
+      <param name="Merge" value="UiMaps.chm::/UiMaps.hhc" value2="../uimaps">
+    </object>
+    <ul>
+    </ul>
+    <object type="text/sitemap">
+      <param name="Name" value="UiVisualizators.chm::/UiVisualizators.hhc">
+      <param name="Merge" value="UiVisualizators.chm::/UiVisualizators.hhc" value2="../uivisualizators">
+    </object>
+    <ul>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Плагины">
+      <param name="Local" value="Plugins/Plugins.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Создание плагина">
+        <param name="Local" value="Plugins/Create_Plugin.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Создание формы-визуализатора">
+          <param name="Local" value="Plugins/PluginViewForm.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Создание формы-мастера">
+          <param name="Local" value="Plugins/PluginMasterForm.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Подключение плагина к аналитической панели">
+        <param name="Local" value="Plugins/Connecting_Plugins_Dashboards.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Подключение плагина к регламентному отчёту">
+        <param name="Local" value="Plugins/Connecting_Plugins_Report.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Подключение пользовательских шаблонов диаграмм">
+        <param name="Local" value="Plugins/Custom/CustomDiagram.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Структура пользовательского шаблона диаграммы">
+          <param name="Local" value="Plugins/Custom/Svg_specification.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Подключение внешних картографических сервисов к карте">
+        <param name="Local" value="Plugins/Connecting_External_Services.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Решение проблем с геопривязкой при подключении внешних сервисов">
+          <param name="Local" value="Plugins/Problems_geolocation.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      </ul>
+    </ul>
+</ul>
+</html>

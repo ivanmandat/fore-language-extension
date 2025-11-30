@@ -1,0 +1,420 @@
+<html>
+<!-- Sitemap 1.0 -->
+<object type="text/site properties">
+  <param name="SiteType" value="toc">
+  <param name="Image Width" value="16">
+  <param name="Window Styles" value="0x800027">
+  <param name="ExWindow Styles" value="0x100">
+</object>
+<ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Таблица">
+    <param name="Local" value="Table.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Выделение элементов таблицы">
+      <param name="Local" value="Select_areas.htm">
+      <param name="ImageNumber" value="11">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Общие параметры таблицы">
+      <param name="Local" value="Parameters/Parameters.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Параметры таблицы данных в регламентном отчете">
+        <param name="Local" value="Parameters/Parameters.htm#report_params642b3b9347ca42c9b00b820c00c373fa=1">
+        <param name="ImageNumber" value="11">
+      </object>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Настройка внешнего вида таблицы">
+      <param name="Local" value="TableView/TableView.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Оформление таблицы и ее элементов">
+        <param name="Local" value="TableView/Formatting/Formatting_table.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Стили таблицы">
+          <param name="Local" value="TableView/Formatting/Table_styles.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Стиль элементов таблицы">
+            <param name="Local" value="TableView/Formatting/Table_Elements_Styles.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Настройка пользовательских стилей таблицы">
+            <param name="Local" value="TableView/Formatting/Custom_styles.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Настройка границ">
+          <param name="Local" value="TableView/Formatting/formattingBorders.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Настройка заливки">
+          <param name="Local" value="TableView/Formatting/formattingColor.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Настройка шрифта">
+          <param name="Local" value="TableView/Formatting/Font_settings.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Настройка формата данных">
+          <param name="Local" value="TableView/Formatting/Data_format.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Оформление измененных данных">
+          <param name="Local" value="TableView/Formatting/Format_changed_data.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Заполнение пустых и нулевых ячеек">
+          <param name="Local" value="TableView/Formatting/Empty_cells.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Размещение элементов таблицы">
+        <param name="Local" value="TableView/Layout/Layout.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Автоподгонка размера ячеек">
+        <param name="Local" value="TableView/Autofit_cells.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Масштабирование таблицы">
+        <param name="Local" value="TableView/Zoom.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Легенда метрик">
+        <param name="Local" value="TableView/Legend.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Настройка содержимого уголка таблицы">
+        <param name="Local" value="TableView/Corner_show_dims.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Отображение разметки таблицы">
+        <param name="Local" value="TableView/Mark_up.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Поворот таблицы">
+        <param name="Local" value="TableView/Rotate_table.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Отображение сносок в таблице">
+        <param name="Local" value="TableView/Table_footnotes.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Работа с данными таблицы">
+      <param name="Local" value="Working_with_table_data/Working_with_table_data.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Детализация и обобщение данных">
+        <param name="Local" value="Working_with_table_data/Drill_down.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Редактирование и сохранение данных">
+        <param name="Local" value="Working_with_table_data/Edit_and_save_data.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Исключение данных из таблицы">
+        <param name="Local" value="Working_with_table_data/Delete_data.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Настройка расчета формул">
+        <param name="Local" value="Working_with_table_data/FormulaCalculation.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Поиск и замена">
+        <param name="Local" value="Working_with_table_data/Search.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Сортировка">
+        <param name="Local" value="Working_with_table_data/Sorting_table_data.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Фильтрация">
+        <param name="Local" value="Working_with_table_data/Filtering.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Отображение пиктограмм в ячейках">
+        <param name="Local" value="TableView/Formatting/Cells_icons.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Копирование и вставка данных из буфера обмена">
+        <param name="Local" value="Working_with_table_data/Insert.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Работа с измерениями в таблице">
+      <param name="Local" value="Work_with_dimensions/Work_with_dimensions.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Изменение отметки из таблицы">
+        <param name="Local" value="Working_with_table_data/Change_selection.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Выделение измерения в таблице">
+        <param name="Local" value="Work_with_dimensions/Select_dimensions_elements_in_table.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Размещение элементов измерения">
+        <param name="Local" value="TableView/Layout/Layout_Dim.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Объединение измерений в боковике/шапке">
+          <param name="Local" value="TableView/Layout/Merging_Dimensions.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Отображение пользовательских экспандеров">
+          <param name="Local" value="TableView/Layout/User_expanders.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Расшифровка элементов измерения">
+        <param name="Local" value="Hyperlinks/Working_with_hyperlinks.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Подстановки расшифровки">
+          <param name="Local" value="Hyperlinks/Hyperlinks_sub.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Открытие объекта репозитория с параметрами">
+          <param name="Local" value="Hyperlinks/Open_objects_with_params.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Оформление измерений и уровней в таблице">
+        <param name="Local" value="TableView/Formatting/Formatting_dims.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Настройка метрик для таблицы">
+        <param name="Local" value="Work_with_dimensions/Table_metrics.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Фиксация элементов измерения в таблице">
+        <param name="Local" value="Work_with_dimensions/Fixing.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Вычисляемые элементы">
+        <param name="Local" value="Work_with_dimensions/Edited_elements.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Анализ данных в таблице">
+      <param name="Local" value="Analysis/Data_analysis_in_a_table.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Преобразование данных">
+        <param name="Local" value="Analysis/Convert_data.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Ранжирование данных">
+        <param name="Local" value="Analysis/Ranking_data.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Условное форматирование">
+        <param name="Local" value="Analysis/Conditional_formatting.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Быстрая настройка условного форматирования">
+          <param name="Local" value="Analysis/Format/Working_with_conditional_formatting.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Расширенная настройка условного форматирования">
+          <param name="Local" value="Analysis/Format/UiReport_Table_Attribute_Format_conditionParams.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Создание условия форматирования">
+            <param name="Local" value="Analysis/Format/UiReport_Table_Attribute_Format_conditionParams.htm#add642b3b9347ca42c9b00b820c00c373fa=1">
+            <param name="ImageNumber" value="11">
+            <param name="x-condition" value="Online,Public,Chm">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Редактирование условия форматирования">
+            <param name="Local" value="Analysis/Format/UiReport_Table_Attribute_Format_conditionParams.htm#move642b3b9347ca42c9b00b820c00c373fa=2">
+            <param name="ImageNumber" value="11">
+            <param name="x-condition" value="Online,Public,Chm">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Изменение порядка условия форматирования">
+            <param name="Local" value="Analysis/Format/UiReport_Table_Attribute_Format_conditionParams.htm#edit642b3b9347ca42c9b00b820c00c373fa=3">
+            <param name="ImageNumber" value="11">
+            <param name="x-condition" value="Online,Public,Chm">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Удаление условия форматирования">
+            <param name="Local" value="Analysis/Format/UiReport_Table_Attribute_Format_conditionParams.htm#delete642b3b9347ca42c9b00b820c00c373fa=4">
+            <param name="ImageNumber" value="11">
+            <param name="x-condition" value="Online,Public,Chm">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Доступные типы условия форматирования">
+            <param name="Local" value="Analysis/Format/UiReport_Table_Attribute_Format_conditionParams.htm#type_of_conditional_format642b3b9347ca42c9b00b820c00c373fa=5">
+            <param name="ImageNumber" value="11">
+            <param name="x-condition" value="Online,Public,Chm">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Форматировать ячейки на основе их значений">
+            <param name="Local" value="Analysis/Format/uireport_table_attribute_format_condition_1.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Форматировать ячейки с определенным значением">
+            <param name="Local" value="Analysis/Format/uireport_table_attribute_format_condition_2.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Форматировать ячейки с наибольшими/наименьшими значениями">
+            <param name="Local" value="Analysis/Format/uireport_table_attribute_format_condition_3.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Форматировать ячейки со значениями больше/меньше среднего">
+            <param name="Local" value="Analysis/Format/uireport_table_attribute_format_condition_4.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Форматировать ячейки с уникальными/повторяющимися значениями">
+            <param name="Local" value="Analysis/Format/uireport_table_attribute_format_condition_5.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Форматировать ячейки, удовлетворяющие формуле">
+            <param name="Local" value="Analysis/Format/uireport_table_attribute_format_condition_6.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Индикатор роста">
+        <param name="Local" value="Analysis/Growth_rate.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Спарклайны">
+        <param name="Local" value="Analysis/Sparklines.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Распределение">
+        <param name="Local" value="Analysis/distribution.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Статистические характеристики">
+        <param name="Local" value="Analysis/Statistics.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Использование встроенной расширенной аналитики">
+        <param name="Local" value="Analysis/AdvancedAnalytics.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Валидация данных">
+      <param name="Local" value="Analysis/Data_validation.htm">
+    </object>
+    <ul>
+    </ul>
+    <object type="text/sitemap">
+      <param name="Name" value="UiValidation.chm::/UiValidation.hhc">
+      <param name="Merge" value="UiValidation.chm::/UiValidation.hhc" value2="../uivalidation">
+    </object>
+    <ul>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Расчёт итоговых значений">
+      <param name="Local" value="Totals/Calculate_totals.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Отображение итоговых значений">
+        <param name="Local" value="Totals/Calculate_totals.htm#show_totals642b3b9347ca42c9b00b820c00c373fa=1">
+        <param name="ImageNumber" value="11">
+        <param name="x-condition" value="Public,Chm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Настройка итоговых значений">
+        <param name="Local" value="Totals/Calculate_totals.htm#setting_totals642b3b9347ca42c9b00b820c00c373fa=2">
+        <param name="ImageNumber" value="11">
+        <param name="x-condition" value="Public,Chm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Оформление данных и заголовков итогов">
+        <param name="Local" value="Totals/Calculate_totals.htm#formatting_totals642b3b9347ca42c9b00b820c00c373fa=3">
+        <param name="ImageNumber" value="11">
+        <param name="x-condition" value="Public,Chm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Скрытие итогов">
+        <param name="Local" value="Totals/Calculate_totals.htm#hide_totals642b3b9347ca42c9b00b820c00c373fa=4">
+        <param name="ImageNumber" value="11">
+        <param name="x-condition" value="Public,Chm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Расчёт итогов из источника">
+        <param name="Local" value="Totals/Calculate_totals_from_the_source.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Прикрепление вложений к ячейкам">
+      <param name="Local" value="Attachments.htm">
+      <param name="ImageNumber" value="11">
+    </object>
+    </ul>
+</ul>
+</html>

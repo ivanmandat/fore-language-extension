@@ -1,0 +1,10 @@
+при появлении новых .chm просто повторно запускать:
+ChmToHtml.ps1 (распаковка в _extracted),
+HtmlToMarkdown.ps1 (дозаполнит только недостающие .md).
+CheckMdCoverage.ps1 (проверит корректность выполнения)
+
+пример запуска в PowerShell:
+
+powershell -ExecutionPolicy Bypass -File .\ChmToHtml.ps1
+powershell -ExecutionPolicy Bypass -File .\HtmlToMarkdown.ps1
+powershell -ExecutionPolicy Bypass -File .\CheckMdCoverage.ps1

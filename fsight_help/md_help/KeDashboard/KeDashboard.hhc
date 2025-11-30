@@ -1,0 +1,198 @@
+<html>
+<!-- Sitemap 1.0 -->
+<object type="text/site properties">
+  <param name="SiteType" value="toc">
+  <param name="Image Width" value="16">
+  <param name="Window Styles" value="0x800027">
+  <param name="ExWindow Styles" value="0x100">
+</object>
+<ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Dashboard">
+    <param name="Local" value="KeDashboard_TitlePage.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Интерфейсы сборки Dashboard">
+      <param name="Local" value="Interface/KeDashboard_Interface.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IDashboard">
+        <param name="Local" value="Interface/IDashboard/idashboard.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IDashboard.EventsAssembly">
+          <param name="Local" value="Interface/IDashboard/IDashboard.EventsAssembly.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IDashboard.EventsClass">
+          <param name="Local" value="Interface/IDashboard/IDashboard.EventsClass.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IDashboard.Headers">
+          <param name="Local" value="Interface/IDashboard/IDashboard.Headers.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IDashboard.MetabaseObject">
+          <param name="Local" value="Interface/IDashboard/IDashboard.MetabaseObject.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IDashboard.Visualizers">
+          <param name="Local" value="Interface/IDashboard/IDashboard.Visualizers.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IDashboardBaseVisualObject">
+        <param name="Local" value="Interface/IDashboardBaseVisualObject/IDashboardBaseVisualObject.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IDashboardBaseVisualObject.Key">
+          <param name="Local" value="Interface/IDashboardBaseVisualObject/IDashboardBaseVisualObject.Key.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IDashboardEventArgs">
+        <param name="Local" value="Interface/IDashboardEventArgs/IDashboardEventArgs.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IDashboardEventArgs.Dashboard">
+          <param name="Local" value="Interface/IDashboardEventArgs/IDashboardEventArgs.Dashboard.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IDashboardUserEvents">
+        <param name="Local" value="Interface/IDashboardUserEvents/IDashboardUserEvents.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IDashboardUserEvents.EventOnAfterRefreshVisualizer">
+          <param name="Local" value="Interface/IDashboardUserEvents/IDashboardUserEvents.EventOnAfterRefreshVisualizer.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IDashboardUserEvents.EventOnBeforeOpenDashboard">
+          <param name="Local" value="Interface/IDashboardUserEvents/IDashboardUserEvents.EventOnBeforeOpenDashboard.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IDashboardUserEvents.EventOnBeforeRefreshVisualizer">
+          <param name="Local" value="Interface/IDashboardUserEvents/IDashboardUserEvents.EventOnBeforeRefreshVisualizer.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IDashboardVisualizer">
+        <param name="Local" value="Interface/IDashboardVisualizer/IDashboardVisualizer.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IDashboardVisualizer.EaxObject">
+          <param name="Local" value="Interface/IDashboardVisualizer/IDashboardVisualizer.EaxObject.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IDashboardVisualizer.Id">
+          <param name="Local" value="Interface/IDashboardVisualizer/IDashboardVisualizer.Id.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IDashboardVisualizer.UseFactFormat">
+          <param name="Local" value="Interface/IDashboardVisualizer/IDashboardVisualizer.UseFactFormat.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IDashboardVisualizerCancelEventArgs">
+        <param name="Local" value="Interface/IDashboardVisualizerCancelEventArgs/IDashboardVisualizerCancelEventArgs.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IDashboardVisualizerCancelEventArgs.Cancel">
+          <param name="Local" value="Interface/IDashboardVisualizerCancelEventArgs/IDashboardVisualizerCancelEventArgs.Cancel.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IDashboardVisualizerEventArgs">
+        <param name="Local" value="Interface/IDashboardVisualizerEventArgs/IDashboardVisualizerEventArgs.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IDashboardVisualizerEventArgs.Visualizer">
+          <param name="Local" value="Interface/IDashboardVisualizerEventArgs/IDashboardVisualizerEventArgs.Visualizer.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="IDashboardVisualizers">
+        <param name="Local" value="Interface/IDashboardVisualizers/IDashboardVisualizers.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IDashboardVisualizers.Count">
+          <param name="Local" value="Interface/IDashboardVisualizers/IDashboardVisualizers.Count.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IDashboardVisualizers.FindById">
+          <param name="Local" value="Interface/IDashboardVisualizers/IDashboardVisualizers.FindById.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IDashboardVisualizers.FindByKey">
+          <param name="Local" value="Interface/IDashboardVisualizers/IDashboardVisualizers.FindByKey.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IDashboardVisualizers.IndexOf">
+          <param name="Local" value="Interface/IDashboardVisualizers/IDashboardVisualizers.IndexOf.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="IDashboardVisualizers.Item">
+          <param name="Local" value="Interface/IDashboardVisualizers/IDashboardVisualizers.Item.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Классы сборки Dashboard">
+      <param name="Local" value="Class/KeDashboard_Class.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="DashboardEvents">
+        <param name="Local" value="Class/DashboardEvents/DashboardEvents.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="DashboardEvents.OnAfterRefreshVisualizer">
+          <param name="Local" value="Class/DashboardEvents/DashboardEvents.OnAfterRefreshVisualizer.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="DashboardEvents.OnBeforeOpenDashboard">
+          <param name="Local" value="Class/DashboardEvents/DashboardEvents.OnBeforeOpenDashboard.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="DashboardEvents.OnBeforeRefreshVisualizer">
+          <param name="Local" value="Class/DashboardEvents/DashboardEvents.OnBeforeRefreshVisualizer.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      </ul>
+    </ul>
+</ul>
+</html>

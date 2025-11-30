@@ -1,0 +1,99 @@
+<html>
+<!-- Sitemap 1.0 -->
+<object type="text/site properties">
+  <param name="SiteType" value="index">
+</object>
+<ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Визуализаторы данных">
+    <param name="Name" value="Визуализаторы данных">
+    <param name="Local" value="Visualizators.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Плагин">
+    <param name="Name" value="Плагины">
+    <param name="Local" value="Plugins/Plugins.htm">
+    <param name="Name" value="Подключение внешних картографических сервисов к карте">
+    <param name="Local" value="Plugins/Connecting_External_Services.htm">
+    <param name="Name" value="Подключение плагина к аналитической панели">
+    <param name="Local" value="Plugins/Connecting_Plugins_Dashboards.htm">
+    <param name="Name" value="Подключение плагина к регламентному отчёту">
+    <param name="Local" value="Plugins/Connecting_Plugins_Report.htm">
+    <param name="Name" value="Создание плагина">
+    <param name="Local" value="Plugins/Create_Plugin.htm">
+    <param name="Name" value="Подключение пользовательских шаблонов диаграмм">
+    <param name="Local" value="Plugins/Custom/CustomDiagram.htm">
+    <param name="Name" value="Создание формы-визуализатора: Плагин">
+    <param name="Local" value="Plugins/PluginViewForm.htm">
+    <param name="Name" value="Создание формы-мастера: Плагин">
+    <param name="Local" value="Plugins/PluginMasterForm.htm">
+    <param name="Name" value="Решение проблем с геопривязкой при подключении внешних сервисов">
+    <param name="Local" value="Plugins/Problems_geolocation.htm">
+    <param name="Name" value="Структура пользовательского шаблона диаграммы">
+    <param name="Local" value="Plugins/Custom/Svg_specification.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Подключение внешних картографических сервисов к карте">
+    <param name="Name" value="Подключение внешних картографических сервисов к карте: Плагин">
+    <param name="Local" value="Plugins/Connecting_External_Services.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Подключение пользовательских шаблонов диаграмм">
+    <param name="Name" value="Подключение пользовательских шаблонов диаграмм">
+    <param name="Local" value="Plugins/Custom/CustomDiagram.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Создание плагина">
+    <param name="Name" value="Создание плагина">
+    <param name="Local" value="Plugins/Create_Plugin.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Создание формы-визуализатора">
+    <param name="Name" value="Создание формы-визуализатора: Плагин">
+    <param name="Local" value="Plugins/PluginViewForm.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Создание формы-мастера">
+    <param name="Name" value="Создание формы-мастера: Плагин">
+    <param name="Local" value="Plugins/PluginMasterForm.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Внешние картографические сервисы">
+    <param name="Name" value="Подключение внешних картографических сервисов к карте">
+    <param name="Local" value="Plugins/Connecting_External_Services.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Анализ данных и построение отчётов">
+    <param name="Name" value="Анализ данных и построение отчётов">
+    <param name="Local" value="DataAnalysis_Title.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Ключевые возможности">
+    <param name="Name" value="Построение информационных панелей">
+    <param name="Local" value="Dashboard.htm">
+    <param name="Name" value="Визуализаторы данных">
+    <param name="Local" value="Visualizators.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Внешний сервис">
+    <param name="Name" value="Решение проблем с геопривязкой при подключении внешних сервисов">
+    <param name="Local" value="Plugins/Problems_geolocation.htm">
+    <param name="Name" value="Подключение внешних картографических сервисов к карте: Плагин">
+    <param name="Local" value="Plugins/Connecting_External_Services.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Подключение плагина">
+    <param name="Name" value="Подключение плагина к аналитической панели">
+    <param name="Local" value="Plugins/Connecting_Plugins_Dashboards.htm">
+    <param name="Name" value="Подключение плагина к регламентному отчёту">
+    <param name="Local" value="Plugins/Connecting_Plugins_Report.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Пользовательский шаблон диаграмм">
+    <param name="Name" value="Подключение пользовательских шаблонов диаграмм: Плагин">
+    <param name="Local" value="Plugins/Custom/CustomDiagram.htm">
+    <param name="Name" value="Структура пользовательского шаблона диаграммы: Плагин">
+    <param name="Local" value="Plugins/Custom/Svg_specification.htm">
+  </object>
+</ul>
+</html>

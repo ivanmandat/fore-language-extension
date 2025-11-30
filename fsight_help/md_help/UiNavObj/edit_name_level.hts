@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="topic-comment" content="" />
+<meta name="generator" content="Adobe RoboHelp 11" />
+<title>edit_name_level</title>
+</head>
+
+<body>
+<p>Для редактирования свойств выбранного уровня справочника:</p>
+<ul style="list-style: disc;">
+	<li><p>в веб-приложении измените наименование в соответствующем столбце 
+	 требуемого уровня на странице «<span style="font-weight: bold;">Уровни</span>» 
+	 мастера справочника;</p></li>
+	<li><p>в настольном приложении:</p></li>
+	<ul style="list-style: square;">
+		<li><p>нажмите кнопку «<span style="font-weight: bold;">Редактировать</span>»;</p></li>
+		<li><p>выполните команду «<span style="font-weight: bold;">Редактировать</span>» 
+		 в контекстном меню уровня;</p></li>
+		<li><p>дважды щёлкните по наименованию уровня.</p></li>
+	</ul>
+</ul>
+<p style="margin-left: 40px;">В появившемся окне «<span style="font-weight: bold;">Переименовать 
+ уровень</span>» введите новое наименование уровня. Окно «<span style="font-weight: bold;">Переименовать 
+ уровень</span>» аналогично окну «<span style="font-weight: bold;">Новый 
+ уровень</span>» для <a href="reference_book/Master_RDS_reference_book/Level.htm#add">справочника 
+ НСИ</a>/<a href="reference_book/Master_Composite_Table_reference_book/Level.htm#add">составного 
+ справочника НСИ</a>.</p>
+</body>
+</html>

@@ -1,0 +1,570 @@
+<html>
+<!-- Sitemap 1.0 -->
+<object type="text/site properties">
+  <param name="SiteType" value="toc">
+  <param name="Image Width" value="16">
+  <param name="Window Styles" value="0x800027">
+  <param name="ExWindow Styles" value="0x100">
+</object>
+<ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Автоматизация методик и алгоритмов">
+    <param name="Local" value="Purpose.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Начало работы с расширением «Алгоритмы расчёта» в веб-приложении">
+      <param name="Local" value="Web/Work/Beginning_of_work.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Построение алгоритма расчёта">
+        <param name="Local" value="Web/Work/Construction_of_the_calculation_algorithm.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Вставка и настройка блоков расчёта">
+          <param name="Local" value="Web/Calculation_block/Calculation_unit.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Настройка базовых свойств">
+            <param name="Local" value="Web/Calculation_block/Basic_Properties.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Добавление параметров">
+            <param name="Local" value="Web/Calculation_block/Parameters.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Выбор и настройка приёмника данных">
+            <param name="Local" value="Web/Calculation_block/Master_calculation_block_page_consumer.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Выбор и настройка источников данных">
+            <param name="Local" value="Web/Calculation_block/Page_Sources.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Настройка фильтрации по данным">
+            <param name="Local" value="Web/Calculation_block/FilteringByData.htm">
+          </object>
+          <ul>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Примеры фильтрации по данным">
+              <param name="Local" value="Web/Calculation_block/Examples_Filtering_Data.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            </ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Настройка формул расчёта">
+            <param name="Local" value="Web/Calculation_block/Formula.htm">
+          </object>
+          <ul>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Создание формулы расчёта">
+              <param name="Local" value="Web/Calculation_block/Formula_Creation.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Выбор рассчитываемого элемента и календарной динамики расчёта">
+              <param name="Local" value="Web/Calculation_block/Calculated_Element_Select.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Формирование формулы расчёта">
+              <param name="Local" value="Web/Calculation_block/Calculation_Formula_Generation.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Настройка дополнительных параметров расчёта и сохранения данных">
+              <param name="Local" value="Web/Calculation_block/Additional_Calculation_and_Data_Saving_Parameters.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            </ul>
+          </ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Вставка и настройка блоков агрегации">
+          <param name="Local" value="Web/Aggregation_block/Aggregation_block.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Настройка базовых свойств">
+            <param name="Local" value="Web/Aggregation_block/Basic_Properties_Aggr.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Добавление параметров">
+            <param name="Local" value="Web/Aggregation_block/ParametersArrg.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Выбор и настройка приёмника данных">
+            <param name="Local" value="Web/Aggregation_block/Aggregation_block_Receiver.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Настройка агрегации">
+            <param name="Local" value="Web/Aggregation_block/Aggregation_block_aggregation.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Вставка и настройка блоков функций">
+          <param name="Local" value="Web/Function_Block/Function_Block.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Настройка базовых свойств">
+            <param name="Local" value="Web/Function_Block/Basic_Properties_Func.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Добавление параметров">
+            <param name="Local" value="Web/Function_Block/ParametersFunc.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Выбор пользовательской функции">
+            <param name="Local" value="Web/Function_Block/Function_Block_Wizard.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Вставка и настройка блоков линейной оптимизации">
+          <param name="Local" value="Web/Linear_optimization_block/Linear_optimization_block.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Настройка базовых свойств">
+            <param name="Local" value="Web/Linear_optimization_block/Basic_Properties_LinOpt.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Добавление параметров">
+            <param name="Local" value="Web/Linear_optimization_block/Parameters_LinOpt.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Настройка целевой функции">
+            <param name="Local" value="Web/Linear_optimization_block/TargetFunction_LinOpt.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Настройка простых ограничений управляющих переменных">
+            <param name="Local" value="Web/Linear_optimization_block/VariablesRestriction_LinOpt.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Просмотр целевой функции">
+            <param name="Local" value="Web/Linear_optimization_block/ViewTagretFunction_LinOpt.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Вставка и настройка блоков контроля">
+          <param name="Local" value="Web/Control_Block/Control_Block.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Настройка оформления данных, не прошедших контроль">
+            <param name="Local" value="Web/Control_Block/Style_ControlBlock.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Вставка готовых алгоритмов расчёта и блоков">
+          <param name="Local" value="Web/Work/AddAlgorithm.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Настройки алгоритма расчёта">
+          <param name="Local" value="Web/Work/Set_up_calculation_parameters.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Базовые настройки алгоритма расчёта">
+            <param name="Local" value="Web/Work/base_settings.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Добавление параметров">
+            <param name="Local" value="Web/Work/Parameters_of_the_calculation_algorithm.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Задание связей параметров">
+            <param name="Local" value="Web/Work/Manage_settings.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Задание связей с параметрами кубов">
+            <param name="Local" value="Web/Work/Manage_cubes_settings.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Управление периодом расчёта">
+            <param name="Local" value="Web/Work/Calculation_period_management.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Задание связей с параметрами объектов репозитория">
+            <param name="Local" value="Web/Work/Manage_objects_settings.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Настройка условий выполнения расчёта алгоритма">
+          <param name="Local" value="Web/Work/CalculationConditions.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Настройка порядка расчёта алгоритма">
+          <param name="Local" value="Web/Work/CalculationOrder.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Отладка расчёта&#160;алгоритма">
+          <param name="Local" value="Web/Work/Debug.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Вставка объектов репозитория">
+          <param name="Local" value="Web/Work/AddRepoObject.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Управление элементами алгоритма расчёта">
+          <param name="Local" value="Web/Work/Management_of_Elements.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Настройка оформления алгоритма расчёта">
+          <param name="Local" value="Web/Work/AlgorithmDecor.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Работа с готовым алгоритмом расчёта">
+        <param name="Local" value="Web/Work/Work.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Расчёт алгоритма">
+          <param name="Local" value="Web/Work/Perform_calculations.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Просмотр рассчитанных данных">
+          <param name="Local" value="Web/Work/DataView.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Настройка рабочей области">
+          <param name="Local" value="Web/Work/Workspace_Setup.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Начало работы с расширением «Алгоритмы расчёта» в настольном приложении">
+      <param name="Local" value="Desktop/Work/Beginning_of_work.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Построение алгоритма расчёта">
+        <param name="Local" value="Desktop/Work/Construction_of_the_calculation_algorithm.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Вставка и настройка блоков расчёта">
+          <param name="Local" value="Desktop/Calculation_block/Calculation_unit.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Настройка базовых свойств">
+            <param name="Local" value="Desktop/Calculation_block/Basic_Properties.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Добавление параметров">
+            <param name="Local" value="Desktop/Calculation_block/Parameters.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Выбор и настройка приёмника данных">
+            <param name="Local" value="Desktop/Calculation_block/Master_calculation_block_page_consumer.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Выбор и настройка источников данных">
+            <param name="Local" value="Desktop/Calculation_block/Page_Sources.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Настройка фильтрации по данным">
+            <param name="Local" value="Desktop/Calculation_block/FilteringByData.htm">
+          </object>
+          <ul>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Примеры фильтрации по данным">
+              <param name="Local" value="Web/Calculation_block/Examples_Filtering_Data.htm#642b3b9347ca42c9b00b820c00c373fa=1">
+              <param name="ImageNumber" value="11">
+            </object>
+            </ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Настройка формул расчёта">
+            <param name="Local" value="Desktop/Calculation_block/Formula.htm">
+          </object>
+          <ul>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Создание формулы расчёта">
+              <param name="Local" value="Desktop/Calculation_block/Formula_Creation.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Выбор рассчитываемого элемента и календарной динамики расчёта">
+              <param name="Local" value="Desktop/Calculation_block/Calculated_Element_Select.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Формирование формулы расчёта">
+              <param name="Local" value="Desktop/Calculation_block/Calculation_Formula_Generation.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            <li><object type="text/sitemap">
+              <param name="Name" value="Настройка дополнительных параметров расчёта и сохранения данных">
+              <param name="Local" value="Desktop/Calculation_block/Additional_Calculation_and_Data_Saving_Parameters.htm">
+              <param name="ImageNumber" value="11">
+            </object>
+            </ul>
+          </ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Вставка и настройка блоков агрегации">
+          <param name="Local" value="Desktop/Aggregation_block/Aggregation_block.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Настройка базовых свойств">
+            <param name="Local" value="Desktop/Aggregation_block/Basic_Properties_Aggr.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Добавление параметров">
+            <param name="Local" value="Desktop/Aggregation_block/ParametersArrg.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Выбор и настройка приёмника данных">
+            <param name="Local" value="Desktop/Aggregation_block/Aggregation_block_Receiver.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Настройка агрегации">
+            <param name="Local" value="Desktop/Aggregation_block/Aggregation_block_aggregation.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Вставка и настройка блоков функций">
+          <param name="Local" value="Desktop/Function_Block/Function_Block.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Настройка базовых свойств">
+            <param name="Local" value="Desktop/Function_Block/Basic_Properties_Func.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Добавление параметров">
+            <param name="Local" value="Desktop/Function_Block/ParametersFunc.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Выбор пользовательской функции">
+            <param name="Local" value="Desktop/Function_Block/Function_Block_Wizard.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Вставка и настройка блоков линейной оптимизации">
+          <param name="Local" value="Desktop/Linear_optimization_block/Linear_optimization_block.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Настройка базовых свойств">
+            <param name="Local" value="Desktop/Linear_optimization_block/Basic_Properties_LinOpt.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Добавление параметров">
+            <param name="Local" value="Desktop/Linear_optimization_block/Parameters_LinOpt.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Выбор базы данных, модуля расчёта">
+            <param name="Local" value="Desktop/Linear_optimization_block/DataBase_LinOpt.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Настройка целевой функции">
+            <param name="Local" value="Desktop/Linear_optimization_block/TargetFunction_LinOpt.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Формирование коэффициентов целевой функции">
+            <param name="Local" value="Desktop/Linear_optimization_block/TargetFunctionCoefficients_LinOpt.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Ввод начальных значений управляющих переменных">
+            <param name="Local" value="Desktop/Linear_optimization_block/Variables_LinOpt.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Настройка простых ограничений управляющих переменных">
+            <param name="Local" value="Desktop/Linear_optimization_block/VariablesRestriction_LinOpt.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Настройка сложных ограничений управляющих переменных">
+            <param name="Local" value="Desktop/Linear_optimization_block/ExpressionsRestriction_LinOpt.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Просмотр целевой функции">
+            <param name="Local" value="Desktop/Linear_optimization_block/ViewTagretFunction_LinOpt.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Вставка и настройка блоков контроля">
+          <param name="Local" value="Desktop/Control_Block/Control_Block.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Настройка оформления данных, не прошедших контроль">
+            <param name="Local" value="Desktop/Control_Block/Style_ControlBlock.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Вставка готовых алгоритмов расчёта и блоков">
+          <param name="Local" value="Desktop/Work/AddAlgorithm.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Добавление и настройка параметров">
+          <param name="Local" value="Desktop/Work/Set_up_calculation_parameters.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Добавление параметров">
+            <param name="Local" value="Desktop/Work/Parameters_of_the_calculation_algorithm.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Задание связей параметров">
+            <param name="Local" value="Desktop/Work/Manage_settings.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Управление периодом расчёта">
+            <param name="Local" value="Desktop/Work/Calculation_period_management.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Задание связей с параметрами объектов репозитория">
+            <param name="Local" value="Desktop/Work/Manage_objects_settings.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Задание связей с параметрами кубов">
+            <param name="Local" value="Desktop/Work/Manage_cubes_settings.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Настройка условий выполнения расчёта алгоритма">
+          <param name="Local" value="Desktop/Work/CalculationConditions.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Настройка порядка расчёта алгоритма">
+          <param name="Local" value="Desktop/Work/CalculationOrder.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Отладка расчёта алгоритма">
+          <param name="Local" value="Desktop/Work/Debug.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Вставка объектов репозитория">
+          <param name="Local" value="Desktop/Work/AddRepoObject.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Оформление алгоритма расчёта">
+          <param name="Local" value="Desktop/Work/AlgorithmDecor.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Работа с готовым алгоритмом расчёта">
+        <param name="Local" value="Desktop/Work/Work.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Расчёт алгоритма">
+          <param name="Local" value="Desktop/Work/Perform_calculations.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Просмотр рассчитанных данных">
+          <param name="Local" value="Desktop/Work/DataView.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Масштабирование рабочей области">
+          <param name="Local" value="Desktop/Work/Scale.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Печать алгоритма расчёта">
+          <param name="Local" value="Desktop/Work/Print.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Вопросы и ответы">
+      <param name="Local" value="FAQ/FAQ_CalculationAlgorithm.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Как запретить остановку расчёта алгоритма?">
+        <param name="Local" value="FAQ/AlgorithmMultuThread.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Как использовать модуль расчёта Gurobi?">
+        <param name="Local" value="FAQ/Connect_Gurobi.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Как выполнять многопоточный расчёт?">
+        <param name="Local" value="FAQ/MultiThreadedCalculation.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Как ускорить расчёт алгоритма?">
+        <param name="Local" value="FAQ/Acceleration_of_Algorithm_Calculation.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      </ul>
+    </ul>
+</ul>
+</html>

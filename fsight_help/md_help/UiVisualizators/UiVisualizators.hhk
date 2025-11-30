@@ -1,0 +1,222 @@
+<html>
+<!-- Sitemap 1.0 -->
+<object type="text/site properties">
+  <param name="SiteType" value="index">
+</object>
+<ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Детализация/обобщение данных">
+    <param name="Name" value="Плоское дерево">
+    <param name="Local" value="TreeMap/TreeMap.htm">
+    <param name="Name" value="Пузырьковое дерево">
+    <param name="Local" value="BubbleTree/BubbleTree.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Настройка заливки прямоугольников">
+    <param name="Name" value="Плоское дерево">
+    <param name="Local" value="TreeMap/TreeMap.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Настройка измерения метрик">
+    <param name="Name" value="Плоское дерево">
+    <param name="Local" value="TreeMap/TreeMap.htm">
+    <param name="Name" value="Пузырьковое дерево">
+    <param name="Local" value="BubbleTree/BubbleTree.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Настройка легенды цвета и размера">
+    <param name="Name" value="Плоское дерево">
+    <param name="Local" value="TreeMap/TreeMap.htm">
+    <param name="Name" value="Настройка легенды цвета и размера">
+    <param name="Local" value="BubbleTree/Legend.htm">
+    <param name="Name" value="Пузырьковое дерево">
+    <param name="Local" value="BubbleTree/BubbleTree.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Настройка размера прямоугольников">
+    <param name="Name" value="Плоское дерево">
+    <param name="Local" value="TreeMap/TreeMap.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Плоское дерево">
+    <param name="Name" value="Плоское дерево">
+    <param name="Local" value="TreeMap/TreeMap.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Всплывающие подсказки">
+    <param name="Name" value="Настройка всплывающих подсказок">
+    <param name="Local" value="BubbleChart/Tooltip.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Пузырьковая диаграмма">
+    <param name="Name" value="Пузырьковая диаграмма">
+    <param name="Local" value="BubbleChart/BubbleChart.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Легенда: Боковая панель (Пузырьковая диаграмма)">
+      <param name="Name" value="Настройка легенды цвета и размера">
+      <param name="Local" value="BubbleChart/Legend.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Настройка цвета пузырьков">
+      <param name="Name" value="Настройка цветовой шкалы: Боковая панель">
+      <param name="Local" value="BubbleChart/UiAdhoc_Panel_ColorInd.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Цвет: Боковая панель (Пузырьковая диаграммаа)">
+      <param name="Name" value="Настройка цветовой шкалы: Боковая панель">
+      <param name="Local" value="BubbleChart/UiAdhoc_Panel_ColorInd.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Настройка размера пузырьков">
+      <param name="Name" value="Настройка шкалы размера: Боковая панель">
+      <param name="Local" value="BubbleChart/UiAdhoc_Panel_size.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Размер: Боковая панель (Пузырьковая диаграмма)">
+      <param name="Name" value="Настройка шкалы размера: Боковая панель">
+      <param name="Local" value="BubbleChart/UiAdhoc_Panel_size.htm">
+    </object>
+    </ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Линия тренда">
+    <param name="Name" value="Настройка линии тренда">
+    <param name="Local" value="BubbleChart/TrendLine.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Настройка линии тренда">
+    <param name="Name" value="Настройка линии тренда">
+    <param name="Local" value="BubbleChart/TrendLine.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Настройка области построения пузырьковой диаграммы">
+    <param name="Name" value="Настройка области построения пузырьковой диаграммы">
+    <param name="Local" value="BubbleChart/BubbleChart_area_settings.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Область построения пузырьковой диаграммы">
+    <param name="Name" value="Настройка области построения пузырьковой диаграммы">
+    <param name="Local" value="BubbleChart/BubbleChart_area_settings.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Настройка осей пузырьковой диаграммы">
+    <param name="Name" value="Настройка осей пузырьковой диаграммы">
+    <param name="Local" value="BubbleChart/Axis.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Оси">
+    <param name="Name" value="Настройка осей пузырьковой диаграммы">
+    <param name="Local" value="BubbleChart/Axis.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Ось Y">
+    <param name="Name" value="Настройка осей пузырьковой диаграммы">
+    <param name="Local" value="BubbleChart/Axis.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Ось X">
+    <param name="Name" value="Настройка осей пузырьковой диаграммы">
+    <param name="Local" value="BubbleChart/Axis.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Настройка следов пузырьков">
+    <param name="Name" value="Настройка следов пузырьков">
+    <param name="Local" value="BubbleChart/Bubbles_time_scale_panel.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Внешние стили">
+    <param name="Name" value="Настройка стиля пузырьковой диаграммы">
+    <param name="Local" value="BubbleChart/BubbleChart_Style.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Стиль оформления">
+    <param name="Name" value="Настройка стиля пузырьковой диаграммы">
+    <param name="Local" value="BubbleChart/BubbleChart_Style.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Стиль плоского дерева">
+    <param name="Name" value="Настройка стиля пузырьковой диаграммы">
+    <param name="Local" value="BubbleChart/BubbleChart_Style.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Стиль пузырькового дерева">
+    <param name="Name" value="Настройка стиля пузырьковой диаграммы">
+    <param name="Local" value="BubbleChart/BubbleChart_Style.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Стиль пузырьковой диаграммы">
+    <param name="Name" value="Настройка стиля пузырьковой диаграммы">
+    <param name="Local" value="BubbleChart/BubbleChart_Style.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Таблица стилей">
+    <param name="Name" value="Настройка стиля пузырьковой диаграммы">
+    <param name="Local" value="BubbleChart/BubbleChart_Style.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Цвет">
+    <param name="See Also" value="Цвет">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Цвет: Боковая панель (Пузырьковая диаграмма)">
+      <param name="Name" value="Настройка цветовой шкалы: Боковая панель">
+      <param name="Local" value="BubbleChart/UiAdhoc_Panel_ColorInd.htm">
+    </object>
+    </ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Размер">
+    <param name="Name" value="Настройка шкалы размера: Боковая панель">
+    <param name="Local" value="BubbleTree/Size.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Размер: Боковая панель (Пузырьковая диаграмма)">
+      <param name="Name" value="Настройка шкалы размера: Боковая панель">
+      <param name="Local" value="BubbleChart/UiAdhoc_Panel_size.htm">
+    </object>
+    </ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Экспресс-отчет">
+    <param name="See Also" value="Экспресс-отчет">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Пузырьковая диаграмма">
+      <param name="Name" value="Пузырьковая диаграмма">
+      <param name="Local" value="BubbleChart/BubbleChart.htm">
+    </object>
+    </ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Легенда размера">
+    <param name="Name" value="Настройка легенды цвета и размера">
+    <param name="Local" value="BubbleTree/Legend.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Легенда цвета">
+    <param name="Name" value="Настройка легенды цвета и размера">
+    <param name="Local" value="BubbleTree/Legend.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Настройка размера">
+    <param name="Name" value="Настройка шкалы размера: Боковая панель">
+    <param name="Local" value="BubbleTree/Size.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Настройка заливки пузырьков">
+    <param name="Name" value="Пузырьковое дерево">
+    <param name="Local" value="BubbleTree/BubbleTree.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Настройка размера пузырьков">
+    <param name="Name" value="Пузырьковое дерево">
+    <param name="Local" value="BubbleTree/BubbleTree.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Пузырьковое дерево">
+    <param name="Name" value="Пузырьковое дерево">
+    <param name="Local" value="BubbleTree/BubbleTree.htm">
+  </object>
+</ul>
+</html>

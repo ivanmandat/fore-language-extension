@@ -1,0 +1,85 @@
+<html>
+<!-- Sitemap 1.0 -->
+<object type="text/site properties">
+  <param name="SiteType" value="toc">
+  <param name="Image Width" value="16">
+  <param name="Window Styles" value="0x800027">
+  <param name="ExWindow Styles" value="0x100">
+</object>
+<ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Дополнительные справочные материалы">
+    <param name="Local" value="Overview/AdditionalMaterials.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Взаимодействие компонентов продукта">
+      <param name="Local" value="Assignation/Interoperability.htm">
+      <param name="ImageNumber" value="11">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Общие характеристики продукта">
+      <param name="Local" value="Architecture/Technical_Features.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Мультиязыковая поддержка">
+        <param name="Local" value="Architecture/Technical_Features.htm#multilingual_support642b3b9347ca42c9b00b820c00c373fa=1">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Взаимодействие с веб-сервисами">
+        <param name="Local" value="Architecture/Technical_Features.htm#web_services_interaction642b3b9347ca42c9b00b820c00c373fa=2">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Синхронизация и обмен данными">
+        <param name="Local" value="Architecture/Technical_Features.htm#replication642b3b9347ca42c9b00b820c00c373fa=3">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Повышенная производительность и отказоустойчивость">
+        <param name="Local" value="Architecture/Technical_Features.htm#improved_availability642b3b9347ca42c9b00b820c00c373fa=4">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Масштабируемость">
+        <param name="Local" value="Architecture/Technical_Features.htm#scalability642b3b9347ca42c9b00b820c00c373fa=5">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Модульность">
+        <param name="Local" value="Architecture/Technical_Features.htm#modularity642b3b9347ca42c9b00b820c00c373fa=6">
+        <param name="ImageNumber" value="11">
+      </object>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Рекомендации по организации процесса разработки на базе продуктов компании «Форсайт»">
+      <param name="Local" value="Guidelines/Guidelines.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Формирование общего видения системы">
+        <param name="Local" value="Guidelines/CommonVision.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Подготовка ландшафта">
+        <param name="Local" value="Guidelines/PreparingLandscape.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Разработка системы">
+        <param name="Local" value="Guidelines/SystemDevelopment.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Конструирование системы">
+          <param name="Local" value="Guidelines/SystemConstroction.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      </ul>
+    </ul>
+</ul>
+</html>

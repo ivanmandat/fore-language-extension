@@ -1,0 +1,905 @@
+<html>
+<!-- Sitemap 1.0 -->
+<object type="text/site properties">
+  <param name="SiteType" value="toc">
+  <param name="Image Width" value="16">
+  <param name="Window Styles" value="0x800007">
+  <param name="ExWindow Styles" value="0x100">
+</object>
+<ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Работа с редактором выражения">
+    <param name="Local" value="Components/Components.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Компоненты">
+      <param name="Local" value="Components/Components.htm#642b3b9347ca42c9b00b820c00c373fa=1">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="FormulaEditor">
+        <param name="Local" value="Components/FormulaEditor/FormulaEditor.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Пример создания компонента FormulaEditor">
+          <param name="Local" value="Components/FormulaEditor/Example_FormulaEditor.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="TermEdit">
+        <param name="Local" value="Components/TermEdit/TermEdit.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Пример создания компонента TermEdit">
+          <param name="Local" value="Components/TermEdit/Example_TermEdit.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="TransformDialog">
+        <param name="Local" value="Components/TransformDialog/TransformDialog.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Пример создания компонента TransformDialog">
+          <param name="Local" value="Components/TransformDialog/Example_TransformDialog.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="PP.Ufe.Ui">
+      <param name="Local" value="Classes/PP.Ufe.Ui.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Классы">
+        <param name="Local" value="Classes/PP.Ufe.Ui.htm#642b3b9347ca42c9b00b820c00c373fa=1">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="CollapsedDimPanel">
+          <param name="Local" value="Classes/PP_Ufe_Ui/CollapsedDimPanel/CollapsedDimPanel.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="CollapsedDimPanel.getDimCombo">
+            <param name="Local" value="Classes/PP_Ufe_Ui/CollapsedDimPanel/CollapsedDimPanel.getDimCombo.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="CollapsedDimPanel.getDimTreeView">
+            <param name="Local" value="Classes/PP_Ufe_Ui/CollapsedDimPanel/CollapsedDimPanel.getDimTreeView.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Конструктор CollapsedDimPanel">
+            <param name="Local" value="Classes/PP_Ufe_Ui/CollapsedDimPanel/Constructor_CollapsedDimPanel.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ExpandedDimPanel">
+          <param name="Local" value="Classes/PP_Ufe_Ui/ExpandedDimPanel/ExpandedDimPanel.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="ExpandedDimPanel.getMetaTree">
+            <param name="Local" value="Classes/PP_Ufe_Ui/ExpandedDimPanel/ExpandedDimPanel.getMetaTree.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="ExpandedDimPanel.getMetaTreeSelectedNodeData">
+            <param name="Local" value="Classes/PP_Ufe_Ui/ExpandedDimPanel/ExpandedDimPanel.getMetaTreeSelectedNodeData.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Конструктор ExpandedDimPanel">
+            <param name="Local" value="Classes/PP_Ufe_Ui/ExpandedDimPanel/Constructor_ExpandedDimPanel.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="FormulaEditor">
+          <param name="Local" value="Classes/PP_Ufe_Ui/FormulaEditor/FormulaEditor.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="FormulaEditor.addCategory">
+            <param name="Local" value="Classes/PP_Ufe_Ui/FormulaEditor/FormulaEditor.addCategory.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="FormulaEditor.addFunction">
+            <param name="Local" value="Classes/PP_Ufe_Ui/FormulaEditor/FormulaEditor.addFunction.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="FormulaEditor.addOperator">
+            <param name="Local" value="Classes/PP_Ufe_Ui/FormulaEditor/FormulaEditor.addOperator.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="FormulaEditor.CalcParamsPanelResized">
+            <param name="Local" value="Classes/PP_Ufe_Ui/FormulaEditor/FormulaEditor.CalcParamsPanelResized.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="FormulaEditor.CalculationPanelContent">
+            <param name="Local" value="Classes/PP_Ufe_Ui/FormulaEditor/FormulaEditor.CalculationPanelContent.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="FormulaEditor.CaretPosition">
+            <param name="Local" value="Classes/PP_Ufe_Ui/FormulaEditor/FormulaEditor.CaretPosition.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="FormulaEditor.DescriptionTemplate">
+            <param name="Local" value="Classes/PP_Ufe_Ui/FormulaEditor/FormulaEditor.DescriptionTemplate.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="FormulaEditor.getCalcParamsContainer">
+            <param name="Local" value="Classes/PP_Ufe_Ui/FormulaEditor/FormulaEditor.getCalcParamsContainer.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="FormulaEditor.getFilterMenuButton">
+            <param name="Local" value="Classes/PP_Ufe_Ui/FormulaEditor/FormulaEditor.getFilterMenuButton.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="FormulaEditor.getFormula">
+            <param name="Local" value="Classes/PP_Ufe_Ui/FormulaEditor/FormulaEditor.getFormula.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="FormulaEditor.getFunctionList">
+            <param name="Local" value="Classes/PP_Ufe_Ui/FormulaEditor/FormulaEditor.getFunctionList.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="FormulaEditor.getTermEdit">
+            <param name="Local" value="Classes/PP_Ufe_Ui/FormulaEditor/FormulaEditor.getTermEdit.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="FormulaEditor.InitialFunctionCategories">
+            <param name="Local" value="Classes/PP_Ufe_Ui/FormulaEditor/FormulaEditor.InitialFunctionCategories.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="FormulaEditor.InitialOperators">
+            <param name="Local" value="Classes/PP_Ufe_Ui/FormulaEditor/FormulaEditor.InitialOperators.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="FormulaEditor.InitialTerms">
+            <param name="Local" value="Classes/PP_Ufe_Ui/FormulaEditor/FormulaEditor.InitialTerms.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="FormulaEditor.insertTerm">
+            <param name="Local" value="Classes/PP_Ufe_Ui/FormulaEditor/FormulaEditor.insertTerm.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="FormulaEditor.IsNamingVisible">
+            <param name="Local" value="Classes/PP_Ufe_Ui/FormulaEditor/FormulaEditor.IsNamingVisible.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="FormulaEditor.LeftColumnContent">
+            <param name="Local" value="Classes/PP_Ufe_Ui/FormulaEditor/FormulaEditor.LeftColumnContent.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="FormulaEditor.LeftPanelResized">
+            <param name="Local" value="Classes/PP_Ufe_Ui/FormulaEditor/FormulaEditor.LeftPanelResized.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="FormulaEditor.MinCenterColumnWidth">
+            <param name="Local" value="Classes/PP_Ufe_Ui/FormulaEditor/FormulaEditor.MinCenterColumnWidth.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="FormulaEditor.NamingTextBox">
+            <param name="Local" value="Classes/PP_Ufe_Ui/FormulaEditor/FormulaEditor.NamingTextBox.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="FormulaEditor.setCalcParamsVisibility">
+            <param name="Local" value="Classes/PP_Ufe_Ui/FormulaEditor/FormulaEditor.setCalcParamsVisibility.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="FormulaEditor.setFilterPanelVisibility">
+            <param name="Local" value="Classes/PP_Ufe_Ui/FormulaEditor/FormulaEditor.setFilterPanelVisibility.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="FormulaEditor.setFocusTermEdit">
+            <param name="Local" value="Classes/PP_Ufe_Ui/FormulaEditor/FormulaEditor.setFocusTermEdit.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="FormulaEditor.setWarningMessage">
+            <param name="Local" value="Classes/PP_Ufe_Ui/FormulaEditor/FormulaEditor.setWarningMessage.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="FormulaEditor.TermDrop">
+            <param name="Local" value="Classes/PP_Ufe_Ui/FormulaEditor/FormulaEditor.TermDrop.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="FormulaEditor.TermsChanged">
+            <param name="Local" value="Classes/PP_Ufe_Ui/FormulaEditor/FormulaEditor.TermsChanged.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Конструктор FormulaEditor">
+            <param name="Local" value="Classes/PP_Ufe_Ui/FormulaEditor/Constructor_FormulaEditor.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MetaTree">
+          <param name="Local" value="Classes/PP_Ufe_Ui/MetaTree/MetaTree.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="MetaTree.DisplayMode">
+            <param name="Local" value="Classes/PP_Ufe_Ui/MetaTree/MetaTree.DisplayMode.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Конструктор MetaTree">
+            <param name="Local" value="Classes/PP_Ufe_Ui/MetaTree/Constructor_MetaTree.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Term">
+          <param name="Local" value="Classes/PP_Ufe_Ui/Term/Term.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Term.BecameEmpty">
+            <param name="Local" value="Classes/PP_Ufe_Ui/Term/Term.BecameEmpty.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Term.canEditFormula">
+            <param name="Local" value="Classes/PP_Ufe_Ui/Term/Term.canEditFormula.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Term.Content">
+            <param name="Local" value="Classes/PP_Ufe_Ui/Term/Term.Content.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Term.deleteFirstChar">
+            <param name="Local" value="Classes/PP_Ufe_Ui/Term/Term.deleteFirstChar.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Term.deleteLastChar">
+            <param name="Local" value="Classes/PP_Ufe_Ui/Term/Term.deleteLastChar.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Term.DomNode">
+            <param name="Local" value="Classes/PP_Ufe_Ui/Term/Term.DomNode.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Term.EndDeletePressed">
+            <param name="Local" value="Classes/PP_Ufe_Ui/Term/Term.EndDeletePressed.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Term.EndOffset">
+            <param name="Local" value="Classes/PP_Ufe_Ui/Term/Term.EndOffset.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Term.Formula">
+            <param name="Local" value="Classes/PP_Ufe_Ui/Term/Term.Formula.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Term.getIsOneCharTerm">
+            <param name="Local" value="Classes/PP_Ufe_Ui/Term/Term.getIsOneCharTerm.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Term.keyDown">
+            <param name="Local" value="Classes/PP_Ufe_Ui/Term/Term.keyDown.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Term.keyPress">
+            <param name="Local" value="Classes/PP_Ufe_Ui/Term/Term.keyPress.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Term.Selected">
+            <param name="Local" value="Classes/PP_Ufe_Ui/Term/Term.Selected.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Term.slice">
+            <param name="Local" value="Classes/PP_Ufe_Ui/Term/Term.slice.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Term.Splitted">
+            <param name="Local" value="Classes/PP_Ufe_Ui/Term/Term.Splitted.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Term.StartBackspacePressed">
+            <param name="Local" value="Classes/PP_Ufe_Ui/Term/Term.StartBackspacePressed.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Term.StartOffset">
+            <param name="Local" value="Classes/PP_Ufe_Ui/Term/Term.StartOffset.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Конструктор Term">
+            <param name="Local" value="Classes/PP_Ufe_Ui/Term/Constructor_Term.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TermEdit">
+          <param name="Local" value="Classes/PP_Ufe_Ui/TermEdit/TermEdit.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="TermEdit.ACStyle">
+            <param name="Local" value="Classes/PP_Ufe_Ui/TermEdit/TermEdit.ACStyle.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="TermEdit.addACTerms">
+            <param name="Local" value="Classes/PP_Ufe_Ui/TermEdit/TermEdit.addACTerms.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="TermEdit.CaretPos">
+            <param name="Local" value="Classes/PP_Ufe_Ui/TermEdit/TermEdit.CaretPos.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="TermEdit.CaretPosition">
+            <param name="Local" value="Classes/PP_Ufe_Ui/TermEdit/TermEdit.CaretPosition.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="TermEdit.getCaretMetadata">
+            <param name="Local" value="Classes/PP_Ufe_Ui/TermEdit/TermEdit.getCaretMetadata.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="TermEdit.getCurrentTermText">
+            <param name="Local" value="Classes/PP_Ufe_Ui/TermEdit/TermEdit.getCurrentTermText.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="TermEdit.getCursorOffset">
+            <param name="Local" value="Classes/PP_Ufe_Ui/TermEdit/TermEdit.getCursorOffset.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="TermEdit.getCursorPosition">
+            <param name="Local" value="Classes/PP_Ufe_Ui/TermEdit/TermEdit.getCursorPosition.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="TermEdit.getFormula">
+            <param name="Local" value="Classes/PP_Ufe_Ui/TermEdit/TermEdit.getFormula.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="TermEdit.getLength">
+            <param name="Local" value="Classes/PP_Ufe_Ui/TermEdit/TermEdit.getLength.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="TermEdit.getSelectedTerm">
+            <param name="Local" value="Classes/PP_Ufe_Ui/TermEdit/TermEdit.getSelectedTerm.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="TermEdit.getTerms">
+            <param name="Local" value="Classes/PP_Ufe_Ui/TermEdit/TermEdit.getTerms.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="TermEdit.IgnoreTerms">
+            <param name="Local" value="Classes/PP_Ufe_Ui/TermEdit/TermEdit.IgnoreTerms.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="TermEdit.insertData">
+            <param name="Local" value="Classes/PP_Ufe_Ui/TermEdit/TermEdit.insertData.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="TermEdit.insertString">
+            <param name="Local" value="Classes/PP_Ufe_Ui/TermEdit/TermEdit.insertString.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="TermEdit.insertTerm">
+            <param name="Local" value="Classes/PP_Ufe_Ui/TermEdit/TermEdit.insertTerm.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="TermEdit.putCustom">
+            <param name="Local" value="Classes/PP_Ufe_Ui/TermEdit/TermEdit.putCustom.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="TermEdit.putLiteral">
+            <param name="Local" value="Classes/PP_Ufe_Ui/TermEdit/TermEdit.putLiteral.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="TermEdit.putTerm">
+            <param name="Local" value="Classes/PP_Ufe_Ui/TermEdit/TermEdit.putTerm.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="TermEdit.Terms">
+            <param name="Local" value="Classes/PP_Ufe_Ui/TermEdit/TermEdit.Terms.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="TermEdit.TextChanged">
+            <param name="Local" value="Classes/PP_Ufe_Ui/TermEdit/TermEdit.TermsChanged.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="TermEdit.updateTerms">
+            <param name="Local" value="Classes/PP_Ufe_Ui/TermEdit/TermEdit.updateTerms.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Конструктор TermEdit">
+            <param name="Local" value="Classes/PP_Ufe_Ui/TermEdit/Constructor_TermEdit.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TransformDialog">
+          <param name="Local" value="Classes/PP_Ufe_Ui/TransformDialog/TransformDialog.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Конструктор TransformDialog">
+            <param name="Local" value="Classes/PP_Ufe_Ui/TransformDialog/Constructor_TransformDialog.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TransformDialogDimPanel">
+          <param name="Local" value="Classes/PP_Ufe_Ui/TransformDialogDimPanel/TransformDialogDimPanel.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="TransformDialogDimPanel.DimensionExpanded">
+            <param name="Local" value="Classes/PP_Ufe_Ui/TransformDialogDimPanel/TransformDialogDimPanel.DimensionExpanded.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="TransformDialogDimPanel.DimensionModeChanged">
+            <param name="Local" value="Classes/PP_Ufe_Ui/TransformDialogDimPanel/TransformDialogDimPanel.DimensionModeChanged.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="TransformDialogDimPanel.getExpression">
+            <param name="Local" value="Classes/PP_Ufe_Ui/TransformDialogDimPanel/TransformDialogDimPanel.getExpression.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="TransformDialogDimPanel.TreeDblClick">
+            <param name="Local" value="Classes/PP_Ufe_Ui/TransformDialogDimPanel/TransformDialogDimPanel.TreeDblClick.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="TransformDialogDimPanel.TreeDragStart">
+            <param name="Local" value="Classes/PP_Ufe_Ui/TransformDialogDimPanel/TransformDialogDimPanel.TreeDragStart.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="TransformDialogDimPanel.TreeSelectionChanged">
+            <param name="Local" value="Classes/PP_Ufe_Ui/TransformDialogDimPanel/TransformDialogDimPanel.TreeSelectionChanged.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Конструктор TransformDialogDimPanel">
+            <param name="Local" value="Classes/PP_Ufe_Ui/TransformDialogDimPanel/Constructor_TransformDialogDimPanel.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TransformDialogLeftPanel">
+          <param name="Local" value="Classes/PP_Ufe_Ui/TransformDialogLeftPanel/TransformDialogLeftPanel.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="TransformDialogLeftPanel.ExpressionCreated">
+            <param name="Local" value="Classes/PP_Ufe_Ui/TransformDialogLeftPanel/TransformDialogLeftPanel.ExpressionCreated.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="TransformDialogLeftPanel.getInsertButton">
+            <param name="Local" value="Classes/PP_Ufe_Ui/TransformDialogLeftPanel/TransformDialogLeftPanel.getInsertButton.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="TransformDialogLeftPanel.getOpenedDataSources">
+            <param name="Local" value="Classes/PP_Ufe_Ui/TransformDialogLeftPanel/TransformDialogLeftPanel.getOpenedDataSources.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="TransformDialogLeftPanel.getSummaryExpression">
+            <param name="Local" value="Classes/PP_Ufe_Ui/TransformDialogLeftPanel/TransformDialogLeftPanel.getSummaryExpression.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Конструктор TransformDialogLeftPanel">
+            <param name="Local" value="Classes/PP_Ufe_Ui/TransformDialogLeftPanel/Constructor_TransformDialogLeftPanel.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TransformFilterDialog">
+          <param name="Local" value="Classes/PP_Ufe_Ui/TransformFilterDialog/TransformFilterDialog.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="TransformFilterDialog.CloseButtonClicked">
+            <param name="Local" value="Classes/PP_Ufe_Ui/TransformFilterDialog/TransformFilterDialog.CloseButtonClicked.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="TransformFilterDialog.getDynamicValue">
+            <param name="Local" value="Classes/PP_Ufe_Ui/TransformFilterDialog/TransformFilterDialog.getDynamicValue.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="TransformFilterDialog.getFilterName">
+            <param name="Local" value="Classes/PP_Ufe_Ui/TransformFilterDialog/TransformFilterDialog.getFilterName.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Конструктор TransformFilterDialog">
+            <param name="Local" value="Classes/PP_Ufe_Ui/TransformFilterDialog/Constructor_TransformFilterDialog.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="WbkTransformDialog">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="WbkTransformDialog.ApplyFormula">
+            <param name="Local" value="Classes/PP_Ufe_Ui/WbkTransformDialog/WbkTransformDialog.ApplyFormula.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="WbkTransformDialog.CreateTempSerie">
+            <param name="Local" value="Classes/PP_Ufe_Ui/WbkTransformDialog/WbkTransformDialog.CreateTempSerie.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="WbkTransformDialog.onTempSerieCreated">
+            <param name="Local" value="Classes/PP_Ufe_Ui/WbkTransformDialog/WbkTransformDialog.onTempSerieCreated.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Конструктор WbkTransformDialog">
+            <param name="Local" value="Classes/PP_Ufe_Ui/WbkTransformDialog/Constructor_WbkTransformDialog.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Перечисления">
+        <param name="Local" value="Classes/PP.Ufe.Ui.htm#642b3b9347ca42c9b00b820c00c373fa=2">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="CalcDirection">
+          <param name="Local" value="Enums/PP.Ufe.Ui.CalcDirection.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="CalcMethod">
+          <param name="Local" value="Enums/PP.Ufe.Ui.CalcMethod.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="DimCalendarLvl">
+          <param name="Local" value="Enums/PP.Ufe.Ui.DimCalendarLvl.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="PP.Ufe">
+      <param name="Local" value="Classes/PP.Ufe.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Классы">
+        <param name="Local" value="Classes/PP.Ufe.htm#642b3b9347ca42c9b00b820c00c373fa=1">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="ExpressionService">
+          <param name="Local" value="Classes/PP_Ufe/ExpressionService/ExpressionService.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="ExpressionService.beginBatch">
+            <param name="Local" value="Classes/PP_Ufe/ExpressionService/ExpressionService.beginBatch.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="ExpressionService.endBatch">
+            <param name="Local" value="Classes/PP_Ufe/ExpressionService/ExpressionService.endBatch.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="ExpressionService.getIsBatchMode">
+            <param name="Local" value="Classes/PP_Ufe/ExpressionService/ExpressionService.getIsBatchMode.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="ExpressionService.GetTerms">
+            <param name="Local" value="Classes/PP_Ufe/ExpressionService/ExpressionService.GetTerms.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="ExpressionService.GetTermsErr">
+            <param name="Local" value="Classes/PP_Ufe/ExpressionService/ExpressionService.GetTermsErr.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="ExpressionService.getUfeFunctions">
+            <param name="Local" value="Classes/PP_Ufe/ExpressionService/ExpressionService.getUfeFunctions.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="ExpressionService.send">
+            <param name="Local" value="Classes/PP_Ufe/ExpressionService/ExpressionService.send.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="ExpressionService.setExpression">
+            <param name="Local" value="Classes/PP_Ufe/ExpressionService/ExpressionService.setExpression.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Конструктор ExpressionService">
+            <param name="Local" value="Classes/PP_Ufe/ExpressionService/Constructor_ExpressionService.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MetaSource">
+          <param name="Local" value="Classes/PP_Ufe/MetaSource/MetaSource.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="MetaSource.AllowHasData">
+            <param name="Local" value="Classes/PP_Ufe/MetaSource/MetaSource.AllowHasData.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="MetaSource.AllowSelection">
+            <param name="Local" value="Classes/PP_Ufe/MetaSource/MetaSource.AllowSelection.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="MetaSource.ChildEls">
+            <param name="Local" value="Classes/PP_Ufe/MetaSource/MetaSource.ChildEls.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="MetaSource.ChildrenReqCount">
+            <param name="Local" value="Classes/PP_Ufe/MetaSource/MetaSource.ChildrenReqCount.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="MetaSource.getAttributeIndex">
+            <param name="Local" value="Classes/PP_Ufe/MetaSource/MetaSource.getAttributeIndex.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="MetaSource.getAttributes">
+            <param name="Local" value="Classes/PP_Ufe/MetaSource/MetaSource.getAttributes.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="MetaSource.getChildrenCount">
+            <param name="Local" value="Classes/PP_Ufe/MetaSource/MetaSource.getChildrenCount.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="MetaSource.getDefaultFilter">
+            <param name="Local" value="Classes/PP_Ufe/MetaSource/MetaSource.getDefaultFilter.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="MetaSource.getElem">
+            <param name="Local" value="Classes/PP_Ufe/MetaSource/MetaSource.getElem.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="MetaSource.getElems">
+            <param name="Local" value="Classes/PP_Ufe/MetaSource/MetaSource.getElems.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="MetaSource.getIsEmpty">
+            <param name="Local" value="Classes/PP_Ufe/MetaSource/MetaSource.getIsEmpty.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="MetaSource.getPredefinedAttributeId">
+            <param name="Local" value="Classes/PP_Ufe/MetaSource/MetaSource.getPredefinedAttributeId.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="MetaSource.IsDataLoading">
+            <param name="Local" value="Classes/PP_Ufe/MetaSource/MetaSource.IsDataLoading.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="MetaSource.isMdLoaded">
+            <param name="Local" value="Classes/PP_Ufe/MetaSource/MetaSource.isMdLoaded.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="MetaSource.setAllElements">
+            <param name="Local" value="Classes/PP_Ufe/MetaSource/MetaSource.setAllElements.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="MetaSource.TotalCount">
+            <param name="Local" value="Classes/PP_Ufe/MetaSource/MetaSource.TotalCount.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Конструктор MetaSource">
+            <param name="Local" value="Classes/PP_Ufe/MetaSource/Constructor_MetaSource.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MetaSrv">
+          <param name="Local" value="Classes/PP_Ufe/MetaSrv/MetaSrv.htm">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="MetaSrv.beginBatch">
+            <param name="Local" value="Classes/PP_Ufe/MetaSrv/MetaSrv.beginBatch.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="MetaSrv.ChildLoaded">
+            <param name="Local" value="Classes/PP_Ufe/MetaSrv/MetaSrv.ChildLoaded.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="MetaSrv.DimCleared">
+            <param name="Local" value="Classes/PP_Ufe/MetaSrv/MetaSrv.DimCleared.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="MetaSrv.DimClosed">
+            <param name="Local" value="Classes/PP_Ufe/MetaSrv/MetaSrv.DimClosed.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="MetaSrv.DimGetMetadataComplete">
+            <param name="Local" value="Classes/PP_Ufe/MetaSrv/MetaSrv.DimGetMetadataComplete.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="MetaSrv.DimOpened">
+            <param name="Local" value="Classes/PP_Ufe/MetaSrv/MetaSrv.DimOpened.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="MetaSrv.endBatch">
+            <param name="Local" value="Classes/PP_Ufe/MetaSrv/MetaSrv.endBatch.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="MetaSrv.getAllElements">
+            <param name="Local" value="Classes/PP_Ufe/MetaSrv/MetaSrv.getAllElements.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="MetaSrv.getChildren">
+            <param name="Local" value="Classes/PP_Ufe/MetaSrv/MetaSrv.getChildren.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="MetaSrv.getEls">
+            <param name="Local" value="Classes/PP_Ufe/MetaSrv/MetaSrv.getEls.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="MetaSrv.getIsBatchMode">
+            <param name="Local" value="Classes/PP_Ufe/MetaSrv/MetaSrv.getIsBatchMode.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="MetaSrv.getMetadata">
+            <param name="Local" value="Classes/PP_Ufe/MetaSrv/MetaSrv.getMetadata.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="MetaSrv.getPathToKey">
+            <param name="Local" value="Classes/PP_Ufe/MetaSrv/MetaSrv.getPathToKey.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="MetaSrv.getSpecialImageListUrl">
+            <param name="Local" value="Classes/PP_Ufe/MetaSrv/MetaSrv.getSpecialImageListUrl.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="MetaSrv.SelectionChanged">
+            <param name="Local" value="Classes/PP_Ufe/MetaSrv/MetaSrv.SelectionChanged.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="MetaSrv.send">
+            <param name="Local" value="Classes/PP_Ufe/MetaSrv/MetaSrv.send.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Конструктор MetaSrv">
+            <param name="Local" value="Classes/PP_Ufe/MetaSrv/Constructor_MetaSrv.htm">
+            <param name="ImageNumber" value="11">
+          </object>
+          </ul>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Перечисления">
+        <param name="Local" value="Classes/PP.Ufe.htm#642b3b9347ca42c9b00b820c00c373fa=2">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="MetaTreeDisplayMode">
+          <param name="Local" value="Enums/PP.Ufe.MetaTreeDisplayMode.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="TransfTreeMode">
+          <param name="Local" value="Enums/PP.Ufe.TransfTreeMode.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      </ul>
+    </ul>
+</ul>
+</html>

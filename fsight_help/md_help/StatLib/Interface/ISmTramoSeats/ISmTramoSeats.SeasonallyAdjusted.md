@@ -1,0 +1,45 @@
+﻿# ISmTramoSeats.SeasonallyAdjusted
+
+ISmTramoSeats.SeasonallyAdjusted
+-
+
+
+# ISmTramoSeats.SeasonallyAdjusted
+
+
+## Синтаксис
+
+
+SeasonallyAdjusted: Array;
+
+
+## Описание
+
+
+Свойство SeasonallyAdjusted
+ возвращает сезонно скорректированный ряд.
+
+
+## Комментарии
+
+
+Для получения ряда, содержащего сезонный фактор, используйте свойство
+ [ISmTramoSeats.SeasonalFactors](ISmTramoSeats.SeasonalFactors.htm).
+
+
+## Пример
+
+
+Использование свойства приведено в примере для [ISmTramoSeats.D](ISmTramoSeats.D.htm).
+
+
+См. также:
+
+
+[ISmTramoSeats](ISmTramoSeats.htm)
+
+
+		Справочная
+		 система на версию ERROR: Variable (Version_lts) is undefined.
+		 от 18/08/2025,
+		 © ООО «ФОРСАЙТ»,

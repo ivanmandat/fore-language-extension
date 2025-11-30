@@ -1,0 +1,506 @@
+<html>
+<!-- Sitemap 1.0 -->
+<object type="text/site properties">
+  <param name="SiteType" value="toc">
+  <param name="Image Width" value="16">
+  <param name="Window Styles" value="0x800027">
+  <param name="ExWindow Styles" value="0x100">
+</object>
+<ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Диаграмма">
+    <param name="Local" value="Diagrams.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Настройка компонентов диаграммы">
+      <param name="Local" value="UiDiagrams_basic_concept.htm">
+      <param name="ImageNumber" value="11">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Типы диаграмм">
+      <param name="Local" value="Type_diagrams/UiDiagrams_Type_diagrams.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Линейная диаграмма">
+        <param name="Local" value="Type_diagrams/UiDiagrams_lenear.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Гистограмма">
+        <param name="Local" value="Type_diagrams/UiDiagrams_Bar.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Объемная гистограмма с группами">
+        <param name="Local" value="Type_diagrams/3DHistogram_with_Groups.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Диаграмма с областями">
+        <param name="Local" value="Type_diagrams/UiDiagrams_Area.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Смешанная диаграмма">
+        <param name="Local" value="Type_diagrams/UiDiagrams_mixed_diagram.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Точечная диаграмма">
+        <param name="Local" value="Type_diagrams/UiDiagrams_scatter.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Круговая диаграмма">
+        <param name="Local" value="Type_diagrams/UiDiagrams_round.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Вторичная гистограмма">
+        <param name="Local" value="Type_diagrams/UiDiagrams_secondary_histogram.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Вторичная круговая диаграмма">
+        <param name="Local" value="Type_diagrams/UiDiagrams_round_secondary.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Кольцевая диаграмма">
+        <param name="Local" value="Type_diagrams/Doughnut_chart.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Лепестковая диаграмма">
+        <param name="Local" value="Type_diagrams/UiDiagrams_petalous.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Биржевая диаграмма">
+        <param name="Local" value="Type_diagrams/UiDiagrams_birg.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Гистограмма с интервалами колебаний">
+        <param name="Local" value="Type_diagrams/UiDiagrams_BarVibration.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Коробчатая диаграмма">
+        <param name="Local" value="Type_diagrams/Box_chart.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Пузырьковая диаграмма">
+        <param name="Local" value="Type_diagrams/Bubble_Chart.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Ступенчатая диаграмма">
+        <param name="Local" value="Type_diagrams/Stepped_Chart.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Каскадная диаграмма">
+        <param name="Local" value="Type_diagrams/WaterFall_chart.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Настройка общих параметров диаграммы">
+      <param name="Local" value="Params_diagram/UiDiagrams_params_diagram.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Изменение типа диаграммы">
+        <param name="Local" value="Type_diagrams/ChangingChartType.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Настройка стиля диаграммы">
+        <param name="Local" value="UiDiagram_Style.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Настройка ориентации шкалы">
+        <param name="Local" value="UiDiagrams_OrietationScale.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Настройка границы и заливки">
+        <param name="Local" value="Tuning_format/UiDiagrams_tuning_border_and_filling.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Настройка шрифта">
+        <param name="Local" value="Tuning_format/Format_Title/UiDiagrams_FormatTitle_type.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Настройка выравнивания">
+        <param name="Local" value="Tuning_format/UiDiagrams_tuning_alignment.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Настройка дополнительных параметров">
+        <param name="Local" value="Params_diagram/UiDiagrams_extra.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Настройка вторичной диаграммы">
+        <param name="Local" value="Params_diagram/UiDiagrams_secondary_diagram.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Настройка объёмного вида и зазоров">
+      <param name="Local" value="Property_diagramm/UiDiagrams_PropertyDiagramm_Volume.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Настройка объёмного вида диаграммы">
+        <param name="Local" value="Params_diagram/Setup_3DView.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Настройка зазоров между рядами">
+        <param name="Local" value="Params_diagram/Setup_Gaps.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Область диаграммы">
+      <param name="Local" value="Tuning_format/UiDiagrams_tuning_area_digramm.htm">
+      <param name="ImageNumber" value="11">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Область построения">
+      <param name="Local" value="Tuning_format/uidiagrams_tuning_construction_area_digramm.htm">
+      <param name="ImageNumber" value="11">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Заголовки">
+      <param name="Local" value="Params_diagram/UiDiagrams_titles.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Настройка границы и заливки">
+        <param name="Local" value="Tuning_format/UiDiagrams_tuning_border_and_filling.htm#642b3b9347ca42c9b00b820c00c373fa=1">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Настройка выравнивания заголовка">
+        <param name="Local" value="Tuning_format/Chart_Title_Alignment.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Настройка шрифта">
+        <param name="Local" value="Tuning_format/Format_Title/UiDiagrams_FormatTitle_type.htm#642b3b9347ca42c9b00b820c00c373fa=1">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Дополнительные настройки формата заголовка">
+        <param name="Local" value="Tuning_format/Format_Title/UiDiagrams_FormatTitle_extra.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Оси диаграммы">
+      <param name="Local" value="Params_diagram/UiDiagrams_Axis.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Настройка шкалы отчета">
+        <param name="Local" value="Tuning_format/UiDiagrams_Scale.htm">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Настройка шкалы оси X">
+          <param name="Local" value="Tuning_format/Format_Axis/FormatAxis_scale.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Настройка шкалы иерархической оси Х">
+          <param name="Local" value="Tuning_format/Format_Axis/UiDiagrams_FormatAxis_Hierarchical_scale.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Настройка шкалы оси Y">
+          <param name="Local" value="Tuning_format/Format_Axis/UiDiagrams_FormatAxis_scale_Hierarchical.htm">
+          <param name="ImageNumber" value="11">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Настройка общих параметров оси">
+        <param name="Local" value="Tuning_format/Format_Axis/FormatAxis_View.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Ряд данных">
+      <param name="Local" value="Series.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Общие настройки ряда данных">
+        <param name="Local" value="Tuning_format/Format_line/Settings_DataSeries.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Редактирование данных ряда">
+        <param name="Local" value="Edit_DataSeries.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Настройка линий графика">
+        <param name="Local" value="Tuning_format/Format_line/Chart_Lines_Setup.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Настройка маркеров">
+        <param name="Local" value="Tuning_format/Format_line/Markers_Setup.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Настройка типа ряда">
+        <param name="Local" value="Tuning_format/Format_line/Series_Type.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Настройка наименования объединенного ряда">
+        <param name="Local" value="Tuning_format/Format_line/Merged_Series_Name.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Настройка порядка рядов">
+        <param name="Local" value="Params_diagram/Series_Order.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Настройка группы рядов">
+        <param name="Local" value="Params_diagram/Series_Group.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Настройка точки ряда данных">
+        <param name="Local" value="Tuning_format/Format_line/Data_Series_Point.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Линия тренда">
+      <param name="Local" value="look_and_feel/Report/Trend_Lines.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Настройка линии тренда">
+        <param name="Local" value="look_and_feel/Report/TrendLines_Property.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Линии уровня">
+      <param name="Local" value="Tuning_format/Format_Axis/UiDiagrams_FormatAxis_Levels.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Настройка линии уровня">
+        <param name="Local" value="Tuning_format/Format_Axis/LevelLines_Property.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Коридор диаграммы">
+      <param name="Local" value="UiDiagrams_corridors.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Настройка коридора диаграммы">
+        <param name="Local" value="UiDiagrams_CorridorsProperty.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Подписи данных">
+      <param name="Local" value="Property_diagramm/UiDiagrams_PropertyDiagramm_Label.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Настройка подписей данных">
+        <param name="Local" value="Params_diagram/UiDiagrams__DataTitle.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Настройка формата подписей">
+        <param name="Local" value="Params_diagram/Label_Format.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Настройка формата линии выноски/указателя">
+        <param name="Local" value="Params_diagram/Callout_Pointer_Line_Format.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Настройка положения подписи">
+        <param name="Local" value="Params_diagram/Label_Position_Setup.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Шаблоны">
+        <param name="Local" value="Templates_in_labels.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Легенда">
+      <param name="Local" value="Property_diagramm/UiDiagrams_PropertyDiagramm_legend.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Настройка легенды">
+        <param name="Local" value="Params_diagram/UiDiagrams_legend.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Общие настройки оформления легенды">
+        <param name="Local" value="Tuning_format/Format_Legend/UiDiagrams_FormatLegend_common.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Всплывающие подсказки">
+      <param name="Local" value="Params_diagram/Tooltips.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Настройка всплывающих подсказок">
+        <param name="Local" value="Params_diagram/UiDiagrams_promthing.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Работа с данными диаграммы">
+      <param name="Local" value="Working_with_data/Working_with_data.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Детализация и обобщение данных рядов">
+        <param name="Local" value="Working_with_data/Series_drill_down.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Нормализация отображаемых данных">
+        <param name="Local" value="Working_with_data/Normalization.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Отображение вычисляемых значений">
+        <param name="Local" value="Working_with_data/Showing_Calculated_Values.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Исключение рядов из диаграммы">
+        <param name="Local" value="Working_with_data/Excluding_Series_from_Chart.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Изменение способа передачи данных в диаграмму">
+        <param name="Local" value="Working_with_data/Rotate_data_source.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Примеры диаграмм">
+      <param name="Local" value="Examples/Diagram_examples.htm">
+      <param name="x-condition" value="Online">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Диаграмма «Динамика инвестиций»">
+        <param name="Local" value="Examples/Example_investment_dynamics.htm">
+        <param name="ImageNumber" value="11">
+        <param name="x-condition" value="Online">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Диаграмма «Демографическая ситуация»">
+        <param name="Local" value="Examples/Example_population_dynamics.htm">
+        <param name="ImageNumber" value="11">
+        <param name="x-condition" value="Online">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Диаграмма «Демографические потери»">
+        <param name="Local" value="Examples/Example_demographic_loss.htm">
+        <param name="ImageNumber" value="11">
+        <param name="x-condition" value="Online">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Диаграмма «Доходы бюджета»">
+        <param name="Local" value="Examples/Example_budget_income.htm">
+        <param name="ImageNumber" value="11">
+        <param name="x-condition" value="Online">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Диаграмма «Прогноз реального валового продукта»">
+        <param name="Local" value="Examples/Example_gross_product_forecast.htm">
+        <param name="ImageNumber" value="11">
+        <param name="x-condition" value="Online">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Диаграмма «Эффективность исполнительного производства»">
+        <param name="Local" value="Examples/Example_executory_process_efficiency.htm">
+        <param name="ImageNumber" value="11">
+        <param name="x-condition" value="Online">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Диаграмма «Как арбитражные суды рассматривают иски о взыскании убытков с приставов»">
+        <param name="Local" value="Examples/Example_treatment_of_claims_for_recovery_of_civil_damages.htm">
+        <param name="ImageNumber" value="11">
+        <param name="x-condition" value="Online">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Диаграмма «Взыскание долгов»">
+        <param name="Local" value="Examples/Example_collection_of_debts.htm">
+        <param name="ImageNumber" value="11">
+        <param name="x-condition" value="Online">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Диаграмма «Доля рынка пассивов»">
+        <param name="Local" value="Examples/Example_liability_market_share.htm">
+        <param name="ImageNumber" value="11">
+        <param name="x-condition" value="Online">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Диаграмма «Распределение оценок»">
+        <param name="Local" value="Examples/Example_assessment_distribution.htm">
+        <param name="ImageNumber" value="11">
+        <param name="x-condition" value="Online">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Диаграмма «Скорость ветра»">
+        <param name="Local" value="Examples/Example_wind_speed.htm">
+        <param name="ImageNumber" value="11">
+        <param name="x-condition" value="Online">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Диаграмма «Воронка продаж»">
+        <param name="Local" value="Examples/Example_marketing_funnel.htm">
+        <param name="ImageNumber" value="11">
+        <param name="x-condition" value="Online">
+      </object>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Вопросы и ответы">
+      <param name="Local" value="FAQ/UiDiagrams_FAQ.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Как настроить отображение итоговых значений по столбцам диаграммы">
+        <param name="Local" value="FAQ/View_Chart_Columns_Totals.htm">
+        <param name="ImageNumber" value="11">
+      </object>
+      </ul>
+    </ul>
+</ul>
+</html>
