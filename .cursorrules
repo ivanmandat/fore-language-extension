@@ -72,33 +72,50 @@ End
 
 ## Common Interfaces
 
+The extension includes offline documentation for **4900+ interfaces and classes**. Key interfaces:
+
 ### Report Interfaces
 - `IPrxReport` - Main report object
 - `IPrxControl` - Form control
 - `IPrxSheet` - Report sheet
 - `IPrxControls` - Collection of controls
+- `IPrxDataArea` - Data area
+- `IEaxGrid` - Analytical grid
 
 ### Metabase Interfaces
 - `IMetabase` - Metabase instance
 - `IMetabaseObjectDescriptor` - Object metadata
 - `IMetabaseObjectInstance` - Opened object instance
 - `IMetabaseObjectParamValues` - Object parameters
+- `IMetabaseUser` - User object
+- `IMetabaseGroup` - Group object
 
 ### Dimension Interfaces
 - `IDimInstance` - Dimension instance
 - `IDimSelection` - Selected elements
 - `IDimElements` - Collection of elements
 - `IDimElement` - Single element
+- `IDimHierarchy` - Dimension hierarchy
 
 ### Cube Interfaces
 - `ICubeInstance` - Cube instance
 - `ICubeSegment` - Cube segment
 - `ICubeSegmentContainer` - Segment container
+- `ICubeSegments` - Collection of segments
 
 ### Database Interfaces
 - `IDatabaseInstance` - Database connection
 - `IDalCommand` - SQL command
 - `IDalCursor` - Query result cursor
+- `IDalConnection` - Database connection
+- `IDalField` - Field in cursor
+
+### RDS Interfaces
+- `IRdsDictionary` - RDS dictionary
+- `IRdsDictionaryInstance` - Dictionary instance
+- `IRdsDictionaryElement` - Dictionary element
+
+**Note**: Hover over any interface or class name in VS Code to see its full documentation, properties, and methods. All documentation is available offline.
 
 ## Event Handlers
 

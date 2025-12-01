@@ -1,209 +1,92 @@
 import * as vscode from 'vscode';
-import * as https from 'https';
-import * as http from 'http';
 import * as path from 'path';
 import * as fs from 'fs';
+import { ForeCompletionProvider, setDocsIndex } from './completion-provider';
 
-// Кэш для документации
-const docCache = new Map<string, { description: string; url: string }>();
+// Тип для записи в индексе документации
+interface DocIndexEntry {
+	path: string;
+	description: string;
+	properties: string[];
+	methods: string[];
+}
 
-// Загружаем маппинг интерфейсов
-let interfaceDocs: Record<string, { url: string; description?: string }> = {};
+// Загружаем индекс документации
+let docsIndex: Record<string, DocIndexEntry> = {};
 
-function loadInterfaceDocs() {
+// Путь к директории с markdown документацией
+let docsBasePath: string | null = null;
+
+function loadDocsIndex() {
 	try {
-		// Пробуем несколько путей для поиска файла
-		const possiblePaths = [
-			path.join(__dirname, 'interface-docs.json'),
-			path.join(__dirname, '..', 'src', 'interface-docs.json'),
-			path.join(__dirname, '..', 'interface-docs.json')
+		// Пробуем несколько путей для поиска файла индекса
+		const possibleIndexPaths = [
+			path.join(__dirname, 'docs-index.json'),
+			path.join(__dirname, '..', 'src', 'docs-index.json'),
+			path.join(__dirname, '..', 'docs-index.json')
 		];
 		
-		for (const docsPath of possiblePaths) {
-			if (fs.existsSync(docsPath)) {
-				const content = fs.readFileSync(docsPath, 'utf8');
-				interfaceDocs = JSON.parse(content);
-				console.log(`Loaded interface docs from: ${docsPath}`);
+		for (const indexPath of possibleIndexPaths) {
+			if (fs.existsSync(indexPath)) {
+				const content = fs.readFileSync(indexPath, 'utf8');
+				docsIndex = JSON.parse(content);
+				console.log(`Loaded docs index from: ${indexPath}`);
+				
+				// Определяем базовый путь к документации
+				const possibleDocsPaths = [
+					path.join(__dirname, '..', '..', 'fsight_help', 'md_help'),
+					path.join(__dirname, '..', 'fsight_help', 'md_help'),
+					path.join(process.cwd(), 'fsight_help', 'md_help')
+				];
+				
+				for (const docsPath of possibleDocsPaths) {
+					if (fs.existsSync(docsPath)) {
+						docsBasePath = docsPath;
+						console.log(`Found docs base path: ${docsBasePath}`);
+						break;
+					}
+				}
+				
 				return;
 			}
 		}
 		
-		console.log('Interface docs file not found, using URL pattern generation');
+		console.log('Docs index file not found');
 	} catch (error) {
-		console.error('Error loading interface docs:', error);
+		console.error('Error loading docs index:', error);
 	}
 }
 
 /**
- * Формирует URL для интерфейса на основе паттерна
+ * Получает документацию из офлайн markdown файла
  */
-function getInterfaceUrl(typeName: string): string | null {
-	// Проверяем маппинг
-	if (interfaceDocs[typeName] && interfaceDocs[typeName].url) {
-		return interfaceDocs[typeName].url;
-	}
-
-	// Формируем URL по паттерну: https://help.fsight.ru/ru/mergedProjects/kesom/interface/{lowercase}/{lowercase}.htm
-	// Для интерфейсов начинающихся с I
-	if (typeName.startsWith('I') && typeName.length > 1) {
-		const interfaceName = typeName.substring(1); // Убираем I
-		const lowerName = interfaceName.toLowerCase();
-		return `https://help.fsight.ru/ru/mergedProjects/kesom/interface/${lowerName}/${lowerName}.htm`;
-	}
-
-	// Для классов, заканчивающихся на Class
-	if (typeName.endsWith('Class')) {
-		const className = typeName.replace('Class', '');
-		const lowerName = className.toLowerCase();
-		return `https://help.fsight.ru/ru/mergedProjects/kesom/interface/${lowerName}/${lowerName}.htm`;
-	}
-
-	return null;
-}
-
-/**
- * Получает документацию с сайта help.fsight.ru
- */
-async function fetchDocumentation(typeName: string): Promise<{ description: string; url: string } | null> {
-	// Проверяем кэш
-	if (docCache.has(typeName)) {
-		return docCache.get(typeName)!;
-	}
-
-	const url = getInterfaceUrl(typeName);
-	if (!url) {
+function getDocumentation(typeName: string): DocIndexEntry | null {
+	if (!docsIndex[typeName]) {
 		return null;
 	}
+	
+	return docsIndex[typeName];
+}
 
+/**
+ * Читает markdown файл и возвращает его содержимое
+ */
+function readMarkdownFile(relativePath: string): string | null {
+	if (!docsBasePath) {
+		return null;
+	}
+	
+	const fullPath = path.join(docsBasePath, relativePath);
+	
 	try {
-		// Загружаем страницу документации
-		const html = await fetchUrl(url);
-		
-		if (html) {
-			// Парсим HTML и извлекаем описание
-			const description = extractDescription(html, typeName);
-			if (description) {
-				const result = { description, url };
-				docCache.set(typeName, result);
-				return result;
-			}
+		if (fs.existsSync(fullPath)) {
+			return fs.readFileSync(fullPath, 'utf8');
 		}
-
-		// Если описание не найдено, но URL есть, возвращаем хотя бы URL
-		const result = { description: '', url };
-		docCache.set(typeName, result);
-		return result;
 	} catch (error) {
-		console.error(`Error fetching documentation for ${typeName}:`, error);
-		// Возвращаем URL даже при ошибке
-		if (url) {
-			return { description: '', url };
-		}
-	}
-
-	return null;
-}
-
-/**
- * Загружает HTML с URL с таймаутом
- */
-function fetchUrl(url: string, timeout: number = 3000): Promise<string> {
-	return new Promise((resolve, reject) => {
-		const protocol = url.startsWith('https:') ? https : http;
-		
-		const request = protocol.get(url, (res) => {
-			// Проверяем статус код
-			if (res.statusCode !== 200) {
-				reject(new Error(`HTTP ${res.statusCode}`));
-				return;
-			}
-			
-			let data = '';
-			
-			res.on('data', (chunk) => {
-				data += chunk;
-			});
-			
-			res.on('end', () => {
-				resolve(data);
-			});
-		});
-		
-		request.on('error', (err) => {
-			reject(err);
-		});
-		
-		// Таймаут
-		setTimeout(() => {
-			request.destroy();
-			reject(new Error('Request timeout'));
-		}, timeout);
-	});
-}
-
-/**
- * Извлекает описание из HTML страницы справки
- */
-function extractDescription(html: string, typeName: string): string | null {
-	// Удаляем скрипты и стили
-	html = html.replace(/<script[^>]*>[\s\S]*?<\/script>/gi, '');
-	html = html.replace(/<style[^>]*>[\s\S]*?<\/style>/gi, '');
-	
-	// 1. Ищем секцию "Описание" (Description) - это основной источник
-	const descHeadingMatch = html.match(/<h[1-6][^>]*>[\s]*Описание[\s]*<\/h[1-6]>/i);
-	if (descHeadingMatch) {
-		const descIndex = html.indexOf(descHeadingMatch[0]);
-		const afterDesc = html.substring(descIndex + descHeadingMatch[0].length);
-		// Ищем первый параграф после заголовка "Описание"
-		const paraMatch = afterDesc.match(/<p[^>]*>([\s\S]{20,500})<\/p>/i);
-		if (paraMatch) {
-			const text = cleanHtml(paraMatch[1]);
-			if (text.length > 20) {
-				return text.substring(0, 400);
-			}
-		}
-	}
-	
-	// 2. Ищем в мета-описании
-	const metaDescMatch = html.match(/<meta[^>]*name=["']description["'][^>]*content=["']([^"']+)["']/i);
-	if (metaDescMatch) {
-		const metaText = metaDescMatch[1].trim();
-		if (metaText.length > 20) {
-			return metaText.substring(0, 300);
-		}
-	}
-	
-	// 3. Ищем заголовок с именем интерфейса и следующий параграф
-	const headingMatch = html.match(new RegExp(`<h[1-6][^>]*>.*?${typeName}.*?<\\/h[1-6]>`, 'i'));
-	if (headingMatch) {
-		const headingIndex = html.indexOf(headingMatch[0]);
-		const afterHeading = html.substring(headingIndex + headingMatch[0].length);
-		const paraMatch = afterHeading.match(/<p[^>]*>([\s\S]{20,500})<\/p>/i);
-		if (paraMatch) {
-			const text = cleanHtml(paraMatch[1]);
-			if (text.length > 20) {
-				return text.substring(0, 300);
-			}
-		}
+		console.error(`Error reading markdown file ${fullPath}:`, error);
 	}
 	
 	return null;
-}
-
-/**
- * Очищает HTML от тегов и нормализует пробелы
- */
-function cleanHtml(html: string): string {
-	return html
-		.replace(/<[^>]+>/g, ' ') // Удаляем теги
-		.replace(/&nbsp;/g, ' ')
-		.replace(/&lt;/g, '<')
-		.replace(/&gt;/g, '>')
-		.replace(/&amp;/g, '&')
-		.replace(/&quot;/g, '"')
-		.replace(/&#39;/g, "'")
-		.replace(/\s+/g, ' ') // Нормализуем пробелы
-		.trim();
 }
 
 /**
@@ -830,34 +713,43 @@ class ForeHoverProvider implements vscode.HoverProvider {
 			return null;
 		}
 
-		// Получаем URL для интерфейса
-		const url = getInterfaceUrl(word);
+		// Получаем документацию из индекса
+		const docEntry = getDocumentation(word);
+		
+		if (!docEntry) {
+			return null;
+		}
 		
 		// Показываем базовую информацию
 		const markdown = new vscode.MarkdownString();
 		markdown.appendMarkdown(`**${word}**\n\n`);
 		
-		if (url) {
-			// Пробуем получить документацию с таймаутом
-			try {
-				const doc = await Promise.race([
-					fetchDocumentation(word),
-					new Promise<{ description: string; url: string } | null>((resolve) => setTimeout(() => resolve(null), 2000))
-				]);
-				
-				if (doc && doc.description) {
-					markdown.appendText(doc.description);
-					markdown.appendMarkdown(`\n\n`);
-				}
-				
-				markdown.appendMarkdown(`[📖 Открыть в справке Foresight](${doc?.url || url})`);
-			} catch (error) {
-				// При ошибке показываем хотя бы ссылку
-				markdown.appendMarkdown(`[📖 Открыть в справке Foresight](${url})`);
+		// Добавляем описание
+		if (docEntry.description) {
+			markdown.appendText(docEntry.description);
+			markdown.appendMarkdown(`\n\n`);
+		}
+		
+		// Добавляем свойства, если есть
+		if (docEntry.properties && docEntry.properties.length > 0) {
+			const propsCount = docEntry.properties.length;
+			markdown.appendMarkdown(`**Свойства:** ${propsCount}\n`);
+			if (propsCount <= 10) {
+				markdown.appendMarkdown(`\`${docEntry.properties.slice(0, 10).join('`, `')}\`\n\n`);
+			} else {
+				markdown.appendMarkdown(`\`${docEntry.properties.slice(0, 10).join('`, `')}\` и еще ${propsCount - 10}...\n\n`);
 			}
-		} else {
-			// Если URL не найден, используем поиск
-			markdown.appendMarkdown(`[📖 Поиск в справке Foresight](https://help.fsight.ru/ru/search.html?q=${encodeURIComponent(word)})`);
+		}
+		
+		// Добавляем методы, если есть
+		if (docEntry.methods && docEntry.methods.length > 0) {
+			const methodsCount = docEntry.methods.length;
+			markdown.appendMarkdown(`**Методы:** ${methodsCount}\n`);
+			if (methodsCount <= 10) {
+				markdown.appendMarkdown(`\`${docEntry.methods.slice(0, 10).join('`, `')}\`\n\n`);
+			} else {
+				markdown.appendMarkdown(`\`${docEntry.methods.slice(0, 10).join('`, `')}\` и еще ${methodsCount - 10}...\n\n`);
+			}
 		}
 		
 		markdown.isTrusted = true;
@@ -869,12 +761,19 @@ class ForeHoverProvider implements vscode.HoverProvider {
 export function activate(context: vscode.ExtensionContext) {
 	console.log('FORe Language extension is now active!');
 
-	// Загружаем маппинг интерфейсов
-	loadInterfaceDocs();
+	// Загружаем индекс документации
+	loadDocsIndex();
+	
+	// Передаем индекс в completion provider
+	setDocsIndex(docsIndex);
 
 	// Регистрируем hover provider
 	const hoverProvider = vscode.languages.registerHoverProvider('fore', new ForeHoverProvider());
 	context.subscriptions.push(hoverProvider);
+	
+	// Регистрируем completion provider
+	const completionProvider = vscode.languages.registerCompletionItemProvider('fore', new ForeCompletionProvider(), '.', ':');
+	context.subscriptions.push(completionProvider);
 	
 	// Регистрируем форматтер кода
 	const formatter = vscode.languages.registerDocumentFormattingEditProvider('fore', new ForeDocumentFormattingEditProvider());
@@ -898,7 +797,7 @@ export function activate(context: vscode.ExtensionContext) {
 		updateDiagnostics(e.document);
 	});
 	
-	const openSubscription = vscode.workspace.onDidOpenTextDocument(updateDiagnostics);
+	const openSubscription = vscode.workspace.onDidOpenTextDocument((e: vscode.TextDocument) => updateDiagnostics(e));
 	
 	context.subscriptions.push(diagnosticProvider, changeSubscription, openSubscription);
 	

@@ -3,13 +3,27 @@
 	"name": "FORe",
 	"scopeName": "source.fore",
 	"patterns": [
-		{ "include": "#doc" },
-		{ "include": "#comments" },
-		{ "include": "#strings" },
-		{ "include": "#numbers" },
-		{ "include": "#keywords" },
-		{ "include": "#types" },
-		{ "include": "#operators" }
+		{
+			"include": "#doc"
+		},
+		{
+			"include": "#comments"
+		},
+		{
+			"include": "#strings"
+		},
+		{
+			"include": "#numbers"
+		},
+		{
+			"include": "#keywords"
+		},
+		{
+			"include": "#types"
+		},
+		{
+			"include": "#operators"
+		}
 	],
 	"repository": {
 		"doc": {
@@ -31,7 +45,9 @@
 					"begin": "\\{",
 					"end": "\\}",
 					"patterns": [
-						{ "include": "#comments" }
+						{
+							"include": "#comments"
+						}
 					]
 				},
 				{
@@ -48,7 +64,10 @@
 					"begin": "\"",
 					"end": "\"",
 					"patterns": [
-						{ "name": "constant.character.escape.fore", "match": "\\\\." }
+						{
+							"name": "constant.character.escape.fore",
+							"match": "\\\\."
+						}
 					]
 				}
 			]
@@ -80,16 +99,16 @@
 					"match": "(?i:\\b(Integer|String|Variant|Boolean|DateTime|TimeSpan|ArrayList|HashTable|TriState)\\b)"
 				},
 				{
+					"name": "constant.language.fore",
+					"match": "\\b(True|False|Null)\\b"
+				},
+				{
 					"name": "support.type.interface.fore",
 					"match": "\\bI[A-Z][A-Za-z0-9_]*\\b"
 				},
 				{
-					"name": "support.type.metabase.fore",
-					"match": "\\b(Metabase\\w*|IDal\\w*|ISQL\\w*|IEax\\w*|ITab\\w*|Gx\\w+)\\b"
-				},
-				{
-					"name": "constant.language.fore",
-					"match": "\\b(True|False|Null)\\b"
+					"name": "support.type.class.fore",
+					"match": "\\b([A-Z][A-Za-z0-9_]*Class)\\b"
 				}
 			]
 		},
@@ -143,4 +162,3 @@
 		}
 	}
 }
-

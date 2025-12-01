@@ -2,7 +2,7 @@
 	"name": "foresight-fore-language",
 	"displayName": "foresight FORE Language",
 	"description": "Comprehensive FORe (Foresight BI Desktop) language support: syntax highlighting, 170+ code snippets, code formatting, linting, navigation (Go to Definition, Find References, Symbol search), hover documentation, and custom themes. Includes event handlers, SQL execution, dimension iteration, and type completions for all major interfaces (IPrxReport, IMetabase, ICubeInstance, IDimInstance, etc.).",
-	"version": "0.2.2",
+	"version": "0.3.0",
 	"publisher": "ForeCode",
 	"engines": {
 		"vscode": "^1.60.0"
@@ -11,7 +11,8 @@
 	"scripts": {
 		"vscode:prepublish": "npm run compile",
 		"compile": "tsc -p ./ && npm run copy-resources",
-		"copy-resources": "node -e \"const fs=require('fs'); const path=require('path'); if(fs.existsSync('src/interface-docs.json')){fs.mkdirSync('out',{recursive:true});try{fs.unlinkSync('out/interface-docs.json');}catch(e){}fs.copyFileSync('src/interface-docs.json','out/interface-docs.json');console.log('Copied interface-docs.json');}\"",
+		"build:docs-index": "node scripts/build-docs-index.js",
+		"copy-resources": "node -e \"const fs=require('fs'); const path=require('path'); if(fs.existsSync('src/docs-index.json')){fs.mkdirSync('out',{recursive:true});try{fs.unlinkSync('out/docs-index.json');}catch(e){}fs.copyFileSync('src/docs-index.json','out/docs-index.json');console.log('Copied docs-index.json');}\"",
 		"watch": "tsc -watch -p ./"
 	},
 	"devDependencies": {

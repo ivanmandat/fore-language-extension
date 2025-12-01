@@ -26,14 +26,20 @@ Complete language support for FORe (Foresight BI Desktop): syntax highlighting, 
 - Checks balanced blocks (Begin/End, If/End If, Try/End Try, etc.)
 - Detects unclosed blocks and mismatched closures
 
+### IntelliSense & Autocomplete
+- **IntelliSense**: Auto-completion for interfaces, classes, properties, and methods
+- **Context-aware**: Suggests properties and methods when typing after a dot (e.g., `IPrxReport.`)
+- **Type hints**: Shows type information and descriptions in hover tooltips
+
 ### Navigation
 - **F12** — Go to Definition
 - **Shift+F12** — Find References
 - **Ctrl+Shift+O** — Symbol Search
 
 ### Hover Documentation
-- Hover over interfaces to see descriptions from Foresight help
-- Direct links to official documentation
+- Hover over interfaces and classes to see descriptions from offline Foresight documentation
+- Shows properties and methods count
+- Works completely offline - no internet connection required
 
 ### Themes
 - **FORe Dark** and **FORe Light** themes included
@@ -72,11 +78,22 @@ cur.Close;
 cmd.Close;
 ```
 
+## Documentation
+
+The extension includes offline documentation for 4900+ interfaces and classes extracted from Foresight BI help system. Documentation is indexed and available through:
+- Hover tooltips
+- IntelliSense autocomplete
+- Syntax highlighting
+
+To rebuild the documentation index after updating help files, run:
+```bash
+npm run build:docs-index
+```
+
 ## Limitations
 
 - Basic grammar (no full semantic analysis)
 - Desktop FORe syntax only (not fore.net)
-- Limited IntelliSense (type names only)
 - Single-file navigation
 
 ## Repository
@@ -95,6 +112,7 @@ Includes `.cursorrules`, `AI_CONTEXT.md`, and `AI_USAGE.md` to help AI assistant
 
 ## Version History
 
+- **0.3.0** — Migrated to offline documentation (4900+ interfaces/classes), enhanced IntelliSense with autocomplete for properties and methods, improved syntax highlighting
 - **0.2.2** — Added AI assistant support files (`.cursorrules`, `AI_CONTEXT.md`, `AI_USAGE.md`)
 - **0.2.1** — Fixed linting: improved Then/If detection, ignore Case in SQL strings
 - **0.2.0** — Added formatting, linting, navigation, hover docs, themes

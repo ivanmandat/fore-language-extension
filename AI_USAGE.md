@@ -80,11 +80,12 @@ When asking AI to write FORe code, always mention:
 
 ## Extension Features That Help AI
 
-1. **Syntax Highlighting**: Helps AI understand code structure
-2. **Snippets**: Provide correct patterns
-3. **Hover Documentation**: Shows interface descriptions
-4. **Linting**: Catches syntax errors
-5. **Navigation**: Helps understand code structure
+1. **Syntax Highlighting**: Highlights 4900+ interfaces and classes from documentation
+2. **Snippets**: 170+ code snippets with correct patterns
+3. **Hover Documentation**: Shows interface descriptions, properties, and methods count (offline, no internet required)
+4. **IntelliSense**: Auto-completion for interfaces, classes, properties, and methods
+5. **Linting**: Catches syntax errors
+6. **Navigation**: Helps understand code structure
 
 ## Contributing
 

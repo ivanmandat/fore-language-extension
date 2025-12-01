@@ -215,9 +215,56 @@ End
 - Interfaces start with `I`: `IPrxReport`, `IMetabase`, etc.
 - Classes: `MetabaseClass`, `PrxReport`, `Debug`, `Exception`
 
+## Available Interfaces and Classes
+
+The extension includes offline documentation for **4900+ interfaces and classes** from Foresight BI help system. Key interfaces include:
+
+### Report Interfaces
+- `IPrxReport` - Main report object
+- `IPrxControl` - Form control
+- `IPrxSheet` - Report sheet
+- `IPrxControls` - Collection of controls
+- `IPrxDataArea` - Data area
+- `IPrxDataIsland` - Data island
+- `IEaxGrid` - Analytical grid
+
+### Metabase Interfaces
+- `IMetabase` - Metabase instance
+- `IMetabaseObjectDescriptor` - Object metadata
+- `IMetabaseObjectInstance` - Opened object instance
+- `IMetabaseObjectParamValues` - Object parameters
+- `IMetabaseUser` - User object
+- `IMetabaseGroup` - Group object
+
+### Dimension Interfaces
+- `IDimInstance` - Dimension instance
+- `IDimSelection` - Selected elements
+- `IDimElements` - Collection of elements
+- `IDimElement` - Single element
+- `IDimHierarchy` - Dimension hierarchy
+
+### Cube Interfaces
+- `ICubeInstance` - Cube instance
+- `ICubeSegment` - Cube segment
+- `ICubeSegmentContainer` - Segment container
+- `ICubeSegments` - Collection of segments
+
+### Database Interfaces
+- `IDatabaseInstance` - Database connection
+- `IDalCommand` - SQL command
+- `IDalCursor` - Query result cursor
+- `IDalConnection` - Database connection
+- `IDalField` - Field in cursor
+
+### RDS Interfaces
+- `IRdsDictionary` - RDS dictionary
+- `IRdsDictionaryInstance` - Dictionary instance
+- `IRdsDictionaryElement` - Dictionary element
+
 ## Resources
 
-- Official documentation: https://help.fsight.ru/ru/
-- Interface reference: See `interface-docs.json` in extension
-- Code examples: See `codebase/` folder
+- **Offline Documentation**: The extension includes complete offline documentation for 4900+ interfaces and classes
+- **Hover Tooltips**: Hover over any interface or class name to see its description, properties, and methods
+- **IntelliSense**: Auto-completion is available for all documented interfaces, classes, properties, and methods
+- **Official documentation**: https://help.fsight.ru/ru/ (online reference)
 
